@@ -1,0 +1,115 @@
+{
+  "EB01-001": {
+    "name": "Kouzuki Oden EB01-001",
+    "color": ["red", "green"],
+    "type": "leader",
+    "group": ["Land of Wano", "Kouzuki Clan"],
+    "attribute": "Slash",
+    "life": 4,
+    "power": 5000,
+    "effect": "All of your {Land of Wano} type Character cards without a Counter have a +1000 Counter, according to the rules. [DON!! x1] [When Attacking] If you have a {Land of Wano} type Character with a cost of 5 or more, this Leader gains +1000 power until the start of your next turn.",
+    "images": "Images/EB01/EB01-001.png"
+  },
+  "EB01-002": {
+    "name": "Izo EB01-002",
+    "color": "red",
+    "type": "character",
+    "group": ["Land of Wano", "Whitebeard Pirates"],
+    "attribute": "Ranged",
+    "cost": 5,
+    "power": 7000,
+    "counter": 0,
+    "effect": "[On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters. [On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: If your Leader has the {Land of Wano} or {Whitebeard Pirates} type, give up to 1 of your opponent's Leader or Character cards −2000 power during this turn.",
+    "images": "Images/EB01/EB01-002.png"
+  },
+  "EB01-003": {
+    "name": "Kid & Killer EB01-003",
+    "color": "red",
+    "type": "character",
+    "group": ["Supernovas", "Kid Pirates"],
+    "attribute": ["Slash", "Special"],
+    "cost": 4,
+    "power": 5000,
+    "counter": 0,
+    "effect": "[Rush] [When Attacking] If your opponent has 2 or less Life cards, this Character gains +2000 power during this turn.",
+    "images": "Images/EB01/EB01-003.png"
+  },
+  "EB01-004": {
+    "name": "Koza EB01-004",
+    "color": "red",
+    "type": "character",
+    "group": "Alabasta",
+    "attribute": "Ranged",
+    "cost": 2,
+    "power": 3000,
+    "counter": 1000,
+    "effect": "[When Attacking] You may give your 1 active Leader −5000 power during this turn: Give up to 1 of your opponent's Characters −3000 power during this turn.",
+    "images": "Images/EB01/EB01-004.png"
+  },
+  "EB01-005": {
+    "name": "Doma EB01-005",
+    "color": "red",
+    "type": "character",
+    "group": "Whitebeard Pirates Allies",
+    "attribute": "Slash",
+    "cost": 1,
+    "power": 3000,
+    "counter": 1000,
+    "effect": "None",
+    "images": "Images/EB01/EB01-005.png"
+  },
+  "EB01-006": {
+    "name": "Tony Tony Chopper EB01-006",
+    "color": "red",
+    "type": "character",
+    "group": ["Animal", "Straw Hat Crew"],
+    "attribute": "Strike",
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000,
+    "effect": "[Blocker] [DON!! x2] [When Attacking] Give up to 1 of your opponent's Characters −3000 power during this turn.",
+    "images": "Images/EB01/EB01-006.png"
+  },
+  "EB01-007": {
+    "name": "Yamato EB01-007",
+    "color": "red",
+    "type": "character",
+    "group": "Land of Wano",
+    "attribute": "Strike",
+    "cost": 5,
+    "power": 5000,
+    "counter": 2000,
+    "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "images": "Images/EB01/EB01-007.png"
+  },
+  "EB01-008": {
+    "name": "Little Oars Jr. EB01-008",
+    "color": "red",
+    "type": "character",
+    "group": ["Giant", "Whitebeard Pirates Allies"],
+    "attribute": "Strike",
+    "cost": 6,
+    "power": 7000,
+    "counter": 1000,
+    "effect": "[Once Per Turn] If this Character would be K.O.'d by an effect, you may trash 1 Event or Stage card from your hand instead.",
+    "images": "Images/EB01/EB01-008.png"
+  },
+  "EB01-009": {
+    "name": "Just Shut Up and Come with Us!!!! EB01-009",
+    "color": "red",
+    "type": "event",
+    "group": ["Drum Kingdom", "Straw Hat Crew"],
+    "cost": 1,
+    "effect": "[Counter] Look at 5 cards from the top of your deck and play up to 1 {Animal} type Character card with a cost of 3 or less. Then, place the rest at the bottom of your deck in any order.",
+    "images": "Images/EB01/EB01-009.png"
+  },
+  "EB01-010": {
+    "name": "There's No Way You Could Defeat Me!! EB01-010",
+    "color": "red",
+    "type": "event",
+    "group": ["Water Seven", "Straw Hat Crew"],
+    "cost": 3,
+    "effect": "[Counter] K.O. up to 1 of your opponent's Characters with 6000 base power or less. [Trigger] K.O. up to 1 of your opponent's Characters with 5000 base power or less.",
+    "images": "Images/EB01/EB01-010.png"
+  }
+}
