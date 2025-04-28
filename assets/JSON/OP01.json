@@ -1,6 +1,6 @@
 {
   "OP01-001": {
-    "name": "Roronoa Zoro",
+    "name": "Roronoa Zoro OP01-001",
     "color": "red",
     "type": "leader",
     "group": ["Supernovas", "Straw Hat Crew"],
@@ -11,7 +11,7 @@
     "images": "Images/OP01/OP01-001.png"
   },
   "OP01-002": {
-    "name": "Trafalgar Law",
+    "name": "Trafalgar Law OP01-002",
     "color": ["red", "green"],
     "type": "leader",
     "group": ["Supernovas", "Heart Pirates"],
@@ -22,7 +22,7 @@
     "images": "Images/OP01/OP01-002.png"
   },
   "OP01-003": {
-    "name": "Monkey.D.Luffy",
+    "name": "Monkey.D.Luffy OP01-003",
     "color": ["red", "green"],
     "type": "leader",
     "group": ["Supernovas", "Straw Hat Crew"],
@@ -33,7 +33,7 @@
     "images": "Images/OP01/OP01-003.png"
   },
   "OP01-004": {
-    "name": "Usopp",
+    "name": "Usopp OP01-004",
     "color": "red",
     "type": "character",
     "group": "Straw Hat Crew",
@@ -45,7 +45,7 @@
     "images": "Images/OP01/OP01-004.png"
   },
   "OP01-005": {
-    "name": "Uta",
+    "name": "Uta OP01-005",
     "color": "red",
     "type": "character",
     "group": "FILM",
@@ -57,7 +57,7 @@
     "images": "Images/OP01/OP01-005.png"
   },
   "OP01-006": {
-    "name": "Otama",
+    "name": "Otama OP01-006",
     "color": "red",
     "type": "character",
     "group": "Land of Wano",
@@ -69,7 +69,7 @@
     "images": "Images/OP01/OP01-006.png"
   },
   "OP01-007": {
-    "name": "Caribou",
+    "name": "Caribou OP01-007",
     "color": "red",
     "type": "character",
     "group": ["Supernovas", "Caribou Pirates"],
@@ -81,7 +81,7 @@
     "images": "Images/OP01/OP01-007.png"
   },
   "OP01-008": {
-    "name": "Cavendish",
+    "name": "Cavendish OP01-008",
     "color": "red",
     "type": "character",
     "group": ["Supernovas", "Beautiful Pirates"],
@@ -93,7 +93,7 @@
     "images": "Images/OP01/OP01-008.png"
   },
   "OP01-009": {
-    "name": "Carrot",
+    "name": "Carrot OP01-009",
     "color": "red",
     "type": "character",
     "group": "Minks",
@@ -105,7 +105,7 @@
     "images": "Images/OP01/OP01-009.png"
   },
   "OP01-010": {
-    "name": "Komachiyo",
+    "name": "Komachiyo OP01-010",
     "color": "red",
     "type": "character",
     "group": ["Animal", "Land of Wano"],
@@ -117,7 +117,7 @@
     "images": "Images/OP01/OP01-010.png"
   },
   "OP01-011": {
-    "name": "Gordon",
+    "name": "Gordon OP01-011",
     "color": "red",
     "type": "character",
     "group": "FILM",
@@ -129,7 +129,7 @@
     "images": "Images/OP01/OP01-011.png"
   },
   "OP01-012": {
-    "name": "Sai",
+    "name": "Sai OP01-012",
     "color": "red",
     "type": "character",
     "group": "Happosui Army",
@@ -141,7 +141,7 @@
     "images": "Images/OP01/OP01-012.png"
   },
   "OP01-013": {
-    "name": "Sanji",
+    "name": "Sanji OP01-013",
     "color": "red",
     "type": "character",
     "group": "Straw Hat Crew",
@@ -153,7 +153,7 @@
     "images": "Images/OP01/OP01-013.png"
   },
     "OP01-014": {
-      "name": "Jinbe",
+      "name": "Jinbe OP01-014",
       "color": "red",
       "type": "character",
       "group": ["Fish-Man", "Straw Hat Crew"],
@@ -165,7 +165,7 @@
       "images": "Images/OP01/OP01-014.png"
     },
     "OP01-015": {
-      "name": "Tony Tony.Chopper",
+      "name": "Tony Tony.Chopper OP01-015",
       "color": "red",
       "type": "character",
       "group": ["Animal", "Straw Hat Crew"],
@@ -177,7 +177,7 @@
       "images": "Images/OP01/OP01-015.png"
     },
     "OP01-016": {
-      "name": "Nami",
+      "name": "Nami OP01-016",
       "color": "red",
       "type": "character",
       "group": "Straw Hat Crew",
@@ -189,7 +189,7 @@
       "images": "Images/OP01/OP01-016.png"
     },
     "OP01-017": {
-      "name": "Nico Robin",
+      "name": "Nico Robin OP01-017",
       "color": "red",
       "type": "character",
       "group": "Straw Hat Crew",
@@ -201,7 +201,7 @@
       "images": "Images/OP01/OP01-017.png"
     },
     "OP01-018": {
-      "name": "Hajrudin",
+      "name": "Hajrudin OP01-018",
       "color": "red",
       "type": "character",
       "group": ["Giant", "New Giant Pirates"],
@@ -213,7 +213,7 @@
       "images": "Images/OP01/OP01-018.png"
     },
     "OP01-019": {
-      "name": "Bartolomeo",
+      "name": "Bartolomeo OP01-019",
       "color": "red",
       "type": "character",
       "group": ["Supernovas", "Barto Club"],
@@ -225,7 +225,7 @@
       "images": "Images/OP01/OP01-019.png"
     },
     "OP01-020": {
-      "name": "Hyogoro",
+      "name": "Hyogoro OP01-020",
       "color": "red",
       "type": "character",
       "group": "Land of Wano",
@@ -237,7 +237,7 @@
       "images": "Images/OP01/OP01-020.png"
     },
     "OP01-021": {
-      "name": "Franky",
+      "name": "Franky OP01-021",
       "color": "red",
       "type": "character",
       "group": "Straw Hat Crew",
@@ -249,7 +249,7 @@
       "images": "Images/OP01/OP01-021.png"
     },
     "OP01-022": {
-      "name": "Brook",
+      "name": "Brook OP01-022",
       "color": "red",
       "type": "character",
       "group": "Straw Hat Crew",
@@ -261,7 +261,7 @@
       "images": "Images/OP01/OP01-022.png"
     },
     "OP01-023": {
-      "name": "Marco",
+      "name": "Marco OP01-023",
       "color": "red",
       "type": "character",
       "group": "Former Whitebeard Pirates",
@@ -273,7 +273,7 @@
       "images": "Images/OP01/OP01-023.png"
     },
     "OP01-024": {
-      "name": "Monkey.D.Luffy",
+      "name": "Monkey.D.Luffy OP01-024",
       "color": "red",
       "type": "character",
       "group": ["Supernovas", "Straw Hat Crew"],
@@ -285,7 +285,7 @@
       "images": "Images/OP01/OP01-024.png"
     },
     "OP01-025": {
-      "name": "Roronoa Zoro",
+      "name": "Roronoa Zoro OP01-025",
       "color": "red",
       "type": "character",
       "group": ["Supernovas", "Straw Hat Crew"],
@@ -297,7 +297,7 @@
       "images": "Images/OP01/OP01-025.png"
     },
       "OP01-026": {
-        "name": "Gum-Gum Fire-Fist Pistol Red Hawk",
+        "name": "Gum-Gum Fire-Fist Pistol Red Hawk OP01-026",
         "color": "red",
         "type": "event",
         "group": ["Supernovas", "Straw Hat Crew"],
@@ -306,7 +306,7 @@
         "images": "Images/OP01/OP01-026.png"
       },
       "OP01-027": {
-        "name": "Round Table",
+        "name": "Round Table OP01-027",
         "color": "red",
         "type": "event",
         "group": ["Supernovas", "Beautiful Pirates"],
@@ -315,7 +315,7 @@
         "images": "Images/OP01/OP01-027.png"
       },
       "OP01-028": {
-        "name": "Green Star Rafflesia",
+        "name": "Green Star Rafflesia OP01-028",
         "color": "red",
         "type": "event",
         "group": "Straw Hat Crew",
@@ -324,7 +324,7 @@
         "images": "Images/OP01/OP01-028.png"
       },
       "OP01-029": {
-        "name": "Radical Beam!!",
+        "name": "Radical Beam!! OP01-029",
         "color": "red",
         "type": "event",
         "group": "Straw Hat Crew",
@@ -333,7 +333,7 @@
         "images": "Images/OP01/OP01-029.png"
       },
       "OP01-030": {
-        "name": "In Two Years!! At the Sabaody Archipelago!!",
+        "name": "In Two Years!! At the Sabaody Archipelago!! OP01-030",
         "color": "red",
         "type": "event",
         "group": "Straw Hat Crew",
@@ -342,7 +342,7 @@
         "images": "Images/OP01/OP01-030.png"
       },
       "OP01-031": {
-        "name": "Kouzuki Oden",
+        "name": "Kouzuki Oden OP01-031",
         "color": "green",
         "type": "leader",
         "group": ["Land of Wano", "Kouzuki Clan"],
@@ -353,7 +353,7 @@
         "images": "Images/OP01/OP01-031.png"
       },
       "OP01-032": {
-        "name": "Ashura Doji",
+        "name": "Ashura Doji OP01-032",
         "color": "green",
         "type": "character",
         "group": ["Land of Wano", "The Akazaya Nine"],
@@ -365,7 +365,7 @@
         "images": "Images/OP01/OP01-032.png"
       },
       "OP01-033": {
-        "name": "Izo",
+        "name": "Izo OP01-033",
         "color": "green",
         "type": "character",
         "group": ["Land of Wano", "Former Whitebeard Pirates"],
@@ -377,7 +377,7 @@
         "images": "Images/OP01/OP01-033.png"
       },
       "OP01-034": {
-        "name": "Inuarashi",
+        "name": "Inuarashi OP01-034",
         "color": "green",
         "type": "character",
         "group": ["Minks", "Land of Wano", "The Akazaya Nine"],
@@ -389,7 +389,7 @@
         "images": "Images/OP01/OP01-034.png"
       },
       "OP01-035": {
-        "name": "Okiku",
+        "name": "Okiku OP01-035",
         "color": "green",
         "type": "character",
         "group": ["Land of Wano", "The Akazaya Nine"],
@@ -401,7 +401,7 @@
         "images": "Images/OP01/OP01-035.png"
       },
       "OP01-036": {
-        "name": "Otsuru",
+        "name": "Otsuru OP01-036",
         "color": "green",
         "type": "character",
         "group": "Land of Wano",
@@ -413,7 +413,7 @@
         "images": "Images/OP01/OP01-036.png"
       },
       "OP01-037": {
-        "name": "Kawamatsu",
+        "name": "Kawamatsu OP01-037",
         "color": "green",
         "type": "character",
         "group": ["Fish-Man", "Land of Wano", "The Akazaya Nine"],
@@ -425,7 +425,7 @@
         "images": "Images/OP01/OP01-037.png"
       },
       "OP01-038": {
-        "name": "Kanjuro",
+        "name": "Kanjuro OP01-038",
         "color": "green",
         "type": "character",
         "group": ["Land of Wano", "The Akazaya Nine"],
@@ -437,7 +437,7 @@
         "images": "Images/OP01/OP01-038.png"
       },
         "OP01-039": {
-          "name": "Killer",
+          "name": "Killer OP01-039",
           "color": "green",
           "type": "character",
           "group": ["Supernovas", "Kid Pirates"],
@@ -449,7 +449,7 @@
           "images": "Images/OP01/OP01-039.png"
         },
         "OP01-040": {
-          "name": "Kin'emon",
+          "name": "Kin'emon OP01-040",
           "color": "green",
           "type": "character",
           "group": ["Land of Wano", "The Akazaya Nine"],
@@ -461,7 +461,7 @@
           "images": "Images/OP01/OP01-040.png"
         },
           "OP01-041": {
-            "name": "Kouzuki Momonosuke",
+            "name": "Kouzuki Momonosuke OP01-041",
             "color": "green",
             "type": "character",
             "group": ["Land of Wano", "Kouzuki Clan"],
@@ -473,7 +473,7 @@
             "images": "Images/OP01/OP01-041.png"
           },
           "OP01-042": {
-            "name": "Komurasaki",
+            "name": "Komurasaki OP01-042",
             "color": "green",
             "type": "character",
             "group": ["Land of Wano", "Kouzuki Clan"],
@@ -485,7 +485,7 @@
             "images": "Images/OP01/OP01-042.png"
           },
           "OP01-043": {
-            "name": "Shinobu",
+            "name": "Shinobu OP01-043",
             "color": "green",
             "type": "character",
             "group": "Land of Wano",
@@ -497,7 +497,7 @@
             "images": "Images/OP01/OP01-043.png"
           },
           "OP01-044": {
-            "name": "Shachi",
+            "name": "Shachi OP01-044",
             "color": "green",
             "type": "character",
             "group": "Heart Pirates",
@@ -509,7 +509,7 @@
             "images": "Images/OP01/OP01-044.png"
           },
           "OP01-045": {
-            "name": "Jean Bart",
+            "name": "Jean Bart OP01-045",
             "color": "green",
             "type": "character",
             "group": "Heart Pirates",
@@ -521,7 +521,7 @@
             "images": "Images/OP01/OP01-045.png"
           },
           "OP01-046": {
-            "name": "Denjiro",
+            "name": "Denjiro OP01-046",
             "color": "green",
             "type": "character",
             "group": ["Land of Wano", "The Akazaya Nine"],
@@ -533,7 +533,7 @@
             "images": "Images/OP01/OP01-046.png"
           },
           "OP01-047": {
-            "name": "Trafalgar Law",
+            "name": "Trafalgar Law OP01-047",
             "color": "green",
             "type": "character",
             "group": ["Supernovas", "Heart Pirates"],
@@ -545,7 +545,7 @@
             "images": "Images/OP01/OP01-047.png"
           },
           "OP01-048": {
-            "name": "Nekomamushi",
+            "name": "Nekomamushi OP01-048",
             "color": "green",
             "type": "character",
             "group": ["Minks", "Land of Wano", "The Akazaya Nine"],
@@ -557,7 +557,7 @@
             "images": "Images/OP01/OP01-048.png"
           },
           "OP01-049": {
-            "name": "Bepo",
+            "name": "Bepo OP01-049",
             "color": "green",
             "type": "character",
             "group": ["Minks", "Heart Pirates"],
@@ -569,7 +569,7 @@
             "images": "Images/OP01/OP01-049.png"
           },
           "OP01-050": {
-            "name": "Penguin",
+            "name": "Penguin OP01-050",
             "color": "green",
             "type": "character",
             "group": "Heart Pirates",
@@ -581,7 +581,7 @@
             "images": "Images/OP01/OP01-050.png"
           },
             "OP01-051": {
-              "name": "Eustass 'Captain' Kid",
+              "name": "Eustass 'Captain' Kid OP01-051",
               "color": "green",
               "type": "character",
               "group": ["Supernovas", "Kid Pirates"],
@@ -593,7 +593,7 @@
               "images": "Images/OP01/OP01-051.png"
             },
             "OP01-052": {
-              "name": "Raizo",
+              "name": "Raizo OP01-052",
               "color": "green",
               "type": "character",
               "group": ["Land of Wano", "The Akazaya Nine"],
@@ -605,7 +605,7 @@
               "images": "Images/OP01/OP01-052.png"
             },
             "OP01-053": {
-              "name": "Wire",
+              "name": "Wire OP01-053",
               "color": "green",
               "type": "character",
               "group": "Kid Pirates",
@@ -617,7 +617,7 @@
               "images": "Images/OP01/OP01-053.png"
             },
             "OP01-054": {
-              "name": "X. Drake",
+              "name": "X. Drake OP01-054",
               "color": "green",
               "type": "character",
               "group": ["Supernovas", "Navy", "Drake Pirates"],
@@ -629,7 +629,7 @@
               "images": "Images/OP01/OP01-054.png"
             },
             "OP01-055": {
-              "name": "You Can Be My Samurai!!",
+              "name": "You Can Be My Samurai!! OP01-055",
               "color": "green",
               "type": "event",
               "group": ["Land of Wano", "Kouzuki Clan"],
@@ -638,7 +638,7 @@
               "images": "Images/OP01/OP01-055.png"
             },
             "OP01-056": {
-              "name": "Demon Face",
+              "name": "Demon Face OP01-056",
               "color": "green",
               "type": "event",
               "group": ["Supernovas", "Hawkins Pirates"],
@@ -647,7 +647,7 @@
               "images": "Images/OP01/OP01-056.png"
             },
             "OP01-057": {
-              "name": "Paradise Waterfall",
+              "name": "Paradise Waterfall OP01-057",
               "color": "green",
               "type": "event",
               "group": ["Land of Wano", "Kouzuki Clan"],
@@ -656,7 +656,7 @@
               "images": "Images/OP01/OP01-057.png"
             },
             "OP01-058": {
-              "name": "Punk Gibson",
+              "name": "Punk Gibson OP01-058",
               "color": "green",
               "type": "event",
               "group": ["Supernovas", "Kid Pirates"],
@@ -665,7 +665,7 @@
               "images": "Images/OP01/OP01-058.png"
             },
             "OP01-059": {
-              "name": "BE-BENG!!",
+              "name": "BE-BENG!! OP01-059",
               "color": "green",
               "type": "event",
               "group": "Land of Wano",
@@ -674,7 +674,7 @@
               "images": "Images/OP01/OP01-059.png"
             },
             "OP01-060": {
-              "name": "Donquixote Doflamingo",
+              "name": "Donquixote Doflamingo OP01-060",
               "color": "blue",
               "type": "leader",
               "group": ["The Seven Warlords of the Sea", "Donquixote Pirates"],
@@ -685,7 +685,7 @@
               "images": "Images/OP01/OP01-060.png"
             },
               "OP01-061": {
-                "name": "Kaido",
+                "name": "Kaido OP01-061",
                 "color": ["blue", "purple"],
                 "type": "leader",
                 "group": ["The Four Emperors", "Animal Kingdom Pirates"],
@@ -696,7 +696,7 @@
                 "images": "Images/OP01/OP01-061.png"
               },
               "OP01-062": {
-                "name": "Crocodile",
+                "name": "Crocodile OP01-062",
                 "color": ["blue", "purple"],
                 "type": "leader",
                 "group": ["The Seven Warlords of the Sea", "Baroque Works"],
@@ -707,7 +707,7 @@
                 "images": "Images/OP01/OP01-062.png"
               },
               "OP01-063": {
-                "name": "Arlong",
+                "name": "Arlong OP01-063",
                 "color": "blue",
                 "type": "character",
                 "group": ["Fish-Man", "Arlong Pirates"],
@@ -719,7 +719,7 @@
                 "images": "Images/OP01/OP01-063.png"
               },
               "OP01-064": {
-                "name": "Alvida",
+                "name": "Alvida OP01-064",
                 "color": "blue",
                 "type": "character",
                 "group": "Buggy Pirates",
@@ -731,7 +731,7 @@
                 "images": "Images/OP01/OP01-064.png"
               },
               "OP01-065": {
-                "name": "Vergo",
+                "name": "Vergo OP01-065",
                 "color": "blue",
                 "type": "character",
                 "group": ["Navy", "Donquixote Pirates", "Punk Hazard"],
@@ -743,7 +743,7 @@
                 "images": "Images/OP01/OP01-065.png"
               },
               "OP01-066": {
-                "name": "Krieg",
+                "name": "Krieg OP01-066",
                 "color": "blue",
                 "type": "character",
                 "group": "Krieg Pirates",
@@ -755,7 +755,7 @@
                 "images": "Images/OP01/OP01-066.png"
               },
               "OP01-067": {
-                "name": "Crocodile",
+                "name": "Crocodile OP01-067",
                 "color": "blue",
                 "type": "character",
                 "group": ["The Seven Warlords of the Sea", "Baroque Works"],
@@ -767,7 +767,7 @@
                 "images": "Images/OP01/OP01-067.png"
               },
               "OP01-068": {
-                "name": "Gecko Moria",
+                "name": "Gecko Moria OP01-068",
                 "color": "blue",
                 "type": "character",
                 "group": ["The Seven Warlords of the Sea", "Thriller Bark Pirates"],
@@ -779,7 +779,7 @@
                 "images": "Images/OP01/OP01-068.png"
               },
               "OP01-069": {
-                "name": "Caesar Clown",
+                "name": "Caesar Clown OP01-069",
                 "color": "blue",
                 "type": "character",
                 "group": ["Scientist", "Punk Hazard"],
@@ -791,7 +791,7 @@
                 "images": "Images/OP01/OP01-069.png"
               },
               "OP01-070": {
-                "name": "Dracule Mihawk",
+                "name": "Dracule Mihawk OP01-070",
                 "color": "blue",
                 "type": "character",
                 "group": "The Seven Warlords of the Sea",
@@ -803,7 +803,7 @@
                 "images": "Images/OP01/OP01-070.png"
               },
                 "OP01-071": {
-                  "name": "Jinbe",
+                  "name": "Jinbe OP01-071",
                   "color": "blue",
                   "type": "character",
                   "group": ["Fish-Man", "Straw Hat Crew"],
@@ -815,7 +815,7 @@
                   "images": "Images/OP01/OP01-071.png"
                 },
                 "OP01-072": {
-                  "name": "Smiley",
+                  "name": "Smiley OP01-072",
                   "color": "blue",
                   "type": "character",
                   "group": ["Biological Weapon", "Punk Hazard"],
@@ -827,7 +827,7 @@
                   "images": "Images/OP01/OP01-072.png"
                 },
                 "OP01-073": {
-                  "name": "Donquixote Doflamingo",
+                  "name": "Donquixote Doflamingo OP01-073",
                   "color": "blue",
                   "type": "character",
                   "group": ["The Seven Warlords of the Sea", "Donquixote Pirates"],
@@ -839,7 +839,7 @@
                   "images": "Images/OP01/OP01-073.png"
                 },
                 "OP01-074": {
-                  "name": "Bartholomew Kuma",
+                  "name": "Bartholomew Kuma OP01-074",
                   "color": "blue",
                   "type": "character",
                   "group": ["The Seven Warlords of the Sea", "Revolutionary Army"],
@@ -851,7 +851,7 @@
                   "images": "Images/OP01/OP01-074.png"
                 },
                 "OP01-075": {
-                  "name": "Pacifista",
+                  "name": "Pacifista OP01-075",
                   "color": "blue",
                   "type": "character",
                   "group": ["Biological Weapon", "Navy"],
@@ -863,7 +863,7 @@
                   "images": "Images/OP01/OP01-075.png"
                 },
                 "OP01-076": {
-                  "name": "Bellamy",
+                  "name": "Bellamy OP01-076",
                   "color": "blue",
                   "type": "character",
                   "group": "Dressrosa",
@@ -875,7 +875,7 @@
                   "images": "Images/OP01/OP01-076.png"
                 },
                 "OP01-077": {
-                  "name": "Perona",
+                  "name": "Perona OP01-077",
                   "color": "blue",
                   "type": "character",
                   "group": "Thriller Bark Pirates",
@@ -887,7 +887,7 @@
                   "images": "Images/OP01/OP01-077.png"
                 },
                 "OP01-078": {
-                  "name": "Boa Hancock",
+                  "name": "Boa Hancock OP01-078",
                   "color": "blue",
                   "type": "character",
                   "group": ["The Seven Warlords of the Sea", "Kuja Pirates"],
@@ -899,7 +899,7 @@
                   "images": "Images/OP01/OP01-078.png"
                 },
                 "OP01-079": {
-                  "name": "Ms. All Sunday",
+                  "name": "Ms. All Sunday (Nico Robin) OP01-079",
                   "color": "blue",
                   "type": "character",
                   "group": "Baroque Works",
@@ -911,7 +911,7 @@
                   "images": "Images/OP01/OP01-079.png"
                 },
                 "OP01-080": {
-                  "name": "Miss Doublefinger (Zala)",
+                  "name": "Miss Doublefinger (Zala) OP01-080",
                   "color": "blue",
                   "type": "character",
                   "group": "Baroque Works",
@@ -923,7 +923,7 @@
                   "images": "Images/OP01/OP01-080.png"
                 },
                   "OP01-081": {
-                    "name": "Mocha",
+                    "name": "Mocha OP01-081",
                     "color": "blue",
                     "type": "character",
                     "group": "Punk Hazard",
@@ -935,7 +935,7 @@
                     "images": "Images/OP01/OP01-081.png"
                   },
                   "OP01-082": {
-                    "name": "Monet",
+                    "name": "Monet OP01-082",
                     "color": "blue",
                     "type": "character",
                     "group": ["Donquixote Pirates", "Punk Hazard"],
@@ -947,7 +947,7 @@
                     "images": "Images/OP01/OP01-082.png"
                   },
                   "OP01-083": {
-                    "name": "Mr.1 (Daz Bonez)",
+                    "name": "Mr.1 (Daz Bonez) OP01-083",
                     "color": "blue",
                     "type": "character",
                     "group": "Baroque Works",
@@ -959,7 +959,7 @@
                     "images": "Images/OP01/OP01-083.png"
                   },
                   "OP01-084": {
-                    "name": "Mr.2 Bon.Kurei (Bentham)",
+                    "name": "Mr.2 Bon.Kurei (Bentham) OP01-084",
                     "color": "blue",
                     "type": "character",
                     "group": "Baroque Works",
@@ -971,7 +971,7 @@
                     "images": "Images/OP01/OP01-084.png"
                   },
                   "OP01-085": {
-                    "name": "Mr.3 (Galdino)",
+                    "name": "Mr.3 (Galdino) OP01-085",
                     "color": "blue",
                     "type": "character",
                     "group": "Baroque Works",
@@ -983,7 +983,7 @@
                     "images": "Images/OP01/OP01-085.png"
                   },
                   "OP01-086": {
-                    "name": "Overheat",
+                    "name": "Overheat OP01-086",
                     "color": "blue",
                     "type": "event",
                     "group": ["The Seven Warlords of the Sea", "Donquixote Pirates"],
@@ -992,7 +992,7 @@
                     "images": "Images/OP01/OP01-086.png"
                   },
                   "OP01-087": {
-                    "name": "Officer Agents",
+                    "name": "Officer Agents OP01-087",
                     "color": "blue",
                     "type": "event",
                     "group": "Baroque Works",
@@ -1001,7 +1001,7 @@
                     "images": "Images/OP01/OP01-087.png"
                   },
                   "OP01-088": {
-                    "name": "Desert Spada",
+                    "name": "Desert Spada OP01-088",
                     "color": "blue",
                     "type": "event",
                     "group": ["The Seven Warlords of the Sea", "Baroque Works"],
@@ -1010,7 +1010,7 @@
                     "images": "Images/OP01/OP01-088.png"
                   },
                   "OP01-089": {
-                    "name": "Crescent Cutlass",
+                    "name": "Crescent Cutlass OP01-089",
                     "color": "blue",
                     "type": "event",
                     "group": ["The Seven Warlords of the Sea", "Baroque Works"],
@@ -1019,7 +1019,7 @@
                     "images": "Images/OP01/OP01-089.png"
                   },
                   "OP01-090": {
-                    "name": "Baroque Works",
+                    "name": "Baroque Works OP01-090",
                     "color": "blue",
                     "type": "event",
                     "group": "Baroque Works",
@@ -1028,7 +1028,7 @@
                     "images": "Images/OP01/OP01-090.png"
                   },
                     "OP01-091": {
-                      "name": "King",
+                      "name": "King OP01-091",
                       "color": "purple",
                       "type": "leader",
                       "group": "Animal Kingdom Pirates",
@@ -1039,7 +1039,7 @@
                       "images": "Images/OP01/OP01-091.png"
                     },
                     "OP01-092": {
-                      "name": "Urashima",
+                      "name": "Urashima OP01-092",
                       "color": "purple",
                       "type": "character",
                       "group": "Land of Wano",
@@ -1051,7 +1051,7 @@
                       "images": "Images/OP01/OP01-092.png"
                     },
                     "OP01-093": {
-                      "name": "Ulti",
+                      "name": "Ulti OP01-093",
                       "color": "purple",
                       "type": "character",
                       "group": "Animal Kingdom Pirates",
@@ -1063,7 +1063,7 @@
                       "images": "Images/OP01/OP01-093.png"
                     },
                     "OP01-094": {
-                      "name": "Kaido",
+                      "name": "Kaido OP01-094",
                       "color": "purple",
                       "type": "character",
                       "group": ["The Four Emperors", "Animal Kingdom Pirates"],
@@ -1075,7 +1075,7 @@
                       "images": "Images/OP01/OP01-094.png"
                     },
                     "OP01-095": {
-                      "name": "Kyoshirou",
+                      "name": "Kyoshirou OP01-095",
                       "color": "purple",
                       "type": "character",
                       "group": "Land of Wano",
@@ -1087,7 +1087,7 @@
                       "images": "Images/OP01/OP01-095.png"
                     },
                     "OP01-096": {
-                      "name": "King",
+                      "name": "King OP01-096",
                       "color": "purple",
                       "type": "character",
                       "group": "Animal Kingdom Pirates",
@@ -1099,7 +1099,7 @@
                       "images": "Images/OP01/OP01-096.png"
                     },
                     "OP01-097": {
-                      "name": "Queen",
+                      "name": "Queen OP01-097",
                       "color": "purple",
                       "type": "character",
                       "group": "Animal Kingdom Pirates",
@@ -1111,7 +1111,7 @@
                       "images": "Images/OP01/OP01-097.png"
                     },
                     "OP01-098": {
-                      "name": "Kurozumi Orochi",
+                      "name": "Kurozumi Orochi OP01-098",
                       "color": "purple",
                       "type": "character",
                       "group": ["Land of Wano", "Kurozumi Clan"],
@@ -1123,7 +1123,7 @@
                       "images": "Images/OP01/OP01-098.png"
                     },
                     "OP01-099": {
-                      "name": "Kurozumi Semimaru",
+                      "name": "Kurozumi Semimaru OP01-099",
                       "color": "purple",
                       "type": "character",
                       "group": ["Land of Wano", "Kurozumi Clan"],
@@ -1135,7 +1135,7 @@
                       "images": "Images/OP01/OP01-099.png"
                     },
                     "OP01-100": {
-                      "name": "Kurozumi Higurashi",
+                      "name": "Kurozumi Higurashi OP01-100",
                       "color": "purple",
                       "type": "character",
                       "group": ["Land of Wano", "Kurozumi Clan"],
@@ -1147,7 +1147,7 @@
                       "images": "Images/OP01/OP01-100.png"
                     },
                       "OP01-101": {
-                        "name": "Sasaki",
+                        "name": "Sasaki OP01-101",
                         "color": "purple",
                         "type": "character",
                         "group": "Animal Kingdom Pirates",
@@ -1159,7 +1159,7 @@
                         "images": "Images/OP01/OP01-101.png"
                       },
                       "OP01-102": {
-                        "name": "Jack",
+                        "name": "Jack OP01-102",
                         "color": "purple",
                         "type": "character",
                         "group": "Animal Kingdom Pirates",
@@ -1171,7 +1171,7 @@
                         "images": "Images/OP01/OP01-102.png"
                       },
                       "OP01-103": {
-                        "name": "Scratchmen Apoo",
+                        "name": "Scratchmen Apoo OP01-103",
                         "color": "purple",
                         "type": "character",
                         "group": ["Animal Kingdom Pirates", "On-Air Pirates"],
@@ -1183,7 +1183,7 @@
                         "images": "Images/OP01/OP01-103.png"
                       },
                       "OP01-104": {
-                        "name": "Speed",
+                        "name": "Speed OP01-104",
                         "color": "purple",
                         "type": "character",
                         "group": ["Animal Kingdom Pirates", "SMILE"],
@@ -1195,7 +1195,7 @@
                         "images": "Images/OP01/OP01-104.png"
                       },
                       "OP01-105": {
-                        "name": "Bao Huang",
+                        "name": "Bao Huang OP01-105",
                         "color": "purple",
                         "type": "character",
                         "group": ["Animal Kingdom Pirates", "SMILE"],
@@ -1207,7 +1207,7 @@
                         "images": "Images/OP01/OP01-105.png"
                       },
                       "OP01-106": {
-                        "name": "Basil Hawkins",
+                        "name": "Basil Hawkins OP01-106",
                         "color": "purple",
                         "type": "character",
                         "group": ["Animal Kingdom Pirates", "Hawkins Pirates"],
@@ -1219,7 +1219,7 @@
                         "images": "Images/OP01/OP01-106.png"
                       },
                       "OP01-107": {
-                        "name": "Babanuki",
+                        "name": "Babanuki OP01-107",
                         "color": "purple",
                         "type": "character",
                         "group": ["Animal Kingdom Pirates", "SMILE"],
@@ -1231,7 +1231,7 @@
                         "images": "Images/OP01/OP01-107.png"
                       },
                       "OP01-108": {
-                        "name": "Hitokiri Kamazo",
+                        "name": "Hitokiri Kamazo OP01-108",
                         "color": "purple",
                         "type": "character",
                         "group": ["Supernovas", "Kid Pirates", "SMILE"],
@@ -1243,7 +1243,7 @@
                         "images": "Images/OP01/OP01-108.png"
                       },
                       "OP01-109": {
-                        "name": "Who's Who",
+                        "name": "Who's Who OP01-109",
                         "color": "purple",
                         "type": "character",
                         "group": "Animal Kingdom Pirates",
@@ -1255,7 +1255,7 @@
                         "images": "Images/OP01/OP01-109.png"
                       },
                       "OP01-110": {
-                        "name": "Fukurokuju",
+                        "name": "Fukurokuju OP01-110",
                         "color": "purple",
                         "type": "character",
                         "group": ["Land of Wano", "Animal Kingdom Pirates"],
@@ -1267,7 +1267,7 @@
                         "images": "Images/OP01/OP01-110.png"
                       },
                         "OP01-111": {
-                          "name": "Black Maria",
+                          "name": "Black Maria OP01-111",
                           "color": "purple",
                           "type": "character",
                           "group": "Animal Kingdom Pirates",
@@ -1279,7 +1279,7 @@
                           "images": "Images/OP01/OP01-111.png"
                         },
                         "OP01-112": {
-                          "name": "Page One",
+                          "name": "Page One OP01-112",
                           "color": "purple",
                           "type": "character",
                           "group": "Animal Kingdom Pirates",
@@ -1291,7 +1291,7 @@
                           "images": "Images/OP01/OP01-112.png"
                         },
                         "OP01-113": {
-                          "name": "Holedem",
+                          "name": "Holedem OP01-113",
                           "color": "purple",
                           "type": "character",
                           "group": ["Animal Kingdom Pirates", "SMILE"],
@@ -1303,7 +1303,7 @@
                           "images": "Images/OP01/OP01-113.png"
                         },
                         "OP01-114": {
-                          "name": "X.Drake",
+                          "name": "X.Drake OP01-114",
                           "color": "purple",
                           "type": "character",
                           "group": ["Navy", "Drake Pirates", "Animal Kingdom Pirates"],
@@ -1315,7 +1315,7 @@
                           "images": "Images/OP01/OP01-114.png"
                         },
                         "OP01-115": {
-                          "name": "Elephant's Marchoo",
+                          "name": "Elephant's Marchoo OP01-115",
                           "color": "purple",
                           "type": "event",
                           "group": ["Animal Kingdom Pirates", "SMILE"],
@@ -1324,7 +1324,7 @@
                           "images": "Images/OP01/OP01-115.png"
                         },
                         "OP01-116": {
-                          "name": "Artificial Devil Fruit SMILE",
+                          "name": "Artificial Devil Fruit SMILE OP01-116",
                           "color": "purple",
                           "type": "event",
                           "group": ["Animal Kingdom Pirates", "SMILE"],
@@ -1333,7 +1333,7 @@
                           "images": "Images/OP01/OP01-116.png"
                         },
                         "OP01-117": {
-                          "name": "Sheep's Horn",
+                          "name": "Sheep's Horn OP01-117",
                           "color": "purple",
                           "type": "event",
                           "group": ["Animal Kingdom Pirates", "SMILE"],
@@ -1342,7 +1342,7 @@
                           "images": "Images/OP01/OP01-117.png"
                         },
                         "OP01-118": {
-                          "name": "Ulti-Mortar",
+                          "name": "Ulti-Mortar OP01-118",
                           "color": "purple",
                           "type": "event",
                           "group": "Animal Kingdom Pirates",
@@ -1351,7 +1351,7 @@
                           "images": "Images/OP01/OP01-118.png"
                         },
                         "OP01-119": {
-                          "name": "Thunder Bagua",
+                          "name": "Thunder Bagua OP01-119",
                           "color": "purple",
                           "type": "event",
                           "group": ["The Four Emperors", "Animal Kingdom Pirates"],
@@ -1360,7 +1360,7 @@
                           "images": "Images/OP01/OP01-119.png"
                         },
                         "OP01-120": {
-                          "name": "Shanks",
+                          "name": "Shanks OP01-120",
                           "color": "red",
                           "type": "character",
                           "group": ["The Four Emperors", "Red-Haired Pirates"],
@@ -1372,7 +1372,7 @@
                           "images": "Images/OP01/OP01-120.png"
                         },
                         "OP01-121": {
-                          "name": "Yamato",
+                          "name": "Yamato OP01-121",
                           "color": "green",
                           "type": "character",
                           "group": "Land of Wano",
