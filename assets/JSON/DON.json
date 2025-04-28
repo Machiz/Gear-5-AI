@@ -1,0 +1,10 @@
+{
+  "DON!!-Card": {
+    "name": "DON!!",
+    "color": "none",
+    "type": "resource",
+    "effect": "Your Turn +1000",
+    "power": 1000,
+    "images": "Images/DON/DON.png"
+  }
+}
