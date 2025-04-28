@@ -1,0 +1,13 @@
+{
+  "PRB01-001": {
+    "name": "Sanji PRB01-001",
+    "color": "red",
+    "type": "leader",
+    "group": "Straw Hat Crew",
+    "attribute": "Strike",
+    "life": 5,
+    "power": 5000,
+    "effect": "[Activate: Main] [Once Per Turn] Up to 1 of your Characters without an [On Play] effect and with a cost of 8 or less gains [Rush] during this turn.",
+    "images": "Images/PRB01/PRB01-001.png"
+  }
+}

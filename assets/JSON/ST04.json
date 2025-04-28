@@ -1,0 +1,193 @@
+{
+  "ST04-001": {
+    "name": "Kaido ST04-001",
+    "color": "purple",
+    "type": "leader",
+    "group": ["The Four Emperors", "Animal Kingdom Pirates"],
+    "attribute": "Strike",
+    "life": 5,
+    "power": 5000,
+    "effect": "[Activate: Main] [Once Per Turn] DON!! −7 Trash up to 1 of your opponent's Life cards.",
+    "images": "Images/ST04/ST04-001.png"
+  },
+  "ST04-002": {
+    "name": "Ulti ST04-002",
+    "color": "purple",
+    "type": "character",
+    "group": "Animal Kingdom Pirates",
+    "attribute": "Strike",
+    "cost": 4,
+    "power": 5000,
+    "counter": 2000,
+    "effect": "[On Play] DON!! −1 Play up to 1 [Page One] card with a cost of 4 or less from your hand.",
+    "images": "Images/ST04/ST04-002.png"
+  },
+  "ST04-003": {
+    "name": "Kaido ST04-003",
+    "color": "purple",
+    "type": "character",
+    "group": ["The Four Emperors", "Animal Kingdom Pirates"],
+    "attribute": "Strike",
+    "cost": 9,
+    "power": 10000,
+    "counter": 0,
+    "effect": "[On Play] DON!! −5 K.O. up to 1 of your opponent's Characters with a cost of 6 or less. This Character gains [Rush] during this turn.",
+    "images": "Images/ST04/ST04-003.png"
+  },
+  "ST04-004": {
+    "name": "King ST04-004",
+    "color": "purple",
+    "type": "character",
+    "group": "Animal Kingdom Pirates",
+    "attribute": "Special",
+    "cost": 6,
+    "power": 7000,
+    "counter": 0,
+    "effect": "[On Play] DON!! −1 K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "images": "Images/ST04/ST04-004.png"
+  },
+  "ST04-005": {
+    "name": "Queen ST04-005",
+    "color": "purple",
+    "type": "character",
+    "group": "Animal Kingdom Pirates",
+    "attribute": "Strike",
+    "cost": 5,
+    "power": 6000,
+    "counter": 1000,
+    "effect": "[Blocker] [On Play] DON!! −1 Draw 2 cards and trash 1 card from your hand.",
+    "images": "Images/ST04/ST04-005.png"
+  },
+  "ST04-006": {
+    "name": "Sasaki ST04-006",
+    "color": "purple",
+    "type": "character",
+    "group": "Animal Kingdom Pirates",
+    "attribute": "Ranged",
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000,
+    "effect": "[On Play] DON!! −1 Draw 1 card.",
+    "images": "Images/ST04/ST04-006.png"
+  },
+  "ST04-007": {
+    "name": "Sheepshead ST04-007",
+    "color": "purple",
+    "type": "character",
+    "group": ["Animal Kingdom Pirates", "Smile"],
+    "attribute": "Slash",
+    "cost": 2,
+    "power": 4000,
+    "counter": 1000,
+    "effect": "None",
+    "images": "Images/ST04/ST04-007.png"
+  },
+  "ST04-008": {
+    "name": "Jack ST04-008",
+    "color": "purple",
+    "type": "character",
+    "group": "Animal Kingdom Pirates",
+    "attribute": "Strike",
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000,
+    "effect": "[On Play] You may trash 1 card from your hand: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "images": "Images/ST04/ST04-008.png"
+  },
+  "ST04-009": {
+    "name": "Ginrummy ST04-009",
+    "color": "purple",
+    "type": "character",
+    "group": ["Animal Kingdom Pirates", "Smile"],
+    "attribute": "Strike",
+    "cost": 1,
+    "power": 3000,
+    "counter": 1000,
+    "effect": "None",
+    "images": "Images/ST04/ST04-009.png"
+  },
+  "ST04-010": {
+    "name": "Who's-Who ST04-010",
+    "color": "purple",
+    "type": "character",
+    "group": "Animal Kingdom Pirates",
+    "attribute": "Slash",
+    "cost": 3,
+    "power": 3000,
+    "counter": 0,
+    "effect": "[On Play] DON!! −1 K.O. up to 1 of your opponent's Characters with a cost of 3 or less. [Trigger] Play this card.",
+    "images": "Images/ST04/ST04-010.png"
+  },
+  "ST04-011": {
+    "name": "Black Maria ST04-011",
+    "color": "purple",
+    "type": "character",
+    "group": "Animal Kingdom Pirates",
+    "attribute": "Special",
+    "cost": 2,
+    "power": 2000,
+    "counter": 1000,
+    "effect": "[Blocker]",
+    "images": "Images/ST04/ST04-011.png"
+  },
+  "ST04-012": {
+    "name": "Page One ST04-012",
+    "color": "purple",
+    "type": "character",
+    "group": "Animal Kingdom Pirates",
+    "attribute": "Strike",
+    "cost": 4,
+    "power": 6000,
+    "counter": 1000,
+    "effect": "None",
+    "images": "Images/ST04/ST04-012.png"
+  },
+  "ST04-013": {
+    "name": "X. Drake ST04-013",
+    "color": "purple",
+    "type": "character",
+    "group": ["Navy", "Drake Pirates", "Animal Kingdom Pirates"],
+    "attribute": "Slash",
+    "cost": 3,
+    "power": 5000,
+    "counter": 1000,
+    "effect": "None",
+    "images": "Images/ST04/ST04-013.png"
+  },
+  "ST04-014": {
+    "name": "Lead Performer 'Disaster' ST04-014",
+    "color": "purple",
+    "type": "event",
+    "group": "Animal Kingdom Pirates",
+    "cost": 4,
+    "effect": "[Main] Draw 1 card, then add up to 1 DON!! card from your DON!! deck and set it as active. [Trigger] Activate this card's [Main] effect.",
+    "images": "Images/ST04/ST04-014.png"
+  },
+  "ST04-015": {
+    "name": "Brachio Bomber ST04-015",
+    "color": "purple",
+    "type": "event",
+    "group": "Animal Kingdom Pirates",
+    "cost": 6,
+    "effect": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 6 or less, then add up to 1 DON!! card from your DON!! deck and set it as active. [Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "images": "Images/ST04/ST04-015.png"
+  },
+  "ST04-016": {
+    "name": "Blast Breath ST04-016",
+    "color": "purple",
+    "type": "event",
+    "group": ["The Four Emperors", "Animal Kingdom Pirates"],
+    "cost": 1,
+    "effect": "[Counter] DON!! −1 Up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+    "images": "Images/ST04/ST04-016.png"
+  },
+  "ST04-017": {
+    "name": "Onigashima Island ST04-017",
+    "color": "purple",
+    "type": "stage",
+    "group": "Animal Kingdom Pirates",
+    "cost": 3,
+    "effect": "[Activate: Main] You may rest this Stage: If your Leader has the {Animal Kingdom Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+    "images": "Images/ST04/ST04-017.png"
+  }
+}

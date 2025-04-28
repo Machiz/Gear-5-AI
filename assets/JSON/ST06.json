@@ -1,0 +1,193 @@
+{
+  "ST06-001": {
+    "name": "Sakazuki ST06-001",
+    "color": "black",
+    "type": "leader",
+    "group": "Navy",
+    "attribute": "Special",
+    "life": 5,
+    "power": 5000,
+    "effect": "[Activate: Main] [Once Per Turn] ③ You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+    "images": "Images/ST06/ST06-001.png"
+  },
+  "ST06-002": {
+    "name": "Koby ST06-002",
+    "color": "black",
+    "type": "character",
+    "group": "Navy",
+    "attribute": "Strike",
+    "cost": 1,
+    "power": 2000,
+    "counter": 1000,
+    "effect": "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+    "images": "Images/ST06/ST06-002.png"
+  },
+  "ST06-003": {
+    "name": "Jango ST06-003",
+    "color": "black",
+    "type": "character",
+    "group": "Navy",
+    "attribute": "Slash",
+    "cost": 1,
+    "power": 3000,
+    "counter": 1000,
+    "effect": "None",
+    "images": "Images/ST06/ST06-003.png"
+  },
+  "ST06-004": {
+    "name": "Smoker ST06-004",
+    "color": "black",
+    "type": "character",
+    "group": "Navy",
+    "attribute": "Special",
+    "cost": 5,
+    "power": 7000,
+    "counter": 0,
+    "effect": "This Character cannot be K.O.'d by effects. [DON!! x1] If there is a Character with a cost of 0, this Character gains [Double Attack].",
+    "images": "Images/ST06/ST06-004.png"
+  },
+  "ST06-005": {
+    "name": "Sengoku ST06-005",
+    "color": "black",
+    "type": "character",
+    "group": "Navy",
+    "attribute": "Wisdom",
+    "cost": 5,
+    "power": 6000,
+    "counter": 1000,
+    "effect": "[When Attacking] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+    "images": "Images/ST06/ST06-005.png"
+  },
+  "ST06-006": {
+    "name": "Tashigi ST06-006",
+    "color": "black",
+    "type": "character",
+    "group": "Navy",
+    "attribute": "Slash",
+    "cost": 3,
+    "power": 4000,
+    "counter": 2000,
+    "effect": "[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+    "images": "Images/ST06/ST06-006.png"
+  },
+  "ST06-007": {
+    "name": "Tsuru ST06-007",
+    "color": "black",
+    "type": "character",
+    "group": "Navy",
+    "attribute": "Wisdom",
+    "cost": 2,
+    "power": 2000,
+    "counter": 1000,
+    "effect": "[Blocker]",
+    "images": "Images/ST06/ST06-007.png"
+  },
+  "ST06-008": {
+    "name": "Hina ST06-008",
+    "color": "black",
+    "type": "character",
+    "group": "Navy",
+    "attribute": "Special",
+    "cost": 3,
+    "power": 5000,
+    "counter": 0,
+    "effect": "[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+    "images": "Images/ST06/ST06-008.png"
+  },
+  "ST06-009": {
+    "name": "Fullbody ST06-009",
+    "color": "black",
+    "type": "character",
+    "group": "Navy",
+    "attribute": "Strike",
+    "cost": 2,
+    "power": 4000,
+    "counter": 1000,
+    "effect": "None",
+    "images": "Images/ST06/ST06-009.png"
+  },
+  "ST06-010": {
+    "name": "Helmeppo ST06-010",
+    "color": "black",
+    "type": "character",
+    "group": "Navy",
+    "attribute": "Slash",
+    "cost": 2,
+    "power": 3000,
+    "counter": 1000,
+    "effect": "[On Play] Give up to 1 of your opponent's Characters −3 cost during this turn.",
+    "images": "Images/ST06/ST06-010.png"
+  },
+  "ST06-011": {
+    "name": "Momonga ST06-011",
+    "color": "black",
+    "type": "character",
+    "group": "Navy",
+    "attribute": "Slash",
+    "cost": 4,
+    "power": 6000,
+    "counter": 1000,
+    "effect": "None",
+    "images": "Images/ST06/ST06-011.png"
+  },
+  "ST06-012": {
+    "name": "Monkey D. Garp ST06-012",
+    "color": "black",
+    "type": "character",
+    "group": "Navy",
+    "attribute": "Strike",
+    "cost": 5,
+    "power": 6000,
+    "counter": 0,
+    "effect": "[Activate: Main] You may trash 1 card from your hand and rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "images": "Images/ST06/ST06-012.png"
+  },
+  "ST06-013": {
+    "name": "T-Bone ST06-013",
+    "color": "black",
+    "type": "character",
+    "group": "Navy",
+    "attribute": "Slash",
+    "cost": 3,
+    "power": 5000,
+    "counter": 1000,
+    "effect": "None",
+    "images": "Images/ST06/ST06-013.png"
+  },
+  "ST06-014": {
+    "name": "Shockwave ST06-014",
+    "color": "black",
+    "type": "event",
+    "group": "Navy",
+    "cost": 2,
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, K.O. up to 1 of your opponent's active Characters with a cost of 3 or less. [Trigger] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+    "images": "Images/ST06/ST06-014.png"
+  },
+  "ST06-015": {
+    "name": "Great Eruption ST06-015",
+    "color": "black",
+    "type": "event",
+    "group": "Navy",
+    "cost": 1,
+    "effect": "[Main] Draw 1 card. Then, give up to 1 of your opponent's Characters −2 cost during this turn. [Trigger] Your opponent chooses 1 card from their hand and trashes it.",
+    "images": "Images/ST06/ST06-015.png"
+  },
+  "ST06-016": {
+    "name": "White Out ST06-016",
+    "color": "black",
+    "type": "event",
+    "group": "Navy",
+    "cost": 1,
+    "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. [Trigger] Draw 1 card and none of your Characters can be K.O.'d during this turn.",
+    "images": "Images/ST06/ST06-016.png"
+  },
+  "ST06-017": {
+    "name": "Navy HQ ST06-017",
+    "color": "black",
+    "type": "stage",
+    "group": "Navy",
+    "cost": 1,
+    "effect": "[On Play] Give up to 1 of your opponent's Characters −1 cost during this turn. [Activate: Main] You may rest this Stage: If your Leader has the {Navy} type, give up to 1 of your opponent's Characters −1 cost during this turn.",
+    "images": "Images/ST06/ST06-017.png"
+  }
+}
