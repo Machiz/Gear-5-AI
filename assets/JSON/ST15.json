@@ -1,0 +1,62 @@
+{
+  "ST15-001": {
+    "name": "Atmos ST15-001",
+    "color": "red",
+    "type": "character",
+    "group": "Whitebeard Pirates",
+    "attribute": "Slash",
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000,
+    "effect": "[When Attacking] If your Leader is [Edward Newgate], you cannot add Life cards to your hand using your own effects during this turn.",
+    "images": "Images/ST15/ST15-001.png"
+  },
+  "ST15-002": {
+    "name": "Edward Newgate ST15-002",
+    "color": "red",
+    "type": "character",
+    "group": ["The Four Emperors", "Whitebeard Pirates"],
+    "attribute": "Special",
+    "cost": 7,
+    "power": 8000,
+    "counter": 0,
+    "effect": "[On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters. [Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's Characters with 5000 power or less.",
+    "images": "Images/ST15/ST15-002.png"
+  },
+  "ST15-003": {
+    "name": "Kingdew ST15-003",
+    "color": "red",
+    "type": "character",
+    "group": "Whitebeard Pirates",
+    "attribute": "Strike",
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000,
+    "effect": "[Blocker] [Opponent's Turn] When this Character is K.O.'d by an effect, up to 1 of your Leader gains +2000 power during this turn.",
+    "images": "Images/ST15/ST15-003.png"
+  },
+  "ST15-004": {
+    "name": "Thatch ST15-004",
+    "color": "red",
+    "type": "character",
+    "group": "Whitebeard Pirates",
+    "attribute": "Slash",
+    "cost": 1,
+    "power": 2000,
+    "counter": 2000,
+    "effect": "[On Play] If your Leader's type includes 'Whitebeard Pirates', give up to 1 of your opponent's Characters −2000 power during this turn. Then, add 1 card from the top of your Life cards to your hand.",
+    "images": "Images/ST15/ST15-004.png"
+  },
+  "ST15-005": {
+    "name": "Portgas D. Ace ST15-005",
+    "color": "red",
+    "type": "character",
+    "group": "Whitebeard Pirates",
+    "attribute": "Special",
+    "cost": 5,
+    "power": 6000,
+    "counter": 1000,
+    "effect": "If your Leader's type includes 'Whitebeard Pirates', this Character gains [Rush]. [Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may give this Character −2000 power during this turn instead.",
+    "images": "Images/ST15/ST15-005.png"
+  }
+}

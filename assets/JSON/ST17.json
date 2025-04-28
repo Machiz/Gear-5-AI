@@ -1,0 +1,62 @@
+{
+  "ST17-001": {
+    "name": "Crocodile ST17-001",
+    "color": "blue",
+    "type": "character",
+    "group": ["The Seven Warlords of the Sea", "Baroque Works"],
+    "attribute": "Special",
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000,
+    "effect": "[On Play] Reveal 1 card from the top of your deck. If that card is a {The Seven Warlords of the Sea} type card, draw 2 cards and place 1 card from your hand at the top of your deck.",
+    "images": "Images/ST17/ST17-001.png"
+  },
+  "ST17-002": {
+    "name": "Trafalgar Law ST17-002",
+    "color": "blue",
+    "type": "character",
+    "group": ["The Seven Warlords of the Sea", "Heart Pirates"],
+    "attribute": "Slash",
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000,
+    "effect": "[On Play] You may return 1 of your Characters to the owner's hand: If your Leader has the {The Seven Warlords of the Sea} type, return up to 1 Character with a cost of 4 or less to the owner's hand.",
+    "images": "Images/ST17/ST17-002.png"
+  },
+  "ST17-003": {
+    "name": "Buggy ST17-003",
+    "color": "blue",
+    "type": "character",
+    "group": ["The Seven Warlords of the Sea", "Buggy's Delivery"],
+    "attribute": "Slash",
+    "cost": 1,
+    "power": 2000,
+    "counter": 2000,
+    "effect": "[On Play] Look at 3 cards from the top of your deck and place them at the top of your deck in any order.",
+    "images": "Images/ST17/ST17-003.png"
+  },
+  "ST17-004": {
+    "name": "Boa Hancock ST17-004",
+    "color": "blue",
+    "type": "character",
+    "group": ["The Seven Warlords of the Sea", "Kuja Pirates"],
+    "attribute": "Special",
+    "cost": 4,
+    "power": 6000,
+    "counter": 0,
+    "effect": "[Blocker] [On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of your deck in any order. Then, give up to 1 rested DON!! card to 1 of your {The Seven Warlords of the Sea} type Leader or Character cards.",
+    "images": "Images/ST17/ST17-004.png"
+  },
+  "ST17-005": {
+    "name": "Marshall D. Teach ST17-005",
+    "color": "blue",
+    "type": "character",
+    "group": ["The Seven Warlords of the Sea", "Blackbeard Pirates"],
+    "attribute": "Special",
+    "cost": 2,
+    "power": 3000,
+    "counter": 1000,
+    "effect": "[Activate: Main] [Once Per Turn] You may place 1 card from your hand at the top of your deck: Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+    "images": "Images/ST17/ST17-005.png"
+  }
+}

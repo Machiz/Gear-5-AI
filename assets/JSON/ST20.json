@@ -1,0 +1,62 @@
+{
+  "ST20-001": {
+    "name": "Charlotte Katakuri ST20-001",
+    "color": "yellow",
+    "type": "character",
+    "group": "Big Mom Pirates",
+    "attribute": "Strike",
+    "cost": 5,
+    "power": 6000,
+    "counter": 1000,
+    "effect": "[Blocker] [Activate: Main] [Once Per Turn] You may turn 1 card from the top of your Life cards face-up: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "images": "Images/ST20/ST20-001.png"
+  },
+  "ST20-002": {
+    "name": "Charlotte Cracker ST20-002",
+    "color": "yellow",
+    "type": "character",
+    "group": "Big Mom Pirates",
+    "attribute": "Slash",
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000,
+    "effect": "[Once Per Turn] If this Character would be K.O.'d by an effect, you may trash 1 card from the top of your Life cards instead. [Trigger] You may trash 1 card from your hand: Play this card.",
+    "images": "Images/ST20/ST20-002.png"
+  },
+  "ST20-003": {
+    "name": "Charlotte Brulee ST20-003",
+    "color": "yellow",
+    "type": "character",
+    "group": "Big Mom Pirates",
+    "attribute": "Special",
+    "cost": 3,
+    "power": 3000,
+    "counter": 2000,
+    "effect": "[Trigger] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards. Then, add this card to your hand.",
+    "images": "Images/ST20/ST20-003.png"
+  },
+  "ST20-004": {
+    "name": "Charlotte Pudding ST20-004",
+    "color": "yellow",
+    "type": "character",
+    "group": "Big Mom Pirates",
+    "attribute": "Wisdom",
+    "cost": 3,
+    "power": 2000,
+    "counter": 1000,
+    "effect": "[On Play] You may add 1 card from the top of your Life cards to your hand: Set up to 1 of your {Big Mom Pirates} type Characters with a cost of 3 or less as active. [Trigger] Rest up to 1 of your opponent's Characters with a cost of 3 or less.",
+    "images": "Images/ST20/ST20-004.png"
+  },
+  "ST20-005": {
+    "name": "Charlotte Linlin ST20-005",
+    "color": "yellow",
+    "type": "character",
+    "group": ["The Four Emperors", "Big Mom Pirates"],
+    "attribute": "Special",
+    "cost": 6,
+    "power": 7000,
+    "counter": 0,
+    "effect": "[On Play] You may trash 1 card from your hand: Your opponent chooses one:\n• Your opponent trashes 2 cards from their hand.\n• Trash 1 card from the top of your opponent's Life cards.",
+    "images": "Images/ST20/ST20-005.png"
+  }
+}

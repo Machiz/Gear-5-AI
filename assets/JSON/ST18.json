@@ -1,0 +1,62 @@
+{
+  "ST18-001": {
+    "name": "Uso-Hachi ST18-001",
+    "color": "purple",
+    "type": "character",
+    "group": "Straw Hat Crew",
+    "attribute": "Ranged",
+    "cost": 3,
+    "power": 3000,
+    "counter": 2000,
+    "effect": "[On Play] If you have 8 or more DON!! cards on your field, rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+    "images": "Images/ST18/ST18-001.png"
+  },
+  "ST18-002": {
+    "name": "O-Nami ST18-002",
+    "color": "purple",
+    "type": "character",
+    "group": "Straw Hat Crew",
+    "attribute": "Special",
+    "cost": 4,
+    "power": 2000,
+    "counter": 1000,
+    "effect": "[Blocker] [On Play] If you have 8 or more DON!! cards on your field, trash 1 card from your hand and draw 2 cards.",
+    "images": "Images/ST18/ST18-002.png"
+  },
+  "ST18-003": {
+    "name": "San-Gorou ST18-003",
+    "color": "purple",
+    "type": "character",
+    "group": "Straw Hat Crew",
+    "attribute": "Strike",
+    "cost": 5,
+    "power": 6000,
+    "counter": 1000,
+    "effect": "[When Attacking] [Once Per Turn] If you have 8 or more DON!! cards on your field, draw 1 card.",
+    "images": "Images/ST18/ST18-003.png"
+  },
+  "ST18-004": {
+    "name": "Zoro-Juurou ST18-004",
+    "color": "purple",
+    "type": "character",
+    "group": "Straw Hat Crew",
+    "attribute": "Slash",
+    "cost": 4,
+    "power": 6000,
+    "counter": 0,
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 purple {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "images": "Images/ST18/ST18-004.png"
+  },
+  "ST18-005": {
+    "name": "Luffy-Tarou ST18-005",
+    "color": "purple",
+    "type": "character",
+    "group": "Straw Hat Crew",
+    "attribute": "Strike",
+    "cost": 7,
+    "power": 8000,
+    "counter": 0,
+    "effect": "[On Play] DON!! −1 Play up to 1 purple {Straw Hat Crew} type Character card with a cost of 5 or less from your hand.",
+    "images": "Images/ST18/ST18-005.png"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "ST16-001": {
+    "name": "Uta ST16-001",
+    "color": "green",
+    "type": "character",
+    "group": "FILM",
+    "attribute": "Special",
+    "cost": 4,
+    "power": 6000,
+    "counter": 0,
+    "effect": "[Blocker] [Activate: Main] [Once Per Turn] You may trash 1 {FILM} type card from your hand: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "images": "Images/ST16/ST16-001.png"
+  },
+  "ST16-002": {
+    "name": "Gordon ST16-002",
+    "color": "green",
+    "type": "character",
+    "group": "FILM",
+    "attribute": "Wisdom",
+    "cost": 2,
+    "power": 0,
+    "counter": 1000,
+    "effect": "[Blocker] [On Your Opponent's Attack] You may trash any number of {Music} type cards from your hand. Your Leader or 1 of your Characters gains +1000 power during this battle for every card trashed.",
+    "images": "Images/ST16/ST16-002.png"
+  },
+  "ST16-003": {
+    "name": "Charlotte Katakuri ST16-003",
+    "color": "green",
+    "type": "character",
+    "group": ["FILM", "Big Mom Pirates"],
+    "attribute": "Strike",
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000,
+    "effect": "If your Leader has the {FILM} type and you have 6 or more rested cards, this Character gains +2000 power.",
+    "images": "Images/ST16/ST16-003.png"
+  },
+  "ST16-004": {
+    "name": "Shanks ST16-004",
+    "color": "green",
+    "type": "character",
+    "group": ["FILM", "The Four Emperors", "Red-Haired Pirates"],
+    "attribute": "Slash",
+    "cost": 9,
+    "power": 11000,
+    "counter": 0,
+    "effect": "[On Play] K.O. up to 1 of your opponent's rested Characters.",
+    "images": "Images/ST16/ST16-004.png"
+  },
+  "ST16-005": {
+    "name": "Monkey D. Luffy ST16-005",
+    "color": "green",
+    "type": "character",
+    "group": ["FILM", "Supernovas", "Straw Hat Crew"],
+    "attribute": "Strike",
+    "cost": 2,
+    "power": 3000,
+    "counter": 2000,
+    "effect": "If you have a rested [Uta], this Character gains +1000 power.",
+    "images": "Images/ST16/ST16-005.png"
+  }
+}
