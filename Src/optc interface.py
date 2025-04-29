@@ -1,5 +1,7 @@
 
 import pygame
+from DeckManager import *
+from carta import *
 
 def dibujar_tabla_jugador1():
 
@@ -91,11 +93,10 @@ bg_dict = {1:(0.75,0.75),
            3:(2.6,2.2),
            4:(2.1,2.3),}
 
-current_bg = 1
+
 def change_bg(c_bg):
     bg_count = 4
     img = pygame.image.load('assets/Images/Playmat_BGs/bg'+ str(c_bg % bg_count  + 1) + '.jpg')
-    print(img.get_width(), img.get_height())
 
     w_mult = bg_dict[c_bg % bg_count  + 1]
     img = pygame.transform.smoothscale(img, (img.get_width() * w_mult[0], img.get_height() * w_mult[1]))
@@ -106,7 +107,6 @@ icon = pygame.image.load('assets/Images/Game_Icon/Chopper.png')
 table_texture = pygame.image.load('assets/Images/Playmat_BGs/bg1.jpg')
 pygame.display.set_icon(icon)
 pygame.display.set_caption("OPTCG vs Chopper")
-
 
 scale = 0.3
 table_texture = pygame.transform.smoothscale(table_texture, (table_texture.get_width() * 0.75, table_texture.get_height() * 0.7))
@@ -127,24 +127,45 @@ xPivot2, yPivot2 = 170, -385 # player 2 board pivot
 n = pygame.Rect(110, 20, 300, 90)
 text = text_font.render("Change bg", True, (0,0,0))
 
+
+## CREADOR DE MAZO
+
+mazo = Mazo([])
+mazo.agregar_carta('OP01-002', 4) # agregas el nombre de la carta y la cantidad que quieres
+mazo.agregar_carta('OP02-003', 4)
+mazo.agregar_carta('OP01-004', 4)
+mazo.agregar_carta('OP01-010', 4)
+
+# carga de cartas
+cargador_cartas = CartaLoader()
+cargador_cartas.load_cards('assets/JSON', mazo.cartas)
+print(mazo.cartas)
+
 button_timer = 0
+current_bg = 1
 
 while running:
     button_timer -= 0.01
     screen.fill((white))
     screen.blit(table_texture, (0,0))
-    pygame.draw.rect(screen, (200,200,200), n)
-    screen.blit(text, n)
+    
+    
     # main table rectangle
     pygame.draw.rect(screen, (200,200,200), (380 + xPivot1, 8, 700, 780))
 
     mousePos = pygame.mouse.get_pos()
     
+    # BOTON para cambiar fondo
+    pygame.draw.rect(screen, (200,200,200), n)
+    screen.blit(text, n)
+
     if n.collidepoint(mousePos) and button_timer <=0:
         if pygame.mouse.get_pressed()[0] == 1:
-            table_texture = change_bg(current_bg)
-            current_bg += 1
-            button_timer = 1
+                table_texture = change_bg(current_bg)
+                current_bg += 1
+                button_timer = 1
+
+
 
     dibujar_tabla_jugador1()
     dibujar_tabla_jugador2()
