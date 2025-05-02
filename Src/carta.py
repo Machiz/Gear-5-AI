@@ -53,9 +53,9 @@ class CartaLoader:
             rect = pygame.Rect(400 + (len(self.card_data) - 1 - b)* 25, 400, img.get_width(), img.get_height())
             if(rect.collidepoint(mousePos)):
                 print("mouse over: " + card.name)
-                img = pygame.image.load('assets/' + card.images)
+                img = pygame.image.load('assets/' + card.images).convert_alpha()
                 img_size = 0.7
-                img = pygame.transform.scale(img, (img.get_width() * img_size, img.get_height() * img_size))
+                img = pygame.transform.smoothscale(img, (img.get_width() * img_size, img.get_height() * img_size))
                 rect = pygame.Rect(100, 300, img.get_width(), img.get_height())
                 screen.blit(img, rect)
                 return
