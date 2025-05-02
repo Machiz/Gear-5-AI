@@ -6,11 +6,11 @@ import os
 
 class CartaLoader:
     def __init__(self):
-        self.cards_data = []
+        self.card_data = []
 
     # Lee un mazo y busca los numeros de las cartas en los archivos JSON para su lectura
     # finalmente convierte los archivos JSON en un objeto de la clase Carta que contiene informacion como color, nombre, etc
-    def load_cards(self, json_path, mazo):
+    def load_card_data(self, json_path, mazo):
         json_f = [file for file in os.listdir(json_path) if file.endswith('.json')]
         for path in json_f:
             if(path == "DON.json"): continue
@@ -35,9 +35,31 @@ class CartaLoader:
                             nueva_carta = CartaEvento(info['name'], info['color'], info['type'], info['group'],
                                 info['cost'], info['effect'],
                                 info['images'])
-                        self.cards_data.append(nueva_carta)
-
-
+                        self.card_data.append(nueva_carta)
+    def load_card_image(self, screen, mousePos):
+        if(len(self.card_data) == 0): return
+        i = 0
+        rect = pygame.Rect(1,1,1,1)
+        for card in self.card_data:
+            img = pygame.image.load('assets/' + card.images)
+            img_size = 0.2
+            img = pygame.transform.scale(img, (img.get_width() * img_size, img.get_height() * img_size))
+            rect = pygame.Rect(400 + i * 25, 400, img.get_width(), img.get_height())
+            screen.blit(img, rect)
+            i += 1
+        
+        for b in range(len(self.card_data)):
+            card = self.card_data[len(self.card_data) - 1 - b]
+            rect = pygame.Rect(400 + (len(self.card_data) - 1 - b)* 25, 400, img.get_width(), img.get_height())
+            if(rect.collidepoint(mousePos)):
+                print("mouse over: " + card.name)
+                img = pygame.image.load('assets/' + card.images)
+                img_size = 0.7
+                img = pygame.transform.scale(img, (img.get_width() * img_size, img.get_height() * img_size))
+                rect = pygame.Rect(100, 300, img.get_width(), img.get_height())
+                screen.blit(img, rect)
+                return
+            
 
 class Carta:
     def __init__(self, name, color,type, group, effect, images):
@@ -68,7 +90,6 @@ class Carta:
 
     def on_play(self):
         print(f"{self.name} entra en juego.")
-
 
 class CartaLider(Carta):
     def __init__(self, name, color,type, group, attribute, life, power, effect, images):

@@ -138,8 +138,9 @@ mazo.agregar_carta('OP01-010', 4)
 
 # carga de cartas
 cargador_cartas = CartaLoader()
-cargador_cartas.load_cards('assets/JSON', mazo.cartas)
-print(mazo.cartas)
+cargador_cartas.load_card_data('assets/JSON', mazo.cartas)
+for carta in cargador_cartas.card_data:
+    print(carta.name)
 
 button_timer = 0
 current_bg = 1
@@ -166,9 +167,9 @@ while running:
                 button_timer = 1
 
 
-
     dibujar_tabla_jugador1()
     dibujar_tabla_jugador2()
+    cargador_cartas.load_card_image(screen, mousePos)
 
     pygame.display.flip()
 
@@ -177,7 +178,6 @@ while running:
             running = False
 
 pygame.quit()
-
 
 
 
