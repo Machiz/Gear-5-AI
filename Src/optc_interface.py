@@ -2,6 +2,7 @@
 import pygame
 from DeckManager import *
 from carta import *
+import random
 
 def dibujar_tabla_jugador1():
 
@@ -131,14 +132,34 @@ text = text_font.render("Change bg", True, (0,0,0))
 ## CREADOR DE MAZO
 
 mazo = Mazo([])
-mazo.agregar_carta('OP01-002', 4) # agregas el nombre de la carta y la cantidad que quieres
+mazo.agregar_carta('OP01-002', 1) # agregas el nombre de la carta y la cantidad que quieres
 mazo.agregar_carta('OP02-003', 4)
 mazo.agregar_carta('OP01-004', 4)
 mazo.agregar_carta('OP01-010', 4)
 
+pluffy = Mazo([])
+pluffy.agregar_carta('OP05-060', 1)
+pluffy.agregar_carta('OP05-070', 1)
+pluffy.agregar_carta('OP05-074', 1)
+pluffy.agregar_carta('OP06-076', 4)
+pluffy.agregar_carta('OP07-064', 4)
+pluffy.agregar_carta('OP08-069', 2)
+pluffy.agregar_carta('OP09-065', 2)
+pluffy.agregar_carta('OP09-069', 4)
+pluffy.agregar_carta('OP09-119', 3)
+pluffy.agregar_carta('ST10-010', 2)
+pluffy.agregar_carta('ST18-001', 4)
+pluffy.agregar_carta('ST18-002', 3)
+pluffy.agregar_carta('ST18-003', 4)
+pluffy.agregar_carta('ST18-004', 4)
+pluffy.agregar_carta('ST18-005', 4)
+pluffy.agregar_carta('OP05-077', 2)
+pluffy.agregar_carta('OP09-078', 4)
+
 # carga de cartas
 cargador_cartas = CartaLoader()
 cargador_cartas.load_card_data('assets/JSON', mazo.cartas)
+random.shuffle(cargador_cartas.card_data)
 for carta in cargador_cartas.card_data:
     print(carta.name)
 

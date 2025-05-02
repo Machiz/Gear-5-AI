@@ -8,6 +8,7 @@ class Mazo():
         if(cantidad >=50 or cantidad <= 0): return
         for i in range(cantidad):
             self.cartas.append(nombre)
+        
     
     def eliminar_carta(self, nombre, cantidad):
         for carta in self.cartas:

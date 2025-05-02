@@ -3,12 +3,15 @@
     "name": "Shanks OP09-001",
     "color": "red",
     "type": "leader",
-    "group": ["The Four Emperors", "Red-Haired Pirates"],
+    "group": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
     "attribute": "Slash",
     "life": 5,
     "power": 5000,
     "effect": "[Once Per Turn] This effect can be activated when your opponent attacks. Give up to 1 of your opponent's Leader or Character cards −1000 power during this turn.",
-    "images": "Images/OP09/OP09-001.png"
+    "images": "Images/OP09/OP09-001.jpg"
   },
   "OP09-002": {
     "name": "Uta OP09-002",
@@ -20,7 +23,7 @@
     "power": 2000,
     "counter": 1000,
     "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Red-Haired Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-    "images": "Images/OP09/OP09-002.png"
+    "images": "Images/OP09/OP09-002.jpg"
   },
   "OP09-003": {
     "name": "Shachi & Penguin OP09-003",
@@ -32,19 +35,22 @@
     "power": 5000,
     "counter": 1000,
     "effect": "[When Attacking] Give up to 1 of your opponent's Characters −2000 power during this turn.",
-    "images": "Images/OP09/OP09-003.png"
+    "images": "Images/OP09/OP09-003.jpg"
   },
   "OP09-004": {
     "name": "Shanks OP09-004",
     "color": "red",
     "type": "character",
-    "group": ["The Four Emperors", "Red-Haired Pirates"],
+    "group": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
     "attribute": "Slash",
     "cost": 10,
     "power": 12000,
     "counter": 0,
     "effect": "Give all of your opponent's Characters −1000 power. [Rush]",
-    "images": "Images/OP09/OP09-004.png"
+    "images": "Images/OP09/OP09-004.jpg"
   },
   "OP09-005": {
     "name": "Silvers Rayleigh OP09-005",
@@ -56,7 +62,7 @@
     "power": 6000,
     "counter": 1000,
     "effect": "[Blocker] [On Play] If your opponent has 2 or more Characters with a base power of 5000 or more, draw 2 cards and trash 1 card from your hand.",
-    "images": "Images/OP09/OP09-005.png"
+    "images": "Images/OP09/OP09-005.jpg"
   },
   "OP09-006": {
     "name": "Howling Gab OP09-006",
@@ -68,7 +74,7 @@
     "power": 7000,
     "counter": 1000,
     "effect": "None",
-    "images": "Images/OP09/OP09-006.png"
+    "images": "Images/OP09/OP09-006.jpg"
   },
   "OP09-007": {
     "name": "Heat OP09-007",
@@ -80,7 +86,7 @@
     "power": 4000,
     "counter": 1000,
     "effect": "[Blocker] [On Play] Up to 1 of your Leader with 4000 power or less gains +1000 power during this turn.",
-    "images": "Images/OP09/OP09-007.png"
+    "images": "Images/OP09/OP09-007.jpg"
   },
   "OP09-008": {
     "name": "Building Snake OP09-008",
@@ -92,7 +98,7 @@
     "power": 2000,
     "counter": 0,
     "effect": "[Activate: Main] You may place this Character at the bottom of the owner's deck: Give up to 1 of your opponent's Characters −3000 power during this turn.",
-    "images": "Images/OP09/OP09-008.png"
+    "images": "Images/OP09/OP09-008.jpg"
   },
   "OP09-009": {
     "name": "Benn Beckman OP09-009",
@@ -104,7 +110,7 @@
     "power": 7000,
     "counter": 1000,
     "effect": "[On Play] Trash up to 1 of your opponent's Characters with 6000 power or less.",
-    "images": "Images/OP09/OP09-009.png"
+    "images": "Images/OP09/OP09-009.jpg"
   },
   "OP09-010": {
     "name": "Bonk Punch OP09-010",
@@ -116,7 +122,7 @@
     "power": 5000,
     "counter": 1000,
     "effect": "[On Play] Play up to 1 [Monster] from your hand. [DON!! x1] [When Attacking] This Character gains +2000 power during this turn.",
-    "images": "Images/OP09/OP09-010.png"
+    "images": "Images/OP09/OP09-010.jpg"
   },
   "OP09-011": {
     "name": "Hongo OP09-011",
@@ -128,19 +134,22 @@
     "power": 3000,
     "counter": 2000,
     "effect": "[Activate: Main] You may rest this Character: If your Leader has the {Red-Haired Pirates} type, give up to 1 of your opponent's Characters −2000 power during this turn.",
-    "images": "Images/OP09/OP09-011.png"
+    "images": "Images/OP09/OP09-011.jpg"
   },
   "OP09-012": {
     "name": "Monster OP09-012",
     "color": "red",
     "type": "character",
-    "group": ["Animal", "Red-Haired Pirates"],
+    "group": [
+      "Animal",
+      "Red-Haired Pirates"
+    ],
     "attribute": "Strike",
     "cost": 3,
     "power": 4000,
     "counter": 1000,
     "effect": "If your Character [Bonk Punch] would be K.O.'d by an effect, you may trash this Character instead.",
-    "images": "Images/OP09/OP09-012.png"
+    "images": "Images/OP09/OP09-012.jpg"
   },
   "OP09-013": {
     "name": "Yasopp OP09-013",
@@ -152,7 +161,7 @@
     "power": 6000,
     "counter": 1000,
     "effect": "[On Play] Up to 1 of your Leader gains +1000 power until the end of your opponent's next turn. [DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
-    "images": "Images/OP09/OP09-013.png"
+    "images": "Images/OP09/OP09-013.jpg"
   },
   "OP09-014": {
     "name": "Limejuice OP09-014",
@@ -164,7 +173,7 @@
     "power": 3000,
     "counter": 2000,
     "effect": "[On Play] Your opponent cannot activate up to 1 [Blocker] Character that has 4000 power or less during this turn.",
-    "images": "Images/OP09/OP09-014.png"
+    "images": "Images/OP09/OP09-014.jpg"
   },
   "OP09-015": {
     "name": "Lucky Roux OP09-015",
@@ -176,7 +185,7 @@
     "power": 5000,
     "counter": 1000,
     "effect": "[Blocker] [On K.O.] If your Leader has the {Red-Haired Pirates} type, K.O. up to 1 of your opponent's Characters with a base power of 6000 or less.",
-    "images": "Images/OP09/OP09-015.png"
+    "images": "Images/OP09/OP09-015.jpg"
   },
   "OP09-016": {
     "name": "Rockstar OP09-016",
@@ -188,7 +197,7 @@
     "power": 6000,
     "counter": 1000,
     "effect": "None",
-    "images": "Images/OP09/OP09-016.png"
+    "images": "Images/OP09/OP09-016.jpg"
   },
   "OP09-017": {
     "name": "Wire OP09-017",
@@ -200,7 +209,7 @@
     "power": 4000,
     "counter": 2000,
     "effect": "[DON!! x1] If your Leader has 7000 power or more and the {Kid Pirates} type, this Character gains [Rush].",
-    "images": "Images/OP09/OP09-017.png"
+    "images": "Images/OP09/OP09-017.jpg"
   },
   "OP09-018": {
     "name": "Get Out of Here! OP09-018",
@@ -209,7 +218,7 @@
     "group": "Red-Haired Pirates",
     "cost": 3,
     "effect": "[Main] K.O. up to 2 of your opponent's Characters with a total power of 4000 or less.",
-    "images": "Images/OP09/OP09-018.png"
+    "images": "Images/OP09/OP09-018.jpg"
   },
   "OP09-019": {
     "name": "Nobody Hurts a Friend of Mine!!!! OP09-019",
@@ -218,16 +227,19 @@
     "group": "Red-Haired Pirates",
     "cost": 2,
     "effect": "[Main] If your Leader has the {Red-Haired Pirates} type, give up to 1 of your opponent's Characters −3000 power during this turn. Then, if your opponent has a Character with 5000 or more power, draw 1 card. [Trigger] Draw 1 card.",
-    "images": "Images/OP09/OP09-019.png"
+    "images": "Images/OP09/OP09-019.jpg"
   },
   "OP09-020": {
     "name": "Come On!! We'll Fight You!! OP09-020",
     "color": "red",
     "type": "event",
-    "group": ["The Four Emperors", "Red-Haired Pirates"],
+    "group": [
+      "The Four Emperors",
+      "Red-Haired Pirates"
+    ],
     "cost": 1,
     "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 {Red-Haired Pirates} type card other than [Come On!! We'll Fight You!!] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] Draw 1 card.",
-    "images": "Images/OP09/OP09-020.png"
+    "images": "Images/OP09/OP09-020.jpg"
   },
   "OP09-021": {
     "name": "Red Force OP09-021",
@@ -236,18 +248,21 @@
     "group": "Red-Haired Pirates",
     "cost": 2,
     "effect": "[Activate: Main] You may rest this Stage: If your Leader has the {Red-Haired Pirates} type, give up to 1 of your opponent's Characters −1000 power during this turn.",
-    "images": "Images/OP09/OP09-021.png"
+    "images": "Images/OP09/OP09-021.jpg"
   },
   "OP09-022": {
     "name": "Lim OP09-022",
-    "color": ["green", "purple"],
+    "color": [
+      "green",
+      "purple"
+    ],
     "type": "leader",
     "group": "ODYSSEY",
     "attribute": "Wisdom",
     "life": 4,
     "power": 5000,
     "effect": "Your Character cards are played rested. [Activate: Main] [Once Per Turn] You may rest 3 of your DON!! cards: Add up to 1 DON!! card from your DON!! deck and rest it, and play up to 1 {ODYSSEY} type Character card with a cost of 5 or less from your hand.",
-    "images": "Images/OP09/OP09-022.png"
+    "images": "Images/OP09/OP09-022.jpg"
   },
   "OP09-023": {
     "name": "Adio OP09-023",
@@ -259,163 +274,208 @@
     "power": 9000,
     "counter": 0,
     "effect": "[On Play] If your Leader has the {ODYSSEY} type, set up to 3 of your DON!! cards as active. [On Your Opponent's Attack] [Once Per Turn] You may rest 1 of your DON!! cards: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
-    "images": "Images/OP09/OP09-023.png"
+    "images": "Images/OP09/OP09-023.jpg"
   },
   "OP09-024": {
     "name": "Usopp OP09-024",
     "color": "green",
     "type": "character",
-    "group": ["ODYSSEY", "Straw Hat Crew"],
+    "group": [
+      "ODYSSEY",
+      "Straw Hat Crew"
+    ],
     "attribute": "Ranged",
     "cost": 4,
     "power": 5000,
     "counter": 1000,
     "effect": "[On Play] If you have 2 or more rested Characters, draw 2 cards and trash 2 cards from your hand.",
-    "images": "Images/OP09/OP09-024.png"
+    "images": "Images/OP09/OP09-024.jpg"
   },
   "OP09-025": {
     "name": "Crocodile OP09-025",
     "color": "green",
     "type": "character",
-    "group": ["ODYSSEY", "The Seven Warlords of the Sea", "Baroque Works"],
+    "group": [
+      "ODYSSEY",
+      "The Seven Warlords of the Sea",
+      "Baroque Works"
+    ],
     "attribute": "Special",
     "cost": 4,
     "power": 5000,
     "counter": 1000,
     "effect": "If your Leader has the {ODYSSEY} type, this Character cannot be K.O.'d in battle by Leaders.",
-    "images": "Images/OP09/OP09-025.png"
+    "images": "Images/OP09/OP09-025.jpg"
   },
   "OP09-026": {
     "name": "Sakazuki OP09-026",
     "color": "green",
     "type": "character",
-    "group": ["ODYSSEY", "Navy"],
+    "group": [
+      "ODYSSEY",
+      "Navy"
+    ],
     "attribute": "Special",
     "cost": 6,
     "power": 7000,
     "counter": 0,
     "effect": "[On Play] If you have 2 or more rested Characters, K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
-    "images": "Images/OP09/OP09-026.png"
+    "images": "Images/OP09/OP09-026.jpg"
   },
   "OP09-027": {
     "name": "Sabo OP09-027",
     "color": "green",
     "type": "character",
-    "group": ["ODYSSEY", "Revolutionary Army"],
+    "group": [
+      "ODYSSEY",
+      "Revolutionary Army"
+    ],
     "attribute": "Special",
     "cost": 5,
     "power": 6000,
     "counter": 1000,
     "effect": "[When Attacking] [Once Per Turn] If you have 3 or more rested Characters, draw 1 card.",
-    "images": "Images/OP09/OP09-027.png"
+    "images": "Images/OP09/OP09-027.jpg"
   },
   "OP09-028": {
     "name": "Sanji OP09-028",
     "color": "green",
     "type": "character",
-    "group": ["ODYSSEY", "Straw Hat Crew"],
+    "group": [
+      "ODYSSEY",
+      "Straw Hat Crew"
+    ],
     "attribute": "Strike",
     "cost": 5,
     "power": 6000,
     "counter": 1000,
     "effect": "[On K.O.] You may add 1 card from the top or bottom of your Life cards to your hand: Play up to 1 {ODYSSEY} or {Straw Hat Crew} type Character card with a cost of 4 or less from your trash rested.",
-    "images": "Images/OP09/OP09-028.png"
+    "images": "Images/OP09/OP09-028.jpg"
   },
   "OP09-029": {
     "name": "Tony Tony Chopper OP09-029",
     "color": "green",
     "type": "character",
-    "group": ["ODYSSEY", "Animal", "Straw Hat Crew"],
+    "group": [
+      "ODYSSEY",
+      "Animal",
+      "Straw Hat Crew"
+    ],
     "attribute": "Strike",
     "cost": 3,
     "power": 4000,
     "counter": 1000,
     "effect": "[End of Your Turn] Set up to 1 of your {ODYSSEY} type Characters with a cost of 4 or less as active.",
-    "images": "Images/OP09/OP09-029.png"
+    "images": "Images/OP09/OP09-029.jpg"
   },
   "OP09-030": {
     "name": "Trafalgar Law OP09-030",
     "color": "green",
     "type": "character",
-    "group": ["ODYSSEY", "Supernovas", "Heart Pirates"],
+    "group": [
+      "ODYSSEY",
+      "Supernovas",
+      "Heart Pirates"
+    ],
     "attribute": "Slash",
     "cost": 3,
     "power": 4000,
     "counter": 1000,
     "effect": "[On Play] You may return 1 of your Characters to the owner's hand: Play up to 1 {ODYSSEY} type Character card with a cost of 3 or less other than [Trafalgar Law] from your hand.",
-    "images": "Images/OP09/OP09-030.png"
+    "images": "Images/OP09/OP09-030.jpg"
   },
   "OP09-031": {
     "name": "Donquixote Doflamingo OP09-031",
     "color": "green",
     "type": "character",
-    "group": ["ODYSSEY", "The Seven Warlords of the Sea", "Donquixote Pirates"],
+    "group": [
+      "ODYSSEY",
+      "The Seven Warlords of the Sea",
+      "Donquixote Pirates"
+    ],
     "attribute": "Special",
     "cost": 5,
     "power": 6000,
     "counter": 1000,
     "effect": "[Blocker] [End of Your Turn] If you have 2 or more rested Characters, set this Character as active.",
-    "images": "Images/OP09/OP09-031.png"
+    "images": "Images/OP09/OP09-031.jpg"
   },
   "OP09-032": {
     "name": "Donquixote Rosinante OP09-032",
     "color": "green",
     "type": "character",
-    "group": ["ODYSSEY", "Navy", "Donquixote Pirates"],
+    "group": [
+      "ODYSSEY",
+      "Navy",
+      "Donquixote Pirates"
+    ],
     "attribute": "Special",
     "cost": 3,
     "power": 4000,
     "counter": 1000,
     "effect": "[Blocker] [On Your Opponent's Attack] [Once Per Turn] Set this Character as active.",
-    "images": "Images/OP09/OP09-032.png"
+    "images": "Images/OP09/OP09-032.jpg"
   },
   "OP09-033": {
     "name": "Nico Robin OP09-033",
     "color": "green",
     "type": "character",
-    "group": ["ODYSSEY", "Straw Hat Crew"],
+    "group": [
+      "ODYSSEY",
+      "Straw Hat Crew"
+    ],
     "attribute": "Strike",
     "cost": 4,
     "power": 5000,
     "counter": 1000,
     "effect": "[On Play] If you have 2 or more rested Characters, none of your {ODYSSEY} or {Straw Hat Crew} type Characters can be K.O.'d by effects until the end of your opponent's next turn.",
-    "images": "Images/OP09/OP09-033.png"
+    "images": "Images/OP09/OP09-033.jpg"
   },
   "OP09-034": {
     "name": "Perona OP09-034",
     "color": "green",
     "type": "character",
-    "group": ["Muggy Kingdom", "Thriller Bark Pirates"],
+    "group": [
+      "Muggy Kingdom",
+      "Thriller Bark Pirates"
+    ],
     "attribute": "Special",
     "cost": 1,
     "power": 2000,
     "counter": 2000,
     "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Dracule Mihawk] or {Thriller Bark Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order and trash 1 card from your hand.",
-    "images": "Images/OP09/OP09-034.png"
+    "images": "Images/OP09/OP09-034.jpg"
   },
   "OP09-035": {
     "name": "Portgas D. Ace OP09-035",
     "color": "green",
     "type": "character",
-    "group": ["ODYSSEY", "Whitebeard Pirates"],
+    "group": [
+      "ODYSSEY",
+      "Whitebeard Pirates"
+    ],
     "attribute": "Special",
     "cost": 5,
     "power": 5000,
     "counter": 2000,
     "effect": "[On Play] If you have 2 or more rested Characters, rest up to 1 of your opponent's Characters with a cost of 5 or less.",
-    "images": "Images/OP09/OP09-035.png"
+    "images": "Images/OP09/OP09-035.jpg"
   },
   "OP09-036": {
     "name": "Monkey D. Luffy OP09-036",
     "color": "green",
     "type": "character",
-    "group": ["ODYSSEY", "Supernovas", "Straw Hat Crew"],
+    "group": [
+      "ODYSSEY",
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
     "attribute": "Strike",
     "cost": 5,
     "power": 6000,
     "counter": 1000,
     "effect": "[On Play] If you have 2 or more rested Characters, rest up to 1 of your opponent's DON!! cards or Characters with a cost of 6 or less.",
-    "images": "Images/OP09/OP09-036.png"
+    "images": "Images/OP09/OP09-036.jpg"
   },
   "OP09-037": {
     "name": "Lim OP09-037",
@@ -427,57 +487,74 @@
     "power": 5000,
     "counter": 0,
     "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {ODYSSEY} type card other than [Lim] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [End of Your Turn] If you have 3 or more rested Characters, set this Character as active.",
-    "images": "Images/OP09/OP09-037.png"
+    "images": "Images/OP09/OP09-037.jpg"
   },
   "OP09-038": {
     "name": "Rob Lucci OP09-038",
     "color": "green",
     "type": "character",
-    "group": ["ODYSSEY", "CP9"],
+    "group": [
+      "ODYSSEY",
+      "CP9"
+    ],
     "attribute": "Strike",
     "cost": 4,
     "power": 6000,
     "counter": 1000,
     "effect": "None",
-    "images": "Images/OP09/OP09-038.png"
+    "images": "Images/OP09/OP09-038.jpg"
   },
   "OP09-039": {
     "name": "Gum-Gum Cuatro Jet Cross Shock Bazooka OP09-039",
     "color": "green",
     "type": "event",
-    "group": ["ODYSSEY", "Supernovas", "Straw Hat Crew"],
+    "group": [
+      "ODYSSEY",
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
     "cost": 1,
     "effect": "[Counter] If your Leader has the {ODYSSEY} type and you have 2 or more rested Characters, up to 1 of your Leader or Character cards gains +2000 power during this turn. [Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
-    "images": "Images/OP09/OP09-039.png"
+    "images": "Images/OP09/OP09-039.jpg"
   },
   "OP09-040": {
     "name": "Thunder Lance Flip Caliber Phoenix Shot OP09-040",
     "color": "green",
     "type": "event",
-    "group": ["ODYSSEY", "Supernovas", "Straw Hat Crew"],
+    "group": [
+      "ODYSSEY",
+      "Supernovas",
+      "Straw Hat Crew"
+    ],
     "cost": 3,
     "effect": "[Main] If you have 2 or more rested Characters, K.O. up to 1 of your opponent's Characters with a cost of 4 or less. [Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
-    "images": "Images/OP09/OP09-040.png"
+    "images": "Images/OP09/OP09-040.jpg"
   },
   "OP09-041": {
     "name": "Soul Franky Swing Arm Boxing Solid OP09-041",
     "color": "green",
     "type": "event",
-    "group": ["ODYSSEY", "Straw Hat Crew"],
+    "group": [
+      "ODYSSEY",
+      "Straw Hat Crew"
+    ],
     "cost": 1,
     "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if your Leader has the {ODYSSEY} type and you have 2 or more rested Characters, set up to 2 of your Characters as active. [Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
-    "images": "Images/OP09/OP09-041.png"
+    "images": "Images/OP09/OP09-041.jpg"
   },
   "OP09-042": {
     "name": "Buggy OP09-042",
     "color": "blue",
     "type": "leader",
-    "group": ["The Four Emperors", "Cross Guild"],
+    "group": [
+      "The Four Emperors",
+      "Cross Guild"
+    ],
     "attribute": "Slash",
     "life": 5,
     "power": 5000,
     "effect": "[Activate: Main] You may rest 5 of your DON!! cards and trash 1 card from your hand: Play up to 1 {Cross Guild} type Character card from your hand.",
-    "images": "Images/OP09/OP09-042.png"
+    "images": "Images/OP09/OP09-042.jpg"
   },
   "OP09-043": {
     "name": "Alvida OP09-043",
@@ -489,19 +566,22 @@
     "power": 6000,
     "counter": 1000,
     "effect": "[On K.O.] If your Leader has the {Cross Guild} type, play up to 1 Character card with a cost of 5 or less other than [Alvida] from your hand.",
-    "images": "Images/OP09/OP09-043.png"
+    "images": "Images/OP09/OP09-043.jpg"
   },
   "OP09-044": {
     "name": "Izo OP09-044",
     "color": "blue",
     "type": "character",
-    "group": ["Land of Wano", "Whitebeard Pirates"],
+    "group": [
+      "Land of Wano",
+      "Whitebeard Pirates"
+    ],
     "attribute": "Ranged",
     "cost": 3,
     "power": 4000,
     "counter": 1000,
     "effect": "[When Attacking] Look at 5 cards from the top of your deck; reveal up to 1 {Land of Wano} type card or card with a type including \"Whitebeard Pirates\" and add it to your hand. Then, place the rest at the bottom of your deck in any order and trash 1 card from your hand.",
-    "images": "Images/OP09/OP09-044.png"
+    "images": "Images/OP09/OP09-044.jpg"
   },
   "OP09-045": {
     "name": "Cabaji OP09-045",
@@ -513,31 +593,37 @@
     "power": 5000,
     "counter": 2000,
     "effect": "If you have a [Buggy] or [Mohji] Character, this Character cannot be K.O.'d in battle.",
-    "images": "Images/OP09/OP09-045.png"
+    "images": "Images/OP09/OP09-045.jpg"
   },
   "OP09-046": {
     "name": "Crocodile OP09-046",
     "color": "blue",
     "type": "character",
-    "group": ["Cross Guild", "Former Baroque Works"],
+    "group": [
+      "Cross Guild",
+      "Former Baroque Works"
+    ],
     "attribute": "Special",
     "cost": 7,
     "power": 7000,
     "counter": 1000,
     "effect": "[On Play] Play up to 1 {Cross Guild} type Character card or Character card with a type including \"Baroque Works\" with a cost of 5 or less from your hand.",
-    "images": "Images/OP09/OP09-046.png"
+    "images": "Images/OP09/OP09-046.jpg"
   },
   "OP09-047": {
     "name": "Kouzuki Oden OP09-047",
     "color": "blue",
     "type": "character",
-    "group": ["Land of Wano", "Whitebeard Pirates"],
+    "group": [
+      "Land of Wano",
+      "Whitebeard Pirates"
+    ],
     "attribute": "Slash",
     "cost": 9,
     "power": 10000,
     "counter": 0,
     "effect": "[Double Attack] [On K.O.] Draw 2 cards and trash 1 card from your hand.",
-    "images": "Images/OP09/OP09-047.png"
+    "images": "Images/OP09/OP09-047.jpg"
   },
   "OP09-048": {
     "name": "Dracule Mihawk OP09-048",
@@ -549,7 +635,7 @@
     "power": 7000,
     "counter": 0,
     "effect": "[Blocker] [On Play] Draw 2 cards and trash 1 card from your hand.",
-    "images": "Images/OP09/OP09-048.png"
+    "images": "Images/OP09/OP09-048.jpg"
   },
   "OP09-049": {
     "name": "Jozu OP09-049",
@@ -561,7 +647,7 @@
     "power": 6000,
     "counter": 1000,
     "effect": "None",
-    "images": "Images/OP09/OP09-049.png"
+    "images": "Images/OP09/OP09-049.jpg"
   },
   "OP09-050": {
     "name": "Nami OP09-050",
@@ -573,19 +659,22 @@
     "power": 1000,
     "counter": 1000,
     "effect": "[When Attacking] Look at 5 cards from the top of your deck; reveal up to 1 blue Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-    "images": "Images/OP09/OP09-050.png"
+    "images": "Images/OP09/OP09-050.jpg"
   },
   "OP09-051": {
     "name": "Buggy OP09-051",
     "color": "blue",
     "type": "character",
-    "group": ["The Four Emperors", "Cross Guild"],
+    "group": [
+      "The Four Emperors",
+      "Cross Guild"
+    ],
     "attribute": "Slash",
     "cost": 10,
     "power": 12000,
     "counter": 0,
     "effect": "[On Play] Place up to 1 of your opponent's Characters at the bottom of the owner's deck. Then, if you do not have 5 Characters with a cost of 5 or more, place this Character at the bottom of the owner's deck.",
-    "images": "Images/OP09/OP09-051.png"
+    "images": "Images/OP09/OP09-051.jpg"
   },
   "OP09-052": {
     "name": "Marco OP09-052",
@@ -597,7 +686,7 @@
     "power": 5000,
     "counter": 0,
     "effect": "[Opponent's Turn] You may trash 1 card from your hand: When this Character is K.O.'d by your opponent's effect, play this Character card from your trash rested.",
-    "images": "Images/OP09/OP09-052.png"
+    "images": "Images/OP09/OP09-052.jpg"
   },
   "OP09-053": {
     "name": "Mohji OP09-053",
@@ -609,43 +698,52 @@
     "power": 5000,
     "counter": 2000,
     "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Richie] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Richie] from your hand.",
-    "images": "Images/OP09/OP09-053.png"
+    "images": "Images/OP09/OP09-053.jpg"
   },
   "OP09-054": {
     "name": "Richie OP09-054",
     "color": "blue",
     "type": "character",
-    "group": ["Animal", "Cross Guild"],
+    "group": [
+      "Animal",
+      "Cross Guild"
+    ],
     "attribute": "Strike",
     "cost": 2,
     "power": 2000,
     "counter": 1000,
     "effect": "[Blocker]",
-    "images": "Images/OP09/OP09-054.png"
+    "images": "Images/OP09/OP09-054.jpg"
   },
   "OP09-055": {
     "name": "Mr. 1 (Daz Bonez) OP09-055",
     "color": "blue",
     "type": "character",
-    "group": ["Cross Guild", "Former Baroque Works"],
+    "group": [
+      "Cross Guild",
+      "Former Baroque Works"
+    ],
     "attribute": "Slash",
     "cost": 5,
     "power": 7000,
     "counter": 1000,
     "effect": "None",
-    "images": "Images/OP09/OP09-055.png"
+    "images": "Images/OP09/OP09-055.jpg"
   },
   "OP09-056": {
     "name": "Mr. 3 (Galdino) OP09-056",
     "color": "blue",
     "type": "character",
-    "group": ["Cross Guild", "Former Baroque Works"],
+    "group": [
+      "Cross Guild",
+      "Former Baroque Works"
+    ],
     "attribute": "Special",
     "cost": 1,
     "power": 2000,
     "counter": 1000,
     "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 {Cross Guild} type card or card with a type including \"Baroque Works\" other than [Mr. 3 (Galdino)] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-    "images": "Images/OP09/OP09-056.png"
+    "images": "Images/OP09/OP09-056.jpg"
   },
   "OP09-057": {
     "name": "Cross Guild OP09-057",
@@ -654,7 +752,7 @@
     "group": "Cross Guild",
     "cost": 1,
     "effect": "[Main] Look at 4 cards from the top of your deck; reveal up to 1 {Cross Guild} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] Activate this card's [Main] effect.",
-    "images": "Images/OP09/OP09-057.png"
+    "images": "Images/OP09/OP09-057.jpg"
   },
   "OP09-058": {
     "name": "Special Muggy Ball OP09-058",
@@ -663,7 +761,7 @@
     "group": "Buggy Pirates",
     "cost": 2,
     "effect": "[Main] Your opponent chooses 1 of their Character with a cost of 6 or less and return to the owner's hand. [Trigger] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
-    "images": "Images/OP09/OP09-058.png"
+    "images": "Images/OP09/OP09-058.jpg"
   },
   "OP09-059": {
     "name": "Murder at the Steam Bath OP09-059",
@@ -672,7 +770,7 @@
     "group": "Buggy Pirates",
     "cost": 2,
     "effect": "[Counter] Up to 1 of your Leader or Character cards gains +3000 power during this battle. Then, trash up to 2 cards from your hand. Trash the same number of cards from the top of your deck as you did from your hand. [Trigger] Draw 1 card.",
-    "images": "Images/OP09/OP09-059.png"
+    "images": "Images/OP09/OP09-059.jpg"
   },
   "OP09-060": {
     "name": "Emptee Bluffs Island OP09-060",
@@ -681,29 +779,38 @@
     "group": "Cross Guild",
     "cost": 1,
     "effect": "[Activate: Main] You may place 2 cards from your hand at the bottom of your deck in any order and rest this Stage: If your Leader has the {Cross Guild} type, draw 2 cards.",
-    "images": "Images/OP09/OP09-060.png"
+    "images": "Images/OP09/OP09-060.jpg"
   },
   "OP09-061": {
     "name": "Monkey D. Luffy OP09-061",
-    "color": ["purple", "black"],
+    "color": [
+      "purple",
+      "black"
+    ],
     "type": "leader",
-    "group": ["The Four Emperors", "Straw Hat Crew"],
+    "group": [
+      "The Four Emperors",
+      "Straw Hat Crew"
+    ],
     "attribute": "Strike",
     "life": 4,
     "power": 5000,
     "effect": "[DON!! x1] All of your Characters gain +1 cost. [Your Turn] [Once Per Turn] When 2 or more DON!! cards on your field are returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.",
-    "images": "Images/OP09/OP09-061.png"
+    "images": "Images/OP09/OP09-061.jpg"
   },
   "OP09-062": {
     "name": "Nico Robin OP09-062",
-    "color": ["purple", "yellow"],
+    "color": [
+      "purple",
+      "yellow"
+    ],
     "type": "leader",
     "group": "Straw Hat Crew",
     "attribute": "Strike",
     "life": 4,
     "power": 5000,
     "effect": "[Banish] [When Attacking] You may trash 1 card with a [Trigger] from your hand: Add up to 1 DON!! card from your DON!! deck and rest it.",
-    "images": "Images/OP09/OP09-062.png"
+    "images": "Images/OP09/OP09-062.jpg"
   },
   "OP09-063": {
     "name": "Usopp OP09-063",
@@ -715,7 +822,7 @@
     "power": 6000,
     "counter": 1000,
     "effect": "None",
-    "images": "Images/OP09/OP09-063.png"
+    "images": "Images/OP09/OP09-063.jpg"
   },
   "OP09-064": {
     "name": "Killer OP09-064",
@@ -727,7 +834,7 @@
     "power": 5000,
     "counter": 1000,
     "effect": "[On Play] DON!! −1 Set up to 1 of your {Kid Pirates} type Leader as active.",
-    "images": "Images/OP09/OP09-064.png"
+    "images": "Images/OP09/OP09-064.jpg"
   },
   "OP09-065": {
     "name": "Sanji OP09-065",
@@ -739,7 +846,7 @@
     "power": 7000,
     "counter": 1000,
     "effect": "[On Play] You may return 1 or more DON!! cards from your field to your DON!! deck: This Character gains [Rush] during this turn. Then, rest up to 1 of your opponent's Characters with a cost of 6 or less.",
-    "images": "Images/OP09/OP09-065.png"
+    "images": "Images/OP09/OP09-065.jpg"
   },
   "OP09-066": {
     "name": "Jean Bart OP09-066",
@@ -751,31 +858,37 @@
     "power": 6000,
     "counter": 0,
     "effect": "[On Play] If your opponent has more DON!! cards on their field than you, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
-    "images": "Images/OP09/OP09-066.png"
+    "images": "Images/OP09/OP09-066.jpg"
   },
   "OP09-067": {
     "name": "Jinbe OP09-067",
     "color": "purple",
     "type": "character",
-    "group": ["Fish-Man", "Straw Hat Crew"],
+    "group": [
+      "Fish-Man",
+      "Straw Hat Crew"
+    ],
     "attribute": "Strike",
     "cost": 7,
     "power": 9000,
     "counter": 1000,
     "effect": "None",
-    "images": "Images/OP09/OP09-067.png"
+    "images": "Images/OP09/OP09-067.jpg"
   },
   "OP09-068": {
     "name": "Tony Tony Chopper OP09-068",
     "color": "purple",
     "type": "character",
-    "group": ["Animal", "Straw Hat Crew"],
+    "group": [
+      "Animal",
+      "Straw Hat Crew"
+    ],
     "attribute": "Strike",
     "cost": 5,
     "power": 6000,
     "counter": 1000,
     "effect": "[End of Your Turn] You may return 1 or more DON!! cards from your field to your DON!! deck: Set this Character as active. Then, this Character gains [Blocker] until the end of your opponent's next turn.",
-    "images": "Images/OP09/OP09-068.png"
+    "images": "Images/OP09/OP09-068.jpg"
   },
   "OP09-069": {
     "name": "Trafalgar Law OP09-069",
@@ -787,7 +900,7 @@
     "power": 2000,
     "counter": 1000,
     "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} or {Heart Pirates} type card with a cost of 2 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-    "images": "Images/OP09/OP09-069.png"
+    "images": "Images/OP09/OP09-069.jpg"
   },
   "OP09-070": {
     "name": "Nami OP09-070",
@@ -799,7 +912,7 @@
     "power": 2000,
     "counter": 2000,
     "effect": "[On Play] You may return 1 or more DON!! cards from your field to your DON!! deck: Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
-    "images": "Images/OP09/OP09-070.png"
+    "images": "Images/OP09/OP09-070.jpg"
   },
   "OP09-071": {
     "name": "Nico Robin OP09-071",
@@ -811,7 +924,7 @@
     "power": 2000,
     "counter": 1000,
     "effect": "[Blocker]",
-    "images": "Images/OP09/OP09-071.png"
+    "images": "Images/OP09/OP09-071.jpg"
   },
   "OP09-072": {
     "name": "Franky OP09-072",
@@ -823,7 +936,7 @@
     "power": 5000,
     "counter": 1000,
     "effect": "[Blocker] [On Play] DON!! −2, You may trash 1 card from your hand: Draw 2 cards.",
-    "images": "Images/OP09/OP09-072.png"
+    "images": "Images/OP09/OP09-072.jpg"
   },
   "OP09-073": {
     "name": "Brook OP09-073",
@@ -835,19 +948,22 @@
     "power": 7000,
     "counter": 1000,
     "effect": "[When Attacking] You may return 1 or more DON!! cards from your field to your DON!! deck: Give up to 2 of your opponent's Characters −2000 power during this turn.",
-    "images": "Images/OP09/OP09-073.png"
+    "images": "Images/OP09/OP09-073.jpg"
   },
   "OP09-074": {
     "name": "Bepo OP09-074",
     "color": "purple",
     "type": "character",
-    "group": ["Minks", "Heart Pirates"],
+    "group": [
+      "Minks",
+      "Heart Pirates"
+    ],
     "attribute": "Strike",
     "cost": 2,
     "power": 2000,
     "counter": 2000,
     "effect": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, up to 1 of your Leader or Character cards gains +1000 power during this turn.",
-    "images": "Images/OP09/OP09-074.png"
+    "images": "Images/OP09/OP09-074.jpg"
   },
   "OP09-075": {
     "name": "Eustass 'Captain' Kid OP09-075",
@@ -859,7 +975,7 @@
     "power": 5000,
     "counter": 0,
     "effect": "[On Play] You may add 1 card from the top of your Life cards to your hand: If your Leader has the {Kid Pirates} type, add up to 1 DON!! card from your DON!! deck and set it as active.",
-    "images": "Images/OP09/OP09-075.png"
+    "images": "Images/OP09/OP09-075.jpg"
   },
   "OP09-076": {
     "name": "Roronoa Zoro OP09-076",
@@ -871,34 +987,43 @@
     "power": 5000,
     "counter": 0,
     "effect": "[On Play] You may return 1 or more DON!! cards from your field to your DON!! deck: Add up to 1 DON!! card from your DON!! deck and set it as active.",
-    "images": "Images/OP09/OP09-076.png"
+    "images": "Images/OP09/OP09-076.jpg"
   },
   "OP09-077": {
     "name": "Gum-Gum Lightning OP09-077",
     "color": "purple",
     "type": "event",
-    "group": ["The Four Emperors", "Straw Hat Crew"],
+    "group": [
+      "The Four Emperors",
+      "Straw Hat Crew"
+    ],
     "cost": 2,
     "effect": "[Main] DON!! −2 K.O. up to 1 of your opponent's Characters with 6000 power or less. [Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
-    "images": "Images/OP09/OP09-077.png"
+    "images": "Images/OP09/OP09-077.jpg"
   },
   "OP09-078": {
     "name": "Gum-Gum Giant OP09-078",
     "color": "purple",
     "type": "event",
-    "group": ["The Four Emperors", "Straw Hat Crew"],
+    "group": [
+      "The Four Emperors",
+      "Straw Hat Crew"
+    ],
     "cost": 1,
     "effect": "[Counter] DON!! −2, You may trash 1 card from your hand: If your Leader has the {Straw Hat Crew} type, up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, draw 2 cards.",
-    "images": "Images/OP09/OP09-078.png"
+    "images": "Images/OP09/OP09-078.jpg"
   },
   "OP09-079": {
     "name": "Gum-Gum Jump Rope OP09-079",
     "color": "purple",
     "type": "event",
-    "group": ["The Four Emperors", "Straw Hat Crew"],
+    "group": [
+      "The Four Emperors",
+      "Straw Hat Crew"
+    ],
     "cost": 2,
     "effect": "[Main] DON!! −2 Rest up to 1 of your opponent's Characters with a cost of 5 or less. Then, draw 1 card. [Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
-    "images": "Images/OP09/OP09-079.png"
+    "images": "Images/OP09/OP09-079.jpg"
   },
   "OP09-080": {
     "name": "Thousand Sunny OP09-080",
@@ -907,18 +1032,21 @@
     "group": "Straw Hat Crew",
     "cost": 1,
     "effect": "[Opponent's Turn] You may rest this Stage: When your {Straw Hat Crew} type Character is removed from the field by your opponent's effect, add up to 1 DON!! card from your DON!! deck and rest it.",
-    "images": "Images/OP09/OP09-080.png"
+    "images": "Images/OP09/OP09-080.jpg"
   },
   "OP09-081": {
     "name": "Marshall D. Teach OP09-081",
     "color": "black",
     "type": "leader",
-    "group": ["The Four Emperors", "Blackbeard Pirates"],
+    "group": [
+      "The Four Emperors",
+      "Blackbeard Pirates"
+    ],
     "attribute": "Special",
     "life": 5,
     "power": 5000,
     "effect": "Your [On Play] effects are negated. [Activate: Main] You may trash 1 card from your hand: Your opponent's [On Play] effects are negated until the end of your opponent's next turn.",
-    "images": "Images/OP09/OP09-081.png"
+    "images": "Images/OP09/OP09-081.jpg"
   },
   "OP09-082": {
     "name": "Avalo Pizarro OP09-082",
@@ -930,7 +1058,7 @@
     "power": 6000,
     "counter": 1000,
     "effect": "None",
-    "images": "Images/OP09/OP09-082.png"
+    "images": "Images/OP09/OP09-082.jpg"
   },
   "OP09-083": {
     "name": "Van Augur OP09-083",
@@ -942,7 +1070,7 @@
     "power": 6000,
     "counter": 1000,
     "effect": "[Activate: Main] You may rest this Character: If your Leader has the {Blackbeard Pirates} type, give up to 1 of your opponent's Characters −3 cost during this turn. [On K.O.] Draw 1 card.",
-    "images": "Images/OP09/OP09-083.png"
+    "images": "Images/OP09/OP09-083.jpg"
   },
   "OP09-084": {
     "name": "Catarina Devon OP09-084",
@@ -954,7 +1082,7 @@
     "power": 6000,
     "counter": 1000,
     "effect": "[Activate: Main] [Once Per Turn] If your Leader has the {Blackbeard Pirates} type, this Character gains [Double Attack], [Banish] or [Blocker] until the end of your opponent's next turn.",
-    "images": "Images/OP09/OP09-084.png"
+    "images": "Images/OP09/OP09-084.jpg"
   },
   "OP09-085": {
     "name": "Gecko Moria OP09-085",
@@ -966,7 +1094,7 @@
     "power": 5000,
     "counter": 0,
     "effect": "[On Play] Play up to 1 {Thriller Bark Pirates} type Character card with a cost of 2 or less from your trash rested.",
-    "images": "Images/OP09/OP09-085.png"
+    "images": "Images/OP09/OP09-085.jpg"
   },
   "OP09-086": {
     "name": "Jesus Burgess OP09-086",
@@ -978,7 +1106,7 @@
     "power": 5000,
     "counter": 1000,
     "effect": "This Character cannot be K.O.'d by your opponent's effects. If your Leader has the {Blackbeard Pirates} type, this Character gains +1000 power for every 4 cards in your trash.",
-    "images": "Images/OP09/OP09-086.png"
+    "images": "Images/OP09/OP09-086.jpg"
   },
   "OP09-087": {
     "name": "Charlotte Pudding OP09-087",
@@ -990,7 +1118,7 @@
     "power": 0,
     "counter": 1000,
     "effect": "[On Play] If your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.",
-    "images": "Images/OP09/OP09-087.png"
+    "images": "Images/OP09/OP09-087.jpg"
   },
   "OP09-088": {
     "name": "Shiryu OP09-088",
@@ -1002,19 +1130,22 @@
     "power": 4000,
     "counter": 2000,
     "effect": "[DON!! x1] [When Attacking] You may trash 2 cards from your hand: Draw 2 cards.",
-    "images": "Images/OP09/OP09-088.png"
+    "images": "Images/OP09/OP09-088.jpg"
   },
   "OP09-089": {
     "name": "Stronger OP09-089",
     "color": "black",
     "type": "character",
-    "group": ["Animal", "Blackbeard Pirates"],
+    "group": [
+      "Animal",
+      "Blackbeard Pirates"
+    ],
     "attribute": "Wisdom",
     "cost": 1,
     "power": 0,
     "counter": 2000,
     "effect": "[Activate: Main] You may trash 1 card from your hand and trash this Character: If your Leader has the {Blackbeard Pirates} type, draw 1 card. Then, give up to 1 of your opponent's Characters −2 cost during this turn.",
-    "images": "Images/OP09/OP09-089.png"
+    "images": "Images/OP09/OP09-089.jpg"
   },
   "OP09-090": {
     "name": "Doc Q OP09-090",
@@ -1026,7 +1157,7 @@
     "power": 0,
     "counter": 1000,
     "effect": "[Activate: Main] You may rest this Character: If your Leader has the {Blackbeard Pirates} type, K.O. up to 1 of your opponent's Characters with a cost of 1 or less. [On K.O.] Draw 1 card.",
-    "images": "Images/OP09/OP09-090.png"
+    "images": "Images/OP09/OP09-090.jpg"
   },
   "OP09-091": {
     "name": "Vasco Shot OP09-091",
@@ -1038,7 +1169,7 @@
     "power": 2000,
     "counter": 1000,
     "effect": "[Blocker]",
-    "images": "Images/OP09/OP09-091.png"
+    "images": "Images/OP09/OP09-091.jpg"
   },
   "OP09-092": {
     "name": "Marshall D. Teach OP09-092",
@@ -1050,31 +1181,37 @@
     "power": 4000,
     "counter": 1000,
     "effect": "[Activate: Main] You may rest this Character: If the number of cards in your hand is at least 3 less than the number in your opponent's hand, draw 2 cards and trash 1 card from your hand.",
-    "images": "Images/OP09/OP09-092.png"
+    "images": "Images/OP09/OP09-092.jpg"
   },
   "OP09-093": {
     "name": "Marshall D. Teach OP09-093",
     "color": "black",
     "type": "character",
-    "group": ["The Four Emperors", "Blackbeard Pirates"],
+    "group": [
+      "The Four Emperors",
+      "Blackbeard Pirates"
+    ],
     "attribute": "Special",
     "cost": 10,
     "power": 12000,
     "counter": 0,
     "effect": "[Blocker] [Activate: Main] [Once Per Turn] If your Leader has the {Blackbeard Pirates} type and this Character was played on this turn, negate the effect of up to 1 of your opponent's Leader during this turn. Then, negate the effect of up to 1 of your opponent's Characters and that Character cannot attack until the end of your opponent's next turn.",
-    "images": "Images/OP09/OP09-093.png"
+    "images": "Images/OP09/OP09-093.jpg"
   },
   "OP09-094": {
     "name": "Peachbeard OP09-094",
     "color": "black",
     "type": "character",
-    "group": ["Peachbeard Pirates", "Blackbeard Pirates Allies"],
+    "group": [
+      "Peachbeard Pirates",
+      "Blackbeard Pirates Allies"
+    ],
     "attribute": "Slash",
     "cost": 3,
     "power": 5000,
     "counter": 1000,
     "effect": "None",
-    "images": "Images/OP09/OP09-094.png"
+    "images": "Images/OP09/OP09-094.jpg"
   },
   "OP09-095": {
     "name": "Laffitte OP09-095",
@@ -1086,7 +1223,7 @@
     "power": 1000,
     "counter": 1000,
     "effect": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Blackbeard Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-    "images": "Images/OP09/OP09-095.png"
+    "images": "Images/OP09/OP09-095.jpg"
   },
   "OP09-096": {
     "name": "My Era...Begins!! OP09-096",
@@ -1095,7 +1232,7 @@
     "group": "Blackbeard Pirates",
     "cost": 1,
     "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Blackbeard Pirates} type card other than [My Era...Begins!!] and add it to your hand. Then, trash the rest. [Trigger] Activate this card's [Main] effect.",
-    "images": "Images/OP09/OP09-096.png"
+    "images": "Images/OP09/OP09-096.jpg"
   },
   "OP09-097": {
     "name": "Black Vortex OP09-097",
@@ -1104,7 +1241,7 @@
     "group": "Blackbeard Pirates",
     "cost": 2,
     "effect": "[Counter] Negate the effect of up to 1 of your opponent's Leader or Character cards and give that card −4000 power during this turn. [Trigger] Negate the effect of up to 1 of your opponent's Leader or Character cards during this turn.",
-    "images": "Images/OP09/OP09-097.png"
+    "images": "Images/OP09/OP09-097.jpg"
   },
   "OP09-098": {
     "name": "Black Hole OP09-098",
@@ -1113,7 +1250,7 @@
     "group": "Blackbeard Pirates",
     "cost": 4,
     "effect": "[Main] If your Leader has the {Blackbeard Pirates} type, negate the effect of up to 1 of your opponent's Characters during this turn. Then, if that Character has a cost of 4 or less, K.O. it. [Trigger] Negate the effect of up to 1 of your opponent's Leader or Character cards during this turn.",
-    "images": "Images/OP09/OP09-098.png"
+    "images": "Images/OP09/OP09-098.jpg"
   },
   "OP09-099": {
     "name": "Fullalead OP09-099",
@@ -1122,7 +1259,7 @@
     "group": "Blackbeard Pirates",
     "cost": 1,
     "effect": "[Activate: Main] You may trash 1 card from your hand and rest this Stage: Look at 3 cards from the top of your deck; reveal up to 1 {Blackbeard Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
-    "images": "Images/OP09/OP09-099.png"
+    "images": "Images/OP09/OP09-099.jpg"
   },
   "OP09-100": {
     "name": "Karasu OP09-100",
@@ -1134,7 +1271,7 @@
     "power": 4000,
     "counter": 1000,
     "effect": "[Blocker] [Trigger] If your Leader has the {Revolutionary Army} type and you and your opponent have a total of 5 or less Life cards, play this card.",
-    "images": "Images/OP09/OP09-100.png"
+    "images": "Images/OP09/OP09-100.jpg"
   },
   "OP09-101": {
     "name": "Kuzan OP09-101",
@@ -1146,7 +1283,7 @@
     "power": 5000,
     "counter": 1000,
     "effect": "[On Play] Place 1 of your opponent's Characters with a cost of 3 or less at the top or bottom of your opponent's Life cards face-up: Your opponent trashes 1 card from their hand.",
-    "images": "Images/OP09/OP09-101.png"
+    "images": "Images/OP09/OP09-101.jpg"
   },
   "OP09-102": {
     "name": "Professor Clover OP09-102",
@@ -1158,7 +1295,7 @@
     "power": 0,
     "counter": 2000,
     "effect": "[On Play] If your Leader is [Nico Robin], look at 3 cards from the top of your deck; reveal up to 1 card with a [Trigger] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] Activate this card's [On Play] effect.",
-    "images": "Images/OP09/OP09-102.png"
+    "images": "Images/OP09/OP09-102.jpg"
   },
   "OP09-103": {
     "name": "Koala OP09-103",
@@ -1170,7 +1307,7 @@
     "power": 6000,
     "counter": 0,
     "effect": "[Blocker] [On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Play up to 1 {Revolutionary Army} type Character card with a cost of 4 or less from your hand. If you do, draw 1 card.",
-    "images": "Images/OP09/OP09-103.png"
+    "images": "Images/OP09/OP09-103.jpg"
   },
   "OP09-104": {
     "name": "Sabo OP09-104",
@@ -1182,19 +1319,22 @@
     "power": 7000,
     "counter": 1000,
     "effect": "[On Play] Add up to 1 {Revolutionary Army} type Character card from your hand to the top of your Life cards face-up. Then, if you have 2 or more Life cards, add 1 card from the top or bottom of your Life cards to your hand. [Trigger] If your Leader is multicolored, draw 2 cards.",
-    "images": "Images/OP09/OP09-104.png"
+    "images": "Images/OP09/OP09-104.jpg"
   },
   "OP09-105": {
     "name": "Sanji OP09-105",
     "color": "yellow",
     "type": "character",
-    "group": ["Egghead", "Straw Hat Crew"],
+    "group": [
+      "Egghead",
+      "Straw Hat Crew"
+    ],
     "attribute": "Strike",
     "cost": 5,
     "power": 6000,
     "counter": 1000,
     "effect": "[Trigger] If your Leader has the {Egghead} type, add up to 1 card from the top of your deck to the top of your Life cards. Then, trash 2 cards from your hand.",
-    "images": "Images/OP09/OP09-105.png"
+    "images": "Images/OP09/OP09-105.jpg"
   },
   "OP09-106": {
     "name": "Nico Olvia OP09-106",
@@ -1206,7 +1346,7 @@
     "power": 0,
     "counter": 2000,
     "effect": "[On Play] Up to 1 of your [Nico Robin] Leader gains +3000 power during this turn. [Trigger] If your Leader is [Nico Robin], draw 3 cards and trash 2 cards from your hand.",
-    "images": "Images/OP09/OP09-106.png"
+    "images": "Images/OP09/OP09-106.jpg"
   },
   "OP09-107": {
     "name": "Nico Robin OP09-107",
@@ -1218,55 +1358,68 @@
     "power": 6000,
     "counter": 1000,
     "effect": "[On Play] If your opponent has 3 or more Life cards, trash up to 1 card from the top of your opponent's Life cards. [Trigger] Play up to 1 yellow Character card with a cost of 3 or less from your hand.",
-    "images": "Images/OP09/OP09-107.png"
+    "images": "Images/OP09/OP09-107.jpg"
   },
   "OP09-108": {
     "name": "Bartholomew Kuma OP09-108",
     "color": "yellow",
     "type": "character",
-    "group": ["The Seven Warlords of the Sea", "Revolutionary Army"],
+    "group": [
+      "The Seven Warlords of the Sea",
+      "Revolutionary Army"
+    ],
     "attribute": "Strike",
     "cost": 4,
     "power": 5000,
     "counter": 2000,
     "effect": "[Trigger] If your Leader has the {Revolutionary Army} type and you and your opponent have a total of 5 or less Life cards, play this card.",
-    "images": "Images/OP09/OP09-108.png"
+    "images": "Images/OP09/OP09-108.jpg"
   },
   "OP09-109": {
     "name": "Jaguar D. Saul OP09-109",
     "color": "yellow",
     "type": "character",
-    "group": ["Ohara", "Giant", "Navy"],
+    "group": [
+      "Ohara",
+      "Giant",
+      "Navy"
+    ],
     "attribute": "Strike",
     "cost": 3,
     "power": 5000,
     "counter": 0,
     "effect": "[Blocker] [Trigger] If your Leader is [Nico Robin], play this card.",
-    "images": "Images/OP09/OP09-109.png"
+    "images": "Images/OP09/OP09-109.jpg"
   },
   "OP09-110": {
     "name": "Pierre OP09-110",
     "color": "yellow",
     "type": "character",
-    "group": ["Animal", "Sky Island"],
+    "group": [
+      "Animal",
+      "Sky Island"
+    ],
     "attribute": "Strike",
     "cost": 2,
     "power": 2000,
     "counter": 1000,
     "effect": "[On Play] Draw 2 cards and trash 2 cards from your hand. [Trigger] Play this card.",
-    "images": "Images/OP09/OP09-110.png"
+    "images": "Images/OP09/OP09-110.jpg"
   },
   "OP09-111": {
     "name": "Brook OP09-111",
     "color": "yellow",
     "type": "character",
-    "group": ["Egghead", "Straw Hat Crew"],
+    "group": [
+      "Egghead",
+      "Straw Hat Crew"
+    ],
     "attribute": "Slash",
     "cost": 5,
     "power": 6000,
     "counter": 1000,
     "effect": "[Trigger] If your Leader has the {Egghead} type and your opponent has 6 or more cards in their hand, your opponent trashes 2 cards from their hand.",
-    "images": "Images/OP09/OP09-111.png"
+    "images": "Images/OP09/OP09-111.jpg"
   },
   "OP09-112": {
     "name": "Belo Betty OP09-112",
@@ -1278,31 +1431,37 @@
     "power": 4000,
     "counter": 1000,
     "effect": "[On Play] If you have 2 or less Life cards, draw 1 card. [Trigger] If your Leader has the {Revolutionary Army} type and you and your opponent have a total of 5 or less Life cards, play this card.",
-    "images": "Images/OP09/OP09-112.png"
+    "images": "Images/OP09/OP09-112.jpg"
   },
   "OP09-113": {
     "name": "Morley OP09-113",
     "color": "yellow",
     "type": "character",
-    "group": ["Giant", "Revolutionary Army"],
+    "group": [
+      "Giant",
+      "Revolutionary Army"
+    ],
     "attribute": "Special",
     "cost": 4,
     "power": 6000,
     "counter": 1000,
     "effect": "None",
-    "images": "Images/OP09/OP09-113.png"
+    "images": "Images/OP09/OP09-113.jpg"
   },
   "OP09-114": {
     "name": "Lindbergh OP09-114",
     "color": "yellow",
     "type": "character",
-    "group": ["Minks", "Revolutionary Army"],
+    "group": [
+      "Minks",
+      "Revolutionary Army"
+    ],
     "attribute": "Special",
     "cost": 3,
     "power": 4000,
     "counter": 1000,
     "effect": "[On Play] If you and your opponent have a total of 5 or less Life cards, K.O. up to 1 of your opponent's Characters with 2000 power or less. [Trigger] If you and your opponent have a total of 5 or less Life cards, play this card.",
-    "images": "Images/OP09/OP09-114.png"
+    "images": "Images/OP09/OP09-114.jpg"
   },
   "OP09-115": {
     "name": "Ice Block Partisan OP09-115",
@@ -1311,7 +1470,7 @@
     "group": "Navy",
     "cost": 1,
     "effect": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 3 or less and a [Trigger]. [Trigger] Draw 1 card.",
-    "images": "Images/OP09/OP09-115.png"
+    "images": "Images/OP09/OP09-115.jpg"
   },
   "OP09-116": {
     "name": "Never Underestimate the Power of Miracles!! OP09-116",
@@ -1320,7 +1479,7 @@
     "group": "Revolutionary Army",
     "cost": 1,
     "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. [Trigger] Play up to 1 {Revolutionary Army} type Character card with a cost of 4 or less from your hand.",
-    "images": "Images/OP09/OP09-116.png"
+    "images": "Images/OP09/OP09-116.jpg"
   },
   "OP09-117": {
     "name": "Dereshi! OP09-117",
@@ -1329,19 +1488,22 @@
     "group": "Ohara",
     "cost": 3,
     "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 2 cards with a [Trigger] other than [Dereshi!] and add them to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] Draw 1 card.",
-    "images": "Images/OP09/OP09-117.png"
+    "images": "Images/OP09/OP09-117.jpg"
   },
   "OP09-118": {
     "name": "Gol D. Roger OP09-118",
     "color": "red",
     "type": "character",
-    "group": ["King of the Pirates", "Roger Pirates"],
+    "group": [
+      "King of the Pirates",
+      "Roger Pirates"
+    ],
     "attribute": "Slash",
     "cost": 10,
     "power": 13000,
     "counter": 0,
     "effect": "[Rush] When your opponent activates [Blocker], if either you or your opponent has 0 Life cards, you win the game.",
-    "images": "Images/OP09/OP09-118.png"
+    "images": "Images/OP09/OP09-118.jpg"
   },
   "OP09-119": {
     "name": "Monkey D. Luffy OP09-119",
@@ -1353,6 +1515,6 @@
     "power": 10000,
     "counter": 0,
     "effect": "[On Play] You may return 1 or more DON!! cards from your field to your DON!! deck: Draw 1 card and this Character gains [Rush] during this turn.",
-    "images": "Images/OP09/OP09-119.png"
+    "images": "Images/OP09/OP09-119.jpg"
   }
 }
