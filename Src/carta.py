@@ -2,12 +2,17 @@
 import json
 import pygame
 import os
-
+import random
+import queue
 
 class CartaLoader:
     def __init__(self):
         self.card_data = []
-
+        self.leader_card = []
+        self.hand_data = []
+        self.shuffled_data = queue.Queue()
+        self.selected_card = None
+    
     # Lee un mazo y busca los numeros de las cartas en los archivos JSON para su lectura
     # finalmente convierte los archivos JSON en un objeto de la clase Carta que contiene informacion como color, nombre, etc
     def load_card_data(self, json_path, mazo):
@@ -23,6 +28,8 @@ class CartaLoader:
                             nueva_carta = CartaLider(info['name'], info['color'], info['type'], info['group'],
                                 info['attribute'],info['life'], info['power'], info['effect'],
                                 info['images'])
+                            self.leader_card.append(nueva_carta)
+                            continue
                         elif(info['type'] == 'character'):
                             nueva_carta = CartaPersonaje(info['name'], info['color'], info['type'], info['group'],
                                 info['attribute'], info['cost'], info['power'], info['counter'], info['effect'],
@@ -36,30 +43,69 @@ class CartaLoader:
                                 info['cost'], info['effect'],
                                 info['images'])
                         self.card_data.append(nueva_carta)
-    def load_card_image(self, screen, mousePos):
-        if(len(self.card_data) == 0): return
+
+        random.shuffle(self.card_data)
+        for i in self.card_data:
+            self.shuffled_data.put(i)
+    
+    def load_hand_images(self, screen, mousePos):
+        if(len(self.hand_data) <= 0): return
+        if(len(self.hand_data) > 60): return
         i = 0
-        rect = pygame.Rect(1,1,1,1)
-        for card in self.card_data:
-            img = pygame.image.load('assets/' + card.images)
-            img_size = 0.2
-            img = pygame.transform.scale(img, (img.get_width() * img_size, img.get_height() * img_size))
-            rect = pygame.Rect(400 + i * 25, 400, img.get_width(), img.get_height())
-            screen.blit(img, rect)
-            i += 1
+        start_x = 70
+        start_y = 640
+        img_size = 0.2
+        hover_over_card = 0
         
-        for b in range(len(self.card_data)):
-            card = self.card_data[len(self.card_data) - 1 - b]
-            rect = pygame.Rect(400 + (len(self.card_data) - 1 - b)* 25, 400, img.get_width(), img.get_height())
-            if(rect.collidepoint(mousePos)):
-                print("mouse over: " + card.name)
-                img = pygame.image.load('assets/' + card.images).convert_alpha()
-                img_size = 0.7
-                img = pygame.transform.smoothscale(img, (img.get_width() * img_size, img.get_height() * img_size))
-                rect = pygame.Rect(100, 300, img.get_width(), img.get_height())
-                screen.blit(img, rect)
-                return
+        for card in self.hand_data:
+            img = pygame.image.load('assets/' + card.images)
+            img = pygame.transform.scale(img, (img.get_width() * img_size, img.get_height() * img_size))
             
+            screen.blit(img, pygame.Rect(start_x + i * 25, start_y - 10 if card == self.selected_card else start_y, img.get_width(), img.get_height()))
+            i += 1
+        zoomed_size = 0.7
+        for b in range(len(self.hand_data)):
+            rect = pygame.Rect(start_x + (len(self.hand_data) - 1 - b)* 25, start_y, img.get_width(), img.get_height())
+            if(rect.collidepoint(mousePos)):
+                self.selected_card = self.hand_data[len(self.hand_data) - 1 - b]
+                card = self.hand_data[len(self.hand_data) - 1 - b]
+                img = pygame.image.load('assets/' + card.images).convert_alpha()
+                img = pygame.transform.smoothscale(img, (img.get_width() * zoomed_size, img.get_height() * zoomed_size))
+                screen.blit(img, (100, 150))
+                hover_over_card += 1
+                break
+            
+            
+        
+        # mostrar carta lider y ver si el mouse se posiciona sobre ella
+        leader_x = 920
+        leader_y = 530
+        img = pygame.image.load('assets/' + self.leader_card[0].images)
+        img = pygame.transform.scale(img, (img.get_width() * img_size, img.get_height() * img_size))
+        screen.blit(img, (leader_x, leader_y - 10 if self.leader_card[0] == self.selected_card else leader_y))
+        rect = pygame.Rect(leader_x, leader_y, img.get_width(), img.get_height())
+        if(rect.collidepoint(mousePos)):
+            self.selected_card = self.leader_card[0]
+            img = pygame.image.load('assets/' + self.leader_card[0].images).convert_alpha()
+            img = pygame.transform.smoothscale(img, (img.get_width() * zoomed_size, img.get_height() * zoomed_size))
+            screen.blit(img, (100, 150))
+            hover_over_card += 1
+        
+        
+        print(hover_over_card)
+        if hover_over_card == 0 : self.selected_card = None
+        
+    
+    def load_hand_data(self, start_amount = 5): # carga las primeras 5 cartas de tu mano
+        for i in range(start_amount):
+            self.hand_data.append(self.shuffled_data.get())
+        
+
+    def add_hand_data(self, add_amount): # añade cierta cantidad de cartas a la mano
+        for i in range(add_amount):
+            self.hand_data.append(self.shuffled_data.get())
+
+
 
 class Carta:
     def __init__(self, name, color,type, group, effect, images):

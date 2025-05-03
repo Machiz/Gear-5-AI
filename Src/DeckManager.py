@@ -19,7 +19,7 @@ class Mazo():
         self.cartas = []
 
     def cantidad_cartas(self):
-        return self.cartas.count()
+        return len(self.cartas)
 
 class Mano():
     def __init__(self, screen, cantidad_en_mano, mazo):

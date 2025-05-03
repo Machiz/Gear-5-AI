@@ -2,7 +2,7 @@
 import pygame
 from DeckManager import *
 from carta import *
-import random
+
 
 def dibujar_tabla_jugador1():
 
@@ -158,10 +158,9 @@ pluffy.agregar_carta('OP09-078', 4)
 
 # carga de cartas
 cargador_cartas = CartaLoader()
-cargador_cartas.load_card_data('assets/JSON', mazo.cartas)
-random.shuffle(cargador_cartas.card_data)
-for carta in cargador_cartas.card_data:
-    print(carta.name)
+cargador_cartas.load_card_data('assets/JSON', pluffy.cartas)
+cargador_cartas.load_hand_data()
+
 
 button_timer = 0
 current_bg = 1
@@ -190,7 +189,7 @@ while running:
 
     dibujar_tabla_jugador1()
     dibujar_tabla_jugador2()
-    cargador_cartas.load_card_image(screen, mousePos)
+    cargador_cartas.load_hand_images(screen, mousePos)
 
     pygame.display.flip()
 
