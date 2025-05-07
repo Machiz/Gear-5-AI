@@ -1,0 +1,1132 @@
+[
+  {
+    "player": "Mhcuber",
+    "action": "Leader is Monkey D. Luffy",
+    "card": "OP05-060"
+  },
+  {
+    "player": "nik",
+    "action": "Leader is Belo Betty",
+    "card": "OP05-002"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Will select turn order"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Chose to go First"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP09-069"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP09-065"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-003"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-001"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP06-076"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Hand before Mulligan",
+    "hand": ["OP09-069", "OP09-065", "ST18-003", "ST18-001", "OP06-076"]
+  },
+  {
+    "player": "nik",
+    "action": "Drew card from deck",
+    "card": "OP05-018"
+  },
+  {
+    "player": "nik",
+    "action": "Drew card from deck",
+    "card": "OP05-006"
+  },
+  {
+    "player": "nik",
+    "action": "Drew card from deck",
+    "card": "OP05-005"
+  },
+  {
+    "player": "nik",
+    "action": "Drew card from deck",
+    "card": "OP05-016"
+  },
+  {
+    "player": "nik",
+    "action": "Drew card from deck",
+    "card": "OP05-021"
+  },
+  {
+    "player": "nik",
+    "action": "Drew card from deck",
+    "card": "OP05-021"
+  },
+  {
+    "player": "nik",
+    "action": "Drew card from deck",
+    "card": "OP05-004"
+  },
+  {
+    "player": "nik",
+    "action": "Drew card from deck",
+    "card": "OP05-017"
+  },
+  {
+    "player": "nik",
+    "action": "Drew card from deck",
+    "card": "OP05-011"
+  },
+  {
+    "player": "nik",
+    "action": "Drew card from deck",
+    "card": "OP05-015"
+  },
+  {
+    "player": "nik",
+    "action": "Mulligan"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "hand": ["OP09-069", "OP09-065", "ST18-003", "ST18-001", "OP06-076"]
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Board",
+    "board": []
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "trash": []
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Life",
+    "life": 5
+  },
+  {
+    "player": "nik",
+    "action": "Hand",
+    "hand": ["OP05-021", "OP05-004", "OP05-017", "OP05-011", "OP05-015"]
+  },
+  {
+    "player": "nik",
+    "action": "Trash",
+    "trash": []
+  },
+  {
+    "player": "nik",
+    "action": "Board",
+    "board": []
+  },
+  {
+    "player": "nik",
+    "action": "Life",
+    "life": 4
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 1 Don"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "OP09-069"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Reveal and Draw",
+    "card": "OP07-064"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "hand": ["OP09-065", "ST18-003", "ST18-001", "OP06-076", "OP07-064"]
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Board",
+    "board": ["OP09-069"]
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "trash": []
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Life",
+    "life": 5
+  },
+  {
+    "player": "nik",
+    "action": "Hand",
+    "hand": ["OP05-021", "OP05-004", "OP05-017", "OP05-011", "OP05-015"]
+  },
+  {
+    "player": "nik",
+    "action": "Trash",
+    "trash": []
+  },
+  {
+    "player": "nik",
+    "action": "Board",
+    "board": []
+  },
+  {
+    "player": "nik",
+    "action": "Life",
+    "life": 4
+  },
+  {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  {
+    "player": "nik",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "nik",
+    "action": "Drew card from deck",
+    "card": "OP05-017"
+  },
+  {
+    "player": "nik",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "nik",
+    "action": "Deploy",
+    "card": "OP05-015"
+  },
+  {
+    "player": "nik",
+    "action": "Reveal and Draw",
+    "card": "OP09-103"
+  },
+  {
+    "player": "nik",
+    "action": "Deploy",
+    "card": "OP05-021"
+  },
+  {
+    "player": "nik",
+    "action": "Trash",
+    "card": "OP05-017"
+  },
+  {
+    "player": "nik",
+    "action": "Reveal and Draw",
+    "card": "OP05-006"
+  },
+  {
+    "player": "nik",
+    "action": "End Turn"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "hand": ["OP09-065", "ST18-003", "ST18-001", "OP06-076", "OP07-064"]
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Board",
+    "board": ["OP09-069"]
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "trash": []
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Life",
+    "life": 5
+  },
+  {
+    "player": "nik",
+    "action": "Hand",
+    "hand": ["OP05-004", "OP05-017", "OP05-011", "OP09-103", "OP05-006"]
+  },
+  {
+    "player": "nik",
+    "action": "Trash",
+    "trash": ["OP05-017"]
+  },
+  {
+    "player": "nik",
+    "action": "Board",
+    "board": ["OP05-015"]
+  },
+  {
+    "player": "nik",
+    "action": "Life",
+    "life": 4
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-001"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Loses 1 Life"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy: Draw 1 Don"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Attach 3 Don to",
+    "card": "OP09-069",
+    "total_don": 3
+  },
+  {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "OP09-069",
+    "defender": "OP05-002",
+    "attacker_power": 5000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Attach 1 Don to",
+    "card": "OP05-060",
+    "total_don": 1
+  },
+  {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP05-002"
+  },
+  {
+    "player": "nik",
+    "action": "Discard",
+    "card": "OP05-011",
+    "counter": 1000
+  },
+  {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP05-002",
+    "attacker_power": 6000,
+    "defender_power": 6000,
+    "damage": 1
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "hand": ["OP09-065", "ST18-003", "ST18-001", "OP06-076", "OP07-064", "ST18-001", "OP09-078"]
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Board",
+    "board": ["OP09-069"]
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "trash": []
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Life",
+    "life": 4
+  },
+  {
+    "player": "nik",
+    "action": "Hand",
+    "hand": ["OP05-004", "OP05-017", "OP09-103", "OP05-006", "OP05-004", "OP09-103"]
+  },
+  {
+    "player": "nik",
+    "action": "Trash",
+    "trash": ["OP05-017", "OP05-011"]
+  },
+  {
+    "player": "nik",
+    "action": "Board",
+    "board": ["OP05-015"]
+  },
+  {
+    "player": "nik",
+    "action": "Life",
+    "life": 2
+  },
+  {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  {
+    "player": "nik",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "nik",
+    "action": "Drew card from deck",
+    "card": "OP05-021"
+  },
+  {
+    "player": "nik",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "nik",
+    "action": "oops"
+  },
+  {
+    "player": "nik",
+    "action": "Trash",
+    "card": "OP05-021"
+  },
+  {
+    "player": "nik",
+    "action": "Reveal and Draw",
+    "card": "OP05-005"
+  },
+  {
+    "player": "nik",
+    "action": "Deploy",
+    "card": "OP05-004"
+  },
+  {
+    "player": "nik",
+    "action": "Trash",
+    "card": "OP09-103"
+  },
+  {
+    "player": "nik",
+    "action": "Belo Betty: Buff",
+    "target": "OP05-004",
+    "power": 3000
+  },
+  {
+    "player": "nik",
+    "action": "Belo Betty: Buff",
+    "target": "OP05-015",
+    "power": 3000
+  },
+  {
+    "player": "nik",
+    "action": "Emporio Ivankov: Deploy",
+    "card": "OP05-005"
+  },
+  {
+    "player": "nik",
+    "action": "Karasu: Give",
+    "target": "OP05-060",
+    "power_change": -1000
+  },
+  {
+    "player": "nik",
+    "action": "attacking",
+    "attacker": "OP05-015",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Discard",
+    "card": "ST18-001",
+    "counter": 2000
+  },
+  {
+    "player": "nik",
+    "action": "attacking",
+    "attacker": "OP05-015",
+    "defender": "OP05-060",
+    "attacker_power": 5000,
+    "defender_power": 6000,
+    "result": "Attack Fails"
+  },
+  {
+    "player": "nik",
+    "action": "attacking",
+    "attacker": "OP05-002",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "nik",
+    "action": "attacking",
+    "attacker": "OP05-002",
+    "defender": "OP05-060",
+    "attacker_power": 5000,
+    "defender_power": 4000,
+    "damage": 1
+  },
+  {
+    "player": "nik",
+    "action": "End Turn"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "hand": ["OP09-065", "ST18-003", "ST18-001", "OP06-076", "OP07-064", "OP09-078", "OP05-074"]
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Board",
+    "board": ["OP09-069"]
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "trash": ["ST18-001"]
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Life",
+    "life": 3
+  },
+  {
+    "player": "nik",
+    "action": "Hand",
+    "hand": ["OP05-004", "OP05-017", "OP09-103", "OP05-006"]
+  },
+  {
+    "player": "nik",
+    "action": "Trash",
+    "trash": ["OP05-017", "OP05-011", "OP05-021", "OP09-103"]
+  },
+  {
+    "player": "nik",
+    "action": "Board",
+    "board": ["OP05-015", "OP05-004", "OP05-005"]
+  },
+  {
+    "player": "nik",
+    "action": "Life",
+    "life": 2
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-001"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Loses 1 Life"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy: Draw 1 Don"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "OP09-065"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Sanji: Give",
+    "target": "OP09-065",
+    "effect": "Rush"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Sanji: Rest",
+    "target": "OP05-005"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP05-005"
+  },
+  {
+    "player": "nik",
+    "action": "Discard",
+    "card": "OP05-017",
+    "counter": 1000
+  },
+  {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP05-005",
+    "attacker_power": 5000,
+    "defender_power": 6000,
+    "result": "Attack Fails"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "OP09-069",
+    "defender": "OP05-015"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "OP09-069",
+    "defender": "OP05-015",
+    "attacker_power": 2000,
+    "defender_power": 2000
+  },
+  {
+    "player": "nik",
+    "action": "OP05-015 Destroyed"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "OP09-065",
+    "defender": "OP05-005"
+  },
+  {
+    "player": "nik",
+    "action": "Discard",
+    "card": "OP05-006",
+    "counter": 2000
+  },
+  {
+    "player": "nik",
+    "action": "Discard",
+    "card": "OP05-004",
+    "counter": 1000
+  },
+  {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "OP09-065",
+    "defender": "OP05-005",
+    "attacker_power": 7000,
+    "defender_power": 8000,
+    "result": "Attack Fails"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "hand": ["ST18-003", "ST18-001", "OP06-076", "OP07-064", "OP09-078", "OP05-074", "ST18-005", "ST10-010"]
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Board",
+    "board": ["OP09-069", "OP09-065"]
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "trash": ["ST18-001"]
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Life",
+    "life": 2
+  },
+  {
+    "player": "nik",
+    "action": "Hand",
+    "hand": ["OP09-103"]
+  },
+  {
+    "player": "nik",
+    "action": "Trash",
+    "trash": ["OP05-017", "OP05-011", "OP05-021", "OP09-103", "OP05-017", "OP05-015", "OP05-006", "OP05-004"]
+  },
+  {
+    "player": "nik",
+    "action": "Board",
+    "board": ["OP05-004", "OP05-005"]
+  },
+  {
+    "player": "nik",
+    "action": "Life",
+    "life": 2
+  },
+  {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  {
+    "player": "nik",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "nik",
+    "action": "Drew card from deck",
+    "card": "OP05-021"
+  },
+  {
+    "player": "nik",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "nik",
+    "action": "Trash",
+    "card": "OP05-021"
+  },
+  {
+    "player": "nik",
+    "action": "Reveal and Draw",
+    "card": "OP05-015"
+  },
+  {
+    "player": "nik",
+    "action": "Deploy",
+    "card": "OP05-015"
+  },
+  {
+    "player": "nik",
+    "action": "Reveal and Draw",
+    "card": "OP05-005"
+  },
+  {
+    "player": "nik",
+    "action": "Trash",
+    "card": "OP09-103"
+  },
+  {
+    "player": "nik",
+    "action": "Belo Betty: Buff",
+    "target": "OP05-015",
+    "power": 3000
+  },
+  {
+    "player": "nik",
+    "action": "Belo Betty: Buff",
+    "target": "OP05-004",
+    "power": 3000
+  },
+  {
+    "player": "nik",
+    "action": "Belo Betty: Buff",
+    "target": "OP05-005",
+    "power": 3000
+  },
+  {
+    "player": "nik",
+    "action": "Emporio Ivankov: Deploy",
+    "card": "OP05-005"
+  },
+  {
+    "player": "nik",
+    "action": "Karasu: Give",
+    "target": "OP05-060",
+    "power_change": -1000
+  },
+  {
+    "player": "nik",
+    "action": "attacking",
+    "attacker": "OP05-005",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "nik",
+    "action": "Karasu: Give",
+    "target": "OP05-060",
+    "power_change": -1000
+  },
+  {
+    "player": "nik",
+    "action": "attacking",
+    "attacker": "OP05-005",
+    "defender": "OP05-060",
+    "attacker_power": 8000,
+    "defender_power": 3000,
+    "damage": 1
+  },
+  {
+    "player": "nik",
+    "action": "Attach 1 Don to",
+    "card": "OP05-004",
+    "total_don": 1
+  },
+  {
+    "player": "nik",
+    "action": "attacking",
+    "attacker": "OP05-004",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "nik",
+    "action": "attacking",
+    "attacker": "OP05-004",
+    "defender": "OP05-060",
+    "attacker_power": 9000,
+    "defender_power": 3000,
+    "damage": 1
+  },
+  {
+    "player": "nik",
+    "action": "Attach 4 Don to",
+    "card": "OP05-002",
+    "total_don": 4
+  },
+  {
+    "player": "nik",
+    "action": "attacking",
+    "attacker": "OP05-002",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Discard",
+    "card": "ST18-001",
+    "counter": 2000
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Discard",
+    "card": "OP06-076",
+    "counter": 2000
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Discard",
+    "card": "ST18-001",
+    "counter": 2000
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Discard",
+    "card": "OP05-074",
+    "counter": 1000
+  },
+  {
+    "player": "nik",
+    "action": "attacking",
+    "attacker": "OP05-002",
+    "defender": "OP05-060",
+    "attacker_power": 9000,
+    "defender_power": 10000,
+    "result": "Attack Fails"
+  },
+  {
+    "player": "nik",
+    "action": "End Turn"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "hand": ["ST18-003", "OP07-064", "OP09-078", "ST18-005", "ST10-010", "OP05-074"]
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Board",
+    "board": ["OP09-069", "OP09-065"]
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "trash": ["ST18-001", "ST18-001", "OP06-076", "ST18-001", "OP05-074"]
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Life",
+    "life": 0
+  },
+  {
+    "player": "nik",
+    "action": "Hand",
+    "hand": []
+  },
+  {
+    "player": "nik",
+    "action": "Trash",
+    "trash": ["OP05-017", "OP05-011", "OP05-021", "OP09-103", "OP05-017", "OP05-015", "OP05-006", "OP05-004", "OP05-021", "OP09-103"]
+  },
+  {
+    "player": "nik",
+    "action": "Board",
+    "board": ["OP05-004", "OP05-005", "OP05-015", "OP05-005"]
+  },
+  {
+    "player": "nik",
+    "action": "Life",
+    "life": 2
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-002"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "OP09-065",
+    "defender": "OP05-002"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "OP09-065",
+    "defender": "OP05-002",
+    "attacker_power": 7000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  {
+    "player": "nik",
+    "action": "Bartholomew Kuma Trigger: Deploy"
+  },
+  {
+    "player": "nik",
+    "action": "Bartholomew Kuma: Destroy",
+    "target": "OP09-069"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "OP05-074"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Attach 2 Don to",
+    "card": "OP05-060",
+    "total_don": 2
+  },
+  {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP05-005"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP05-005",
+    "attacker_power": 7000,
+    "defender_power": 5000
+  },
+  {
+    "player": "nik",
+    "action": "OP05-005 Destroyed"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "hand": ["ST18-003", "OP07-064", "OP09-078", "ST18-005", "ST10-010", "ST18-002"]
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Board",
+    "board": ["OP09-065", "OP05-074"]
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "trash": ["ST18-001", "ST18-001", "OP06-076", "ST18-001", "OP05-074", "OP09-069"]
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Life",
+    "life": 0
+  },
+  {
+    "player": "nik",
+    "action": "Hand",
+    "hand": []
+  },
+  {
+    "player": "nik",
+    "action": "Trash",
+    "trash": ["OP05-017", "OP05-011", "OP05-021", "OP09-103", "OP05-017", "OP05-015", "OP05-006", "OP05-004", "OP05-021", "OP09-103", "OP05-005"]
+  },
+  {
+    "player": "nik",
+    "action": "Board",
+    "board": ["OP05-004", "OP05-015", "OP05-005", "OP05-011"]
+  },
+  {
+    "player": "nik",
+    "action": "Life",
+    "life": 1
+  },
+  {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  {
+    "player": "nik",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "nik",
+    "action": "Drew card from deck",
+    "card": "OP05-005"
+  },
+  {
+    "player": "nik",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "nik",
+    "action": "Trash",
+    "card": "OP05-005"
+  },
+  {
+    "player": "nik",
+    "action": "Reveal and Draw",
+    "card": "OP05-003"
+  },
+  {
+    "player": "nik",
+    "action": "Trash",
+    "card": "OP05-003"
+  },
+  {
+    "player": "nik",
+    "action": "Belo Betty: Buff",
+    "target": "OP05-011",
+    "power": 3000
+  },
+  {
+    "player": "nik",
+    "action": "Belo Betty: Buff",
+    "target": "OP05-015",
+    "power": 3000
+  },
+  {
+    "player": "nik",
+    "action": "Belo Betty: Buff",
+    "target": "OP05-005",
+    "power": 3000
+  },
+  {
+    "player": "nik",
+    "action": "attacking",
+    "attacker": "OP05-005",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "nik",
+    "action": "Karasu: Give",
+    "target": "OP05-060",
+    "power_change": -1000
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Gum Gum Giant: Trash",
+    "target": "ST18-005"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Gum Gum Giant: Buff",
+    "target": "OP05-060",
+    "power_change": 4000,
+    "duration": "the Combat"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP06-076"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP08-069"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Gum Gum Giant: Draw",
+    "amount": 2,
+    "type": "Card"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Discard",
+    "card": "ST18-002",
+    "counter": 1000
+  },
+  {
+    "player": "nik",
+    "action": "attacking",
+    "attacker": "OP05-005",
+    "defender": "OP05-060",
+    "attacker_power": 8000,
+    "defender_power": 9000,
+    "result": "Attack Fails"
+  },
+  {
+    "player": "nik",
+    "action": "Attach 2 Don to",
+    "card": "OP05-004",
+    "total_don": 2
+  },
+  {
+    "player": "nik",
+    "action": "attacking",
+    "attacker": "OP05-004",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Discard",
+    "card": "OP06-076",
+    "counter": 2000
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Discard",
+    "card": "OP07-064",
+    "counter": 2000
+  },
+  {
+    "player": "nik",
+    "action": "attacking",
+    "attacker": "OP05-004",
+    "defender": "OP05-060",
+    "attacker_power": 7000,
+    "defender_power": 8000,
+    "result": "Attack Fails"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Concedes!"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Loses"
+  }
+]

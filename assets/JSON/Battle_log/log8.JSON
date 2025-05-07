@@ -1,0 +1,858 @@
+[
+  {
+    "player": "Pirate89780",
+    "action": "Leader is Monkey D. Luffy",
+    "card": "ST13-003"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Has Connected"
+  },
+  {
+    "action": "Version is 1.29b"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Leader is Trafalgar Law",
+    "card": "OP10-022"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Will select turn order"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Chose to go Second"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Draw 1 Don"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Deploy Jewelry Bonney",
+    "card": "ST02-007"
+  },
+  {
+    "player": "Loolstar",
+    "action": "End Turn"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Deploy Monkey D. Garp",
+    "card": "ST13-013"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Reveal and Draw Sabo",
+    "card": "OP04-083"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Attach 1 Don to Monkey D. Luffy",
+    "card": "ST13-003",
+    "total_don": 1
+  },
+  {
+    "player": "Pirate89780",
+    "action": "End Turn"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Jewelry Bonney: Rest Jewelry Bonney",
+    "card": "ST02-007"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Reveal and Draw Monkey D. Luffy",
+    "card": "OP10-111"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Deploy Monkey D. Luffy",
+    "card": "OP10-111"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Reveal and Draw Scratchmen Apoo",
+    "card": "OP10-108"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Deploy Scratchmen Apoo",
+    "card": "OP10-108"
+  },
+  {
+    "player": "Loolstar",
+    "action": "End Turn"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Deploy Monkey D. Garp",
+    "card": "ST13-013"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Reveal and Draw Monkey D. Luffy",
+    "card": "OP07-109"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Attach 3 Don to Monkey D. Garp",
+    "card": "ST13-013",
+    "total_don": 3
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Monkey D. Luffy attacking Trafalgar Law",
+    "attacker": "ST13-003",
+    "defender": "OP10-022"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Monkey D. Luffy vs Trafalgar Law",
+    "attacker_power": 5000,
+    "defender_power": 5000
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Trafalgar Law hit for 1 damage"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Monkey D. Garp attacking Trafalgar Law",
+    "attacker": "ST13-013",
+    "defender": "OP10-022"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Monkey D. Garp vs Trafalgar Law",
+    "attacker_power": 5000,
+    "defender_power": 5000
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Trafalgar Law hit for 1 damage"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "End Turn"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Monkey D. Luffy attacking Monkey D. Garp",
+    "attacker": "OP10-111",
+    "defender": "ST13-013"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Monkey D. Luffy vs Monkey D. Garp",
+    "attacker_power": 2000,
+    "defender_power": 2000
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Monkey D. Garp Destroyed",
+    "card": "ST13-013"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Jewelry Bonney: Rest Jewelry Bonney",
+    "card": "ST02-007"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Reveal and Draw Capone \"Gang\" Bege",
+    "card": "OP10-103"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Deploy Jewelry Bonney",
+    "card": "OP10-107"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Jewelry Bonney: Takes Bottom Life",
+    "card": "OP10-107"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Jewelry Bonney: Add Trafalgar Law to top of Life",
+    "card": "OP10-107",
+    "target": "OP01-047"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Attach 1 Don to Trafalgar Law",
+    "card": "OP10-022",
+    "total_don": 1
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law: Return Monkey D. Luffy to Hand",
+    "card": "OP10-022",
+    "target": "OP10-111"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law revealed: Trafalgar Law",
+    "card": "OP10-022",
+    "target": "OP01-047"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Deploy Trafalgar Law from Life",
+    "card": "OP01-047"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law: Return Jewelry Bonney to Hand",
+    "card": "OP01-047",
+    "target": "ST02-007"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law: Deploy Monkey D. Luffy",
+    "card": "OP01-047",
+    "target": "OP10-111"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Reveal and Draw Eustass \"Captain\" Kid",
+    "card": "OP01-051"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  {
+    "player": "Loolstar",
+    "action": "End Turn"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Deploy Sabo",
+    "card": "OP04-083"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Sabo: Draw 2 Card",
+    "card": "OP04-083"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Trash Monkey D. Luffy",
+    "card": "ST13-015"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Trash Sabo",
+    "card": "ST13-007"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Sabo: Current Field Characters Are Immune To Effects Until Next Turn!",
+    "card": "OP04-083"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Attach 1 Don to Monkey D. Luffy",
+    "card": "ST13-003",
+    "total_don": 1
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Monkey D. Luffy attacking Trafalgar Law",
+    "attacker": "ST13-003",
+    "defender": "OP10-022"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Scratchmen Apoo Blocks",
+    "blocker": "OP10-108"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Monkey D. Luffy vs Scratchmen Apoo",
+    "attacker_power": 6000,
+    "defender_power": 1000
+  },
+  {
+    "player": "Loolstar",
+    "action": "Scratchmen Apoo Destroyed",
+    "card": "OP10-108"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "End Turn"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Deploy Trafalgar Law",
+    "card": "OP10-119"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law revealed: X. Drake",
+    "card": "OP10-119",
+    "target": "OP10-114"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law: Add X. Drake to top of Life",
+    "card": "OP10-119",
+    "target": "OP10-114"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law: Attach 1 Rested Don to Trafalgar Law",
+    "card": "OP10-119",
+    "target": "OP10-022"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law: Return Monkey D. Luffy to Hand",
+    "card": "OP10-022",
+    "target": "OP10-111"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law revealed: X. Drake",
+    "card": "OP10-022",
+    "target": "OP10-114"
+  },
+  {
+    "player": "Loolstar",
+    "action": "End Turn"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Deploy Kuzan",
+    "card": "OP02-096"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Kuzan: Draw 1 Card",
+    "card": "OP02-096"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Attach 3 Don to Monkey D. Garp",
+    "card": "ST13-013",
+    "total_don": 3
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Attach 1 Don to Monkey D. Luffy",
+    "card": "ST13-003",
+    "total_don": 1
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Monkey D. Garp attacking Trafalgar Law",
+    "attacker": "ST13-013",
+    "defender": "OP10-022"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Discard Jewelry Bonney for Counter 1000",
+    "card": "ST02-007"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Monkey D. Garp vs Trafalgar Law",
+    "attacker_power": 5000,
+    "defender_power": 6000
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Attack Fails"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Monkey D. Luffy attacking Trafalgar Law",
+    "attacker": "ST13-003",
+    "defender": "OP10-022"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Monkey D. Luffy vs Trafalgar Law",
+    "attacker_power": 6000,
+    "defender_power": 5000
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Trafalgar Law hit for 1 damage"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "End Turn"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Deploy Eustass \"Captain\" Kid",
+    "card": "OP01-051"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Attach 1 Don to Eustass \"Captain\" Kid",
+    "card": "OP01-051",
+    "total_don": 1
+  },
+  {
+    "player": "Loolstar",
+    "action": "Eustass \"Captain\" Kid: Deploy X. Drake",
+    "card": "OP01-051",
+    "target": "OP10-114"
+  },
+  {
+    "player": "Loolstar",
+    "action": "X. Drake: Rest X. Drake",
+    "card": "OP10-114"
+  },
+  {
+    "player": "Loolstar",
+    "action": "X. Drake: Rest Kuzan",
+    "card": "OP10-114",
+    "target": "OP02-096"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law attacking Kuzan",
+    "attacker": "OP10-022",
+    "defender": "OP02-096"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Discard Sabo for Counter 1000",
+    "card": "ST13-007"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law vs Kuzan",
+    "attacker_power": 5000,
+    "defender_power": 6000
+  },
+  {
+    "player": "Loolstar",
+    "action": "Attack Fails"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law attacking Kuzan",
+    "attacker": "OP10-119",
+    "defender": "OP02-096"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law vs Kuzan",
+    "attacker_power": 9000,
+    "defender_power": 5000
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Kuzan Destroyed",
+    "card": "OP02-096"
+  },
+  {
+    "player": "Loolstar",
+    "action": "End Turn"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Deploy Shirahoshi",
+    "card": "ST08-006"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Shirahoshi: Trafalgar Law Cost -4",
+    "card": "ST08-006",
+    "target": "OP10-119"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Deploy Monkey D. Luffy",
+    "card": "OP07-109"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Monkey D. Luffy: Trash Monkey D. Luffy",
+    "card": "OP07-109",
+    "target": "OP07-109"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Attach 1 Don to Monkey D. Luffy",
+    "card": "ST13-003",
+    "total_don": 1
+  },
+  {
+    "action": "Trafalgar Law cost restored"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "End Turn"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Attach 1 Don to Trafalgar Law",
+    "card": "OP10-022",
+    "total_don": 1
+  },
+  {
+    "player": "Loolstar",
+    "action": "X. Drake: Rest X. Drake",
+    "card": "OP10-114"
+  },
+  {
+    "player": "Loolstar",
+    "action": "X. Drake: Rest Shirahoshi",
+    "card": "OP10-114",
+    "target": "ST08-006"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law: Return X. Drake to Hand",
+    "card": "OP10-022",
+    "target": "OP10-114"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law revealed: Jewelry Bonney",
+    "card": "OP10-022",
+    "target": "OP07-026"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Deploy Hody Jones",
+    "card": "OP06-035"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Hody Jones: Rest Sabo",
+    "card": "OP06-035",
+    "target": "OP04-083"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Hody Jones: Rest Monkey D. Garp",
+    "card": "OP06-035",
+    "target": "ST13-013"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Loses 1 Life"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Attach 1 Don to Eustass \"Captain\" Kid",
+    "card": "OP01-051",
+    "total_don": 1
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law attacking Monkey D. Garp",
+    "attacker": "OP10-022",
+    "defender": "ST13-013"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law vs Monkey D. Garp",
+    "attacker_power": 6000,
+    "defender_power": 2000
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Monkey D. Garp Destroyed",
+    "card": "ST13-013"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Eustass \"Captain\" Kid attacking Sabo",
+    "attacker": "OP01-051",
+    "defender": "OP04-083"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Discard Kozuki Hiyori for Counter 2000",
+    "card": "OP06-106"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Discard Charlotte Flampe for Counter 2000",
+    "card": "EB01-056"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Eustass \"Captain\" Kid vs Sabo",
+    "attacker_power": 9000,
+    "defender_power": 10000
+  },
+  {
+    "player": "Loolstar",
+    "action": "Attack Fails"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law attacking Sabo",
+    "attacker": "OP10-119",
+    "defender": "OP04-083"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law vs Sabo",
+    "attacker_power": 9000,
+    "defender_power": 6000
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Sabo Destroyed",
+    "card": "OP04-083"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Hody Jones attacking Shirahoshi",
+    "attacker": "OP06-035",
+    "defender": "ST08-006"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Hody Jones vs Shirahoshi",
+    "attacker_power": 8000,
+    "defender_power": 0
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Shirahoshi Destroyed",
+    "card": "ST08-006"
+  },
+  {
+    "player": "Loolstar",
+    "action": "End Turn"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Deploy Sabo",
+    "card": "OP04-083"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Sabo: Draw 2 Card",
+    "card": "OP04-083"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Trash Monkey D. Luffy",
+    "card": "ST13-014"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Trash Monkey D. Luffy",
+    "card": "ST13-014"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Sabo: Current Field Characters Are Immune To Effects Until Next Turn!",
+    "card": "OP04-083"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Attach 5 Don to Monkey D. Luffy",
+    "card": "ST13-003",
+    "total_don": 5
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Monkey D. Luffy attacking Eustass \"Captain\" Kid",
+    "attacker": "ST13-003",
+    "defender": "OP01-051"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Jewelry Bonney Blocks",
+    "blocker": "OP10-107"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Monkey D. Luffy vs Jewelry Bonney",
+    "attacker_power": 10000,
+    "defender_power": 4000
+  },
+  {
+    "player": "Loolstar",
+    "action": "Jewelry Bonney Destroyed",
+    "card": "OP10-107"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "End Turn"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Hody Jones attacking Monkey D. Luffy",
+    "attacker": "OP06-035",
+    "defender": "ST13-003"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Hody Jones vs Monkey D. Luffy",
+    "attacker_power": 8000,
+    "defender_power": 5000
+  },
+  {
+    "player": "Loolstar",
+    "action": "Monkey D. Luffy hit for 1 damage"
+  },
+  {
+    "action": "Face-Up Life was sent to Deck Bottom instead of Hand"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law attacking Monkey D. Luffy",
+    "attacker": "OP10-119",
+    "defender": "ST13-003"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law vs Monkey D. Luffy",
+    "attacker_power": 9000,
+    "defender_power": 5000
+  },
+  {
+    "player": "Loolstar",
+    "action": "Monkey D. Luffy hit for 1 damage"
+  },
+  {
+    "action": "Face-Up Life was sent to Deck Bottom instead of Hand"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Attach 1 Don to Trafalgar Law",
+    "card": "OP10-022",
+    "total_don": 1
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law attacking Monkey D. Luffy",
+    "attacker": "OP10-022",
+    "defender": "ST13-003"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Trafalgar Law vs Monkey D. Luffy",
+    "attacker_power": 6000,
+    "defender_power": 5000
+  },
+  {
+    "player": "Loolstar",
+    "action": "Monkey D. Luffy hit for 1 damage"
+  },
+  {
+    "player": "Pirate89780",
+    "action": "Loses"
+  },
+  {
+    "player": "Loolstar",
+    "action": "Wins!"
+  }
+]

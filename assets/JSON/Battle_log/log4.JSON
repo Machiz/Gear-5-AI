@@ -1,0 +1,1151 @@
+[
+  {
+    "player": "Mhcuber",
+    "action": "Leader is Monkey D. Luffy",
+    "card": "OP05-060"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Leader is Trafalgar Law",
+    "card": "OP10-022"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Chose to go First"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Drew card from deck",
+    "card": "OP10-111"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Drew card from deck",
+    "card": "ST02-008"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Drew card from deck",
+    "card": "OP01-047"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Drew card from deck",
+    "card": "OP10-103"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Drew card from deck",
+    "card": "EB01-015"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP06-076"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-004"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-005"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-005"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP09-078"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Hand before Mulligan",
+    "hand": "[OP06-076,ST18-004,ST18-005,ST18-005,OP09-078]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-004"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-004"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP06-076"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-003"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-001"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Hand after Mulligan",
+    "hand": "[ST18-004,ST18-004,OP06-076,ST18-003,ST18-001]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Mulligan"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Draw 1 Don"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Deploy Monkey D. Luffy",
+    "card": "OP10-111"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Reveal and Draw Cavendish",
+    "card": "EB01-012"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "End Turn"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "hand": "[ST18-004,ST18-004,OP06-076,ST18-003,ST18-001]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Board",
+    "board": "[]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "trash": "[]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Life",
+    "life": 5
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Hand",
+    "hand": "[ST02-008,OP01-047,OP10-103,EB01-015,EB01-012]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trash",
+    "trash": "[]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Board",
+    "board": "[OP10-111]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Life",
+    "life": 4
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-001"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "hand": "[ST18-004,ST18-004,OP06-076,ST18-003,ST18-001,ST18-001]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Board",
+    "board": "[]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "trash": "[]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Life",
+    "life": 5
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Hand",
+    "hand": "[ST02-008,OP01-047,OP10-103,EB01-015,EB01-012]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trash",
+    "trash": "[]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Board",
+    "board": "[OP10-111]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Life",
+    "life": 4
+  },
+  {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Drew card from deck",
+    "card": "EB01-015"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Attach 1 Don to Trafalgar Law",
+    "card": "OP10-022",
+    "total_don": 1
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trafalgar Law attacking Monkey D. Luffy",
+    "attacker": "OP10-022",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trafalgar Law vs Monkey D. Luffy",
+    "attacker_power": 6000,
+    "defender_power": 5000
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Monkey D. Luffy hit for 1 damage"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Deploy Scratchmen Apoo",
+    "card": "ST02-008"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "End Turn"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "hand": "[ST18-004,ST18-004,OP06-076,ST18-003,ST18-001,ST18-001,ST18-002]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Board",
+    "board": "[]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "trash": "[]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Life",
+    "life": 4
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Hand",
+    "hand": "[OP01-047,OP10-103,EB01-015,EB01-012,EB01-015]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trash",
+    "trash": "[]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Board",
+    "board": "[OP10-111,ST02-008]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Life",
+    "life": 4
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-005"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Deploy Zorojuro",
+    "card": "ST18-004"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Reveal and Draw Gum Gum Giant",
+    "card": "OP09-078"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Loses 1 Life"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy: Draw 1 Don",
+    "card": "OP05-060"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Attach 1 Don to Monkey D. Luffy",
+    "card": "OP05-060",
+    "total_don": 1
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy attacking Trafalgar Law",
+    "attacker": "OP05-060",
+    "defender": "OP10-022"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Discard Scratchmen Apoo for Counter 2000",
+    "card": "EB01-015"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy vs Trafalgar Law",
+    "attacker_power": 6000,
+    "defender_power": 7000
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Attack Fails"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "hand": "[ST18-004,OP06-076,ST18-003,ST18-001,ST18-001,ST18-002,ST18-005,OP09-078,ST18-001]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Board",
+    "board": "[ST18-004]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "trash": "[]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Life",
+    "life": 3
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Hand",
+    "hand": "[OP01-047,OP10-103,EB01-012,EB01-015]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trash",
+    "trash": "[EB01-015]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Board",
+    "board": "[OP10-111,ST02-008]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Life",
+    "life": 4
+  },
+  {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Drew card from deck",
+    "card": "OP05-030"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Deploy Donquixote Rosinante",
+    "card": "OP05-030"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Deploy Capone \"Gang\" Bege",
+    "card": "OP10-103"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Capone \"Gang\" Bege: Takes Top Life",
+    "card": "OP10-103"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Capone \"Gang\" Bege: Add Cavendish to top of Life",
+    "card": "OP10-103",
+    "life_card": "EB01-012"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Attach 1 Don to Trafalgar Law",
+    "card": "OP10-022",
+    "total_don": 2
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trafalgar Law: Return Capone \"Gang\" Bege to Hand",
+    "card": "OP10-022",
+    "returned_card": "OP10-103"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trafalgar Law revealed: Cavendish",
+    "card": "OP10-022",
+    "revealed_card": "EB01-012"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Deploy Cavendish from Life",
+    "card": "EB01-012"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Cavendish: Activate 2 Don",
+    "card": "EB01-012"
+  },
+  {
+    "player": "Jiggaman",
+"action": "Attach 3 Don to Trafalgar Law",
+    "card": "OP10-022",
+    "total_don": 5
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trafalgar Law attacking Monkey D. Luffy",
+    "attacker": "OP10-022",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trafalgar Law vs Monkey D. Luffy",
+    "attacker_power": 9000,
+    "defender_power": 5000
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Monkey D. Luffy hit for 1 damage"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "End Turn"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "hand": "[ST18-004,OP06-076,ST18-003,ST18-001,OP09-078,ST18-003]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Board",
+    "board": "[ST18-004]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "trash": "[]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Life",
+    "life": 2
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Hand",
+    "hand": "[OP01-047,EB01-015,ST02-009,OP10-103]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trash",
+    "trash": "[EB01-015]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Board",
+    "board": "[OP10-111,ST02-008,OP05-030,EB01-012]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Life",
+    "life": 3
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-003"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Deploy Luffy-tarou",
+    "card": "ST18-005"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Zorojuro attacking Trafalgar Law",
+    "attacker": "ST18-004",
+    "defender": "OP10-022"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Discard Scratchmen Apoo for Counter 2000",
+    "card": "EB01-015"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Zorojuro vs Trafalgar Law",
+    "attacker_power": 6000,
+    "defender_power": 7000
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Attack Fails"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy attacking Trafalgar Law",
+    "attacker": "OP05-060",
+    "defender": "OP10-022"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy vs Trafalgar Law",
+    "attacker_power": 5000,
+    "defender_power": 5000
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trafalgar Law hit for 1 damage"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "hand": "[ST18-004,OP06-076,ST18-003,ST18-001,OP09-078,ST18-001,ST18-003]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Board",
+    "board": "[ST18-004,ST18-005,ST18-003]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "trash": "[]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Life",
+    "life": 2
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Hand",
+    "hand": "[OP01-047,ST02-009,OP10-103,OP07-026]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trash",
+    "trash": "[EB01-015,EB01-015]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Board",
+    "board": "[OP10-111,ST02-008,OP05-030,EB01-012]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Life",
+    "life": 2
+  },
+  {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Drew card from deck",
+    "card": "ST02-009"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Deploy Trafalgar Law",
+    "card": "OP01-047"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trafalgar Law: Return Monkey D. Luffy to Hand",
+    "card": "OP01-047",
+    "returned_card": "OP10-111"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trafalgar Law: Deploy Monkey D. Luffy",
+    "card": "OP01-047",
+    "deployed_card": "OP10-111"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Reveal and Draw Eustass \"Captain\" Kid",
+    "card": "OP01-051"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Attach 1 Don to Cavendish",
+    "card": "EB01-012",
+    "total_don": 1
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Cavendish attacking Monkey D. Luffy",
+    "attacker": "EB01-012",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Cavendish: Activate 2 Don",
+    "card": "EB01-012"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Discard Usohachi for Counter 2000",
+    "card": "ST18-001"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Discard Sangoro for Counter 1000",
+    "card": "ST18-003"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Cavendish vs Monkey D. Luffy",
+    "attacker_power": 7000,
+    "defender_power": 8000
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Attack Fails"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trash Monkey D. Luffy",
+    "card": "OP10-111"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Deploy Capone \"Gang\" Bege",
+    "card": "OP10-103"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Capone \"Gang\" Bege: Takes Top Life",
+    "card": "OP10-103"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Capone \"Gang\" Bege: Add Jewelry Bonney to top of Life",
+    "card": "OP10-103",
+    "life_card": "OP07-026"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Attach 1 Don to Trafalgar Law",
+    "card": "OP10-022",
+    "total_don": 3
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Attach 1 Don to Trafalgar Law",
+    "card": "OP10-022",
+    "total_don": 4
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trafalgar Law attacking Monkey D. Luffy",
+    "attacker": "OP10-022",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Discard Usohachi for Counter 2000",
+    "card": "ST18-001"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Discard Onami for Counter 1000",
+    "card": "ST18-002"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trafalgar Law vs Monkey D. Luffy",
+    "attacker_power": 7000,
+    "defender_power": 8000
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Attack Fails"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trafalgar Law: Return Capone \"Gang\" Bege to Hand",
+    "card": "OP10-022",
+    "returned_card": "OP10-103"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trafalgar Law revealed: Jewelry Bonney",
+    "card": "OP10-022",
+    "revealed_card": "OP07-026"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Deploy Jewelry Bonney from Life",
+    "card": "OP07-026"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Jewelry Bonney: Zorojuro will not Activate during next Refresh",
+    "card": "OP07-026",
+    "affected_card": "ST18-004"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "End Turn"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "hand": "[ST18-004,OP06-076,ST18-003,ST18-001,OP09-078]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Board",
+    "board": "[ST18-004,ST18-005,ST18-003]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "trash": "[ST18-001,ST18-003,ST18-001,ST18-002]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Life",
+    "life": 2
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Hand",
+    "hand": "[ST02-009,ST02-009,OP01-051,ST02-009,OP10-103]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trash",
+    "trash": "[EB01-015,EB01-015,OP10-111]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Board",
+    "board": "[ST02-008,OP05-030,EB01-012,OP01-047,OP07-026]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Life",
+    "life": 1
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP05-077"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Deploy Hitokiri Kamazo",
+    "card": "OP06-076"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Gamma Knife: Give Cavendish -5000",
+    "card": "OP05-077",
+    "target": "EB01-012"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Hitokiri Kamazo: Destroy Donquixote Rosinante",
+    "card": "OP06-076",
+    "target": "OP05-030"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy attacking Cavendish",
+    "attacker": "OP05-060",
+    "defender": "EB01-012"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy vs Cavendish",
+    "attacker_power": 5000,
+    "defender_power": 1000
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Cavendish Destroyed",
+    "card": "EB01-012"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Sangoro attacking Trafalgar Law",
+    "attacker": "ST18-003",
+    "defender": "OP10-022"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Sangoro vs Trafalgar Law",
+    "attacker_power": 6000,
+    "defender_power": 5000
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trafalgar Law hit for 1 damage"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Attach 1 Don to Luffy-tarou",
+    "card": "ST18-005",
+    "total_don": 1
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Luffy-tarou attacking Trafalgar Law",
+    "attacker": "ST18-005",
+    "defender": "OP10-022"
+  },
+  {
+    "player": "Jiggaman",
+    "action": ""action": "Trafalgar Law Blocks",
+    "blocker": "OP01-047"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Discard Capone \"Gang\" Bege for Counter 2000",
+    "card": "OP10-103"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Discard Trafalgar Law for Counter 1000",
+    "card": "ST02-009"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Discard Trafalgar Law for Counter 1000",
+    "card": "ST02-009"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Luffy-tarou vs Trafalgar Law",
+    "attacker_power": 9000,
+    "defender_power": 10000
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Attack Fails"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "hand": "[ST18-004,ST18-003,ST18-001,OP09-078]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Board",
+    "board": "[ST18-004,ST18-005,ST18-003,OP06-076]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "trash": "[ST18-001,ST18-003,ST18-001,ST18-002,OP05-077]"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Life",
+    "life": 2
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Hand",
+    "hand": "[ST02-009,OP01-051,OP10-111]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trash",
+    "trash": "[EB01-015,EB01-015,OP10-111,OP05-030,EB01-012,OP10-103,ST02-009,ST02-009]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Board",
+    "board": "[ST02-008,OP01-047,OP07-026]"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Life",
+    "life": 0
+  },
+  {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Drew card from deck",
+    "card": "OP10-119"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Attach 2 Don to Scratchmen Apoo",
+    "card": "ST02-008",
+    "total_don": 2
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Scratchmen Apoo attacking Monkey D. Luffy",
+    "attacker": "ST02-008",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Scratchmen Apoo: Rest 1 Opponent Don",
+    "card": "ST02-008"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Discard Sangoro for Counter 1000",
+    "card": "ST18-003"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Scratchmen Apoo vs Monkey D. Luffy",
+    "attacker_power": 5000,
+    "defender_power": 6000
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Attack Fails"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Attach 1 Don to Jewelry Bonney",
+    "card": "OP07-026",
+    "total_don": 1
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Jewelry Bonney attacking Monkey D. Luffy",
+    "attacker": "OP07-026",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Jewelry Bonney vs Monkey D. Luffy",
+    "attacker_power": 7000,
+    "defender_power": 5000
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Monkey D. Luffy hit for 1 damage"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trafalgar Law attacking Monkey D. Luffy",
+    "attacker": "OP01-047",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Discard Usohachi for Counter 2000",
+    "card": "ST18-001"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trafalgar Law vs Monkey D. Luffy",
+    "attacker_power": 6000,
+    "defender_power": 7000
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Attack Fails"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Attach 1 Don to Trafalgar Law",
+    "card": "OP10-022",
+    "total_don": 1
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trafalgar Law attacking Monkey D. Luffy",
+    "attacker": "OP10-022",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trafalgar Law vs Monkey D. Luffy",
+    "attacker_power": 6000,
+    "defender_power": 5000
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Monkey D. Luffy hit for 1 damage"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Deploy Trafalgar Law",
+    "card": "ST02-009"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Trafalgar Law: Set Jewelry Bonney to Active",
+    "card": "ST02-009",
+    "target": "OP07-026"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Jewelry Bonney attacking Monkey D. Luffy",
+    "attacker": "OP07-026",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Discard Sanji for Counter 2000",
+    "card": "OP07-064"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Jewelry Bonney vs Monkey D. Luffy",
+    "attacker_power": 7000,
+    "defender_power": 7000
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Monkey D. Luffy hit for 1 damage"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Loses"
+  },
+  {
+    "player": "Jiggaman",
+    "action": "Wins!"
+  },
+  {
+    "player": "Opponent",
+    "action": "Quits!"
+  },
+  {
+    "player": "You",
+    "action": "Wins!"
+  }
+]

@@ -1,0 +1,828 @@
+[
+  {
+    "player": "Machis",
+    "action": "Leader is Monkey D. Luffy",
+    "card": "OP05-060"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Leader is Monkey D. Luffy",
+    "card": "OP09-061"
+  },
+  {
+    "player": "Machis",
+    "action": "Will select turn order"
+  },
+  {
+    "player": "Machis",
+    "action": "Chose to go First"
+  },
+  {
+    "player": "Machis",
+    "action": "Draw 1 Don"
+  },
+  {
+    "player": "Machis",
+    "action": "Deploy",
+    "card": "OP09-069"
+  },
+  {
+    "player": "Machis",
+    "action": "Reveal and Draw",
+    "card": "ST18-002"
+  },
+  {
+    "player": "Machis",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  {
+    "player": "Machis",
+    "action": "End Turn"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Deploy",
+    "card": "OP09-069"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Reveal and Draw",
+    "card": "OP09-076"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Deploy",
+    "card": "OP09-069"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Reveal and Draw",
+    "card": "OP09-119"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "End Turn"
+  },
+  {
+    "player": "Machis",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Machis",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Machis",
+    "action": "Loses 1 Life"
+  },
+  {
+    "player": "Machis",
+    "action": "Monkey D. Luffy: Draw 1 Don"
+  },
+  {
+    "player": "Machis",
+    "action": "Deploy",
+    "card": "ST18-004"
+  },
+  {
+    "player": "Machis",
+    "action": "Reveal and Draw",
+    "card": "OP07-064"
+  },
+  {
+    "player": "Machis",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  {
+    "player": "Machis",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP09-061"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Discard",
+    "card": "OP08-066",
+    "counter": 1000
+  },
+  {
+    "player": "Machis",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP09-061",
+    "attacker_power": 5000,
+    "defender_power": 6000,
+    "result": "Attack Fails"
+  },
+  {
+    "player": "Machis",
+    "action": "End Turn"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Deploy",
+    "card": "OP09-076"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Roronoa Zoro: Draw 1 Don"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Monkey D. Luffy: Draw 1 Don"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Monkey D. Luffy: Draw 1 Rested Don"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Attach 3 Don to",
+    "card": "OP09-061",
+    "total_don": 3
+  },
+  {
+    "player": "tagliafregna",
+    "action": "attacking",
+    "attacker": "OP09-061",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "attacking",
+    "attacker": "OP09-061",
+    "defender": "OP05-060",
+    "attacker_power": 8000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  {
+    "player": "tagliafregna",
+    "action": "End Turn"
+  },
+  {
+    "player": "Machis",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Machis",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Machis",
+    "action": "Deploy",
+    "card": "ST18-004"
+  },
+  {
+    "player": "Machis",
+    "action": "Reveal and Draw",
+    "card": "ST18-003"
+  },
+  {
+    "player": "Machis",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  {
+    "player": "Machis",
+    "action": "Attach 1 Don to",
+    "card": "ST18-004",
+    "total_don": 1
+  },
+  {
+    "player": "Machis",
+    "action": "attacking",
+    "attacker": "ST18-004",
+    "defender": "OP09-061"
+  },
+  {
+    "player": "Machis",
+    "action": "attacking",
+    "attacker": "ST18-004",
+    "defender": "OP09-061",
+    "attacker_power": 7000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  {
+    "player": "Machis",
+    "action": "Attach 1 Don to",
+    "card": "OP05-060",
+    "total_don": 1
+  },
+  {
+    "player": "Machis",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP09-061"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Discard",
+    "card": "OP08-074",
+    "counter": 2000
+  },
+  {
+    "player": "Machis",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP09-061",
+    "attacker_power": 6000,
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  {
+    "player": "Machis",
+    "action": "End Turn"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "attacking",
+    "attacker": "OP09-076",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "Machis",
+    "action": "Discard",
+    "card": "ST18-002",
+    "counter": 1000
+  },
+  {
+    "player": "tagliafregna",
+    "action": "attacking",
+    "attacker": "OP09-076",
+    "defender": "OP05-060",
+    "attacker_power": 5000,
+    "defender_power": 6000,
+    "result": "Attack Fails"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Deploy",
+    "card": "OP09-065"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Sanji: Give",
+    "target": "OP09-065",
+    "effect": "Rush"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Sanji: Rest",
+    "target": "ST18-004"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Monkey D. Luffy: Draw 1 Don"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Monkey D. Luffy: Draw 1 Rested Don"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "attacking",
+    "attacker": "OP09-065",
+    "defender": "ST18-004"
+  },
+  {
+    "player": "Machis",
+    "action": "Discard",
+    "card": "OP07-064",
+    "counter": 2000
+  },
+  {
+    "player": "tagliafregna",
+    "action": "attacking",
+    "attacker": "OP09-065",
+    "defender": "ST18-004",
+    "attacker_power": 7000,
+    "defender_power": 8000,
+    "result": "Attack Fails"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "attacking",
+    "attacker": "OP09-061",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "Machis",
+    "action": "Discard",
+    "card": "ST10-010",
+    "counter": 1000
+  },
+  {
+    "player": "tagliafregna",
+    "action": "attacking",
+    "attacker": "OP09-061",
+    "defender": "OP05-060",
+    "attacker_power": 5000,
+    "defender_power": 6000,
+    "result": "Attack Fails"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "End Turn"
+  },
+  {
+    "player": "Machis",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Machis",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Machis",
+    "action": "Loses 1 Life"
+  },
+  {
+    "player": "Machis",
+    "action": "Monkey D. Luffy: Draw 1 Don"
+  },
+  {
+    "player": "Machis",
+    "action": "Deploy",
+    "card": "OP09-119"
+  },
+  {
+    "player": "Machis",
+    "action": "Monkey D. Luffy: Draw 1 Card"
+  },
+  {
+    "player": "Machis",
+    "action": "Monkey D. Luffy: Give",
+    "target": "OP09-119",
+    "effect": "Rush"
+  },
+  {
+    "player": "Machis",
+    "action": "attacking",
+    "attacker": "ST18-004",
+    "defender": "OP09-076"
+  },
+  {
+    "player": "Machis",
+    "action": "attacking",
+    "attacker": "ST18-004",
+    "defender": "OP09-076",
+    "attacker_power": 6000,
+    "defender_power": 5000
+  },
+  {
+    "player": "tagliafregna",
+    "action": "OP09-076 Destroyed"
+  },
+  {
+    "player": "Machis",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP09-061"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Discard",
+    "card": "OP09-072",
+    "counter": 1000
+  },
+  {
+    "player": "Machis",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP09-061",
+    "attacker_power": 5000,
+    "defender_power": 6000,
+    "result": "Attack Fails"
+  },
+  {
+    "player": "Machis",
+    "action": "attacking",
+    "attacker": "ST18-004",
+    "defender": "OP09-061"
+  },
+  {
+    "player": "Machis",
+    "action": "attacking",
+    "attacker": "ST18-004",
+    "defender": "OP09-061",
+    "attacker_power": 6000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  {
+    "player": "Machis",
+    "action": "attacking",
+    "attacker": "OP09-119",
+    "defender": "OP09-065"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Gum Gum Giant: Trash",
+    "target": "OP09-119"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Gum Gum Giant: Buff",
+    "target": "OP09-065",
+    "power_change": 4000,
+    "duration": "the Combat"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Gum Gum Giant: Draw",
+    "amount": 2,
+    "type": "Card"
+  },
+  {
+    "player": "Machis",
+    "action": "attacking",
+    "attacker": "OP09-119",
+    "defender": "OP09-065",
+    "attacker_power": 10000,
+    "defender_power": 11000,
+    "result": "Attack Fails"
+  },
+  {
+    "player": "Machis",
+    "action": "End Turn"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "attacking",
+    "attacker": "OP09-065",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "attacking",
+    "attacker": "OP09-065",
+    "defender": "OP05-060",
+    "attacker_power": 7000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Attach 1 Don to",
+    "card": "OP09-061",
+    "total_don": 1
+  },
+  {
+    "player": "tagliafregna",
+    "action": "attacking",
+    "attacker": "OP09-061",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "Machis",
+    "action": "Discard",
+    "card": "OP06-076",
+    "counter": 2000
+  },
+  {
+    "player": "tagliafregna",
+    "action": "attacking",
+    "attacker": "OP09-061",
+    "defender": "OP05-060",
+    "attacker_power": 6000,
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Deploy",
+    "card": "OP07-064"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "End Turn"
+  },
+  {
+    "player": "Machis",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Machis",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Machis",
+    "action": "Deploy",
+    "card": "ST18-005"
+  },
+  {
+    "player": "Machis",
+    "action": "Trash",
+    "card": "OP09-069"
+  },
+  {
+    "player": "Machis",
+    "action": "Attach 1 Don to",
+    "card": "ST18-004",
+    "total_don": 1
+  },
+  {
+    "player": "Machis",
+    "action": "attacking",
+    "attacker": "ST18-004",
+    "defender": "OP09-065"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Discard",
+    "card": "OP08-074",
+    "counter": 2000
+  },
+  {
+    "player": "Machis",
+    "action": "attacking",
+    "attacker": "ST18-004",
+    "defender": "OP09-065",
+    "attacker_power": 7000,
+    "defender_power": 9000,
+    "result": "Attack Fails"
+  },
+  {
+    "player": "Machis",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP09-061"
+  },
+  {
+    "player": "Machis",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP09-061",
+    "attacker_power": 5000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  {
+    "player": "Machis",
+    "action": "attacking",
+    "attacker": "ST18-004",
+    "defender": "OP09-061"
+  },
+  {
+    "player": "Machis",
+    "action": "attacking",
+    "attacker": "ST18-004",
+    "defender": "OP09-061",
+    "attacker_power": 6000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  {
+    "player": "Machis",
+    "action": "Gum-Gum Jet Gatling: Draw 1 Don"
+  },
+  {
+    "player": "Machis",
+    "action": "attacking",
+    "attacker": "OP09-119",
+    "defender": "OP09-065"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Discard",
+    "card": "ST18-001",
+    "counter": 2000
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Discard",
+    "card": "OP07-064",
+    "counter": 2000
+  },
+  {
+    "player": "Machis",
+    "action": "attacking",
+    "attacker": "OP09-119",
+    "defender": "OP09-065",
+    "attacker_power": 10000,
+    "defender_power": 11000,
+    "result": "Attack Fails"
+  },
+  {
+    "player": "Machis",
+    "action": "End Turn"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "attacking",
+    "attacker": "OP07-064",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "Machis",
+    "action": "Discard",
+    "card": "ST18-001",
+    "counter": 2000
+  },
+  {
+    "player": "tagliafregna",
+    "action": "attacking",
+    "attacker": "OP07-064",
+    "defender": "OP05-060",
+    "attacker_power": 6000,
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "attacking",
+    "attacker": "OP09-065",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "Machis",
+    "action": "Discard",
+    "card": "ST18-001",
+    "counter": 2000
+  },
+  {
+    "player": "Machis",
+    "action": "Discard",
+    "card": "OP09-069",
+    "counter": 1000
+  },
+  {
+    "player": "tagliafregna",
+    "action": "attacking",
+    "attacker": "OP09-065",
+    "defender": "OP05-060",
+    "attacker_power": 7000,
+    "defender_power": 8000,
+    "result": "Attack Fails"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Deploy",
+    "card": "OP05-119"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Taking another Turn after this one!"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Monkey D. Luffy: Draw 1 Don"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Monkey D. Luffy: Draw 1 Rested Don"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Monkey D. Luffy: Draw 1 Don"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Attach 1 Don to",
+    "card": "OP09-061",
+    "total_don": 1
+  },
+  {
+    "player": "tagliafregna",
+    "action": "attacking",
+    "attacker": "OP09-061",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "Machis",
+    "action": "Discard",
+    "card": "OP06-076",
+    "counter": 2000
+  },
+  {
+    "player": "tagliafregna",
+    "action": "attacking",
+    "attacker": "OP09-061",
+    "defender": "OP05-060",
+    "attacker_power": 6000,
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Taking another Turn!"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Monkey D. Luffy: Draw 1 Don"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Attach 5 Don to",
+    "card": "OP09-061",
+    "total_don": 5
+  },
+  {
+    "player": "tagliafregna",
+    "action": "attacking",
+    "attacker": "OP09-061",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "Machis",
+    "action": "Gum Gum Giant: Trash",
+    "target": "OP09-078"
+  },
+  {
+    "player": "Machis",
+    "action": "Gum Gum Giant: Buff",
+    "target": "OP05-060",
+    "power_change": 4000,
+    "duration": "the Combat"
+  },
+  {
+    "player": "Machis",
+    "action": "Gum Gum Giant: Draw",
+    "amount": 2,
+    "type": "Card"
+  },
+  {
+    "player": "Machis",
+    "action": "Discard",
+    "card": "OP07-064",
+    "counter": 2000
+  },
+  {
+    "player": "tagliafregna",
+    "action": "attacking",
+    "attacker": "OP09-061",
+    "defender": "OP05-060",
+    "attacker_power": 10000,
+    "defender_power": 11000,
+    "result": "Attack Fails"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Concedes!"
+  },
+  {
+    "player": "Machis",
+    "action": "Wins!"
+  },
+  {
+    "player": "tagliafregna",
+    "action": "Loses"
+  }
+]
