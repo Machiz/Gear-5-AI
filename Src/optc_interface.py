@@ -158,7 +158,7 @@ pluffy.agregar_carta('OP09-078', 4)
 
 # carga de cartas
 cargador_cartas = CartaLoader()
-cargador_cartas.load_card_data('assets/JSON', pluffy.cartas)
+cargador_cartas.load_card_data('assets/JSON/Cards/', pluffy.cartas)
 cargador_cartas.load_hand_data()
 
 

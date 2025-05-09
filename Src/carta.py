@@ -19,7 +19,7 @@ class CartaLoader:
         json_f = [file for file in os.listdir(json_path) if file.endswith('.json')]
         for path in json_f:
             if(path == "DON.json"): continue
-            with open('assets/JSON/' + path, "r", encoding="utf-8") as f:
+            with open('assets/JSON/Cards/' + path, "r", encoding="utf-8") as f:
                 all_cards = json.load(f)
                 for carta in mazo:
                     if(carta in all_cards):
