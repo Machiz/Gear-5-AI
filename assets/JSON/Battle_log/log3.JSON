@@ -1,95 +1,95 @@
-[
-  {
+{
+  "log3-001": {
     "player": "Mhcuber",
     "action": "Leader is Monkey D. Luffy",
     "card": "OP05-060"
   },
-  {
+  "log3-002": {
     "player": "Dyno",
     "action": "Leader is Charlotte Katakuri",
     "card": "OP03-099"
   },
-  {
+  "log3-003": {
     "player": "Dyno",
     "action": "Chose to go Second"
   },
-  {
+  "log3-004": {
     "player": "Mhcuber",
     "action": "Mulligan"
   },
-  {
+  "log3-005": {
     "player": "Mhcuber",
     "action": "Draw 1 Don"
   },
-  {
+  "log3-006": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log3-007": {
     "player": "Dyno",
     "action": "Draw 1 Card"
   },
-  {
+  "log3-008": {
     "player": "Dyno",
     "action": "Draw 2 Don"
   },
-  {
+  "log3-009": {
     "player": "Dyno",
     "action": "Deploy",
     "card": "OP03-112"
   },
-  {
+  "log3-010": {
     "player": "Dyno",
     "action": "Reveal and Draw",
     "card": "ST20-005"
   },
-  {
+  "log3-011": {
     "player": "Dyno",
     "action": "End Turn"
   },
-  {
+  "log3-012": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log3-013": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log3-014": {
     "player": "Mhcuber",
     "action": "Loses 1 Life"
   },
-  {
+  "log3-015": {
     "player": "Mhcuber",
     "action": "Monkey D. Luffy: Draw 1 Don"
   },
-  {
+  "log3-016": {
     "player": "Mhcuber",
     "action": "Deploy",
     "card": "ST18-004"
   },
-  {
+  "log3-017": {
     "player": "Mhcuber",
     "action": "Reveal and Draw",
     "card": "ST18-004"
   },
-  {
+  "log3-018": {
     "player": "Mhcuber",
     "action": "Placing Cards on Bottom of Deck"
   },
-  {
+  "log3-019": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP05-060",
     "defender": "OP03-099"
   },
-  {
+  "log3-020": {
     "player": "Dyno",
     "action": "Discard",
     "card": "ST20-004",
     "counter": 1000
   },
-  {
+  "log3-021": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP05-060",
@@ -98,61 +98,61 @@
     "defender_power": 6000,
     "result": "Attack Fails"
   },
-  {
+  "log3-022": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log3-023": {
     "player": "Dyno",
     "action": "Draw 1 Card"
   },
-  {
+  "log3-024": {
     "player": "Dyno",
     "action": "Draw 2 Don"
   },
-  {
+  "log3-025": {
     "player": "Dyno",
     "action": "Deploy",
     "card": "OP10-109"
   },
-  {
+  "log3-026": {
     "player": "Dyno",
     "action": "End Turn"
   },
-  {
+  "log3-027": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log3-028": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log3-029": {
     "player": "Mhcuber",
     "action": "Loses 1 Life"
   },
-  {
+  "log3-030": {
     "player": "Mhcuber",
     "action": "Monkey D. Luffy: Draw 1 Don"
   },
-  {
+  "log3-031": {
     "player": "Mhcuber",
     "action": "Deploy",
     "card": "OP05-074"
   },
-  {
+  "log3-032": {
     "player": "Mhcuber",
     "action": "Attach 1 Don to",
     "card": "ST18-004",
     "total_don": 1
   },
-  {
+  "log3-033": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "ST18-004",
     "defender": "OP03-099"
   },
-  {
+  "log3-034": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "ST18-004",
@@ -161,19 +161,19 @@
     "defender_power": 5000,
     "damage": 1
   },
-  {
+  "log3-035": {
     "player": "Mhcuber",
     "action": "Attach 1 Don to",
     "card": "OP05-060",
     "total_don": 1
   },
-  {
+  "log3-036": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP05-060",
     "defender": "OP03-099"
   },
-  {
+  "log3-037": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP05-060",
@@ -182,53 +182,53 @@
     "defender_power": 5000,
     "damage": 1
   },
-  {
+  "log3-038": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log3-039": {
     "player": "Dyno",
     "action": "Draw 1 Card"
   },
-  {
+  "log3-040": {
     "player": "Dyno",
     "action": "Draw 2 Don"
   },
-  {
+  "log3-041": {
     "player": "Dyno",
     "action": "Deploy",
     "card": "ST20-005"
   },
-  {
+  "log3-042": {
     "player": "Dyno",
     "action": "Charlotte Linlin: Trash",
     "target": "OP03-110"
   },
-  {
+  "log3-043": {
     "player": "Dyno",
     "action": "Forcing opponent to resolve Card Action!"
   },
-  {
+  "log3-044": {
     "player": "Mhcuber",
     "action": "Charlotte Linlin: Trash",
     "target": "ST18-004"
   },
-  {
+  "log3-045": {
     "player": "Mhcuber",
     "action": "Charlotte Linlin: Trash",
     "target": "ST18-002"
   },
-  {
+  "log3-046": {
     "player": "Dyno",
     "action": "attacking",
     "attacker": "OP10-109",
     "defender": "OP05-060"
   },
-  {
+  "log3-047": {
     "player": "Mhcuber",
     "action": "Eustass 'Captain' Kid: Blocks"
   },
-  {
+  "log3-048": {
     "player": "Dyno",
     "action": "attacking",
     "attacker": "OP10-109",
@@ -237,45 +237,45 @@
     "defender_power": 6000,
     "result": "Attack Fails"
   },
-  {
+  "log3-049": {
     "player": "Dyno",
     "action": "End Turn"
   },
-  {
+  "log3-050": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log3-051": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log3-052": {
     "player": "Mhcuber",
     "action": "Deploy",
     "card": "OP09-065"
   },
-  {
+  "log3-053": {
     "player": "Mhcuber",
     "action": "Sanji: Give",
     "target": "OP09-065",
     "effect": "Rush"
   },
-  {
+  "log3-054": {
     "player": "Mhcuber",
     "action": "Sanji: Rest",
     "target": "ST20-005"
   },
-  {
+  "log3-055": {
     "player": "Mhcuber",
     "action": "Eustass 'Captain' Kid: Draw 1 Don"
   },
-  {
+  "log3-056": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "ST18-004",
     "defender": "OP03-099"
   },
-  {
+  "log3-057": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "ST18-004",
@@ -284,33 +284,33 @@
     "defender_power": 5000,
     "damage": 1
   },
-  {
+  "log3-058": {
     "player": "Dyno",
     "action": "Trash",
     "card": "OP03-118"
   },
-  {
+  "log3-059": {
     "player": "Dyno",
     "action": "Trash",
     "card": "OP06-101"
   },
-  {
+  "log3-060": {
     "player": "Dyno",
     "action": "Ikoku Sovereignty: Add card to top of Life from Deck"
   },
-  {
+  "log3-061": {
     "player": "Mhcuber",
     "action": "Attach 2 Don to",
     "card": "OP09-065",
     "total_don": 2
   },
-  {
+  "log3-062": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP09-065",
     "defender": "ST20-005"
   },
-  {
+  "log3-063": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP09-065",
@@ -318,17 +318,17 @@
     "attacker_power": 9000,
     "defender_power": 7000
   },
-  {
+  "log3-064": {
     "player": "Dyno",
     "action": "ST20-005 Destroyed"
   },
-  {
+  "log3-065": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP05-060",
     "defender": "OP03-099"
   },
-  {
+  "log3-066": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP05-060",
@@ -337,93 +337,93 @@
     "defender_power": 5000,
     "damage": 1
   },
-  {
+  "log3-067": {
     "player": "Dyno",
     "action": "Thunder Bolt: Destroy",
     "target": "OP05-074"
   },
-  {
+  "log3-068": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log3-069": {
     "player": "Dyno",
     "action": "Draw 1 Card"
   },
-  {
+  "log3-070": {
     "player": "Dyno",
     "action": "Draw 2 Don"
   },
-  {
+  "log3-071": {
     "player": "Dyno",
     "action": "Deploy",
     "card": "ST07-003"
   },
-  {
+  "log3-072": {
     "player": "Dyno",
     "action": "Charlotte Katakuri: Looked at their own top Life"
   },
-  {
+  "log3-073": {
     "player": "Dyno",
     "action": "Charlotte Katakuri: Moved to the Bottom"
   },
-  {
+  "log3-074": {
     "player": "Dyno",
     "action": "Charlotte Katakuri: Give",
     "target": "ST07-003",
     "effect": "Rush"
   },
-  {
+  "log3-075": {
     "player": "Dyno",
     "action": "Deploy",
     "card": "OP06-101"
   },
-  {
+  "log3-076": {
     "player": "Dyno",
     "action": "Onami: Give",
     "target": "OP03-099",
     "effect": "Banish"
   },
-  {
+  "log3-077": {
     "player": "Dyno",
     "action": "Attach 2 Don to",
     "card": "OP03-099",
     "total_don": 2
   },
-  {
+  "log3-078": {
     "player": "Dyno",
     "action": "attacking",
     "attacker": "OP03-099",
     "defender": "OP05-060"
   },
-  {
+  "log3-079": {
     "player": "Dyno",
     "action": "Charlotte Katakuri: Looked at their own top Life"
   },
-  {
+  "log3-080": {
     "player": "Dyno",
     "action": "Charlotte Katakuri: Left at the Top"
   },
-  {
+  "log3-081": {
     "player": "Dyno",
     "action": "Charlotte Katakuri: Buff Self",
     "target": "OP03-099",
     "power_change": 1000,
     "duration": "this Combat"
   },
-  {
+  "log3-082": {
     "player": "Mhcuber",
     "action": "Discard",
     "card": "OP06-076",
     "counter": 2000
   },
-  {
+  "log3-083": {
     "player": "Mhcuber",
     "action": "Discard",
     "card": "OP07-064",
     "counter": 2000
   },
-  {
+  "log3-084": {
     "player": "Dyno",
     "action": "attacking",
     "attacker": "OP03-099",
@@ -432,13 +432,13 @@
     "defender_power": 9000,
     "result": "Attack Fails"
   },
-  {
+  "log3-085": {
     "player": "Dyno",
     "action": "attacking",
     "attacker": "ST07-003",
     "defender": "OP05-060"
   },
-  {
+  "log3-086": {
     "player": "Dyno",
     "action": "attacking",
     "attacker": "ST07-003",
@@ -447,19 +447,19 @@
     "defender_power": 5000,
     "damage": 1
   },
-  {
+  "log3-087": {
     "player": "Dyno",
     "action": "attacking",
     "attacker": "OP10-109",
     "defender": "OP05-060"
   },
-  {
+  "log3-088": {
     "player": "Mhcuber",
     "action": "Discard",
     "card": "ST18-002",
     "counter": 1000
   },
-  {
+  "log3-089": {
     "player": "Dyno",
     "action": "attacking",
     "attacker": "OP10-109",
@@ -468,40 +468,40 @@
     "defender_power": 6000,
     "result": "Attack Fails"
   },
-  {
+  "log3-090": {
     "player": "Dyno",
     "action": "End Turn"
   },
-  {
+  "log3-091": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log3-092": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log3-093": {
     "player": "Mhcuber",
     "action": "Deploy",
     "card": "OP09-119"
   },
-  {
+  "log3-094": {
     "player": "Mhcuber",
     "action": "Monkey D. Luffy: Draw 1 Card"
   },
-  {
+  "log3-095": {
     "player": "Mhcuber",
     "action": "Monkey D. Luffy: Give",
     "target": "OP09-119",
     "effect": "Rush"
   },
-  {
+  "log3-096": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP09-119",
     "defender": "ST07-003"
   },
-  {
+  "log3-097": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP09-119",
@@ -509,17 +509,17 @@
     "attacker_power": 1000,
     "defender_power": 6000
   },
-  {
+  "log3-098": {
     "player": "Dyno",
     "action": "ST07-003 Destroyed"
   },
-  {
+  "log3-099": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP09-065",
     "defender": "OP03-099"
   },
-  {
+  "log3-100": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP09-065",
@@ -528,23 +528,23 @@
     "defender_power": 5000,
     "damage": 1
   },
-  {
+  "log3-101": {
     "player": "Dyno",
     "action": "Trash",
     "card": "OP03-123"
   },
-  {
+  "log3-102": {
     "player": "Dyno",
     "action": "Satori Trigger: Deploy",
     "card": "OP05-105"
   },
-  {
+  "log3-103": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "ST18-004",
     "defender": "OP03-099"
   },
-  {
+  "log3-104": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "ST18-004",
@@ -553,19 +553,19 @@
     "defender_power": 5000,
     "damage": 1
   },
-  {
+  "log3-105": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP05-060",
     "defender": "OP03-099"
   },
-  {
+  "log3-106": {
     "player": "Dyno",
     "action": "Discard",
     "card": "ST20-001",
     "counter": 1000
   },
-  {
+  "log3-107": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP05-060",
@@ -574,68 +574,68 @@
     "defender_power": 6000,
     "result": "Attack Fails"
   },
-  {
+  "log3-108": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log3-109": {
     "player": "Dyno",
     "action": "Draw 1 Card"
   },
-  {
+  "log3-110": {
     "player": "Dyno",
     "action": "Draw 2 Don"
   },
-  {
+  "log3-111": {
     "player": "Dyno",
     "action": "Deploy",
     "card": "ST07-003"
   },
-  {
+  "log3-112": {
     "player": "Dyno",
     "action": "Charlotte Katakuri: Looked at opponent's top Life"
   },
-  {
+  "log3-113": {
     "player": "Dyno",
     "action": "Charlotte Katakuri: Moved to the Bottom"
   },
-  {
+  "log3-114": {
     "player": "Dyno",
     "action": "Charlotte Katakuri: Give",
     "target": "ST07-003",
     "effect": "Rush"
   },
-  {
+  "log3-115": {
     "player": "Dyno",
     "action": "Attach 2 Don to",
     "card": "OP05-105",
     "total_don": 2
   },
-  {
+  "log3-116": {
     "player": "Dyno",
     "action": "Attach 2 Don to",
     "card": "ST07-003",
     "total_don": 2
   },
-  {
+  "log3-117": {
     "player": "Dyno",
     "action": "Attach 2 Don to",
     "card": "OP03-099",
     "total_don": 2
   },
-  {
+  "log3-118": {
     "player": "Dyno",
     "action": "attacking",
     "attacker": "OP10-109",
     "defender": "OP05-060"
   },
-  {
+  "log3-119": {
     "player": "Mhcuber",
     "action": "Discard",
     "card": "ST18-003",
     "counter": 1000
   },
-  {
+  "log3-120": {
     "player": "Dyno",
     "action": "attacking",
     "attacker": "OP10-109",
@@ -644,13 +644,13 @@
     "defender_power": 6000,
     "result": "Attack Fails"
   },
-  {
+  "log3-121": {
     "player": "Dyno",
     "action": "attacking",
     "attacker": "OP05-105",
     "defender": "OP05-060"
   },
-  {
+  "log3-122": {
     "player": "Dyno",
     "action": "attacking",
     "attacker": "OP05-105",
@@ -659,25 +659,25 @@
     "defender_power": 5000,
     "damage": 1
   },
-  {
+  "log3-123": {
     "player": "Dyno",
     "action": "attacking",
     "attacker": "ST07-003",
     "defender": "OP05-060"
   },
-  {
+  "log3-124": {
     "player": "Mhcuber",
     "action": "Discard",
     "card": "ST18-002",
     "counter": 1000
   },
-  {
+  "log3-125": {
     "player": "Mhcuber",
     "action": "Discard",
     "card": "ST18-001",
     "counter": 2000
   },
-  {
+  "log3-126": {
     "player": "Dyno",
     "action": "attacking",
     "attacker": "ST07-003",
@@ -686,38 +686,38 @@
     "defender_power": 8000,
     "damage": 1
   },
-  {
+  "log3-127": {
     "player": "Dyno",
     "action": "attacking",
     "attacker": "OP03-099",
     "defender": "OP05-060"
   },
-  {
+  "log3-128": {
     "player": "Dyno",
     "action": "Charlotte Katakuri: Buff Self",
     "target": "OP03-099",
     "power_change": 1000,
     "duration": "this Combat"
   },
-  {
+  "log3-129": {
     "player": "Mhcuber",
     "action": "Gum Gum Giant: Trash",
     "target": "ST18-005"
   },
-  {
+  "log3-130": {
     "player": "Mhcuber",
     "action": "Gum Gum Giant: Buff",
     "target": "OP05-060",
     "power_change": 4000,
     "duration": "the Combat"
   },
-  {
+  "log3-131": {
     "player": "Mhcuber",
     "action": "Gum Gum Giant: Draw",
     "amount": 2,
     "type": "Card"
   },
-  {
+  "log3-132": {
     "player": "Dyno",
     "action": "attacking",
     "attacker": "OP03-099",
@@ -726,35 +726,35 @@
     "defender_power": 9000,
     "result": "Attack Fails"
   },
-  {
+  "log3-133": {
     "player": "Dyno",
     "action": "End Turn"
   },
-  {
+  "log3-134": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log3-135": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log3-136": {
     "player": "Mhcuber",
     "action": "Attach 9 Don to",
     "card": "OP09-119",
     "total_don": 9
   },
-  {
+  "log3-137": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP09-119",
     "defender": "OP03-099"
   },
-  {
+  "log3-138": {
     "player": "Mhcuber",
     "action": "Wins!"
   },
-  {
+  "log3-139": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP09-119",
@@ -763,12 +763,12 @@
     "defender_power": 5000,
     "damage": 1
   },
-  {
+  "log3-140": {
     "player": "Dyno",
     "action": "Loses"
   },
-  {
+  "log3-141": {
     "player": "Dyno",
     "action": "GameOver"
   }
-]
+}

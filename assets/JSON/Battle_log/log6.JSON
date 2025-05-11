@@ -1,593 +1,593 @@
-[
-  {
+{
+  "log6-001": {
     "player": "Pirate89780",
     "action": "Leader is Monkey D. Luffy",
     "card": "ST13-003"
   },
-  {
+  "log6-002": {
     "player": "Pirate47091",
     "action": "Has Connected"
   },
-  {
+  "log6-003": {
     "action": "Version is 1.29b"
   },
-  {
+  "log6-004": {
     "player": "Pirate47091",
     "action": "Leader is Enel",
     "card": "OP05-098"
   },
-  {
+  "log6-005": {
     "player": "Pirate89780",
     "action": "Will select turn order"
   },
-  {
+  "log6-006": {
     "player": "Pirate89780",
     "action": "Chose to go Second"
   },
-  {
+  "log6-007": {
     "player": "Pirate89780",
     "action": "Mulligan"
   },
-  {
+  "log6-008": {
     "player": "Pirate47091",
     "action": "Draw 1 Don"
   },
-  {
+  "log6-009": {
     "player": "Pirate47091",
     "action": "Deploy Charlotte Flampe",
     "card": "EB01-056"
   },
-  {
+  "log6-010": {
     "player": "Pirate47091",
     "action": "Charlotte Flampe: Takes Top Life",
     "card": "EB01-056"
   },
-  {
+  "log6-011": {
     "player": "Pirate47091",
     "action": "Charlotte Flampe: Draw 1 Card",
     "card": "EB01-056"
   },
-  {
+  "log6-012": {
     "player": "Pirate47091",
     "action": "End Turn"
   },
-  {
+  "log6-013": {
     "player": "Pirate89780",
     "action": "Draw 1 Card"
   },
-  {
+  "log6-014": {
     "player": "Pirate89780",
     "action": "Draw 2 Don"
   },
-  {
+  "log6-015": {
     "player": "Pirate89780",
     "action": "Deploy Portgas D. Ace",
     "card": "ST13-010"
   },
-  {
+  "log6-016": {
     "player": "Pirate89780",
     "action": "End Turn"
   },
-  {
+  "log6-017": {
     "player": "Pirate47091",
     "action": "Draw 1 Card"
   },
-  {
+  "log6-018": {
     "player": "Pirate47091",
     "action": "Draw 2 Don"
   },
-  {
+  "log6-019": {
     "player": "Pirate47091",
     "action": "End Turn"
   },
-  {
+  "log6-020": {
     "player": "Pirate89780",
     "action": "Draw 1 Card"
   },
-  {
+  "log6-021": {
     "player": "Pirate89780",
     "action": "Draw 2 Don"
   },
-  {
+  "log6-022": {
     "player": "Pirate89780",
     "action": "Deploy Monkey D. Luffy",
     "card": "ST13-014"
   },
-  {
+  "log6-023": {
     "player": "Pirate89780",
     "action": "Attach 1 Don to Monkey D. Luffy",
     "card": "ST13-003",
     "total_don": 1
   },
-  {
+  "log6-024": {
     "player": "Pirate89780",
     "action": "Attach 1 Don to Monkey D. Luffy",
     "card": "ST13-003",
     "total_don": 2
   },
-  {
+  "log6-025": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy attacking Enel",
     "attacker": "ST13-003",
     "defender": "OP05-098"
   },
-  {
+  "log6-026": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy vs Enel",
     "attacker_power": 7000,
     "defender_power": 5000
   },
-  {
+  "log6-027": {
     "player": "Pirate89780",
     "action": "Enel hit for 1 damage"
   },
-  {
+  "log6-028": {
     "player": "Pirate47091",
     "action": "Franky: Draw 1 Card",
     "card": "OP07-107"
   },
-  {
+  "log6-029": {
     "player": "Pirate89780",
     "action": "End Turn"
   },
-  {
+  "log6-030": {
     "player": "Pirate47091",
     "action": "Draw 1 Card"
   },
-  {
+  "log6-031": {
     "player": "Pirate47091",
     "action": "Draw 2 Don"
   },
-  {
+  "log6-032": {
     "player": "Pirate47091",
     "action": "Deploy Basil Hawkins",
     "card": "OP10-109"
   },
-  {
+  "log6-033": {
     "player": "Pirate47091",
     "action": "End Turn"
   },
-  {
+  "log6-034": {
     "player": "Pirate89780",
     "action": "Draw 1 Card"
   },
-  {
+  "log6-035": {
     "player": "Pirate89780",
     "action": "Draw 2 Don"
   },
-  {
+  "log6-036": {
     "player": "Pirate89780",
     "action": "Deploy Laboon",
     "card": "EB01-048"
   },
-  {
+  "log6-037": {
     "player": "Pirate89780",
     "action": "Attach 2 Don to Monkey D. Luffy",
     "card": "ST13-003",
     "total_don": 2
   },
-  {
+  "log6-038": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy attacking Enel",
     "attacker": "ST13-003",
     "defender": "OP05-098"
   },
-  {
+  "log6-039": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy vs Enel",
     "attacker_power": 7000,
     "defender_power": 5000
   },
-  {
+  "log6-040": {
     "player": "Pirate89780",
     "action": "Enel hit for 1 damage"
   },
-  {
+  "log6-041": {
     "player": "Pirate89780",
     "action": "End Turn"
   },
-  {
+  "log6-042": {
     "player": "Pirate47091",
     "action": "Draw 1 Card"
   },
-  {
+  "log6-043": {
     "player": "Pirate47091",
     "action": "Draw 2 Don"
   },
-  {
+  "log6-044": {
     "player": "Pirate47091",
     "action": "Deploy Gedatsu",
     "card": "OP05-102"
   },
-  {
+  "log6-045": {
     "player": "Pirate47091",
     "action": "Gedatsu: Destroy Laboon",
     "card": "OP05-102",
     "target": "EB01-048"
   },
-  {
+  "log6-046": {
     "player": "Pirate47091",
     "action": "End Turn"
   },
-  {
+  "log6-047": {
     "player": "Pirate89780",
     "action": "Draw 1 Card"
   },
-  {
+  "log6-048": {
     "player": "Pirate89780",
     "action": "Draw 2 Don"
   },
-  {
+  "log6-049": {
     "player": "Pirate89780",
     "action": "Deploy Monkey D. Luffy",
     "card": "OP07-091"
   },
-  {
+  "log6-050": {
     "player": "Pirate89780",
     "action": "Attach 3 Don to Monkey D. Luffy",
     "card": "ST13-003",
     "total_don": 3
   },
-  {
+  "log6-051": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy attacking Enel",
     "attacker": "ST13-003",
     "defender": "OP05-098"
   },
-  {
+  "log6-052": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy vs Enel",
     "attacker_power": 8000,
     "defender_power": 5000
   },
-  {
+  "log6-053": {
     "player": "Pirate89780",
     "action": "Enel hit for 1 damage"
   },
-  {
+  "log6-054": {
     "player": "Pirate47091",
     "action": "Trash You're the one who should disappear!",
     "card": "OP06-115"
   },
-  {
+  "log6-055": {
     "player": "Pirate47091",
     "action": "You're the one who should disappear!: Add card to top of Life from Deck",
     "card": "OP06-115"
   },
-  {
+  "log6-056": {
     "player": "Pirate47091",
     "action": "Trash Charlotte Katakuri",
     "card": "OP03-123"
   },
-  {
+  "log6-057": {
     "player": "Pirate47091",
     "action": "Enel: Add card to top of Life from Deck",
     "card": "OP05-098"
   },
-  {
+  "log6-058": {
     "player": "Pirate89780",
     "action": "End Turn"
   },
-  {
+  "log6-059": {
     "player": "Pirate47091",
     "action": "Draw 1 Card"
   },
-  {
+  "log6-060": {
     "player": "Pirate47091",
     "action": "Draw 2 Don"
   },
-  {
+  "log6-061": {
     "player": "Pirate47091",
     "action": "Deploy Yamato",
     "card": "OP04-112"
   },
-  {
+  "log6-062": {
     "player": "Pirate47091",
     "action": "Yamato: Destroy Monkey D. Luffy",
     "card": "OP04-112",
     "target": "OP07-091"
   },
-  {
+  "log6-063": {
     "player": "Pirate47091",
     "action": "End Turn"
   },
-  {
+  "log6-064": {
     "player": "Pirate89780",
     "action": "Draw 1 Card"
   },
-  {
+  "log6-065": {
     "player": "Pirate89780",
     "action": "Draw 2 Don"
   },
-  {
+  "log6-066": {
     "player": "Pirate89780",
     "action": "Deploy Monkey D. Luffy",
     "card": "OP07-109"
   },
-  {
+  "log6-067": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy: Trash Monkey D. Luffy",
     "card": "OP07-109",
     "target": "OP07-109"
   },
-  {
+  "log6-068": {
     "player": "Pirate47091",
     "action": "more than 2 life"
   },
-  {
+  "log6-069": {
     "player": "Pirate89780",
     "action": "Deploy Shirahoshi",
     "card": "ST08-006"
   },
-  {
+  "log6-070": {
     "player": "Pirate89780",
     "action": "Attach 1 Don to Monkey D. Luffy",
     "card": "ST13-003",
     "total_don": 1
   },
-  {
+  "log6-071": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy attacking Enel",
     "attacker": "ST13-003",
     "defender": "OP05-098"
   },
-  {
+  "log6-072": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy vs Enel",
     "attacker_power": 6000,
     "defender_power": 5000
   },
-  {
+  "log6-073": {
     "player": "Pirate89780",
     "action": "Enel hit for 1 damage"
   },
-  {
+  "log6-074": {
     "player": "Pirate89780",
     "action": "End Turn"
   },
-  {
+  "log6-075": {
     "player": "Pirate47091",
     "action": "Draw 1 Card"
   },
-  {
+  "log6-076": {
     "player": "Pirate47091",
     "action": "Draw 2 Don"
   },
-  {
+  "log6-077": {
     "player": "Pirate47091",
     "action": "Deploy Onami",
     "card": "OP06-101"
   },
-  {
+  "log6-078": {
     "player": "Pirate47091",
     "action": "Onami: Give Yamato Banish",
     "card": "OP06-101",
     "target": "OP04-112"
   },
-  {
+  "log6-079": {
     "player": "Pirate47091",
     "action": "Yamato attacking Monkey D. Luffy",
     "attacker": "OP04-112",
     "defender": "ST13-003"
   },
-  {
+  "log6-080": {
     "player": "Pirate47091",
     "action": "Yamato vs Monkey D. Luffy",
     "attacker_power": 9000,
     "defender_power": 5000
   },
-  {
+  "log6-081": {
     "player": "Pirate89780",
     "action": "Trash Sabo from Life",
     "card": "ST13-007"
   },
-  {
+  "log6-082": {
     "player": "Pirate89780",
     "action": "Banished 1 Life"
   },
-  {
+  "log6-083": {
     "player": "Pirate47091",
     "action": "Trash Charlotte Flampe",
     "card": "EB01-056"
   },
-  {
+  "log6-084": {
     "player": "Pirate47091",
     "action": "Deploy Charlotte Katakuri",
     "card": "OP03-123"
   },
-  {
+  "log6-085": {
     "player": "Pirate47091",
     "action": "Charlotte Katakuri: Add Onami to top of Life",
     "card": "OP03-123",
     "target": "OP06-101"
   },
-  {
+  "log6-086": {
     "player": "Pirate47091",
     "action": "End Turn"
   },
-  {
+  "log6-087": {
     "player": "Pirate89780",
     "action": "Draw 1 Card"
   },
-  {
+  "log6-088": {
     "player": "Pirate89780",
     "action": "Deploy Monkey D. Garp",
     "card": "ST13-013"
   },
-  {
+  "log6-089": {
     "player": "Pirate89780",
     "action": "Reveal and Draw Portgas D. Ace",
     "card": "ST13-011"
   },
-  {
+  "log6-090": {
     "player": "Pirate89780",
     "action": "Deploy Monkey D. Luffy",
     "card": "ST13-015"
   },
-  {
+  "log6-091": {
     "player": "Pirate89780",
     "action": "Attach 4 Don to Monkey D. Luffy",
     "card": "ST13-003",
     "total_don": 4
   },
-  {
+  "log6-092": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy attacking Yamato",
     "attacker": "ST13-003",
     "defender": "OP04-112"
   },
-  {
+  "log6-093": {
     "player": "Pirate47091",
     "action": "Discard Nekomamushi for Counter 1000",
     "card": "OP06-110"
   },
-  {
+  "log6-094": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy vs Yamato",
     "attacker_power": 9000,
     "defender_power": 10000
   },
-{
+  "log6-095": {
     "player": "Pirate89780",
     "action": "Attack Fails"
   },
-  {
+  "log6-096": {
     "player": "Pirate89780",
     "action": "End Turn"
   },
-  {
+  "log6-097": {
     "player": "Pirate47091",
     "action": "Draw 1 Card"
   },
-  {
+  "log6-098": {
     "player": "Pirate47091",
     "action": "Basil Hawkins attacking Monkey D. Luffy",
     "attacker": "OP10-109",
     "defender": "ST13-003"
   },
-  {
+  "log6-099": {
     "player": "Pirate47091",
     "action": "Basil Hawkins vs Monkey D. Luffy",
     "attacker_power": 5000,
     "defender_power": 5000
   },
-  {
+  "log6-100": {
     "player": "Pirate47091",
     "action": "Monkey D. Luffy hit for 1 damage"
   },
-  {
+  "log6-101": {
     "player": "Pirate47091",
     "action": "Deploy Eustass \"Captain\" Kid",
     "card": "OP10-112"
   },
-  {
+  "log6-102": {
     "player": "Pirate47091",
     "action": "Eustass \"Captain\" Kid: Rest Eustass \"Captain\" Kid",
     "card": "OP10-112"
   },
-  {
+  "log6-103": {
     "player": "Pirate47091",
     "action": "Eustass \"Captain\" Kid: Trash 1 Life",
     "card": "OP10-112"
   },
-  {
+  "log6-104": {
     "player": "Pirate47091",
     "action": "Trash Charlotte Flampe from Life",
     "card": "EB01-056"
   },
-  {
+  "log6-105": {
     "player": "Pirate47091",
     "action": "Gedatsu attacking Monkey D. Luffy",
     "attacker": "OP05-102",
     "defender": "ST13-003"
   },
-  {
+  "log6-106": {
     "player": "Pirate89780",
     "action": "Discard Kozuki Hiyori for Counter 2000",
     "card": "OP06-106"
   },
-  {
+  "log6-107": {
     "player": "Pirate47091",
     "action": "Gedatsu vs Monkey D. Luffy",
     "attacker_power": 6000,
     "defender_power": 7000
   },
-  {
+  "log6-108": {
     "player": "Pirate47091",
     "action": "Attack Fails"
   },
-  {
+  "log6-109": {
     "player": "Pirate47091",
     "action": "Attach 1 Don to Enel",
     "card": "OP05-098",
     "total_don": 1
   },
-  {
+  "log6-110": {
     "player": "Pirate47091",
     "action": "Attach 1 Don to Enel",
     "card": "OP05-098",
     "total_don": 2
   },
-  {
+  "log6-111": {
     "player": "Pirate47091",
     "action": "Enel attacking Monkey D. Luffy",
     "attacker": "OP05-098",
     "defender": "ST13-003"
   },
-  {
+  "log6-112": {
     "player": "Pirate47091",
     "action": "Enel vs Monkey D. Luffy",
     "attacker_power": 7000,
     "defender_power": 5000
   },
-  {
+  "log6-113": {
     "player": "Pirate47091",
     "action": "Monkey D. Luffy hit for 1 damage"
   },
-  {
+  "log6-114": {
     "player": "Pirate47091",
     "action": "Charlotte Katakuri attacking Monkey D. Luffy",
     "attacker": "OP03-123",
     "defender": "ST13-003"
   },
-  {
+  "log6-115": {
     "player": "Pirate89780",
     "action": "Shirahoshi Blocks",
     "blocker": "ST08-006"
   },
-  {
+  "log6-116": {
     "player": "Pirate47091",
     "action": "Charlotte Katakuri vs Shirahoshi",
     "attacker_power": 8000,
     "defender_power": 0
   },
-  {
+  "log6-117": {
     "player": "Pirate89780",
     "action": "Shirahoshi Destroyed",
     "card": "ST08-006"
   },
-  {
+  "log6-118": {
     "player": "Pirate47091",
     "action": "Yamato attacking Monkey D. Luffy",
     "attacker": "OP04-112",
     "defender": "ST13-003"
   },
-  {
+  "log6-119": {
     "player": "Pirate47091",
     "action": "Yamato vs Monkey D. Luffy",
     "attacker_power": 9000,
     "defender_power": 5000
   },
-  {
+  "log6-120": {
     "player": "Pirate47091",
     "action": "Monkey D. Luffy hit for 1 damage"
   },
-  {
+  "log6-121": {
     "player": "Pirate89780",
     "action": "Loses"
   },
-  {
+  "log6-122": {
     "player": "Pirate47091",
     "action": "Wins!"
   }
-]
+}

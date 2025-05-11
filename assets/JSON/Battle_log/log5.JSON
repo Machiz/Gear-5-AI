@@ -1,798 +1,798 @@
-[
-  {
+{
+  "log5-001": {
     "action": "Attempting to connect to 7RBNTD"
   },
-  {
+  "log5-002": {
     "player": "Sam",
     "action": "The Leader is Shanks",
     "card": "OP09-001"
   },
-  {
+  "log5-003": {
     "action": "Will select turn order"
   },
-  {
+  "log5-004": {
     "player": "Pirate89780",
     "action": "The Leader is Monkey D. Luffy",
     "card": "ST13-003"
   },
-  {
+  "log5-005": {
     "player": "Pirate89780",
     "action": "Chose to play second"
   },
-  {
+  "log5-006": {
     "player": "Pirate89780",
     "action": "Mulligan"
   },
-  {
+  "log5-007": {
     "player": "Sam",
     "action": "Draw 1 Don"
   },
-  {
+  "log5-008": {
     "player": "Sam",
     "action": "End Turn"
   },
-  {
+  "log5-009": {
     "player": "Pirate89780",
     "action": "Draw 1 card"
   },
-  {
+  "log5-010": {
     "player": "Pirate89780",
     "action": "Draw 2 Don"
   },
-  {
+  "log5-011": {
     "player": "Pirate89780",
     "action": "Play Monkey D. Garp",
     "card": "ST13-013"
   },
-  {
+  "log5-012": {
     "player": "Pirate89780",
     "action": "Reveal and draw Portgas D. Ace",
     "card": "ST13-011"
   },
-  {
+  "log5-013": {
     "player": "Pirate89780",
     "action": "Play Monkey D. Garp",
     "card": "ST13-013"
   },
-  {
+  "log5-014": {
     "player": "Pirate89780",
     "action": "Reveal and draw Sabo",
     "card": "OP04-083"
   },
-  {
+  "log5-015": {
     "player": "Pirate89780",
     "action": "End Turn"
   },
-  {
+  "log5-016": {
     "player": "Sam",
     "action": "Draw 1 card"
   },
-  {
+  "log5-017": {
     "player": "Sam",
     "action": "Draw 2 Don"
   },
-  {
+  "log5-018": {
     "player": "Sam",
     "action": "Attach 1 Don to Shanks",
     "card": "OP09-001",
     "total_don": 1
   },
-  {
+  "log5-019": {
     "player": "Sam",
     "action": "Attach 1 Don to Shanks",
     "card": "OP09-001",
     "total_don": 2
   },
-  {
+  "log5-020": {
     "player": "Sam",
     "action": "Attach 1 Don to Shanks",
     "card": "OP09-001",
     "total_don": 3
   },
-  {
+  "log5-021": {
     "player": "Sam",
     "action": "Shanks attacks Monkey D. Luffy",
     "attacker": "OP09-001",
     "defender": "ST13-003"
   },
-  {
+  "log5-022": {
     "player": "Sam",
     "action": "Shanks vs Monkey D. Luffy",
     "attacker_power": 8000,
     "defender_power": 5000
   },
-  {
+  "log5-023": {
     "player": "Sam",
     "action": "Monkey D. Luffy takes 1 damage"
   },
-  {
+  "log5-024": {
     "player": "Sam",
     "action": "End Turn"
   },
-  {
+  "log5-025": {
     "player": "Pirate89780",
     "action": "Draw 1 card"
   },
-  {
+  "log5-026": {
     "player": "Pirate89780",
     "action": "Draw 2 Don"
   },
-  {
+  "log5-027": {
     "player": "Pirate89780",
     "action": "Play Monkey D. Luffy",
     "card": "ST13-014"
   },
-  {
+  "log5-028": {
     "player": "Pirate89780",
     "action": "Attach 2 Don to Monkey D. Luffy",
     "card": "ST13-003",
     "total_don": 2
   },
-  {
+  "log5-029": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy attacks Shanks",
     "attacker": "ST13-003",
     "defender": "OP09-001"
   },
-  {
+  "log5-030": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy vs Shanks",
     "attacker_power": 7000,
     "defender_power": 5000
   },
-  {
+  "log5-031": {
     "player": "Pirate89780",
     "action": "Shanks takes 1 damage"
   },
-  {
+  "log5-032": {
     "player": "Pirate89780",
     "action": "End Turn"
   },
-  {
+  "log5-033": {
     "player": "Sam",
     "action": "Draw 1 card"
   },
-  {
+  "log5-034": {
     "player": "Sam",
     "action": "Draw 2 Don"
   },
-  {
+  "log5-035": {
     "player": "Sam",
     "action": "Play Monkey D. Luffy",
     "card": "ST21-014"
   },
-  {
+  "log5-036": {
     "player": "Sam",
     "action": "Monkey D. Luffy attacks Monkey D. Luffy",
     "attacker": "ST21-014",
     "defender": "ST13-003"
   },
-  {
+  "log5-037": {
     "player": "Sam",
     "action": "Monkey D. Luffy: Attach 1 Rested Don to Shanks",
     "card": "ST21-014",
     "target": "OP09-001"
   },
-  {
+  "log5-038": {
     "player": "Pirate89780",
     "action": "Discard Portgas D. Ace to Counter 1000",
     "card": "ST13-010"
   },
-  {
+  "log5-039": {
     "player": "Pirate89780",
     "action": "Discard Monkey D. Luffy to Counter 1000",
     "card": "OP07-091"
   },
-  {
+  "log5-040": {
     "player": "Sam",
     "action": "Monkey D. Luffy vs Monkey D. Luffy",
     "attacker_power": 6000,
     "defender_power": 7000
   },
-  {
+  "log5-041": {
     "player": "Sam",
     "action": "Attack Fails"
   },
-  {
+  "log5-042": {
     "player": "Sam",
     "action": "Shanks attacks Monkey D. Luffy",
     "attacker": "OP09-001",
     "defender": "ST13-003"
   },
-  {
+  "log5-043": {
     "player": "Sam",
     "action": "Shanks vs Monkey D. Luffy",
     "attacker_power": 6000,
     "defender_power": 5000
   },
-  {
+  "log5-044": {
     "player": "Sam",
     "action": "Monkey D. Luffy takes 1 damage"
   },
-  {
+  "log5-045": {
     "player": "Sam",
     "action": "End Turn"
   },
-  {
+  "log5-046": {
     "player": "Pirate89780",
     "action": "Draw 1 card"
   },
-  {
+  "log5-047": {
     "player": "Pirate89780",
     "action": "Draw 2 Don"
   },
-  {
+  "log5-048": {
     "player": "Pirate89780",
     "action": "Play Portgas D. Ace",
     "card": "ST13-011"
   },
-  {
+  "log5-049": {
     "player": "Pirate89780",
     "action": "Portgas D. Ace Gains Initiative",
     "card": "ST13-011"
   },
-  {
+  "log5-050": {
     "player": "Pirate89780",
     "action": "Attach 1 Don to Portgas D. Ace",
     "card": "ST13-011",
     "total_don": 1
   },
-  {
+  "log5-051": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy attacks Shanks",
     "attacker": "ST13-003",
     "defender": "OP09-001"
   },
-  {
+  "log5-052": {
     "player": "Sam",
     "action": "Shanks: Boost -1000 to Monkey D. Luffy",
     "card": "OP09-001",
     "target": "ST13-003"
   },
-  {
+  "log5-053": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy vs Shanks",
     "attacker_power": 4000,
     "defender_power": 5000
   },
-  {
+  "log5-054": {
     "player": "Pirate89780",
     "action": "Attack Fails"
   },
-  {
+  "log5-055": {
     "player": "Pirate89780",
     "action": "Portgas D. Ace attacks Shanks",
     "attacker": "ST13-011",
     "defender": "OP09-001"
   },
-  {
+  "log5-056": {
     "player": "Pirate89780",
     "action": "Portgas D. Ace vs Shanks",
     "attacker_power": 8000,
     "defender_power": 5000
   },
-  {
+  "log5-057": {
     "player": "Pirate89780",
     "action": "Shanks takes 1 damage"
   },
-  {
+  "log5-058": {
     "player": "Pirate89780",
     "action": "End Turn"
   },
-  {
+  "log5-059": {
     "player": "Sam",
     "action": "Draw 1 card"
   },
-  {
+  "log5-060": {
     "player": "Sam",
     "action": "Draw 2 Don"
   },
-  {
+  "log5-061": {
     "player": "Sam",
     "action": "Play Roronoa Zoro",
     "card": "ST21-015"
   },
-  {
+  "log5-062": {
     "player": "Sam",
     "action": "Attach 1 Don to Roronoa Zoro",
     "card": "ST21-015",
     "total_don": 1
   },
-  {
+  "log5-063": {
     "player": "Sam",
     "action": "Attach 1 Don to Monkey D. Luffy",
     "card": "ST21-014",
     "total_don": 1
   },
-  {
+  "log5-064": {
     "player": "Sam",
     "action": "Monkey D. Luffy attacks Portgas D. Ace",
     "attacker": "ST21-014",
     "defender": "ST13-011"
   },
-  {
+  "log5-065": {
     "player": "Sam",
     "action": "Monkey D. Luffy: Attach 1 Rested Don to Roronoa Zoro",
     "card": "ST21-014",
     "target": "ST21-015"
   },
-  {
+  "log5-066": {
     "player": "Sam",
     "action": "Monkey D. Luffy vs Portgas D. Ace",
     "attacker_power": 7000,
     "defender_power": 7000
   },
-  {
+  "log5-067": {
     "player": "Pirate89780",
     "action": "Portgas D. Ace Destroyed",
     "card": "ST13-011"
   },
-  {
+  "log5-068": {
     "player": "Sam",
     "action": "Roronoa Zoro attacks Monkey D. Luffy",
     "attacker": "ST21-015",
     "defender": "ST13-003"
   },
-  {
+  "log5-069": {
     "player": "Sam",
     "action": "Roronoa Zoro vs Monkey D. Luffy",
     "attacker_power": 7000,
     "defender_power": 5000
   },
-  {
+  "log5-070": {
     "player": "Sam",
     "action": "Monkey D. Luffy takes 1 damage"
   },
-  {
+  "log5-071": {
     "player": "Sam",
     "action": "Attach 1 Don to Shanks",
     "card": "OP09-001",
     "total_don": 1
   },
-  {
+  "log5-072": {
     "player": "Sam",
     "action": "Shanks attacks Monkey D. Luffy",
     "attacker": "OP09-001",
     "defender": "ST13-003"
   },
-  {
+  "log5-073": {
     "player": "Sam",
     "action": "Shanks vs Monkey D. Luffy",
     "attacker_power": 6000,
     "defender_power": 5000
   },
-  {
+  "log5-074": {
     "player": "Sam",
     "action": "Monkey D. Luffy takes 1 damage"
   },
-  {
+  "log5-075": {
     "player": "Sam",
     "action": "End Turn"
   },
-  {
+  "log5-076": {
     "player": "Pirate89780",
     "action": "Draw 1 card"
   },
-  {
+  "log5-077": {
     "player": "Pirate89780",
     "action": "Draw 2 Don"
   },
-  {
+  "log5-078": {
     "player": "Pirate89780",
     "action": "Attach 2 Don to Monkey D. Luffy",
     "card": "ST13-003",
     "total_don": 2
   },
-  {
+  "log5-079": {
     "player": "Pirate89780",
     "action": "Discard Monkey D. Garp",
     "card": "ST13-013"
   },
-  {
+  "log5-080": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy : Added a card from the Trash to the top of Life",
     "card": "ST13-003"
   },
-  {
+  "log5-081": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy : Added a card from the Trash to the top of Life",
     "card": "ST13-003"
   },
-  {
+  "log5-082": {
     "player": "Pirate89780",
     "action": "Play Portgas D. Ace",
     "card": "ST13-011"
   },
-  {
+  "log5-083": {
     "player": "Pirate89780",
     "action": "Portgas D. Ace Gains Initiative",
     "card": "ST13-011"
   },
-  {
+  "log5-084": {
     "player": "Pirate89780",
     "action": "Attach 1 Don to Portgas D. Ace",
     "card": "ST13-011",
     "total_don": 1
   },
-  {
+  "log5-085": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy attacks Shanks",
     "attacker": "ST13-003",
     "defender": "OP09-001"
   },
-  {
+  "log5-086": {
     "player": "Sam",
     "action": "Shanks: Boost -1000 to Monkey D. Luffy",
     "card": "OP09-001",
     "target": "ST13-003"
   },
-  {
+  "log5-087": {
     "player": "Sam",
     "action": "Discard Otama to Counter 2000",
     "card": "OP01-006"
   },
-  {
+  "log5-088": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy vs Shanks",
     "attacker_power": 6000,
     "defender_power": 7000
   },
-  {
+  "log5-089": {
     "player": "Pirate89780",
     "action": "Attack Fails"
   },
-  {
+  "log5-090": {
     "player": "Pirate89780",
     "action": "Portgas D. Ace attacks Roronoa Zoro",
     "attacker": "ST13-011",
     "defender": "ST21-015"
   },
-  {
+  "log5-091": {
     "player": "Pirate89780",
     "action": "Portgas D. Ace vs Roronoa Zoro",
     "attacker_power": 8000
   },
-  {
+  "log5-092": {
     "player": "Sam",
     "action": "Roronoa Zoro Destroyed",
     "card": "ST21-015"
   },
-  {
+  "log5-093": {
     "player": "Pirate89780",
     "action": "End Turn"
   },
-  {
+  "log5-094": {
     "player": "Sam",
     "action": "Draw 1 card"
   },
-  {
+  "log5-095": {
     "player": "Sam",
     "action": "Draw 2 Don"
   },
-  {
+  "log5-096": {
     "player": "Sam",
     "action": "Play Monkey D. Dragon",
     "card": "OP07-015"
   },
-  {
+  "log5-097": {
     "player": "Sam",
     "action": "Monkey D. Dragon: Attach 1 Rested Don to Monkey D. Dragon",
     "card": "OP07-015"
   },
-  {
+  "log5-098": {
     "player": "Sam",
     "action": "Monkey D. Dragon: Attach 1 Rested Don to Monkey D. Dragon",
     "card": "OP07-015"
   },
-  {
+  "log5-099": {
     "player": "Sam",
     "action": "Monkey D. Dragon attacks Portgas D. Ace",
     "attacker": "OP07-015",
     "defender": "ST13-011"
   },
-  {
+  "log5-100": {
     "player": "Sam",
     "action": "Monkey D. Dragon vs Portgas D. Ace",
     "attacker_power": 11000,
     "defender_power": 7000
   },
-  {
+  "log5-101": {
     "player": "Pirate89780",
     "action": "Portgas D. Ace Destroyed",
     "card": "ST13-011"
   },
-  {
+  "log5-102": {
     "player": "Sam",
     "action": "Attach 1 Don to Monkey D. Luffy",
     "card": "ST21-014",
     "total_don": 1
   },
-  {
+  "log5-103": {
     "player": "Sam",
     "action": "Monkey D. Luffy attacks Monkey D. Luffy",
     "attacker": "ST21-014",
     "defender": "ST13-003"
   },
-  {
+  "log5-104": {
     "player": "Sam",
     "action": "Monkey D. Luffy: Attach 1 Rested Don to Monkey D. Luffy",
     "card": "ST21-014"
   },
-  {
+  "log5-105": {
     "player": "Pirate89780",
     "action": "Discard Monkey D. Luffy to Counter 1000",
     "card": "ST13-014"
   },
-  {
+  "log5-106": {
     "player": "Pirate89780",
     "action": "Discard Monkey D. Luffy to Counter 1000",
     "card": "ST13-015"
   },
-  {
+  "log5-107": {
     "player": "Pirate89780",
     "action": "Discard Monkey D. Luffy to Counter 1000",
     "card": "ST13-015"
   },
-  {
+  "log5-108": {
     "player": "Sam",
     "action": "Monkey D. Luffy vs Monkey D. Luffy",
     "attacker_power": 7000,
     "defender_power": 8000
   },
-  {
+  "log5-109": {
     "player": "Sam",
     "action": "Attack Fails"
   },
-  {
+  "log5-110": {
     "player": "Sam",
     "action": "Monkey D. Luffy attacks Monkey D. Luffy",
     "attacker": "ST21-014",
     "defender": "ST13-003"
   },
-  {
+  "log5-111": {
     "player": "Sam",
     "action": "Monkey D. Luffy: Attach 1 Rested Don to Shanks",
     "card": "ST21-014",
     "target": "OP09-001"
   },
-  {
+  "log5-112": {
     "player": "Sam",
     "action": "Monkey D. Luffy vs Monkey D. Luffy",
     "attacker_power": 7000,
     "defender_power": 5000
   },
-  {
+  "log5-113": {
     "player": "Sam",
     "action": "Monkey D. Luffy takes 1 damage"
   },
-  {
+  "log5-114": {
     "player": "Sam",
     "action": "The Visible Life was sent under the Deck instead of the Hand"
   },
-  {
+  "log5-115": {
     "player": "Sam",
     "action": "Shanks attacks Monkey D. Luffy",
     "attacker": "OP09-001",
     "defender": "ST13-003"
   },
-  {
+  "log5-116": {
     "player": "Sam",
     "action": "Shanks vs Monkey D. Luffy",
     "attacker_power": 6000,
     "defender_power": 5000
   },
-  {
+  "log5-117": {
     "player": "Sam",
     "action": "Monkey D. Luffy takes 1 damage"
   },
-  {
+  "log5-118": {
     "player": "Sam",
     "action": "The Visible Life was sent under the Deck instead of the Hand"
   },
-  {
+  "log5-119": {
     "player": "Sam",
     "action": "End Turn"
   },
-  {
+  "log5-120": {
     "player": "Pirate89780",
     "action": "Draw 1 card"
   },
-  {
+  "log5-121": {
     "player": "Pirate89780",
     "action": "Draw 2 Don"
   },
-  {
+  "log5-122": {
     "player": "Pirate89780",
     "action": "Attach 2 Don to Monkey D. Luffy",
     "card": "ST13-003",
     "total_don": 2
   },
-  {
+  "log5-123": {
     "player": "Pirate89780",
     "action": "Discard Shirahoshi",
     "card": "ST08-006"
   },
-  {
+  "log5-124": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy : Added a card from the Trash to the top of Life",
     "card": "ST13-003"
   },
-  {
+  "log5-125": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy : Added a card from the Trash to the top of Life",
     "card": "ST13-003"
   },
-  {
+  "log5-126": {
     "player": "Pirate89780",
     "action": "Play Sabo",
     "card": "OP04-083"
   },
-  {
+  "log5-127": {
     "player": "Pirate89780",
     "action": "Sabo: Draw 2 cards",
     "card": "OP04-083"
   },
-  {
+  "log5-128": {
     "player": "Pirate89780",
     "action": "Discard Monkey D. Luffy",
     "card": "OP07-091"
   },
-  {
+  "log5-129": {
     "player": "Pirate89780",
     "action": "Discard Portgas D. Ace",
     "card": "ST13-011"
   },
-  {
+  "log5-130": {
     "player": "Pirate89780",
     "action": "Sabo : Characters on the field are immune to effects until the next turn!",
     "card": "OP04-083"
   },
-  {
+  "log5-131": {
     "player": "Pirate89780",
     "action": "Attach 3 Don to Monkey D. Luffy",
     "card": "ST13-003",
     "total_don": 5
   },
-  {
+  "log5-132": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy attacks Monkey D. Luffy",
     "attacker": "ST13-003",
     "defender": "ST21-014"
   },
-  {
+  "log5-133": {
     "player": "Sam",
     "action": "Shanks: Boost -1000 to Monkey D. Luffy",
     "card": "OP09-001",
     "target": "ST13-003"
   },
-  {
+  "log5-134": {
     "player": "Sam",
     "action": "Discard Uta",
     "card": "OP09-002"
   },
-  {
+  "log5-135": {
     "player": "Sam",
     "action": "Bad Manners Kick Course: Counter 3000",
     "card": "OP04-016"
   },
-  {
+  "log5-136": {
     "player": "Sam",
     "action": "Discard Benn Beckman to Counter 1000",
     "card": "OP09-009"
   },
-  {
+  "log5-137": {
     "player": "Pirate89780",
     "action": "Monkey D. Luffy vs Monkey D. Luffy",
     "attacker_power": 9000,
     "defender_power": 10000
   },
-  {
+  "log5-138": {
     "player": "Pirate89780",
     "action": "Attack Fails"
   },
-  {
+  "log5-139": {
     "player": "Pirate89780",
     "action": "End Turn"
   },
-  {
+  "log5-140": {
     "player": "Sam",
     "action": "Draw 1 card"
   },
-  {
+  "log5-141": {
     "player": "Sam",
     "action": "Draw 2 Don"
   },
-  {
+  "log5-142": {
     "player": "Sam",
     "action": "Play Benn Beckman",
     "card": "OP09-009"
   },
-  {
+  "log5-143": {
     "player": "Sam",
     "action": "Benn Beckman : Discard Sabo",
     "card": "OP09-009",
     "target": "OP04-083"
   },
-  {
+  "log5-144": {
     "player": "Sam",
     "action": "Monkey D. Luffy attacks Monkey D. Luffy",
     "attacker": "ST21-014",
     "defender": "ST13-003"
   },
-  {
+  "log5-145": {
     "player": "Sam",
     "action": "Monkey D. Luffy: Attach 1 Rested Don to Monkey D. Dragon",
     "card": "ST21-014",
     "target": "OP07-015"
   },
-  {
+  "log5-146": {
     "player": "Sam",
     "action": "Monkey D. Luffy vs Monkey D. Luffy",
     "attacker_power": 6000,
     "defender_power": 5000
   },
-  {
+  "log5-147": {
     "player": "Sam",
     "action": "Monkey D. Luffy takes 1 damage"
   },
-  {
+  "log5-148": {
     "player": "Sam",
     "action": "The Visible Life was sent under the Deck instead of the Hand"
   },
-  {
+  "log5-149": {
     "player": "Sam",
     "action": "Monkey D. Dragon attacks Monkey D. Luffy",
     "attacker": "OP07-015",
     "defender": "ST13-003"
   },
-  {
+  "log5-150": {
     "player": "Sam",
     "action": "Monkey D. Dragon vs Monkey D. Luffy",
     "attacker_power": 10000,
     "defender_power": 5000
   },
-  {
+  "log5-151": {
     "player": "Sam",
     "action": "Monkey D. Luffy takes 1 damage"
   },
-  {
+  "log5-152": {
     "player": "Sam",
     "action": "The Visible Life was sent under the Deck instead of the Hand"
   },
-  {
+  "log5-153": {
     "player": "Sam",
     "action": "Attach 1 Don to Monkey D. Luffy",
     "card": "ST21-014",
     "total_don": 1
   },
-  {
+  "log5-154": {
     "player": "Sam",
     "action": "Monkey D. Luffy attacks Monkey D. Luffy",
     "attacker": "ST21-014",
     "defender": "ST13-003"
   },
-  {
+  "log5-155": {
     "player": "Sam",
     "action": "Monkey D. Luffy: Attach 1 Rested Don to Shanks",
     "card": "ST21-014",
     "target": "OP09-001"
   },
-  {
+  "log5-156": {
     "player": "Sam",
     "action": "Wins!"
   },
-  {
+  "log5-157": {
     "player": "Sam",
     "action": "Monkey D. Luffy vs Monkey D. Luffy",
     "attacker_power": 7000,
     "defender_power": 5000
   },
-  {
+  "log5-158": {
     "player": "Sam",
     "action": "Monkey D. Luffy takes 1 damage"
   },
-  {
+  "log5-159": {
     "player": "Pirate89780",
     "action": "Loses!"
   }
-]
+}
