@@ -1,22 +1,18 @@
 import json
 
-file_path = r"c:\Users\marce\Gear-5-AI\assets\JSON\Battle_log\log2.JSON"
+file_path = r"c:\Users\marce\Gear-5-AI\assets\JSON\Battle_log\log1.JSON"
 
 # Cargar el archivo JSON
 with open(file_path, "r", encoding="utf-8") as file:
     data = json.load(file)
 
-# Crear un nuevo diccionario con claves renombradas
-updated_data = {}
+# Eliminar attacker_name y defender_name de cada entrada
 for key, value in data.items():
-    if key.startswith("log3-"):
-        new_key = key.replace("log3-", "log2-")
-        updated_data[new_key] = value
-    else:
-        updated_data[key] = value  # conservar otras claves si las hay
+    value.pop("attacker_name", None)
+    value.pop("defender_name", None)
 
-# Guardar el nuevo archivo JSON
+# Guardar el archivo actualizado
 with open(file_path, "w", encoding="utf-8") as file:
-    json.dump(updated_data, file, indent=2, ensure_ascii=False)
+    json.dump(data, file, indent=2, ensure_ascii=False)
 
-print("Claves actualizadas de 'log7' a 'log6' correctamente.")
+print("Campos 'attacker_name' y 'defender_name' eliminados correctamente.")

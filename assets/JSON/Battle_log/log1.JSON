@@ -105,17 +105,13 @@
     "player": "momo",
     "action": "attacking",
     "attacker": "OP01-001",
-    "attacker_name": "Roronoa Zoro",
-    "defender": "OP05-060",
-    "defender_name": "Monkey D. Luffy"
+    "defender": "OP05-060"
   },
   "log1-026": {
     "player": "momo",
     "action": "attacking",
     "attacker": "OP01-001",
-    "attacker_name": "Roronoa Zoro",
     "defender": "OP05-060",
-    "defender_name": "Monkey D. Luffy",
     "attacker_power": 8000,
     "defender_power": 5000,
     "damage": 1
@@ -174,9 +170,7 @@
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP05-060",
-    "attacker_name": "Monkey D. Luffy",
-    "defender": "OP01-001",
-    "defender_name": "Roronoa Zoro"
+    "defender": "OP01-001"
   },
   "log1-038": {
     "player": "momo",
@@ -188,9 +182,7 @@
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP05-060",
-    "attacker_name": "Monkey D. Luffy",
     "defender": "ST01-006",
-    "defender_name": "Tony Tony Chopper",
     "attacker_power": 6000,
     "defender_power": 1000
   },
@@ -204,17 +196,13 @@
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP09-069",
-    "attacker_name": "Trafalgar Law",
-    "defender": "OP02-010",
-    "defender_name": "Dogura"
+    "defender": "OP02-010"
   },
   "log1-042": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP09-069",
-    "attacker_name": "Trafalgar Law",
     "defender": "OP02-010",
-    "defender_name": "Dogura",
     "attacker_power": 2000,
     "defender_power": 2000
   },
@@ -253,17 +241,13 @@
     "player": "momo",
     "action": "attacking",
     "attacker": "OP01-025",
-    "attacker_name": "Roronoa Zoro",
-    "defender": "OP05-060",
-    "defender_name": "Monkey D. Luffy"
+    "defender": "OP05-060"
   },
   "log1-050": {
     "player": "momo",
     "action": "attacking",
     "attacker": "OP01-025",
-    "attacker_name": "Roronoa Zoro",
     "defender": "OP05-060",
-    "defender_name": "Monkey D. Luffy",
     "attacker_power": 6000,
     "defender_power": 5000,
     "damage": 1
@@ -279,17 +263,13 @@
     "player": "momo",
     "action": "attacking",
     "attacker": "OP01-016",
-    "attacker_name": "Nami",
-    "defender": "OP09-069",
-    "defender_name": "Trafalgar Law"
+    "defender": "OP09-069"
   },
   "log1-053": {
     "player": "momo",
     "action": "attacking",
     "attacker": "OP01-016",
-    "attacker_name": "Nami",
     "defender": "OP09-069",
-    "defender_name": "Trafalgar Law",
     "attacker_power": 4000,
     "defender_power": 2000
   },
@@ -303,9 +283,7 @@
     "player": "momo",
     "action": "attacking",
     "attacker": "OP01-001",
-    "attacker_name": "Roronoa Zoro",
-    "defender": "OP05-060",
-    "defender_name": "Monkey D. Luffy"
+    "defender": "OP05-060"
   },
   "log1-056": {
     "player": "Mhcuber",
@@ -325,9 +303,7 @@
     "player": "momo",
     "action": "attacking",
     "attacker": "OP01-001",
-    "attacker_name": "Roronoa Zoro",
     "defender": "OP05-060",
-    "defender_name": "Monkey D. Luffy",
     "attacker_power": 6000,
     "defender_power": 7000,
     "result": "Attack Fails"
@@ -361,17 +337,13 @@
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP05-060",
-    "attacker_name": "Monkey D. Luffy",
-    "defender": "OP01-025",
-    "defender_name": "Roronoa Zoro"
+    "defender": "OP01-025"
   },
   "log1-065": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP05-060",
-    "attacker_name": "Monkey D. Luffy",
     "defender": "OP01-025",
-    "defender_name": "Roronoa Zoro",
     "attacker_power": 7000,
     "defender_power": 5000
   },
@@ -385,17 +357,13 @@
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "ST18-004",
-    "attacker_name": "Zorojuro",
-    "defender": "OP01-001",
-    "defender_name": "Roronoa Zoro"
+    "defender": "OP01-001"
   },
   "log1-068": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "ST18-004",
-    "attacker_name": "Zorojuro",
     "defender": "OP01-001",
-    "defender_name": "Roronoa Zoro",
     "attacker_power": 6000,
     "defender_power": 5000,
     "damage": 1
@@ -436,9 +404,7 @@
     "player": "momo",
     "action": "attacking",
     "attacker": "OP01-001",
-    "attacker_name": "Roronoa Zoro",
-    "defender": "ST18-004",
-    "defender_name": "Zorojuro"
+    "defender": "ST18-004"
   },
   "log1-076": {
     "player": "momo",
@@ -459,9 +425,7 @@
     "player": "momo",
     "action": "attacking",
     "attacker": "OP01-001",
-    "attacker_name": "Roronoa Zoro",
     "defender": "ST18-004",
-    "defender_name": "Zorojuro",
     "attacker_power": 7000,
     "defender_power": 4000,
     "result": "Attack Fails"
@@ -518,17 +482,13 @@
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP05-060",
-    "attacker_name": "Monkey D. Luffy",
-    "defender": "OP01-013",
-    "defender_name": "Sanji"
+    "defender": "OP01-013"
   },
   "log1-089": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP05-060",
-    "attacker_name": "Monkey D. Luffy",
     "defender": "OP01-013",
-    "defender_name": "Sanji",
     "attacker_power": 6000,
     "defender_power": 3000
   },
@@ -542,17 +502,13 @@
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP09-065",
-    "attacker_name": "Sanji",
-    "defender": "OP01-001",
-    "defender_name": "Roronoa Zoro"
+    "defender": "OP01-001"
   },
   "log1-092": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP09-065",
-    "attacker_name": "Sanji",
     "defender": "OP01-001",
-    "defender_name": "Roronoa Zoro",
     "attacker_power": 7000,
     "defender_power": 5000,
     "damage": 1
@@ -568,17 +524,13 @@
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "ST18-004",
-    "attacker_name": "Zorojuro",
-    "defender": "OP01-001",
-    "defender_name": "Roronoa Zoro"
+    "defender": "OP01-001"
   },
   "log1-095": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "ST18-004",
-    "attacker_name": "Zorojuro",
     "defender": "OP01-001",
-    "defender_name": "Roronoa Zoro",
     "attacker_power": 7000,
     "defender_power": 5000,
     "damage": 1
@@ -620,9 +572,7 @@
     "player": "momo",
     "action": "attacking",
     "attacker": "OP03-014",
-    "attacker_name": "Monkey D. Garp",
-    "defender": "ST18-004",
-    "defender_name": "Zorojuro"
+    "defender": "ST18-004"
   },
   "log1-103": {
     "player": "momo",
@@ -643,9 +593,7 @@
     "player": "momo",
     "action": "attacking",
     "attacker": "OP03-014",
-    "attacker_name": "Monkey D. Garp",
     "defender": "ST18-004",
-    "defender_name": "Zorojuro",
     "attacker_power": 8000,
     "defender_power": 4000
   },
@@ -694,9 +642,7 @@
     "player": "momo",
     "action": "attacking",
     "attacker": "OP01-001",
-    "attacker_name": "Roronoa Zoro",
-    "defender": "OP09-065",
-    "defender_name": "Sanji"
+    "defender": "OP09-065"
   },
   "log1-113": {
     "player": "Mhcuber",
@@ -729,9 +675,7 @@
     "player": "momo",
     "action": "attacking",
     "attacker": "OP01-001",
-    "attacker_name": "Roronoa Zoro",
     "defender": "OP05-074",
-    "defender_name": "Eustass 'Captain' Kid",
     "attacker_power": 9000,
     "defender_power": 10000,
     "result": "Attack Fails"
@@ -773,9 +717,7 @@
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP09-065",
-    "attacker_name": "Sanji",
-    "defender": "OP01-001",
-    "defender_name": "Roronoa Zoro"
+    "defender": "OP01-001"
   },
   "log1-126": {
     "player": "momo",
@@ -787,9 +729,7 @@
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP09-065",
-    "attacker_name": "Sanji",
     "defender": "OP01-001",
-    "defender_name": "Roronoa Zoro",
     "attacker_power": 7000,
     "defender_power": 9000,
     "result": "Attack Fails"
@@ -798,17 +738,13 @@
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP09-119",
-    "attacker_name": "Monkey D. Luffy",
-    "defender": "OP01-001",
-    "defender_name": "Roronoa Zoro"
+    "defender": "OP01-001"
   },
   "log1-129": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP09-119",
-    "attacker_name": "Monkey D. Luffy",
     "defender": "OP01-001",
-    "defender_name": "Roronoa Zoro",
     "attacker_power": 10000,
     "defender_power": 5000,
     "damage": 1
@@ -817,9 +753,7 @@
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP05-060",
-    "attacker_name": "Monkey D. Luffy",
-    "defender": "OP03-014",
-    "defender_name": "Monkey D. Garp"
+    "defender": "OP03-014"
   },
   "log1-131": {
     "player": "momo",
@@ -832,9 +766,7 @@
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP05-060",
-    "attacker_name": "Monkey D. Luffy",
     "defender": "OP03-014",
-    "defender_name": "Monkey D. Garp",
     "attacker_power": 5000,
     "defender_power": 6000,
     "result": "Attack Fails"
@@ -861,9 +793,7 @@
     "player": "momo",
     "action": "attacking",
     "attacker": "ST10-006",
-    "attacker_name": "Monkey D. Luffy",
-    "defender": "OP09-065",
-    "defender_name": "Sanji"
+    "defender": "OP09-065"
   },
   "log1-138": {
     "player": "Mhcuber",
@@ -882,9 +812,7 @@
     "player": "momo",
     "action": "attacking",
     "attacker": "ST10-006",
-    "attacker_name": "Monkey D. Luffy",
     "defender": "OP05-074",
-    "defender_name": "Eustass 'Captain' Kid",
     "attacker_power": 11000,
     "defender_power": 6000
   },
@@ -898,9 +826,7 @@
     "player": "momo",
     "action": "attacking",
     "attacker": "OP03-014",
-    "attacker_name": "Monkey D. Garp",
-    "defender": "OP05-060",
-    "defender_name": "Monkey D. Luffy"
+    "defender": "OP05-060"
   },
   "log1-143": {
     "player": "Mhcuber",
@@ -913,9 +839,7 @@
     "player": "momo",
     "action": "attacking",
     "attacker": "OP03-014",
-    "attacker_name": "Monkey D. Garp",
     "defender": "OP05-060",
-    "defender_name": "Monkey D. Luffy",
     "attacker_power": 5000,
     "defender_power": 6000,
     "result": "Attack Fails"
@@ -924,17 +848,13 @@
     "player": "momo",
     "action": "attacking",
     "attacker": "OP01-001",
-    "attacker_name": "Roronoa Zoro",
-    "defender": "OP05-060",
-    "defender_name": "Monkey D. Luffy"
+    "defender": "OP05-060"
   },
   "log1-146": {
     "player": "momo",
     "action": "attacking",
     "attacker": "OP01-001",
-    "attacker_name": "Roronoa Zoro",
     "defender": "OP05-060",
-    "defender_name": "Monkey D. Luffy",
     "attacker_power": 5000,
     "defender_power": 5000,
     "damage": 1
@@ -981,17 +901,13 @@
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP05-060",
-    "attacker_name": "Monkey D. Luffy",
-    "defender": "OP01-001",
-    "defender_name": "Roronoa Zoro"
+    "defender": "OP01-001"
   },
   "log1-155": {
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP05-060",
-    "attacker_name": "Monkey D. Luffy",
     "defender": "OP01-001",
-    "defender_name": "Roronoa Zoro",
     "attacker_power": 7000,
     "defender_power": 5000,
     "damage": 1
@@ -1015,9 +931,7 @@
     "player": "Mhcuber",
     "action": "attacking",
     "attacker": "OP09-065",
-    "attacker_name": "Sanji",
-    "defender": "OP01-001",
-    "defender_name": "Roronoa Zoro"
+    "defender": "OP01-001"
   },
   "log1-160": {
     "player": "momo",
