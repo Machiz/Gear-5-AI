@@ -1,1 +1,770 @@
-{}
+[
+  {
+    "action": "Waiting for a Connection with Room ID:W79NCD"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Has Connected"
+  },
+  {
+    "action": "Version is 1.29b"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Leader is Monkey D. Luffy",
+    "card": "OP05-060"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Has Connected"
+  },
+  {
+    "action": "Version is 1.29b"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Leader is Jewelry Bonney",
+    "card": "OP07-019"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Will select turn order"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Chose to go First"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Mulligan"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Mulligan"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 1 Don"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Deploy Trafalgar Law",
+    "card": "OP09-069"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Reveal and Draw Sangoro",
+    "card": "ST18-003"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Deploy Jewelry Bonney",
+    "card": "ST02-007"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Jewelry Bonney: Rest Jewelry Bonney",
+    "card": "ST02-007"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Reveal and Draw Jewelry Bonney",
+    "card": "OP07-026"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "End Turn"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Loses 1 Life"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy: Draw 1 Don",
+    "card": "OP05-060"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Attach 4 Don to Monkey D. Luffy",
+    "card": "OP05-060",
+    "total_don": 4
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy attacking Jewelry Bonney",
+    "attacker": "OP05-060",
+    "defender": "OP07-019"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy vs Jewelry Bonney",
+    "attacker_power": 9000,
+    "defender_power": 5000
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Jewelry Bonney hit for 1 damage"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trafalgar Law attacking Jewelry Bonney",
+    "attacker": "OP09-069",
+    "defender": "ST02-007"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trafalgar Law vs Jewelry Bonney",
+    "attacker_power": 2000,
+    "defender_power": 1000
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Jewelry Bonney Destroyed",
+    "card": "ST02-007"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Deploy Donquixote Rosinante",
+    "card": "OP05-030"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Attach 1 Don to Jewelry Bonney",
+    "card": "OP07-019",
+    "total_don": 1
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Jewelry Bonney attacking Monkey D. Luffy",
+    "attacker": "OP07-019",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Jewelry Bonney vs Monkey D. Luffy",
+    "attacker_power": 6000,
+    "defender_power": 5000
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Monkey D. Luffy hit for 1 damage"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "End Turn"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy attacking Jewelry Bonney",
+    "attacker": "OP05-060",
+    "defender": "OP07-019"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Discard Cavendish for Counter 1000",
+    "card": "EB01-012"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy vs Jewelry Bonney",
+    "attacker_power": 5000,
+    "defender_power": 6000
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Attack Fails"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Deploy Eustass 'Captain' Kid",
+    "card": "OP05-074"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Deploy Jewelry Bonney",
+    "card": "OP07-026"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Jewelry Bonney: Don will not Activate during next Refresh",
+    "card": "OP07-026"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Jewelry Bonney attacking Monkey D. Luffy",
+    "attacker": "OP07-019",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Discard Sangoro for Counter 1000",
+    "card": "ST18-003"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Jewelry Bonney vs Monkey D. Luffy",
+    "attacker_power": 5000,
+    "defender_power": 6000
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Attack Fails"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "End Turn"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Deploy Sanji",
+    "card": "OP09-065"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Sanji: Give Sanji Rush",
+    "card": "OP09-065"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Sanji: Rest Donquixote Rosinante",
+    "card": "OP09-065",
+    "target": "OP05-030"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Eustass 'Captain' Kid: Draw 1 Don",
+    "card": "OP05-074"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Sanji attacking Jewelry Bonney",
+    "attacker": "OP09-065",
+    "defender": "OP07-019"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Jewelry Bonney: Rest Eustass 'Captain' Kid",
+    "card": "OP07-019",
+    "target": "OP05-074"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Trash Basil Hawkins",
+    "card": "OP07-029"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Whoever Wins This War Becomes Justice!!: Counter 3000",
+    "card": "OP05-037"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Sanji vs Jewelry Bonney",
+    "attacker_power": 7000,
+    "defender_power": 8000
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Attack Fails"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Attach 1 Don to Trafalgar Law",
+    "card": "OP09-069",
+    "total_don": 1
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trafalgar Law attacking Donquixote Rosinante",
+    "attacker": "OP09-069",
+    "defender": "OP05-030"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trafalgar Law vs Donquixote Rosinante",
+    "attacker_power": 3000,
+    "defender_power": 1000
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Donquixote Rosinante Destroyed",
+    "card": "OP05-030"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy attacking Jewelry Bonney",
+    "attacker": "OP05-060",
+    "defender": "OP07-019"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy vs Jewelry Bonney",
+    "attacker_power": 5000,
+    "defender_power": 5000
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Jewelry Bonney hit for 1 damage"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Attach 1 Don to Jewelry Bonney",
+    "card": "OP07-026",
+    "total_don": 1
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Attach 1 Don to Jewelry Bonney",
+    "card": "OP07-026",
+    "total_don": 2
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Attach 1 Don to Jewelry Bonney",
+    "card": "OP07-026",
+    "total_don": 3
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Attach 1 Don to Jewelry Bonney",
+    "card": "OP07-026",
+    "total_don": 4
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Jewelry Bonney attacking Eustass 'Captain' Kid",
+    "attacker": "OP07-026",
+    "defender": "OP05-074"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Jewelry Bonney vs Eustass 'Captain' Kid",
+    "attacker_power": 10000,
+    "defender_power": 6000
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Eustass 'Captain' Kid Destroyed",
+    "card": "OP05-074"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Deploy Jewelry Bonney",
+    "card": "ST02-007"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Jewelry Bonney: Rest Jewelry Bonney",
+    "card": "ST02-007"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Reveal and Draw Jewelry Bonney",
+    "card": "OP07-026"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Attach 1 Don to Jewelry Bonney",
+    "card": "OP07-019",
+    "total_don": 1
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Jewelry Bonney attacking Monkey D. Luffy",
+    "attacker": "OP07-019",
+    "defender": "OP05-060"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Discard Usohachi for Counter 2000",
+    "card": "ST18-001"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Jewelry Bonney vs Monkey D. Luffy",
+    "attacker_power": 6000,
+    "defender_power": 7000
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Attack Fails"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "End Turn"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Mhcuber",
+"action": "Deploy Luffy-tarou",
+    "card": "ST18-005"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Reveal and Draw Sangoro",
+    "card": "ST18-003"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Attach 2 Don to Sanji",
+    "card": "OP09-065",
+    "total_don": 2
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Sanji attacking Jewelry Bonney",
+    "attacker": "OP09-065",
+    "defender": "OP07-026"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Jewelry Bonney: Rest Monkey D. Luffy",
+    "card": "OP07-019",
+    "target": "OP05-060"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Sanji vs Jewelry Bonney",
+    "attacker_power": 9000,
+    "defender_power": 6000
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Jewelry Bonney Destroyed",
+    "card": "OP07-026"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trafalgar Law attacking Jewelry Bonney",
+    "attacker": "OP09-069",
+    "defender": "ST02-007"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trafalgar Law vs Jewelry Bonney",
+    "attacker_power": 2000,
+    "defender_power": 1000
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Jewelry Bonney Destroyed",
+    "card": "ST02-007"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Deploy Donquixote Doflamingo",
+    "card": "OP04-031"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Donquixote Doflamingo: Trafalgar Law will not Activate during next Refresh",
+    "card": "OP04-031",
+    "target": "OP09-069"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Donquixote Doflamingo: Sanji will not Activate during next Refresh",
+    "card": "OP04-031",
+    "target": "OP09-065"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Donquixote Doflamingo: Monkey D. Luffy will not Activate during next Refresh",
+    "card": "OP04-031",
+    "target": "OP05-060"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Jewelry Bonney attacking Trafalgar Law",
+    "attacker": "OP07-019",
+    "defender": "OP09-069"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Jewelry Bonney vs Trafalgar Law",
+    "attacker_power": 5000,
+    "defender_power": 2000
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Trafalgar Law Destroyed",
+    "card": "OP09-069"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "End Turn"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Deploy Monkey D. Luffy",
+    "card": "OP09-119"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy: Draw 1 Card",
+    "card": "OP09-119"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy: Give Monkey D. Luffy Rush",
+    "card": "OP09-119"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Luffy-tarou attacking Jewelry Bonney",
+    "attacker": "ST18-005",
+    "defender": "OP07-019"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Luffy-tarou vs Jewelry Bonney",
+    "attacker_power": 8000,
+    "defender_power": 5000
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Jewelry Bonney hit for 1 damage"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Zorojuro attacking Jewelry Bonney",
+    "attacker": "ST18-004",
+    "defender": "OP07-019"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Discard Tashigi for Counter 2000",
+    "card": "OP10-032"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Zorojuro vs Jewelry Bonney",
+    "attacker_power": 6000,
+    "defender_power": 7000
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Attack Fails"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy attacking Jewelry Bonney",
+    "attacker": "OP09-119",
+    "defender": "OP07-019"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy vs Jewelry Bonney",
+    "attacker_power": 10000,
+    "defender_power": 5000
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Jewelry Bonney hit for 1 damage"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Draw 1 Card"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Donquixote Doflamingo attacking Luffy-tarou",
+    "attacker": "OP04-031",
+    "defender": "ST18-005"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Discard Usohachi for Counter 2000",
+    "card": "ST18-001"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Discard Sangoro for Counter 1000",
+    "card": "ST18-003"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Donquixote Doflamingo vs Luffy-tarou",
+    "attacker_power": 10000,
+    "defender_power": 11000
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Attack Fails"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Deploy Basil Hawkins",
+    "card": "OP07-029"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Attach 1 Don to Jewelry Bonney",
+    "card": "OP07-019",
+    "total_don": 1
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Attach 1 Don to Jewelry Bonney",
+    "card": "OP07-019",
+    "total_don": 2
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Attach 1 Don to Jewelry Bonney",
+    "card": "OP07-019",
+    "total_don": 3
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Jewelry Bonney attacking Zorojuro",
+    "attacker": "OP07-019",
+    "defender": "ST18-004"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Concedes!"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Wins!"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Loses"
+  },
+  {
+    "player": "Yerrboi",
+    "action": "Quits!"
+  },
+  {
+    "action": "Opponent Has Disconnected!"
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Wins!"
+  },
+  {
+    "action": "OpponentDisconnect"
+  }
+]
