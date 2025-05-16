@@ -1,1044 +1,1143 @@
-[
-  {
+{
+  "log8-001": {
+    "action": "Attempting to connect to QN7GKG"
+  },
+  "log8-002": {
+    "action": "Version is 1.29b"
+  },
+  "log8-003": {
     "player": "Pirate23052",
     "action": "Leader is Donquixote Doflamingo",
     "card": "OP01-060"
   },
-  {
-    "player": "Mhcuber",
-    "action": "Has Connected"
+  "log8-004": {
+    "action": "Mhcuber Has Connected"
   },
-  {
+  "log8-005": {
+    "action": "Version is 1.29b"
+  },
+  "log8-006": {
     "player": "Mhcuber",
     "action": "Leader is Monkey D. Luffy",
     "card": "OP05-060"
   },
-  {
+  "log8-007": {
     "player": "Pirate23052",
     "action": "Chose to go First"
   },
-  {
+  "log8-008": {
     "player": "Pirate23052",
     "action": "Mulligan"
   },
-  {
+  "log8-009": {
     "player": "Pirate23052",
     "action": "Draw 1 Don"
   },
-  {
+  "log8-010": {
     "player": "Pirate23052",
-    "action": "Deploy Sengoku",
-    "card": "OP07-046"
+    "action": "Deploy",
+    "card": "OP07-046",
+    "name": "Sengoku"
   },
-  {
+  "log8-011": {
     "player": "Pirate23052",
-    "action": "Reveal and Draw Boa Hancock",
-    "card": "ST17-004"
+    "action": "Reveal and Draw",
+    "card": "ST17-004",
+    "name": "Boa Hancock"
   },
-  {
+  "log8-012": {
     "player": "Pirate23052",
     "action": "Placing Cards on Bottom of Deck"
   },
-  {
+  "log8-013": {
     "player": "Pirate23052",
     "action": "End Turn"
   },
-  {
+  "log8-014": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log8-015": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log8-016": {
     "player": "Mhcuber",
-    "action": "Deploy Trafalgar Law",
-    "card": "OP09-069"
+    "action": "Deploy",
+    "card": "OP09-069",
+    "name": "Trafalgar Law"
   },
-  {
+  "log8-017": {
     "player": "Mhcuber",
-    "action": "Reveal and Draw Zorojuro",
-    "card": "ST18-004"
+    "action": "Reveal and Draw",
+    "card": "ST18-004",
+    "name": "Zorojuro"
   },
-  {
+  "log8-018": {
     "player": "Mhcuber",
     "action": "Placing Cards on Bottom of Deck"
   },
-  {
+  "log8-019": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log8-020": {
     "player": "Pirate23052",
     "action": "Draw 1 Card"
   },
-  {
+  "log8-021": {
     "player": "Pirate23052",
     "action": "Draw 2 Don"
   },
-  {
+  "log8-022": {
     "player": "Pirate23052",
-    "action": "Attach 2 Don to Donquixote Doflamingo",
+    "action": "Attach 2 Don to",
     "card": "OP01-060",
+    "name": "Donquixote Doflamingo",
     "total_don": 2
   },
-  {
+  "log8-023": {
     "player": "Pirate23052",
-    "action": "Donquixote Doflamingo attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP01-060",
     "defender": "OP05-060"
   },
-  {
+  "log8-024": {
     "player": "Pirate23052",
     "action": "Donquixote Doflamingo revealed: Sengoku",
-    "card": "OP01-060",
-    "target": "OP07-046"
+    "target": "OP01-060",
+    "revealed": "OP07-046",
+    "revealed_name": "Sengoku"
   },
-  {
+  "log8-025": {
     "player": "Pirate23052",
-    "action": "Donquixote Doflamingo vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP05-060",
     "attacker_power": 7000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "Pirate23052",
-    "action": "Monkey D. Luffy hit for 1 damage"
-  },
-  {
+  "log8-026": {
     "player": "Pirate23052",
     "action": "End Turn"
   },
-  {
+  "log8-027": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log8-028": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log8-029": {
     "player": "Mhcuber",
-    "action": "Deploy Zorojuro",
-    "card": "ST18-004"
+    "action": "Deploy",
+    "card": "ST18-004",
+    "name": "Zorojuro"
   },
-  {
+  "log8-030": {
     "player": "Mhcuber",
-    "action": "Reveal and Draw Sanji",
-    "card": "OP07-064"
+    "action": "Reveal and Draw",
+    "card": "OP07-064",
+    "name": "Sanji"
   },
-  {
+  "log8-031": {
     "player": "Mhcuber",
     "action": "Placing Cards on Bottom of Deck"
   },
-  {
+  "log8-032": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Donquixote Doflamingo",
+    "action": "attacking",
     "attacker": "OP05-060",
     "defender": "OP01-060"
   },
-  {
+  "log8-033": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Donquixote Doflamingo",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP01-060",
     "attacker_power": 5000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "Mhcuber",
-    "action": "Donquixote Doflamingo hit for 1 damage"
-  },
-  {
+  "log8-034": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log8-035": {
     "player": "Pirate23052",
     "action": "Draw 1 Card"
   },
-  {
+  "log8-036": {
     "player": "Pirate23052",
     "action": "Draw 2 Don"
   },
-  {
+  "log8-037": {
     "player": "Pirate23052",
-    "action": "Deploy Sengoku",
-    "card": "OP07-046"
+    "action": "Deploy",
+    "card": "OP07-046",
+    "name": "Sengoku"
   },
-  {
+  "log8-038": {
     "player": "Pirate23052",
-    "action": "Reveal and Draw Gecko Moria",
-    "card": "ST03-004"
+    "action": "Reveal and Draw",
+    "card": "ST03-004",
+    "name": "Gecko Moria"
   },
-  {
+  "log8-039": {
     "player": "Pirate23052",
     "action": "Placing Cards on Bottom of Deck"
   },
-  {
+  "log8-040": {
     "player": "Pirate23052",
-    "action": "Deploy Perona",
-    "card": "OP01-077"
+    "action": "Deploy",
+    "card": "OP01-077",
+    "name": "Perona"
   },
-  {
+  "log8-041": {
     "player": "Pirate23052",
     "action": "Placing Cards on Top of Deck"
   },
-  {
+  "log8-042": {
     "player": "Pirate23052",
-    "action": "Attach 2 Don to Donquixote Doflamingo",
+    "action": "Attach 2 Don to",
     "card": "OP01-060",
+    "name": "Donquixote Doflamingo",
     "total_don": 2
   },
-  {
+  "log8-043": {
     "player": "Pirate23052",
-    "action": "Donquixote Doflamingo attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP01-060",
     "defender": "OP05-060"
   },
-  {
+  "log8-044": {
     "player": "Pirate23052",
     "action": "Donquixote Doflamingo revealed: Crocodile",
-    "card": "OP01-060",
-    "target": "OP07-040"
+    "target": "OP01-060",
+    "revealed": "OP07-040",
+    "revealed_name": "Crocodile"
   },
-  {
+  "log8-045": {
     "player": "Pirate23052",
-    "action": "Deploy Crocodile from Deck",
-    "card": "OP07-040"
+    "action": "Deploy",
+    "card": "OP07-040",
+    "name": "Crocodile",
+    "location": "Deck"
   },
-  {
+  "log8-046": {
     "player": "Mhcuber",
-    "action": "Discard Sanji for Counter 2000",
-    "card": "OP07-064"
+    "action": "Discard for Counter",
+    "card": "OP07-064",
+    "name": "Sanji",
+    "counter": 2000
   },
-  {
+  "log8-047": {
     "player": "Mhcuber",
-    "action": "Discard Onami for Counter 1000",
-    "card": "ST18-002"
+    "action": "Discard for Counter",
+    "card": "ST18-002",
+    "name": "Onami",
+    "counter": 1000
   },
-  {
+  "log8-048": {
     "player": "Pirate23052",
-    "action": "Donquixote Doflamingo vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP05-060",
     "attacker_power": 7000,
-    "defender_power": 8000
+    "defender_power": 8000,
+    "result": "Attack Fails"
   },
-  {
-    "player": "Pirate23052",
-    "action": "Attack Fails"
-  },
-  {
+  "log8-049": {
     "player": "Pirate23052",
     "action": "End Turn"
   },
-  {
+  "log8-050": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log8-051": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log8-052": {
     "player": "Mhcuber",
     "action": "Loses 1 Life"
   },
-  {
+  "log8-053": {
     "player": "Mhcuber",
     "action": "Monkey D. Luffy: Draw 1 Don",
-    "card": "OP05-060"
+    "target": "OP05-060"
   },
-  {
+  "log8-054": {
     "player": "Mhcuber",
-    "action": "Deploy Eustass 'Captain' Kid",
-    "card": "OP05-074"
+    "action": "Deploy",
+    "card": "OP05-074",
+    "name": "Eustass 'Captain' Kid"
   },
-  {
+  "log8-055": {
     "player": "Mhcuber",
-    "action": "Attach 1 Don to Monkey D. Luffy",
+    "action": "Attach 1 Don to",
     "card": "OP05-060",
+    "name": "Monkey D. Luffy",
     "total_don": 1
   },
-  {
+  "log8-056": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Donquixote Doflamingo",
+    "action": "attacking",
     "attacker": "OP05-060",
     "defender": "OP01-060"
   },
-  {
+  "log8-057": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Donquixote Doflamingo",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP01-060",
     "attacker_power": 6000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "Mhcuber",
-    "action": "Donquixote Doflamingo hit for 1 damage"
-  },
-  {
+  "log8-058": {
     "player": "Pirate23052",
-    "action": "Gum-Gum Red Roc: Send Zorojuro to Deck Bottom",
-    "card": "OP04-056",
-    "target": "ST18-004"
+    "action": "Gum-Gum Red Roc: Send to Deck Bottom",
+    "target": "OP04-056",
+    "cost_card": "ST18-004",
+    "cost_card_name": "Zorojuro"
   },
-  {
+  "log8-059": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log8-060": {
     "player": "Pirate23052",
     "action": "Draw 1 Card"
   },
-  {
+  "log8-061": {
     "player": "Pirate23052",
     "action": "Draw 2 Don"
   },
-  {
+  "log8-062": {
     "player": "Pirate23052",
-    "action": "Deploy Jozu",
-    "card": "OP08-047"
-  },
-  {
-    "player": "Pirate23052",
-    "action": "Jozu: Return Sengoku to Hand",
+    "action": "Deploy",
     "card": "OP08-047",
-    "target": "OP07-046"
+    "name": "Jozu"
   },
-  {
+  "log8-063": {
     "player": "Pirate23052",
-    "action": "Jozu: Send Eustass 'Captain' Kid to Hand",
-    "card": "OP08-047",
-    "target": "OP05-074"
+    "action": "Jozu: Return to Hand",
+    "target": "OP08-047",
+    "cost_card": "OP07-046",
+    "cost_card_name": "Sengoku"
   },
-  {
+  "log8-064": {
     "player": "Pirate23052",
-    "action": "Crocodile attacking Monkey D. Luffy",
+    "action": "Jozu: Send to Hand",
+    "target": "OP08-047",
+    "cost_card": "OP05-074",
+    "cost_card_name": "Eustass 'Captain' Kid"
+  },
+  "log8-065": {
+    "player": "Pirate23052",
+    "action": "attacking",
     "attacker": "OP07-040",
     "defender": "OP05-060"
   },
-  {
+  "log8-066": {
     "player": "Mhcuber",
-    "action": "Discard Onami for Counter 1000",
-    "card": "ST18-002"
+    "action": "Discard for Counter",
+    "card": "ST18-002",
+    "name": "Onami",
+    "counter": 1000
   },
-  {
+  "log8-067": {
     "player": "Pirate23052",
-    "action": "Crocodile vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP07-040",
+    "defender": "OP05-060",
     "attacker_power": 5000,
-    "defender_power": 6000
+    "defender_power": 6000,
+    "result": "Attack Fails"
   },
-  {
+  "log8-068": {
     "player": "Pirate23052",
-    "action": "Attack Fails"
-  },
-  {
-    "player": "Pirate23052",
-    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "action": "Attach 1 Don to",
     "card": "OP01-060",
+    "name": "Donquixote Doflamingo",
     "total_don": 1
   },
-  {
+  "log8-069": {
     "player": "Pirate23052",
-    "action": "Donquixote Doflamingo attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP01-060",
     "defender": "OP05-060"
   },
-  {
+  "log8-070": {
     "player": "Pirate23052",
-    "action": "Donquixote Doflamingo vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP05-060",
     "attacker_power": 6000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "Pirate23052",
-    "action": "Monkey D. Luffy hit for 1 damage"
-  },
-  {
+  "log8-071": {
     "player": "Pirate23052",
     "action": "End Turn"
   },
-  {
+  "log8-072": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log8-073": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log8-074": {
     "player": "Mhcuber",
-    "action": "Deploy Eustass 'Captain' Kid",
-    "card": "OP05-074"
+    "action": "Deploy",
+    "card": "OP05-074",
+    "name": "Eustass 'Captain' Kid"
   },
-  {
+  "log8-075": {
     "player": "Mhcuber",
-    "action": "Gamma Knife: Give Crocodile -5000",
-    "card": "OP05-077",
-    "target": "OP07-040"
+    "action": "Gamma Knife: Give -5000",
+    "target": "OP05-077",
+    "affected": "OP07-040",
+    "affected_name": "Crocodile"
   },
-  {
+  "log8-076": {
     "player": "Mhcuber",
     "action": "Eustass 'Captain' Kid: Draw 1 Don",
-    "card": "OP05-074"
+    "target": "OP05-074"
   },
-  {
+  "log8-077": {
     "player": "Mhcuber",
-    "action": "Attach 1 Don to Trafalgar Law",
+    "action": "Attach 1 Don to",
     "card": "OP09-069",
+    "name": "Trafalgar Law",
     "total_don": 1
   },
-  {
+  "log8-078": {
     "player": "Mhcuber",
-    "action": "Trafalgar Law attacking Crocodile",
+    "action": "attacking",
     "attacker": "OP09-069",
     "defender": "OP07-040"
   },
-  {
+  "log8-079": {
     "player": "Mhcuber",
-    "action": "Trafalgar Law vs Crocodile",
+    "action": "attacking",
+    "attacker": "OP09-069",
+    "defender": "OP07-040",
     "attacker_power": 3000,
     "defender_power": 0
   },
-  {
+  "log8-080": {
     "player": "Pirate23052",
-    "action": "Crocodile Destroyed",
-    "card": "OP07-040"
+    "action": "Destroyed",
+    "card": "OP07-040",
+    "name": "Crocodile"
   },
-  {
+  "log8-081": {
     "player": "Mhcuber",
-    "action": "Attach 1 Don to Monkey D. Luffy",
+    "action": "Attach 1 Don to",
     "card": "OP05-060",
+    "name": "Monkey D. Luffy",
     "total_don": 1
   },
-  {
+  "log8-082": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Donquixote Doflamingo",
+    "action": "attacking",
     "attacker": "OP05-060",
     "defender": "OP01-060"
   },
-  {
+  "log8-083": {
     "player": "Pirate23052",
-    "action": "Discard Buggy for Counter 2000",
-    "card": "ST17-003"
+    "action": "Discard for Counter",
+    "card": "ST17-003",
+    "name": "Buggy",
+    "counter": 2000
   },
-  {
+  "log8-084": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Donquixote Doflamingo",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP01-060",
     "attacker_power": 6000,
-    "defender_power": 7000
+    "defender_power": 7000,
+    "result": "Attack Fails"
   },
-  {
-    "player": "Mhcuber",
-    "action": "Attack Fails"
-  },
-  {
+  "log8-085": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log8-086": {
     "player": "Pirate23052",
     "action": "Draw 1 Card"
   },
-  {
+  "log8-087": {
     "player": "Pirate23052",
     "action": "Draw 2 Don"
   },
-  {
+  "log8-088": {
     "player": "Pirate23052",
-    "action": "Deploy Gecko Moria",
-    "card": "ST03-004"
+    "action": "Deploy",
+    "card": "ST03-004",
+    "name": "Gecko Moria"
   },
-  {
+  "log8-089": {
     "player": "Pirate23052",
     "action": "Draw Buggy from Trash",
-    "card": "ST17-003"
+    "card": "ST17-003",
+    "name": "Buggy"
   },
-  {
+  "log8-090": {
     "player": "Pirate23052",
-    "action": "Deploy Sengoku",
-    "card": "OP07-046"
+    "action": "Deploy",
+    "card": "OP07-046",
+    "name": "Sengoku"
   },
-  {
+  "log8-091": {
     "player": "Pirate23052",
-    "action": "Reveal and Draw Buggy",
-    "card": "ST17-003"
+    "action": "Reveal and Draw",
+    "card": "ST17-003",
+    "name": "Buggy"
   },
-  {
+  "log8-092": {
     "player": "Pirate23052",
     "action": "Placing Cards on Bottom of Deck"
   },
-  {
+  "log8-093": {
     "player": "Pirate23052",
-    "action": "Trash Perona",
-    "card": "OP01-077"
+    "action": "Trash",
+    "card": "OP01-077",
+    "name": "Perona"
   },
-  {
+  "log8-094": {
     "player": "Pirate23052",
-    "action": "Deploy Marshall D. Teach",
-    "card": "ST17-005"
+    "action": "Deploy",
+    "card": "ST17-005",
+    "name": "Marshall D. Teach"
   },
-  {
+  "log8-095": {
     "player": "Pirate23052",
-    "action": "Sengoku attacking Trafalgar Law",
+    "action": "attacking",
     "attacker": "OP07-046",
     "defender": "OP09-069"
   },
-  {
+  "log8-096": {
     "player": "Mhcuber",
-    "action": "Discard Sanji for Counter 1000",
-    "card": "OP09-065"
+    "action": "Discard for Counter",
+    "card": "OP09-065",
+    "name": "Sanji",
+    "counter": 1000
   },
-  {
+  "log8-097": {
     "player": "Pirate23052",
-    "action": "Sengoku vs Trafalgar Law",
+    "action": "attacking",
+    "attacker": "OP07-046",
+    "defender": "OP09-069",
     "attacker_power": 2000,
-    "defender_power": 3000
+    "defender_power": 3000,
+    "result": "Attack Fails"
   },
-  {
+  "log8-098": {
     "player": "Pirate23052",
-    "action": "Attack Fails"
-  },
-  {
-    "player": "Pirate23052",
-    "action": "Jozu attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP08-047",
     "defender": "OP05-060"
   },
-  {
+  "log8-099": {
     "player": "Pirate23052",
-    "action": "Jozu vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP08-047",
+    "defender": "OP05-060",
     "attacker_power": 7000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "Pirate23052",
-    "action": "Monkey D. Luffy hit for 1 damage"
-  },
-  {
+  "log8-100": {
     "player": "Pirate23052",
     "action": "Sent a Card to Deck Top"
   },
-  {
+  "log8-101": {
     "player": "Pirate23052",
-    "action": "Marshall D. Teach: Attach 1 Rested Don to Donquixote Doflamingo",
-    "card": "ST17-005",
-    "target": "OP01-060"
+    "action": "Marshall D. Teach: Attach 1 Rested Don to",
+    "target": "ST17-005",
+    "affected": "OP01-060",
+    "affected_name": "Donquixote Doflamingo"
   },
-  {
+  "log8-102": {
     "player": "Pirate23052",
-    "action": "Marshall D. Teach: Attach 1 Rested Don to Donquixote Doflamingo",
-    "card": "ST17-005",
-    "target": "OP01-060"
+    "action": "Marshall D. Teach: Attach 1 Rested Don to",
+    "target": "ST17-005",
+    "affected": "OP01-060",
+    "affected_name": "Donquixote Doflamingo"
   },
-  {
+  "log8-103": {
     "player": "Pirate23052",
-    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "action": "Attach 1 Don to",
     "card": "OP01-060",
+    "name": "Donquixote Doflamingo",
     "total_don": 3
   },
-  {
+  "log8-104": {
     "player": "Pirate23052",
-    "action": "Donquixote Doflamingo attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP01-060",
     "defender": "OP05-060"
   },
-  {
+  "log8-105": {
     "player": "Pirate23052",
     "action": "Donquixote Doflamingo revealed: Edward Weevil",
-    "card": "OP01-060",
-    "target": "EB01-023"
+    "target": "OP01-060",
+    "revealed": "EB01-023",
+    "revealed_name": "Edward Weevil"
   },
-  {
+  "log8-106": {
     "player": "Pirate23052",
-    "action": "Trash Sengoku",
-    "card": "OP07-046"
+    "action": "Trash",
+    "card": "OP07-046",
+    "name": "Sengoku"
   },
-  {
+  "log8-107": {
     "player": "Pirate23052",
-    "action": "Deploy Edward Weevil from Deck",
-    "card": "EB01-023"
+    "action": "Deploy",
+    "card": "EB01-023",
+    "name": "Edward Weevil",
+    "location": "Deck"
   },
-  {
+  "log8-108": {
     "player": "Pirate23052",
     "action": "Edward Weevil: Draw 1 Card",
-    "card": "EB01-023"
+    "target": "EB01-023"
   },
-  {
+  "log8-109": {
     "player": "Mhcuber",
-    "action": "Gum Gum Giant: Trash Hitokiri Kamazo",
-    "card": "OP09-078",
-    "target": "OP06-076"
+    "action": "Gum Gum Giant: Trash",
+    "target": "OP09-078",
+    "cost_card": "OP06-076",
+    "cost_card_name": "Hitokiri Kamazo"
   },
-  {
+  "log8-110": {
     "player": "Mhcuber",
-    "action": "Gum Gum Giant: Buff Monkey D. Luffy 4000 for the Combat",
-    "card": "OP09-078"
+    "action": "Gum Gum Giant: Buff for the Combat",
+    "target": "OP09-078",
+    "affected": "OP05-060",
+    "affected_name": "Monkey D. Luffy",
+    "power_change": 4000
   },
-  {
+  "log8-111": {
     "player": "Mhcuber",
     "action": "Gum Gum Giant: Draw 2 Card",
-    "card": "OP09-078"
+    "target": "OP09-078"
   },
-  {
+  "log8-112": {
     "player": "Pirate23052",
-    "action": "Donquixote Doflamingo vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP05-060",
     "attacker_power": 8000,
-    "defender_power": 9000
+    "defender_power": 9000,
+    "result": "Attack Fails"
   },
-  {
-    "player": "Pirate23052",
-    "action": "Attack Fails"
-  },
-  {
+  "log8-113": {
     "player": "Pirate23052",
     "action": "End Turn"
   },
-  {
+  "log8-114": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log8-115": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log8-116": {
     "player": "Mhcuber",
-    "action": "Deploy Sanji",
-    "card": "OP09-065"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Sanji: Give Sanji Rush",
-    "card": "OP09-065"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Sanji: Rest Marshall D. Teach",
+    "action": "Deploy",
     "card": "OP09-065",
-    "target": "ST17-005"
+    "name": "Sanji"
   },
-  {
+  "log8-117": {
+    "player": "Mhcuber",
+    "action": "Sanji: Give Rush",
+    "target": "OP09-065"
+  },
+  "log8-118": {
+    "player": "Mhcuber",
+    "action": "Sanji: Rest",
+    "target": "OP09-065",
+    "affected": "ST17-005",
+    "affected_name": "Marshall D. Teach"
+  },
+  "log8-119": {
     "player": "Mhcuber",
     "action": "Eustass 'Captain' Kid: Draw 1 Don",
-    "card": "OP05-074"
+    "target": "OP05-074"
   },
-  {
+  "log8-120": {
     "player": "Mhcuber",
-    "action": "Attach 1 Don to Monkey D. Luffy",
+    "action": "Attach 1 Don to",
     "card": "OP05-060",
+    "name": "Monkey D. Luffy",
     "total_don": 1
   },
-  {
+  "log8-121": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Marshall D. Teach",
+    "action": "attacking",
     "attacker": "OP05-060",
     "defender": "ST17-005"
   },
-  {
+  "log8-122": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Marshall D. Teach",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "ST17-005",
     "attacker_power": 6000,
     "defender_power": 3000
   },
-  {
+  "log8-123": {
     "player": "Pirate23052",
-    "action": "Marshall D. Teach Destroyed",
-    "card": "ST17-005"
+    "action": "Destroyed",
+    "card": "ST17-005",
+    "name": "Marshall D. Teach"
   },
-  {
+  "log8-124": {
     "player": "Mhcuber",
-    "action": "Attach 1 Don to Sanji",
+    "action": "Attach 1 Don to",
     "card": "OP09-065",
+    "name": "Sanji",
     "total_don": 1
   },
-  {
+  "log8-125": {
     "player": "Mhcuber",
-    "action": "Sanji attacking Edward Weevil",
+    "action": "attacking",
     "attacker": "OP09-065",
     "defender": "EB01-023"
   },
-  {
+  "log8-126": {
     "player": "Pirate23052",
-    "action": "Discard Trafalgar Law for Counter 1000",
-    "card": "ST17-002"
+    "action": "Discard for Counter",
+    "card": "ST17-002",
+    "name": "Trafalgar Law",
+    "counter": 1000
   },
-  {
+  "log8-127": {
     "player": "Pirate23052",
-    "action": "Discard Kaya for Counter 2000",
-    "card": "OP03-044"
+    "action": "Discard for Counter",
+    "card": "OP03-044",
+    "name": "Kaya",
+    "counter": 2000
   },
-  {
+  "log8-128": {
     "player": "Mhcuber",
-    "action": "Sanji vs Edward Weevil",
+    "action": "attacking",
+    "attacker": "OP09-065",
+    "defender": "EB01-023",
     "attacker_power": 8000,
-    "defender_power": 9000
+    "defender_power": 9000,
+    "result": "Attack Fails"
   },
-  {
-    "player": "Mhcuber",
-    "action": "Attack Fails"
-  },
-  {
+  "log8-129": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log8-130": {
     "player": "Pirate23052",
     "action": "Draw 1 Card"
   },
-  {
+  "log8-131": {
     "player": "Pirate23052",
     "action": "Draw 2 Don"
   },
-  {
+  "log8-132": {
     "player": "Pirate23052",
-    "action": "Jozu attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP08-047",
     "defender": "OP05-060"
   },
-  {
+  "log8-133": {
     "player": "Mhcuber",
-    "action": "Discard Hitokiri Kamazo for Counter 2000",
-    "card": "OP06-076"
+    "action": "Discard for Counter",
+    "card": "OP06-076",
+    "name": "Hitokiri Kamazo",
+    "counter": 2000
   },
-  {
+  "log8-134": {
     "player": "Mhcuber",
-    "action": "Discard Trafalgar Law for Counter 1000",
-    "card": "OP09-069"
+    "action": "Discard for Counter",
+    "card": "OP09-069",
+    "name": "Trafalgar Law",
+    "counter": 1000
   },
-  {
+  "log8-135": {
     "player": "Pirate23052",
-    "action": "Jozu vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP08-047",
+    "defender": "OP05-060",
     "attacker_power": 7000,
-    "defender_power": 8000
+    "defender_power": 8000,
+    "result": "Attack Fails"
   },
-  {
+  "log8-136": {
     "player": "Pirate23052",
-    "action": "Attack Fails"
-  },
-  {
-    "player": "Pirate23052",
-    "action": "Attach 3 Don to Edward Weevil",
+    "action": "Attach 3 Don to",
     "card": "EB01-023",
+    "name": "Edward Weevil",
     "total_don": 3
   },
-  {
+  "log8-137": {
     "player": "Pirate23052",
-    "action": "Edward Weevil attacking Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "EB01-023","defender": "OP05-060"
+  },
+  "log8-138": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP05-070",
+    "name": "Franosuke",
+    "counter": 2000
+  },
+  "log8-139": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP06-076",
+    "name": "Hitokiri Kamazo",
+    "counter": 2000
+  },
+  "log8-140": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "ST18-003",
+    "name": "Sangoro",
+    "counter": 1000
+  },
+  "log8-141": {
+    "player": "Pirate23052",
+    "action": "attacking",
     "attacker": "EB01-023",
-    "defender": "OP05-060"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Discard Franosuke for Counter 2000",
-    "card": "OP05-070"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Discard Hitokiri Kamazo for Counter 2000",
-    "card": "OP06-076"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Discard Sangoro for Counter 1000",
-    "card": "ST18-003"
-  },
-  {
-    "player": "Pirate23052",
-    "action": "Edward Weevil vs Monkey D. Luffy",
+    "defender": "OP05-060",
     "attacker_power": 9000,
-    "defender_power": 10000
+    "defender_power": 10000,
+    "result": "Attack Fails"
   },
-  {
+  "log8-142": {
     "player": "Pirate23052",
-    "action": "Attack Fails"
+    "action": "Deploy",
+    "card": "ST17-004",
+    "name": "Boa Hancock"
   },
-  {
-    "player": "Pirate23052",
-    "action": "Deploy Boa Hancock",
-    "card": "ST17-004"
-  },
-  {
+  "log8-143": {
     "player": "Pirate23052",
     "action": "Placing Cards on Top of Deck"
   },
-  {
+  "log8-144": {
     "player": "Pirate23052",
-    "action": "Boa Hancock: Attach 1 Rested Don to Gecko Moria",
-    "card": "ST17-004",
-    "target": "ST03-004"
+    "action": "Boa Hancock: Attach 1 Rested Don to",
+    "target": "ST17-004",
+    "affected": "ST03-004",
+    "affected_name": "Gecko Moria"
   },
-  {
+  "log8-145": {
     "player": "Pirate23052",
-    "action": "Gecko Moria attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "ST03-004",
     "defender": "OP05-060"
   },
-  {
+  "log8-146": {
     "player": "Pirate23052",
-    "action": "Gecko Moria vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "ST03-004",
+    "defender": "OP05-060",
     "attacker_power": 6000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
+  "log8-147": {
     "player": "Pirate23052",
-    "action": "Monkey D. Luffy hit for 1 damage"
-  },
-  {
-    "player": "Pirate23052",
-    "action": "Attach 2 Don to Donquixote Doflamingo",
+    "action": "Attach 2 Don to",
     "card": "OP01-060",
+    "name": "Donquixote Doflamingo",
     "total_don": 2
   },
-  {
+  "log8-148": {
     "player": "Pirate23052",
-    "action": "Donquixote Doflamingo attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP01-060",
     "defender": "OP05-060"
   },
-  {
+  "log8-149": {
     "player": "Pirate23052",
     "action": "Donquixote Doflamingo revealed: Edward Weevil",
-    "card": "OP01-060",
-    "target": "EB01-023"
+    "target": "OP01-060",
+    "revealed": "EB01-023",
+    "revealed_name": "Edward Weevil"
   },
-  {
+  "log8-150": {
     "player": "Pirate23052",
-    "action": "Trash Sengoku",
-    "card": "OP07-046"
+    "action": "Trash",
+    "card": "OP07-046",
+    "name": "Sengoku"
   },
-  {
+  "log8-151": {
     "player": "Pirate23052",
-    "action": "Deploy Edward Weevil from Deck",
-    "card": "EB01-023"
+    "action": "Deploy",
+    "card": "EB01-023",
+    "name": "Edward Weevil",
+    "location": "Deck"
   },
-  {
+  "log8-152": {
     "player": "Pirate23052",
     "action": "Edward Weevil: Draw 1 Card",
-    "card": "EB01-023"
+    "target": "EB01-023"
   },
-  {
+  "log8-153": {
     "player": "Mhcuber",
-    "action": "Gum Gum Giant: Trash Sanji",
-    "card": "OP09-078",
-    "target": "OP07-064"
+    "action": "Gum Gum Giant: Trash",
+    "target": "OP09-078",
+    "cost_card": "OP07-064",
+    "cost_card_name": "Sanji"
   },
-  {
+  "log8-154": {
     "player": "Mhcuber",
-    "action": "Gum Gum Giant: Buff Monkey D. Luffy 4000 for the Combat",
-    "card": "OP09-078"
+    "action": "Gum Gum Giant: Buff for the Combat",
+    "target": "OP09-078",
+    "affected": "OP05-060",
+    "affected_name": "Monkey D. Luffy",
+    "power_change": 4000
   },
-  {
+  "log8-155": {
     "player": "Mhcuber",
     "action": "Gum Gum Giant: Draw 2 Card",
-    "card": "OP09-078"
+    "target": "OP09-078"
   },
-  {
+  "log8-156": {
     "player": "Pirate23052",
-    "action": "Donquixote Doflamingo vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP05-060",
     "attacker_power": 7000,
-    "defender_power": 9000
+    "defender_power": 9000,
+    "result": "Attack Fails"
   },
-  {
-    "player": "Pirate23052",
-    "action": "Attack Fails"
-  },
-  {
+  "log8-157": {
     "player": "Pirate23052",
     "action": "End Turn"
   },
-  {
+  "log8-158": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log8-159": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log8-160": {
     "player": "Mhcuber",
-    "action": "Deploy Charlotte Linlin",
-    "card": "OP08-069"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Charlotte Linlin: Trash Monkey D. Luffy",
+    "action": "Deploy",
     "card": "OP08-069",
-    "target": "OP09-119"
+    "name": "Charlotte Linlin"
   },
-  {
+  "log8-161": {
     "player": "Mhcuber",
-    "action": "Charlotte Linlin: Add card to top of Life from Deck"
+    "action": "Charlotte Linlin: Trash",
+    "target": "OP08-069",
+    "cost_card": "OP09-119",
+    "cost_card_name": "Monkey D. Luffy"
   },
-  {
+  "log8-162": {
     "player": "Mhcuber",
-    "action": "Charlotte Linlin: Add Boa Hancock to bottom of Life",
-    "card": "OP08-069",
-    "target": "ST17-004"
+    "action": "Charlotte Linlin: Add to Life",
+    "target": "OP08-069",
+    "added_from_deck": true
   },
-  {
+  "log8-163": {
+    "player": "Mhcuber",
+    "action": "Charlotte Linlin: Add to bottom of Life",
+    "target": "OP08-069",
+    "added_card": "ST17-004",
+    "added_card_name": "Boa Hancock"
+  },
+  "log8-164": {
     "player": "Mhcuber",
     "action": "Eustass 'Captain' Kid: Draw 1 Don",
-    "card": "OP05-074"
+    "target": "OP05-074"
   },
-  {
+  "log8-165": {
     "player": "Mhcuber",
-    "action": "Attach1 Don to Sanji",
+    "action": "Attach 1 Don to",
     "card": "OP09-065",
+    "name": "Sanji",
     "total_don": 1
   },
-  {
+  "log8-166": {
     "player": "Mhcuber",
-    "action": "Sanji attacking Gecko Moria",
+    "action": "attacking",
     "attacker": "OP09-065",
     "defender": "ST03-004"
   },
-  {
+  "log8-167": {
     "player": "Pirate23052",
-    "action": "Discard Buggy for Counter 2000",
-    "card": "ST17-003"
+    "action": "Discard for Counter",
+    "card": "ST17-003",
+    "name": "Buggy",
+    "counter": 2000
   },
-  {
+  "log8-168": {
     "player": "Pirate23052",
-    "action": "Discard Buggy for Counter 2000",
-    "card": "ST17-003"
+    "action": "Discard for Counter",
+    "card": "ST17-003",
+    "name": "Buggy",
+    "counter": 2000
   },
-  {
+  "log8-169": {
     "player": "Mhcuber",
-    "action": "Sanji vs Gecko Moria",
+    "action": "attacking",
+    "attacker": "OP09-065",
+    "defender": "ST03-004",
     "attacker_power": 8000,
-    "defender_power": 9000
+    "defender_power": 9000,
+    "result": "Attack Fails"
   },
-  {
+  "log8-170": {
     "player": "Mhcuber",
-    "action": "Attack Fails"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Gecko Moria",
+    "action": "attacking",
     "attacker": "OP05-060",
     "defender": "ST03-004"
   },
-  {
+  "log8-171": {
     "player": "Pirate23052",
-    "action": "Discard Gecko Moria for Counter 1000",
-    "card": "ST03-004"
+    "action": "Discard for Counter",
+    "card": "ST03-004",
+    "name": "Gecko Moria",
+    "counter": 1000
   },
-  {
+  "log8-172": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Gecko Moria",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "ST03-004",
     "attacker_power": 5000,
-    "defender_power": 6000
+    "defender_power": 6000,
+    "result": "Attack Fails"
   },
-  {
-    "player": "Mhcuber",
-    "action": "Attack Fails"
-  },
-  {
+  "log8-173": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log8-174": {
     "player": "Pirate23052",
     "action": "Draw 1 Card"
   },
-  {
+  "log8-175": {
     "player": "Pirate23052",
-    "action": "Attach 1 Don to Edward Weevil",
+    "action": "Attach 1 Don to",
     "card": "EB01-023",
+    "name": "Edward Weevil",
     "total_don": 1
   },
-  {
+  "log8-176": {
     "player": "Pirate23052",
-    "action": "Edward Weevil attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "EB01-023",
     "defender": "OP05-060"
   },
-  {
+  "log8-177": {
     "player": "Pirate23052",
-    "action": "Edward Weevil vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "EB01-023",
+    "defender": "OP05-060",
     "attacker_power": 7000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
+  "log8-178": {
     "player": "Pirate23052",
-    "action": "Monkey D. Luffy hit for 1 damage"
-  },
-  {
-    "player": "Pirate23052",
-    "action": "Jozu attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP08-047",
     "defender": "OP05-060"
   },
-  {
+  "log8-179": {
     "player": "Mhcuber",
-    "action": "Discard Sangoro for Counter 1000",
-    "card": "ST18-003"
+    "action": "Discard for Counter",
+    "card": "ST18-003",
+    "name": "Sangoro",
+    "counter": 1000
   },
-  {
+  "log8-180": {
     "player": "Mhcuber",
-    "action": "Discard Eustass 'Captain' Kid for Counter 1000",
-    "card": "OP05-074"
+    "action": "Discard for Counter",
+    "card": "OP05-074",
+    "name": "Eustass 'Captain' Kid",
+    "counter": 1000
   },
-  {
+  "log8-181": {
     "player": "Mhcuber",
-    "action": "Discard Trafalgar Law for Counter 1000",
-    "card": "ST10-010"
+    "action": "Discard for Counter",
+    "card": "ST10-010",
+    "name": "Trafalgar Law",
+    "counter": 1000
   },
-  {
+  "log8-182": {
     "player": "Pirate23052",
-    "action": "Jozu vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP08-047",
+    "defender": "OP05-060",
     "attacker_power": 7000,
-    "defender_power": 8000
+    "defender_power": 8000,
+    "result": "Attack Fails"
   },
-  {
+  "log8-183": {
     "player": "Pirate23052",
-    "action": "Attack Fails"
-  },
-  {
-    "player": "Pirate23052",
-    "action": "Edward Weevil attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "EB01-023",
     "defender": "OP05-060"
   },
-  {
+  "log8-184": {
     "player": "Mhcuber",
-    "action": "Eustass 'Captain' Kid Blocks",
-    "blocker": "OP05-074"
+    "action": "Blocks",
+    "blocker": "OP05-074",
+    "blocker_name": "Eustass 'Captain' Kid"
   },
-  {
+  "log8-185": {
     "player": "Pirate23052",
-    "action": "Edward Weevil vs Eustass 'Captain' Kid",
+    "action": "attacking",
+    "attacker": "EB01-023",
+    "defender": "OP05-074",
     "attacker_power": 6000,
     "defender_power": 6000
   },
-  {
+  "log8-186": {
     "player": "Mhcuber",
-    "action": "Eustass 'Captain' Kid Destroyed",
-    "card": "OP05-074"
+    "action": "Destroyed",
+    "card": "OP05-074",
+    "name": "Eustass 'Captain' Kid"
   },
-  {
+  "log8-187": {
     "player": "Pirate23052",
-    "action": "Donquixote Doflamingo attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP01-060",
     "defender": "OP05-060"
   },
-  {
+  "log8-188": {
     "player": "Pirate23052",
     "action": "Wins!"
   },
-  {
+  "log8-189": {
     "player": "Pirate23052",
-    "action": "Donquixote Doflamingo vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP05-060",
     "attacker_power": 5000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "Pirate23052",
-    "action": "Monkey D. Luffy hit for 1 damage"
-  },
-  {
+  "log8-190": {
     "player": "Mhcuber",
     "action": "Loses"
   },
-  {
+  "log8-191": {
     "action": "GameOver"
   }
-]
+}

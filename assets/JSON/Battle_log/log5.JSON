@@ -1,943 +1,781 @@
-[
-  {
-    "action": "Attempting to connect to CL6KC9"
-  },
-  {
-    "action": "Version is 1.29b"
-  },
-  {
+{
+  "log5-003": {
     "player": "magnumfiller",
     "action": "Leader is Marshall D. Teach",
     "card": "OP09-081"
   },
-  {
-    "player": "Mhcuber",
-    "action": "Has Connected"
-  },
-  {
-    "action": "Version is 1.29b"
-  },
-  {
+  "log5-006": {
     "player": "Mhcuber",
     "action": "Leader is Shanks",
     "card": "OP09-001"
   },
-  {
+  "log5-007": {
     "player": "magnumfiller",
     "action": "Chose to go Second"
   },
-  {
+  "log5-008": {
     "player": "magnumfiller",
     "action": "Mulligan"
   },
-  {
+  "log5-009": {
     "player": "Mhcuber",
     "action": "Mulligan"
   },
-  {
+  "log5-010": {
     "player": "Mhcuber",
     "action": "Draw 1 Don"
   },
-  {
+  "log5-011": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log5-012": {
     "player": "magnumfiller",
     "action": "Draw 1 Card"
   },
-  {
+  "log5-013": {
     "player": "magnumfiller",
     "action": "Draw 2 Don"
   },
-  {
+  "log5-014": {
     "player": "magnumfiller",
-    "action": "Deploy Hachinosu",
-    "card": "OP09-099"
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Hachinosu: Rest Hachinosu",
-    "card": "OP09-099"
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Hachinosu: Trash I Bid 500 Million!!",
+    "action": "Deploy",
     "card": "OP09-099",
-    "target": "OP05-096"
+    "name": "Hachinosu"
   },
-  {
+  "log5-015": {
     "player": "magnumfiller",
-    "action": "Reveal and Draw Jesus Burgess",
-    "card": "OP09-086"
+    "action": "Hachinosu: Rest",
+    "target": "OP09-099",
+    "card": "OP09-099",
+    "name": "Hachinosu"
   },
-  {
+  "log5-016": {
+    "player": "magnumfiller",
+    "action": "Hachinosu: Trash",
+    "target": "OP09-099",
+    "cost_card": "OP05-096",
+    "cost_card_name": "I Bid 500 Million!!"
+  },
+  "log5-017": {
+    "player": "magnumfiller",
+    "action": "Reveal and Draw",
+    "card": "OP09-086",
+    "name": "Jesus Burgess"
+  },
+  "log5-018": {
     "player": "magnumfiller",
     "action": "Placing Cards on Bottom of Deck"
   },
-  {
+  "log5-019": {
     "player": "magnumfiller",
-    "action": "Deploy Laffitte",
-    "card": "OP09-095"
+    "action": "Deploy",
+    "card": "OP09-095",
+    "name": "Laffitte"
   },
-  {
+  "log5-020": {
     "player": "magnumfiller",
     "action": "End Turn"
   },
-  {
+  "log5-021": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log5-022": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log5-023": {
     "player": "Mhcuber",
-    "action": "Deploy Hongo",
-    "card": "OP09-011"
+    "action": "Deploy",
+    "card": "OP09-011",
+    "name": "Hongo"
   },
-  {
+  "log5-024": {
     "player": "Mhcuber",
-    "action": "Shanks attacking Marshall D. Teach",
+    "action": "attacking",
     "attacker": "OP09-001",
     "defender": "OP09-081"
   },
-  {
+  "log5-025": {
     "player": "Mhcuber",
-    "action": "Shanks vs Marshall D. Teach",
+    "action": "attacking",
+    "attacker": "OP09-001",
+    "defender": "OP09-081",
     "attacker_power": 5000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "Mhcuber",
-    "action": "Marshall D. Teach hit for 1 damage"
-  },
-  {
+  "log5-026": {
     "player": "magnumfiller",
-    "action": "Reveal and Draw Laffitte",
-    "card": "OP09-095"
+    "action": "Reveal and Draw",
+    "card": "OP09-095",
+    "name": "Laffitte"
   },
-  {
+  "log5-027": {
     "player": "magnumfiller",
     "action": "This is MY AGE!!!!: Trash 2 Remaining Cards",
-    "card": "OP09-096"
+    "target": "OP09-096"
   },
-  {
+  "log5-028": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log5-029": {
     "player": "magnumfiller",
     "action": "Draw 1 Card"
   },
-  {
+  "log5-030": {
     "player": "magnumfiller",
     "action": "Draw 2 Don"
   },
-  {
+  "log5-031": {
     "player": "magnumfiller",
-    "action": "Laffitte: Rest Laffitte",
-    "card": "OP09-095"
+    "action": "Laffitte: Rest",
+    "target": "OP09-095",
+    "card": "OP09-095",
+    "name": "Laffitte"
   },
-  {
+  "log5-032": {
     "player": "magnumfiller",
-    "action": "Reveal and Draw Stronger",
-    "card": "OP09-089"
+    "action": "Reveal and Draw",
+    "card": "OP09-089",
+    "name": "Stronger"
   },
-  {
+  "log5-033": {
     "player": "magnumfiller",
     "action": "Placing Cards on Bottom of Deck"
   },
-  {
+  "log5-034": {
     "player": "magnumfiller",
-    "action": "Deploy Laffitte",
-    "card": "OP09-095"
+    "action": "Deploy",
+    "card": "OP09-095",
+    "name": "Laffitte"
   },
-  {
+  "log5-035": {
     "player": "magnumfiller",
-    "action": "Laffitte: Rest Laffitte",
-    "card": "OP09-095"
+    "action": "Laffitte: Rest",
+    "target": "OP09-095",
+    "card": "OP09-095",
+    "name": "Laffitte"
   },
-  {
+  "log5-036": {
     "player": "magnumfiller",
-    "action": "Reveal and Draw Marshall D. Teach",
-    "card": "OP09-093"
+    "action": "Reveal and Draw",
+    "card": "OP09-093",
+    "name": "Marshall D. Teach"
   },
-  {
+  "log5-037": {
     "player": "magnumfiller",
     "action": "Placing Cards on Bottom of Deck"
   },
-  {
+  "log5-038": {
     "player": "magnumfiller",
-    "action": "Hachinosu: Rest Hachinosu",
-    "card": "OP09-099"
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Hachinosu: Trash Kuzan",
+    "action": "Hachinosu: Rest",
+    "target": "OP09-099",
     "card": "OP09-099",
-    "target": "OP10-082"
+    "name": "Hachinosu"
   },
-  {
+  "log5-039": {
     "player": "magnumfiller",
-    "action": "Reveal and Draw This is MY AGE!!!!",
-    "card": "OP09-096"
+    "action": "Hachinosu: Trash",
+    "target": "OP09-099",
+    "cost_card": "OP10-082",
+    "cost_card_name": "Kuzan"
   },
-  {
+  "log5-040": {
+    "player": "magnumfiller",
+    "action": "Reveal and Draw",
+    "card": "OP09-096",
+    "name": "This is MY AGE!!!!"
+  },
+  "log5-041": {
     "player": "magnumfiller",
     "action": "Placing Cards on Bottom of Deck"
   },
-  {
+  "log5-042": {
     "player": "magnumfiller",
-    "action": "Reveal and Draw Shiryu",
-    "card": "OP09-088"
+    "action": "Reveal and Draw",
+    "card": "OP09-088",
+    "name": "Shiryu"
   },
-  {
+  "log5-043": {
     "player": "magnumfiller",
     "action": "This is MY AGE!!!!: Trash 2 Remaining Cards",
-    "card": "OP09-096"
+    "target": "OP09-096"
   },
-  {
+  "log5-044": {
     "player": "magnumfiller",
-    "action": "Marshall D. Teach attacking Shanks",
+    "action": "attacking",
     "attacker": "OP09-081",
     "defender": "OP09-001"
   },
-  {
+  "log5-045": {
     "player": "Mhcuber",
-    "action": "Shanks: Buff Marshall D. Teach -1000",
-    "card": "OP09-001",
-    "target": "OP09-081"
+    "action": "Shanks: Buff",
+    "target": "OP09-001",
+    "affected": "OP09-081",
+    "affected_name": "Marshall D. Teach",
+    "power_change": -1000
   },
-  {
+  "log5-046": {
     "player": "magnumfiller",
-    "action": "Marshall D. Teach vs Shanks",
+    "action": "attacking",
+    "attacker": "OP09-081",
+    "defender": "OP09-001",
     "attacker_power": 4000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "result": "Attack Fails"
   },
-  {
-    "player": "magnumfiller",
-    "action": "Attack Fails"
-  },
-  {
+  "log5-047": {
     "player": "magnumfiller",
     "action": "End Turn"
   },
-  {
+  "log5-048": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log5-049": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log5-050": {
     "player": "Mhcuber",
-    "action": "Deploy Monkey D. Luffy",
-    "card": "ST21-014"
+    "action": "Deploy",
+    "card": "ST21-014",
+    "name": "Monkey D. Luffy"
   },
-  {
+  "log5-051": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Marshall D. Teach",
+    "action": "attacking",
     "attacker": "ST21-014",
     "defender": "OP09-081"
   },
-  {
+  "log5-052": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy: Attach 1 Rested Don to Monkey D. Luffy",
-    "card": "ST21-014"
+    "action": "Monkey D. Luffy: Attach 1 Rested Don to",
+    "target": "ST21-014",
+    "card": "ST21-014",
+    "name": "Monkey D. Luffy"
   },
-  {
+  "log5-053": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Marshall D. Teach",
+    "action": "attacking",
+    "attacker": "ST21-014",
+    "defender": "OP09-081",
     "attacker_power": 7000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "Mhcuber",
-    "action": "Marshall D. Teach hit for 1 damage"
-  },
-  {
+  "log5-054": {
     "player": "magnumfiller",
     "action": "Shigan (Finger Gun): Trash 2 Cards from Deck",
-    "card": "EB01-051"
+    "target": "EB01-051"
   },
-  {
+  "log5-055": {
     "player": "magnumfiller",
-    "action": "Shigan (Finger Gun): Destroy Monkey D. Luffy",
-    "card": "EB01-051",
-    "target": "ST21-014"
+    "action": "Shigan (Finger Gun): Destroy",
+    "target": "EB01-051",
+    "affected": "ST21-014",
+    "affected_name": "Monkey D. Luffy"
   },
-  {
+  "log5-056": {
     "player": "Mhcuber",
-    "action": "Shanks attacking Laffitte",
+    "action": "attacking",
     "attacker": "OP09-001",
     "defender": "OP09-095"
   },
-  {
+  "log5-057": {
     "player": "Mhcuber",
-    "action": "Shanks vs Laffitte",
+    "action": "attacking",
+    "attacker": "OP09-001",
+    "defender": "OP09-095",
     "attacker_power": 5000,
     "defender_power": 1000
   },
-  {
+  "log5-058": {
     "player": "magnumfiller",
-    "action": "Laffitte Destroyed",
-    "card": "OP09-095"
+    "action": "Destroyed",
+    "card": "OP09-095",
+    "name": "Laffitte"
   },
-  {
+  "log5-059": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log5-060": {
     "player": "magnumfiller",
     "action": "Draw 1 Card"
   },
-  {
+  "log5-061": {
     "player": "magnumfiller",
     "action": "Draw 2 Don"
   },
-  {
+  "log5-062": {
     "player": "magnumfiller",
-    "action": "Laffitte: Rest Laffitte",
-    "card": "OP09-095"
+    "action": "Laffitte: Rest",
+    "target": "OP09-095",
+    "card": "OP09-095",
+    "name": "Laffitte"
   },
-  {
+  "log5-063": {
     "player": "magnumfiller",
-    "action": "Reveal and Draw Marshall D. Teach",
-    "card": "OP09-093"
+    "action": "Reveal and Draw",
+    "card": "OP09-093",
+    "name": "Marshall D. Teach"
   },
-  {
+  "log5-064": {
     "player": "magnumfiller",
     "action": "Placing Cards on Bottom of Deck"
   },
-  {
+  "log5-065": {
     "player": "magnumfiller",
-    "action": "Hachinosu: Rest Hachinosu",
-    "card": "OP09-099"
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Hachinosu: Trash Vasco Shot",
+    "action": "Hachinosu: Rest",
+    "target": "OP09-099",
     "card": "OP09-099",
-    "target": "OP09-091"
+    "name": "Hachinosu"
   },
-  {
+  "log5-066": {
     "player": "magnumfiller",
-    "action": "Reveal and Draw Jesus Burgess",
-    "card": "OP09-086"
+    "action": "Hachinosu: Trash",
+    "target": "OP09-099",
+    "cost_card": "OP09-091",
+    "cost_card_name": "Vasco Shot"
   },
-  {
+  "log5-067": {
+    "player": "magnumfiller",
+    "action": "Reveal and Draw",
+    "card": "OP09-086",
+    "name": "Jesus Burgess"
+  },
+  "log5-068": {
     "player": "magnumfiller",
     "action": "Placing Cards on Bottom of Deck"
   },
-  {
+  "log5-069": {
     "player": "magnumfiller",
-    "action": "Deploy Kuzan",
-    "card": "OP10-082"
+    "action": "Deploy",
+    "card": "OP10-082",
+    "name": "Kuzan"
   },
-  {
+  "log5-070": {
     "player": "magnumfiller",
-    "action": "Marshall D. Teach: Trash Jesus Burgess",
-    "card": "OP09-081",
-    "target": "OP09-086"
+    "action": "Marshall D. Teach: Trash",
+    "target": "OP09-081",
+    "cost_card": "OP09-086",
+    "cost_card_name": "Jesus Burgess"
   },
-  {
+  "log5-071": {
     "player": "magnumfiller",
     "action": "Marshall D. Teach: Opponent can't activate On Play abilities next turn!",
-    "card": "OP09-081"
+    "target": "OP09-081"
   },
-  {
+  "log5-072": {
     "player": "magnumfiller",
     "action": "End Turn"
   },
-  {
+  "log5-073": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log5-074": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log5-075": {
     "player": "Mhcuber",
-    "action": "Deploy Lucky Roux",
-    "card": "OP09-015"
+    "action": "Deploy",
+    "card": "OP09-015",
+    "name": "Lucky Roux"
   },
-  {
+  "log5-076": {
     "player": "Mhcuber",
-    "action": "Deploy Sanji",
-    "card": "OP10-005"
+    "action": "Deploy",
+    "card": "OP10-005",
+    "name": "Sanji"
   },
-  {
+  "log5-077": {
     "player": "Mhcuber",
-    "action": "Shanks attacking Laffitte",
+    "action": "attacking",
     "attacker": "OP09-001",
     "defender": "OP09-095"
   },
-  {
+  "log5-078": {
     "player": "Mhcuber",
-    "action": "Shanks vs Laffitte",
+    "action": "attacking",
+    "attacker": "OP09-001",
+    "defender": "OP09-095",
     "attacker_power": 5000,
     "defender_power": 1000
   },
-  {
+  "log5-079": {
     "player": "magnumfiller",
-    "action": "Laffitte Destroyed",
-    "card": "OP09-095"
+    "action": "Destroyed",
+    "card": "OP09-095",
+    "name": "Laffitte"
   },
-  {
+  "log5-080": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log5-081": {
     "player": "magnumfiller",
     "action": "Draw 1 Card"
   },
-  {
+  "log5-082": {
     "player": "magnumfiller",
     "action": "Draw 2 Don"
   },
-  {
+  "log5-083": {
     "player": "magnumfiller",
     "action": "Shigan (Finger Gun): Trash 2 Cards from Deck",
-    "card": "EB01-051"
+    "target": "EB01-051"
   },
-  {
+  "log5-084": {
     "player": "magnumfiller",
-    "action": "Shigan (Finger Gun): Destroy Lucky Roux",
-    "card": "EB01-051",
-    "target": "OP09-015"
+    "action": "Shigan (Finger Gun): Destroy",
+    "target": "EB01-051",
+    "affected": "OP09-015",
+    "affected_name": "Lucky Roux"
   },
-  {
+  "log5-085": {
     "player": "magnumfiller",
-    "action": "Hachinosu: Rest Hachinosu",
-    "card": "OP09-099"
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Hachinosu: Trash Vasco Shot",
+    "action": "Hachinosu: Rest",
+    "target": "OP09-099",
     "card": "OP09-099",
-    "target": "OP09-091"
+    "name": "Hachinosu"
   },
-  {
+  "log5-086": {
     "player": "magnumfiller",
-    "action": "Reveal and Draw Stronger",
-    "card": "OP09-089"
+    "action": "Hachinosu: Trash",
+    "target": "OP09-099",
+    "cost_card": "OP09-091",
+    "cost_card_name": "Vasco Shot"
   },
-  {
+  "log5-087": {
+    "player": "magnumfiller",
+    "action": "Reveal and Draw",
+    "card": "OP09-089",
+    "name": "Stronger"
+  },
+  "log5-088": {
     "player": "magnumfiller",
     "action": "Placing Cards on Bottom of Deck"
   },
-  {
+  "log5-089": {
     "player": "magnumfiller",
-    "action": "Marshall D. Teach attacking Shanks",
+    "action": "attacking",
     "attacker": "OP09-081",
     "defender": "OP09-001"
   },
-  {
+  "log5-090": {
     "player": "Mhcuber",
-    "action": "Shanks: Buff Marshall D. Teach -1000",
-    "card": "OP09-001",
-    "target": "OP09-081"
+    "action": "Shanks: Buff",
+    "target": "OP09-001",
+    "affected": "OP09-081",
+    "affected_name": "Marshall D. Teach",
+    "power_change": -1000
   },
-  {
+  "log5-091": {
     "player": "magnumfiller",
-    "action": "Marshall D. Teach vs Shanks",
+    "action": "attacking",
+    "attacker": "OP09-081",
+    "defender": "OP09-001",
     "attacker_power": 4000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "result": "Attack Fails"
   },
-  {
+  "log5-092": {
     "player": "magnumfiller",
-    "action": "Attack Fails"
+    "action": "Marshall D. Teach: Trash",
+    "target": "OP09-081",
+    "cost_card": "OP09-088",
+    "cost_card_name": "Shiryu"
   },
-  {
-    "player": "magnumfiller",
-    "action": "Marshall D. Teach: Trash Shiryu",
-    "card": "OP09-081",
-    "target": "OP09-088"
-  },
-  {
+  "log5-093": {
     "player": "magnumfiller",
     "action": "Marshall D. Teach: Opponent can't activate On Play abilities next turn!",
-    "card": "OP09-081"
+    "target": "OP09-081"
   },
-  {
+  "log5-094": {
     "player": "magnumfiller",
-    "action": "Kuzan attacking Shanks",
+    "action": "attacking",
     "attacker": "OP10-082",
     "defender": "OP09-001"
   },
-  {
+  "log5-095": {
     "player": "magnumfiller",
-    "action": "Kuzan vs Shanks",
+    "action": "attacking",
+    "attacker": "OP10-082",
+    "defender": "OP09-001",
     "attacker_power": 5000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
+  "log5-096": {
     "player": "magnumfiller",
-    "action": "Shanks hit for 1 damage"
+    "action": "Deploy",
+    "card": "OP09-086",
+    "name": "Jesus Burgess"
   },
-  {
+  "log5-097": {
     "player": "magnumfiller",
-    "action": "Deploy Jesus Burgess",
-    "card": "OP09-086"
+    "action": "Kuzan: Trash",
+    "target": "OP10-082",
+    "cost_card": "OP10-082",
+    "cost_card_name": "Kuzan"
   },
-  {
-    "player": "magnumfiller",
-    "action": "Kuzan: Trash Kuzan",
-    "card": "OP10-082"
-  },
-  {
+  "log5-098": {
     "player": "magnumfiller",
     "action": "Kuzan: Draw 1 Card",
-    "card": "OP10-082"
+    "target": "OP10-082"
   },
-  {
+  "log5-099": {
     "player": "magnumfiller",
-    "action": "Kuzan: Deployed Jesus Burgess from Trash",
-    "card": "OP10-082",
-    "target": "OP09-086"
+    "action": "Kuzan: Deployed from Trash",
+    "target": "OP10-082",
+    "affected": "OP09-086",
+    "affected_name": "Jesus Burgess"
   },
-  {
+  "log5-100": {
     "player": "magnumfiller",
     "action": "End Turn"
   },
-  {
+  "log5-101": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log5-102": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log5-103": {
     "player": "Mhcuber",
-    "action": "Deploy Building Snake",
-    "card": "OP09-008"
+    "action": "Deploy",
+    "card": "OP09-008",
+    "name": "Building Snake"
   },
-  {
+  "log5-104": {
     "player": "Mhcuber",
-    "action": "Deploy Sanji",
-    "card": "OP10-005"
+    "action": "Deploy",
+    "card": "OP10-005",
+    "name": "Sanji"
   },
-  {
+  "log5-105": {
     "player": "Mhcuber",
-    "action": "Sanji attacking Marshall D. Teach",
+    "action": "attacking",
     "attacker": "OP10-005",
     "defender": "OP09-081"
   },
-  {
+  "log5-106": {
     "player": "magnumfiller",
-    "action": "Discard Stronger for Counter 2000",
-    "card": "OP09-089"
+    "action": "Discard for Counter",
+    "card": "OP09-089",
+    "name": "Stronger",
+    "counter": 2000
   },
-  {
+  "log5-107": {
     "player": "Mhcuber",
-    "action": "Sanji vs Marshall D. Teach",
+    "action": "attacking",
+    "attacker": "OP10-005",
+    "defender": "OP09-081",
     "attacker_power": 6000,
-    "defender_power": 7000
+    "defender_power": 7000,
+    "result": "Attack Fails"
   },
-  {
+  "log5-108": {
     "player": "Mhcuber",
-    "action": "Attack Fails"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Attach 5 Don to Shanks",
+    "action": "Attach 5 Don to",
     "card": "OP09-001",
+    "name": "Shanks",
     "total_don": 5
   },
-  {
+  "log5-109": {
     "player": "Mhcuber",
-    "action": "Shanks attacking Marshall D. Teach",
+    "action": "attacking",
     "attacker": "OP09-001",
     "defender": "OP09-081"
   },
-  {
+  "log5-110": {
     "player": "Mhcuber",
-    "action": "Shanks vs Marshall D. Teach",
+    "action": "attacking",
+    "attacker": "OP09-001",
+    "defender": "OP09-081",
     "attacker_power": 10000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "Mhcuber",
-    "action": "Marshall D. Teach hit for 1 damage"
-  },
-  {
+  "log5-111": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log5-112": {
     "player": "magnumfiller",
     "action": "Draw 1 Card"
   },
-  {
+  "log5-113": {
     "player": "magnumfiller",
     "action": "Draw 2 Don"
   },
-  {
+  "log5-114": {
     "player": "magnumfiller",
-    "action": "Hachinosu: Rest Hachinosu",
-    "card": "OP09-099"
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Hachinosu: Trash I Bid 500 Million!!",
+    "action": "Hachinosu: Rest",
+    "target": "OP09-099",
     "card": "OP09-099",
-    "target": "OP05-096"
+    "name": "Hachinosu"
   },
-  {
+  "log5-115": {
     "player": "magnumfiller",
-    "action": "Reveal and Draw Hachinosu",
-    "card": "OP09-099"
+    "action": "Hachinosu: Trash",
+    "target": "OP09-099",
+    "cost_card": "OP05-096",
+    "cost_card_name": "I Bid 500 Million!!"
   },
-  {
+  "log5-116": {
+    "player": "magnumfiller",
+    "action": "Reveal and Draw",
+    "card": "OP09-099",
+    "name": "Hachinosu"
+  },
+  "log5-117": {
     "player": "magnumfiller",
     "action": "Placing Cards on Bottom of Deck"
   },
-  {
+  "log5-118": {
     "player": "magnumfiller",
-    "action": "Marshall D. Teach: Trash Hachinosu",
-    "card": "OP09-081",
-    "target": "OP09-099"
+    "action": "Marshall D. Teach: Trash",
+    "target": "OP09-081",
+    "cost_card": "OP09-099",
+    "cost_card_name": "Hachinosu"
   },
-  {
+  "log5-119": {
     "player": "magnumfiller",
     "action": "Marshall D. Teach: Opponent can't activate On Play abilities next turn!",
-    "card": "OP09-081"
+    "target": "OP09-081"
   },
-  {
+  "log5-120": {
     "player": "magnumfiller",
-    "action": "Deploy Marshall D. Teach",
-    "card": "OP09-093"
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Marshall D. Teach: Nullify effects of Shanks",
+    "action": "Deploy",
     "card": "OP09-093",
-    "target": "OP09-001"
+    "name": "Marshall D. Teach"
   },
-  {
+  "log5-121": {
     "player": "magnumfiller",
-    "action": "Marshall D. Teach: Sanji can't attack next turn",
-    "card": "OP09-093",
-    "target": "OP10-005"
+    "action": "Marshall D. Teach: Nullify effects of",
+    "target": "OP09-093",
+    "affected": "OP09-001",
+    "affected_name": "Shanks"
   },
-  {
+  "log5-122": {
     "player": "magnumfiller",
-    "action": "Marshall D. Teach: Nullify effects of Sanji until next turn end!",
-    "card": "OP09-093",
-    "target": "OP10-005"
+    "action": "Marshall D. Teach: can't attack next turn",
+    "target": "OP09-093",
+    "affected": "OP10-005",
+    "affected_name": "Sanji"
   },
-  {
+  "log5-123": {
     "player": "magnumfiller",
-    "action": "Marshall D. Teach attacking Shanks",
+    "action": "Marshall D. Teach: Nullify effects of until next turn end!",
+    "target": "OP09-093",
+    "affected": "OP10-005",
+    "affected_name": "Sanji"
+  },
+  "log5-124": {
+    "player": "magnumfiller",
+    "action": "attacking",
     "attacker": "OP09-081",
     "defender": "OP09-001"
   },
-  {
-    "player": "magnumfiller",
-    "action": "Marshall D. Teach vs Shanks",
-    "attacker_power": 5000,
-    "defender_power": 5000
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Shanks hit for 1 damage"
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Jesus Burgess attacking Shanks",
-    "attacker": "OP09-086",
-    "defender": "OP09-001"
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Jesus Burgess vs Shanks",
-    "attacker_power": 10000,
-    "defender_power": 5000
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Shanks hit for 1 damage"
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Jesus Burgess attacking Shanks",
-    "attacker": "OP09-086",
-    "defender": "OP09-001"
-  },
-  {
+  "log5-125": {
     "player": "Mhcuber",
-    "action": "Trash Silvers Rayleigh",
-    "card": "OP08-118"
+    "action": "Shanks: Buff",
+    "target": "OP09-001",
+    "affected": "OP09-086",
+    "affected_name": "Jesus Burgess",
+    "power_change": -1000
   },
-  {
+  "log5-126": {
     "player": "Mhcuber",
-    "action": "Bad Manners Kick Course: Counter 3000",
-    "card": "OP04-016"
+    "action": "Divine Departure: Buff for the Combat",
+    "target": "OP10-019",
+    "affected": "OP09-001",
+    "affected_name": "Shanks",
+    "power_change": 3000
   },
-  {
-    "player": "magnumfiller",
-    "action": "Jesus Burgess vs Shanks",
-    "attacker_power": 10000,
-    "defender_power": 8000
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Shanks hit for 1 damage"
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Shanks no longer nullified"
-  },
-  {
-    "player": "magnumfiller",
-    "action": "End Turn"
-  },
-  {
+  "log5-127": {
     "player": "Mhcuber",
-    "action": "Draw 1 Card"
+    "action": "Discard for Counter",
+    "card": "OP01-006",
+    "name": "Otama",
+    "counter": 2000
   },
-  {
+  "log5-128": {
     "player": "Mhcuber",
-    "action": "Draw 2 Don"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Hongo: Rest Hongo",
-    "card": "OP09-011"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Hongo: Buff Jesus Burgess -2000",
+    "action": "Discard for Counter",
     "card": "OP09-011",
-    "target": "OP09-086"
+    "name": "Hongo",
+    "counter": 2000
   },
-  {
-    "player": "Mhcuber",
-    "action": "Building Snake: Return Building Snake to Deck Bottom",
-    "card": "OP09-008"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Building Snake: Buff Jesus Burgess -3000",
-    "card": "OP09-008",
-    "target": "OP09-086"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Attach 4 Don to Sanji",
-    "card": "OP10-005",
-    "total_don": 4
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Attach 2 Don to Sanji",
-    "card": "OP10-005",
-    "total_don": 6
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Sanji attacking Jesus Burgess",
-    "attacker": "OP10-005",
-    "defender": "OP09-086"
-  },
-  {
+  "log5-129": {
     "player": "magnumfiller",
-    "action": "Marshall D. Teach Blocks",
-    "blocker": "OP09-093"
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Discard Shiryu for Counter 1000",
-    "card": "OP10-086"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Sanji vs Marshall D. Teach",
-    "attacker_power": 12000,
-    "defender_power": 13000
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Attack Fails"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Attach 3 Don to Shanks",
-    "card": "OP09-001",
-    "total_don": 3
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Shanks attacking Jesus Burgess",
-    "attacker": "OP09-001",
-    "defender": "OP09-086"
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Discard Stronger for Counter 2000",
-    "card": "OP09-089"
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Discard Stronger for Counter 2000",
-    "card": "OP09-089"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Shanks vs Jesus Burgess",
-    "attacker_power": 8000,
-    "defender_power": 10000
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Attack Fails"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Sanji is no longer blocked from attacking"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Sanji no longer nullified"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "End Turn"
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Draw 1 Card"
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Attach 1 Don to Marshall D. Teach",
-    "card": "OP09-081",
-    "total_don": 1
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Attach 1 Don to Marshall D. Teach",
-    "card": "OP09-081",
-    "total_don": 2
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Attach 1 Don to Marshall D. Teach",
-    "card": "OP09-081",
-    "total_don": 3
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Attach 1 Don to Marshall D. Teach",
-    "card": "OP09-081",
-    "total_don": 4
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Attach 1 Don to Marshall D. Teach",
-    "card": "OP09-081",
-    "total_don": 5
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Attach 1 Don to Marshall D. Teach",
-    "card": "OP09-081",
-    "total_don": 6
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Marshall D. Teach attacking Shanks",
+    "action": "attacking",
     "attacker": "OP09-081",
-    "defender": "OP09-001"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Shanks: Buff Jesus Burgess -1000",
-    "card": "OP09-001",
-    "target": "OP09-086"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Divine Departure: Buff Shanks 3000 for the Combat",
-    "card": "OP10-019"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Discard Otama for Counter 2000",
-    "card": "OP01-006"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Discard Hongo for Counter 2000",
-    "card": "OP09-011"
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Marshall D. Teach vs Shanks",
+    "defender": "OP09-001",
     "attacker_power": 11000,
-    "defender_power": 12000
+    "defender_power": 12000,
+    "result": "Attack Fails"
   },
-  {
+  "log5-130": {
     "player": "magnumfiller",
-    "action": "Attack Fails"
+    "action": "Marshall D. Teach: Trash",
+    "target": "OP09-081",
+    "cost_card": "OP09-093",
+    "cost_card_name": "Marshall D. Teach"
   },
-  {
-    "player": "magnumfiller",
-    "action": "Marshall D. Teach: Trash Marshall D. Teach",
-    "card": "OP09-081",
-    "target": "OP09-093"
-  },
-  {
+  "log5-131": {
     "player": "magnumfiller",
     "action": "Marshall D. Teach: Opponent can't activate On Play abilities next turn!",
-    "card": "OP09-081"
+    "target": "OP09-081"
   },
-  {
+  "log5-132": {
     "player": "magnumfiller",
-    "action": "Jesus Burgess attacking Shanks",
+    "action": "attacking",
     "attacker": "OP09-086",
     "defender": "OP09-001"
   },
-  {
+  "log5-133": {
     "player": "magnumfiller",
-    "action": "Jesus Burgess vs Shanks",
+    "action": "attacking",
+    "attacker": "OP09-086",
+    "defender": "OP09-001",
     "attacker_power": 11000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
+  "log5-134": {
     "player": "magnumfiller",
-    "action": "Shanks hit for 1 damage"
-  },
-  {
-    "player": "magnumfiller",
-    "action": "Jesus Burgess attacking Shanks",
+    "action": "attacking",
     "attacker": "OP09-086",
     "defender": "OP09-001"
   },
-  {
+  "log5-135": {
     "player": "magnumfiller",
     "action": "Wins!"
   },
-  {
+  "log5-136": {
     "player": "magnumfiller",
-    "action": "Jesus Burgess vs Shanks",
+    "action": "attacking",
+    "attacker": "OP09-086",
+    "defender": "OP09-001",
     "attacker_power": 10000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "magnumfiller",
-    "action": "Shanks hit for 1 damage"
-  },
-  {
+  "log5-137": {
     "player": "Mhcuber",
     "action": "Loses"
   },
-  {
+  "log5-138": {
     "action": "GameOver"
   }
-]
+}

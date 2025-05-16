@@ -1,878 +1,1034 @@
-[
-  {
+{
+  "log1-003": {
     "player": "momo",
     "action": "Leader is Roronoa Zoro",
     "card": "OP01-001"
   },
-  {
+  "log1-006": {
     "player": "Mhcuber",
     "action": "Leader is Monkey D. Luffy",
     "card": "OP05-060"
   },
-  {
+  "log1-007": {
     "player": "momo",
     "action": "Chose to go First"
   },
-  {
+  "log1-008": {
     "player": "Mhcuber",
     "action": "Mulligan"
   },
-  {
+  "log1-009": {
     "player": "momo",
     "action": "Draw 1 Don"
   },
-  {
+  "log1-010": {
     "player": "momo",
-    "action": "Deploy Dogura",
-    "card": "OP02-010"
-  },
-  {
-    "player": "momo",
-    "action": "Dogura: Deploy Nami",
+    "action": "Deploy",
     "card": "OP02-010",
-    "target": "OP01-016"
+    "name": "Dogura"
   },
-  {
+  "log1-011": {
     "player": "momo",
-    "action": "Reveal and Draw Roronoa Zoro",
-    "card": "OP01-025"
+    "action": "Dogura: Deploy",
+    "target": "OP02-010",
+    "card": "OP01-016",
+    "name": "Nami"
   },
-  {
+  "log1-012": {
+    "player": "momo",
+    "action": "Reveal and Draw",
+    "card": "OP01-025",
+    "name": "Roronoa Zoro"
+  },
+  "log1-013": {
     "player": "momo",
     "action": "End Turn"
   },
-  {
+  "log1-014": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log1-015": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log1-016": {
     "player": "Mhcuber",
-    "action": "Deploy Trafalgar Law",
-    "card": "OP09-069"
+    "action": "Deploy",
+    "card": "OP09-069",
+    "name": "Trafalgar Law"
   },
-  {
+  "log1-017": {
     "player": "Mhcuber",
-    "action": "Reveal and Draw Sangoro",
-    "card": "ST18-003"
+    "action": "Reveal and Draw",
+    "card": "ST18-003",
+    "name": "Sangoro"
   },
-  {
+  "log1-018": {
     "player": "Mhcuber",
     "action": "Placing Cards on Bottom of Deck"
   },
-  {
+  "log1-019": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log1-020": {
     "player": "momo",
     "action": "Draw 1 Card"
   },
-  {
+  "log1-021": {
     "player": "momo",
     "action": "Draw 2 Don"
   },
-  {
+  "log1-022": {
     "player": "momo",
-    "action": "Attach 1 Don to Roronoa Zoro",
+    "action": "Attach 1 Don to",
     "card": "OP01-001",
+    "name": "Roronoa Zoro",
     "total_don": 1
   },
-  {
+  "log1-023": {
     "player": "momo",
-    "action": "Attach 1 Don to Roronoa Zoro",
+    "action": "Attach 1 Don to",
     "card": "OP01-001",
+    "name": "Roronoa Zoro",
     "total_don": 2
   },
-  {
+  "log1-024": {
     "player": "momo",
-    "action": "Attach 1 Don to Roronoa Zoro",
+    "action": "Attach 1 Don to",
     "card": "OP01-001",
+    "name": "Roronoa Zoro",
     "total_don": 3
   },
-  {
+  "log1-025": {
     "player": "momo",
-    "action": "Roronoa Zoro attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP01-001",
-    "defender": "OP05-060"
+    "attacker_name": "Roronoa Zoro",
+    "defender": "OP05-060",
+    "defender_name": "Monkey D. Luffy"
   },
-  {
+  "log1-026": {
     "player": "momo",
-    "action": "Roronoa Zoro vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP01-001",
+    "attacker_name": "Roronoa Zoro",
+    "defender": "OP05-060",
+    "defender_name": "Monkey D. Luffy",
     "attacker_power": 8000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "Mhcuber",
-    "action": "Monkey D. Luffy hit for 1 damage"
-  },
-  {
+  "log1-027": {
     "player": "momo",
-    "action": "Dogura: Deploy Tony Tony Chopper",
-    "card": "OP02-010",
-    "target": "ST01-006"
+    "action": "Dogura: Deploy",
+    "target": "OP02-010",
+    "card": "ST01-006",
+    "name": "Tony Tony Chopper"
   },
-  {
+  "log1-028": {
     "player": "momo",
     "action": "End Turn"
   },
-  {
+  "log1-029": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log1-030": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log1-031": {
     "player": "Mhcuber",
-    "action": "Deploy Zorojuro",
-    "card": "ST18-004"
+    "action": "Deploy",
+    "card": "ST18-004",
+    "name": "Zorojuro"
   },
-  {
+  "log1-032": {
     "player": "Mhcuber",
-    "action": "Reveal and Draw Luffy-tarou",
-    "card": "ST18-005"
+    "action": "Reveal and Draw",
+    "card": "ST18-005",
+    "name": "Luffy-tarou"
   },
-  {
+  "log1-033": {
     "player": "Mhcuber",
     "action": "Placing Cards on Bottom of Deck"
   },
-  {
+  "log1-034": {
     "player": "Mhcuber",
     "action": "Loses 1 Life"
   },
-  {
+  "log1-035": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy: Draw 1 Don",
-    "card": "OP05-060"
+    "action": "Monkey D. Luffy: Draw 1 Don"
   },
-  {
+  "log1-036": {
     "player": "Mhcuber",
-    "action": "Attach 1 Don to Monkey D. Luffy",
+    "action": "Attach 1 Don to",
     "card": "OP05-060",
+    "name": "Monkey D. Luffy",
     "total_don": 1
   },
-  {
+  "log1-037": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Roronoa Zoro",
+    "action": "attacking",
     "attacker": "OP05-060",
-    "defender": "OP01-001"
+    "attacker_name": "Monkey D. Luffy",
+    "defender": "OP01-001",
+    "defender_name": "Roronoa Zoro"
   },
-  {
+  "log1-038": {
     "player": "momo",
-    "action": "Tony Tony Chopper Blocks",
-    "blocker": "ST01-006"
+    "action": "Blocks",
+    "blocker": "ST01-006",
+    "blocker_name": "Tony Tony Chopper"
   },
-  {
+  "log1-039": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Tony Tony Chopper",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "attacker_name": "Monkey D. Luffy",
+    "defender": "ST01-006",
+    "defender_name": "Tony Tony Chopper",
     "attacker_power": 6000,
     "defender_power": 1000
   },
-  {
+  "log1-040": {
     "player": "momo",
-    "action": "Tony Tony Chopper Destroyed",
-    "card": "ST01-006"
+    "action": "Destroyed",
+    "card": "ST01-006",
+    "name": "Tony Tony Chopper"
   },
-  {
+  "log1-041": {
     "player": "Mhcuber",
-    "action": "Trafalgar Law attacking Dogura",
+    "action": "attacking",
     "attacker": "OP09-069",
-    "defender": "OP02-010"
+    "attacker_name": "Trafalgar Law",
+    "defender": "OP02-010",
+    "defender_name": "Dogura"
   },
-  {
+  "log1-042": {
     "player": "Mhcuber",
-    "action": "Trafalgar Law vs Dogura",
+    "action": "attacking",
+    "attacker": "OP09-069",
+    "attacker_name": "Trafalgar Law",
+    "defender": "OP02-010",
+    "defender_name": "Dogura",
     "attacker_power": 2000,
     "defender_power": 2000
   },
-  {
+  "log1-043": {
     "player": "momo",
-    "action": "Dogura Destroyed",
-    "card": "OP02-010"
+    "action": "Destroyed",
+    "card": "OP02-010",
+    "name": "Dogura"
   },
-  {
+  "log1-044": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log1-045": {
     "player": "momo",
     "action": "Draw 1 Card"
   },
-  {
+  "log1-046": {
     "player": "momo",
     "action": "Draw 2 Don"
   },
-  {
+  "log1-047": {
     "player": "momo",
-    "action": "Attach 1 Don to Roronoa Zoro",
+    "action": "Attach 1 Don to",
     "card": "OP01-001",
+    "name": "Roronoa Zoro",
     "total_don": 1
   },
-  {
+  "log1-048": {
     "player": "momo",
-    "action": "Deploy Roronoa Zoro",
-    "card": "OP01-025"
+    "action": "Deploy",
+    "card": "OP01-025",
+    "name": "Roronoa Zoro"
   },
-  {
+  "log1-049": {
     "player": "momo",
-    "action": "Roronoa Zoro attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP01-025",
-    "defender": "OP05-060"
+    "attacker_name": "Roronoa Zoro",
+    "defender": "OP05-060",
+    "defender_name": "Monkey D. Luffy"
   },
-  {
+  "log1-050": {
     "player": "momo",
-    "action": "Roronoa Zoro vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP01-025",
+    "attacker_name": "Roronoa Zoro",
+    "defender": "OP05-060",
+    "defender_name": "Monkey D. Luffy",
     "attacker_power": 6000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "Mhcuber",
-    "action": "Monkey D. Luffy hit for 1 damage"
-  },
-  {
+  "log1-051": {
     "player": "momo",
-    "action": "Attach 1 Don to Nami",
+    "action": "Attach 1 Don to",
     "card": "OP01-016",
+    "name": "Nami",
     "total_don": 1
   },
-  {
+  "log1-052": {
     "player": "momo",
-    "action": "Nami attacking Trafalgar Law",
+    "action": "attacking",
     "attacker": "OP01-016",
-    "defender": "OP09-069"
+    "attacker_name": "Nami",
+    "defender": "OP09-069",
+    "defender_name": "Trafalgar Law"
   },
-  {
+  "log1-053": {
     "player": "momo",
-    "action": "Nami vs Trafalgar Law",
+    "action": "attacking",
+    "attacker": "OP01-016",
+    "attacker_name": "Nami",
+    "defender": "OP09-069",
+    "defender_name": "Trafalgar Law",
     "attacker_power": 4000,
     "defender_power": 2000
   },
-  {
+  "log1-054": {
     "player": "Mhcuber",
-    "action": "Trafalgar Law Destroyed",
-    "card": "OP09-069"
+    "action": "Destroyed",
+    "card": "OP09-069",
+    "name": "Trafalgar Law"
   },
-  {
+  "log1-055": {
     "player": "momo",
-    "action": "Roronoa Zoro attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP01-001",
-    "defender": "OP05-060"
+    "attacker_name": "Roronoa Zoro",
+    "defender": "OP05-060",
+    "defender_name": "Monkey D. Luffy"
   },
-  {
+  "log1-056": {
     "player": "Mhcuber",
-    "action": "Discard Trafalgar Law for Counter 1000",
-    "card": "ST10-010"
+    "action": "Discard for Counter",
+    "card": "ST10-010",
+    "name": "Trafalgar Law",
+    "counter": 1000
   },
-  {
+  "log1-057": {
     "player": "Mhcuber",
-    "action": "Discard Sangoro for Counter 1000",
-    "card": "ST18-003"
+    "action": "Discard for Counter",
+    "card": "ST18-003",
+    "name": "Sangoro",
+    "counter": 1000
   },
-  {
+  "log1-058": {
     "player": "momo",
-    "action": "Roronoa Zoro vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP01-001",
+    "attacker_name": "Roronoa Zoro",
+    "defender": "OP05-060",
+    "defender_name": "Monkey D. Luffy",
     "attacker_power": 6000,
-    "defender_power": 7000
+    "defender_power": 7000,
+    "result": "Attack Fails"
   },
-  {
-    "player": "momo",
-    "action": "Attack Fails"
-  },
-  {
+  "log1-059": {
     "player": "momo",
     "action": "End Turn"
   },
-  {
+  "log1-060": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log1-061": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log1-062": {
     "player": "Mhcuber",
-    "action": "Deploy Eustass 'Captain' Kid",
-    "card": "OP05-074"
+    "action": "Deploy",
+    "card": "OP05-074",
+    "name": "Eustass 'Captain' Kid"
   },
-  {
+  "log1-063": {
     "player": "Mhcuber",
-    "action": "Attach 2 Don to Monkey D. Luffy",
+    "action": "Attach 2 Don to",
     "card": "OP05-060",
+    "name": "Monkey D. Luffy",
     "total_don": 2
   },
-  {
+  "log1-064": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Roronoa Zoro",
+    "action": "attacking",
     "attacker": "OP05-060",
-    "defender": "OP01-025"
+    "attacker_name": "Monkey D. Luffy",
+    "defender": "OP01-025",
+    "defender_name": "Roronoa Zoro"
   },
-  {
+  "log1-065": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Roronoa Zoro",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "attacker_name": "Monkey D. Luffy",
+    "defender": "OP01-025",
+    "defender_name": "Roronoa Zoro",
     "attacker_power": 7000,
     "defender_power": 5000
   },
-  {
+  "log1-066": {
     "player": "momo",
-    "action": "Roronoa Zoro Destroyed",
-    "card": "OP01-025"
+    "action": "Destroyed",
+    "card": "OP01-025",
+    "name": "Roronoa Zoro"
   },
-  {
+  "log1-067": {
     "player": "Mhcuber",
-    "action": "Zorojuro attacking Roronoa Zoro",
+    "action": "attacking",
     "attacker": "ST18-004",
-    "defender": "OP01-001"
+    "attacker_name": "Zorojuro",
+    "defender": "OP01-001",
+    "defender_name": "Roronoa Zoro"
   },
-  {
+  "log1-068": {
     "player": "Mhcuber",
-    "action": "Zorojuro vs Roronoa Zoro",
+    "action": "attacking",
+    "attacker": "ST18-004",
+    "attacker_name": "Zorojuro",
+    "defender": "OP01-001",
+    "defender_name": "Roronoa Zoro",
     "attacker_power": 6000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "momo",
-    "action": "Roronoa Zoro hit for 1 damage"
-  },
-  {
+  "log1-069": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log1-070": {
     "player": "momo",
     "action": "Draw 1 Card"
   },
-  {
+  "log1-071": {
     "player": "momo",
     "action": "Draw 2 Don"
   },
-  {
+  "log1-072": {
     "player": "momo",
-    "action": "Deploy Monkey D. Garp",
-    "card": "OP03-014"
+    "action": "Deploy",
+    "card": "OP03-014",
+    "name": "Monkey D. Garp"
   },
-  {
+  "log1-073": {
     "player": "momo",
-    "action": "Attach 1 Don to Roronoa Zoro",
+    "action": "Attach 1 Don to",
     "card": "OP01-001",
+    "name": "Roronoa Zoro",
     "total_don": 1
   },
-  {
+  "log1-074": {
     "player": "momo",
-    "action": "Attach 1 Don to Roronoa Zoro",
+    "action": "Attach 1 Don to",
     "card": "OP01-001",
+    "name": "Roronoa Zoro",
     "total_don": 2
   },
-  {
+  "log1-075": {
     "player": "momo",
-    "action": "Roronoa Zoro attacking Zorojuro",
+    "action": "attacking",
     "attacker": "OP01-001",
-    "defender": "ST18-004"
+    "attacker_name": "Roronoa Zoro",
+    "defender": "ST18-004",
+    "defender_name": "Zorojuro"
   },
-  {
-    "player": "Mhcuber",
-    "action": "Discard Trafalgar Law for Counter 1000",
-    "card": "ST10-010"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Discard Sangoro for Counter 1000",
-    "card": "ST18-003"
-  },
-  {
+  "log1-076": {
     "player": "momo",
-    "action": "Roronoa Zoro vs Zorojuro",
+    "action": "Monkey D. Garp: Deploy",
+    "target": "OP03-014",
+    "card": "OP01-006",
+    "name": "Otama"
+  },
+  "log1-077": {
+    "player": "momo",
+    "action": "Otama: Give",
+    "target": "OP01-006",
+    "affected": "ST18-004",
+    "affected_name": "Zorojuro",
+    "power_change": -2000
+  },
+  "log1-078": {
+    "player": "momo",
+    "action": "attacking",
+    "attacker": "OP01-001",
+    "attacker_name": "Roronoa Zoro",
+    "defender": "ST18-004",
+    "defender_name": "Zorojuro",
     "attacker_power": 7000,
-    "defender_power": 8000
+    "defender_power": 4000,
+    "result": "Attack Fails"
   },
-  {
+  "log1-079": {
     "player": "momo",
-    "action": "Attack Fails"
+    "action": "Deploy",
+    "card": "OP01-013",
+    "name": "Sanji"
   },
-  {
-    "player": "momo",
-    "action": "Deploy Sanji",
-    "card": "OP01-013"
-  },
-  {
+  "log1-080": {
     "player": "momo",
     "action": "End Turn"
   },
-  {
+  "log1-081": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log1-082": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log1-083": {
     "player": "Mhcuber",
-    "action": "Deploy Sanji",
-    "card": "OP09-065"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Sanji: Give Sanji Rush",
-    "card": "OP09-065"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Sanji: Rest Sanji",
+    "action": "Deploy",
     "card": "OP09-065",
-    "target": "OP01-013"
+    "name": "Sanji"
   },
-  {
+  "log1-084": {
     "player": "Mhcuber",
-    "action": "Eustass 'Captain' Kid: Draw 1 Don",
-    "card": "OP05-074"
+    "action": "Sanji: Give",
+    "target": "OP09-065",
+    "effect": "Rush"
   },
-  {
+  "log1-085": {
     "player": "Mhcuber",
-    "action": "Attach 1 Don to Monkey D. Luffy",
+    "action": "Sanji: Rest",
+    "target": "OP09-065",
+    "affected": "OP01-013",
+    "affected_name": "Sanji"
+  },
+  "log1-086": {
+    "player": "Mhcuber",
+    "action": "Eustass 'Captain' Kid: Draw 1 Don"
+  },
+  "log1-087": {
+    "player": "Mhcuber",
+    "action": "Attach 1 Don to",
     "card": "OP05-060",
+    "name": "Monkey D. Luffy",
     "total_don": 1
   },
-  {
+  "log1-088": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Sanji",
+    "action": "attacking",
     "attacker": "OP05-060",
-    "defender": "OP01-013"
+    "attacker_name": "Monkey D. Luffy",
+    "defender": "OP01-013",
+    "defender_name": "Sanji"
   },
-  {
+  "log1-089": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Sanji",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "attacker_name": "Monkey D. Luffy",
+    "defender": "OP01-013",
+    "defender_name": "Sanji",
     "attacker_power": 6000,
     "defender_power": 3000
   },
-  {
+  "log1-090": {
     "player": "momo",
-    "action": "Sanji Destroyed",
-    "card": "OP01-013"
+    "action": "Destroyed",
+    "card": "OP01-013",
+    "name": "Sanji"
   },
-  {
+  "log1-091": {
     "player": "Mhcuber",
-    "action": "Sanji attacking Roronoa Zoro",
+    "action": "attacking",
     "attacker": "OP09-065",
-    "defender": "OP01-001"
+    "attacker_name": "Sanji",
+    "defender": "OP01-001",
+    "defender_name": "Roronoa Zoro"
   },
-  {
+  "log1-092": {
     "player": "Mhcuber",
-    "action": "Sanji vs Roronoa Zoro",
+    "action": "attacking",
+    "attacker": "OP09-065",
+    "attacker_name": "Sanji",
+    "defender": "OP01-001",
+    "defender_name": "Roronoa Zoro",
     "attacker_power": 7000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "momo",
-    "action": "Roronoa Zoro hit for 1 damage"
-  },
-  {
+  "log1-093": {
     "player": "Mhcuber",
-    "action": "Attach 1 Don to Zorojuro",
+    "action": "Attach 1 Don to",
     "card": "ST18-004",
+    "name": "Zorojuro",
     "total_don": 1
   },
-  {
+  "log1-094": {
     "player": "Mhcuber",
-    "action": "Zorojuro attacking Roronoa Zoro",
+    "action": "attacking",
     "attacker": "ST18-004",
-    "defender": "OP01-001"
+    "attacker_name": "Zorojuro",
+    "defender": "OP01-001",
+    "defender_name": "Roronoa Zoro"
   },
-  {
+  "log1-095": {
     "player": "Mhcuber",
-    "action": "Zorojuro vs Roronoa Zoro",
+    "action": "attacking",
+    "attacker": "ST18-004",
+    "attacker_name": "Zorojuro",
+    "defender": "OP01-001",
+    "defender_name": "Roronoa Zoro",
     "attacker_power": 7000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "momo",
-    "action": "Roronoa Zoro hit for 1 damage"
-  },
-  {
+  "log1-096": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log1-097": {
     "player": "momo",
     "action": "Draw 1 Card"
   },
-  {
+  "log1-098": {
     "player": "momo",
     "action": "Draw 2 Don"
   },
-  {
+  "log1-099": {
     "player": "momo",
-    "action": "Attach 1 Don to Roronoa Zoro",
+    "action": "Attach 1 Don to",
     "card": "OP01-001",
+    "name": "Roronoa Zoro",
     "total_don": 1
   },
-  {
+  "log1-100": {
     "player": "momo",
-    "action": "Attach 1 Don to Monkey D. Garp",
+    "action": "Attach 1 Don to",
     "card": "OP03-014",
+    "name": "Monkey D. Garp",
     "total_don": 1
   },
-  {
+  "log1-101": {
     "player": "momo",
-    "action": "Attach 1 Don to Monkey D. Garp",
+    "action": "Attach 1 Don to",
     "card": "OP03-014",
+    "name": "Monkey D. Garp",
     "total_don": 2
   },
-  {
+  "log1-102": {
     "player": "momo",
-    "action": "Monkey D. Garp attacking Zorojuro",
+    "action": "attacking",
     "attacker": "OP03-014",
-    "defender": "ST18-004"
+    "attacker_name": "Monkey D. Garp",
+    "defender": "ST18-004",
+    "defender_name": "Zorojuro"
   },
-  {
+  "log1-103": {
     "player": "momo",
-    "action": "Monkey D. Garp: Deploy Otama",
-    "card": "OP03-014",
-    "target": "OP01-006"
-  },
-  {
-    "player": "momo",
-    "action": "Otama: Give Zorojuro -2000",
+    "action": "Monkey D. Garp: Deploy",
+    "target": "OP03-014",
     "card": "OP01-006",
-    "target": "ST18-004"
+    "name": "Otama"
   },
-  {
+  "log1-104": {
     "player": "momo",
-    "action": "Monkey D. Garp vs Zorojuro",
+    "action": "Otama: Give",
+    "target": "OP01-006",
+    "affected": "ST18-004",
+    "affected_name": "Zorojuro",
+    "power_change": -2000
+  },
+  "log1-105": {
+    "player": "momo",
+    "action": "attacking",
+    "attacker": "OP03-014",
+    "attacker_name": "Monkey D. Garp",
+    "defender": "ST18-004",
+    "defender_name": "Zorojuro",
     "attacker_power": 8000,
     "defender_power": 4000
   },
-  {
+  "log1-106": {
     "player": "Mhcuber",
-    "action": "Zorojuro Destroyed",
-    "card": "ST18-004"
+    "action": "Destroyed",
+    "card": "ST18-004",
+    "name": "Zorojuro"
   },
-  {
+  "log1-107": {
     "player": "momo",
-    "action": "Deploy Otama",
-    "card": "OP01-006"
-  },
-  {
-    "player": "momo",
-    "action": "Otama: Give Sanji -2000",
+    "action": "Deploy",
     "card": "OP01-006",
-    "target": "OP09-065"
+    "name": "Otama"
   },
-  {
+  "log1-108": {
     "player": "momo",
-    "action": "Attach 1 Don to Roronoa Zoro",
+    "action": "Otama: Give",
+    "target": "OP01-006",
+    "affected": "OP09-065",
+    "affected_name": "Sanji",
+    "power_change": -2000
+  },
+  "log1-109": {
+    "player": "momo",
+    "action": "Attach 1 Don to",
     "card": "OP01-001",
+    "name": "Roronoa Zoro",
     "total_don": 2
   },
-  {
+  "log1-110": {
     "player": "momo",
-    "action": "Attach 1 Don to Roronoa Zoro",
+    "action": "Attach 1 Don to",
     "card": "OP01-001",
+    "name": "Roronoa Zoro",
     "total_don": 3
   },
-  {
+  "log1-111": {
     "player": "momo",
-    "action": "Attach 1 Don to Roronoa Zoro",
+    "action": "Attach 1 Don to",
     "card": "OP01-001",
+    "name": "Roronoa Zoro",
     "total_don": 4
   },
-  {
+  "log1-112": {
     "player": "momo",
-    "action": "Roronoa Zoro attacking Sanji",
+    "action": "attacking",
     "attacker": "OP01-001",
-    "defender": "OP09-065"
+    "attacker_name": "Roronoa Zoro",
+    "defender": "OP09-065",
+    "defender_name": "Sanji"
   },
-  {
+  "log1-113": {
     "player": "Mhcuber",
-    "action": "Eustass 'Captain' Kid Blocks",
-    "blocker": "OP05-074"
+    "action": "Blocks",
+    "blocker": "OP05-074",
+    "blocker_name": "Eustass 'Captain' Kid"
   },
-  {
+  "log1-114": {
     "player": "Mhcuber",
-    "action": "Gum Gum Giant: Trash Luffy-tarou",
-    "card": "OP09-078",
-    "target": "ST18-005"
+    "action": "Gum Gum Giant: Trash",
+    "target": "OP09-078",
+    "cost_card": "ST18-005",
+    "cost_card_name": "Luffy-tarou"
   },
-  {
+  "log1-115": {
     "player": "Mhcuber",
-    "action": "Gum Gum Giant: Buff Eustass 'Captain' Kid 4000 for the Combat",
-    "card": "OP09-078",
-    "target": "OP05-074",
-    "power_change": 4000
+    "action": "Gum Gum Giant: Buff",
+    "target": "OP09-078",
+    "affected": "OP05-074",
+    "affected_name": "Eustass 'Captain' Kid",
+    "power_change": 4000,
+    "for_combat": true
   },
-  {
+  "log1-116": {
     "player": "Mhcuber",
     "action": "Gum Gum Giant: Draw 2 Card",
-    "card": "OP09-078"
+    "target": "OP09-078"
   },
-  {
+  "log1-117": {
     "player": "momo",
-    "action": "Roronoa Zoro vs Eustass 'Captain' Kid",
+    "action": "attacking",
+    "attacker": "OP01-001",
+    "attacker_name": "Roronoa Zoro",
+    "defender": "OP05-074",
+    "defender_name": "Eustass 'Captain' Kid",
     "attacker_power": 9000,
-    "defender_power": 10000
+    "defender_power": 10000,
+    "result": "Attack Fails"
   },
-  {
-    "player": "momo",
-    "action": "Attack Fails"
-  },
-  {
+  "log1-118": {
     "player": "momo",
     "action": "End Turn"
   },
-  {
+  "log1-119": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log1-120": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log1-121": {
     "player": "Mhcuber",
-    "action": "Deploy Monkey D. Luffy",
-    "card": "OP09-119"
+    "action": "Deploy",
+    "card": "OP09-119",
+    "name": "Monkey D. Luffy"
   },
-  {
+  "log1-122": {
     "player": "Mhcuber",
     "action": "Monkey D. Luffy: Draw 1 Card",
-    "card": "OP09-119"
+    "target": "OP09-119"
   },
-  {
+  "log1-123": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy: Give Monkey D. Luffy Rush",
-    "card": "OP09-119"
+    "action": "Monkey D. Luffy: Give",
+    "target": "OP09-119",
+    "effect": "Rush"
   },
-  {
+  "log1-124": {
     "player": "Mhcuber",
-    "action": "Eustass 'Captain' Kid: Draw 1 Don",
-    "card": "OP05-074"
+    "action": "Eustass 'Captain' Kid: Draw 1 Don"
   },
-  {
+  "log1-125": {
     "player": "Mhcuber",
-    "action": "Sanji attacking Roronoa Zoro",
+    "action": "attacking",
     "attacker": "OP09-065",
-    "defender": "OP01-001"
+    "attacker_name": "Sanji",
+    "defender": "OP01-001",
+    "defender_name": "Roronoa Zoro"
   },
-  {
+  "log1-126": {
     "player": "momo",
-    "action": "Gum Gum Red Hawk: Counter 4000",
-    "card": "OP01-026"
+    "action": "Gum Gum Red Hawk: Counter",
+    "target": "OP01-026",
+    "counter": 4000
   },
-  {
+  "log1-127": {
     "player": "Mhcuber",
-    "action": "Sanji vs Roronoa Zoro",
+    "action": "attacking",
+    "attacker": "OP09-065",
+    "attacker_name": "Sanji",
+    "defender": "OP01-001",
+    "defender_name": "Roronoa Zoro",
     "attacker_power": 7000,
-    "defender_power": 9000
+    "defender_power": 9000,
+    "result": "Attack Fails"
   },
-  {
+  "log1-128": {
     "player": "Mhcuber",
-    "action": "Attack Fails"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Roronoa Zoro",
+    "action": "attacking",
     "attacker": "OP09-119",
-    "defender": "OP01-001"
+    "attacker_name": "Monkey D. Luffy",
+    "defender": "OP01-001",
+    "defender_name": "Roronoa Zoro"
   },
-  {
+  "log1-129": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Roronoa Zoro",
+    "action": "attacking",
+    "attacker": "OP09-119",
+    "attacker_name": "Monkey D. Luffy",
+    "defender": "OP01-001",
+    "defender_name": "Roronoa Zoro",
     "attacker_power": 10000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "momo",
-    "action": "Roronoa Zoro hit for 1 damage"
-  },
-  {
+  "log1-130": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Monkey D. Garp",
+    "action": "attacking",
     "attacker": "OP05-060",
-    "defender": "OP03-014"
+    "attacker_name": "Monkey D. Luffy",
+    "defender": "OP03-014",
+    "defender_name": "Monkey D. Garp"
   },
-  {
+  "log1-131": {
     "player": "momo",
-    "action": "Discard Dogura for Counter 1000",
-    "card": "OP02-010"
+    "action": "Discard for Counter",
+    "card": "OP02-010",
+    "name": "Dogura",
+    "counter": 1000
   },
-  {
+  "log1-132": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Monkey D. Garp",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "attacker_name": "Monkey D. Luffy",
+    "defender": "OP03-014",
+    "defender_name": "Monkey D. Garp",
     "attacker_power": 5000,
-    "defender_power": 6000
+    "defender_power": 6000,
+    "result": "Attack Fails"
   },
-  {
-    "player": "Mhcuber",
-    "action": "Attack Fails"
-  },
-  {
+  "log1-133": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log1-134": {
     "player": "momo",
     "action": "Draw 1 Card"
   },
-  {
+  "log1-135": {
     "player": "momo",
     "action": "Draw 2 Don"
   },
-  {
+  "log1-136": {
     "player": "momo",
-    "action": "Deploy Monkey D. Luffy",
-    "card": "ST10-006"
-  },
-  {
-    "player": "momo",
-    "action": "Monkey D. Luffy attacking Sanji",
-    "attacker": "ST10-006",
-    "defender": "OP09-065"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Eustass 'Captain' Kid Blocks",
-    "blocker": "OP05-074"
-  },
-  {
-    "player": "momo",
-    "action": "Monkey D. Luffy: Destroy Sanji",
+    "action": "Deploy",
     "card": "ST10-006",
-    "target": "OP09-065"
+    "name": "Monkey D. Luffy"
   },
-  {
+  "log1-137": {
     "player": "momo",
-    "action": "Monkey D. Luffy vs Eustass 'Captain' Kid",
+    "action": "attacking",
+    "attacker": "ST10-006",
+    "attacker_name": "Monkey D. Luffy",
+    "defender": "OP09-065",
+    "defender_name": "Sanji"
+  },
+  "log1-138": {
+    "player": "Mhcuber",
+    "action": "Blocks",
+    "blocker": "OP05-074",
+    "blocker_name": "Eustass 'Captain' Kid"
+  },
+  "log1-139": {
+    "player": "momo",
+    "action": "Monkey D. Luffy: Destroy",
+    "target": "ST10-006",
+    "affected": "OP09-065",
+    "affected_name": "Sanji"
+  },
+  "log1-140": {
+    "player": "momo",
+    "action": "attacking",
+    "attacker": "ST10-006",
+    "attacker_name": "Monkey D. Luffy",
+    "defender": "OP05-074",
+    "defender_name": "Eustass 'Captain' Kid",
     "attacker_power": 11000,
     "defender_power": 6000
   },
-  {
+  "log1-141": {
     "player": "Mhcuber",
-    "action": "Eustass 'Captain' Kid Destroyed",
-    "card": "OP05-074"
+    "action": "Destroyed",
+    "card": "OP05-074",
+    "name": "Eustass 'Captain' Kid"
   },
-  {
+  "log1-142": {
     "player": "momo",
-    "action": "Monkey D. Garp attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP03-014",
-    "defender": "OP05-060"
+    "attacker_name": "Monkey D. Garp",
+    "defender": "OP05-060",
+    "defender_name": "Monkey D. Luffy"
   },
-  {
+  "log1-143": {
     "player": "Mhcuber",
-    "action": "Discard Eustass 'Captain' Kid for Counter 1000",
-    "card": "OP05-074"
+    "action": "Discard for Counter",
+    "card": "OP05-074",
+    "name": "Eustass 'Captain' Kid",
+    "counter": 1000
   },
-  {
+  "log1-144": {
     "player": "momo",
-    "action": "Monkey D. Garp vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP03-014",
+    "attacker_name": "Monkey D. Garp",
+    "defender": "OP05-060",
+    "defender_name": "Monkey D. Luffy",
     "attacker_power": 5000,
-    "defender_power": 6000
+    "defender_power": 6000,
+    "result": "Attack Fails"
   },
-  {
+  "log1-145": {
     "player": "momo",
-    "action": "Attack Fails"
-  },
-  {
-    "player": "momo",
-    "action": "Roronoa Zoro attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP01-001",
-    "defender": "OP05-060"
+    "attacker_name": "Roronoa Zoro",
+    "defender": "OP05-060",
+    "defender_name": "Monkey D. Luffy"
   },
-  {
+  "log1-146": {
     "player": "momo",
-    "action": "Roronoa Zoro vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP01-001",
+    "attacker_name": "Roronoa Zoro",
+    "defender": "OP05-060",
+    "defender_name": "Monkey D. Luffy",
     "attacker_power": 5000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "Mhcuber",
-    "action": "Monkey D. Luffy hit for 1 damage"
-  },
-  {
+  "log1-147": {
     "player": "momo",
     "action": "End Turn"
   },
-  {
+  "log1-148": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log1-149": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log1-150": {
     "player": "Mhcuber",
-    "action": "Deploy Sanji",
-    "card": "OP09-065"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Sanji: Give Sanji Rush",
-    "card": "OP09-065"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Sanji: Rest Nami",
+    "action": "Deploy",
     "card": "OP09-065",
-    "target": "OP01-016"
+    "name": "Sanji"
   },
-  {
+  "log1-151": {
     "player": "Mhcuber",
-    "action": "Attach 2 Don to Monkey D. Luffy",
+    "action": "Sanji: Give",
+    "target": "OP09-065",
+    "effect": "Rush"
+  },
+  "log1-152": {
+    "player": "Mhcuber",
+    "action": "Sanji: Rest",
+    "target": "OP09-065",
+    "affected": "OP01-016",
+    "affected_name": "Nami"
+  },
+  "log1-153": {
+    "player": "Mhcuber",
+    "action": "Attach 2 Don to",
     "card": "OP05-060",
+    "name": "Monkey D. Luffy",
     "total_don": 2
   },
-  {
+  "log1-154": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Roronoa Zoro",
+    "action": "attacking",
     "attacker": "OP05-060",
-    "defender": "OP01-001"
+    "attacker_name": "Monkey D. Luffy",
+    "defender": "OP01-001",
+    "defender_name": "Roronoa Zoro"
   },
-  {
+  "log1-155": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Roronoa Zoro",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "attacker_name": "Monkey D. Luffy",
+    "defender": "OP01-001",
+    "defender_name": "Roronoa Zoro",
     "attacker_power": 7000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "momo",
-    "action": "Roronoa Zoro hit for 1 damage"
-  },
-  {
+  "log1-156": {
     "player": "Mhcuber",
     "action": "Loses 1 Life"
   },
-  {
+  "log1-157": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy: Draw 1 Don",
-    "card": "OP05-060"
+    "action": "Monkey D. Luffy: Draw 1 Don"
   },
-  {
+  "log1-158": {
     "player": "Mhcuber",
-    "action": "Attach 2 Don to Sanji",
+    "action": "Attach 2 Don to",
     "card": "OP09-065",
+    "name": "Sanji",
     "total_don": 2
   },
-  {
+  "log1-159": {
     "player": "Mhcuber",
-    "action": "Sanji attacking Roronoa Zoro",
+    "action": "attacking",
     "attacker": "OP09-065",
-    "defender": "OP01-001"
+    "attacker_name": "Sanji",
+    "defender": "OP01-001",
+    "defender_name": "Roronoa Zoro"
   },
-  {
+  "log1-160": {
     "player": "momo",
     "action": "Concedes!"
   },
-  {
+  "log1-161": {
     "player": "momo",
     "action": "Loses"
   },
-  {
+  "log1-162": {
     "player": "Mhcuber",
     "action": "Wins!"
   }
-]
+}

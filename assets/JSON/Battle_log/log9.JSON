@@ -1,845 +1,900 @@
-[
-  {
+{
+  "log9-003": {
     "player": "BigPapaCuddles2",
     "action": "Leader is Marshall D. Teach",
     "card": "OP09-081"
   },
-  {
-    "player": "Mhcuber",
-    "action": "Has Connected"
-  },
-  {
+  "log9-006": {
     "player": "Mhcuber",
     "action": "Leader is Monkey D. Luffy",
     "card": "OP05-060"
   },
-  {
+  "log9-007": {
     "player": "BigPapaCuddles2",
     "action": "Chose to go First"
   },
-  {
+  "log9-008": {
     "player": "BigPapaCuddles2",
     "action": "Mulligan"
   },
-  {
+  "log9-009": {
     "player": "BigPapaCuddles2",
     "action": "Draw 1 Don"
   },
-  {
+  "log9-010": {
     "player": "BigPapaCuddles2",
     "action": "End Turn"
   },
-  {
+  "log9-011": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log9-012": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log9-013": {
     "player": "Mhcuber",
-    "action": "Deploy Trafalgar Law",
-    "card": "OP09-069"
+    "action": "Deploy",
+    "card": "OP09-069",
+    "name": "Trafalgar Law"
   },
-  {
+  "log9-014": {
     "player": "Mhcuber",
-    "action": "Reveal and Draw Sanji",
-    "card": "OP09-065"
+    "action": "Reveal and Draw",
+    "card": "OP09-065",
+    "name": "Sanji"
   },
-  {
+  "log9-015": {
     "player": "Mhcuber",
     "action": "Placing Cards on Bottom of Deck"
   },
-  {
+  "log9-016": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log9-017": {
     "player": "BigPapaCuddles2",
     "action": "Draw 1 Card"
   },
-  {
+  "log9-018": {
     "player": "BigPapaCuddles2",
     "action": "Draw 2 Don"
   },
-  {
+  "log9-019": {
     "player": "BigPapaCuddles2",
-    "action": "Attach 3 Don to Marshall D. Teach",
+    "action": "Attach 3 Don to",
     "card": "OP09-081",
+    "name": "Marshall D. Teach",
     "total_don": 3
   },
-  {
+  "log9-020": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP09-081",
     "defender": "OP05-060"
   },
-  {
+  "log9-021": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP09-081",
+    "defender": "OP05-060",
     "attacker_power": 8000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "BigPapaCuddles2",
-    "action": "Monkey D. Luffy hit for 1 damage"
-  },
-  {
+  "log9-022": {
     "player": "BigPapaCuddles2",
     "action": "End Turn"
   },
-  {
+  "log9-023": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log9-024": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log9-025": {
     "player": "Mhcuber",
     "action": "Loses 1 Life"
   },
-  {
+  "log9-026": {
     "player": "Mhcuber",
     "action": "Monkey D. Luffy: Draw 1 Don",
-    "card": "OP05-060"
+    "target": "OP05-060"
   },
-  {
+  "log9-027": {
     "player": "Mhcuber",
-    "action": "Deploy Eustass 'Captain' Kid",
-    "card": "OP05-074"
+    "action": "Deploy",
+    "card": "OP05-074",
+    "name": "Eustass 'Captain' Kid"
   },
-  {
+  "log9-028": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Marshall D. Teach",
+    "action": "attacking",
     "attacker": "OP05-060",
     "defender": "OP09-081"
   },
-  {
+  "log9-029": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Marshall D. Teach",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP09-081",
     "attacker_power": 5000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "Mhcuber",
-    "action": "Marshall D. Teach hit for 1 damage"
-  },
-  {
+  "log9-030": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log9-031": {
     "player": "BigPapaCuddles2",
     "action": "Draw 1 Card"
   },
-  {
+  "log9-032": {
     "player": "BigPapaCuddles2",
     "action": "Draw 2 Don"
   },
-  {
+  "log9-033": {
     "player": "BigPapaCuddles2",
     "action": "Shigan (Finger Gun): Trash 2 Cards from Deck",
-    "card": "EB01-051"
+    "target": "EB01-051"
   },
-  {
+  "log9-034": {
     "player": "BigPapaCuddles2",
-    "action": "Shigan (Finger Gun): Destroy Eustass 'Captain' Kid",
-    "card": "EB01-051",
-    "target": "OP05-074"
+    "action": "Shigan (Finger Gun): Destroy",
+    "target": "EB01-051",
+    "affected": "OP05-074",
+    "affected_name": "Eustass 'Captain' Kid"
   },
-  {
+  "log9-035": {
     "player": "BigPapaCuddles2",
-    "action": "Attach 1 Don to Marshall D. Teach",
+    "action": "Attach 1 Don to",
     "card": "OP09-081",
+    "name": "Marshall D. Teach",
     "total_don": 1
   },
-  {
+  "log9-036": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP09-081",
     "defender": "OP05-060"
   },
-  {
+  "log9-037": {
     "player": "Mhcuber",
-    "action": "Discard Hitokiri Kamazo for Counter 2000",
-    "card": "OP06-076"
+    "action": "Discard for Counter",
+    "card": "OP06-076",
+    "name": "Hitokiri Kamazo",
+    "counter": 2000
   },
-  {
+  "log9-038": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP09-081",
+    "defender": "OP05-060",
     "attacker_power": 6000,
-    "defender_power": 7000
+    "defender_power": 7000,
+    "result": "Attack Fails"
   },
-  {
+  "log9-039": {
     "player": "BigPapaCuddles2",
-    "action": "Attack Fails"
+    "action": "Marshall D. Teach: Trash",
+    "target": "OP09-081",
+    "cost_card": "OP09-086",
+    "cost_card_name": "Jesus Burgess"
   },
-  {
+  "log9-040": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach: Trash Jesus Burgess",
-    "card": "OP09-081",
-    "target": "OP09-086"
+    "action": "Marshall D. Teach: Opponent can't activate On Play abilities next turn!",
+    "target": "OP09-081"
   },
-  {
-    "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach: Opponent can't activate On Play abilities next turn!"
-  },
-  {
+  "log9-041": {
     "player": "BigPapaCuddles2",
     "action": "End Turn"
   },
-  {
+  "log9-042": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log9-043": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log9-044": {
     "player": "Mhcuber",
-    "action": "Deploy Sanji",
-    "card": "OP09-065"
+    "action": "Deploy",
+    "card": "OP09-065",
+    "name": "Sanji"
   },
-  {
+  "log9-045": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Marshall D. Teach",
+    "action": "attacking",
     "attacker": "OP05-060",
     "defender": "OP09-081"
   },
-  {
+  "log9-046": {
     "player": "BigPapaCuddles2",
-    "action": "Discard Catarina Devon for Counter 1000",
-    "card": "OP09-084"
+    "action": "Discard for Counter",
+    "card": "OP09-084",
+    "name": "Catarina Devon",
+    "counter": 1000
   },
-  {
+  "log9-047": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Marshall D. Teach",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP09-081",
     "attacker_power": 5000,
-    "defender_power": 6000
+    "defender_power": 6000,
+    "result": "Attack Fails"
   },
-  {
-    "player": "Mhcuber",
-    "action": "Attack Fails"
-  },
-  {
+  "log9-048": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log9-049": {
     "player": "BigPapaCuddles2",
     "action": "Draw 1 Card"
   },
-  {
+  "log9-050": {
     "player": "BigPapaCuddles2",
     "action": "Draw 2 Don"
   },
-  {
+  "log9-051": {
     "player": "BigPapaCuddles2",
-    "action": "Deploy Kuzan",
-    "card": "OP10-082"
-  },
-  {
-    "player": "BigPapaCuddles2",
-    "action": "Kuzan: Trash Kuzan",
+    "action": "Deploy",
     "card": "OP10-082",
-    "target": "OP10-082"
+    "name": "Kuzan"
   },
-  {
+  "log9-052": {
+    "player": "BigPapaCuddles2",
+    "action": "Kuzan: Trash",
+    "target": "OP10-082",
+    "cost_card": "OP10-082",
+    "cost_card_name": "Kuzan"
+  },
+  "log9-053": {
     "player": "BigPapaCuddles2",
     "action": "Kuzan: Draw 1 Card",
-    "card": "OP10-082"
+    "target": "OP10-082"
   },
-  {
+  "log9-054": {
     "player": "BigPapaCuddles2",
-    "action": "Kuzan: Deployed Jesus Burgess from Trash",
-    "card": "OP10-082",
-    "target": "OP09-086"
+    "action": "Kuzan: Deployed from Trash",
+    "target": "OP10-082",
+    "deployed": "OP09-086",
+    "deployed_name": "Jesus Burgess"
   },
-  {
+  "log9-055": {
     "player": "BigPapaCuddles2",
-    "action": "Attach 2 Don to Marshall D. Teach",
+    "action": "Attach 2 Don to",
     "card": "OP09-081",
+    "name": "Marshall D. Teach",
     "total_don": 2
   },
-  {
+  "log9-056": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP09-081",
     "defender": "OP05-060"
   },
-  {
+  "log9-057": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP09-081",
+    "defender": "OP05-060",
     "attacker_power": 7000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
+  "log9-058": {
     "player": "BigPapaCuddles2",
-    "action": "Monkey D. Luffy hit for 1 damage"
+    "action": "Marshall D. Teach: Trash",
+    "target": "OP09-081",
+    "cost_card": "OP09-083",
+    "cost_card_name": "Van Augur"
   },
-  {
+  "log9-059": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach: Trash Van Augur",
-    "card": "OP09-081",
-    "target": "OP09-083"
+    "action": "Marshall D. Teach: Opponent can't activate On Play abilities next turn!",
+    "target": "OP09-081"
   },
-  {
-    "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach: Opponent can't activate On Play abilities next turn!"
-  },
-  {
+  "log9-060": {
     "player": "BigPapaCuddles2",
     "action": "End Turn"
   },
-  {
+  "log9-061": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log9-062": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log9-063": {
     "player": "Mhcuber",
-    "action": "Deploy Usohachi",
-    "card": "ST18-001"
+    "action": "Deploy",
+    "card": "ST18-001",
+    "name": "Usohachi"
   },
-  {
+  "log9-064": {
     "player": "Mhcuber",
-    "action": "Attach 3 Don to Monkey D. Luffy",
+    "action": "Attach 3 Don to",
     "card": "OP05-060",
+    "name": "Monkey D. Luffy",
     "total_don": 3
   },
-  {
+  "log9-065": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Marshall D. Teach",
+    "action": "attacking",
     "attacker": "OP05-060",
     "defender": "OP09-081"
   },
-  {
+  "log9-066": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Marshall D. Teach",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP09-081",
     "attacker_power": 8000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
+  "log9-067": {
     "player": "Mhcuber",
-    "action": "Marshall D. Teach hit for 1 damage"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Attach 2 Don to Sanji",
+    "action": "Attach 2 Don to",
     "card": "OP09-065",
+    "name": "Sanji",
     "total_don": 2
   },
-  {
+  "log9-068": {
     "player": "Mhcuber",
-    "action": "Sanji attacking Marshall D. Teach",
+    "action": "attacking",
     "attacker": "OP09-065",
     "defender": "OP09-081"
   },
-  {
+  "log9-069": {
     "player": "Mhcuber",
-    "action": "Sanji vs Marshall D. Teach",
+    "action": "attacking",
+    "attacker": "OP09-065",
+    "defender": "OP09-081",
     "attacker_power": 9000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "Mhcuber",
-    "action": "Marshall D. Teach hit for 1 damage"
-  },
-  {
+  "log9-070": {
     "player": "BigPapaCuddles2",
     "action": "Shigan (Finger Gun): Trash 2 Cards from Deck",
-    "card": "EB01-051"
+    "target": "EB01-051"
   },
-  {
+  "log9-071": {
     "player": "BigPapaCuddles2",
-    "action": "Shigan (Finger Gun): Destroy Usohachi",
-    "card": "EB01-051",
-    "target": "ST18-001"
+    "action": "Shigan (Finger Gun): Destroy",
+    "target": "EB01-051",
+    "affected": "ST18-001",
+    "affected_name": "Usohachi"
   },
-  {
+  "log9-072": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log9-073": {
     "player": "BigPapaCuddles2",
     "action": "Draw 1 Card"
   },
-  {
+  "log9-074": {
     "player": "BigPapaCuddles2",
     "action": "Draw 2 Don"
   },
-  {
+  "log9-075": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach attacking Monkey D. Luffy",
+    "action":"attacking",
     "attacker": "OP09-081",
     "defender": "OP05-060"
   },
-  {
+  "log9-076": {
     "player": "Mhcuber",
-    "action": "Discard Onami for Counter 1000",
-    "card": "ST18-002"
+    "action": "Discard for Counter",
+    "card": "ST18-002",
+    "name": "Onami",
+    "counter": 1000
   },
-  {
+  "log9-077": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP09-081",
+    "defender": "OP05-060",
     "attacker_power": 5000,
-    "defender_power": 6000
+    "defender_power": 6000,
+    "result": "Attack Fails"
   },
-  {
+  "log9-078": {
     "player": "BigPapaCuddles2",
-    "action": "Attack Fails"
+    "action": "Reveal and Draw",
+    "card": "OP10-082",
+    "name": "Kuzan"
   },
-  {
-    "player": "BigPapaCuddles2",
-    "action": "Reveal and Draw Kuzan",
-    "card": "OP10-082"
-  },
-  {
+  "log9-079": {
     "player": "BigPapaCuddles2",
     "action": "This is MY AGE!!!!: Trash 2 Remaining Cards",
-    "card": "OP09-096"
+    "target": "OP09-096"
   },
-  {
+  "log9-080": {
     "player": "BigPapaCuddles2",
-    "action": "Attach 3 Don to Jesus Burgess",
+    "action": "Attach 3 Don to",
     "card": "OP09-086",
+    "name": "Jesus Burgess",
     "total_don": 3
   },
-  {
+  "log9-081": {
     "player": "BigPapaCuddles2",
-    "action": "Jesus Burgess attacking Sanji",
+    "action": "attacking",
     "attacker": "OP09-086",
     "defender": "OP09-065"
   },
-  {
+  "log9-082": {
     "player": "Mhcuber",
-    "action": "Gum Gum Giant: Trash Zorojuro",
-    "card": "OP09-078",
-    "target": "ST18-004"
+    "action": "Gum Gum Giant: Trash",
+    "target": "OP09-078",
+    "cost_card": "ST18-004",
+    "cost_card_name": "Zorojuro"
   },
-  {
+  "log9-083": {
     "player": "Mhcuber",
-    "action": "Gum Gum Giant: Buff Sanji 4000 for the Combat",
-    "card": "OP09-078"
+    "action": "Gum Gum Giant: Buff for the Combat",
+    "target": "OP09-078",
+    "affected": "OP09-065",
+    "affected_name": "Sanji",
+    "power_change": 4000
   },
-  {
+  "log9-084": {
     "player": "Mhcuber",
     "action": "Gum Gum Giant: Draw 2 Card",
-    "card": "OP09-078"
+    "target": "OP09-078"
   },
-  {
+  "log9-085": {
     "player": "Mhcuber",
-    "action": "Discard Trafalgar Law for Counter 1000",
-    "card": "OP09-069"
+    "action": "Discard for Counter",
+    "card": "OP09-069",
+    "name": "Trafalgar Law",
+    "counter": 1000
   },
-  {
+  "log9-086": {
     "player": "BigPapaCuddles2",
-    "action": "Jesus Burgess vs Sanji",
+    "action": "attacking",
+    "attacker": "OP09-086",
+    "defender": "OP09-065",
     "attacker_power": 11000,
-    "defender_power": 12000
+    "defender_power": 12000,
+    "result": "Attack Fails"
   },
-  {
+  "log9-087": {
     "player": "BigPapaCuddles2",
-    "action": "Attack Fails"
-  },
-  {
-    "player": "BigPapaCuddles2",
-    "action": "Deploy Kuzan",
-    "card": "OP10-082"
-  },
-  {
-"player": "BigPapaCuddles2",
-    "action": "Kuzan: Trash Kuzan",
+    "action": "Deploy",
     "card": "OP10-082",
-    "target": "OP10-082"
+    "name": "Kuzan"
   },
-  {
+  "log9-088": {
+    "player": "BigPapaCuddles2",
+    "action": "Kuzan: Trash",
+    "target": "OP10-082",
+    "cost_card": "OP10-082",
+    "cost_card_name": "Kuzan"
+  },
+  "log9-089": {
     "player": "BigPapaCuddles2",
     "action": "Kuzan: Draw 1 Card",
-    "card": "OP10-082"
+    "target": "OP10-082"
   },
-  {
+  "log9-090": {
     "player": "BigPapaCuddles2",
-    "action": "Kuzan: Deployed Catarina Devon from Trash",
-    "card": "OP10-082",
+    "action": "Kuzan: Deployed from Trash",
+    "target": "OP10-082",
+    "deployed": "OP09-084",
+    "deployed_name": "Catarina Devon"
+  },
+  "log9-091": {
+    "player": "BigPapaCuddles2",
+    "action": "Catarina Devon: Gains Blocker",
     "target": "OP09-084"
   },
-  {
+  "log9-092": {
     "player": "BigPapaCuddles2",
-    "action": "Catarina Devon: Catarina Devon Gains Blocker",
-    "card": "OP09-084"
+    "action": "Marshall D. Teach: Trash",
+    "target": "OP09-081",
+    "cost_card": "OP10-098",
+    "cost_card_name": "Liberation"
   },
-  {
+  "log9-093": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach: Trash Liberation",
-    "card": "OP09-081",
-    "target": "OP10-098"
+    "action": "Marshall D. Teach: Opponent can't activate On Play abilities next turn!",
+    "target": "OP09-081"
   },
-  {
-    "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach: Opponent can't activate On Play abilities next turn!"
-  },
-  {
+  "log9-094": {
     "player": "BigPapaCuddles2",
     "action": "End Turn"
   },
-  {
+  "log9-095": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log9-096": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log9-097": {
     "player": "Mhcuber",
-    "action": "Attach 5 Don to Monkey D. Luffy",
+    "action": "Attach 5 Don to",
     "card": "OP05-060",
+    "name": "Monkey D. Luffy",
     "total_don": 5
   },
-  {
+  "log9-098": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Jesus Burgess",
+    "action": "attacking",
     "attacker": "OP05-060",
     "defender": "OP09-086"
   },
-  {
+  "log9-099": {
     "player": "BigPapaCuddles2",
-    "action": "Discard Stronger for Counter 2000",
-    "card": "OP09-089"
+    "action": "Discard for Counter",
+    "card": "OP09-089",
+    "name": "Stronger",
+    "counter": 2000
   },
-  {
+  "log9-100": {
     "player": "BigPapaCuddles2",
-    "action": "Discard Van Augur for Counter 1000",
-    "card": "OP09-083"
+    "action": "Discard for Counter",
+    "card": "OP09-083",
+    "name": "Van Augur",
+    "counter": 1000
   },
-  {
+  "log9-101": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Jesus Burgess",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP09-086",
     "attacker_power": 10000,
-    "defender_power": 11000
+    "defender_power": 11000,
+    "result": "Attack Fails"
   },
-  {
+  "log9-102": {
     "player": "Mhcuber",
-    "action": "Attack Fails"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Attach 3 Don to Sanji",
+    "action": "Attach 3 Don to",
     "card": "OP09-065",
+    "name": "Sanji",
     "total_don": 3
   },
-  {
+  "log9-103": {
     "player": "Mhcuber",
-    "action": "Sanji attacking Jesus Burgess",
+    "action": "attacking",
     "attacker": "OP09-065",
     "defender": "OP09-086"
   },
-  {
+  "log9-104": {
     "player": "BigPapaCuddles2",
-    "action": "Discard Stronger for Counter 2000",
-    "card": "OP09-089"
+    "action": "Discard for Counter",
+    "card": "OP09-089",
+    "name": "Stronger",
+    "counter": 2000
   },
-  {
+  "log9-105": {
     "player": "Mhcuber",
-    "action": "Sanji vs Jesus Burgess",
+    "action": "attacking",
+    "attacker": "OP09-065",
+    "defender": "OP09-086",
     "attacker_power": 10000,
-    "defender_power": 11000
+    "defender_power": 11000,
+    "result": "Attack Fails"
   },
-  {
-    "player": "Mhcuber",
-    "action": "Attack Fails"
-  },
-  {
+  "log9-106": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log9-107": {
     "player": "BigPapaCuddles2",
     "action": "Draw 1 Card"
   },
-  {
+  "log9-108": {
     "player": "BigPapaCuddles2",
     "action": "Draw 2 Don"
   },
-  {
+  "log9-109": {
     "player": "BigPapaCuddles2",
-    "action": "Deploy Marshall D. Teach",
-    "card": "OP09-093"
-  },
-  {
-    "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach: Nullify effects of Monkey D. Luffy",
+    "action": "Deploy",
     "card": "OP09-093",
-    "target": "OP05-060"
+    "name": "Marshall D. Teach"
   },
-  {
+  "log9-110": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach: Sanji can't attack next turn",
-    "card": "OP09-093",
-    "target": "OP09-065"
+    "action": "Marshall D. Teach: Nullify effects of",
+    "target": "OP09-093",
+    "affected": "OP05-060",
+    "affected_name": "Monkey D. Luffy"
   },
-  {
+  "log9-111": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach: Nullify effects of Sanji until next turn end!",
-    "card": "OP09-093",
-    "target": "OP09-065"
+    "action": "Marshall D. Teach: can't attack next turn",
+    "target": "OP09-093",
+    "affected": "OP09-065",
+    "affected_name": "Sanji"
   },
-  {
+  "log9-112": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach attacking Monkey D. Luffy",
+    "action": "Marshall D. Teach: Nullify effects of until next turn end!",
+    "target": "OP09-093",
+    "affected": "OP09-065",
+    "affected_name": "Sanji"
+  },
+  "log9-113": {
+    "player": "BigPapaCuddles2",
+    "action": "attacking",
     "attacker": "OP09-081",
     "defender": "OP05-060"
   },
-  {
+  "log9-114": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP09-081",
+    "defender": "OP05-060",
     "attacker_power": 5000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
+  "log9-115": {
     "player": "BigPapaCuddles2",
-    "action": "Monkey D. Luffy hit for 1 damage"
-  },
-  {
-    "player": "BigPapaCuddles2",
-    "action": "Jesus Burgess attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP09-086",
     "defender": "OP05-060"
   },
-  {
+  "log9-116": {
     "player": "Mhcuber",
-    "action": "Discard Franosuke for Counter 2000",
-    "card": "OP05-070"
+    "action": "Discard for Counter",
+    "card": "OP05-070",
+    "name": "Franosuke",
+    "counter": 2000
   },
-  {
+  "log9-117": {
     "player": "Mhcuber",
-    "action": "Discard Sanji for Counter 2000",
-    "card": "OP07-064"
+    "action": "Discard for Counter",
+    "card": "OP07-064",
+    "name": "Sanji",
+    "counter": 2000
   },
-  {
+  "log9-118": {
     "player": "Mhcuber",
-    "action": "Discard Sangoro for Counter 1000",
-    "card": "ST18-003"
+    "action": "Discard for Counter",
+    "card": "ST18-003",
+    "name": "Sangoro",
+    "counter": 1000
   },
-  {
+  "log9-119": {
     "player": "BigPapaCuddles2",
-    "action": "Jesus Burgess vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP09-086",
+    "defender": "OP05-060",
     "attacker_power": 9000,
-    "defender_power": 10000
+    "defender_power": 10000,
+    "result": "Attack Fails"
   },
-  {
+  "log9-120": {
     "player": "BigPapaCuddles2",
-    "action": "Attack Fails"
-  },
-  {
-    "player": "BigPapaCuddles2",
-    "action": "Catarina Devon: Catarina Devon Gains Blocker",
-    "card": "OP09-084"
-  },
-  {
-    "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach: Trash Catarina Devon",
-    "card": "OP09-081",
+    "action": "Catarina Devon: Gains Blocker",
     "target": "OP09-084"
   },
-  {
+  "log9-121": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach: Opponent can't activate On Play abilities next turn!"
+    "action": "Marshall D. Teach: Trash",
+    "target": "OP09-081",
+    "cost_card": "OP09-084",
+    "cost_card_name": "Catarina Devon"
   },
-  {
+  "log9-122": {
     "player": "BigPapaCuddles2",
-    "action": "Monkey D. Luffy no longer nullified"
+    "action": "Marshall D. Teach: Opponent can't activate On Play abilities next turn!",
+    "target": "OP09-081"
   },
-  {
+  "log9-123": {
+    "player": "BigPapaCuddles2",
+    "action": "Monkey D. Luffy no longer nullified",
+    "target": "OP05-060"
+  },
+  "log9-124": {
     "player": "BigPapaCuddles2",
     "action": "End Turn"
   },
-  {
+  "log9-125": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log9-126": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log9-127": {
     "player": "Mhcuber",
-    "action": "Deploy Monkey D. Luffy",
-    "card": "OP09-119"
+    "action": "Deploy",
+    "card": "OP09-119",
+    "name": "Monkey D. Luffy"
   },
-  {
+  "log9-128": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Marshall D. Teach",
+    "action": "attacking",
     "attacker": "OP05-060",
     "defender": "OP09-081"
   },
-  {
+  "log9-129": {
     "player": "BigPapaCuddles2",
-    "action": "Catarina Devon Blocks",
-    "blocker": "OP09-084"
+    "action": "Blocks",
+    "blocker": "OP09-084",
+    "blocker_name": "Catarina Devon"
   },
-  {
+  "log9-130": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Catarina Devon",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP09-084",
     "attacker_power": 5000,
-    "defender_power": 6000
+    "defender_power": 6000,
+    "result": "Attack Fails"
   },
-  {
+  "log9-131": {
     "player": "Mhcuber",
-    "action": "Attack Fails"
+    "action": "Sanji is no longer blocked from attacking",
+    "target": "OP09-065"
   },
-  {
+  "log9-132": {
     "player": "Mhcuber",
-    "action": "Sanji is no longer blocked from attacking"
+    "action": "Sanji no longer nullified",
+    "target": "OP09-065"
   },
-  {
-    "player": "Mhcuber",
-    "action": "Sanji no longer nullified"
-  },
-  {
+  "log9-133": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log9-134": {
     "player": "BigPapaCuddles2",
     "action": "Draw 1 Card"
   },
-  {
+  "log9-135": {
     "player": "BigPapaCuddles2",
-    "action": "Catarina Devon: Give Catarina Devon Banish",
-    "card": "OP09-084"
+    "action": "Catarina Devon: Give Banish",
+    "target": "OP09-084"
   },
-  {
+  "log9-136": {
     "player": "BigPapaCuddles2",
-    "action": "Attach 10 Don to Catarina Devon",
+    "action": "Attach 10 Don to",
     "card": "OP09-084",
+    "name": "Catarina Devon",
     "total_don": 10
   },
-  {
+  "log9-137": {
     "player": "BigPapaCuddles2",
-    "action": "Catarina Devon attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP09-084",
     "defender": "OP05-060"
   },
-  {
+  "log9-138": {
     "player": "BigPapaCuddles2",
-    "action": "Catarina Devon vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP09-084",
+    "defender": "OP05-060",
     "attacker_power": 16000,
     "defender_power": 5000
   },
-  {
+  "log9-139": {
     "player": "Mhcuber",
-    "action": "Trash Onami from Life",
-    "card": "ST18-002"
+    "action": "Trash from Life",
+    "card": "ST18-002",
+    "name": "Onami"
   },
-  {
+  "log9-140": {
     "player": "Mhcuber",
     "action": "Banished 1 Life"
   },
-  {
+  "log9-141": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach: Trash Laffitte",
-    "card": "OP09-081",
-    "target": "OP09-095"
+    "action": "Marshall D. Teach: Trash",
+    "target": "OP09-081",
+    "cost_card": "OP09-095",
+    "cost_card_name": "Laffitte"
   },
-  {
+  "log9-142": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach: Opponent can't activate On Play abilities next turn!"
+    "action": "Marshall D. Teach: Opponent can't activate On Play abilities next turn!",
+    "target": "OP09-081"
   },
-  {
+  "log9-143": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach: Trash Shigan (Finger Gun)",
-    "card": "OP09-081",
-    "target": "EB01-051"
+    "action": "Marshall D. Teach: Trash",
+    "target": "OP09-081",
+    "cost_card": "EB01-051",
+    "cost_card_name": "Shigan (Finger Gun)"
   },
-  {
+  "log9-144": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach: Opponent can't activate On Play abilities next turn!"
+    "action": "Marshall D. Teach: Opponent can't activate On Play abilities next turn!",
+    "target": "OP09-081"
   },
-  {
+  "log9-145": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach: Trash Laffitte",
-    "card": "OP09-081",
-    "target": "OP09-095"
+    "action": "Marshall D. Teach: Trash",
+    "target": "OP09-081",
+    "cost_card": "OP09-095",
+    "cost_card_name": "Laffitte"
   },
-  {
+  "log9-146": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach: Opponent can't activate On Play abilities next turn!"
+    "action": "Marshall D. Teach: Opponent can't activate On Play abilities next turn!",
+    "target": "OP09-081"
   },
-  {
+  "log9-147": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP09-081",
     "defender": "OP05-060"
   },
-  {
+  "log9-148": {
     "player": "Mhcuber",
-    "action": "Discard Trafalgar Law for Counter 1000",
-    "card": "ST10-010"
+    "action": "Discard for Counter",
+    "card": "ST10-010",
+    "name": "Trafalgar Law",
+    "counter": 1000
   },
-  {
+  "log9-149": {
     "player": "BigPapaCuddles2",
-    "action": "Marshall D. Teach vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP09-081",
+    "defender": "OP05-060",
     "attacker_power": 5000,
-    "defender_power": 6000
+    "defender_power": 6000,
+    "result": "Attack Fails"
   },
-  {
+  "log9-150": {
     "player": "BigPapaCuddles2",
-    "action": "Attack Fails"
-  },
-  {
-    "player": "BigPapaCuddles2",
-    "action": "Jesus Burgess attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP09-086",
     "defender": "OP05-060"
   },
-  {
-    "player": "BigPapaCuddles2",
-    "action": "<size=24>gg!</size>"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Gum Gum Giant: Trash Sanji",
-    "card": "OP09-078",
-    "target": "OP07-064"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Gum Gum Giant: Buff Monkey D. Luffy 4000 for the Combat",
-    "card": "OP09-078"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Gum Gum Giant: Draw 2 Card",
-    "card": "OP09-078"
-  },
-  {
+  "log9-151": {
     "player": "BigPapaCuddles2",
     "action": "Wins!"
   },
-  {
+  "log9-152": {
+    "player": "Mhcuber",
+    "action": "Gum Gum Giant: Trash",
+    "target": "OP09-078",
+    "cost_card": "OP07-064",
+    "cost_card_name": "Sanji"
+  },
+  "log9-153": {
+    "player": "Mhcuber",
+    "action": "Gum Gum Giant: Buff for the Combat",
+    "target": "OP09-078",
+    "affected": "OP05-060",
+    "affected_name": "Monkey D. Luffy",
+    "power_change": 4000
+  },
+  "log9-154": {
+    "player": "Mhcuber",
+    "action": "Gum Gum Giant: Draw 2 Card",
+    "target": "OP09-078"
+  },
+  "log9-155": {
     "player": "BigPapaCuddles2",
-    "action": "Jesus Burgess vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP09-086",
+    "defender": "OP05-060",
     "attacker_power": 10000,
-    "defender_power": 9000
+    "defender_power": 9000,
+    "damage": 1
   },
-  {
-    "player": "BigPapaCuddles2",
-    "action": "Monkey D. Luffy hit for 1 damage"
-  },
-  {
+  "log9-156": {
     "player": "Mhcuber",
     "action": "Loses"
   },
-  {
+  "log9-157": {
     "action": "GameOver"
   }
-]
+}

@@ -1,693 +1,725 @@
-[
-  {
-    "player": "Mhcuber",
-    "action": "Has Connected"
-  },
-  {
+{
+  "log6-001": {
     "player": "Mhcuber",
     "action": "Leader is Monkey D. Luffy",
     "card": "OP05-060"
   },
-  {
+  "log6-002": {
     "player": "Pirate89780",
     "action": "Leader is Shanks",
     "card": "OP09-001"
   },
-  {
+  "log6-003": {
     "player": "Mhcuber",
     "action": "Will select turn order"
   },
-  {
+  "log6-004": {
     "player": "Mhcuber",
     "action": "Chose to go First"
   },
-  {
+  "log6-005": {
     "player": "Pirate89780",
     "action": "Mulligan"
   },
-  {
+  "log6-006": {
     "player": "Mhcuber",
     "action": "Draw 1 Don"
   },
-  {
+  "log6-007": {
     "player": "Mhcuber",
-    "action": "Deploy Trafalgar Law",
-    "card": "OP09-069"
+    "action": "Deploy",
+    "card": "OP09-069",
+    "name": "Trafalgar Law"
   },
-  {
+  "log6-008": {
     "player": "Mhcuber",
-    "action": "Reveal and Draw Zorojuro",
-    "card": "ST18-004"
+    "action": "Reveal and Draw",
+    "card": "ST18-004",
+    "name": "Zorojuro"
   },
-  {
+  "log6-009": {
     "player": "Mhcuber",
     "action": "Placing Cards on Bottom of Deck"
   },
-  {
+  "log6-010": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log6-011": {
     "player": "Pirate89780",
     "action": "Draw 1 Card"
   },
-  {
+  "log6-012": {
     "player": "Pirate89780",
     "action": "Draw 2 Don"
   },
-  {
+  "log6-013": {
     "player": "Pirate89780",
     "action": "End Turn"
   },
-  {
+  "log6-014": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log6-015": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log6-016": {
     "player": "Mhcuber",
     "action": "Loses 1 Life"
   },
-  {
+  "log6-017": {
     "player": "Mhcuber",
     "action": "Monkey D. Luffy: Draw 1 Don",
-    "card": "OP05-060"
+    "target": "OP05-060"
   },
-  {
+  "log6-018": {
     "player": "Mhcuber",
-    "action": "Deploy Zorojuro",
-    "card": "ST18-004"
+    "action": "Deploy",
+    "card": "ST18-004",
+    "name": "Zorojuro"
   },
-  {
+  "log6-019": {
     "player": "Mhcuber",
-    "action": "Reveal and Draw Monkey D. Luffy",
-    "card": "OP09-119"
+    "action": "Reveal and Draw",
+    "card": "OP09-119",
+    "name": "Monkey D. Luffy"
   },
-  {
+  "log6-020": {
     "player": "Mhcuber",
     "action": "Placing Cards on Bottom of Deck"
   },
-  {
+  "log6-021": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log6-022": {
     "player": "Pirate89780",
     "action": "Draw 1 Card"
   },
-  {
+  "log6-023": {
     "player": "Pirate89780",
     "action": "Draw 2 Don"
   },
-  {
+  "log6-024": {
     "player": "Mhcuber",
     "action": "<size=24>ptm me olvide de atacar</size>"
   },
-  {
+  "log6-025": {
     "player": "Pirate89780",
-    "action": "Deploy Lucky Roux",
-    "card": "OP09-015"
+    "action": "Deploy",
+    "card": "OP09-015",
+    "name": "Lucky Roux"
   },
-  {
+  "log6-026": {
     "player": "Pirate89780",
-    "action": "Shanks attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP09-001",
     "defender": "OP05-060"
   },
-  {
+  "log6-027": {
     "player": "Pirate89780",
-    "action": "Shanks vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP09-001",
+    "defender": "OP05-060",
     "attacker_power": 5000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "Pirate89780",
-    "action": "Monkey D. Luffy hit for 1 damage"
-  },
-  {
+  "log6-028": {
     "player": "Pirate89780",
     "action": "End Turn"
   },
-  {
+  "log6-029": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log6-030": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log6-031": {
     "player": "Mhcuber",
-    "action": "Zorojuro attacking Shanks",
+    "action": "attacking",
     "attacker": "ST18-004",
     "defender": "OP09-001"
   },
-  {
+  "log6-032": {
     "player": "Pirate89780",
-    "action": "Shanks: Buff Zorojuro -1000",
-    "card": "OP09-001",
-    "target": "ST18-004"
+    "action": "Shanks: Buff",
+    "target": "OP09-001",
+    "affected": "ST18-004",
+    "affected_name": "Zorojuro",
+    "power_change": -1000
   },
-  {
+  "log6-033": {
     "player": "Mhcuber",
-    "action": "Zorojuro vs Shanks",
+    "action": "attacking",
+    "attacker": "ST18-004",
+    "defender": "OP09-001",
     "attacker_power": 5000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
+  "log6-034": {
     "player": "Mhcuber",
-    "action": "Shanks hit for 1 damage"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Shanks",
+    "action": "attacking",
     "attacker": "OP05-060",
     "defender": "OP09-001"
   },
-  {
+  "log6-035": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Shanks",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP09-001",
     "attacker_power": 5000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
+  "log6-036": {
     "player": "Mhcuber",
-    "action": "Shanks hit for 1 damage"
+    "action": "Deploy",
+    "card": "OP05-074",
+    "name": "Eustass 'Captain' Kid"
   },
-  {
-    "player": "Mhcuber",
-    "action": "Deploy Eustass 'Captain' Kid",
-    "card": "OP05-074"
-  },
-  {
+  "log6-037": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log6-038": {
     "player": "Pirate89780",
     "action": "Draw 1 Card"
   },
-  {
+  "log6-039": {
     "player": "Pirate89780",
     "action": "Draw 2 Don"
   },
-  {
+  "log6-040": {
     "player": "Pirate89780",
-    "action": "Deploy Hongo",
-    "card": "OP09-011"
-  },
-  {
-    "player": "Pirate89780",
-    "action": "Hongo: Rest Hongo",
-    "card": "OP09-011"
-  },
-  {
-    "player": "Pirate89780",
-    "action": "Hongo: Buff Zorojuro -2000",
+    "action": "Deploy",
     "card": "OP09-011",
-    "target": "ST18-004"
+    "name": "Hongo"
   },
-  {
+  "log6-041": {
     "player": "Pirate89780",
-    "action": "Attach 2 Don to Shanks",
+    "action": "Hongo: Rest",
+    "target": "OP09-011",
+    "card": "OP09-011",
+    "name": "Hongo"
+  },
+  "log6-042": {
+    "player": "Pirate89780",
+    "action": "Hongo: Buff",
+    "target": "OP09-011",
+    "affected": "ST18-004",
+    "affected_name": "Zorojuro",
+    "power_change": -2000
+  },
+  "log6-043": {
+    "player": "Pirate89780",
+    "action": "Attach 2 Don to",
     "card": "OP09-001",
+    "name": "Shanks",
     "total_don": 2
   },
-  {
+  "log6-044": {
     "player": "Pirate89780",
-    "action": "Attach 1 Don to Lucky Roux",
+    "action": "Attach 1 Don to",
     "card": "OP09-015",
+    "name": "Lucky Roux",
     "total_don": 1
   },
-  {
+  "log6-045": {
     "player": "Pirate89780",
-    "action": "Shanks attacking Zorojuro",
+    "action": "attacking",
     "attacker": "OP09-001",
     "defender": "ST18-004"
   },
-  {
+  "log6-046": {
     "player": "Mhcuber",
-    "action": "Eustass 'Captain' Kid Blocks",
-    "blocker": "OP05-074"
+    "action": "Blocks",
+    "blocker": "OP05-074",
+    "blocker_name": "Eustass 'Captain' Kid"
   },
-  {
+  "log6-047": {
     "player": "Mhcuber",
-    "action": "Discard Sanji for Counter 2000",
-    "card": "OP07-064"
+    "action": "Discard for Counter",
+    "card": "OP07-064",
+    "name": "Sanji",
+    "counter": 2000
   },
-  {
+  "log6-048": {
     "player": "Pirate89780",
-    "action": "Shanks vs Eustass 'Captain' Kid",
+    "action": "attacking",
+    "attacker": "OP09-001",
+    "defender": "OP05-074",
     "attacker_power": 7000,
-    "defender_power": 8000
+    "defender_power": 8000,
+    "result": "Attack Fails"
   },
-  {
+  "log6-049": {
     "player": "Pirate89780",
-    "action": "Attack Fails"
-  },
-  {
-    "player": "Pirate89780",
-    "action": "Lucky Roux attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP09-015",
     "defender": "OP05-060"
   },
-  {
+  "log6-050": {
     "player": "Mhcuber",
-    "action": "Discard Hitokiri Kamazo for Counter 2000",
-    "card": "OP06-076"
+    "action": "Discard for Counter",
+    "card": "OP06-076",
+    "name": "Hitokiri Kamazo",
+    "counter": 2000
   },
-  {
+  "log6-051": {
     "player": "Pirate89780",
-    "action": "Lucky Roux vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP09-015",
+    "defender": "OP05-060",
     "attacker_power": 6000,
-    "defender_power": 7000
+    "defender_power": 7000,
+    "result": "Attack Fails"
   },
-  {
-    "player": "Pirate89780",
-    "action": "Attack Fails"
-  },
-  {
+  "log6-052": {
     "player": "Pirate89780",
     "action": "End Turn"
   },
-  {
+  "log6-053": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log6-054": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log6-055": {
     "player": "Mhcuber",
     "action": "Loses 1 Life"
   },
-  {
+  "log6-056": {
     "player": "Mhcuber",
     "action": "Monkey D. Luffy: Draw 1 Don",
-    "card": "OP05-060"
+    "target": "OP05-060"
   },
-  {
+  "log6-057": {
     "player": "Mhcuber",
-    "action": "Deploy Monkey D. Luffy",
-    "card": "OP09-119"
+    "action": "Deploy",
+    "card": "OP09-119",
+    "name": "Monkey D. Luffy"
   },
-  {
+  "log6-058": {
     "player": "Mhcuber",
     "action": "Monkey D. Luffy: Draw 1 Card",
-    "card": "OP09-119"
+    "target": "OP09-119"
   },
-  {
+  "log6-059": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy: Give Monkey D. Luffy Rush",
-    "card": "OP09-119"
+    "action": "Monkey D. Luffy: Give Rush",
+    "target": "OP09-119"
   },
-  {
+  "log6-060": {
     "player": "Mhcuber",
     "action": "Eustass 'Captain' Kid: Draw 1 Don",
-    "card": "OP05-074"
+    "target": "OP05-074"
   },
-  {
+  "log6-061": {
     "player": "Mhcuber",
-    "action": "Attach 1 Don to Monkey D. Luffy",
+    "action": "Attach 1 Don to",
     "card": "OP05-060",
+    "name": "Monkey D. Luffy",
     "total_don": 1
   },
-  {
+  "log6-062": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Hongo",
+    "action": "attacking",
     "attacker": "OP05-060",
     "defender": "OP09-011"
   },
-  {
+  "log6-063": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Hongo",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP09-011",
     "attacker_power": 6000,
     "defender_power": 3000
   },
-  {
+  "log6-064": {
     "player": "Pirate89780",
-    "action": "Hongo Destroyed",
-    "card": "OP09-011"
+    "action": "Destroyed",
+    "card": "OP09-011",
+    "name": "Hongo"
   },
-  {
+  "log6-065": {
     "player": "Mhcuber",
-    "action": "Zorojuro attacking Shanks",
+    "action": "attacking",
     "attacker": "ST18-004",
     "defender": "OP09-001"
   },
-  {
+  "log6-066": {
     "player": "Pirate89780",
-    "action": "Shanks: Buff Zorojuro -1000",
-    "card": "OP09-001",
-    "target": "ST18-004"
+    "action": "Shanks: Buff",
+    "target": "OP09-001",
+    "affected": "ST18-004",
+    "affected_name": "Zorojuro",
+    "power_change": -1000
   },
-  {
+  "log6-067": {
     "player": "Pirate89780",
-    "action": "Discard Sanji for Counter 1000",
-    "card": "OP10-005"
+    "action": "Discard for Counter",
+    "card": "OP10-005",
+    "name": "Sanji",
+    "counter": 1000
   },
-  {
+  "log6-068": {
     "player": "Mhcuber",
-    "action": "Zorojuro vs Shanks",
+    "action": "attacking",
+    "attacker": "ST18-004",
+    "defender": "OP09-001",
     "attacker_power": 5000,
-    "defender_power": 6000
+    "defender_power": 6000,
+    "result": "Attack Fails"
   },
-  {
+  "log6-069": {
     "player": "Mhcuber",
-    "action": "Attack Fails"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Shanks",
+    "action": "attacking",
     "attacker": "OP09-119",
     "defender": "OP09-001"
   },
-  {
+  "log6-070": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Shanks",
+    "action": "attacking",
+    "attacker": "OP09-119",
+    "defender": "OP09-001",
     "attacker_power": 10000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "Mhcuber",
-    "action": "Shanks hit for 1 damage"
-  },
-  {
+  "log6-071": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log6-072": {
     "player": "Pirate89780",
     "action": "Draw 1 Card"
   },
-  {
+  "log6-073": {
     "player": "Pirate89780",
     "action": "Draw 2 Don"
   },
-  {
+  "log6-074": {
     "player": "Pirate89780",
-    "action": "Deploy Marco",
-    "card": "OP03-013"
-  },
-  {
-    "player": "Pirate89780",
-    "action": "Marco: Destroy Trafalgar Law",
+    "action": "Deploy",
     "card": "OP03-013",
-    "target": "OP09-069"
+    "name": "Marco"
   },
-  {
+  "log6-075": {
     "player": "Pirate89780",
-    "action": "Deploy Hongo",
-    "card": "OP09-011"
+    "action": "Marco: Destroy",
+    "target": "OP03-013",
+    "affected": "OP09-069",
+    "affected_name": "Trafalgar Law"
   },
-  {
+  "log6-076": {
     "player": "Pirate89780",
-    "action": "Shanks attacking Monkey D. Luffy",
+    "action": "Deploy",
+    "card": "OP09-011",
+    "name": "Hongo"
+  },
+  "log6-077": {
+    "player": "Pirate89780",
+    "action": "attacking",
     "attacker": "OP09-001",
     "defender": "OP05-060"
   },
-  {
+  "log6-078": {
     "player": "Mhcuber",
-    "action": "Discard Sanji for Counter 1000",
-    "card": "OP09-065"
+    "action": "Discard for Counter",
+    "card": "OP09-065",
+    "name": "Sanji",
+    "counter": 1000
   },
-  {
+  "log6-079": {
     "player": "Pirate89780",
-    "action": "Shanks vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP09-001",
+    "defender": "OP05-060",
     "attacker_power": 5000,
-    "defender_power": 6000
+    "defender_power": 6000,
+    "result": "Attack Fails"
   },
-  {
-    "player": "Pirate89780",
-    "action": "Attack Fails"
-  },
-  {
+  "log6-080": {
     "player": "Pirate89780",
     "action": "End Turn"
   },
-  {
+  "log6-081": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log6-082": {
     "player": "Mhcuber",
     "action": "Draw 2 Don"
   },
-  {
+  "log6-083": {
     "player": "Mhcuber",
-    "action": "Deploy Sanji",
-    "card": "OP09-065"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Sanji: Give Sanji Rush",
-    "card": "OP09-065"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Sanji: Rest Lucky Roux",
+    "action": "Deploy",
     "card": "OP09-065",
-    "target": "OP09-015"
+    "name": "Sanji"
   },
-  {
+  "log6-084": {
+    "player": "Mhcuber",
+    "action": "Sanji: Give Rush",
+    "target": "OP09-065"
+  },
+  "log6-085": {
+    "player": "Mhcuber",
+    "action": "Sanji: Rest",
+    "target": "OP09-065",
+    "affected": "OP09-015",
+    "affected_name": "Lucky Roux"
+  },
+  "log6-086": {
     "player": "Mhcuber",
     "action": "Eustass 'Captain' Kid: Draw 1 Don",
-    "card": "OP05-074"
+    "target": "OP05-074"
   },
-  {
+  "log6-087": {
     "player": "Mhcuber",
-    "action": "Deploy Onami",
-    "card": "ST18-002"},
-  {
-    "player": "Mhcuber",
-    "action": "Onami: Trash Luffy-tarou",
+    "action": "Deploy",
     "card": "ST18-002",
-    "target": "ST18-005"
+    "name": "Onami"
   },
-  {
+  "log6-088": {
+    "player": "Mhcuber",
+    "action": "Onami: Trash",
+    "target": "ST18-002",
+    "cost_card": "ST18-005",
+    "cost_card_name": "Luffy-tarou"
+  },
+  "log6-089": {
     "player": "Mhcuber",
     "action": "Onami: Draw 2 Card",
-    "card": "ST18-002"
+    "target": "ST18-002"
   },
-  {
+  "log6-090": {
     "player": "Mhcuber",
-    "action": "Sanji attacking Shanks",
+    "action": "attacking",
     "attacker": "OP09-065",
     "defender": "OP09-001"
   },
-  {
+  "log6-091": {
     "player": "Pirate89780",
-    "action": "Shanks: Buff Sanji -1000",
-    "card": "OP09-001",
-    "target": "OP09-065"
+    "action": "Shanks: Buff",
+    "target": "OP09-001",
+    "affected": "OP09-065",
+    "affected_name": "Sanji",
+    "power_change": -1000
   },
-  {
+  "log6-092": {
     "player": "Pirate89780",
-    "action": "Discard Otama for Counter 2000",
-    "card": "OP01-006"
+    "action": "Discard for Counter",
+    "card": "OP01-006",
+    "name": "Otama",
+    "counter": 2000
   },
-  {
+  "log6-093": {
     "player": "Pirate89780",
-    "action": "Discard Tony Tony Chopper for Counter 2000",
-    "card": "OP10-011"
+    "action": "Discard for Counter",
+    "card": "OP10-011",
+    "name": "Tony Tony Chopper",
+    "counter": 2000
   },
-  {
+  "log6-094": {
     "player": "Mhcuber",
-    "action": "Sanji vs Shanks",
+    "action": "attacking",
+    "attacker": "OP09-065",
+    "defender": "OP09-001",
     "attacker_power": 6000,
-    "defender_power": 9000
+    "defender_power": 9000,
+    "result": "Attack Fails"
   },
-  {
+  "log6-095": {
     "player": "Mhcuber",
-    "action": "Attack Fails"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Zorojuro attacking Shanks",
+    "action": "attacking",
     "attacker": "ST18-004",
     "defender": "OP09-001"
   },
-  {
+  "log6-096": {
     "player": "Mhcuber",
-    "action": "Zorojuro vs Shanks",
+    "action": "attacking",
+    "attacker": "ST18-004",
+    "defender": "OP09-001",
     "attacker_power": 6000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
+  "log6-097": {
     "player": "Mhcuber",
-    "action": "Shanks hit for 1 damage"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Shanks",
+    "action": "attacking",
     "attacker": "OP09-119",
     "defender": "OP09-001"
   },
-  {
+  "log6-098": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Shanks",
+    "action": "attacking",
+    "attacker": "OP09-119",
+    "defender": "OP09-001",
     "attacker_power": 10000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
+  "log6-099": {
     "player": "Mhcuber",
-    "action": "Shanks hit for 1 damage"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Shanks",
+    "action": "attacking",
     "attacker": "OP05-060",
     "defender": "OP09-001"
   },
-  {
+  "log6-100": {
     "player": "Pirate89780",
-    "action": "Discard Benn Beckman for Counter 1000",
-    "card": "OP09-009"
+    "action": "Discard for Counter",
+    "card": "OP09-009",
+    "name": "Benn Beckman",
+    "counter": 1000
   },
-  {
+  "log6-101": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Shanks",
+    "action": "attacking",
+    "attacker": "OP05-060",
+    "defender": "OP09-001",
     "attacker_power": 5000,
-    "defender_power": 6000
+    "defender_power": 6000,
+    "result": "Attack Fails"
   },
-  {
-    "player": "Mhcuber",
-    "action": "Attack Fails"
-  },
-  {
+  "log6-102": {
     "player": "Mhcuber",
     "action": "End Turn"
   },
-  {
+  "log6-103": {
     "player": "Pirate89780",
     "action": "Draw 1 Card"
   },
-  {
+  "log6-104": {
     "player": "Pirate89780",
     "action": "Draw 2 Don"
   },
-  {
+  "log6-105": {
     "player": "Pirate89780",
-    "action": "Deploy Gol D. Roger",
-    "card": "OP09-118"
+    "action": "Deploy",
+    "card": "OP09-118",
+    "name": "Gol D. Roger"
   },
-  {
+  "log6-106": {
     "player": "Pirate89780",
-    "action": "Shanks attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP09-001",
     "defender": "OP05-060"
   },
-  {
+  "log6-107": {
     "player": "Mhcuber",
-    "action": "Discard Onami for Counter 1000",
-    "card": "ST18-002"
+    "action": "Discard for Counter",
+    "card": "ST18-002",
+    "name": "Onami",
+    "counter": 1000
   },
-  {
+  "log6-108": {
     "player": "Pirate89780",
-    "action": "Shanks vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP09-001",
+    "defender": "OP05-060",
     "attacker_power": 5000,
-    "defender_power": 6000
+    "defender_power": 6000,
+    "result": "Attack Fails"
   },
-  {
+  "log6-109": {
     "player": "Pirate89780",
-    "action": "Attack Fails"
-  },
-  {
-    "player": "Pirate89780",
-    "action": "Lucky Roux attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP09-015",
     "defender": "OP05-060"
   },
-  {
+  "log6-110": {
     "player": "Pirate89780",
-    "action": "Lucky Roux vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP09-015",
+    "defender": "OP05-060",
     "attacker_power": 5000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
+  "log6-111": {
     "player": "Pirate89780",
-    "action": "Monkey D. Luffy hit for 1 damage"
-  },
-  {
-    "player": "Pirate89780",
-    "action": "Marco attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP03-013",
     "defender": "OP05-060"
   },
-  {
+  "log6-112": {
     "player": "Mhcuber",
-    "action": "Discard Sanji for Counter 2000",
-    "card": "OP07-064"
+    "action": "Discard for Counter",
+    "card": "OP07-064",
+    "name": "Sanji",
+    "counter": 2000
   },
-  {
+  "log6-113": {
     "player": "Pirate89780",
-    "action": "Marco vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP03-013",
+    "defender": "OP05-060",
     "attacker_power": 6000,
-    "defender_power": 7000
+    "defender_power": 7000,
+    "result": "Attack Fails"
   },
-  {
+  "log6-114": {
     "player": "Pirate89780",
-    "action": "Attack Fails"
-  },
-  {
-    "player": "Pirate89780",
-    "action": "Gol D. Roger attacking Monkey D. Luffy",
+    "action": "attacking",
     "attacker": "OP09-118",
     "defender": "OP05-060"
   },
-  {
+  "log6-115": {
     "player": "Pirate89780",
-    "action": "Gol D. Roger vs Monkey D. Luffy",
+    "action": "attacking",
+    "attacker": "OP09-118",
+    "defender": "OP05-060",
     "attacker_power": 13000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "Pirate89780",
-    "action": "Monkey D. Luffy hit for 1 damage"
-  },
-  {
+  "log6-116": {
     "player": "Pirate89780",
     "action": "End Turn"
   },
-  {
+  "log6-117": {
     "player": "Mhcuber",
     "action": "Draw 1 Card"
   },
-  {
+  "log6-118": {
     "player": "Mhcuber",
-    "action": "Attach 10 Don to Monkey D. Luffy",
+    "action": "Attach 10 Don to",
     "card": "OP09-119",
+    "name": "Monkey D. Luffy",
     "total_don": 10
   },
-  {
+  "log6-119": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy attacking Shanks",
+    "action": "attacking",
     "attacker": "OP09-119",
     "defender": "OP09-001"
   },
-  {
+  "log6-120": {
     "player": "Mhcuber",
     "action": "Wins!"
   },
-  {
+  "log6-121": {
     "player": "Mhcuber",
-    "action": "Monkey D. Luffy vs Shanks",
+    "action": "attacking",
+    "attacker": "OP09-119",
+    "defender": "OP09-001",
     "attacker_power": 20000,
-    "defender_power": 5000
+    "defender_power": 5000,
+    "damage": 1
   },
-  {
-    "player": "Mhcuber",
-    "action": "Shanks hit for 1 damage"
-  },
-  {
+  "log6-122": {
     "player": "Pirate89780",
     "action": "Loses"
   },
-  {
+  "log6-123": {
     "action": "GameOver"
   }
-]
+}
