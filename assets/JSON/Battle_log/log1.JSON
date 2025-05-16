@@ -1,21 +1,8 @@
 [
   {
-    "action": "Attempting to connect to FPDCTR"
-  },
-  {
-    "action": "Version is 1.29b"
-  },
-  {
     "player": "momo",
     "action": "Leader is Roronoa Zoro",
     "card": "OP01-001"
-  },
-  {
-    "player": "Mhcuber",
-    "action": "Has Connected"
-  },
-  {
-    "action": "Version is 1.29b"
   },
   {
     "player": "Mhcuber",
@@ -42,7 +29,8 @@
   {
     "player": "momo",
     "action": "Dogura: Deploy Nami",
-    "card": "OP01-016"
+    "card": "OP02-010",
+    "target": "OP01-016"
   },
   {
     "player": "momo",
@@ -118,7 +106,7 @@
     "defender_power": 5000
   },
   {
-    "player": "momo",
+    "player": "Mhcuber",
     "action": "Monkey D. Luffy hit for 1 damage"
   },
   {
@@ -243,7 +231,7 @@
     "defender_power": 5000
   },
   {
-    "player": "momo",
+    "player": "Mhcuber",
     "action": "Monkey D. Luffy hit for 1 damage"
   },
   {
@@ -485,7 +473,13 @@
   },
   {
     "player": "Mhcuber",
-    "action": "Attach 1 Don to"action": "Zorojuro attacking Roronoa Zoro",
+    "action": "Attach 1 Don to Zorojuro",
+    "card": "ST18-004",
+    "total_don": 1
+  },
+  {
+    "player": "Mhcuber",
+    "action": "Zorojuro attacking Roronoa Zoro",
     "attacker": "ST18-004",
     "defender": "OP01-001"
   },
@@ -608,7 +602,8 @@
     "player": "Mhcuber",
     "action": "Gum Gum Giant: Buff Eustass 'Captain' Kid 4000 for the Combat",
     "card": "OP09-078",
-    "target": "OP05-074"
+    "target": "OP05-074",
+    "power_change": 4000
   },
   {
     "player": "Mhcuber",
@@ -691,7 +686,7 @@
     "defender_power": 5000
   },
   {
-    "player": "Mhcuber",
+    "player": "momo",
     "action": "Roronoa Zoro hit for 1 damage"
   },
   {
@@ -794,7 +789,7 @@
     "defender_power": 5000
   },
   {
-    "player": "momo",
+    "player": "Mhcuber",
     "action": "Monkey D. Luffy hit for 1 damage"
   },
   {
@@ -879,15 +874,5 @@
   {
     "player": "Mhcuber",
     "action": "Wins!"
-  },
-  {
-    "player": "momo",
-    "action": "Quits!"
-  },
-  {
-    "action": "Opponent Has Disconnected!"
-  },
-  {
-    "action": "OpponentDisconnect"
   }
 ]
