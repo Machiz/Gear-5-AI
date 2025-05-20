@@ -63,4 +63,5 @@ class WindowCapture:
 window_name = "OPTCGSim"
 
 wincap = WindowCapture(window_name)
-wincap.generate_image_dataset()
+#wincap.generate_image_dataset()
+
