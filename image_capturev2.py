@@ -6,12 +6,10 @@ from time import sleep
 import mss
 
 class WindowCapture:
-    def __init__(self, window_name, monitor_number=1):
+    def __init__(self, window_name):
         self.hwnd = win32gui.FindWindow(None, window_name)
         if not self.hwnd:
             raise Exception('Window not found: {}'.format(window_name))
-
-        self.monitor_number = monitor_number
         self.update_window_rect()
 
     def update_window_rect(self):
@@ -23,22 +21,10 @@ class WindowCapture:
         self.w = self.right - self.left
         self.h = self.bottom - self.top
 
-    def is_within_monitor(self, monitor):
-        # Verifica si la ventana está completamente dentro del monitor
-        return (self.left >= monitor["left"] and
-                self.top >= monitor["top"] and
-                self.right <= monitor["left"] + monitor["width"] and
-                self.bottom <= monitor["top"] + monitor["height"])
-
     def get_screenshot(self):
         self.update_window_rect()
 
         with mss.mss() as sct:
-            monitor = sct.monitors[self.monitor_number]
-
-            if not self.is_within_monitor(monitor):
-                raise Exception(f"La ventana no está completamente en el monitor {self.monitor_number}")
-
             capture_area = {
                 "top": self.top,
                 "left": self.left,
@@ -65,10 +51,6 @@ class WindowCapture:
                 print(f"Error: {e}")
                 sleep(1)
 
-    def get_window_size(self):
-        self.update_window_rect()
-        return (self.w, self.h)
-
-# Elegir el monitor 2, por ejemplo
-wincap = WindowCapture(window_name="OPTCGSim", monitor_number=2)
+# No necesitas especificar el monitor, captura por ventana directamente
+wincap = WindowCapture(window_name="OPTCGSim")
 wincap.generate_image_dataset()
