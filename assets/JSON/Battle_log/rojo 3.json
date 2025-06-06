@@ -1,0 +1,1840 @@
+{
+  "log_001": {
+    "player": "Moroff",
+    "action": "Leader is Donquixote Doflamingo",
+    "card": "OP01-060"
+  },
+  "log_002": {
+    "player": "Mars",
+    "action": "Leader is Shanks",
+    "card": "OP09-001"
+  },
+  "log_003": {
+    "player": "Moroff",
+    "action": "Will select turn order"
+  },
+  "log_004": {
+    "player": "Moroff",
+    "action": "Chose to go Second"
+  },
+  "log_005": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "EB01-023"
+  },
+  "log_006": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST03-004"
+  },
+  "log_007": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP07-046"
+  },
+  "log_008": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-003"
+  },
+  "log_009": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-004"
+  },
+  "log_010": {
+    "player": "Moroff",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "EB01-023",
+      "ST03-004",
+      "OP07-046",
+      "ST17-003",
+      "ST17-004"
+    ]
+  },
+  "log_011": {
+    "player": "Mars",
+    "action": "Drew card from deck",
+    "card": "OP09-011"
+  },
+  "log_012": {
+    "player": "Mars",
+    "action": "Drew card from deck",
+    "card": "OP09-008"
+  },
+  "log_013": {
+    "player": "Mars",
+    "action": "Drew card from deck",
+    "card": "OP09-009"
+  },
+  "log_014": {
+    "player": "Mars",
+    "action": "Drew card from deck",
+    "card": "OP06-007"
+  },
+  "log_015": {
+    "player": "Mars",
+    "action": "Drew card from deck",
+    "card": "OP09-002"
+  },
+  "log_016": {
+    "player": "Mars",
+    "action": "Draw 1 Don"
+  },
+  "log_017": {
+    "player": "Mars",
+    "action": "Deploy",
+    "card": "OP09-002"
+  },
+  "log_018": {
+    "player": "Mars",
+    "action": "Reveal and Draw",
+    "card": "OP09-021"
+  },
+  "log_019": {
+    "player": "Mars",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log_020": {
+    "player": "Mars",
+    "action": "End Turn"
+  },
+  "log_021": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "EB01-023",
+      "ST03-004",
+      "OP07-046",
+      "ST17-003",
+      "ST17-004"
+    ]
+  },
+  "log_022": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log_023": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_024": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log_025": {
+    "player": "Mars",
+    "action": "Hand",
+    "cards": [
+      "OP09-011",
+      "OP09-008",
+      "OP09-009",
+      "OP06-007",
+      "OP09-021"
+    ]
+  },
+  "log_026": {
+    "player": "Mars",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_027": {
+    "player": "Mars",
+    "action": "Board",
+    "cards": [
+      "OP09-002"
+    ]
+  },
+  "log_028": {
+    "player": "Mars",
+    "action": "Life",
+    "value": 5
+  },
+  "log_029": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log_030": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-005"
+  },
+  "log_031": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log_032": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "OP07-046"
+  },
+  "log_033": {
+    "player": "Moroff",
+    "action": "Reveal and Draw",
+    "card": "EB01-023"
+  },
+  "log_034": {
+    "player": "Moroff",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log_035": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "ST17-003"
+  },
+  "log_036": {
+    "player": "Moroff",
+    "action": "Placing Cards on Top of Deck"
+  },
+  "log_037": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "EB01-023",
+      "ST03-004",
+      "ST17-004",
+      "ST17-005",
+      "EB01-023"
+    ]
+  },
+  "log_038": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP07-046",
+      "ST17-003"
+    ]
+  },
+  "log_039": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_040": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log_041": {
+    "player": "Mars",
+    "action": "Hand",
+    "cards": [
+      "OP09-011",
+      "OP09-008",
+      "OP09-009",
+      "OP06-007",
+      "OP09-021"
+    ]
+  },
+  "log_042": {
+    "player": "Mars",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_043": {
+    "player": "Mars",
+    "action": "Board",
+    "cards": [
+      "OP09-002"
+    ]
+  },
+  "log_044": {
+    "player": "Mars",
+    "action": "Life",
+    "value": 5
+  },
+  "log_045": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_046": {
+    "player": "Mars",
+    "action": "Draw 1 Card"
+  },
+  "log_047": {
+    "player": "Mars",
+    "action": "Drew card from deck",
+    "card": "OP04-016"
+  },
+  "log_048": {
+    "player": "Mars",
+    "action": "Draw 2 Don"
+  },
+  "log_049": {
+    "player": "Mars",
+    "action": "attacking",
+    "attacker": "OP09-001",
+    "defender": "OP01-060"
+  },
+  "log_050": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "ST03-004",
+    "counter": 1000
+  },
+  "log_051": {
+    "player": "Mars",
+    "action": "Attack Fails",
+    "attacker": "OP09-001",
+    "attacker_power": 5000,
+    "defender": "OP01-060",
+    "defender_power": 6000
+  },
+  "log_052": {
+    "player": "Mars",
+    "action": "Deploy",
+    "card": "OP09-021"
+  },
+  "log_053": {
+    "player": "Mars",
+    "action": "Deploy",
+    "card": "OP09-008"
+  },
+  "log_054": {
+    "player": "Mars",
+    "action": "End Turn"
+  },
+  "log_055": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "EB01-023",
+      "ST17-004",
+      "ST17-005",
+      "EB01-023"
+    ]
+  },
+  "log_056": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP07-046",
+      "ST17-003"
+    ]
+  },
+  "log_057": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST03-004"
+    ]
+  },
+  "log_058": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log_059": {
+    "player": "Mars",
+    "action": "Hand",
+    "cards": [
+      "OP09-011",
+      "OP09-009",
+      "OP06-007",
+      "OP04-016"
+    ]
+  },
+  "log_060": {
+    "player": "Mars",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_061": {
+    "player": "Mars",
+    "action": "Board",
+    "cards": [
+      "OP09-002",
+      "OP09-008"
+    ]
+  },
+  "log_062": {
+    "player": "Mars",
+    "action": "Life",
+    "value": 5
+  },
+  "log_063": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log_064": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-005"
+  },
+  "log_065": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log_066": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "ST17-005"
+  },
+  "log_067": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log_068": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log_069": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP09-001"
+  },
+  "log_070": {
+    "player": "Moroff",
+    "action": "hit for 1 damage",
+    "attacker": "OP01-060",
+    "attacker_power": 7000,
+    "defender": "OP09-001",
+    "defender_power": 5000
+  },
+  "log_071": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "EB01-023",
+      "ST17-004",
+      "ST17-005",
+      "EB01-023"
+    ]
+  },
+  "log_072": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP07-046",
+      "ST17-003",
+      "ST17-005"
+    ]
+  },
+  "log_073": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST03-004"
+    ]
+  },
+  "log_074": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log_075": {
+    "player": "Mars",
+    "action": "Hand",
+    "cards": [
+      "OP09-011",
+      "OP09-009",
+      "OP06-007",
+      "OP04-016",
+      "OP06-007"
+    ]
+  },
+  "log_076": {
+    "player": "Mars",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_077": {
+    "player": "Mars",
+    "action": "Board",
+    "cards": [
+      "OP09-002",
+      "OP09-008"
+    ]
+  },
+  "log_078": {
+    "player": "Mars",
+    "action": "Life",
+    "value": 4
+  },
+  "log_079": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_080": {
+    "player": "Mars",
+    "action": "Draw 1 Card"
+  },
+  "log_081": {
+    "player": "Mars",
+    "action": "Drew card from deck",
+    "card": "OP01-006"
+  },
+  "log_082": {
+    "player": "Mars",
+    "action": "Draw 2 Don"
+  },
+  "log_083": {
+    "player": "Mars",
+    "action": "Attach 2 Don to",
+    "card": "OP09-001",
+    "total_don": 2
+  },
+  "log_084": {
+    "player": "Mars",
+    "action": "attacking",
+    "attacker": "OP09-001",
+    "defender": "OP01-060"
+  },
+  "log_085": {
+    "player": "Mars",
+    "action": "hit for 1 damage",
+    "attacker": "OP09-001",
+    "attacker_power": 7000,
+    "defender": "OP01-060",
+    "defender_power": 5000
+  },
+  "log_086": {
+    "player": "Mars",
+    "action": "Deploy",
+    "card": "OP09-011"
+  },
+  "log_087": {
+    "player": "Mars",
+    "action": "End Turn"
+  },
+  "log_088": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "EB01-023",
+      "ST17-004",
+      "ST17-005",
+      "EB01-023",
+      "ST03-004"
+    ]
+  },
+  "log_089": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP07-046",
+      "ST17-003",
+      "ST17-005"
+    ]
+  },
+  "log_090": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST03-004"
+    ]
+  },
+  "log_091": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log_092": {
+    "player": "Mars",
+    "action": "Hand",
+    "cards": [
+      "OP09-009",
+      "OP06-007",
+      "OP04-016",
+      "OP06-007",
+      "OP01-006"
+    ]
+  },
+  "log_093": {
+    "player": "Mars",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_094": {
+    "player": "Mars",
+    "action": "Board",
+    "cards": [
+      "OP09-002",
+      "OP09-008",
+      "OP09-011"
+    ]
+  },
+  "log_095": {
+    "player": "Mars",
+    "action": "Life",
+    "value": 4
+  },
+  "log_096": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log_097": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "EB01-023"
+  },
+  "log_098": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log_099": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "EB01-023"
+  },
+  "log_100": {
+    "player": "Moroff",
+    "action": "Draw 1 Card",
+    "card": "EB01-023"
+  },
+  "log_101": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-003"
+  },
+  "log_102": {
+    "player": "Moroff",
+    "action": "Sent a Card to Deck Top"
+  },
+  "log_103": {
+    "player": "Moroff",
+    "action": "Attach 1 Rested Don to",
+    "card": "OP01-060",
+    "source": "ST17-005"
+  },
+  "log_104": {
+    "player": "Moroff",
+    "action": "Attach 1 Rested Don to",
+    "card": "OP01-060",
+    "source": "ST17-005"
+  },
+  "log_105": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "ST17-005",
+    "total_don": 1
+  },
+  "log_106": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "ST17-005",
+    "total_don": 2
+  },
+  "log_107": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "ST17-005",
+    "defender": "OP09-001"
+  },
+  "log_108": {
+    "player": "Mars",
+    "action": "Buff",
+    "target": "ST17-005",
+    "power_change": -1000,
+    "source": "OP09-001"
+  },
+  "log_109": {
+    "player": "Moroff",
+    "action": "Attack Fails",
+    "attacker": "ST17-005",
+    "attacker_power": 4000,
+    "defender": "OP09-001",
+    "defender_power": 5000
+  },
+  "log_110": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP09-001"
+  },
+  "log_111": {
+    "player": "Moroff",
+    "action": "hit for 1 damage",
+    "attacker": "OP01-060",
+    "attacker_power": 7000,
+    "defender": "OP09-001",
+    "defender_power": 5000
+  },
+  "log_112": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "EB01-023",
+      "ST17-004",
+      "ST17-005",
+      "ST03-004",
+      "EB01-023"
+    ]
+  },
+  "log_113": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP07-046",
+      "ST17-003",
+      "ST17-005",
+      "EB01-023"
+    ]
+  },
+  "log_114": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST03-004"
+    ]
+  },
+  "log_115": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log_116": {
+    "player": "Mars",
+    "action": "Hand",
+    "cards": [
+      "OP09-009",
+      "OP06-007",
+      "OP04-016",
+      "OP06-007",
+      "OP01-006",
+      "ST15-002"
+    ]
+  },
+  "log_117": {
+    "player": "Mars",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_118": {
+    "player": "Mars",
+    "action": "Board",
+    "cards": [
+      "OP09-002",
+      "OP09-008",
+      "OP09-011"
+    ]
+  },
+  "log_119": {
+    "player": "Mars",
+    "action": "Life",
+    "value": 3
+  },
+  "log_120": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_121": {
+    "player": "Mars",
+    "action": "Draw 1 Card"
+  },
+  "log_122": {
+    "player": "Mars",
+    "action": "Drew card from deck",
+    "card": "OP04-016"
+  },
+  "log_123": {
+    "player": "Mars",
+    "action": "Draw 2 Don"
+  },
+  "log_124": {
+    "player": "Mars",
+    "action": "attacking",
+    "attacker": "OP09-011",
+    "defender": "ST17-005"
+  },
+  "log_125": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "ST03-004",
+    "counter": 1000
+  },
+  "log_126": {
+    "player": "Mars",
+    "action": "Attack Fails",
+    "attacker": "OP09-011",
+    "attacker_power": 3000,
+    "defender": "ST17-005",
+    "defender_power": 4000
+  },
+  "log_127": {
+    "player": "Mars",
+    "action": "Rest",
+    "card": "OP09-021",
+    "source": "OP09-021"
+  },
+  "log_128": {
+    "player": "Mars",
+    "action": "Buff",
+    "target": "EB01-023",
+    "power_change": -1000,
+    "source": "OP09-021"
+  },
+  "log_129": {
+    "player": "Mars",
+    "action": "Deploy",
+    "card": "ST15-002"
+  },
+  "log_130": {
+    "player": "Mars",
+    "action": "Attach 1 Rested Don to",
+    "card": "OP09-001",
+    "source": "ST15-002"
+  },
+  "log_131": {
+    "player": "Mars",
+    "action": "Rest",
+    "card": "ST15-002",
+    "source": "ST15-002"
+  },
+  "log_132": {
+    "player": "Mars",
+    "action": "Destroy",
+    "card": "EB01-023",
+    "source": "ST15-002"
+  },
+  "log_133": {
+    "player": "Mars",
+    "action": "attacking",
+    "attacker": "OP09-001",
+    "defender": "OP01-060"
+  },
+  "log_134": {
+    "player": "Mars",
+    "action": "hit for 1 damage",
+    "attacker": "OP09-001",
+    "attacker_power": 6000,
+    "defender": "OP01-060",
+    "defender_power": 5000
+  },
+  "log_135": {
+    "player": "Mars",
+    "action": "End Turn"
+  },
+  "log_136": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "EB01-023",
+      "ST17-004",
+      "ST17-005",
+      "EB01-023",
+      "ST17-002"
+    ]
+  },
+  "log_137": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP07-046",
+      "ST17-003",
+      "ST17-005"
+    ]
+  },
+  "log_138": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST03-004",
+      "ST03-004",
+      "EB01-023"
+    ]
+  },
+  "log_139": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 3
+  },
+  "log_140": {
+    "player": "Mars",
+    "action": "Hand",
+    "cards": [
+      "OP09-009",
+      "OP06-007",
+      "OP04-016",
+      "OP06-007",
+      "OP01-006",
+      "OP04-016"
+    ]
+  },
+  "log_141": {
+    "player": "Mars",
+    "action": "Trash",
+    "cards": [
+      "OP09-011",
+      "OP01-006"
+    ]
+  },
+  "log_142": {
+    "player": "Mars",
+    "action": "Board",
+    "cards": [
+      "OP09-002",
+      "OP09-008",
+      "ST15-002"
+    ]
+  },
+  "log_143": {
+    "player": "Mars",
+    "action": "Life",
+    "value": 3
+  },
+  "log_144": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log_145": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-003"
+  },
+  "log_146": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log_147": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "EB01-023"
+  },
+  "log_148": {
+    "player": "Moroff",
+    "action": "Draw 1 Card",
+    "card": "EB01-023"
+  },
+  "log_149": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-005"
+  },
+  "log_150": {
+    "player": "Moroff",
+    "action": "Sent a Card to Deck Top"
+  },
+  "log_151": {
+    "player": "Moroff",
+    "action": "Attach 1 Rested Don to",
+    "card": "OP01-060",
+    "source": "ST17-005"
+  },
+  "log_152": {
+    "player": "Moroff",
+    "action": "Attach 1 Rested Don to",
+    "card": "OP01-060",
+    "source": "ST17-005"
+  },
+  "log_153": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "ST17-005",
+    "total_don": 1
+  },
+  "log_154": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "ST17-005",
+    "defender": "OP09-011"
+  },
+  "log_155": {
+    "player": "Mars",
+    "action": "Destroyed",
+    "card": "OP09-011"
+  },
+  "log_156": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 3
+  },
+  "log_157": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 4
+  },
+  "log_158": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 5
+  },
+  "log_159": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "ST15-002"
+  },
+  "log_160": {
+    "player": "Mars",
+    "action": "Buff",
+    "target": "OP01-060",
+    "power_change": -1000,
+    "source": "OP09-001"
+  },
+  "log_161": {
+    "player": "Mars",
+    "action": "Discard",
+    "card": "OP01-006",
+    "counter": 2000
+  },
+  "log_162": {
+    "player": "Moroff",
+    "action": "Attack Fails",
+    "attacker": "OP01-060",
+    "attacker_power": 9000,
+    "defender": "ST15-002",
+    "defender_power": 10000
+  },
+  "log_163": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-004",
+      "ST17-005",
+      "EB01-023",
+      "ST17-002",
+      "ST17-003"
+    ]
+  },
+  "log_164": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP07-046",
+      "ST17-003",
+      "ST17-005",
+      "EB01-023"
+    ]
+  },
+  "log_165": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST03-004",
+      "ST03-004",
+      "EB01-023"
+    ]
+  },
+  "log_166": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 3
+  },
+  "log_167": {
+    "player": "Mars",
+    "action": "Hand",
+    "cards": [
+      "OP09-009",
+      "OP06-007",
+      "OP04-016",
+      "OP06-007",
+      "OP04-016"
+    ]
+  },
+  "log_168": {
+    "player": "Mars",
+    "action": "Trash",
+    "cards": [
+      "OP09-011",
+      "OP01-006"
+    ]
+  },
+  "log_169": {
+    "player": "Mars",
+    "action": "Board",
+    "cards": [
+      "OP09-002",
+      "OP09-008",
+      "ST15-002"
+    ]
+  },
+  "log_170": {
+    "player": "Mars",
+    "action": "Life",
+    "value": 3
+  },
+  "log_171": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_172": {
+    "player": "Mars",
+    "action": "Draw 1 Card"
+  },
+  "log_173": {
+    "player": "Mars",
+    "action": "Drew card from deck",
+    "card": "OP03-013"
+  },
+  "log_174": {
+    "player": "Mars",
+    "action": "Draw 2 Don"
+  },
+  "log_175": {
+    "player": "Mars",
+    "action": "Rest",
+    "card": "OP09-021",
+    "source": "OP09-021"
+  },
+  "log_176": {
+    "player": "Mars",
+    "action": "Buff",
+    "target": "ST17-005",
+    "power_change": -1000,
+    "source": "OP09-021"
+  },
+  "log_177": {
+    "player": "Mars",
+    "action": "attacking",
+    "attacker": "OP09-002",
+    "defender": "ST17-005"
+  },
+  "log_178": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "ST17-002",
+    "counter": 1000
+  },
+  "log_179": {
+    "player": "Mars",
+    "action": "Attack Fails",
+    "attacker": "OP09-002",
+    "attacker_power": 2000,
+    "defender": "ST17-005",
+    "defender_power": 3000
+  },
+  "log_180": {
+    "player": "Mars",
+    "action": "Attach 1 Don to",
+    "card": "OP09-008",
+    "total_don": 1
+  },
+  "log_181": {
+    "player": "Mars",
+    "action": "attacking",
+    "attacker": "OP09-008",
+    "defender": "ST17-005"
+  },
+  "log_182": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "ST17-003",
+    "counter": 2000
+  },
+  "log_183": {
+    "player": "Mars",
+    "action": "Attack Fails",
+    "attacker": "OP09-008",
+    "attacker_power": 3000,
+    "defender": "ST17-005",
+    "defender_power": 4000
+  },
+  "log_184": {
+    "player": "Mars",
+    "action": "Attach 1 Don to",
+    "card": "OP09-001",
+    "total_don": 1
+  },
+  "log_185": {
+    "player": "Mars",
+    "action": "attacking",
+    "attacker": "OP09-001",
+    "defender": "ST17-005"
+  },
+  "log_186": {
+    "player": "Moroff",
+    "action": "Destroyed",
+    "card": "ST17-005"
+  },
+  "log_187": {
+    "player": "Mars",
+    "action": "attacking",
+    "attacker": "ST15-002",
+    "defender": "OP01-060"
+  },
+  "log_188": {
+    "player": "Mars",
+    "action": "hit for 1 damage",
+    "attacker": "ST15-002",
+    "attacker_power": 8000,
+    "defender": "OP01-060",
+    "defender_power": 5000
+  },
+  "log_189": {
+    "player": "Mars",
+    "action": "Deploy",
+    "card": "OP09-009"
+  },
+  "log_190": {
+    "player": "Mars",
+    "action": "Trash",
+    "card": "EB01-023",
+    "source": "OP09-009"
+  },
+  "log_191": {
+    "player": "Mars",
+    "action": "End Turn"
+  },
+  "log_192": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-004",
+      "ST17-005",
+      "EB01-023",
+      "ST17-003"
+    ]
+  },
+  "log_193": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP07-046",
+      "ST17-003"
+    ]
+  },
+  "log_194": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST03-004",
+      "ST03-004",
+      "EB01-023",
+      "ST17-002",
+      "ST17-003",
+      "ST17-005",
+      "EB01-023"
+    ]
+  },
+  "log_195": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 2
+  },
+  "log_196": {
+    "player": "Mars",
+    "action": "Hand",
+    "cards": [
+      "OP06-007",
+      "OP04-016",
+      "OP06-007",
+      "OP04-016",
+      "OP03-013"
+    ]
+  },
+  "log_197": {
+    "player": "Mars",
+    "action": "Trash",
+    "cards": [
+      "OP09-011",
+      "OP01-006"
+    ]
+  },
+  "log_198": {
+    "player": "Mars",
+    "action": "Board",
+    "cards": [
+      "OP09-002",
+      "OP09-008",
+      "ST15-002",
+      "OP09-009"
+    ]
+  },
+  "log_199": {
+    "player": "Mars",
+    "action": "Life",
+    "value": 3
+  },
+  "log_200": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log_201": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-005"
+  },
+  "log_202": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log_203": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "ST17-004"
+  },
+  "log_204": {
+    "player": "Moroff",
+    "action": "Placing Cards on Top of Deck"
+  },
+  "log_205": {
+    "player": "Moroff",
+    "action": "Attach 1 Rested Don to",
+    "card": "OP01-060",
+    "source": "ST17-004"
+  },
+  "log_206": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log_207": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 3
+  },
+  "log_208": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 4
+  },
+  "log_209": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 5
+  },
+  "log_210": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 6
+  },
+  "log_211": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 7
+  },
+  "log_212": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "ST15-002"
+  },
+  "log_213": {
+    "player": "Mars",
+    "action": "Buff",
+    "target": "OP01-060",
+    "power_change": -1000,
+    "source": "OP09-001"
+  },
+  "log_214": {
+    "player": "Mars",
+    "action": "Trash",
+    "card": "OP06-007"
+  },
+  "log_215": {
+    "player": "Mars",
+    "action": "Counter 3000",
+    "card": "OP04-016"
+  },
+  "log_216": {
+    "player": "Mars",
+    "action": "Discard",
+    "card": "OP03-013",
+    "counter": 1000
+  },
+  "log_217": {
+    "player": "Moroff",
+    "action": "Attack Fails",
+    "attacker": "OP01-060",
+    "attacker_power": 11000,
+    "defender": "ST15-002",
+    "defender_power": 12000
+  },
+  "log_218": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-005",
+      "EB01-023",
+      "ST17-003",
+      "ST17-005"
+    ]
+  },
+  "log_219": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP07-046",
+      "ST17-003",
+      "ST17-004"
+    ]
+  },
+  "log_220": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST03-004",
+      "ST03-004",
+      "EB01-023",
+      "ST17-002",
+      "ST17-003",
+      "ST17-005",
+      "EB01-023"
+    ]
+  },
+  "log_221": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 2
+  },
+  "log_222": {
+    "player": "Mars",
+    "action": "Hand",
+    "cards": [
+      "OP04-016",
+      "OP06-007"
+    ]
+  },
+  "log_223": {
+    "player": "Mars",
+    "action": "Trash",
+    "cards": [
+      "OP09-011",
+      "OP01-006",
+      "OP06-007",
+      "OP04-016",
+      "OP03-013"
+    ]
+  },
+  "log_224": {
+    "player": "Mars",
+    "action": "Board",
+    "cards": [
+      "OP09-002",
+      "OP09-008",
+      "ST15-002",
+      "OP09-009"
+    ]
+  },
+  "log_225": {
+    "player": "Mars",
+    "action": "Life",
+    "value": 3
+  },
+  "log_226": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_227": {
+    "player": "Mars",
+    "action": "Draw 1 Card"
+  },
+  "log_228": {
+    "player": "Mars",
+    "action": "Drew card from deck",
+    "card": "OP10-019"
+  },
+  "log_229": {
+    "player": "Mars",
+    "action": "Draw 2 Don"
+  },
+  "log_230": {
+    "player": "Mars",
+    "action": "Deploy",
+    "card": "OP06-007"
+  },
+  "log_231": {
+    "player": "Mars",
+    "action": "Destroy",
+    "card": "ST17-004",
+    "source": "OP06-007"
+  },
+  "log_232": {
+    "player": "Mars",
+    "action": "attacking",
+    "attacker": "OP09-001",
+    "defender": "OP01-060"
+  },
+  "log_233": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "ST17-005",
+    "counter": 1000
+  },
+  "log_234": {
+    "player": "Mars",
+    "action": "Attack Fails",
+    "attacker": "OP09-001",
+    "attacker_power": 5000,
+    "defender": "OP01-060",
+    "defender_power": 6000
+  },
+  "log_235": {
+    "player": "Mars",
+    "action": "attacking",
+    "attacker": "OP09-009",
+    "defender": "OP01-060"
+  },
+  "log_236": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "ST17-005",
+    "counter": 1000
+  },
+  "log_237": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "ST17-003",
+    "counter": 2000
+  },
+  "log_238": {
+    "player": "Mars",
+    "action": "Attack Fails",
+    "attacker": "OP09-009",
+    "attacker_power": 7000,
+    "defender": "OP01-060",
+    "defender_power": 8000
+  },
+  "log_239": {
+    "player": "Mars",
+    "action": "attacking",
+    "attacker": "ST15-002",
+    "defender": "OP01-060"
+  },
+  "log_240": {
+    "player": "Mars",
+    "action": "hit for 1 damage",
+    "attacker": "ST15-002",
+    "attacker_power": 8000,
+    "defender": "OP01-060",
+    "defender_power": 5000
+  },
+  "log_241": {
+    "player": "Mars",
+    "action": "End Turn"
+  },
+  "log_242": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "EB01-023",
+      "ST17-002"
+    ]
+  },
+  "log_243": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP07-046",
+      "ST17-003"
+    ]
+  },
+  "log_244": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST03-004",
+      "ST03-004",
+      "EB01-023",
+      "ST17-002",
+      "ST17-003",
+      "ST17-005",
+      "EB01-023",
+      "ST17-004",
+      "ST17-005",
+      "ST17-005",
+      "ST17-003"
+    ]
+  },
+  "log_245": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 1
+  },
+  "log_246": {
+    "player": "Mars",
+    "action": "Hand",
+    "cards": [
+      "OP04-016",
+      "OP10-019"
+    ]
+  },
+  "log_247": {
+    "player": "Mars",
+    "action": "Trash",
+    "cards": [
+      "OP09-011",
+      "OP01-006",
+      "OP06-007",
+      "OP04-016",
+      "OP03-013"
+    ]
+  },
+  "log_248": {
+    "player": "Mars",
+    "action": "Board",
+    "cards": [
+      "OP09-002",
+      "OP09-008",
+      "ST15-002",
+      "OP09-009",
+      "OP06-007"
+    ]
+  },
+  "log_249": {
+    "player": "Mars",
+    "action": "Life",
+    "value": 3
+  },
+  "log_250": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log_251": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST03-004"
+  },
+  "log_252": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "EB01-023"
+  },
+  "log_253": {
+    "player": "Moroff",
+    "action": "Draw 1 Card",
+    "card": "EB01-023"
+  },
+  "log_254": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP06-058"
+  },
+  "log_255": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log_256": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log_257": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 3
+  },
+  "log_258": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 4
+  },
+  "log_259": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP09-001"
+  },
+  "log_260": {
+    "player": "Moroff",
+    "action": "revealed",
+    "card": "ST17-002",
+    "source": "OP01-060"
+  },
+  "log_261": {
+    "player": "Moroff",
+    "action": "Deploy from Deck",
+    "card": "ST17-002"
+  },
+  "log_262": {
+    "player": "Moroff",
+    "action": "Return to Hand",
+    "card": "OP07-046",
+    "source": "ST17-002"
+  },
+  "log_263": {
+    "player": "Moroff",
+    "action": "hit for 1 damage",
+    "attacker": "OP01-060",
+    "attacker_power": 9000,
+    "defender": "OP09-001",
+    "defender_power": 5000
+  },
+  "log_264": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "OP07-046"
+  },
+  "log_265": {
+    "player": "Moroff",
+    "action": "Reveal and Draw",
+    "card": "ST03-005"
+  },
+  "log_266": {
+    "player": "Moroff",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log_267": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-002",
+      "ST03-004",
+      "OP06-058",
+      "ST03-005"
+    ]
+  },
+  "log_268": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "ST17-003",
+      "EB01-023",
+      "ST17-002",
+      "OP07-046"
+    ]
+  },
+  "log_269": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST03-004",
+      "ST03-004",
+      "EB01-023",
+      "ST17-002",
+      "ST17-003",
+      "ST17-005",
+      "EB01-023",
+      "ST17-004",
+      "ST17-005",
+      "ST17-005",
+      "ST17-003"
+    ]
+  },
+  "log_270": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 1
+  },
+  "log_271": {
+    "player": "Mars",
+    "action": "Hand",
+    "cards": [
+      "OP04-016",
+      "OP10-019",
+      "OP09-015"
+    ]
+  },
+  "log_272": {
+    "player": "Mars",
+    "action": "Trash",
+    "cards": [
+      "OP09-011",
+      "OP01-006",
+      "OP06-007",
+      "OP04-016",
+      "OP03-013"
+    ]
+  },
+  "log_273": {
+    "player": "Mars",
+    "action": "Board",
+    "cards": [
+      "OP09-002",
+      "OP09-008",
+      "ST15-002",
+      "OP09-009",
+      "OP06-007"
+    ]
+  },
+  "log_274": {
+    "player": "Mars",
+    "action": "Life",
+    "value": 2
+  },
+  "log_275": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_276": {
+    "player": "Mars",
+    "action": "Draw 1 Card"
+  },
+  "log_277": {
+    "player": "Mars",
+    "action": "Drew card from deck",
+    "card": "OP10-011"
+  },
+  "log_278": {
+    "player": "Mars",
+    "action": "attacking",
+    "attacker": "OP09-009",
+    "defender": "OP01-060"
+  },
+  "log_279": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "ST03-005",
+    "counter": 2000
+  },
+  "log_280": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "ST03-004",
+    "counter": 1000
+  },
+  "log_281": {
+    "player": "Mars",
+    "action": "Attack Fails",
+    "attacker": "OP09-009",
+    "attacker_power": 7000,
+    "defender": "OP01-060",
+    "defender_power": 8000
+  },
+  "log_282": {
+    "player": "Mars",
+    "action": "attacking",
+    "attacker": "ST15-002",
+    "defender": "OP01-060"
+  },
+  "log_283": {
+    "player": "Mars",
+    "action": "hit for 1 damage",
+    "attacker": "ST15-002",
+    "attacker_power": 8000,
+    "defender": "OP01-060",
+    "defender_power": 5000
+  },
+  "log_284": {
+    "player": "Mars",
+    "action": "Attach 10 Don to",
+    "card": "OP06-007",
+    "total_don": 10
+  },
+  "log_285": {
+    "player": "Mars",
+    "action": "attacking",
+    "attacker": "OP06-007",
+    "defender": "OP01-060"
+  },
+  "log_286": {
+    "player": "Mars",
+    "action": "hit for 1 damage",
+    "attacker": "OP06-007",
+    "attacker_power": 22000,
+    "defender": "OP01-060",
+    "defender_power": 5000
+  },
+  "log_287": {
+    "player": "Moroff",
+    "action": "Loses"
+  },
+  "log_288": {
+    "player": "Mars",
+    "action": "Wins!"
+  }
+}

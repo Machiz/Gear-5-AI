@@ -1,0 +1,2019 @@
+{
+  "log_001": {
+    "player": "Moroff",
+    "action": "Leader is Donquixote Doflamingo",
+    "card": "OP01-060"
+  },
+  "log_002": {
+    "player": "Tasoeur",
+    "action": "Leader is Hody Jones",
+    "card": "OP06-020"
+  },
+  "log_003": {
+    "player": "Moroff",
+    "action": "Will select turn order"
+  },
+  "log_004": {
+    "player": "Moroff",
+    "action": "Chose to go Second"
+  },
+  "log_005": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP08-047"
+  },
+  "log_006": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-002"
+  },
+  "log_007": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP06-047"
+  },
+  "log_008": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP06-047"
+  },
+  "log_009": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST03-005"
+  },
+  "log_010": {
+    "player": "Moroff",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "OP08-047",
+      "ST17-002",
+      "OP06-047",
+      "OP06-047",
+      "ST03-005"
+    ]
+  },
+  "log_011": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP06-033"
+  },
+  "log_012": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP06-033"
+  },
+  "log_013": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP06-033"
+  },
+  "log_014": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP06-024"
+  },
+  "log_015": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP06-030"
+  },
+  "log_016": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP06-033"
+  },
+  "log_017": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP03-033"
+  },
+  "log_018": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP06-025"
+  },
+  "log_019": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP07-032"
+  },
+  "log_020": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP06-035"
+  },
+  "log_021": {
+    "player": "Tasoeur",
+    "action": "Mulligan"
+  },
+  "log_022": {
+    "player": "Tasoeur",
+    "action": "Draw",
+    "amount": 1,
+    "unit": "Don"
+  },
+  "log_023": {
+    "player": "Tasoeur",
+    "action": "Deploy",
+    "card": "OP06-025"
+  },
+  "log_024": {
+    "player": "Tasoeur",
+    "action": "Reveal and Draw",
+    "card": "OP06-030"
+  },
+  "log_025": {
+    "player": "Tasoeur",
+    "action": "End Turn"
+  },
+  "log_026": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "OP08-047",
+      "ST17-002",
+      "OP06-047",
+      "OP06-047",
+      "ST03-005"
+    ]
+  },
+  "log_027": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log_028": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_029": {
+    "player": "Moroff",
+    "action": "Life",
+    "amount": 5
+  },
+  "log_030": {
+    "player": "Tasoeur",
+    "action": "Hand",
+    "cards": [
+      "OP06-033",
+      "OP03-033",
+      "OP07-032",
+      "OP06-035",
+      "OP06-030"
+    ]
+  },
+  "log_031": {
+    "player": "Tasoeur",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_032": {
+    "player": "Tasoeur",
+    "action": "Board",
+    "cards": [
+      "OP06-025"
+    ]
+  },
+  "log_033": {
+    "player": "Tasoeur",
+    "action": "Life",
+    "amount": 5
+  },
+  "log_034": {
+    "player": "Moroff",
+    "action": "Draw",
+    "amount": 1,
+    "unit": "Card"
+  },
+  "log_035": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP07-040"
+  },
+  "log_036": {
+    "player": "Moroff",
+    "action": "Draw",
+    "amount": 2,
+    "unit": "Don"
+  },
+  "log_037": {
+    "player": "Moroff",
+    "action": "Attach",
+    "amount": 1,
+    "unit": "Don",
+    "to": "Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log_038": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "OP08-047",
+      "ST17-002",
+      "OP06-047",
+      "OP06-047",
+      "ST03-005",
+      "OP07-040"
+    ]
+  },
+  "log_039": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log_040": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_041": {
+    "player": "Moroff",
+    "action": "Life",
+    "amount": 5
+  },
+  "log_042": {
+    "player": "Tasoeur",
+    "action": "Hand",
+    "cards": [
+      "OP06-033",
+      "OP03-033",
+      "OP07-032",
+      "OP06-035",
+      "OP06-030"
+    ]
+  },
+  "log_043": {
+    "player": "Tasoeur",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_044": {
+    "player": "Tasoeur",
+    "action": "Board",
+    "cards": [
+      "OP06-025"
+    ]
+  },
+  "log_045": {
+    "player": "Tasoeur",
+    "action": "Life",
+    "amount": 5
+  },
+  "log_046": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_047": {
+    "player": "Tasoeur",
+    "action": "Draw",
+    "amount": 1,
+    "unit": "Card"
+  },
+  "log_048": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP06-024"
+  },
+  "log_049": {
+    "player": "Tasoeur",
+    "action": "Draw",
+    "amount": 2,
+    "unit": "Don"
+  },
+  "log_050": {
+    "player": "Tasoeur",
+    "action": "attacking",
+    "attacker": "Hody Jones",
+    "attacker_card": "OP06-020",
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060"
+  },
+  "log_051": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "ST17-002",
+    "counter": 1000
+  },
+  "log_052": {
+    "player": "Tasoeur",
+    "action": "Attack Fails",
+    "attacker": "Hody Jones",
+    "attacker_card": "OP06-020",
+    "attacker_power": 5000,
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060",
+    "defender_power": 6000
+  },
+  "log_053": {
+    "player": "Tasoeur",
+    "action": "Deploy",
+    "card": "OP06-030"
+  },
+  "log_054": {
+    "player": "Tasoeur",
+    "action": "End Turn"
+  },
+  "log_055": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "OP08-047",
+      "OP06-047",
+      "OP06-047",
+      "ST03-005",
+      "OP07-040"
+    ]
+  },
+  "log_056": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log_057": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST17-002"
+    ]
+  },
+  "log_058": {
+    "player": "Moroff",
+    "action": "Life",
+    "amount": 5
+  },
+  "log_059": {
+    "player": "Tasoeur",
+    "action": "Hand",
+    "cards": [
+      "OP06-033",
+      "OP03-033",
+      "OP07-032",
+      "OP06-035",
+      "OP06-024"
+    ]
+  },
+  "log_060": {
+    "player": "Tasoeur",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_061": {
+    "player": "Tasoeur",
+    "action": "Board",
+    "cards": [
+      "OP06-025",
+      "OP06-030"
+    ]
+  },
+  "log_062": {
+    "player": "Tasoeur",
+    "action": "Life",
+    "amount": 5
+  },
+  "log_063": {
+    "player": "Moroff",
+    "action": "Draw",
+    "amount": 1,
+    "unit": "Card"
+  },
+  "log_064": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP07-046"
+  },
+  "log_065": {
+    "player": "Moroff",
+    "action": "Draw",
+    "amount": 2,
+    "unit": "Don"
+  },
+  "log_066": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "OP06-047"
+  },
+  "log_067": {
+    "player": "Moroff",
+    "action": "Force Opponent to Shuffle Hand into Deck and Draw",
+    "amount": 5
+  },
+  "log_068": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP06-035"
+  },
+  "log_069": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "P-062"
+  },
+  "log_070": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP06-028"
+  },
+  "log_071": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP06-028"
+  },
+  "log_072": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP06-035"
+  },
+  "log_073": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "Donquixote Doflamingo",
+    "attacker_card": "OP01-060",
+    "defender": "Hody Jones",
+    "defender_card": "OP06-020"
+  },
+  "log_074": {
+    "player": "Moroff",
+    "action": "hit for 1 damage",
+    "target": "Hody Jones",
+    "target_card": "OP06-020",
+    "attacker_power": 5000,
+    "defender_power": 5000
+  },
+  "log_075": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "OP08-047",
+      "OP06-047",
+      "ST03-005",
+      "OP07-040",
+      "OP07-046"
+    ]
+  },
+  "log_076": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP06-047"
+    ]
+  },
+  "log_077": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST17-002"
+    ]
+  },
+  "log_078": {
+    "player": "Moroff",
+    "action": "Life",
+    "amount": 5
+  },
+  "log_079": {
+    "player": "Tasoeur",
+    "action": "Hand",
+    "cards": [
+      "OP06-035",
+      "P-062",
+      "OP06-028",
+      "OP06-028",
+      "OP06-035",
+      "OP06-025"
+    ]
+  },
+  "log_080": {
+    "player": "Tasoeur",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_081": {
+    "player": "Tasoeur",
+    "action": "Board",
+    "cards": [
+      "OP06-025",
+      "OP06-030"
+    ]
+  },
+  "log_082": {
+    "player": "Tasoeur",
+    "action": "Life",
+    "amount": 4
+  },
+  "log_083": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_084": {
+    "player": "Tasoeur",
+    "action": "Draw",
+    "amount": 1,
+    "unit": "Card"
+  },
+  "log_085": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP07-032"
+  },
+  "log_086": {
+    "player": "Tasoeur",
+    "action": "Draw",
+    "amount": 2,
+    "unit": "Don"
+  },
+  "log_087": {
+    "player": "Tasoeur",
+    "action": "Deploy",
+    "card": "OP07-032"
+  },
+  "log_088": {
+    "player": "Tasoeur",
+    "action": "Rest",
+    "target": "Charlotte Pudding",
+    "target_card": "OP06-047",
+    "source": "Fisher Tiger",
+    "source_card": "OP07-032"
+  },
+  "log_089": {
+    "player": "Tasoeur",
+    "action": "attacking",
+    "attacker": "Fisher Tiger",
+    "attacker_card": "OP07-032",
+    "defender": "Charlotte Pudding",
+    "defender_card": "OP06-047"
+  },
+  "log_090": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "OP07-040",
+    "counter": 2000
+  },
+  "log_091": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "OP07-046",
+    "counter": 1000
+  },
+  "log_092": {
+    "player": "Tasoeur",
+    "action": "Attack Fails",
+    "attacker": "Fisher Tiger",
+    "attacker_card": "OP07-032",
+    "attacker_power": 6000,
+    "defender": "Charlotte Pudding",
+    "defender_card": "OP06-047",
+    "defender_power": 7000
+  },
+  "log_093": {
+    "player": "Tasoeur",
+    "action": "attacking",
+    "attacker": "Hody Jones",
+    "attacker_card": "OP06-020",
+    "defender": "Charlotte Pudding",
+    "defender_card": "OP06-047"
+  },
+  "log_094": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "ST03-005",
+    "counter": 2000
+  },
+  "log_095": {
+    "player": "Tasoeur",
+    "action": "Attack Fails",
+    "attacker": "Hody Jones",
+    "attacker_card": "OP06-020",
+    "attacker_power": 5000,
+    "defender": "Charlotte Pudding",
+    "defender_card": "OP06-047",
+    "defender_power": 6000
+  },
+  "log_096": {
+    "player": "Tasoeur",
+    "action": "attacking",
+    "attacker": "Dosun",
+    "attacker_card": "OP06-030",
+    "defender": "Charlotte Pudding",
+    "defender_card": "OP06-047"
+  },
+  "log_097": {
+    "player": "Tasoeur",
+    "action": "Loses",
+    "amount": 1,
+    "unit": "Life"
+  },
+  "log_098": {
+    "player": "Tasoeur",
+    "action": "Grant",
+    "target": "Dosun",
+    "target_card": "OP06-030",
+    "power_change": 2000,
+    "duration": "until next turn",
+    "source": "Dosun",
+    "source_card": "OP06-030"
+  },
+  "log_099": {
+    "player": "Tasoeur",
+    "action": "is Immune from Combat KOs until next turn!",
+    "target": "Dosun",
+    "target_card": "OP06-030"
+  },
+  "log_100": {
+    "player": "Moroff",
+    "action": "Destroyed",
+    "target": "Charlotte Pudding",
+    "target_card": "OP06-047",
+    "attacker_power": 6000,
+    "defender_power": 4000
+  },
+  "log_101": {
+    "player": "Tasoeur",
+    "action": "End Turn"
+  },
+  "log_102": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "OP08-047",
+      "OP06-047"
+    ]
+  },
+  "log_103": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log_104": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST17-002",
+      "OP07-040",
+      "OP07-046",
+      "ST03-005",
+      "OP06-047"
+    ]
+  },
+  "log_105": {
+    "player": "Moroff",
+    "action": "Life",
+    "amount": 5
+  },
+  "log_106": {
+    "player": "Tasoeur",
+    "action": "Hand",
+    "cards": [
+      "OP06-035",
+      "P-062",
+      "OP06-028",
+      "OP06-028",
+      "OP06-035",
+      "OP06-025",
+      "OP07-032"
+    ]
+  },
+  "log_107": {
+    "player": "Tasoeur",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_108": {
+    "player": "Tasoeur",
+    "action": "Board",
+    "cards": [
+      "OP06-025",
+      "OP06-030",
+      "OP07-032"
+    ]
+  },
+  "log_109": {
+    "player": "Tasoeur",
+    "action": "Life",
+    "amount": 3
+  },
+  "log_110": {
+    "player": "Moroff",
+    "action": "Draw",
+    "amount": 1,
+    "unit": "Card"
+  },
+  "log_111": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "EB01-023"
+  },
+  "log_112": {
+    "player": "Moroff",
+    "action": "Draw",
+    "amount": 2,
+    "unit": "Don"
+  },
+  "log_113": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "OP06-047"
+  },
+  "log_114": {
+    "player": "Moroff",
+    "action": "Force Opponent to Shuffle Hand into Deck and Draw",
+    "amount": 5
+  },
+  "log_115": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP07-032"
+  },
+  "log_116": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP06-028"
+  },
+  "log_117": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP06-032"
+  },
+  "log_118": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP01-058"
+  },
+  "log_119": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP06-024"
+  },
+  "log_120": {
+    "player": "Moroff",
+    "action": "Attach",
+    "amount": 1,
+    "unit": "Don",
+    "to": "Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log_121": {
+    "player": "Moroff",
+    "action": "Attach",
+    "amount": 1,
+    "unit": "Don",
+    "to": "Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log_122": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "Donquixote Doflamingo",
+    "attacker_card": "OP01-060",
+    "defender": "Fisher Tiger",
+    "defender_card": "OP07-032"
+  },
+  "log_123": {
+    "player": "Tasoeur",
+    "action": "dude"
+  },
+  "log_124": {
+    "player": "Tasoeur",
+    "action": "Discard",
+    "card": "OP06-028",
+    "counter": 2000
+  },
+  "log_125": {
+    "player": "Moroff",
+    "action": "Attack Fails",
+    "attacker": "Donquixote Doflamingo",
+    "attacker_card": "OP01-060",
+    "attacker_power": 7000,
+    "defender": "Fisher Tiger",
+    "defender_card": "OP07-032",
+    "defender_power": 8000
+  },
+  "log_126": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "OP08-047",
+      "EB01-023"
+    ]
+  },
+  "log_127": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP06-047"
+    ]
+  },
+  "log_128": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST17-002",
+      "OP07-040",
+      "OP07-046",
+      "ST03-005",
+      "OP06-047"
+    ]
+  },
+  "log_129": {
+    "player": "Moroff",
+    "action": "Life",
+    "amount": 5
+  },
+  "log_130": {
+    "player": "Tasoeur",
+    "action": "Hand",
+    "cards": [
+      "OP07-032",
+      "OP06-032",
+      "OP01-058",
+      "OP06-024"
+    ]
+  },
+  "log_131": {
+    "player": "Tasoeur",
+    "action": "Trash",
+    "cards": [
+      "OP06-028"
+    ]
+  },
+  "log_132": {
+    "player": "Tasoeur",
+    "action": "Board",
+    "cards": [
+      "OP06-025",
+      "OP06-030",
+      "OP07-032"
+    ]
+  },
+  "log_133": {
+    "player": "Tasoeur",
+    "action": "Life",
+    "amount": 3
+  },
+  "log_134": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_135": {
+    "player": "Tasoeur",
+    "action": "Draw",
+    "amount": 1,
+    "unit": "Card"
+  },
+  "log_136": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP06-030"
+  },
+  "log_137": {
+    "player": "Tasoeur",
+    "action": "Draw",
+    "amount": 2,
+    "unit": "Don"
+  },
+  "log_138": {
+    "player": "Tasoeur",
+    "action": "Deploy",
+    "card": "OP07-032"
+  },
+  "log_139": {
+    "player": "Tasoeur",
+    "action": "Rest",
+    "target": "Charlotte Pudding",
+    "target_card": "OP06-047",
+    "source": "Fisher Tiger",
+    "source_card": "OP07-032"
+  },
+  "log_140": {
+    "player": "Tasoeur",
+    "action": "attacking",
+    "attacker": "Fisher Tiger",
+    "attacker_card": "OP07-032",
+    "defender": "Charlotte Pudding",
+    "defender_card": "OP06-047"
+  },
+  "log_141": {
+    "player": "Moroff",
+    "action": "Destroyed",
+    "target": "Charlotte Pudding",
+    "target_card": "OP06-047",
+    "attacker_power": 6000,
+    "defender_power": 4000
+  },
+  "log_142": {
+    "player": "Tasoeur",
+    "action": "attacking",
+    "attacker": "Hody Jones",
+    "attacker_card": "OP06-020",
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060"
+  },
+  "log_143": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "OP08-047",
+    "counter": 1000
+  },
+  "log_144": {
+    "player": "Tasoeur",
+    "action": "Attack Fails",
+    "attacker": "Hody Jones",
+    "attacker_card": "OP06-020",
+    "attacker_power": 5000,
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060",
+    "defender_power": 6000
+  },
+  "log_145": {
+    "player": "Tasoeur",
+    "action": "attacking",
+    "attacker": "Fisher Tiger",
+    "attacker_card": "OP07-032",
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060"
+  },
+  "log_146": {
+    "player": "Tasoeur",
+    "action": "hit for 1 damage",
+    "target": "Donquixote Doflamingo",
+    "target_card": "OP01-060",
+    "attacker_power": 6000,
+    "defender_power": 5000
+  },
+  "log_147": {
+    "player": "Tasoeur",
+    "action": "Deploy",
+    "card": "OP06-032"
+  },
+  "log_148": {
+    "player": "Tasoeur",
+    "action": "End Turn"
+  },
+  "log_149": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "EB01-023",
+      "EB01-023"
+    ]
+  },
+  "log_150": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log_151": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST17-002",
+      "OP07-040",
+      "OP07-046",
+      "ST03-005",
+      "OP06-047",
+      "OP06-047",
+      "OP08-047"
+    ]
+  },
+  "log_152": {
+    "player": "Moroff",
+    "action": "Life",
+    "amount": 4
+  },
+  "log_153": {
+    "player": "Tasoeur",
+    "action": "Hand",
+    "cards": [
+      "OP01-058",
+      "OP06-024",
+      "OP06-030"
+    ]
+  },
+  "log_154": {
+    "player": "Tasoeur",
+    "action": "Trash",
+    "cards": [
+      "OP06-028",
+      "OP07-032"
+    ]
+  },
+  "log_155": {
+    "player": "Tasoeur",
+    "action": "Board",
+    "cards": [
+      "OP06-025",
+      "OP06-030",
+      "OP07-032",
+      "OP07-032",
+      "OP06-032"
+    ]
+  },
+  "log_156": {
+    "player": "Tasoeur",
+    "action": "Life",
+    "amount": 3
+  },
+  "log_157": {
+    "player": "Moroff",
+    "action": "Draw",
+    "amount": 1,
+    "unit": "Card"
+  },
+  "log_158": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP07-057"
+  },
+  "log_159": {
+    "player": "Moroff",
+    "action": "Draw",
+    "amount": 2,
+    "unit": "Don"
+  },
+  "log_160": {
+    "player": "Moroff",
+    "action": "Buff",
+    "target": "Donquixote Doflamingo",
+    "target_card": "OP01-060",
+    "power_change": 2000,
+    "source": "Perfume Femur",
+    "source_card": "OP07-057"
+  },
+  "log_161": {
+    "player": "Moroff",
+    "action": "Grant Unblockable to",
+    "target": "Donquixote Doflamingo",
+    "target_card": "OP01-060",
+    "source": "Perfume Femur",
+    "source_card": "OP07-057"
+  },
+  "log_162": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "EB01-023"
+  },
+  "log_163": {
+    "player": "Moroff",
+    "action": "Draw",
+    "amount": 1,
+    "unit": "Card",
+    "source": "Edward Weevil",
+    "source_card": "EB01-023"
+  },
+  "log_164": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP06-058"
+  },
+  "log_165": {
+    "player": "Moroff",
+    "action": "Attach",
+    "amount": 1,
+    "unit": "Don",
+    "to": "Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log_166": {
+    "player": "Moroff",
+    "action": "Attach",
+    "amount": 1,
+    "unit": "Don",
+    "to": "Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log_167": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "Donquixote Doflamingo",
+    "attacker_card": "OP01-060",
+    "defender": "Fisher Tiger",
+    "defender_card": "OP07-032"
+  },
+  "log_168": {
+    "player": "Tasoeur",
+    "action": "Destroyed",
+    "target": "Fisher Tiger",
+    "target_card": "OP07-032",
+    "attacker_power": 9000,
+    "defender_power": 6000
+  },
+  "log_169": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "EB01-023",
+      "OP06-058"
+    ]
+  },
+  "log_170": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "EB01-023"
+    ]
+  },
+  "log_171": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST17-002",
+      "OP07-040",
+      "OP07-046",
+      "ST03-005",
+      "OP06-047",
+      "OP06-047",
+      "OP08-047",
+      "OP07-057"
+    ]
+  },
+  "log_172": {
+    "player": "Moroff",
+    "action": "Life",
+    "amount": 4
+  },
+  "log_173": {
+    "player": "Tasoeur",
+    "action": "Hand",
+    "cards": [
+      "OP01-058",
+      "OP06-024",
+      "OP06-030"
+    ]
+  },
+  "log_174": {
+    "player": "Tasoeur",
+    "action": "Trash",
+    "cards": [
+      "OP06-028",
+      "OP07-032"
+    ]
+  },
+  "log_175": {
+    "player": "Tasoeur",
+    "action": "Board",
+    "cards": [
+      "OP06-025",
+      "OP06-030",
+      "OP07-032",
+      "OP06-032"
+    ]
+  },
+  "log_176": {
+    "player": "Tasoeur",
+    "action": "Life",
+    "amount": 3
+  },
+  "log_177": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_178": {
+    "player": "Tasoeur",
+    "action": "Draw",
+    "amount": 1,
+    "unit": "Card"
+  },
+  "log_179": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP06-023"
+  },
+  "log_180": {
+    "player": "Tasoeur",
+    "action": "Draw",
+    "amount": 2,
+    "unit": "Don"
+  },
+  "log_181": {
+    "player": "Tasoeur",
+    "action": "Can't draw from Life",
+    "source": "Hody Jones",
+    "source_card": "OP06-020"
+  },
+  "log_182": {
+    "player": "Tasoeur",
+    "action": "attacking",
+    "attacker": "Dosun",
+    "attacker_card": "OP06-030",
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060"
+  },
+  "log_183": {
+    "player": "Tasoeur",
+    "action": "Grant",
+    "target": "Dosun",
+    "target_card": "OP06-030",
+    "power_change": 2000,
+    "duration": "until next turn",
+    "source": "Dosun",
+    "source_card": "OP06-030"
+  },
+  "log_184": {
+    "player": "Tasoeur",
+    "action": "is Immune from Combat KOs until next turn!",
+    "target": "Dosun",
+    "target_card": "OP06-030"
+  },
+  "log_185": {
+    "player": "Tasoeur",
+    "action": "hit for 1 damage",
+    "target": "Donquixote Doflamingo",
+    "target_card": "OP01-060",
+    "attacker_power": 6000,
+    "defender_power": 5000
+  },
+  "log_186": {
+    "player": "Tasoeur",
+    "action": "attacking",
+    "attacker": "Fisher Tiger",
+    "attacker_card": "OP07-032",
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060"
+  },
+  "log_187": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "OP08-047",
+    "counter": 1000
+  },
+  "log_188": {
+    "player": "Tasoeur",
+    "action": "hit for 1 damage",
+    "target": "Donquixote Doflamingo",
+    "target_card": "OP01-060",
+    "attacker_power": 6000,
+    "defender_power": 6000
+  },
+  "log_189": {
+    "player": "Tasoeur",
+    "action": "attacking",
+    "attacker": "Camie",
+    "attacker_card": "OP06-025",
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060"
+  },
+  "log_190": {
+    "player": "Tasoeur",
+    "action": "Attack Fails",
+    "attacker": "Camie",
+    "attacker_card": "OP06-025",
+    "attacker_power": 2000,
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060",
+    "defender_power": 5000
+  },
+  "log_191": {
+    "player": "Tasoeur",
+    "action": "Deploy",
+    "card": "OP06-024"
+  },
+  "log_192": {
+    "player": "Tasoeur",
+    "action": "Trash",
+    "card": "OP06-025"
+  },
+  "log_193": {
+    "player": "Tasoeur",
+    "action": "Deploy",
+    "card": "OP06-023",
+    "source": "Ikaros Muhhi",
+    "source_card": "OP06-024"
+  },
+  "log_194": {
+    "player": "Tasoeur",
+    "action": "Trash",
+    "card": "OP01-058"
+  },
+  "log_195": {
+    "player": "Tasoeur",
+    "action": "can't attack next turn",
+    "target": "Donquixote Doflamingo",
+    "target_card": "OP01-060",
+    "source": "Arlong",
+    "source_card": "OP06-023"
+  },
+  "log_196": {
+    "player": "Tasoeur",
+    "action": "End Turn"
+  },
+  "log_197": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "EB01-023",
+      "OP06-058",
+      "OP01-077"
+    ]
+  },
+  "log_198": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "EB01-023"
+    ]
+  },
+  "log_199": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST17-002",
+      "OP07-040",
+      "OP07-046",
+      "ST03-005",
+      "OP06-047",
+      "OP06-047",
+      "OP08-047",
+      "OP07-057",
+      "OP08-047"
+    ]
+  },
+  "log_200": {
+    "player": "Moroff",
+    "action": "Life",
+    "amount": 2
+  },
+  "log_201": {
+    "player": "Tasoeur",
+    "action": "Hand",
+    "cards": [
+      "OP06-030"
+    ]
+  },
+  "log_202": {
+    "player": "Tasoeur",
+    "action": "Trash",
+    "cards": [
+      "OP06-028",
+      "OP07-032",
+      "OP06-025",
+      "OP01-058"
+    ]
+  },
+  "log_203": {
+    "player": "Tasoeur",
+    "action": "Board",
+    "cards": [
+      "OP06-030",
+      "OP07-032",
+      "OP06-032",
+      "OP06-024",
+      "OP06-023"
+    ]
+  },
+  "log_204": {
+    "player": "Tasoeur",
+    "action": "Life",
+    "amount": 3
+  },
+  "log_205": {
+    "player": "Moroff",
+    "action": "Draw",
+    "amount": 1,
+    "unit": "Card"
+  },
+  "log_206": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-005"
+  },
+  "log_207": {
+    "player": "Moroff",
+    "action": "Draw",
+    "amount": 2,
+    "unit": "Don"
+  },
+  "log_208": {
+    "player": "Moroff",
+    "action": "Send to Deck Bottom",
+    "target": "Fisher Tiger",
+    "target_card": "OP07-032",
+    "source": "Gravity Blade Raging Tiger",
+    "source_card": "OP06-058"
+  },
+  "log_209": {
+    "player": "Moroff",
+    "action": "Send to Deck Bottom",
+    "target": "Ikaros Muhhi",
+    "target_card": "OP06-024",
+    "source": "Gravity Blade Raging Tiger",
+    "source_card": "OP06-058"
+  },
+  "log_210": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "ST17-005"
+  },
+  "log_211": {
+    "player": "Moroff",
+    "action": "Attach",
+    "amount": 1,
+    "unit": "Don",
+    "to": "Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log_212": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "Edward Weevil",
+    "attacker_card": "EB01-023",
+    "defender": "Dosun",
+    "defender_card": "OP06-030"
+  },
+  "log_213": {
+    "player": "Moroff",
+    "action": "is Immune!",
+    "target": "Dosun",
+    "target_card": "OP06-030"
+  },
+  "log_214": {
+    "player": "Moroff",
+    "action": "Attack Fails",
+    "attacker": "Edward Weevil",
+    "attacker_card": "EB01-023",
+    "attacker_power": 6000,
+    "defender": "Dosun",
+    "defender_card": "OP06-030",
+    "defender_power": 6000
+  },
+  "log_215": {
+    "player": "Moroff",
+    "action": "is no longer blocked from attacking",
+    "target": "Donquixote Doflamingo",
+    "target_card": "OP01-060"
+  },
+  "log_216": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "EB01-023",
+      "OP01-077"
+    ]
+  },
+  "log_217": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "EB01-023",
+      "ST17-005"
+    ]
+  },
+  "log_218": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST17-002",
+      "OP07-040",
+      "OP07-046",
+      "ST03-005",
+      "OP06-047",
+      "OP06-047",
+      "OP08-047",
+      "OP07-057",
+      "OP08-047",
+      "OP06-058"
+    ]
+  },
+  "log_219": {
+    "player": "Moroff",
+    "action": "Life",
+    "amount": 2
+  },
+  "log_220": {
+    "player": "Tasoeur",
+    "action": "Hand",
+    "cards": [
+      "OP06-030"
+    ]
+  },
+  "log_221": {
+    "player": "Tasoeur",
+    "action": "Trash",
+    "cards": [
+      "OP06-028",
+      "OP07-032",
+      "OP06-025",
+      "OP01-058"
+    ]
+  },
+  "log_222": {
+    "player": "Tasoeur",
+    "action": "Board",
+    "cards": [
+      "OP06-030",
+      "OP06-032",
+      "OP06-023"
+    ]
+  },
+  "log_223": {
+    "player": "Tasoeur",
+    "action": "Life",
+    "amount": 3
+  },
+  "log_224": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_225": {
+    "player": "Tasoeur",
+    "action": "Draw",
+    "amount": 1,
+    "unit": "Card"
+  },
+  "log_226": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP06-035"
+  },
+  "log_227": {
+    "player": "Tasoeur",
+    "action": "Draw",
+    "amount": 2,
+    "unit": "Don"
+  },
+  "log_228": {
+    "player": "Tasoeur",
+    "action": "attacking",
+    "attacker": "Arlong",
+    "attacker_card": "OP06-023",
+    "defender": "Edward Weevil",
+    "defender_card": "EB01-023"
+  },
+  "log_229": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "OP01-077",
+    "counter": 1000
+  },
+  "log_230": {
+    "player": "Tasoeur",
+    "action": "Attack Fails",
+    "attacker": "Arlong",
+    "attacker_card": "OP06-023",
+    "attacker_power": 6000,
+    "defender": "Edward Weevil",
+    "defender_card": "EB01-023",
+    "defender_power": 7000
+  },
+  "log_231": {
+    "player": "Tasoeur",
+    "action": "Rest",
+    "target": "Marshall D. Teach",
+    "target_card": "ST17-005",
+    "source": "Hody Jones",
+    "source_card": "OP06-020"
+  },
+  "log_232": {
+    "player": "Tasoeur",
+    "action": "Can't draw from Life",
+    "source": "Hody Jones",
+    "source_card": "OP06-020"
+  },
+  "log_233": {
+    "player": "Tasoeur",
+    "action": "attacking",
+    "attacker": "Dosun",
+    "attacker_card": "OP06-030",
+    "defender": "Marshall D. Teach",
+    "defender_card": "ST17-005"
+  },
+  "log_234": {
+    "player": "Tasoeur",
+    "action": "Grant",
+    "target": "Dosun",
+    "target_card": "OP06-030",
+    "power_change": 2000,
+    "duration": "until next turn",
+    "source": "Dosun",
+    "source_card": "OP06-030"
+  },
+  "log_235": {
+    "player": "Tasoeur",
+    "action": "is Immune from Combat KOs until next turn!",
+    "target": "Dosun",
+    "target_card": "OP06-030"
+  },
+  "log_236": {
+    "player": "Moroff",
+    "action": "Destroyed",
+    "target": "Marshall D. Teach",
+    "target_card": "ST17-005",
+    "attacker_power": 6000,
+    "defender_power": 3000
+  },
+  "log_237": {
+    "player": "Tasoeur",
+    "action": "Deploy",
+    "card": "OP06-035"
+  },
+  "log_238": {
+    "player": "Tasoeur",
+    "action": "attacking",
+    "attacker": "Hody Jones",
+    "attacker_card": "OP06-035",
+    "defender": "Edward Weevil",
+    "defender_card": "EB01-023"
+  },
+  "log_239": {
+    "player": "Moroff",
+    "action": "Destroyed",
+    "target": "Edward Weevil",
+    "target_card": "EB01-023",
+    "attacker_power": 8000,
+    "defender_power": 6000
+  },
+  "log_240": {
+    "player": "Tasoeur",
+    "action": "Deploy",
+    "card": "OP06-030"
+  },
+  "log_241": {
+    "player": "Tasoeur",
+    "action": "End Turn"
+  },
+  "log_242": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "EB01-023"
+    ]
+  },
+  "log_243": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log_244": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST17-002",
+      "OP07-040",
+      "OP07-046",
+      "ST03-005",
+      "OP06-047",
+      "OP06-047",
+      "OP08-047",
+      "OP07-057",
+      "OP08-047",
+      "OP06-058",
+      "OP01-077",
+      "ST17-005",
+      "EB01-023"
+    ]
+  },
+  "log_245": {
+    "player": "Moroff",
+    "action": "Life",
+    "amount": 2
+  },
+  "log_246": {
+    "player": "Tasoeur",
+    "action": "Hand",
+    "cards": []
+  },
+  "log_247": {
+    "player": "Tasoeur",
+    "action": "Trash",
+    "cards": [
+      "OP06-028",
+      "OP07-032",
+      "OP06-025",
+      "OP01-058"
+    ]
+  },
+  "log_248": {
+    "player": "Tasoeur",
+    "action": "Board",
+    "cards": [
+      "OP06-030",
+      "OP06-032",
+      "OP06-023",
+      "OP06-035",
+      "OP06-030"
+    ]
+  },
+  "log_249": {
+    "player": "Tasoeur",
+    "action": "Life",
+    "amount": 3
+  },
+  "log_250": {
+    "player": "Moroff",
+    "action": "Draw",
+    "amount": 1,
+    "unit": "Card"
+  },
+  "log_251": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP01-077"
+  },
+  "log_252": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "OP01-077"
+  },
+  "log_253": {
+    "player": "Moroff",
+    "action": "Placing Cards on Top of Deck"
+  },
+  "log_254": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "EB01-023"
+  },
+  "log_255": {
+    "player": "Moroff",
+    "action": "Draw",
+    "amount": 1,
+    "unit": "Card",
+    "source": "Edward Weevil",
+    "source_card": "EB01-023"
+  },
+  "log_256": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP01-077"
+  },
+  "log_257": {
+    "player": "Moroff",
+    "action": "Attach",
+    "amount": 1,
+    "unit": "Don",
+    "to": "Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log_258": {
+    "player": "Moroff",
+    "action": "Attach",
+    "amount": 1,
+    "unit": "Don",
+    "to": "Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log_259": {
+    "player": "Moroff",
+    "action": "Attach",
+    "amount": 1,
+    "unit": "Don",
+    "to": "Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 3
+  },
+  "log_260": {
+    "player": "Moroff",
+    "action": "Attach",
+    "amount": 1,
+    "unit": "Don",
+    "to": "Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 4
+  },
+  "log_261": {
+    "player": "Moroff",
+    "action": "Attach",
+    "amount": 1,
+    "unit": "Don",
+    "to": "Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 5
+  },
+  "log_262": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "Donquixote Doflamingo",
+    "attacker_card": "OP01-060",
+    "defender": "Hody Jones",
+    "defender_card": "OP06-035"
+  },
+  "log_263": {
+    "player": "Tasoeur",
+    "action": "Blocks",
+    "source": "Hammond",
+    "source_card": "OP06-032"
+  },
+  "log_264": {
+    "player": "Tasoeur",
+    "action": "Destroyed",
+    "target": "Hammond",
+    "target_card": "OP06-032",
+    "attacker_power": 10000,
+    "defender_power": 2000
+  },
+  "log_265": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "OP01-077"
+    ]
+  },
+  "log_266": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP01-077",
+      "EB01-023"
+    ]
+  },
+  "log_267": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST17-002",
+      "OP07-040",
+      "OP07-046",
+      "ST03-005",
+      "OP06-047",
+      "OP06-047",
+      "OP08-047",
+      "OP07-057",
+      "OP08-047",
+      "OP06-058",
+      "OP01-077",
+      "ST17-005",
+      "EB01-023"
+    ]
+  },
+  "log_268": {
+    "player": "Moroff",
+    "action": "Life",
+    "amount": 2
+  },
+  "log_269": {
+    "player": "Tasoeur",
+    "action": "Hand",
+    "cards": []
+  },
+  "log_270": {
+    "player": "Tasoeur",
+    "action": "Trash",
+    "cards": [
+      "OP06-028",
+      "OP07-032",
+      "OP06-025",
+      "OP01-058",
+      "OP06-032"
+    ]
+  },
+  "log_271": {
+    "player": "Tasoeur",
+    "action": "Board",
+    "cards": [
+      "OP06-030",
+      "OP06-023",
+      "OP06-035",
+      "OP06-030"
+    ]
+  },
+  "log_272": {
+    "player": "Tasoeur",
+    "action": "Life",
+    "amount": 3
+  },
+  "log_273": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_274": {
+    "player": "Tasoeur",
+    "action": "Draw",
+    "amount": 1,
+    "unit": "Card"
+  },
+  "log_275": {
+    "player": "Tasoeur",
+    "action": "Drew card from deck",
+    "card": "OP03-033"
+  },
+  "log_276": {
+    "player": "Tasoeur",
+    "action": "attacking",
+    "attacker": "Arlong",
+    "attacker_card": "OP06-023",
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060"
+  },
+  "log_277": {
+    "player": "Tasoeur",
+    "action": "hit for 1 damage",
+    "target": "Donquixote Doflamingo",
+    "target_card": "OP01-060",
+    "attacker_power": 6000,
+    "defender_power": 5000
+  },
+  "log_278": {
+    "player": "Tasoeur",
+    "action": "attacking",
+    "attacker": "Hody Jones",
+    "attacker_card": "OP06-020",
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060"
+  },
+  "log_279": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "OP01-077",
+    "counter": 1000
+  },
+  "log_280": {
+    "player": "Tasoeur",
+    "action": "Attack Fails",
+    "attacker": "Hody Jones",
+    "attacker_card": "OP06-020",
+    "attacker_power": 5000,
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060",
+    "defender_power": 6000
+  },
+  "log_281": {
+    "player": "Tasoeur",
+    "action": "attacking",
+    "attacker": "Dosun",
+    "attacker_card": "OP06-030",
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060"
+  },
+  "log_282": {
+    "player": "Tasoeur",
+    "action": "Loses",
+    "amount": 1,
+    "unit": "Life"
+  },
+  "log_283": {
+    "player": "Tasoeur",
+    "action": "Grant",
+    "target": "Dosun",
+    "target_card": "OP06-030",
+    "power_change": 2000,
+    "duration": "until next turn",
+    "source": "Dosun",
+    "source_card": "OP06-030"
+  },
+  "log_284": {
+    "player": "Tasoeur",
+    "action": "is Immune from Combat KOs until next turn!",
+    "target": "Dosun",
+    "target_card": "OP06-030"
+  },
+  "log_285": {
+    "player": "Tasoeur",
+    "action": "hit for 1 damage",
+    "target": "Donquixote Doflamingo",
+    "target_card": "OP01-060",
+    "attacker_power": 6000,
+    "defender_power": 5000
+  },
+  "log_286": {
+    "player": "Tasoeur",
+    "action": "attacking",
+    "attacker": "Dosun",
+    "attacker_card": "OP06-030",
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060"
+  },
+  "log_287": {
+    "player": "Tasoeur",
+    "action": "Loses",
+    "amount": 1,
+    "unit": "Life"
+  },
+  "log_288": {
+    "player": "Tasoeur",
+    "action": "Grant",
+    "target": "Dosun",
+    "target_card": "OP06-030",
+    "power_change": 2000,
+    "duration": "until next turn",
+    "source": "Dosun",
+    "source_card": "OP06-030"
+  },
+  "log_289": {
+    "player": "Tasoeur",
+    "action": "is Immune from Combat KOs until next turn!",
+    "target": "Dosun",
+    "target_card": "OP06-030"
+  },
+  "log_290": {
+    "player": "Tasoeur",
+    "action": "hit for 1 damage",
+    "target": "Donquixote Doflamingo",
+    "target_card": "OP01-060",
+    "attacker_power": 6000,
+    "defender_power": 5000
+  },
+  "log_291": {
+    "player": "Moroff",
+    "action": "Loses"
+  },
+  "log_292": {
+    "player": "Tasoeur",
+    "action": "Wins!"
+  }
+}

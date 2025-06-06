@@ -1,0 +1,1919 @@
+{
+  "log-001": {
+    "player": "Moroff",
+    "action": "Leader is Donquixote Doflamingo",
+    "card": "OP01-060"
+  },
+  "log-002": {
+    "player": "crow",
+    "action": "Leader is Rob Lucci",
+    "card": "OP07-079"
+  },
+  "log-003": {
+    "player": "Moroff",
+    "action": "Will select turn order"
+  },
+  "log-004": {
+    "player": "Moroff",
+    "action": "Chose to go First"
+  },
+  "log-005": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-004"
+  },
+  "log-006": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-004"
+  },
+  "log-007": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP06-058"
+  },
+  "log-008": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP06-047"
+  },
+  "log-009": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP06-047"
+  },
+  "log-010": {
+    "player": "Moroff",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "ST17-004",
+      "ST17-004",
+      "OP06-058",
+      "OP06-047",
+      "OP06-047"
+    ]
+  },
+  "log-011": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP01-077"
+  },
+  "log-012": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-004"
+  },
+  "log-013": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP08-047"
+  },
+  "log-014": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-002"
+  },
+  "log-015": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST03-005"
+  },
+  "log-016": {
+    "player": "Moroff",
+    "action": "Hand after Mulligan",
+    "cards": [
+      "OP01-077",
+      "ST17-004",
+      "OP08-047",
+      "ST17-002",
+      "ST03-005"
+    ]
+  },
+  "log-017": {
+    "player": "Moroff",
+    "action": "Mulligan"
+  },
+  "log-018": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "OP05-093"
+  },
+  "log-019": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "OP04-089"
+  },
+  "log-020": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "OP05-088"
+  },
+  "log-021": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "OP05-091"
+  },
+  "log-022": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "OP05-081"
+  },
+  "log-023": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "OP05-081"
+  },
+  "log-024": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "OP05-093"
+  },
+  "log-025": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "OP04-089"
+  },
+  "log-026": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "ST06-008"
+  },
+  "log-027": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "OP02-106"
+  },
+  "log-028": {
+    "player": "crow",
+    "action": "Mulligan"
+  },
+  "log-029": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "OP01-077",
+      "ST17-004",
+      "OP08-047",
+      "ST17-002",
+      "ST03-005"
+    ]
+  },
+  "log-030": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log-031": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-032": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log-033": {
+    "player": "crow",
+    "action": "Hand",
+    "cards": [
+      "OP05-081",
+      "OP05-093",
+      "OP04-089",
+      "ST06-008",
+      "OP02-106"
+    ]
+  },
+  "log-034": {
+    "player": "crow",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-035": {
+    "player": "crow",
+    "action": "Board",
+    "cards": []
+  },
+  "log-036": {
+    "player": "crow",
+    "action": "Life",
+    "value": 5
+  },
+  "log-037": {
+    "player": "Moroff",
+    "action": "Draw 1 Don"
+  },
+  "log-038": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "OP01-077"
+  },
+  "log-039": {
+    "player": "Moroff",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-040": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-004",
+      "OP08-047",
+      "ST17-002",
+      "ST03-005"
+    ]
+  },
+  "log-041": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP01-077"
+    ]
+  },
+  "log-042": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-043": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log-044": {
+    "player": "crow",
+    "action": "Hand",
+    "cards": [
+      "OP05-081",
+      "OP05-093",
+      "OP04-089",
+      "ST06-008",
+      "OP02-106"
+    ]
+  },
+  "log-045": {
+    "player": "crow",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-046": {
+    "player": "crow",
+    "action": "Board",
+    "cards": []
+  },
+  "log-047": {
+    "player": "crow",
+    "action": "Life",
+    "value": 5
+  },
+  "log-048": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-049": {
+    "player": "crow",
+    "action": "Draw 1 Card"
+  },
+  "log-050": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "OP07-096"
+  },
+  "log-051": {
+    "player": "crow",
+    "action": "Draw 2 Don"
+  },
+  "log-052": {
+    "player": "crow",
+    "action": "Deploy",
+    "card": "OP05-081"
+  },
+  "log-053": {
+    "player": "crow",
+    "action": "End Turn"
+  },
+  "log-054": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-004",
+      "OP08-047",
+      "ST17-002",
+      "ST03-005"
+    ]
+  },
+  "log-055": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP01-077"
+    ]
+  },
+  "log-056": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-057": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log-058": {
+    "player": "crow",
+    "action": "Hand",
+    "cards": [
+      "OP05-093",
+      "OP04-089",
+      "ST06-008",
+      "OP02-106",
+      "OP07-096"
+    ]
+  },
+  "log-059": {
+    "player": "crow",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-060": {
+    "player": "crow",
+    "action": "Board",
+    "cards": [
+      "OP05-081"
+    ]
+  },
+  "log-061": {
+    "player": "crow",
+    "action": "Life",
+    "value": 5
+  },
+  "log-062": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-063": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST03-004"
+  },
+  "log-064": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-065": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP07-079",
+    "attacker_power": 5000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-066": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-077",
+    "total_don": 1
+  },
+  "log-067": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-077",
+    "total_don": 2
+  },
+  "log-068": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-077",
+    "total_don": 3
+  },
+  "log-069": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-077",
+    "defender": "OP07-079"
+  },
+  "log-070": {
+    "player": "crow",
+    "action": "Discard for Counter 2000",
+    "card": "OP02-106"
+  },
+  "log-071": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-077",
+    "defender": "OP07-079",
+    "attacker_power": 5000,
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log-072": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-004",
+      "OP08-047",
+      "ST17-002",
+      "ST03-005",
+      "ST03-004"
+    ]
+  },
+  "log-073": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP01-077"
+    ]
+  },
+  "log-074": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-075": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log-076": {
+    "player": "crow",
+    "action": "Hand",
+    "cards": [
+      "OP05-093",
+      "OP04-089",
+      "ST06-008",
+      "OP02-106",
+      "OP07-096"
+    ]
+  },
+  "log-077": {
+    "player": "crow",
+    "action": "Trash",
+    "cards": [
+      "OP02-106"
+    ]
+  },
+  "log-078": {
+    "player": "crow",
+    "action": "Board",
+    "cards": [
+      "OP05-081"
+    ]
+  },
+  "log-079": {
+    "player": "crow",
+    "action": "Life",
+    "value": 4
+  },
+  "log-080": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-081": {
+    "player": "crow",
+    "action": "Draw 1 Card"
+  },
+  "log-082": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "OP04-089"
+  },
+  "log-083": {
+    "player": "crow",
+    "action": "Draw 2 Don"
+  },
+  "log-084": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "OP02-106"
+  },
+  "log-085": {
+    "player": "crow",
+    "action": "Tempest Kick: Draw 1 Card",
+    "card": "OP07-096"
+  },
+  "log-086": {
+    "player": "crow",
+    "action": "attacking",
+    "attacker": "OP07-079",
+    "defender": "OP01-077"
+  },
+  "log-087": {
+    "player": "crow",
+    "action": "Rob Lucci: Trash 2 Cards from Deck",
+    "card": "OP07-079"
+  },
+  "log-088": {
+    "player": "crow",
+    "action": "Rob Lucci: Cost -1",
+    "card": "OP07-079",
+    "target": "OP01-077"
+  },
+  "log-089": {
+    "player": "crow",
+    "action": "attacking",
+    "attacker": "OP07-079",
+    "defender": "OP01-077",
+    "attacker_power": 5000,
+    "defender_power": 2000
+  },
+  "log-090": {
+    "player": "Moroff",
+    "action": "Destroyed",
+    "card": "OP01-077"
+  },
+  "log-091": {
+    "player": "crow",
+    "action": "Deploy",
+    "card": "OP04-089"
+  },
+  "log-092": {
+    "player": "crow",
+    "action": "End Turn"
+  },
+  "log-093": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-004",
+      "OP08-047",
+      "ST17-002",
+      "ST03-005",
+      "ST03-004"
+    ]
+  },
+  "log-094": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log-095": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "OP01-077"
+    ]
+  },
+  "log-096": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log-097": {
+    "player": "crow",
+    "action": "Hand",
+    "cards": [
+      "OP05-093",
+      "OP04-089",
+      "ST06-008",
+      "OP02-106",
+      "OP02-106"
+    ]
+  },
+  "log-098": {
+    "player": "crow",
+    "action": "Trash",
+    "cards": [
+      "OP02-106",
+      "OP07-096",
+      "OP08-084",
+      "OP02-096"
+    ]
+  },
+  "log-099": {
+    "player": "crow",
+    "action": "Board",
+    "cards": [
+      "OP05-081",
+      "OP04-089"
+    ]
+  },
+  "log-100": {
+    "player": "crow",
+    "action": "Life",
+    "value": 4
+  },
+  "log-101": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-102": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-005"
+  },
+  "log-103": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-104": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "ST17-002"
+  },
+  "log-105": {
+    "player": "Moroff",
+    "action": "Trafalgar Law: Return Trafalgar Law to Hand",
+    "card": "ST17-002"
+  },
+  "log-106": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log-107": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP07-079",
+    "attacker_power": 6000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-108": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-004",
+      "OP08-047",
+      "ST03-005",
+      "ST03-004",
+      "ST17-005",
+      "ST17-002"
+    ]
+  },
+  "log-109": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log-110": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "OP01-077"
+    ]
+  },
+  "log-111": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log-112": {
+    "player": "crow",
+    "action": "Hand",
+    "cards": [
+      "OP05-093",
+      "OP04-089",
+      "ST06-008",
+      "OP02-106",
+      "OP02-106",
+      "OP02-121"
+    ]
+  },
+  "log-113": {
+    "player": "crow",
+    "action": "Trash",
+    "cards": [
+      "OP02-106",
+      "OP07-096",
+      "OP08-084",
+      "OP02-096"
+    ]
+  },
+  "log-114": {
+    "player": "crow",
+    "action": "Board",
+    "cards": [
+      "OP05-081",
+      "OP04-089"
+    ]
+  },
+  "log-115": {
+    "player": "crow",
+    "action": "Life",
+    "value": 3
+  },
+  "log-116": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-117": {
+    "player": "crow",
+    "action": "Draw 1 Card"
+  },
+  "log-118": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "OP04-083"
+  },
+  "log-119": {
+    "player": "crow",
+    "action": "Draw 2 Don"
+  },
+  "log-120": {
+    "player": "crow",
+    "action": "Attach 1 Don to",
+    "card": "OP07-079",
+    "total_don": 1
+  },
+  "log-121": {
+    "player": "crow",
+    "action": "attacking",
+    "attacker": "OP07-079",
+    "defender": "OP01-060"
+  },
+  "log-122": {
+    "player": "crow",
+    "action": "Rob Lucci: Trash 2 Cards from Deck",
+    "card": "OP07-079"
+  },
+  "log-123": {
+    "player": "Moroff",
+    "action": "Discard for Counter 2000",
+    "card": "ST03-005"
+  },
+  "log-124": {
+    "player": "crow",
+    "action": "attacking",
+    "attacker": "OP07-079",
+    "defender": "OP01-060",
+    "attacker_power": 6000,
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log-125": {
+    "player": "crow",
+    "action": "Deploy",
+    "card": "OP04-083"
+  },
+  "log-126": {
+    "player": "crow",
+    "action": "Sabo: Draw 2 Card",
+    "card": "OP04-083"
+  },
+  "log-127": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "OP08-084"
+  },
+  "log-128": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "OP08-084"
+  },
+  "log-129": {
+    "player": "crow",
+    "action": "Trash",
+    "card": "OP02-121"
+  },
+  "log-130": {
+    "player": "crow",
+    "action": "Trash",
+    "card": "OP05-093"
+  },
+  "log-131": {
+    "player": "crow",
+    "action": "Sabo: Current Field Characters Are Immune To Effects Until Next Turn!",
+    "card": "OP04-083"
+  },
+  "log-132": {
+    "player": "crow",
+    "action": "End Turn"
+  },
+  "log-133": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-004",
+      "OP08-047",
+      "ST03-004",
+      "ST17-005",
+      "ST17-002"
+    ]
+  },
+  "log-134": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log-135": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "OP01-077",
+      "ST03-005"
+    ]
+  },
+  "log-136": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log-137": {
+    "player": "crow",
+    "action": "Hand",
+    "cards": [
+      "OP04-089",
+      "ST06-008",
+      "OP02-106",
+      "OP02-106",
+      "OP08-084",
+      "OP08-084"
+    ]
+  },
+  "log-138": {
+    "player": "crow",
+    "action": "Trash",
+    "cards": [
+      "OP02-106",
+      "OP07-096",
+      "OP08-084",
+      "OP02-096",
+      "OP02-096",
+      "OP04-089",
+      "OP02-121",
+      "OP05-093"
+    ]
+  },
+  "log-139": {
+    "player": "crow",
+    "action": "Board",
+    "cards": [
+      "OP05-081",
+      "OP04-089",
+      "OP04-083"
+    ]
+  },
+  "log-140": {
+    "player": "crow",
+    "action": "Life",
+    "value": 3
+  },
+  "log-141": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-142": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-004"
+  },
+  "log-143": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-144": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "ST17-004"
+  },
+  "log-145": {
+    "player": "Moroff",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-146": {
+    "player": "Moroff",
+    "action": "Boa Hancock: Attach 1 Rested Don to Boa Hancock",
+    "card": "ST17-004"
+  },
+  "log-147": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "ST17-005"
+  },
+  "log-148": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log-149": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP07-079"
+  },
+  "log-150": {
+    "player": "crow",
+    "action": "Discard for Counter 2000",
+    "card": "OP02-106"
+  },
+  "log-151": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP07-079",
+    "attacker_power": 6000,
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log-152": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-004",
+      "OP08-047",
+      "ST03-004",
+      "ST17-002"
+    ]
+  },
+  "log-153": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "ST17-004",
+      "ST17-005"
+    ]
+  },
+  "log-154": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "OP01-077",
+      "ST03-005"
+    ]
+  },
+  "log-155": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log-156": {
+    "player": "crow",
+    "action": "Hand",
+    "cards": [
+      "OP04-089",
+      "ST06-008",
+      "OP02-106",
+      "OP08-084",
+      "OP08-084"
+    ]
+  },
+  "log-157": {
+    "player": "crow",
+    "action": "Trash",
+    "cards": [
+      "OP02-106",
+      "OP07-096",
+      "OP08-084",
+      "OP02-096",
+      "OP02-096",
+      "OP04-089",
+      "OP02-121",
+      "OP05-093",
+      "OP02-106"
+    ]
+  },
+  "log-158": {
+    "player": "crow",
+    "action": "Board",
+    "cards": [
+      "OP05-081",
+      "OP04-089",
+      "OP04-083"
+    ]
+  },
+  "log-159": {
+    "player": "crow",
+    "action": "Life",
+    "value": 3
+  },
+  "log-160": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-161": {
+    "player": "crow",
+    "action": "Draw 1 Card"
+  },
+  "log-162": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "EB01-048"
+  },
+  "log-163": {
+    "player": "crow",
+    "action": "Draw 2 Don"
+  },
+  "log-164": {
+    "player": "crow",
+    "action": "Attach 1 Don to",
+    "card": "OP07-079",
+    "total_don": 1
+  },
+  "log-165": {
+    "player": "crow",
+    "action": "attacking",
+    "attacker": "OP07-079",
+    "defender": "OP01-060"
+  },
+  "log-166": {
+    "player": "crow",
+    "action": "Rob Lucci: Trash 2 Cards from Deck",
+    "card": "OP07-079"
+  },
+  "log-167": {
+    "player": "crow",
+    "action": "Rob Lucci: Cost -1",
+    "card": "OP07-079",
+    "target": "ST17-004"
+  },
+  "log-168": {
+    "player": "crow",
+    "action": "attacking",
+    "attacker": "OP07-079",
+    "defender": "OP01-060",
+    "attacker_power": 6000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-169": {
+    "player": "crow",
+    "action": "Deploy",
+    "card": "OP08-084"
+  },
+  "log-170": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "EB01-046"
+  },
+  "log-171": {
+    "player": "crow",
+    "action": "Jack: Draw 1 Card",
+    "card": "OP08-084"
+  },
+  "log-172": {
+    "player": "crow",
+    "action": "Jack: Rest Jack",
+    "card": "OP08-084"
+  },
+  "log-173": {
+    "player": "crow",
+    "action": "Jack: Trash",
+    "card": "ST06-008"
+  },
+  "log-174": {
+    "player": "crow",
+    "action": "Jack: Destroy",
+    "card": "ST17-004"
+  },
+  "log-175": {
+    "player": "crow",
+    "action": "End Turn"
+  },
+  "log-176": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-004",
+      "OP08-047",
+      "ST03-004",
+      "ST17-002",
+      "ST17-002"
+    ]
+  },
+  "log-177": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "ST17-005"
+    ]
+  },
+  "log-178": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "OP01-077",
+      "ST03-005",
+      "ST17-004"
+    ]
+  },
+  "log-179": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log-180": {
+    "player": "crow",
+    "action": "Hand",
+    "cards": [
+      "OP04-089",
+      "OP02-106",
+      "OP08-084",
+      "EB01-048",
+      "EB01-046"
+    ]
+  },
+  "log-181": {
+    "player": "crow",
+    "action": "Trash",
+    "cards": [
+      "OP02-106",
+      "OP07-096",
+      "OP08-084",
+      "OP02-096",
+      "OP02-096",
+      "OP04-089",
+      "OP02-121",
+      "OP05-093",
+      "OP02-106",
+      "OP05-091",
+      "OP05-081",
+      "ST06-008"
+    ]
+  },
+  "log-182": {
+    "player": "crow",
+    "action": "Board",
+    "cards": [
+      "OP05-081",
+      "OP04-089",
+      "OP04-083",
+      "OP08-084"
+    ]
+  },
+  "log-183": {
+    "player": "crow",
+    "action": "Life",
+    "value": 3
+  },
+  "log-184": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-185": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP08-047"
+  },
+  "log-186": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-187": {
+    "player": "Moroff",
+    "action": "Sent a Card to Deck Top"
+  },
+  "log-188": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "OP08-047"
+  },
+  "log-189": {
+    "player": "Moroff",
+    "action": "Jozu: Return Marshall D. Teach to Hand",
+    "card": "OP08-047",
+    "target": "ST17-005"
+  },
+  "log-190": {
+    "player": "Moroff",
+    "action": "Jozu: Return Jozu to Hand",
+    "card": "OP08-047",
+    "target": "OP08-047"
+  },
+  "log-191": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "ST17-005"
+  },
+  "log-192": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log-193": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP08-084",
+    "attacker_power": 6000,
+    "defender_power": 8000,
+    "result": "Attack Fails"
+  },
+  "log-194": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-004",
+      "ST03-004",
+      "ST17-002",
+      "ST17-002",
+      "OP08-047"
+    ]
+  },
+  "log-195": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "ST17-005"
+    ]
+  },
+  "log-196": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "OP01-077",
+      "ST03-005",
+      "ST17-004"
+    ]
+  },
+  "log-197": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log-198": {
+    "player": "crow",
+    "action": "Hand",
+    "cards": [
+      "OP04-089",
+      "OP02-106",
+      "OP08-084",
+      "EB01-048",
+      "EB01-046"
+    ]
+  },
+  "log-199": {
+    "player": "crow",
+    "action": "Trash",
+    "cards": [
+      "OP02-106",
+      "OP07-096",
+      "OP08-084",
+      "OP02-096",
+      "OP02-096",
+      "OP04-089",
+      "OP02-121",
+      "OP05-093",
+      "OP02-106",
+      "OP05-091",
+      "OP05-081",
+      "ST06-008"
+    ]
+  },
+  "log-200": {
+    "player": "crow",
+    "action": "Board",
+    "cards": [
+      "OP05-081",
+      "OP04-089",
+      "OP04-083",
+      "OP08-084"
+    ]
+  },
+  "log-201": {
+    "player": "crow",
+    "action": "Life",
+    "value": 3
+  },
+  "log-202": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-203": {
+    "player": "crow",
+    "action": "Draw 1 Card"
+  },
+  "log-204": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "OP05-081"
+  },
+  "log-205": {
+    "player": "crow",
+    "action": "Draw 2 Don"
+  },
+  "log-206": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "EB01-048"
+  },
+  "log-207": {
+    "player": "crow",
+    "action": "Jack: Draw 1 Card",
+    "card": "OP08-084"
+  },
+  "log-208": {
+    "player": "crow",
+    "action": "Jack: Rest Jack",
+    "card": "OP08-084"
+  },
+  "log-209": {
+    "player": "crow",
+    "action": "Jack: Trash",
+    "card": "EB01-048"
+  },
+  "log-210": {
+    "player": "crow",
+    "action": "Jack: Destroy",
+    "card": "ST17-005"
+  },
+  "log-211": {
+    "player": "crow",
+    "action": "Deploy",
+    "card": "OP08-084"
+  },
+  "log-212": {
+    "player": "crow",
+    "action": "Attach 1 Don to",
+    "card": "OP04-083",
+    "total_don": 1
+  },
+  "log-213": {
+    "player": "crow",
+    "action": "attacking",
+    "attacker": "OP04-083",
+    "defender": "OP01-060",
+    "attacker_power": 7000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-214": {
+    "player": "Moroff",
+    "action": "Gravity Blade Raging Tiger: Send Sabo to Deck Bottom",
+    "card": "OP06-058",
+    "target": "OP04-083"
+  },
+  "log-215": {
+    "player": "crow",
+    "action": "Attach 2 Don to",
+    "card": "OP07-079",
+    "total_don": 2
+  },
+  "log-216": {
+    "player": "crow",
+    "action": "attacking",
+    "attacker": "OP07-079",
+    "defender": "OP01-060"
+  },
+  "log-217": {
+    "player": "crow",
+    "action": "Rob Lucci: Trash 2 Cards from Deck",
+    "card": "OP07-079"
+  },
+  "log-218": {
+    "player": "Moroff",
+    "action": "Discard for Counter 1000",
+    "card": "ST17-002"
+  },
+  "log-219": {
+    "player": "Moroff",
+    "action": "Discard for Counter 1000",
+    "card": "ST17-002"
+  },
+  "log-220": {
+    "player": "Moroff",
+    "action": "Discard for Counter 1000",
+    "card": "ST03-004"
+  },
+  "log-221": {
+    "player": "crow",
+    "action": "attacking",
+    "attacker": "OP07-079",
+    "defender": "OP01-060",
+    "attacker_power": 7000,
+    "defender_power": 8000,
+    "result": "Attack Fails"
+  },
+  "log-222": {
+    "player": "crow",
+    "action": "End Turn"
+  },
+  "log-223": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-004",
+      "OP08-047"
+    ]
+  },
+  "log-224": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log-225": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "OP01-077",
+      "ST03-005",
+      "ST17-004",
+      "ST17-005",
+      "OP06-058",
+      "ST17-002",
+      "ST17-002",
+      "ST03-004"
+    ]
+  },
+  "log-226": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 3
+  },
+  "log-227": {
+    "player": "crow",
+    "action": "Hand",
+    "cards": [
+      "OP04-089",
+      "OP02-106",
+      "EB01-048",
+      "EB01-046",
+      "OP05-081"
+    ]
+  },
+  "log-228": {
+    "player": "crow",
+    "action": "Trash",
+    "cards": [
+      "OP02-106",
+      "OP07-096",
+      "OP08-084",
+      "OP02-096",
+      "OP02-096",
+      "OP04-089",
+      "OP02-121",
+      "OP05-093",
+      "OP02-106",
+      "OP05-091",
+      "OP05-081",
+      "ST06-008",
+      "EB01-048",
+      "ST06-008",
+      "OP05-088"
+    ]
+  },
+  "log-229": {
+    "player": "crow",
+    "action": "Board",
+    "cards": [
+      "OP05-081",
+      "OP04-089",
+      "OP08-084",
+      "OP08-084"
+    ]
+  },
+  "log-230": {
+    "player": "crow",
+    "action": "Life",
+    "value": 3
+  },
+  "log-231": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-232": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP08-047"
+  },
+  "log-233": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-234": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "OP08-047"
+  },
+  "log-235": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log-236": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log-237": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 3
+  },
+  "log-238": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 4
+  },
+  "log-239": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP07-079",
+    "attacker_power": 9000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-240": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-004",
+      "OP08-047"
+    ]
+  },
+  "log-241": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP08-047"
+    ]
+  },
+  "log-242": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "OP01-077",
+      "ST03-005",
+      "ST17-004",
+      "ST17-005",
+      "OP06-058",
+      "ST17-002",
+      "ST17-002",
+      "ST03-004"
+    ]
+  },
+  "log-243": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 3
+  },
+  "log-244": {
+    "player": "crow",
+    "action": "Hand",
+    "cards": [
+      "OP04-089",
+      "OP02-106",
+      "EB01-048",
+      "EB01-046",
+      "OP05-081",
+      "OP05-091"
+    ]
+  },
+  "log-245": {
+    "player": "crow",
+    "action": "Trash",
+    "cards": [
+      "OP02-106",
+      "OP07-096",
+      "OP08-084",
+      "OP02-096",
+      "OP02-096",
+      "OP04-089",
+      "OP02-121",
+      "OP05-093",
+      "OP02-106",
+      "OP05-091",
+      "OP05-081",
+      "ST06-008",
+      "EB01-048",
+      "ST06-008",
+      "OP05-088"
+    ]
+  },
+  "log-246": {
+    "player": "crow",
+    "action": "Board",
+    "cards": [
+      "OP05-081",
+      "OP04-089",
+      "OP08-084",
+      "OP08-084"
+    ]
+  },
+  "log-247": {
+    "player": "crow",
+    "action": "Life",
+    "value": 2
+  },
+  "log-248": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-249": {
+    "player": "crow",
+    "action": "Draw 1 Card"
+  },
+  "log-250": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "OP05-093"
+  },
+  "log-251": {
+    "player": "crow",
+    "action": "Deploy",
+    "card": "EB01-048"
+  },
+  "log-252": {
+    "player": "crow",
+    "action": "Laboon: Cost -4",
+    "card": "EB01-048",
+    "target": "OP08-047"
+  },
+  "log-253": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "EB02-044"
+  },
+  "log-254": {
+    "player": "crow",
+    "action": "Jack: Draw 1 Card",
+    "card": "OP08-084"
+  },
+  "log-255": {
+    "player": "crow",
+    "action": "Jack: Rest Jack",
+    "card": "OP08-084"
+  },
+  "log-256": {
+    "player": "crow",
+    "action": "Jack: Trash",
+    "card": "OP05-093"
+  },
+  "log-257": {
+    "player": "crow",
+    "action": "Jack: Destroy",
+    "card": "OP08-047"
+  },
+  "log-258": {
+    "player": "crow",
+    "action": "Attach 4 Don to",
+    "card": "OP07-079",
+    "total_don": 4
+  },
+  "log-259": {
+    "player": "crow",
+    "action": "attacking",
+    "attacker": "OP07-079",
+    "defender": "OP01-060"
+  },
+  "log-260": {
+    "player": "crow",
+    "action": "Rob Lucci: Trash 2 Cards from Deck",
+    "card": "OP07-079"
+  },
+  "log-261": {
+    "player": "crow",
+    "action": "attacking",
+    "attacker": "OP07-079",
+    "defender": "OP01-060",
+    "attacker_power": 9000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-262": {
+    "player": "crow",
+    "action": "Attach 2 Don to",
+    "card": "OP08-084",
+    "total_don": 2
+  },
+  "log-263": {
+    "player": "crow",
+    "action": "attacking",
+    "attacker": "OP08-084",
+    "defender": "OP01-060",
+    "attacker_power": 10000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-264": {
+    "player": "crow",
+    "action": "End Turn"
+  },
+  "log-265": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-004",
+      "OP08-047",
+      "OP01-077",
+      "OP08-047"
+    ]
+  },
+  "log-266": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log-267": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "OP01-077",
+      "ST03-005",
+      "ST17-004",
+      "ST17-005",
+      "OP06-058",
+      "ST17-002",
+      "ST17-002",
+      "ST03-004",
+      "OP08-047"
+    ]
+  },
+  "log-268": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 1
+  },
+  "log-269": {
+    "player": "crow",
+    "action": "Hand",
+    "cards": [
+      "OP04-089",
+      "OP02-106",
+      "EB01-046",
+      "OP05-081",
+      "OP05-091",
+      "EB02-044"
+    ]
+  },
+  "log-270": {
+    "player": "crow",
+    "action": "Trash",
+    "cards": [
+      "OP02-106",
+      "OP07-096",
+      "OP08-084",
+      "OP02-096",
+      "OP02-096",
+      "OP04-089",
+      "OP02-121",
+      "OP05-093",
+      "OP02-106",
+      "OP05-091",
+      "OP05-081",
+      "ST06-008",
+      "EB01-048",
+      "ST06-008",
+      "OP05-088",
+      "OP05-093",
+      "OP07-096",
+      "EB01-048"
+    ]
+  },
+  "log-271": {
+    "player": "crow",
+    "action": "Board",
+    "cards": [
+      "OP05-081",
+      "OP04-089",
+      "OP08-084",
+      "OP08-084",
+      "EB01-048"
+    ]
+  },
+  "log-272": {
+    "player": "crow",
+    "action": "Life",
+    "value": 2
+  },
+  "log-273": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-274": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-004"
+  },
+  "log-275": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-004",
+      "OP08-047",
+      "OP01-077",
+      "OP08-047",
+      "ST17-004"
+    ]
+  },
+  "log-276": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log-277": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "OP01-077",
+      "ST03-005",
+      "ST17-004",
+      "ST17-005",
+      "OP06-058",
+      "ST17-002",
+      "ST17-002",
+      "ST03-004",
+      "OP08-047"
+    ]
+  },
+  "log-278": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 1
+  },
+  "log-279": {
+    "player": "crow",
+    "action": "Hand",
+    "cards": [
+      "OP04-089",
+      "OP02-106",
+      "EB01-046",
+      "OP05-081",
+      "OP05-091",
+      "EB02-044"
+    ]
+  },
+  "log-280": {
+    "player": "crow",
+    "action": "Trash",
+    "cards": [
+      "OP02-106",
+      "OP07-096",
+      "OP08-084",
+      "OP02-096",
+      "OP02-096",
+      "OP04-089",
+      "OP02-121",
+      "OP05-093",
+      "OP02-106",
+      "OP05-091",
+      "OP05-081",
+      "ST06-008",
+      "EB01-048",
+      "ST06-008",
+      "OP05-088",
+      "OP05-093",
+      "OP07-096",
+      "EB01-048"
+    ]
+  },
+  "log-281": {
+    "player": "crow",
+    "action": "Board",
+    "cards": [
+      "OP05-081",
+      "OP04-089",
+      "OP08-084",
+      "OP08-084",
+      "EB01-048"
+    ]
+  },
+  "log-282": {
+    "player": "crow",
+    "action": "Life",
+    "value": 2
+  },
+  "log-283": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-284": {
+    "player": "crow",
+    "action": "Draw 1 Card"
+  },
+  "log-285": {
+    "player": "crow",
+    "action": "Drew card from deck",
+    "card": "EB01-046"
+  },
+  "log-286": {
+    "player": "crow",
+    "action": "attacking",
+    "attacker": "OP08-084",
+    "defender": "OP01-060",
+    "attacker_power": 8000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-287": {
+    "player": "crow",
+    "action": "Attach 1 Don to",
+    "card": "OP08-084",
+    "total_don": 1
+  },
+  "log-288": {
+    "player": "crow",
+    "action": "attacking",
+    "attacker": "OP08-084",
+    "defender": "OP01-060",
+    "attacker_power": 9000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-289": {
+    "player": "Moroff",
+    "action": "Loses"
+  },
+  "log-290": {
+    "player": "crow",
+    "action": "Wins!"
+  }
+}

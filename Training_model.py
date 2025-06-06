@@ -1,8 +1,8 @@
 import numpy as np
 import tensorflow as tf
 from tensorflow import keras
-from tensorflow.keras.optimizers import Adam
-from tensorflow.keras.models import load_model
+from keras.optimizers import Adam
+from keras.models import load_model
 #shape memory
 class ReplayBuffer():
     def __init__(self, max_size, input_dims):

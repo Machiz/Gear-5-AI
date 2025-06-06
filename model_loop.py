@@ -3,6 +3,8 @@ import numpy as np
 import gym
 import tensorflow as tf
 import matplotlib.pyplot as plt
+import optcg_env
+from optcg_env import OnePieceTCGEnv
 
 def plot_learning_curve(x, scores, eps_history, filename):
     fig, ax1 = plt.subplots()
@@ -32,7 +34,7 @@ def plot_learning_curve(x, scores, eps_history, filename):
 
 if __name__ == '__main__':
     tf.compat.v1.disable_eager_execution()
-    env = gym.make('optcg_game')#need explanation and correction
+    env = OnePieceTCGEnv(game_logs_path='assets/JSON/Battle_log', cards_path='assets/JSON/Cards')#need explanation and correction
     lr = 0.001
     n_games = 2000
     agent = Agent(gamma = 0.99, epsilon = 1.0, lr = lr, input_dims = env.observation_space.shape, n_actions = env.action_space.n, mem_size = 1000000, batch_size = 64, epsilon_end = 0.01)

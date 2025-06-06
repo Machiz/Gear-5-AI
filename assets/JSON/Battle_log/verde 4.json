@@ -1,0 +1,2122 @@
+{
+  "log-001": {
+    "player": "Moroff",
+    "action": "Leader is",
+    "card": "OP01-060"
+  },
+  "log-002": {
+    "player": "Pirate21384",
+    "action": "Leader is Jewelry Bonney",
+    "card": "OP07-019"
+  },
+  "log-003": {
+    "player": "Moroff",
+    "action": "Will select turn order"
+  },
+  "log-004": {
+    "player": "Moroff",
+    "action": "Chose to go Second"
+  },
+  "log-005": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP06-047"
+  },
+  "log-006": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-005"
+  },
+  "log-007": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP08-047"
+  },
+  "log-008": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP07-040"
+  },
+  "log-009": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP06-058"
+  },
+  "log-010": {
+    "player": "Moroff",
+    "action": "Hand before Mulligan",
+    "cards": ["OP06-047", "ST17-005", "OP08-047", "OP07-040", "OP06-058"]
+  },
+  "log-011": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "OP01-051"
+  },
+  "log-012": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "EB01-015"
+  },
+  "log-013": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "OP06-035"
+  },
+  "log-014": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "ST16-004"
+  },
+  "log-015": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "OP05-037"
+  },
+  "log-016": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "ST16-004"
+  },
+  "log-017": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "ST02-007"
+  },
+  "log-018": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "EB01-015"
+  },
+  "log-019": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "OP04-119"
+  },
+  "log-020": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "OP06-035"
+  },
+  "log-021": {
+    "player": "Pirate21384",
+    "action": "Mulligan"
+  },
+  "log-022": {
+    "player": "Pirate21384",
+    "action": "Draw 1 Don"
+  },
+  "log-023": {
+    "player": "Pirate21384",
+    "action": "Deploy",
+    "card": "ST02-007"
+  },
+  "log-024": {
+    "player": "Pirate21384",
+    "action": "End Turn"
+  },
+  "log-025": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["OP06-047", "ST17-005", "OP08-047", "OP07-040", "OP06-058"]
+  },
+  "log-026": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log-027": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-028": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log-029": {
+    "player": "Pirate21384",
+    "action": "Hand",
+    "cards": ["ST16-004", "EB01-015", "OP04-119", "OP06-035"]
+  },
+  "log-030": {
+    "player": "Pirate21384",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-031": {
+    "player": "Pirate21384",
+    "action": "Board",
+    "cards": ["ST02-007"]
+  },
+  "log-032": {
+    "player": "Pirate21384",
+    "action": "Life",
+    "value": 5
+  },
+  "log-033": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-034": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST03-005"
+  },
+  "log-035": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-036": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "ST17-005"
+  },
+  "log-037": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["OP06-047", "OP08-047", "OP07-040", "OP06-058", "ST03-005"]
+  },
+  "log-038": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["ST17-005"]
+  },
+  "log-039": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-040": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log-041": {
+    "player": "Pirate21384",
+    "action": "Hand",
+    "cards": ["ST16-004", "EB01-015", "OP04-119", "OP06-035"]
+  },
+  "log-042": {
+    "player": "Pirate21384",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-043": {
+    "player": "Pirate21384",
+    "action": "Board",
+    "cards": ["ST02-007"]
+  },
+  "log-044": {
+    "player": "Pirate21384",
+    "action": "Life",
+    "value": 5
+  },
+  "log-045": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-046": {
+    "player": "Pirate21384",
+    "action": "Draw 1 Card"
+  },
+  "log-047": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "OP04-119"
+  },
+  "log-048": {
+    "player": "Pirate21384",
+    "action": "Draw 2 Don"
+  },
+  "log-049": {
+    "player": "Pirate21384",
+    "action": "Rest",
+    "card": "ST02-007"
+  },
+  "log-050": {
+    "player": "Pirate21384",
+    "action": "Reveal and Draw",
+    "card": "EB01-012"
+  },
+  "log-051": {
+    "player": "Pirate21384",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-052": {
+    "player": "Pirate21384",
+    "action": "Attach 1 Don to",
+    "card": "OP07-019",
+    "total_don": 1
+  },
+  "log-053": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "OP07-019",
+    "defender": "OP01-060"
+  },
+  "log-054": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "ST03-005",
+    "counter": 2000
+  },
+  "log-055": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "OP07-019",
+    "defender": "OP01-060",
+    "attacker_power": 6000,
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log-056": {
+    "player": "Pirate21384",
+    "action": "End Turn"
+  },
+  "log-057": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["OP06-047", "OP08-047", "OP07-040", "OP06-058"]
+  },
+  "log-058": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["ST17-005"]
+  },
+  "log-059": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-005"]
+  },
+  "log-060": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log-061": {
+    "player": "Pirate21384",
+    "action": "Hand",
+    "cards": ["ST16-004", "EB01-015", "OP04-119", "OP06-035", "OP04-119", "EB01-012"]
+  },
+  "log-062": {
+    "player": "Pirate21384",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-063": {
+    "player": "Pirate21384",
+    "action": "Board",
+    "cards": ["ST02-007"]
+  },
+  "log-064": {
+    "player": "Pirate21384",
+    "action": "Life",
+    "value": 5
+  },
+  "log-065": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-066": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP07-046"
+  },
+  "log-067": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-068": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "OP07-046"
+  },
+  "log-069": {
+    "player": "Moroff",
+    "action": "Reveal and Draw",
+    "card": "ST17-005"
+  },
+  "log-070": {
+    "player": "Moroff",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-071": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "ST17-005"
+  },
+  "log-072": {
+    "player": "Moroff",
+    "action": "Sent a Card to Deck Top"
+  },
+  "log-073": {
+    "player": "Moroff",
+    "action": "Attach 1 Rested Don to",
+    "card": "OP01-060"
+  },
+  "log-074": {
+    "player": "Moroff",
+    "action": "Attach 1 Rested Don to",
+    "card": "OP01-060"
+  },
+  "log-075": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "ST17-005",
+    "total_don": 1
+  },
+  "log-076": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "ST17-005",
+    "defender": "ST02-007"
+  },
+  "log-077": {
+    "player": "Pirate21384",
+    "action": "Rest",
+    "card": "ST17-005"
+  },
+  "log-078": {
+    "player": "Pirate21384",
+    "action": "ST02-007 Destroyed"
+  },
+  "log-079": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP07-019"
+  },
+  "log-080": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP07-019",
+    "attacker_power": 7000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-081": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["OP06-047", "OP07-040", "OP06-058"]
+  },
+  "log-082": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["ST17-005", "OP07-046", "ST17-005"]
+  },
+  "log-083": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-005"]
+  },
+  "log-084": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log-085": {
+    "player": "Pirate21384",
+    "action": "Hand",
+    "cards": ["ST16-004", "EB01-015", "OP04-119", "OP06-035", "OP04-119", "EB01-012", "OP10-032"]
+  },
+  "log-086": {
+    "player": "Pirate21384",
+    "action": "Trash",
+    "cards": ["ST02-007"]
+  },
+  "log-087": {
+    "player": "Pirate21384",
+    "action": "Board",
+    "cards": []
+  },
+  "log-088": {
+    "player": "Pirate21384",
+    "action": "Life",
+    "value": 4
+  },
+  "log-089": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-090": {
+    "player": "Pirate21384",
+    "action": "Draw 1 Card"
+  },
+  "log-091": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "OP08-023"
+  },
+  "log-092": {
+    "player": "Pirate21384",
+    "action": "Draw 2 Don"
+  },
+  "log-093": {
+    "player": "Pirate21384",
+    "action": "Deploy",
+    "card": "EB01-012"
+  },
+  "log-094": {
+    "player": "Pirate21384",
+    "action": "Activate 2 Don",
+    "card": "EB01-012"
+  },
+  "log-095": {
+    "player": "Pirate21384",
+    "action": "Attach 1 Don to",
+    "card": "OP07-019",
+    "total_don": 1
+  },
+  "log-096": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "OP07-019",
+    "defender": "ST17-005"
+  },
+  "log-097": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "OP07-019",
+    "defender": "ST17-005",
+    "attacker_power": 6000,
+    "defender_power": 3000
+  },
+  "log-098": {
+    "player": "Moroff",
+    "action": "ST17-005 Destroyed"
+  },
+  "log-099": {
+    "player": "Pirate21384",
+    "action": "End Turn"
+  },
+  "log-100": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["OP06-047", "OP07-040", "OP06-058"]
+  },
+  "log-101": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["OP07-046", "ST17-005"]
+  },
+  "log-102": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-005", "ST17-005"]
+  },
+  "log-103": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log-104": {
+    "player": "Pirate21384",
+    "action": "Hand",
+    "cards": ["ST16-004", "EB01-015", "OP04-119", "OP06-035", "OP04-119", "OP10-032", "OP08-023"]
+  },
+  "log-105": {
+    "player": "Pirate21384",
+    "action": "Trash",
+    "cards": ["ST02-007"]
+  },
+  "log-106": {
+    "player": "Pirate21384",
+    "action": "Board",
+    "cards": ["EB01-012"]
+  },
+  "log-107": {
+    "player": "Pirate21384",
+    "action": "Life",
+    "value": 4
+  },
+  "log-108": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-109": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP08-047"
+  },
+  "log-110": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-111": {
+    "player": "Moroff",
+    "action": "Sent a Card to Deck Top"
+  },
+  "log-112": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "OP06-047"
+  },
+  "log-113": {
+    "player": "Moroff",
+    "action": "Force Opponent to Shuffle Hand into Deck and Draw 5"
+  },
+  "log-114": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "OP01-051"
+  },
+  "log-115": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "ST16-004"
+  },
+  "log-116": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "OP07-031"
+  },
+  "log-117": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "OP05-037"
+  },
+  "log-118": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "OP07-031"
+  },
+  "log-119": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log-120": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log-121": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP07-019"
+  },
+  "log-122": {
+    "player": "Pirate21384",
+    "action": "Rest",
+    "card": "ST17-005"
+  },
+  "log-123": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP07-019",
+    "attacker_power": 7000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-124": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["OP07-040", "OP06-058"]
+  },
+  "log-125": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["OP07-046", "ST17-005", "OP06-047"]
+  },
+  "log-126": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-005", "ST17-005"]
+  },
+  "log-127": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log-128": {
+    "player": "Pirate21384",
+    "action": "Hand",
+    "cards": ["OP01-051", "ST16-004", "OP07-031", "OP05-037", "OP07-031", "ST02-008"]
+  },
+  "log-129": {
+    "player": "Pirate21384",
+    "action": "Trash",
+    "cards": ["ST02-007"]
+  },
+  "log-130": {
+    "player": "Pirate21384",
+    "action": "Board",
+    "cards": ["EB01-012"]
+  },
+  "log-131": {
+    "player": "Pirate21384",
+    "action": "Life",
+    "value": 3
+  },
+  "log-132": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-133": {
+    "player": "Pirate21384",
+    "action": "Draw 1 Card"
+  },
+  "log-134": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "OP04-119"
+  },
+  "log-135": {
+    "player": "Pirate21384",
+    "action": "Draw 2 Don"
+  },
+  "log-136": {
+    "player": "Pirate21384",
+    "action": "Deploy",
+    "card": "OP07-031"
+  },
+  "log-137": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "EB01-012",
+    "defender": "ST17-005"
+  },
+  "log-138": {
+    "player": "Pirate21384",
+    "action": "Activate 2 Don",
+    "card": "EB01-012"
+  },
+  "log-139": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "EB01-012",
+    "defender": "ST17-005",
+    "attacker_power": 6000,
+    "defender_power": 3000
+  },
+  "log-140": {
+    "player": "Moroff",
+    "action": "ST17-005 Destroyed"
+  },
+  "log-141": {
+    "player": "Pirate21384",
+    "action": "Deploy",
+    "card": "OP07-031"
+  },
+  "log-142": {
+    "player": "Pirate21384",
+    "action": "Attach 2 Don to",
+    "card": "OP07-019",
+    "total_don": 2
+  },
+  "log-143": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "OP07-019",
+    "defender": "OP01-060"
+  },
+  "log-144": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "OP07-019",
+    "defender": "OP01-060",
+    "attacker_power": 7000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-145": {
+    "player": "Pirate21384",
+    "action": "End Turn"
+  },
+  "log-146": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["OP07-040", "OP06-058"]
+  },
+  "log-147": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["OP07-046", "OP06-047"]
+  },
+  "log-148": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-005", "ST17-005", "ST17-005"]
+  },
+  "log-149": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log-150": {
+    "player": "Pirate21384",
+    "action": "Hand",
+    "cards": ["OP01-051", "ST16-004", "OP05-037", "ST02-008", "OP04-119"]
+  },
+  "log-151": {
+    "player": "Pirate21384",
+    "action": "Trash",
+    "cards": ["ST02-007"]
+  },
+  "log-152": {
+    "player": "Pirate21384",
+    "action": "Board",
+    "cards": ["EB01-012", "OP07-031", "OP07-031"]
+  },
+  "log-153": {
+    "player": "Pirate21384",
+    "action": "Life",
+    "value": 3
+  },
+  "log-154": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-155": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP08-047"
+  },
+  "log-156": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-157": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "OP07-046"
+  },
+  "log-158": {
+    "player": "Moroff",
+    "action": "Reveal and Draw",
+    "card": "OP07-057"
+  },
+  "log-159": {
+    "player": "Moroff",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-160": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log-161": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log-162": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "EB01-012"
+  },
+  "log-163": {
+    "player": "Moroff",
+    "action": "revealed",
+    "card": "EB01-023"
+  },
+  "log-164": {
+    "player": "Moroff",
+    "action": "Deploy from Deck",
+    "card": "EB01-023"
+  },
+  "log-165": {
+    "player": "Moroff",
+    "action": "Draw 1 Card",
+    "card": "EB01-023"
+  },
+  "log-166": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-003"
+  },
+  "log-167": {
+    "player": "Pirate21384",
+    "action": "Rest",
+    "card": "OP06-047"
+  },
+  "log-168": {
+    "player": "Pirate21384",
+    "action": "Discard",
+    "card": "ST02-008",
+    "counter": 2000
+  },
+  "log-169": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "EB01-012",
+    "attacker_power": 7000,
+    "defender_power": 8000,
+    "result": "Attack Fails"
+  },
+  "log-170": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP06-047",
+    "total_don": 1
+  },
+  "log-171": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP06-047",
+    "total_don": 2
+  },
+  "log-172": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP06-047",
+    "total_don": 3
+  },
+  "log-173": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP06-047",
+    "total_don": 4
+  },
+  "log-174": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["OP07-040", "OP06-058", "OP08-047", "OP07-057", "ST17-003"]
+  },
+  "log-175": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["OP07-046", "OP06-047", "OP07-046", "EB01-023"]
+  },
+  "log-176": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-005", "ST17-005", "ST17-005"]
+  },
+  "log-177": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log-178": {
+    "player": "Pirate21384",
+    "action": "Hand",
+    "cards": ["OP01-051", "ST16-004", "OP05-037", "OP04-119"]
+  },
+  "log-179": {
+    "player": "Pirate21384",
+    "action": "Trash",
+    "cards": ["ST02-007", "ST02-008"]
+  },
+  "log-180": {
+    "player": "Pirate21384",
+    "action": "Board",
+    "cards": ["EB01-012", "OP07-031", "OP07-031"]
+  },
+  "log-181": {
+    "player": "Pirate21384",
+    "action": "Life",
+    "value": 3
+  },
+  "log-182": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-183": {
+    "player": "Pirate21384",
+    "action": "Draw 1 Card"
+  },
+  "log-184": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "OP10-032"
+  },
+  "log-185": {
+    "player": "Pirate21384",
+    "action": "Draw 2 Don"
+  },
+  "log-186": {
+    "player": "Pirate21384",
+    "action": "Deploy",
+    "card": "ST16-004"
+  },
+  "log-187": {
+    "player": "Pirate21384",
+    "action": "Destroy",
+    "card": "EB01-023",
+    "source": "ST16-004"
+  },
+  "log-188": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "EB01-012",
+    "defender": "OP06-047"
+  },
+  "log-189": {
+    "player": "Pirate21384",
+    "action": "Activate 2 Don",
+    "card": "EB01-012"
+  },
+  "log-190": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "OP07-040",
+    "counter": 2000
+  },
+  "log-191": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "OP08-047",
+    "counter": 1000
+  },
+  "log-192": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "EB01-012",
+    "defender": "OP06-047",
+    "attacker_power": 6000,
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log-193": {
+    "player": "Pirate21384",
+    "action": "Attach 1 Don to",
+    "card": "OP07-019",
+    "total_don": 1
+  },
+  "log-194": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "OP07-019",
+    "defender": "OP06-047"
+  },
+  "log-195": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "OP07-019",
+    "defender": "OP06-047",
+    "attacker_power": 6000,
+    "defender_power": 4000
+  },
+  "log-196": {
+    "player": "Moroff",
+    "action": "OP06-047 Destroyed"
+  },
+  "log-197": {
+    "player": "Pirate21384",
+    "action": "End Turn"
+  },
+  "log-198": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["OP06-058", "OP07-057", "ST17-003"]
+  },
+  "log-199": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["OP07-046", "OP07-046"]
+  },
+  "log-200": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-005", "ST17-005", "ST17-005", "EB01-023", "OP07-040", "OP08-047", "OP06-047"]
+  },
+  "log-201": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log-202": {
+    "player": "Pirate21384",
+    "action": "Hand",
+    "cards": ["OP01-051", "OP05-037", "OP04-119", "OP10-032"]
+  },
+  "log-203": {
+    "player": "Pirate21384",
+    "action": "Trash",
+    "cards": ["ST02-007", "ST02-008"]
+  },
+  "log-204": {
+    "player": "Pirate21384",
+    "action": "Board",
+    "cards": ["EB01-012", "OP07-031", "OP07-031", "ST16-004"]
+  },
+  "log-205": {
+    "player": "Pirate21384",
+    "action": "Life",
+    "value": 3
+  },
+  "log-206": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-207": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-002"
+  },
+  "log-208": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-209": {
+    "player": "Moroff",
+    "action": "Send to Deck Bottom",
+    "card": "EB01-012",
+    "source": "OP06-058"
+  },
+  "log-210": {
+    "player": "Moroff",
+    "action": "Send to Deck Bottom",
+    "card": "OP07-031",
+    "source": "OP06-058"
+  },
+  "log-211": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log-212": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log-213": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP07-019"
+  },
+  "log-214": {
+    "player": "Moroff",
+    "action": "revealed",
+    "card": "EB01-023"
+  },
+  "log-215": {
+    "player": "Moroff",
+    "action": "Deploy from Deck",
+    "card": "EB01-023"
+  },
+  "log-216": {
+    "player": "Moroff",
+    "action": "Draw 1 Card",
+    "card": "EB01-023"
+  },
+  "log-217": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-004"
+  },
+  "log-218": {
+    "player": "Pirate21384",
+    "action": "Rest",
+    "card": "OP07-046"
+  },
+  "log-219": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP07-019",
+    "attacker_power": 7000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-220": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["OP07-057", "ST17-003", "ST17-002", "ST17-004"]
+  },
+  "log-221": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["OP07-046", "OP07-046", "EB01-023"]
+  },
+  "log-222": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-005", "ST17-005", "ST17-005", "EB01-023", "OP07-040", "OP08-047", "OP06-047", "OP06-058"]
+  },
+  "log-223": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log-224": {
+    "player": "Pirate21384",
+    "action": "Hand",
+    "cards": ["OP01-051", "OP05-037", "OP04-119", "OP10-032", "EB01-015"]
+  },
+  "log-225": {
+    "player": "Pirate21384",
+    "action": "Trash",
+    "cards": ["ST02-007", "ST02-008"]
+  },
+  "log-226": {
+    "player": "Pirate21384",
+    "action": "Board",
+    "cards": ["OP07-031", "ST16-004"]
+  },
+  "log-227": {
+    "player": "Pirate21384",
+    "action": "Life",
+    "value": 2
+  },
+  "log-228": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-229": {
+    "player": "Pirate21384",
+    "action": "Draw 1 Card"
+  },
+  "log-230": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "OP01-033"
+  },
+  "log-231": {
+    "player": "Pirate21384",
+    "action": "Draw 2 Don"
+  },
+  "log-232": {
+    "player": "Pirate21384",
+    "action": "Deploy",
+    "card": "OP01-051"
+  },
+  "log-233": {
+    "player": "Pirate21384",
+    "action": "Attach 1 Don to",
+    "card": "OP01-051",
+    "total_don": 1
+  },
+  "log-234": {
+    "player": "Pirate21384",
+    "action": "Deploy",
+    "card": "OP10-032",
+    "source": "OP01-051"
+  },
+  "log-235": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "OP01-051"
+  },
+  "log-236": {
+    "player": "Pirate21384",
+    "action": "Draw 1 Card",
+    "card": "OP07-031"
+  },
+  "log-237": {
+    "player": "Pirate21384",
+    "action": "Trash",
+    "card": "OP04-119",
+    "source": "OP07-031"
+  },
+  "log-238": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "ST16-004",
+    "defender": "EB01-023"
+  },
+  "log-239": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "ST16-004",
+    "defender": "EB01-023",
+    "attacker_power": 11000,
+    "defender_power": 6000
+  },
+  "log-240": {
+    "player": "Moroff",
+    "action": "EB01-023 Destroyed"
+  },
+  "log-241": {
+    "player": "Pirate21384",
+    "action": "End Turn"
+  },
+  "log-242": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["OP07-057", "ST17-003", "ST17-002", "ST17-004"]
+  },
+  "log-243": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["OP07-046", "OP07-046"]
+  },
+  "log-244": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-005", "ST17-005", "ST17-005", "EB01-023", "OP07-040", "OP08-047", "OP06-047", "OP06-058", "EB01-023"]
+  },
+  "log-245": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log-246": {
+    "player": "Pirate21384",
+    "action": "Hand",
+    "cards": ["OP05-037", "EB01-015", "OP01-033", "OP01-051"]
+  },
+  "log-247": {
+    "player": "Pirate21384",
+    "action": "Trash",
+    "cards": ["ST02-007", "ST02-008", "OP04-119"]
+  },
+  "log-248": {
+    "player": "Pirate21384",
+    "action": "Board",
+    "cards": ["OP07-031", "ST16-004", "OP01-051", "OP10-032"]
+  },
+  "log-249": {
+    "player": "Pirate21384",
+    "action": "Life",
+    "value": 2
+  },
+  "log-250": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-251": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP07-046"
+  },
+  "log-252": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "ST17-004"
+  },
+  "log-253": {
+    "player": "Moroff",
+    "action": "Placing Cards on Top of Deck"
+  },
+  "log-254": {
+    "player": "Moroff",
+    "action": "Attach 1 Rested Don to",
+    "card": "ST17-004"
+  },
+  "log-255": {
+    "player": "Moroff",
+    "action": "Buff 2000",
+    "card": "OP01-060",
+    "source": "OP07-057"
+  },
+  "log-256": {
+    "player": "Moroff",
+    "action": "Grant Unblockable to",
+    "card": "OP01-060",
+    "source": "OP07-057"
+  },
+  "log-257": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log-258": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log-259": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 3
+  },
+  "log-260": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 4
+  },
+  "log-261": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP01-051"
+  },
+  "log-262": {
+    "player": "Pirate21384",
+    "action": "Rest",
+    "card": "ST17-004"
+  },
+  "log-263": {
+    "player": "Pirate21384",
+    "action": "Trash",
+    "card": "OP01-051"
+  },
+  "log-264": {
+    "player": "Pirate21384",
+    "action": "Counter 3000",
+    "source": "OP05-037"
+  },
+  "log-265": {
+    "player": "Pirate21384",
+    "action": "Discard",
+    "card": "EB01-015",
+    "counter": 2000
+  },
+  "log-266": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP01-051",
+    "attacker_power": 11000,
+    "defender_power": 13000,
+    "result": "Attack Fails"
+  },
+  "log-267": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["ST17-003", "ST17-002", "OP07-046"]
+  },
+  "log-268": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["OP07-046", "OP07-046", "ST17-004"]
+  },
+  "log-269": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-005", "ST17-005", "ST17-005", "EB01-023", "OP07-040", "OP08-047", "OP06-047", "OP06-058", "EB01-023", "OP07-057"]
+  },
+  "log-270": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log-271": {
+    "player": "Pirate21384",
+    "action": "Hand",
+    "cards": ["OP01-033"]
+  },
+  "log-272": {
+    "player": "Pirate21384",
+    "action": "Trash",
+    "cards": ["ST02-007", "ST02-008", "OP04-119", "OP01-051", "OP05-037", "EB01-015"]
+  },
+  "log-273": {
+    "player": "Pirate21384",
+    "action": "Board",
+    "cards": ["OP07-031", "ST16-004", "OP01-051", "OP10-032"]
+  },
+  "log-274": {
+    "player": "Pirate21384",
+    "action": "Life",
+    "value": 2
+  },
+  "log-275": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-276": {
+    "player": "Pirate21384",
+    "action": "Draw 1 Card"
+  },
+  "log-277": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "OP05-030"
+  },
+  "log-278": {
+    "player": "Pirate21384",
+    "action": "Attach 1 Don to",
+    "card": "OP01-051",
+    "total_don": 1
+  },
+  "log-279": {
+    "player": "Pirate21384",
+    "action": "Deploy",
+    "card": "OP05-030",
+    "source": "OP01-051"
+  },
+  "log-280": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "OP07-026"
+  },
+  "log-281": {
+    "player": "Pirate21384",
+    "action": "Draw 1 Card",
+    "card": "OP07-031"
+  },
+  "log-282": {
+    "player": "Pirate21384",
+    "action": "Trash",
+    "card": "OP07-026",
+    "source": "OP07-031"
+  },
+  "log-283": {
+    "player": "Pirate21384",
+    "action": "End Turn"
+  },
+  "log-284": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["ST17-003", "ST17-002", "OP07-046"]
+  },
+  "log-285": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["OP07-046", "OP07-046", "ST17-004"]
+  },
+  "log-286": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-005", "ST17-005", "ST17-005", "EB01-023", "OP07-040", "OP08-047", "OP06-047", "OP06-058", "EB01-023", "OP07-057"]
+  },
+  "log-287": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log-288": {
+    "player": "Pirate21384",
+    "action": "Hand",
+    "cards": ["OP01-033"]
+  },
+  "log-289": {
+    "player": "Pirate21384",
+    "action": "Trash",
+    "cards": ["ST02-007", "ST02-008", "OP04-119", "OP01-051", "OP05-037", "EB01-015", "OP07-026"]
+  },
+  "log-290": {
+    "player": "Pirate21384",
+    "action": "Board",
+    "cards": ["OP07-031", "ST16-004", "OP01-051", "OP10-032", "OP05-030"]
+  },
+  "log-291": {
+    "player": "Pirate21384",
+    "action": "Life",
+    "value": 2
+  },
+  "log-292": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-293": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST03-005"
+  },
+  "log-294": {
+    "player": "Pirate21384",
+    "action": "im autistic"
+  },
+  "log-295": {
+    "player": "Pirate21384",
+    "action": "fuck me"
+  },
+  "log-296": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "OP07-046"
+  },
+  "log-297": {
+    "player": "Moroff",
+    "action": "Reveal and Draw",
+    "card": "ST17-002"
+  },
+  "log-298": {
+    "player": "Moroff",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-299": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "ST17-004",
+    "total_don": 1
+  },
+  "log-300": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "ST17-004",
+    "total_don": 2
+  },
+  "log-301": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "ST17-004",
+    "total_don": 3
+  },
+  "log-302": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "ST17-004",
+    "total_don": 4
+  },
+  "log-303": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "ST17-004",
+    "defender": "OP01-051"
+  },
+  "log-304": {
+    "player": "Pirate21384",
+    "action": "Rest",
+    "card": "OP01-060"
+  },
+  "log-305": {
+    "player": "Pirate21384",
+    "action": "Blocks",
+    "card": "OP05-030"
+  },
+  "log-306": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "ST17-004",
+    "defender": "OP05-030",
+    "attacker_power": 10000,
+    "defender_power": 1000
+  },
+  "log-307": {
+    "player": "Pirate21384",
+    "action": "OP05-030 Destroyed"
+  },
+  "log-308": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log-309": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log-310": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 3
+  },
+  "log-311": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["ST17-003", "ST17-002", "ST03-005", "ST17-002"]
+  },
+  "log-312": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["OP07-046", "OP07-046", "ST17-004", "OP07-046"]
+  },
+  "log-313": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-005", "ST17-005", "ST17-005", "EB01-023", "OP07-040", "OP08-047", "OP06-047", "OP06-058", "EB01-023", "OP07-057"]
+  },
+  "log-314": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log-315": {
+    "player": "Pirate21384",
+    "action": "Hand",
+    "cards": ["OP01-033"]
+  },
+  "log-316": {
+    "player": "Pirate21384",
+    "action": "Trash",
+    "cards": ["ST02-007", "ST02-008", "OP04-119", "OP01-051", "OP05-037", "EB01-015", "OP07-026", "OP05-030"]
+  },
+  "log-317": {
+    "player": "Pirate21384",
+    "action": "Board",
+    "cards": ["OP07-031", "ST16-004", "OP01-051", "OP10-032"]
+  },
+  "log-318": {
+    "player": "Pirate21384",
+    "action": "Life",
+    "value": 2
+  },
+  "log-319": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-320": {
+    "player": "Pirate21384",
+    "action": "Draw 1 Card"
+  },
+  "log-321": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "OP04-119"
+  },
+  "log-322": {
+    "player": "Pirate21384",
+    "action": "Deploy",
+    "card": "OP04-119"
+  },
+  "log-323": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "OP08-023"
+  },
+  "log-324": {
+    "player": "Pirate21384",
+    "action": "Draw 1 Card",
+    "card": "OP07-031"
+  },
+  "log-325": {
+    "player": "Pirate21384",
+    "action": "Trash",
+    "card": "OP08-023",
+    "source": "OP07-031"
+  },
+  "log-326": {
+    "player": "Pirate21384",
+    "action": "Attach 1 Don to",
+    "card": "OP07-019",
+    "total_don": 1
+  },
+  "log-327": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "OP07-019",
+    "defender": "OP01-060"
+  },
+  "log-328": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "ST17-002",
+    "counter": 1000
+  },
+  "log-329": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "ST17-002",
+    "counter": 1000
+  },
+  "log-330": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "OP07-019",
+    "defender": "OP01-060",
+    "attacker_power": 6000,
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log-331": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "ST16-004",
+    "defender": "ST17-004"
+  },
+  "log-332": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "ST16-004",
+    "defender": "ST17-004",
+    "attacker_power": 11000,
+    "defender_power": 6000
+  },
+  "log-333": {
+    "player": "Moroff",
+    "action": "ST17-004 Destroyed"
+  },
+  "log-334": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "OP01-051",
+    "defender": "OP01-060"
+  },
+  "log-335": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "ST17-003",
+    "counter": 2000
+  },
+  "log-336": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "ST03-005",
+    "counter": 2000
+  },
+  "log-337": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "OP01-051",
+    "defender": "OP01-060",
+    "attacker_power": 8000,
+    "defender_power": 9000,
+    "result": "Attack Fails"
+  },
+  "log-338": {
+    "player": "Pirate21384",
+    "action": "End Turn"
+  },
+  "log-339": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": []
+  },
+  "log-340": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["OP07-046", "OP07-046", "OP07-046"]
+  },
+  "log-341": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-005", "ST17-005", "ST17-005", "EB01-023", "OP07-040", "OP08-047", "OP06-047", "OP06-058", "EB01-023", "OP07-057", "ST17-002", "ST17-002", "ST17-004", "ST17-003", "ST03-005"]
+  },
+  "log-342": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log-343": {
+    "player": "Pirate21384",
+    "action": "Hand",
+    "cards": ["OP01-033"]
+  },
+  "log-344": {
+    "player": "Pirate21384",
+    "action": "Trash",
+    "cards": ["ST02-007", "ST02-008", "OP04-119", "OP01-051", "OP05-037", "EB01-015", "OP07-026", "OP05-030", "OP08-023"]
+  },
+  "log-345": {
+    "player": "Pirate21384",
+    "action": "Board",
+    "cards": ["OP07-031", "ST16-004", "OP01-051", "OP10-032", "OP04-119"]
+  },
+  "log-346": {
+    "player": "Pirate21384",
+    "action": "Life",
+    "value": 2
+  },
+  "log-347": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-348": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP07-040"
+  },
+  "log-349": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log-350": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log-351": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 3
+  },
+  "log-352": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 4
+  },
+  "log-353": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 5
+  },
+  "log-354": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP07-019"
+  },
+  "log-355": {
+    "player": "Moroff",
+    "action": "revealed",
+    "card": "OP01-077"
+  },
+  "log-356": {
+    "player": "Pirate21384",
+    "action": "Rest",
+    "card": "OP07-046"
+  },
+  "log-357": {
+    "player": "Pirate21384",
+    "action": "Blocks",
+    "card": "OP07-031"
+  },
+  "log-358": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP07-031",
+    "attacker_power": 10000,
+    "defender_power": 4000
+  },
+  "log-359": {
+    "player": "Pirate21384",
+    "action": "OP07-031 Destroyed"
+  },
+  "log-360": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP07-046",
+    "total_don": 1
+  },
+  "log-361": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP07-046",
+    "total_don": 2
+  },
+  "log-362": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP07-046",
+    "total_don": 3
+  },
+  "log-363": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP07-046",
+    "total_don": 4
+  },
+  "log-364": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP07-046",
+    "defender": "OP07-019"
+  },
+  "log-365": {
+    "player": "Pirate21384",
+    "action": "Discard",
+    "card": "OP01-033",
+    "counter": 2000
+  },
+  "log-366": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP07-046",
+    "defender": "OP07-019",
+    "attacker_power": 6000,
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log-367": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["OP07-040"]
+  },
+  "log-368": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["OP07-046", "OP07-046", "OP07-046"]
+  },
+  "log-369": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-005", "ST17-005", "ST17-005", "EB01-023", "OP07-040", "OP08-047", "OP06-047", "OP06-058", "EB01-023", "OP07-057", "ST17-002", "ST17-002", "ST17-004", "ST17-003", "ST03-005"]
+  },
+  "log-370": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log-371": {
+    "player": "Pirate21384",
+    "action": "Hand",
+    "cards": []
+  },
+  "log-372": {
+    "player": "Pirate21384",
+    "action": "Trash",
+    "cards": ["ST02-007", "ST02-008", "OP04-119", "OP01-051", "OP05-037", "EB01-015", "OP07-026", "OP05-030", "OP08-023", "OP07-031", "OP01-033"]
+  },
+  "log-373": {
+    "player": "Pirate21384",
+    "action": "Board",
+    "cards": ["ST16-004", "OP01-051", "OP10-032", "OP04-119"]
+  },
+  "log-374": {
+    "player": "Pirate21384",
+    "action": "Life",
+    "value": 2
+  },
+  "log-375": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-376": {
+    "player": "Pirate21384",
+    "action": "Draw 1 Card"
+  },
+  "log-377": {
+    "player": "Pirate21384",
+    "action": "Drew card from deck",
+    "card": "ST16-004"
+  },
+  "log-378": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "OP04-119",
+    "defender": "OP01-060"
+  },
+  "log-379": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "OP04-119",
+    "defender": "OP01-060",
+    "attacker_power": 8000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-380": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "OP10-032",
+    "defender": "OP07-046"
+  },
+  "log-381": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "OP10-032",
+    "defender": "OP07-046",
+    "attacker_power": 4000,
+    "defender_power": 2000
+  },
+  "log-382": {
+    "player": "Moroff",
+    "action": "OP07-046 Destroyed"
+  },
+  "log-383": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "ST16-004",
+    "defender": "OP01-060"
+  },
+  "log-384": {
+    "player": "Pirate21384",
+    "action": "attacking",
+    "attacker": "ST16-004",
+    "defender": "OP01-060",
+    "attacker_power": 11000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-385": {
+    "player": "Pirate21384",
+    "action": "Attach 1 Don to",
+    "card": "OP01-051",
+    "total_don": 1
+  },
+  "log-386": {
+    "player": "Pirate21384",
+    "action": "Deploy",
+    "card": "ST16-004"
+  },
+  "log-387": {
+    "player": "Pirate21384",
+    "action": "Destroy",
+    "card": "OP07-046",
+    "source": "ST16-004"
+  },
+  "log-388": {
+    "player": "Pirate21384",
+    "action": "End Turn"
+  },
+  "log-389": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["OP07-040", "OP07-040", "OP06-047"]
+  },
+  "log-390": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["OP07-046"]
+  },
+  "log-391": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-005", "ST17-005", "ST17-005", "EB01-023", "OP07-040", "OP08-047", "OP06-047", "OP06-058", "EB01-023", "OP07-057", "ST17-002", "ST17-002", "ST17-004", "ST17-003", "ST03-005", "OP07-046", "OP07-046"]
+  },
+  "log-392": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 2
+  },
+  "log-393": {
+    "player": "Pirate21384",
+    "action": "Hand",
+    "cards": []
+  },
+  "log-394": {
+    "player": "Pirate21384",
+    "action": "Trash",
+    "cards": ["ST02-007", "ST02-008", "OP04-119", "OP01-051", "OP05-037", "EB01-015", "OP07-026", "OP05-030", "OP08-023", "OP07-031", "OP01-033"]
+  },
+  "log-395": {
+    "player": "Pirate21384",
+    "action": "Board",
+    "cards": ["ST16-004", "OP01-051", "OP10-032", "OP04-119", "ST16-004"]
+  },
+  "log-396": {
+    "player": "Pirate21384",
+    "action": "Life",
+    "value": 2
+  },
+  "log-397": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-398": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP01-077"
+  },
+  "log-399": {
+    "player": "Moroff",
+    "action": "Attach 9 Don to",
+    "card": "OP01-060",
+    "total_don": 9
+  },
+  "log-400": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP01-051"
+  },
+  "log-401": {
+    "player": "Moroff",
+    "action": "revealed",
+    "card": "OP08-047"
+  },
+  "log-402": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP01-051",
+    "attacker_power": 14000,
+    "defender_power": 8000
+  },
+  "log-403": {
+    "player": "Pirate21384",
+    "action": "OP01-051 Destroyed"
+  },
+  "log-404": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["OP07-040", "OP07-040", "OP06-047", "OP01-077"]
+  },
+  "log-405": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["OP07-046"]
+  }
+}

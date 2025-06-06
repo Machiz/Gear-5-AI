@@ -1,0 +1,1657 @@
+{
+  "log_001": {
+    "player": "Moroff",
+    "action": "Leader is Donquixote Doflamingo",
+    "card": "OP01-060"
+  },
+  "log_002": {
+    "player": "BiscuitWarrior",
+    "action": "Leader is Monkey D. Luffy",
+    "card": "ST21-001"
+  },
+  "log_003": {
+    "player": "Moroff",
+    "action": "Will select turn order"
+  },
+  "log_004": {
+    "player": "Moroff",
+    "action": "Chose to go First"
+  },
+  "log_005": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "Crocodile",
+    "card_id": "OP07-040"
+  },
+  "log_006": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "Edward Weevil",
+    "card_id": "EB01-023"
+  },
+  "log_007": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "Edward Weevil",
+    "card_id": "EB01-023"
+  },
+  "log_008": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "Gravity Blade Raging Tiger",
+    "card_id": "OP06-058"
+  },
+  "log_009": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "Boa Hancock",
+    "card_id": "ST17-004"
+  },
+  "log_010": {
+    "player": "Moroff",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "OP07-040",
+      "EB01-023",
+      "EB01-023",
+      "OP06-058",
+      "ST17-004"
+    ]
+  },
+  "log_011": {
+    "player": "BiscuitWarrior",
+    "action": "Drew card from deck",
+    "card": "Benn Beckman",
+    "card_id": "OP09-009"
+  },
+  "log_012": {
+    "player": "BiscuitWarrior",
+    "action": "Drew card from deck",
+    "card": "Gum Gum Mole Gun",
+    "card_id": "ST21-017"
+  },
+  "log_013": {
+    "player": "BiscuitWarrior",
+    "action": "Drew card from deck",
+    "card": "Monkey D. Dragon",
+    "card_id": "OP07-015"
+  },
+  "log_014": {
+    "player": "BiscuitWarrior",
+    "action": "Drew card from deck",
+    "card": "Gum Gum Mole Gun",
+    "card_id": "ST21-017"
+  },
+  "log_015": {
+    "player": "BiscuitWarrior",
+    "action": "Drew card from deck",
+    "card": "Otama",
+    "card_id": "OP01-006"
+  },
+  "log_016": {
+    "player": "BiscuitWarrior",
+    "action": "Drew card from deck",
+    "card": "Nami",
+    "card_id": "ST01-007"
+  },
+  "log_017": {
+    "player": "BiscuitWarrior",
+    "action": "Drew card from deck",
+    "card": "Benn Beckman",
+    "card_id": "OP09-009"
+  },
+  "log_018": {
+    "player": "BiscuitWarrior",
+    "action": "Drew card from deck",
+    "card": "Tony Tony Chopper",
+    "card_id": "OP10-011"
+  },
+  "log_019": {
+    "player": "BiscuitWarrior",
+    "action": "Drew card from deck",
+    "card": "Gum Gum Mole Gun",
+    "card_id": "ST21-017"
+  },
+  "log_020": {
+    "player": "BiscuitWarrior",
+    "action": "Drew card from deck",
+    "card": "Radical Beam!!",
+    "card_id": "OP01-029"
+  },
+  "log_021": {
+    "player": "BiscuitWarrior",
+    "action": "Mulligan"
+  },
+  "log_022": {
+    "player": "Moroff",
+    "action": "Hand status",
+    "cards": [
+      "OP07-040",
+      "EB01-023",
+      "EB01-023",
+      "OP06-058",
+      "ST17-004"
+    ]
+  },
+  "log_023": {
+    "player": "Moroff",
+    "action": "Board status",
+    "cards": []
+  },
+  "log_024": {
+    "player": "Moroff",
+    "action": "Trash status",
+    "cards": []
+  },
+  "log_025": {
+    "player": "Moroff",
+    "action": "Life status",
+    "life": 5
+  },
+  "log_026": {
+    "player": "BiscuitWarrior",
+    "action": "Hand status",
+    "cards": [
+      "ST01-007",
+      "OP09-009",
+      "OP10-011",
+      "ST21-017",
+      "OP01-029"
+    ]
+  },
+  "log_027": {
+    "player": "BiscuitWarrior",
+    "action": "Trash status",
+    "cards": []
+  },
+  "log_028": {
+    "player": "BiscuitWarrior",
+    "action": "Board status",
+    "cards": []
+  },
+  "log_029": {
+    "player": "BiscuitWarrior",
+    "action": "Life status",
+    "life": 5
+  },
+  "log_030": {
+    "player": "Moroff",
+    "action": "Draw 1 Don"
+  },
+  "log_031": {
+    "player": "Moroff",
+    "action": "Hand status",
+    "cards": [
+      "OP07-040",
+      "EB01-023",
+      "EB01-023",
+      "OP06-058",
+      "ST17-004"
+    ]
+  },
+  "log_032": {
+    "player": "Moroff",
+    "action": "Board status",
+    "cards": []
+  },
+  "log_033": {
+    "player": "Moroff",
+    "action": "Trash status",
+    "cards": []
+  },
+  "log_034": {
+    "player": "Moroff",
+    "action": "Life status",
+    "life": 5
+  },
+  "log_035": {
+    "player": "BiscuitWarrior",
+    "action": "Hand status",
+    "cards": [
+      "ST01-007",
+      "OP09-009",
+      "OP10-011",
+      "ST21-017",
+      "OP01-029"
+    ]
+  },
+  "log_036": {
+    "player": "BiscuitWarrior",
+    "action": "Trash status",
+    "cards": []
+  },
+  "log_037": {
+    "player": "BiscuitWarrior",
+    "action": "Board status",
+    "cards": []
+  },
+  "log_038": {
+    "player": "BiscuitWarrior",
+    "action": "Life status",
+    "life": 5
+  },
+  "log_039": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_040": {
+    "player": "BiscuitWarrior",
+    "action": "Draw 1 Card"
+  },
+  "log_041": {
+    "player": "BiscuitWarrior",
+    "action": "Drew card from deck",
+    "card": "Gum Gum Mole Gun",
+    "card_id": "ST21-017"
+  },
+  "log_042": {
+    "player": "BiscuitWarrior",
+    "action": "Draw 2 Don"
+  },
+  "log_043": {
+    "player": "BiscuitWarrior",
+    "action": "End Turn"
+  },
+  "log_044": {
+    "player": "Moroff",
+    "action": "Hand status",
+    "cards": [
+      "OP07-040",
+      "EB01-023",
+      "EB01-023",
+      "OP06-058",
+      "ST17-004"
+    ]
+  },
+  "log_045": {
+    "player": "Moroff",
+    "action": "Board status",
+    "cards": []
+  },
+  "log_046": {
+    "player": "Moroff",
+    "action": "Trash status",
+    "cards": []
+  },
+  "log_047": {
+    "player": "Moroff",
+    "action": "Life status",
+    "life": 5
+  },
+  "log_048": {
+    "player": "BiscuitWarrior",
+    "action": "Hand status",
+    "cards": [
+      "ST01-007",
+      "OP09-009",
+      "OP10-011",
+      "ST21-017",
+      "OP01-029",
+      "ST21-017"
+    ]
+  },
+  "log_049": {
+    "player": "BiscuitWarrior",
+    "action": "Trash status",
+    "cards": []
+  },
+  "log_050": {
+    "player": "BiscuitWarrior",
+    "action": "Board status",
+    "cards": []
+  },
+  "log_051": {
+    "player": "BiscuitWarrior",
+    "action": "Life status",
+    "life": 5
+  },
+  "log_052": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log_053": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "Jozu",
+    "card_id": "OP08-047"
+  },
+  "log_054": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log_055": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card_id": "OP01-060",
+    "total_don": 1
+  },
+  "log_056": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card_id": "OP01-060",
+    "total_don": 2
+  },
+  "log_057": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "Donquixote Doflamingo",
+    "attacker_id": "OP01-060",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
+  },
+  "log_058": {
+    "player": "Moroff",
+    "action": "Donquixote Doflamingo revealed",
+    "card": "Boa Hancock",
+    "card_id": "ST17-004"
+  },
+  "log_059": {
+    "player": "Moroff",
+    "action": "Deploy Boa Hancock from Deck",
+    "card_id": "ST17-004"
+  },
+  "log_060": {
+    "player": "Moroff",
+    "action": "Placing Cards on Top of Deck"
+  },
+  "log_061": {
+    "player": "Moroff",
+    "action": "Boa Hancock: Attach 1 Rested Don to Donquixote Doflamingo",
+    "card_id": "ST17-004",
+    "target_card_id": "OP01-060"
+  },
+  "log_062": {
+    "player": "Moroff",
+    "action": "Attack calculation",
+    "attacker": "Donquixote Doflamingo",
+    "attacker_id": "OP01-060",
+    "attacker_power": 8000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001",
+    "defender_power": 5000
+  },
+  "log_063": {
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card_id": "ST21-001"
+  },
+  "log_064": {
+    "player": "Moroff",
+    "action": "Hand status",
+    "cards": [
+      "OP07-040",
+      "EB01-023",
+      "EB01-023",
+      "OP06-058",
+      "ST17-004",
+      "OP08-047"
+    ]
+  },
+  "log_065": {
+    "player": "Moroff",
+    "action": "Board status",
+    "cards": [
+      "ST17-004"
+    ]
+  },
+  "log_066": {
+    "player": "Moroff",
+    "action": "Trash status",
+    "cards": []
+  },
+  "log_067": {
+    "player": "Moroff",
+    "action": "Life status",
+    "life": 5
+  },
+  "log_068": {
+    "player": "BiscuitWarrior",
+    "action": "Hand status",
+    "cards": [
+      "ST01-007",
+      "OP09-009",
+      "OP10-011",
+      "ST21-017",
+      "OP01-029",
+      "ST21-017",
+      "ST21-015"
+    ]
+  },
+  "log_069": {
+    "player": "BiscuitWarrior",
+    "action": "Trash status",
+    "cards": []
+  },
+  "log_070": {
+    "player": "BiscuitWarrior",
+    "action": "Board status",
+    "cards": []
+  },
+  "log_071": {
+    "player": "BiscuitWarrior",
+    "action": "Life status",
+    "life": 4
+  },
+  "log_072": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_073": {
+    "player": "BiscuitWarrior",
+    "action": "Draw 1 Card"
+  },
+  "log_074": {
+    "player": "BiscuitWarrior",
+    "action": "Drew card from deck",
+    "card": "Roronoa Zoro",
+    "card_id": "OP01-025"
+  },
+  "log_075": {
+    "player": "BiscuitWarrior",
+    "action": "Draw 2 Don"
+  },
+  "log_076": {
+    "player": "BiscuitWarrior",
+    "action": "Deploy Nami",
+    "card_id": "ST01-007"
+  },
+  "log_077": {
+    "player": "BiscuitWarrior",
+    "action": "Deploy Roronoa Zoro",
+    "card_id": "OP01-025"
+  },
+  "log_078": {
+    "player": "BiscuitWarrior",
+    "action": "Nami: Attach 1 Rested Don to Monkey D. Luffy",
+    "card_id": "ST01-007",
+    "target_card_id": "ST21-001"
+  },
+  "log_079": {
+    "player": "BiscuitWarrior",
+    "action": "Monkey D. Luffy: Attach 1 Rested Don to Roronoa Zoro",
+    "card_id": "ST21-001",
+    "target_card_id": "OP01-025"
+  },
+  "log_080": {
+    "player": "BiscuitWarrior",
+    "action": "Monkey D. Luffy: Attach 1 Rested Don to Roronoa Zoro",
+    "card_id": "ST21-001",
+    "target_card_id": "OP01-025"
+  },
+  "log_081": {
+    "player": "BiscuitWarrior",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Donquixote Doflamingo",
+    "defender_id": "OP01-060"
+  },
+  "log_082": {
+    "player": "Moroff",
+    "action": "Discard Crocodile for Counter 2000",
+    "card": "Crocodile",
+    "card_id": "OP07-040",
+    "counter_power": 2000
+  },
+  "log_083": {
+    "player": "BiscuitWarrior",
+    "action": "Attack calculation",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "attacker_power": 6000,
+    "defender": "Donquixote Doflamingo",
+    "defender_id": "OP01-060",
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log_084": {
+    "player": "BiscuitWarrior",
+    "action": "attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-025",
+    "defender": "Donquixote Doflamingo",
+    "defender_id": "OP01-060"
+  },
+  "log_085": {
+    "player": "BiscuitWarrior",
+    "action": "Attack calculation",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-025",
+    "attacker_power": 7000,
+    "defender": "Donquixote Doflamingo",
+    "defender_id": "OP01-060",
+    "defender_power": 5000
+  },
+  "log_086": {
+    "player": "Donquixote Doflamingo",
+    "action": "hit for 1 damage",
+    "card_id": "OP01-060"
+  },
+  "log_087": {
+    "player": "BiscuitWarrior",
+    "action": "End Turn"
+  },
+  "log_088": {
+    "player": "Moroff",
+    "action": "Hand status",
+    "cards": [
+      "EB01-023",
+      "EB01-023",
+      "OP06-058",
+      "ST17-004",
+      "OP08-047",
+      "OP07-040"
+    ]
+  },
+  "log_089": {
+    "player": "Moroff",
+    "action": "Board status",
+    "cards": [
+      "ST17-004"
+    ]
+  },
+  "log_090": {
+    "player": "Moroff",
+    "action": "Trash status",
+    "cards": [
+      "OP07-040"
+    ]
+  },
+  "log_091": {
+    "player": "Moroff",
+    "action": "Life status",
+    "life": 4
+  },
+  "log_092": {
+    "player": "BiscuitWarrior",
+    "action": "Hand status",
+    "cards": [
+      "OP09-009",
+      "OP10-011",
+      "ST21-017",
+      "OP01-029",
+      "ST21-017",
+      "ST21-015"
+    ]
+  },
+  "log_093": {
+    "player": "BiscuitWarrior",
+    "action": "Trash status",
+    "cards": []
+  },
+  "log_094": {
+    "player": "BiscuitWarrior",
+    "action": "Board status",
+    "cards": [
+      "ST01-007",
+      "OP01-025"
+    ]
+  },
+  "log_095": {
+    "player": "BiscuitWarrior",
+    "action": "Life status",
+    "life": 4
+  },
+  "log_096": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log_097": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "Sengoku",
+    "card_id": "OP07-046"
+  },
+  "log_098": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log_099": {
+    "player": "Moroff",
+    "action": "Deploy Sengoku",
+    "card_id": "OP07-046"
+  },
+  "log_100": {
+    "player": "Moroff",
+    "action": "Reveal and Draw Perfume Femur",
+    "card": "Perfume Femur",
+    "card_id": "OP07-057"
+  },
+  "log_101": {
+    "player": "Moroff",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log_102": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "Boa Hancock",
+    "attacker_id": "ST17-004",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
+  },
+  "log_103": {
+    "player": "Moroff",
+    "action": "Attack calculation",
+    "attacker": "Boa Hancock",
+    "attacker_id": "ST17-004",
+    "attacker_power": 6000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001",
+    "defender_power": 5000
+  },
+  "log_104": {
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card_id": "ST21-001"
+  },
+  "log_105": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card_id": "OP01-060",
+    "total_don": 1
+  },
+  "log_106": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card_id": "OP01-060",
+    "total_don": 2
+  },
+  "log_107": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "Donquixote Doflamingo",
+    "attacker_id": "OP01-060",
+    "defender": "Roronoa Zoro",
+    "defender_id": "OP01-025"
+  },
+  "log_108": {
+    "player": "Moroff",
+    "action": "Donquixote Doflamingo revealed",
+    "card": "Gravity Blade Raging Tiger",
+    "card_id": "OP06-058"
+  },
+  "log_109": {
+    "player": "Moroff",
+    "action": "Attack calculation",
+    "attacker": "Donquixote Doflamingo",
+    "attacker_id": "OP01-060",
+    "attacker_power": 7000,
+    "defender": "Roronoa Zoro",
+    "defender_id": "OP01-025",
+    "defender_power": 5000
+  },
+  "log_110": {
+    "player": "BiscuitWarrior",
+    "action": "Roronoa Zoro Destroyed",
+    "card": "Roronoa Zoro",
+    "card_id": "OP01-025"
+  },
+  "log_111": {
+    "player": "Moroff",
+    "action": "Hand status",
+    "cards": [
+      "EB01-023",
+      "EB01-023",
+      "OP06-058",
+      "ST17-004",
+      "OP08-047",
+      "OP07-040",
+      "OP07-057"
+    ]
+  },
+  "log_112": {
+    "player": "Moroff",
+    "action": "Board status",
+    "cards": [
+      "ST17-004",
+      "OP07-046"
+    ]
+  },
+  "log_113": {
+    "player": "Moroff",
+    "action": "Trash status",
+    "cards": [
+      "OP07-040"
+    ]
+  },
+  "log_114": {
+    "player": "Moroff",
+    "action": "Life status",
+    "life": 4
+  },
+  "log_115": {
+    "player": "BiscuitWarrior",
+    "action": "Hand status",
+    "cards": [
+      "OP09-009",
+      "OP10-011",
+      "ST21-017",
+      "OP01-029",
+      "ST21-017",
+      "ST21-015",
+      "OP01-016"
+    ]
+  },
+  "log_116": {
+    "player": "BiscuitWarrior",
+    "action": "Trash status",
+    "cards": [
+      "OP01-025"
+    ]
+  },
+  "log_117": {
+    "player": "BiscuitWarrior",
+    "action": "Board status",
+    "cards": [
+      "ST01-007"
+    ]
+  },
+  "log_118": {
+    "player": "BiscuitWarrior",
+    "action": "Life status",
+    "life": 3
+  },
+  "log_119": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_120": {
+    "player": "BiscuitWarrior",
+    "action": "Draw 1 Card"
+  },
+  "log_121": {
+    "player": "BiscuitWarrior",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "OP10-005"
+  },
+  "log_122": {
+    "player": "BiscuitWarrior",
+    "action": "Draw 2 Don"
+  },
+  "log_123": {
+    "player": "BiscuitWarrior",
+    "action": "Deploy Nami",
+    "card_id": "OP01-016"
+  },
+  "log_124": {
+    "player": "BiscuitWarrior",
+    "action": "Reveal and Draw Tony Tony Chopper",
+    "card": "Tony Tony Chopper",
+    "card_id": "OP10-011"
+  },
+  "log_125": {
+    "player": "BiscuitWarrior",
+    "action": "Deploy Roronoa Zoro",
+    "card_id": "ST21-015"
+  },
+  "log_126": {
+    "player": "BiscuitWarrior",
+    "action": "Nami: Attach 1 Rested Don to Monkey D. Luffy",
+    "card_id": "ST01-007",
+    "target_card_id": "ST21-001"
+  },
+  "log_127": {
+    "player": "BiscuitWarrior",
+    "action": "Monkey D. Luffy: Attach 1 Rested Don to Roronoa Zoro",
+    "card_id": "ST21-001",
+    "target_card_id": "ST21-015"
+  },
+  "log_128": {
+    "player": "BiscuitWarrior",
+    "action": "Monkey D. Luffy: Attach 1 Rested Don to Roronoa Zoro",
+    "card_id": "ST21-001",
+    "target_card_id": "ST21-015"
+  },
+  "log_129": {
+    "player": "BiscuitWarrior",
+    "action": "attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "ST21-015",
+    "defender": "Donquixote Doflamingo",
+    "defender_id": "OP01-060"
+  },
+  "log_130": {
+    "player": "Moroff",
+    "action": "Discard Crocodile for Counter 2000",
+    "card": "Crocodile",
+    "card_id": "OP07-040",
+    "counter_power": 2000
+  },
+  "log_131": {
+    "player": "Moroff",
+    "action": "Discard Jozu for Counter 1000",
+    "card": "Jozu",
+    "card_id": "OP08-047",
+    "counter_power": 1000
+  },
+  "log_132": {
+    "player": "BiscuitWarrior",
+    "action": "Attack calculation",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "ST21-015",
+    "attacker_power": 7000,
+    "defender": "Donquixote Doflamingo",
+    "defender_id": "OP01-060",
+    "defender_power": 8000,
+    "result": "Attack Fails"
+  },
+  "log_133": {
+    "player": "BiscuitWarrior",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Donquixote Doflamingo",
+    "defender_id": "OP01-060"
+  },
+  "log_134": {
+    "player": "BiscuitWarrior",
+    "action": "Attack calculation",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "attacker_power": 6000,
+    "defender": "Donquixote Doflamingo",
+    "defender_id": "OP01-060",
+    "defender_power": 5000
+  },
+  "log_135": {
+    "player": "Donquixote Doflamingo",
+    "action": "hit for 1 damage",
+    "card_id": "OP01-060"
+  },
+  "log_136": {
+    "player": "BiscuitWarrior",
+    "action": "End Turn"
+  },
+  "log_137": {
+    "player": "Moroff",
+    "action": "Hand status",
+    "cards": [
+      "EB01-023",
+      "EB01-023",
+      "OP06-058",
+      "ST17-004",
+      "OP07-057",
+      "OP07-046"
+    ]
+  },
+  "log_138": {
+    "player": "Moroff",
+    "action": "Board status",
+    "cards": [
+      "ST17-004",
+      "OP07-046"
+    ]
+  },
+  "log_139": {
+    "player": "Moroff",
+    "action": "Trash status",
+    "cards": [
+      "OP07-040",
+      "OP07-040",
+      "OP08-047"
+    ]
+  },
+  "log_140": {
+    "player": "Moroff",
+    "action": "Life status",
+    "life": 3
+  },
+  "log_141": {
+    "player": "BiscuitWarrior",
+    "action": "Hand status",
+    "cards": [
+      "OP09-009",
+      "OP10-011",
+      "ST21-017",
+      "OP01-029",
+      "ST21-017",
+      "OP10-005",
+      "OP10-011"
+    ]
+  },
+  "log_142": {
+    "player": "BiscuitWarrior",
+    "action": "Trash status",
+    "cards": [
+      "OP01-025"
+    ]
+  },
+  "log_143": {
+    "player": "BiscuitWarrior",
+    "action": "Board status",
+    "cards": [
+      "ST01-007",
+      "OP01-016",
+      "ST21-015"
+    ]
+  },
+  "log_144": {
+    "player": "BiscuitWarrior",
+    "action": "Life status",
+    "life": 3
+  },
+  "log_145": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log_146": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "Gravity Blade Raging Tiger",
+    "card_id": "OP06-058"
+  },
+  "log_147": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log_148": {
+    "player": "Moroff",
+    "action": "Deploy Boa Hancock",
+    "card_id": "ST17-004"
+  },
+  "log_149": {
+    "player": "Moroff",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log_150": {
+    "player": "Moroff",
+    "action": "Boa Hancock: Attach 1 Rested Don to Boa Hancock",
+    "card_id": "ST17-004",
+    "target_card_id": "ST17-004"
+  },
+  "log_151": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "Boa Hancock",
+    "attacker_id": "ST17-004",
+    "defender": "Roronoa Zoro",
+    "defender_id": "ST21-015"
+  },
+  "log_152": {
+    "player": "Moroff",
+    "action": "Attack calculation",
+    "attacker": "Boa Hancock",
+    "attacker_id": "ST17-004",
+    "attacker_power": 7000,
+    "defender": "Roronoa Zoro",
+    "defender_id": "ST21-015",
+    "defender_power": 5000
+  },
+  "log_153": {
+    "player": "BiscuitWarrior",
+    "action": "Roronoa Zoro Destroyed",
+    "card": "Roronoa Zoro",
+    "card_id": "ST21-015"
+  },
+  "log_154": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card_id": "OP01-060",
+    "total_don": 1
+  },
+  "log_155": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card_id": "OP01-060",
+    "total_don": 2
+  },
+  "log_156": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "Donquixote Doflamingo",
+    "attacker_id": "OP01-060",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
+  },
+  "log_157": {
+    "player": "Moroff",
+    "action": "Donquixote Doflamingo revealed",
+    "card": "Crocodile",
+    "card_id": "OP07-040"
+  },
+  "log_158": {
+    "player": "Moroff",
+    "action": "Deploy Crocodile from Deck",
+    "card_id": "OP07-040"
+  },
+  "log_159": {
+    "player": "BiscuitWarrior",
+    "action": "Radical Beam!!: Counter 2000",
+    "card": "Radical Beam!!",
+    "card_id": "OP01-029",
+    "counter_power": 2000
+  },
+  "log_160": {
+    "player": "BiscuitWarrior",
+    "action": "Discard Tony Tony Chopper for Counter 2000",
+    "card": "Tony Tony Chopper",
+    "card_id": "OP10-011",
+    "counter_power": 2000
+  },
+  "log_161": {
+    "player": "Moroff",
+    "action": "Attack calculation",
+    "attacker": "Donquixote Doflamingo",
+    "attacker_id": "OP01-060",
+    "attacker_power": 7000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001",
+    "defender_power": 9000,
+    "result": "Attack Fails"
+  },
+  "log_162": {
+    "player": "Moroff",
+    "action": "Hand status",
+    "cards": [
+      "EB01-023",
+      "EB01-023",
+      "OP06-058",
+      "OP07-057",
+      "OP07-046",
+      "OP06-058"
+    ]
+  },
+  "log_163": {
+    "player": "Moroff",
+    "action": "Board status",
+    "cards": [
+      "ST17-004",
+      "OP07-046",
+      "ST17-004",
+      "OP07-040"
+    ]
+  },
+  "log_164": {
+    "player": "Moroff",
+    "action": "Trash status",
+    "cards": [
+      "OP07-040",
+      "OP07-040",
+      "OP08-047"
+    ]
+  },
+  "log_165": {
+    "player": "Moroff",
+    "action": "Life status",
+    "life": 3
+  },
+  "log_166": {
+    "player": "BiscuitWarrior",
+    "action": "Hand status",
+    "cards": [
+      "OP09-009",
+      "OP10-011",
+      "ST21-017",
+      "ST21-017"
+    ]
+  },
+  "log_167": {
+    "player": "BiscuitWarrior",
+    "action": "Trash status",
+    "cards": [
+      "OP01-025",
+      "ST21-015",
+      "OP01-029",
+      "OP10-011"
+    ]
+  },
+  "log_168": {
+    "player": "BiscuitWarrior",
+    "action": "Board status",
+    "cards": [
+      "ST01-007",
+      "OP01-016",
+      "OP10-005"
+    ]
+  },
+  "log_169": {
+    "player": "BiscuitWarrior",
+    "action": "Life status",
+    "life": 3
+  },
+  "log_170": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_171": {
+    "player": "BiscuitWarrior",
+    "action": "Draw 1 Card"
+  },
+  "log_172": {
+    "player": "BiscuitWarrior",
+    "action": "Drew card from deck",
+    "card": "Roronoa Zoro",
+    "card_id": "ST21-015"
+  },
+  "log_173": {
+    "player": "BiscuitWarrior",
+    "action": "Draw 2 Don"
+  },
+  "log_174": {
+    "player": "BiscuitWarrior",
+    "action": "Deploy Benn Beckman",
+    "card_id": "OP09-009"
+  },
+  "log_175": {
+    "player": "BiscuitWarrior",
+    "action": "Benn Beckman: Trash Boa Hancock",
+    "card": "Benn Beckman",
+    "card_id": "OP09-009",
+    "target_card": "Boa Hancock",
+    "target_card_id": "ST17-004"
+  },
+  "log_176": {
+    "player": "BiscuitWarrior",
+    "action": "Nami: Attach 1 Rested Don to Monkey D. Luffy",
+    "card_id": "ST01-007",
+    "target_card_id": "ST21-001"
+  },
+  "log_177": {
+    "player": "BiscuitWarrior",
+    "action": "Monkey D. Luffy: Attach 1 Rested Don to Nami",
+    "card_id": "ST21-001",
+    "target_card_id": "OP01-016"
+  },
+  "log_178": {
+    "player": "BiscuitWarrior",
+    "action": "Monkey D. Luffy: Attach 1 Rested Don to Nami",
+    "card_id": "ST21-001",
+    "target_card_id": "OP01-016"
+  },
+  "log_179": {
+    "player": "BiscuitWarrior",
+    "action": "Attach 1 Don to Nami",
+    "card_id": "OP01-016",
+    "total_don": 3
+  },
+  "log_180": {
+    "player": "BiscuitWarrior",
+    "action": "attacking",
+    "attacker": "Nami",
+    "attacker_id": "OP01-016",
+    "defender": "Donquixote Doflamingo",
+    "defender_id": "OP01-060"
+  },
+  "log_181": {
+    "player": "Moroff",
+    "action": "Discard Sengoku for Counter 1000",
+    "card": "Sengoku",
+    "card_id": "OP07-046",
+    "counter_power": 1000
+  },
+  "log_182": {
+    "player": "BiscuitWarrior",
+    "action": "Attack calculation",
+    "attacker": "Nami",
+    "attacker_id": "OP01-016",
+    "attacker_power": 5000,
+    "defender": "Donquixote Doflamingo",
+    "defender_id": "OP01-060",
+    "defender_power": 6000,
+    "result": "Attack Fails"
+  },
+  "log_183": {
+    "player": "BiscuitWarrior",
+    "action": "attacking",
+    "attacker": "Sanji",
+    "attacker_id": "OP10-005",
+    "defender": "Donquixote Doflamingo",
+    "defender_id": "OP01-060"
+  },
+  "log_184": {
+    "player": "BiscuitWarrior",
+    "action": "Attack calculation",
+    "attacker": "Sanji",
+    "attacker_id": "OP10-005",
+    "attacker_power": 6000,
+    "defender": "Donquixote Doflamingo",
+    "defender_id": "OP01-060",
+    "defender_power": 5000
+  },
+  "log_185": {
+    "player": "Donquixote Doflamingo",
+    "action": "hit for 1 damage",
+    "card_id": "OP01-060"
+  },
+  "log_186": {
+    "player": "BiscuitWarrior",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Boa Hancock",
+    "defender_id": "ST17-004"
+  },
+  "log_187": {
+    "player": "BiscuitWarrior",
+    "action": "Attack calculation",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "attacker_power": 6000,
+    "defender": "Boa Hancock",
+    "defender_id": "ST17-004",
+    "defender_power": 6000
+  },
+  "log_188": {
+    "player": "Moroff",
+    "action": "Boa Hancock Destroyed",
+    "card": "Boa Hancock",
+    "card_id": "ST17-004"
+  },
+  "log_189": {
+    "player": "BiscuitWarrior",
+    "action": "End Turn"
+  },
+  "log_190": {
+    "player": "Moroff",
+    "action": "Hand status",
+    "cards": [
+      "EB01-023",
+      "EB01-023",
+      "OP06-058",
+      "OP07-057",
+      "OP06-058",
+      "EB01-023"
+    ]
+  },
+  "log_191": {
+    "player": "Moroff",
+    "action": "Board status",
+    "cards": [
+      "OP07-046",
+      "OP07-040"
+    ]
+  },
+  "log_192": {
+    "player": "Moroff",
+    "action": "Trash status",
+    "cards": [
+      "OP07-040",
+      "OP07-040",
+      "OP08-047",
+      "ST17-004",
+      "OP07-046",
+      "ST17-004"
+    ]
+  },
+  "log_193": {
+    "player": "Moroff",
+    "action": "Life status",
+    "life": 2
+  },
+  "log_194": {
+    "player": "BiscuitWarrior",
+    "action": "Hand status",
+    "cards": [
+      "OP10-011",
+      "ST21-017",
+      "ST21-017",
+      "ST21-015"
+    ]
+  },
+  "log_195": {
+    "player": "BiscuitWarrior",
+    "action": "Trash status",
+    "cards": [
+      "OP01-025",
+      "ST21-015",
+      "OP01-029",
+      "OP10-011"
+    ]
+  },
+  "log_196": {
+    "player": "BiscuitWarrior",
+    "action": "Board status",
+    "cards": [
+      "ST01-007",
+      "OP01-016",
+      "OP10-005",
+      "OP09-009"
+    ]
+  },
+  "log_197": {
+    "player": "BiscuitWarrior",
+    "action": "Life status",
+    "life": 3
+  },
+  "log_198": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log_199": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "Gecko Moria",
+    "card_id": "ST03-004"
+  },
+  "log_200": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log_201": {
+    "player": "Moroff",
+    "action": "Gravity Blade Raging Tiger: Send Nami to Deck Bottom",
+    "card": "Gravity Blade Raging Tiger",
+    "card_id": "OP06-058",
+    "target_card": "Nami",
+    "target_card_id": "OP01-016"
+  },
+  "log_202": {
+    "player": "Moroff",
+    "action": "Gravity Blade Raging Tiger: Send Sanji to Deck Bottom",
+    "card": "Gravity Blade Raging Tiger",
+    "card_id": "OP06-058",
+    "target_card": "Sanji",
+    "target_card_id": "OP10-005"
+  },
+  "log_203": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card_id": "OP01-060",
+    "total_don": 1
+  },
+  "log_204": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "Donquixote Doflamingo",
+    "attacker_id": "OP01-060",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
+  },
+  "log_205": {
+    "player": "BiscuitWarrior",
+    "action": "Discard Tony Tony Chopper for Counter 2000",
+    "card": "Tony Tony Chopper",
+    "card_id": "OP10-011",
+    "counter_power": 2000
+  },
+  "log_206": {
+    "player": "Moroff",
+    "action": "Attack calculation",
+    "attacker": "Donquixote Doflamingo",
+    "attacker_id": "OP01-060",
+    "attacker_power": 6000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001",
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log_207": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Crocodile",
+    "card_id": "OP07-040",
+    "total_don": 1
+  },
+  "log_208": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "Crocodile",
+    "attacker_id": "OP07-040",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
+  },
+  "log_209": {
+    "player": "Moroff",
+    "action": "Attack calculation",
+    "attacker": "Crocodile",
+    "attacker_id": "OP07-040",
+    "attacker_power": 6000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001",
+    "defender_power": 5000
+  },
+  "log_210": {
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card_id": "ST21-001"
+  },
+  "log_211": {
+    "player": "Moroff",
+    "action": "Hand status",
+    "cards": [
+      "EB01-023",
+      "EB01-023",
+      "OP07-057",
+      "OP06-058",
+      "EB01-023",
+      "ST03-004"
+    ]
+  },
+  "log_212": {
+    "player": "Moroff",
+    "action": "Board status",
+    "cards": [
+      "OP07-046",
+      "OP07-040"
+    ]
+  },
+  "log_213": {
+    "player": "Moroff",
+    "action": "Trash status",
+    "cards": [
+      "OP07-040",
+      "OP07-040",
+      "OP08-047",
+      "ST17-004",
+      "OP07-046",
+      "ST17-004",
+      "OP06-058"
+    ]
+  },
+  "log_214": {
+    "player": "Moroff",
+    "action": "Life status",
+    "life": 2
+  },
+  "log_215": {
+    "player": "BiscuitWarrior",
+    "action": "Hand status",
+    "cards": [
+      "ST21-017",
+      "ST21-017",
+      "ST21-015",
+      "OP07-015"
+    ]
+  },
+  "log_216": {
+    "player": "BiscuitWarrior",
+    "action": "Trash status",
+    "cards": [
+      "OP01-025",
+      "ST21-015",
+      "OP01-029",
+      "OP10-011",
+      "OP10-011"
+    ]
+  },
+  "log_217": {
+    "player": "BiscuitWarrior",
+    "action": "Board status",
+    "cards": [
+      "ST01-007",
+      "OP09-009"
+    ]
+  },
+  "log_218": {
+    "player": "BiscuitWarrior",
+    "action": "Life status",
+    "life": 2
+  },
+  "log_219": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_220": {
+    "player": "BiscuitWarrior",
+    "action": "Draw 1 Card"
+  },
+  "log_221": {
+    "player": "BiscuitWarrior",
+    "action": "Drew card from deck",
+    "card": "Nami",
+    "card_id": "OP01-016"
+  },
+  "log_222": {
+    "player": "BiscuitWarrior",
+    "action": "Draw 2 Don"
+  },
+  "log_223": {
+    "player": "BiscuitWarrior",
+    "action": "Deploy Nami",
+    "card_id": "OP01-016"
+  },
+  "log_224": {
+    "player": "BiscuitWarrior",
+    "action": "Reveal and Draw Bad Manners Kick Course",
+    "card": "Bad Manners Kick Course",
+    "card_id": "OP04-016"
+  },
+  "log_225": {
+    "player": "BiscuitWarrior",
+    "action": "Deploy Monkey D. Dragon",
+    "card_id": "OP07-015"
+  },
+  "log_226": {
+    "player": "BiscuitWarrior",
+    "action": "Monkey D. Dragon: Attach 1 Rested Don to Nami",
+    "card": "Monkey D. Dragon",
+    "card_id": "OP07-015",
+    "target_card": "Nami",
+    "target_card_id": "ST01-007"
+  },
+  "log_227": {
+    "player": "BiscuitWarrior",
+    "action": "Monkey D. Dragon: Attach 1 Rested Don to Nami",
+    "card": "Monkey D. Dragon",
+    "card_id": "OP07-015",
+    "target_card": "Nami",
+    "target_card_id": "ST01-007"
+  },
+  "log_228": {
+    "player": "BiscuitWarrior",
+    "action": "Nami: Attach 1 Rested Don to Monkey D. Luffy",
+    "card_id": "ST01-007",
+    "target_card_id": "ST21-001"
+  },
+  "log_229": {
+    "player": "BiscuitWarrior",
+    "action": "Monkey D. Luffy: Attach 1 Rested Don to Nami",
+    "card_id": "ST21-001",
+    "target_card_id": "ST01-007"
+  },
+  "log_230": {
+    "player": "BiscuitWarrior",
+    "action": "Monkey D. Luffy: Attach 1 Rested Don to Nami",
+    "card_id": "ST21-001",
+    "target_card_id": "ST01-007"
+  },
+  "log_231": {
+    "player": "BiscuitWarrior",
+    "action": "Attach 1 Don to Monkey D. Luffy",
+    "card_id": "ST21-001",
+    "total_don": 2
+  },
+  "log_232": {
+    "player": "BiscuitWarrior",
+    "action": "attacking",
+    "attacker": "Nami",
+    "attacker_id": "ST01-007",
+    "defender": "Donquixote Doflamingo",
+    "defender_id": "OP01-060"
+  },
+  "log_233": {
+    "player": "Moroff",
+    "action": "Discard Gecko Moria for Counter 1000",
+    "card": "Gecko Moria",
+    "card_id": "ST03-004",
+    "counter_power": 1000
+  },
+  "log_234": {
+    "player": "BiscuitWarrior",
+    "action": "Attack calculation",
+    "attacker": "Nami",
+    "attacker_id": "ST01-007",
+    "attacker_power": 5000,
+    "defender": "Donquixote Doflamingo",
+    "defender_id": "OP01-060",
+    "defender_power": 6000,
+    "result": "Attack Fails"
+  },
+  "log_235": {
+    "player": "BiscuitWarrior",
+    "action": "attacking",
+    "attacker": "Benn Beckman",
+    "attacker_id": "OP09-009",
+    "defender": "Donquixote Doflamingo",
+    "defender_id": "OP01-060"
+  },
+  "log_236": {
+    "player": "BiscuitWarrior",
+    "action": "Attack calculation",
+    "attacker": "Benn Beckman",
+    "attacker_id": "OP09-009",
+    "attacker_power": 7000,
+    "defender": "Donquixote Doflamingo",
+    "defender_id": "OP01-060",
+    "defender_power": 5000
+  },
+  "log_237": {
+    "player": "Donquixote Doflamingo",
+    "action": "hit for 1 damage",
+    "card_id": "OP01-060"
+  },
+  "log_238": {
+    "player": "BiscuitWarrior",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Donquixote Doflamingo",
+    "defender_id": "OP01-060"
+  },
+  "log_239": {
+    "player": "BiscuitWarrior",
+    "action": "Attack calculation",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "attacker_power": 7000,
+    "defender": "Donquixote Doflamingo",
+    "defender_id": "OP01-060",
+    "defender_power": 5000
+  },
+  "log_240": {
+    "player": "Donquixote Doflamingo",
+    "action": "hit for 1 damage",
+    "card_id": "OP01-060"
+  },
+  "log_241": {
+    "player": "BiscuitWarrior",
+    "action": "attacking",
+    "attacker": "Monkey D. Dragon",
+    "attacker_id": "OP07-015",
+    "defender": "Donquixote Doflamingo",
+    "defender_id": "OP01-060"
+  },
+  "log_242": {
+    "player": "BiscuitWarrior",
+    "action": "Attack calculation",
+    "attacker": "Monkey D. Dragon",
+    "attacker_id": "OP07-015",
+    "attacker_power": 9000,
+    "defender": "Donquixote Doflamingo",
+    "defender_id": "OP01-060",
+    "defender_power": 5000
+  },
+  "log_243": {
+    "player": "Donquixote Doflamingo",
+    "action": "hit for 1 damage",
+    "card_id": "OP01-060"
+  },
+  "log_244": {
+    "player": "Moroff",
+    "action": "Loses"
+  },
+  "log_245": {
+    "player": "BiscuitWarrior",
+    "action": "Wins!"
+  }
+}

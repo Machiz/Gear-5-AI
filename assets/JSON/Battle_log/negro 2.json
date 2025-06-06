@@ -1,0 +1,1853 @@
+{
+  "log-001": {
+    "player": "Moroff",
+    "action": "Leader is Donquixote Doflamingo",
+    "card": "OP01-060"
+  },
+  "log-002": {
+    "player": "Breaker85",
+    "action": "Leader is Rob Lucci",
+    "card": "OP07-079"
+  },
+  "log-003": {
+    "player": "Breaker85",
+    "action": "Chose to go First"
+  },
+  "log-004": {
+    "player": "Breaker85",
+    "action": "Drew card from deck",
+    "card": "ST08-002"
+  },
+  "log-005": {
+    "player": "Breaker85",
+    "action": "Drew card from deck",
+    "card": "ST08-006"
+  },
+  "log-006": {
+    "player": "Breaker85",
+    "action": "Drew card from deck",
+    "card": "OP05-093"
+  },
+  "log-007": {
+    "player": "Breaker85",
+    "action": "Drew card from deck",
+    "card": "ST06-008"
+  },
+  "log-008": {
+    "player": "Breaker85",
+    "action": "Drew card from deck",
+    "card": "OP05-093"
+  },
+  "log-009": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-002"
+  },
+  "log-010": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP01-077"
+  },
+  "log-011": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP06-058"
+  },
+  "log-012": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST03-004"
+  },
+  "log-013": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST03-004"
+  },
+  "log-014": {
+    "player": "Moroff",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "ST17-002",
+      "OP01-077",
+      "OP06-058",
+      "ST03-004",
+      "ST03-004"
+    ]
+  },
+  "log-015": {
+    "player": "Breaker85",
+    "action": "Drew card from deck",
+    "card": "OP02-121"
+  },
+  "log-016": {
+    "player": "Breaker85",
+    "action": "Drew card from deck",
+    "card": "OP03-081"
+  },
+  "log-017": {
+    "player": "Breaker85",
+    "action": "Drew card from deck",
+    "card": "ST06-008"
+  },
+  "log-018": {
+    "player": "Breaker85",
+    "action": "Drew card from deck",
+    "card": "OP02-096"
+  },
+  "log-019": {
+    "player": "Breaker85",
+    "action": "Drew card from deck",
+    "card": "OP05-091"
+  },
+  "log-020": {
+    "player": "Breaker85",
+    "action": "Mulligan"
+  },
+  "log-021": {
+    "player": "Breaker85",
+    "action": "Draw 1 Don"
+  },
+  "log-022": {
+    "player": "Breaker85",
+    "action": "End Turn"
+  },
+  "log-023": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-002",
+      "OP01-077",
+      "OP06-058",
+      "ST03-004",
+      "ST03-004"
+    ]
+  },
+  "log-024": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log-025": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-026": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log-027": {
+    "player": "Breaker85",
+    "action": "Hand",
+    "cards": [
+      "OP02-121",
+      "OP03-081",
+      "ST06-008",
+      "OP02-096",
+      "OP05-091"
+    ]
+  },
+  "log-028": {
+    "player": "Breaker85",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-029": {
+    "player": "Breaker85",
+    "action": "Board",
+    "cards": []
+  },
+  "log-030": {
+    "player": "Breaker85",
+    "action": "Life",
+    "value": 5
+  },
+  "log-031": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-032": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST03-005"
+  },
+  "log-033": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-034": {
+    "player": "Moroff",
+    "action": "Deploy Perona",
+    "card": "OP01-077"
+  },
+  "log-035": {
+    "player": "Moroff",
+    "action": "Placing Cards on Top of Deck"
+  },
+  "log-036": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log-037": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-002",
+      "OP06-058",
+      "ST03-004",
+      "ST03-004",
+      "ST03-005"
+    ]
+  },
+  "log-038": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP01-077"
+    ]
+  },
+  "log-039": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-040": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log-041": {
+    "player": "Breaker85",
+    "action": "Hand",
+    "cards": [
+      "OP02-121",
+      "OP03-081",
+      "ST06-008",
+      "OP02-096",
+      "OP05-091"
+    ]
+  },
+  "log-042": {
+    "player": "Breaker85",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-043": {
+    "player": "Breaker85",
+    "action": "Board",
+    "cards": []
+  },
+  "log-044": {
+    "player": "Breaker85",
+    "action": "Life",
+    "value": 5
+  },
+  "log-045": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-046": {
+    "player": "Breaker85",
+    "action": "Draw 1 Card"
+  },
+  "log-047": {
+    "player": "Breaker85",
+    "action": "Drew card from deck",
+    "card": "OP02-096"
+  },
+  "log-048": {
+    "player": "Breaker85",
+    "action": "Draw 2 Don"
+  },
+  "log-049": {
+    "player": "Breaker85",
+    "action": "Attach 3 Don to Rob Lucci",
+    "card": "OP07-079",
+    "total_don": 3
+  },
+  "log-050": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "OP07-079",
+    "attacker_name": "Rob Lucci",
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo"
+  },
+  "log-051": {
+    "player": "Breaker85",
+    "action": "Rob Lucci: Trash 2 Cards from Deck",
+    "card": "OP07-079"
+  },
+  "log-052": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "OP07-079",
+    "attacker_name": "Rob Lucci",
+    "attacker_power": 8000,
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo",
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-053": {
+    "player": "Breaker85",
+    "action": "End Turn"
+  },
+  "log-054": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-002",
+      "OP06-058",
+      "ST03-004",
+      "ST03-004",
+      "ST03-005",
+      "ST17-004"
+    ]
+  },
+  "log-055": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP01-077"
+    ]
+  },
+  "log-056": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-057": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log-058": {
+    "player": "Breaker85",
+    "action": "Hand",
+    "cards": [
+      "OP02-121",
+      "OP03-081",
+      "ST06-008",
+      "OP02-096",
+      "OP05-091",
+      "OP02-096"
+    ]
+  },
+  "log-059": {
+    "player": "Breaker85",
+    "action": "Trash",
+    "cards": [
+      "EB01-051",
+      "OP05-094"
+    ]
+  },
+  "log-060": {
+    "player": "Breaker85",
+    "action": "Board",
+    "cards": []
+  },
+  "log-061": {
+    "player": "Breaker85",
+    "action": "Life",
+    "value": 5
+  },
+  "log-062": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-063": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "EB01-023"
+  },
+  "log-064": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-065": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log-066": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log-067": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "attacker_name": "Donquixote Doflamingo",
+    "defender": "OP07-079",
+    "defender_name": "Rob Lucci"
+  },
+  "log-068": {
+    "player": "Moroff",
+    "action": "Donquixote Doflamingo revealed",
+    "card": "OP06-047"
+  },
+  "log-069": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "attacker_name": "Donquixote Doflamingo",
+    "attacker_power": 7000,
+    "defender": "OP07-079",
+    "defender_name": "Rob Lucci",
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-070": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 3
+  },
+  "log-071": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-002",
+      "OP06-058",
+      "ST03-004",
+      "ST03-004",
+      "ST03-005",
+      "ST17-004",
+      "EB01-023"
+    ]
+  },
+  "log-072": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP01-077"
+    ]
+  },
+  "log-073": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-074": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log-075": {
+    "player": "Breaker85",
+    "action": "Hand",
+    "cards": [
+      "OP02-121",
+      "OP03-081",
+      "ST06-008",
+      "OP02-096",
+      "OP05-091",
+      "OP02-096",
+      "ST06-008"
+    ]
+  },
+  "log-076": {
+    "player": "Breaker85",
+    "action": "Trash",
+    "cards": [
+      "EB01-051",
+      "OP05-094"
+    ]
+  },
+  "log-077": {
+    "player": "Breaker85",
+    "action": "Board",
+    "cards": []
+  },
+  "log-078": {
+    "player": "Breaker85",
+    "action": "Life",
+    "value": 4
+  },
+  "log-079": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-080": {
+    "player": "Breaker85",
+    "action": "Draw 1 Card"
+  },
+  "log-081": {
+    "player": "Breaker85",
+    "action": "Drew card from deck",
+    "card": "OP05-088"
+  },
+  "log-082": {
+    "player": "Breaker85",
+    "action": "Draw 2 Don"
+  },
+  "log-083": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "OP07-079",
+    "attacker_name": "Rob Lucci",
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo"
+  },
+  "log-084": {
+    "player": "Breaker85",
+    "action": "Rob Lucci: Trash 2 Cards from Deck",
+    "card": "OP07-079"
+  },
+  "log-085": {
+    "player": "Breaker85",
+    "action": "Rob Lucci: Perona Cost -1",
+    "card": "OP07-079",
+    "target_name": "Perona",
+    "target_card": "OP01-077"
+  },
+  "log-086": {
+    "player": "Moroff",
+    "action": "Discard Gecko Moria for Counter 1000",
+    "card": "ST03-004"
+  },
+  "log-087": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "OP07-079",
+    "attacker_name": "Rob Lucci",
+    "attacker_power": 5000,
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo",
+    "defender_power": 6000,
+    "result": "Attack Fails"
+  },
+  "log-088": {
+    "player": "Breaker85",
+    "action": "Deploy Rebecca",
+    "card": "OP05-091"
+  },
+  "log-089": {
+    "player": "Breaker85",
+    "action": "Draw Rob Lucci from Trash",
+    "card": "OP05-093"
+  },
+  "log-090": {
+    "player": "Breaker85",
+    "action": "Hina: Perona Cost -4",
+    "card": "ST06-008",
+    "target_name": "Perona",
+    "target_card": "OP01-077"
+  },
+  "log-091": {
+    "player": "Breaker85",
+    "action": "Deploy Mansherry",
+    "card": "OP05-088"
+  },
+  "log-092": {
+    "player": "Breaker85",
+    "action": "Perona cost restored",
+    "card": "OP01-077"
+  },
+  "log-093": {
+    "player": "Breaker85",
+    "action": "End Turn"
+  },
+  "log-094": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-002",
+      "OP06-058",
+      "ST03-004",
+      "ST03-005",
+      "ST17-004",
+      "EB01-023"
+    ]
+  },
+  "log-095": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP01-077"
+    ]
+  },
+  "log-096": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST03-004"
+    ]
+  },
+  "log-097": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log-098": {
+    "player": "Breaker85",
+    "action": "Hand",
+    "cards": [
+      "OP02-121",
+      "OP03-081",
+      "ST06-008",
+      "OP02-096",
+      "OP02-096",
+      "OP05-093"
+    ]
+  },
+  "log-099": {
+    "player": "Breaker85",
+    "action": "Trash",
+    "cards": [
+      "EB01-051",
+      "OP05-094",
+      "OP08-079"
+    ]
+  },
+  "log-100": {
+    "player": "Breaker85",
+    "action": "Board",
+    "cards": [
+      "OP05-091",
+      "ST06-008",
+      "OP05-088"
+    ]
+  },
+  "log-101": {
+    "player": "Breaker85",
+    "action": "Life",
+    "value": 4
+  },
+  "log-102": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-103": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP06-047"
+  },
+  "log-104": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-105": {
+    "player": "Moroff",
+    "action": "Deploy Charlotte Pudding",
+    "card": "OP06-047"
+  },
+  "log-106": {
+    "player": "Moroff",
+    "action": "Force Opponent to Shuffle Hand into Deck and Draw 5"
+  },
+  "log-107": {
+    "player": "Breaker85",
+    "action": "Drew card from deck",
+    "card": "OP03-081"
+  },
+  "log-108": {
+    "player": "Breaker85",
+    "action": "Drew card from deck",
+    "card": "ST08-006"
+  },
+  "log-109": {
+    "player": "Breaker85",
+    "action": "Drew card from deck",
+    "card": "OP05-093"
+  },
+  "log-110": {
+    "player": "Breaker85",
+    "action": "Drew card from deck",
+    "card": "OP05-094"
+  },
+  "log-111": {
+    "player": "Breaker85",
+    "action": "Drew card from deck",
+    "card": "ST06-008"
+  },
+  "log-112": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log-113": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log-114": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "attacker_name": "Donquixote Doflamingo",
+    "defender": "ST06-008",
+    "defender_name": "Hina"
+  },
+  "log-115": {
+    "player": "Breaker85",
+    "action": "Rebecca Blocks",
+    "card": "OP05-091"
+  },
+  "log-116": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "attacker_name": "Donquixote Doflamingo",
+    "attacker_power": 7000,
+    "defender": "OP05-091",
+    "defender_name": "Rebecca",
+    "defender_power": 0
+  },
+  "log-117": {
+    "player": "Breaker85",
+    "action": "Rebecca Destroyed",
+    "card": "OP05-091"
+  },
+  "log-118": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-077",
+    "attacker_name": "Perona",
+    "defender": "ST06-008",
+    "defender_name": "Hina"
+  },
+  "log-119": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-077",
+    "attacker_name": "Perona",
+    "attacker_power": 2000,
+    "defender": "ST06-008",
+    "defender_name": "Hina",
+    "defender_power": 5000,
+    "result": "Attack Fails"
+  },
+  "log-120": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-002",
+      "OP06-058",
+      "ST03-004",
+      "ST03-005",
+      "ST17-004",
+      "EB01-023"
+    ]
+  },
+  "log-121": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP01-077",
+      "OP06-047"
+    ]
+  },
+  "log-122": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST03-004"
+    ]
+  },
+  "log-123": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log-124": {
+    "player": "Breaker85",
+    "action": "Hand",
+    "cards": [
+      "OP03-081",
+      "ST08-006",
+      "OP05-093",
+      "OP05-094",
+      "ST06-008"
+    ]
+  },
+  "log-125": {
+    "player": "Breaker85",
+    "action": "Trash",
+    "cards": [
+      "EB01-051",
+      "OP05-094",
+      "OP08-079",
+      "OP05-091"
+    ]
+  },
+  "log-126": {
+    "player": "Breaker85",
+    "action": "Board",
+    "cards": [
+      "ST06-008",
+      "OP05-088"
+    ]
+  },
+  "log-127": {
+    "player": "Breaker85",
+    "action": "Life",
+    "value": 4
+  },
+  "log-128": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-129": {
+    "player": "Breaker85",
+    "action": "Draw 1 Card"
+  },
+  "log-130": {
+    "player": "Breaker85",
+    "action": "Drew card from deck",
+    "card": "OP08-079"
+  },
+  "log-131": {
+    "player": "Breaker85",
+    "action": "Draw 2 Don"
+  },
+  "log-132": {
+    "player": "Breaker85",
+    "action": "Deploy Hina",
+    "card": "ST06-008"
+  },
+  "log-133": {
+    "player": "Breaker85",
+    "action": "Hina: Charlotte Pudding Cost -4",
+    "card": "ST06-008",
+    "target_name": "Charlotte Pudding",
+    "target_card": "OP06-047"
+  },
+  "log-134": {
+    "player": "Breaker85",
+    "action": "Deploy Rob Lucci",
+    "card": "OP05-093"
+  },
+  "log-135": {
+    "player": "Breaker85",
+    "action": "Rob Lucci: Sent Sent Shigan (Finger Gun) to Deck Bottom from Trash",
+    "card": "OP05-093",
+    "target_name": "Sent Shigan (Finger Gun)",
+    "target_card": "EB01-051"
+  },
+  "log-136": {
+    "player": "Breaker85",
+    "action": "Rob Lucci: Sent Haute Couture: Patch Work to Deck Bottom from Trash",
+    "card": "OP05-093",
+    "target_name": "Haute Couture: Patch Work",
+    "target_card": "OP05-094"
+  },
+  "log-137": {
+    "player": "Breaker85",
+    "action": "Rob Lucci: Sent Kaido to Deck Bottom from Trash",
+    "card": "OP05-093",
+    "target_name": "Kaido",
+    "target_card": "OP08-079"
+  },
+  "log-138": {
+    "player": "Breaker85",
+    "action": "Rob Lucci: Destroy Charlotte Pudding",
+    "card": "OP05-093",
+    "target_name": "Charlotte Pudding",
+    "target_card": "OP06-047"
+  },
+  "log-139": {
+    "player": "Breaker85",
+    "action": "Rob Lucci: Destroy Perona",
+    "card": "OP05-093",
+    "target_name": "Perona",
+    "target_card": "OP01-077"
+  },
+  "log-140": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "OP07-079",
+    "attacker_name": "Rob Lucci",
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo"
+  },
+  "log-141": {
+    "player": "Breaker85",
+    "action": "Rob Lucci: Trash 2 Cards from Deck",
+    "card": "OP07-079"
+  },
+  "log-142": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "OP07-079",
+    "attacker_name": "Rob Lucci",
+    "attacker_power": 5000,
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo",
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-143": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "ST06-008",
+    "attacker_name": "Hina",
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo"
+  },
+  "log-144": {
+    "player": "Moroff",
+    "action": "Discard Gecko Moria for Counter 1000",
+    "card": "ST03-004"
+  },
+  "log-145": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "ST06-008",
+    "attacker_name": "Hina",
+    "attacker_power": 5000,
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo",
+    "defender_power": 6000,
+    "result": "Attack Fails"
+  },
+  "log-146": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "OP05-093",
+    "attacker_name": "Rob Lucci",
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo"
+  },
+  "log-147": {
+    "player": "Moroff",
+    "action": "Discard Dracule Mihawk for Counter 2000",
+    "card": "ST03-005"
+  },
+  "log-148": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "OP05-093",
+    "attacker_name": "Rob Lucci",
+    "attacker_power": 6000,
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo",
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log-149": {
+    "player": "Breaker85",
+    "action": "End Turn"
+  },
+  "log-150": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-002",
+      "OP06-058",
+      "ST17-004",
+      "ST03-004"
+    ]
+  },
+  "log-151": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log-152": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST03-004",
+      "OP01-077",
+      "OP06-047",
+      "ST03-004",
+      "EB01-023",
+      "ST17-004",
+      "OP07-046",
+      "ST03-005"
+    ]
+  },
+  "log-153": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 3
+  },
+  "log-154": {
+    "player": "Breaker85",
+    "action": "Hand",
+    "cards": [
+      "OP03-081",
+      "ST08-006",
+      "OP05-094",
+      "OP08-079"
+    ]
+  },
+  "log-155": {
+    "player": "Breaker85",
+    "action": "Trash",
+    "cards": [
+      "OP05-091",
+      "OP05-093",
+      "EB01-051",
+      "ST06-008",
+      "OP02-096",
+      "OP03-081",
+      "EB01-051"
+    ]
+  },
+  "log-156": {
+    "player": "Breaker85",
+    "action": "Board",
+    "cards": [
+      "ST06-008",
+      "OP05-088",
+      "ST06-008",
+      "OP05-093"
+    ]
+  },
+  "log-157": {
+    "player": "Breaker85",
+    "action": "Life",
+    "value": 4
+  },
+  "log-158": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-159": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP07-046"
+  },
+  "log-160": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-161": {
+    "player": "Moroff",
+    "action": "Deploy Edward Weevil",
+    "card": "EB01-023"
+  },
+  "log-162": {
+    "player": "Moroff",
+    "action": "Edward Weevil: Draw 1 Card",
+    "card": "EB01-023"
+  },
+  "log-163": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-005"
+  },
+  "log-164": {
+    "player": "Moroff",
+    "action": "Deploy Marshall D. Teach",
+    "card": "ST17-005"
+  },
+  "log-165": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log-166": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log-167": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "attacker_name": "Donquixote Doflamingo",
+    "defender": "ST06-008",
+    "defender_name": "Hina"
+  },
+  "log-168": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "attacker_name": "Donquixote Doflamingo",
+    "attacker_power": 7000,
+    "defender": "ST06-008",
+    "defender_name": "Hina",
+    "defender_power": 5000
+  },
+  "log-169": {
+    "player": "Breaker85",
+    "action": "Hina Destroyed",
+    "card": "ST06-008"
+  },
+  "log-170": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-002",
+      "OP06-058",
+      "ST03-005",
+      "ST17-004",
+      "ST17-004",
+      "OP07-046"
+    ]
+  },
+  "log-171": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "EB01-023",
+      "ST17-005"
+    ]
+  },
+  "log-172": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST03-004",
+      "OP01-077",
+      "OP06-047",
+      "ST03-004"
+    ]
+  },
+  "log-173": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 3
+  },
+  "log-174": {
+    "player": "Breaker85",
+    "action": "Hand",
+    "cards": [
+      "OP03-081",
+      "ST08-006",
+      "OP05-094",
+      "OP08-079"
+    ]
+  },
+  "log-175": {
+    "player": "Breaker85",
+    "action": "Trash",
+    "cards": [
+      "OP05-091",
+      "OP05-093",
+      "EB01-051",
+      "ST06-008"
+    ]
+  },
+  "log-176": {
+    "player": "Breaker85",
+    "action": "Board",
+    "cards": [
+      "OP05-088",
+      "ST06-008",
+      "OP05-093"
+    ]
+  },
+  "log-177": {
+    "player": "Breaker85",
+    "action": "Life",
+    "value": 4
+  },
+  "log-178": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-179": {
+    "player": "Breaker85",
+    "action": "Draw 1 Card"
+  },
+  "log-180": {
+    "player": "Breaker85",
+    "action": "Drew card from deck",
+    "card": "OP02-096"
+  },
+  "log-181": {
+    "player": "Breaker85",
+    "action": "Draw 2 Don"
+  },
+  "log-182": {
+    "player": "Breaker85",
+    "action": "Deploy Kaido",
+    "card": "OP08-079"
+  },
+  "log-183": {
+    "player": "Breaker85",
+    "action": "Kaido: Trash Kuzan",
+    "card": "OP08-079",
+    "target_name": "Kuzan",
+    "target_card": "OP02-096"
+  },
+  "log-184": {
+    "player": "Breaker85",
+    "action": "Kaido: Trash Edward Weevil",
+    "card": "OP08-079",
+    "target_name": "Edward Weevil",
+    "target_card": "EB01-023"
+  },
+  "log-185": {
+    "player": "Breaker85",
+    "action": "Forcing opponent to resolve Card Action!"
+  },
+  "log-186": {
+    "player": "Moroff",
+    "action": "Kaido: Trash Boa Hancock",
+    "card": "OP08-079",
+    "target_name": "Boa Hancock",
+    "target_card": "ST17-004"
+  },
+  "log-187": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "OP07-079",
+    "attacker_name": "Rob Lucci",
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo"
+  },
+  "log-188": {
+    "player": "Breaker85",
+    "action": "Rob Lucci: Trash 2 Cards from Deck",
+    "card": "OP07-079"
+  },
+  "log-189": {
+    "player": "Breaker85",
+    "action": "Rob Lucci: Marshall D. Teach Cost -1",
+    "card": "OP07-079",
+    "target_name": "Marshall D. Teach",
+    "target_card": "ST17-005"
+  },
+  "log-190": {
+    "player": "Moroff",
+    "action": "Discard Sengoku for Counter 1000",
+    "card": "OP07-046"
+  },
+  "log-191": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "OP07-079",
+    "attacker_name": "Rob Lucci",
+    "attacker_power": 5000,
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo",
+    "defender_power": 6000,
+    "result": "Attack Fails"
+  },
+  "log-192": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "ST06-008",
+    "attacker_name": "Hina",
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo"
+  },
+  "log-193": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "ST06-008",
+    "attacker_name": "Hina",
+    "attacker_power": 5000,
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo",
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-194": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "OP05-093",
+    "attacker_name": "Rob Lucci",
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo"
+  },
+  "log-195": {
+    "player": "Moroff",
+    "action": "Discard Dracule Mihawk for Counter 2000",
+    "card": "ST03-005"
+  },
+  "log-196": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "OP05-093",
+    "attacker_name": "Rob Lucci",
+    "attacker_power": 6000,
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo",
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log-197": {
+    "player": "Breaker85",
+    "action": "Marshall D. Teach cost restored",
+    "card": "ST17-005"
+  },
+  "log-198": {
+    "player": "Breaker85",
+    "action": "End Turn"
+  },
+  "log-199": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-002",
+      "OP06-058",
+      "ST17-004",
+      "ST03-004"
+    ]
+  },
+  "log-200": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "ST17-005"
+    ]
+  },
+  "log-201": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST03-004",
+      "OP01-077",
+      "OP06-047",
+      "ST03-004",
+      "EB01-023",
+      "ST17-004",
+      "OP07-046",
+      "ST03-005"
+    ]
+  },
+  "log-202": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 2
+  },
+  "log-203": {
+    "player": "Breaker85",
+    "action": "Hand",
+    "cards": [
+      "OP03-081",
+      "ST08-006",
+      "OP05-094"
+    ]
+  },
+  "log-204": {
+    "player": "Breaker85",
+    "action": "Trash",
+    "cards": [
+      "OP05-091",
+      "OP05-093",
+      "EB01-051",
+      "ST06-008",
+      "OP02-096",
+      "OP03-081",
+      "EB01-051"
+    ]
+  },
+  "log-205": {
+    "player": "Breaker85",
+    "action": "Board",
+    "cards": [
+      "OP05-088",
+      "ST06-008",
+      "OP05-093",
+      "OP08-079"
+    ]
+  },
+  "log-206": {
+    "player": "Breaker85",
+    "action": "Life",
+    "value": 4
+  },
+  "log-207": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-208": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP06-058"
+  },
+  "log-209": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-210": {
+    "player": "Moroff",
+    "action": "Gravity Blade Raging Tiger: Send Hina to Deck Bottom",
+    "card": "OP06-058",
+    "target_name": "Hina",
+    "target_card": "ST06-008"
+  },
+  "log-211": {
+    "player": "Moroff",
+    "action": "Gravity Blade Raging Tiger: Send Rob Lucci to Deck Bottom",
+    "card": "OP06-058",
+    "target_name": "Rob Lucci",
+    "target_card": "OP05-093"
+  },
+  "log-212": {
+    "player": "Moroff",
+    "action": "Sent a Card to Deck Top"
+  },
+  "log-213": {
+    "player": "Moroff",
+    "action": "Marshall D. Teach: Attach 1 Rested Don to Marshall D. Teach",
+    "card": "ST17-005"
+  },
+  "log-214": {
+    "player": "Moroff",
+    "action": "Marshall D. Teach: Attach 1 Rested Don to Marshall D. Teach",
+    "card": "ST17-005"
+  },
+  "log-215": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "ST17-005",
+    "attacker_name": "Marshall D. Teach",
+    "defender": "OP07-079",
+    "defender_name": "Rob Lucci"
+  },
+  "log-216": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "ST17-005",
+    "attacker_name": "Marshall D. Teach",
+    "attacker_power": 5000,
+    "defender": "OP07-079",
+    "defender_name": "Rob Lucci",
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-217": {
+    "player": "Breaker85",
+    "action": "Tempest Kick: Destroy Marshall D. Teach",
+    "card": "OP07-096",
+    "target_name": "Marshall D. Teach",
+    "target_card": "ST17-005"
+  },
+  "log-218": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log-219": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log-220": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 3
+  },
+  "log-221": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "attacker_name": "Donquixote Doflamingo",
+    "defender": "OP07-079",
+    "defender_name": "Rob Lucci"
+  },
+  "log-222": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "attacker_name": "Donquixote Doflamingo",
+    "attacker_power": 8000,
+    "defender": "OP07-079",
+    "defender_name": "Rob Lucci",
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-223": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-002",
+      "OP06-058",
+      "ST03-004"
+    ]
+  },
+  "log-224": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log-225": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST03-004",
+      "OP01-077",
+      "OP06-047",
+      "ST03-004",
+      "EB01-023",
+      "ST17-004",
+      "OP07-046",
+      "ST03-005",
+      "OP06-058",
+      "ST17-005"
+    ]
+  },
+  "log-226": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 2
+  },
+  "log-227": {
+    "player": "Breaker85",
+    "action": "Hand",
+    "cards": [
+      "OP03-081",
+      "ST08-006",
+      "OP05-094",
+      "OP08-084"
+    ]
+  },
+  "log-228": {
+    "player": "Breaker85",
+    "action": "Trash",
+    "cards": [
+      "OP05-091",
+      "OP05-093",
+      "EB01-051",
+      "ST06-008",
+      "OP02-096",
+      "OP03-081",
+      "EB01-051",
+      "OP07-096"
+    ]
+  },
+  "log-229": {
+    "player": "Breaker85",
+    "action": "Board",
+    "cards": [
+      "OP05-088",
+      "OP08-079"
+    ]
+  },
+  "log-230": {
+    "player": "Breaker85",
+    "action": "Life",
+    "value": 2
+  },
+  "log-231": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-232": {
+    "player": "Breaker85",
+    "action": "Draw 1 Card"
+  },
+  "log-233": {
+    "player": "Breaker85",
+    "action": "Drew card from deck",
+    "card": "OP05-091"
+  },
+  "log-234": {
+    "player": "Breaker85",
+    "action": "Draw 2 Don"
+  },
+  "log-235": {
+    "player": "Breaker85",
+    "action": "Attach 5 Don to Mansherry",
+    "card": "OP05-088",
+    "total_don": 5
+  },
+  "log-236": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "OP05-088",
+    "attacker_name": "Mansherry",
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo"
+  },
+  "log-237": {
+    "player": "Moroff",
+    "action": "Discard Gecko Moria for Counter 1000",
+    "card": "ST03-004"
+  },
+  "log-238": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "OP05-088",
+    "attacker_name": "Mansherry",
+    "attacker_power": 5000,
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo",
+    "defender_power": 6000,
+    "result": "Attack Fails"
+  },
+  "log-239": {
+    "player": "Breaker85",
+    "action": "Attach 1 Don to Rob Lucci",
+    "card": "OP07-079",
+    "total_don": 1
+  },
+  "log-240": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "OP07-079",
+    "attacker_name": "Rob Lucci",
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo"
+  },
+  "log-241": {
+    "player": "Breaker85",
+    "action": "Rob Lucci: Trash 2 Cards from Deck",
+    "card": "OP07-079"
+  },
+  "log-242": {
+    "player": "Moroff",
+    "action": "Discard Trafalgar Law for Counter 1000",
+    "card": "ST17-002"
+  },
+  "log-243": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "OP07-079",
+    "attacker_name": "Rob Lucci",
+    "attacker_power": 6000,
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo",
+    "defender_power": 6000,
+    "damage": 1
+  },
+  "log-244": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "OP08-079",
+    "attacker_name": "Kaido",
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo"
+  },
+  "log-245": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "OP08-079",
+    "attacker_name": "Kaido",
+    "attacker_power": 9000,
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo",
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-246": {
+    "player": "Breaker85",
+    "action": "Deploy Rebecca",
+    "card": "OP05-091"
+  },
+  "log-247": {
+    "player": "Breaker85",
+    "action": "Draw Hina from Trash",
+    "card": "ST06-008"
+  },
+  "log-248": {
+    "player": "Breaker85",
+    "action": "End Turn"
+  },
+  "log-249": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "OP06-058",
+      "OP08-047",
+      "EB01-023"
+    ]
+  },
+  "log-250": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log-251": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST03-004",
+      "OP01-077",
+      "OP06-047",
+      "ST03-004",
+      "EB01-023",
+      "ST17-004",
+      "OP07-046",
+      "ST03-005",
+      "OP06-058",
+      "ST17-005",
+      "ST03-004",
+      "ST17-002"
+    ]
+  },
+  "log-252": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 0
+  },
+  "log-253": {
+    "player": "Breaker85",
+    "action": "Hand",
+    "cards": [
+      "OP03-081",
+      "ST08-006",
+      "OP05-094",
+      "OP08-084"
+    ]
+  },
+  "log-254": {
+    "player": "Breaker85",
+    "action": "Trash",
+    "cards": [
+      "OP05-091",
+      "OP05-093",
+      "EB01-051",
+      "OP02-096",
+      "OP03-081",
+      "EB01-051",
+      "OP07-096",
+      "OP03-081",
+      "EB01-046"
+    ]
+  },
+  "log-255": {
+    "player": "Breaker85",
+    "action": "Board",
+    "cards": [
+      "OP05-088",
+      "OP08-079",
+      "OP05-091",
+      "ST06-008"
+    ]
+  },
+  "log-256": {
+    "player": "Breaker85",
+    "action": "Life",
+    "value": 2
+  },
+  "log-257": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-258": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-004"
+  },
+  "log-259": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "OP06-058",
+      "OP08-047",
+      "EB01-023",
+      "ST17-004"
+    ]
+  },
+  "log-260": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log-261": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "ST03-004",
+      "OP01-077",
+      "OP06-047",
+      "ST03-004",
+      "EB01-023",
+      "ST17-004",
+      "OP07-046",
+      "ST03-005",
+      "OP06-058",
+      "ST17-005",
+      "ST03-004",
+      "ST17-002"
+    ]
+  },
+  "log-262": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 0
+  },
+  "log-263": {
+    "player": "Breaker85",
+    "action": "Hand",
+    "cards": [
+      "OP03-081",
+      "ST08-006",
+      "OP05-094",
+      "OP08-084"
+    ]
+  },
+  "log-264": {
+    "player": "Breaker85",
+    "action": "Trash",
+    "cards": [
+      "OP05-091",
+      "OP05-093",
+      "EB01-051",
+      "OP02-096",
+      "OP03-081",
+      "EB01-051",
+      "OP07-096",
+      "OP03-081",
+      "EB01-046"
+    ]
+  },
+  "log-265": {
+    "player": "Breaker85",
+    "action": "Board",
+    "cards": [
+      "OP05-088",
+      "OP08-079",
+      "OP05-091",
+      "ST06-008"
+    ]
+  },
+  "log-266": {
+    "player": "Breaker85",
+    "action": "Life",
+    "value": 2
+  },
+  "log-267": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-268": {
+    "player": "Breaker85",
+    "action": "Draw 1 Card"
+  },
+  "log-269": {
+    "player": "Breaker85",
+    "action": "Drew card from deck",
+    "card": "OP02-121"
+  },
+  "log-270": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "OP08-079",
+    "attacker_name": "Kaido",
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo"
+  },
+  "log-271": {
+    "player": "Breaker85",
+    "action": "attacking",
+    "attacker": "OP08-079",
+    "attacker_name": "Kaido",
+    "attacker_power": 9000,
+    "defender": "OP01-060",
+    "defender_name": "Donquixote Doflamingo",
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-272": {
+    "player": "Moroff",
+    "action": "Loses"
+  },
+  "log-273": {
+    "player": "Breaker85",
+    "action": "Wins!"
+  }
+}

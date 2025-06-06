@@ -1,0 +1,865 @@
+{
+  "room_id": "LQ79FW",
+  "players": [
+    {
+      "name": "Mhcuber",
+      "leader": {
+        "name": "Monkey D. Luffy",
+        "card_id": "OP05-060"
+      },
+      "version": "1.29b"
+    },
+    {
+      "name": "Pirate86082",
+      "leader": {
+        "name": "Marshall D. Teach",
+        "card_id": "OP09-081"
+      },
+      "version": "1.29b"
+    }
+  ],
+  "game_log": [
+    {
+      "event_type": "connection",
+      "player": "Mhcuber"
+    },
+    {
+      "event_type": "leader_reveal",
+      "player": "Mhcuber",
+      "leader_name": "Monkey D. Luffy",
+      "leader_id": "OP05-060"
+    },
+    {
+      "event_type": "connection",
+      "player": "Pirate86082"
+    },
+    {
+      "event_type": "leader_reveal",
+      "player": "Pirate86082",
+      "leader_name": "Marshall D. Teach",
+      "leader_id": "OP09-081"
+    },
+    {
+      "event_type": "turn_order_selection",
+      "player": "Mhcuber",
+      "will_select_turn_order": true,
+      "goes_first": true
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Trafalgar Law",
+      "card_id": "OP09-069"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Zorojuro",
+      "card_id": "ST18-004"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Trafalgar Law",
+      "card_id": "OP09-069"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Sanji",
+      "card_id": "OP07-064"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Trafalgar Law",
+      "card_id": "OP09-069"
+    },
+    {
+      "event_type": "mulligan_info",
+      "player": "Mhcuber",
+      "hand_before_mulligan": ["OP09-069", "ST18-004", "OP09-069", "OP07-064", "OP09-069"]
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Pirate86082",
+      "card_name": "Van Augur",
+      "card_id": "OP09-083"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Pirate86082",
+      "card_name": "Shiryu",
+      "card_id": "OP10-086"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Pirate86082",
+      "card_name": "Marshall D. Teach",
+      "card_id": "OP09-093"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Pirate86082",
+      "card_name": "Doc Q",
+      "card_id": "OP09-090"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Pirate86082",
+      "card_name": "Shiryu",
+      "card_id": "OP09-088"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Pirate86082",
+      "card_name": "Van Augur",
+      "card_id": "OP09-083"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Pirate86082",
+      "card_name": "Stronger",
+      "card_id": "OP09-089"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Pirate86082",
+      "card_name": "Jesus Burgess",
+      "card_id": "OP09-086"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Pirate86082",
+      "card_name": "Van Augur",
+      "card_id": "OP09-083"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Pirate86082",
+      "card_name": "Kuzan",
+      "card_id": "OP10-082"
+    },
+    {
+      "event_type": "mulligan",
+      "player": "Pirate86082"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-069", "ST18-004", "OP09-069", "OP07-064", "OP09-069"],
+      "board": [],
+      "trash": [],
+      "life": 5
+    },
+    {
+      "event_type": "player_state",
+      "player": "Pirate86082",
+      "hand": ["OP09-083", "OP09-089", "OP09-086", "OP09-083", "OP10-082"],
+      "trash": [],
+      "board": [],
+      "life": 5
+    },
+    {
+      "event_type": "draw_don",
+      "player": "Mhcuber",
+      "amount": 1
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Mhcuber",
+      "card_name": "Trafalgar Law",
+      "card_id": "OP09-069"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "description": "Reveal and Draw Sangoro [ST18-003]"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "description": "Placing Cards on Bottom of Deck"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-069", "ST18-004", "OP09-069", "OP07-064", "ST18-003"],
+      "board": ["OP09-069"],
+      "trash": [],
+      "life": 5
+    },
+    {
+      "event_type": "player_state",
+      "player": "Pirate86082",
+      "hand": ["OP09-083", "OP09-089", "OP09-086", "OP09-083", "OP10-082"],
+      "trash": [],
+      "board": [],
+      "life": 5
+    },
+    {
+      "event_type": "end_turn",
+      "player": "Mhcuber"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Pirate86082",
+      "card_name": "Shiryu",
+      "card_id": "OP09-088"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "Pirate86082",
+      "amount": 2
+    },
+    {
+      "event_type": "effect",
+      "player": "Pirate86082",
+      "description": "Marshall D. Teach [OP09-081]: Trash Van Augur [OP09-083]"
+    },
+    {
+      "event_type": "effect",
+      "player": "Pirate86082",
+      "description": "Marshall D. Teach [OP09-081]: Opponent can't activate On Play abilities next turn!"
+    },
+    {
+      "event_type": "end_turn",
+      "player": "Pirate86082"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-069", "ST18-004", "OP09-069", "OP07-064", "ST18-003"],
+      "board": ["OP09-069"],
+      "trash": [],
+      "life": 5
+    },
+    {
+      "event_type": "player_state",
+      "player": "Pirate86082",
+      "hand": ["OP09-083", "OP09-089", "OP09-086", "OP10-082", "OP09-088"],
+      "trash": ["OP09-083"],
+      "board": [],
+      "life": 5
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Onami",
+      "card_id": "ST18-002"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "Mhcuber",
+      "amount": 2
+    },
+    {
+      "event_type": "life_loss",
+      "player": "Mhcuber",
+      "amount": 1
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "description": "Monkey D. Luffy [OP05-060]: Draw 1 Don"
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Mhcuber",
+      "card_name": "Zorojuro",
+      "card_id": "ST18-004"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Monkey D. Luffy",
+      "attacker_id": "OP05-060",
+      "attacker_power": 5000,
+      "defender_player": "Pirate86082",
+      "defender_name": "Marshall D. Teach",
+      "defender_id": "OP09-081",
+      "defender_power": 5000,
+      "outcome": "hit",
+      "damage": 1
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-069", "OP09-069", "OP07-064", "ST18-003", "ST18-002", "OP06-076"],
+      "board": ["OP09-069", "ST18-004"],
+      "trash": [],
+      "life": 4
+    },
+    {
+      "event_type": "player_state",
+      "player": "Pirate86082",
+      "hand": ["OP09-083", "OP09-089", "OP09-086", "OP10-082", "OP09-088", "OP09-099"],
+      "trash": ["OP09-083"],
+      "board": [],
+      "life": 4
+    },
+    {
+      "event_type": "end_turn",
+      "player": "Mhcuber"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Pirate86082",
+      "card_name": "Black Hole",
+      "card_id": "OP09-098"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "Pirate86082",
+      "amount": 2
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Pirate86082",
+      "card_name": "Hachinosu",
+      "card_id": "OP09-099"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Pirate86082",
+      "attacker_name": "Marshall D. Teach",
+      "attacker_id": "OP09-081",
+      "attacker_power": 5000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 6000,
+      "counter_play": {
+        "player": "Mhcuber",
+        "card_name": "Onami",
+        "card_id": "ST18-002",
+        "counter_value": 1000
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Pirate86082",
+      "card_name": "Shiryu",
+      "card_id": "OP09-088"
+    },
+    {
+      "event_type": "end_turn",
+      "player": "Pirate86082"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-069", "OP09-069", "OP07-064", "ST18-003", "OP06-076"],
+      "board": ["OP09-069", "ST18-004"],
+      "trash": ["ST18-002"],
+      "life": 4
+    },
+    {
+      "event_type": "player_state",
+      "player": "Pirate86082",
+      "hand": ["OP09-083", "OP09-089", "OP09-086", "OP10-082", "OP09-098"],
+      "trash": ["OP09-083"],
+      "board": ["OP09-088"],
+      "life": 4
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Gum Gum Giant",
+      "card_id": "OP09-078"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "Mhcuber",
+      "amount": 2
+    },
+    {
+      "event_type": "life_loss",
+      "player": "Mhcuber",
+      "amount": 1
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "description": "Monkey D. Luffy [OP05-060]: Draw 1 Don"
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Mhcuber",
+      "card_name": "Luffy-tarou",
+      "card_id": "ST18-005"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Zorojuro",
+      "attacker_id": "ST18-004",
+      "attacker_power": 6000,
+      "defender_player": "Pirate86082",
+      "defender_name": "Marshall D. Teach",
+      "defender_id": "OP09-081",
+      "defender_power": 5000,
+      "outcome": "hit",
+      "damage": 1
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Monkey D. Luffy",
+      "attacker_id": "OP05-060",
+      "attacker_power": 5000,
+      "defender_player": "Pirate86082",
+      "defender_name": "Marshall D. Teach",
+      "defender_id": "OP09-081",
+      "defender_power": 6000,
+      "counter_play": {
+        "player": "Pirate86082",
+        "card_name": "Van Augur",
+        "card_id": "OP09-083",
+        "counter_value": 1000
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-069", "OP09-069", "OP07-064", "OP06-076", "OP09-078"],
+      "board": ["OP09-069", "ST18-004", "ST18-005", "ST18-003"],
+      "trash": ["ST18-002"],
+      "life": 3
+    },
+    {
+      "event_type": "player_state",
+      "player": "Pirate86082",
+      "hand": ["OP09-089", "OP09-086", "OP10-082", "OP09-098", "OP09-099"],
+      "trash": ["OP09-083", "OP09-083"],
+      "board": ["OP09-088"],
+      "life": 3
+    },
+    {
+      "event_type": "end_turn",
+      "player": "Mhcuber"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Pirate86082",
+      "card_name": "Shiryu",
+      "card_id": "OP10-086"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "Pirate86082",
+      "amount": 2
+    },
+    {
+      "event_type": "attach_don",
+      "player": "Pirate86082",
+      "target_name": "Shiryu",
+      "target_id": "OP09-088",
+      "amount": 1,
+      "total": 1
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Pirate86082",
+      "attacker_name": "Shiryu",
+      "attacker_id": "OP09-088",
+      "attacker_power": 5000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 6000,
+      "effect": [
+        {
+          "player": "Pirate86082",
+          "description": "Shiryu [OP09-088]: Trash Hachinosu [OP09-099]"
+        },
+        {
+          "player": "Pirate86082",
+          "description": "Shiryu [OP09-088]: Trash Kuzan [OP10-082]"
+        }
+      ],
+      "draw_card": [
+        {
+          "player": "Pirate86082",
+          "card_name": "Shiryu",
+          "card_id": "OP10-086"
+        },
+        {
+          "player": "Pirate86082",
+          "card_name": "Doc Q",
+          "card_id": "OP09-090"
+        }
+      ],
+      "effect": {
+        "player": "Pirate86082",
+        "description": "Shiryu [OP09-088]: Draw 2 Card"
+      },
+      "counter_play": {
+        "player": "Mhcuber",
+        "card_name": "Trafalgar Law",
+        "card_id": "OP09-069",
+        "counter_value": 1000
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Pirate86082",
+      "attacker_name": "Marshall D. Teach",
+      "attacker_id": "OP09-081",
+      "attacker_power": 5000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 5000,
+      "outcome": "hit",
+      "damage": 1
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Pirate86082",
+      "card_name": "Stronger",
+      "card_id": "OP09-089"
+    },
+    {
+      "event_type": "effect",
+      "player": "Pirate86082",
+      "description": "Stronger [OP09-089]: Trash Stronger [OP09-089]"
+    },
+    {
+      "event_type": "effect",
+      "player": "Pirate86082",
+      "description": "Stronger [OP09-089]: Trash Shiryu [OP10-086]"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Pirate86082",
+      "card_name": "Marshall D. Teach",
+      "card_id": "OP09-093"
+    },
+    {
+      "event_type": "effect",
+      "player": "Pirate86082",
+      "description": "Stronger [OP09-089]: Draw 1 Card"
+    },
+    {
+      "event_type": "effect",
+      "player": "Pirate86082",
+      "description": "Stronger [OP09-089]: Zorojuro [ST18-004] Cost -2"
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Pirate86082",
+      "card_name": "Shiryu",
+      "card_id": "OP10-086"
+    },
+    {
+      "event_type": "effect",
+      "player": "Pirate86082",
+      "description": "Shiryu [OP10-086]: Destroy Trafalgar Law [OP09-069]"
+    },
+    {
+      "event_type": "effect",
+      "player": "Pirate86082",
+      "description": "Marshall D. Teach [OP09-081]: Trash Doc Q [OP09-090]"
+    },
+    {
+      "event_type": "effect",
+      "player": "Pirate86082",
+      "description": "Marshall D. Teach [OP09-081]: Opponent can't activate On Play abilities next turn!"
+    },
+    {
+      "event_type": "effect",
+      "description": "Zorojuro [ST18-004] cost restored"
+    },
+    {
+      "event_type": "end_turn",
+      "player": "Pirate86082"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-069", "OP07-064", "OP06-076", "OP09-078", "OP05-074"],
+      "board": ["ST18-004", "ST18-005", "ST18-003"],
+      "trash": ["ST18-002", "OP09-069", "OP09-069"],
+      "life": 2
+    },
+    {
+      "event_type": "player_state",
+      "player": "Pirate86082",
+      "hand": ["OP09-086", "OP09-098", "OP09-093"],
+      "trash": ["OP09-083", "OP09-083", "OP09-099", "OP10-082", "OP09-089", "OP10-086", "OP09-090"],
+      "board": ["OP09-088", "OP10-086"],
+      "life": 3
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Charlotte Linlin",
+      "card_id": "OP08-069"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "Mhcuber",
+      "amount": 2
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Sangoro",
+      "attacker_id": "ST18-003",
+      "attacker_power": 6000,
+      "defender_player": "Pirate86082",
+      "defender_name": "Shiryu",
+      "defender_id": "OP09-088",
+      "defender_power": 4000,
+      "draw_card": {
+        "player": "Mhcuber",
+        "card_name": "Sanji",
+        "card_id": "OP09-065"
+      },
+      "effect": {
+        "player": "Mhcuber",
+        "description": "Sangoro [ST18-003]: Draw 1 Card"
+      },
+      "outcome": "destroyed",
+      "destroyed_card": {
+        "name": "Shiryu",
+        "id": "OP09-088"
+      }
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Mhcuber",
+      "card_name": "Eustass 'Captain' Kid",
+      "card_id": "OP05-074"
+    },
+    {
+      "event_type": "attach_don",
+      "player": "Mhcuber",
+      "target_name": "Monkey D. Luffy",
+      "target_id": "OP05-060",
+      "amount": 2,
+      "total": 2
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Monkey D. Luffy",
+      "attacker_id": "OP05-060",
+      "attacker_power": 7000,
+      "defender_player": "Pirate86082",
+      "defender_name": "Marshall D. Teach",
+      "defender_id": "OP09-081",
+      "defender_power": 5000,
+      "outcome": "hit",
+      "damage": 1
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Zorojuro",
+      "attacker_id": "ST18-004",
+      "attacker_power": 6000,
+      "defender_player": "Pirate86082",
+      "defender_name": "Marshall D. Teach",
+      "defender_id": "OP09-081",
+      "defender_power": 7000,
+      "counter_play": {
+        "player": "Pirate86082",
+        "card_name": "Shiryu",
+        "card_id": "OP09-088",
+        "counter_value": 2000
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Luffy-tarou",
+      "attacker_id": "ST18-005",
+      "attacker_power": 8000,
+      "defender_player": "Pirate86082",
+      "defender_name": "Marshall D. Teach",
+      "defender_id": "OP09-081",
+      "defender_power": 5000,
+      "outcome": "hit",
+      "damage": 1
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-069", "OP07-064", "OP06-076", "OP09-078", "OP08-069", "OP09-065"],
+      "board": ["ST18-004", "ST18-005", "ST18-003", "OP05-074"],
+      "trash": ["ST18-002", "OP09-069", "OP09-069"],
+      "life": 2
+    },
+    {
+      "event_type": "player_state",
+      "player": "Pirate86082",
+      "hand": ["OP09-086", "OP09-098", "OP09-093", "OP10-082"],
+      "trash": ["OP09-083", "OP09-083", "OP09-099", "OP10-082", "OP09-089", "OP10-086", "OP09-090", "OP09-088", "OP09-088"],
+      "board": ["OP10-086"],
+      "life": 1
+    },
+    {
+      "event_type": "end_turn",
+      "player": "Mhcuber"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Pirate86082",
+      "card_name": "Kuzan",
+      "card_id": "OP10-082"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "Pirate86082",
+      "amount": 2
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Pirate86082",
+      "attacker_name": "Shiryu",
+      "attacker_id": "OP10-086",
+      "attacker_power": 5000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 6000,
+      "counter_play": {
+        "player": "Mhcuber",
+        "card_name": "Trafalgar Law",
+        "card_id": "OP09-069",
+        "counter_value": 1000
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "effect",
+      "player": "Pirate86082",
+      "description": "Black Hole [OP09-098]: Nullify effects of Zorojuro [ST18-004]"
+    },
+    {
+      "event_type": "effect",
+      "player": "Pirate86082",
+      "description": "Black Hole [OP09-098]: Destroy Zorojuro [ST18-004]"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Pirate86082",
+      "attacker_name": "Marshall D. Teach",
+      "attacker_id": "OP09-081",
+      "attacker_power": 5000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 5000,
+      "outcome": "hit",
+      "damage": 1
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Pirate86082",
+      "card_name": "Jesus Burgess",
+      "card_id": "OP09-086"
+    },
+    {
+      "event_type": "end_turn",
+      "player": "Pirate86082"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP07-064", "OP06-076", "OP09-078", "OP08-069", "OP09-065", "OP09-078"],
+      "board": ["ST18-005", "ST18-003", "OP05-074"],
+      "trash": ["ST18-002", "OP09-069", "OP09-069", "OP09-069", "ST18-004"],
+      "life": 1
+    },
+    {
+      "event_type": "player_state",
+      "player": "Pirate86082",
+      "hand": ["OP09-093", "OP10-082", "OP10-082"],
+      "trash": ["OP09-083", "OP09-083", "OP09-099", "OP10-082", "OP09-089", "OP10-086", "OP09-090", "OP09-088", "OP09-088", "OP09-098"],
+      "board": ["OP10-086", "OP09-086"],
+      "life": 1
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Usohachi",
+      "card_id": "ST18-001"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "Mhcuber",
+      "amount": 2
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Sangoro",
+      "attacker_id": "ST18-003",
+      "attacker_power": 6000,
+      "defender_player": "Pirate86082",
+      "defender_name": "Marshall D. Teach",
+      "defender_id": "OP09-081",
+      "defender_power": 5000,
+      "draw_card": {
+        "player": "Mhcuber",
+        "card_name": "Sanji",
+        "card_id": "OP09-065"
+      },
+      "effect": {
+        "player": "Mhcuber",
+        "description": "Sangoro [ST18-003]: Draw 1 Card"
+      },
+      "outcome": "hit",
+      "damage": 1
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Mhcuber",
+      "card_name": "Sanji",
+      "card_id": "OP09-065"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "description": "Sanji [OP09-065]: Give Sanji [OP09-065] Rush"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "description": "Sanji [OP09-065]: Rest Jesus Burgess [OP09-086]"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "description": "Eustass 'Captain' Kid [OP05-074]: Draw 1 Don"
+    },
+    {
+      "event_type": "attach_don",
+      "player": "Mhcuber",
+      "target_name": "Sanji",
+      "target_id": "OP09-065",
+      "amount": 4,
+      "total": 4
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Sanji",
+      "attacker_id": "OP09-065",
+      "attacker_power": 9000,
+      "defender_player": "Pirate86082",
+      "defender_name": "Marshall D. Teach",
+      "defender_id": "OP09-081",
+      "defender_power": 5000,
+      "outcome": "win"
+    }
+  ],
+  "winner": "Mhcuber"
+}

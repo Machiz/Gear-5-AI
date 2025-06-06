@@ -1,0 +1,1678 @@
+{
+  "log-001": {
+    "player": "Moroff",
+    "action": "Leader is Donquixote Doflamingo",
+    "card": "OP01-060"
+  },
+  "log-002": {
+    "player": "Pirate68906",
+    "action": "Leader is Shanks",
+    "card": "OP09-001"
+  },
+  "log-003": {
+    "player": "Moroff",
+    "action": "Will select turn order"
+  },
+  "log-004": {
+    "player": "Moroff",
+    "action": "Chose to go Second"
+  },
+  "log-005": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-005"
+  },
+  "log-006": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP06-058"
+  },
+  "log-007": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP01-077"
+  },
+  "log-008": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "EB01-023"
+  },
+  "log-009": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP08-047"
+  },
+  "log-010": {
+    "player": "Moroff",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "ST17-005",
+      "OP06-058",
+      "OP01-077",
+      "EB01-023",
+      "OP08-047"
+    ]
+  },
+  "log-011": {
+    "player": "Pirate68906",
+    "action": "Drew card from deck",
+    "card": "OP09-011"
+  },
+  "log-012": {
+    "player": "Pirate68906",
+    "action": "Drew card from deck",
+    "card": "OP08-118"
+  },
+  "log-013": {
+    "player": "Pirate68906",
+    "action": "Drew card from deck",
+    "card": "OP01-006"
+  },
+  "log-014": {
+    "player": "Pirate68906",
+    "action": "Drew card from deck",
+    "card": "OP10-019"
+  },
+  "log-015": {
+    "player": "Pirate68906",
+    "action": "Drew card from deck",
+    "card": "OP09-011"
+  },
+  "log-016": {
+    "player": "Pirate68906",
+    "action": "Drew card from deck",
+    "card": "OP01-006"
+  },
+  "log-017": {
+    "player": "Pirate68906",
+    "action": "Drew card from deck",
+    "card": "OP09-004"
+  },
+  "log-018": {
+    "player": "Pirate68906",
+    "action": "Drew card from deck",
+    "card": "OP09-015"
+  },
+  "log-019": {
+    "player": "Pirate68906",
+    "action": "Drew card from deck",
+    "card": "OP09-021"
+  },
+  "log-020": {
+    "player": "Pirate68906",
+    "action": "Drew card from deck",
+    "card": "OP07-015"
+  },
+  "log-021": {
+    "player": "Pirate68906",
+    "action": "Mulligan"
+  },
+  "log-022": {
+    "player": "Pirate68906",
+    "action": "Draw 1 Don"
+  },
+  "log-023": {
+    "player": "Pirate68906",
+    "action": "End Turn"
+  },
+  "log-024": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-005",
+      "OP06-058",
+      "OP01-077",
+      "EB01-023",
+      "OP08-047"
+    ]
+  },
+  "log-025": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log-026": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-027": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log-028": {
+    "player": "Pirate68906",
+    "action": "Hand",
+    "cards": [
+      "OP01-006",
+      "OP09-004",
+      "OP09-015",
+      "OP09-021",
+      "OP07-015"
+    ]
+  },
+  "log-029": {
+    "player": "Pirate68906",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-030": {
+    "player": "Pirate68906",
+    "action": "Board",
+    "cards": []
+  },
+  "log-031": {
+    "player": "Pirate68906",
+    "action": "Life",
+    "value": 5
+  },
+  "log-032": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-033": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP06-047"
+  },
+  "log-034": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-035": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "OP01-077"
+  },
+  "log-036": {
+    "player": "Moroff",
+    "action": "Placing Cards on Top of Deck"
+  },
+  "log-037": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log-038": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-005",
+      "OP06-058",
+      "EB01-023",
+      "OP08-047",
+      "OP06-047"
+    ]
+  },
+  "log-039": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP01-077"
+    ]
+  },
+  "log-040": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-041": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log-042": {
+    "player": "Pirate68906",
+    "action": "Hand",
+    "cards": [
+      "OP01-006",
+      "OP09-004",
+      "OP09-015",
+      "OP09-021",
+      "OP07-015"
+    ]
+  },
+  "log-043": {
+    "player": "Pirate68906",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-044": {
+    "player": "Pirate68906",
+    "action": "Board",
+    "cards": []
+  },
+  "log-045": {
+    "player": "Pirate68906",
+    "action": "Life",
+    "value": 5
+  },
+  "log-046": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-047": {
+    "player": "Pirate68906",
+    "action": "Draw 1 Card"
+  },
+  "log-048": {
+    "player": "Pirate68906",
+    "action": "Drew card from deck",
+    "card": "OP01-006"
+  },
+  "log-049": {
+    "player": "Pirate68906",
+    "action": "Draw 2 Don"
+  },
+  "log-050": {
+    "player": "Pirate68906",
+    "action": "Attach 1 Don to Shanks",
+    "card": "OP09-001",
+    "total_don": 1
+  },
+  "log-051": {
+    "player": "Pirate68906",
+    "action": "attacking",
+    "attacker": "OP09-001",
+    "defender": "OP01-060"
+  },
+  "log-052": {
+    "player": "Pirate68906",
+    "action": "attack_details",
+    "attacker": "Shanks",
+    "attacker_card": "OP09-001",
+    "attacker_power": 6000,
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060",
+    "defender_power": 5000
+  },
+  "log-053": {
+    "player": "Moroff",
+    "action": "Leader hit for 1 damage",
+    "leader": "Donquixote Doflamingo",
+    "card": "OP01-060"
+  },
+  "log-054": {
+    "player": "Pirate68906",
+    "action": "Deploy",
+    "card": "OP09-021"
+  },
+  "log-055": {
+    "player": "Pirate68906",
+    "action": "End Turn"
+  },
+  "log-056": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "ST17-005",
+      "OP06-058",
+      "EB01-023",
+      "OP08-047",
+      "OP06-047",
+      "ST17-004"
+    ]
+  },
+  "log-057": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP01-077"
+    ]
+  },
+  "log-058": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-059": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log-060": {
+    "player": "Pirate68906",
+    "action": "Hand",
+    "cards": [
+      "OP01-006",
+      "OP09-004",
+      "OP09-015",
+      "OP07-015",
+      "OP01-006"
+    ]
+  },
+  "log-061": {
+    "player": "Pirate68906",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-062": {
+    "player": "Pirate68906",
+    "action": "Board",
+    "cards": []
+  },
+  "log-063": {
+    "player": "Pirate68906",
+    "action": "Life",
+    "value": 5
+  },
+  "log-064": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-065": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP07-040"
+  },
+  "log-066": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-067": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "ST17-005"
+  },
+  "log-068": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log-069": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log-070": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP09-001"
+  },
+  "log-071": {
+    "player": "Moroff",
+    "action": "attack_details",
+    "attacker": "Donquixote Doflamingo",
+    "attacker_card": "OP01-060",
+    "attacker_power": 7000,
+    "defender": "Shanks",
+    "defender_card": "OP09-001",
+    "defender_power": 5000
+  },
+  "log-072": {
+    "player": "Pirate68906",
+    "action": "Leader hit for 1 damage",
+    "leader": "Shanks",
+    "card": "OP09-001"
+  },
+  "log-073": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "OP06-058",
+      "EB01-023",
+      "OP08-047",
+      "OP06-047",
+      "ST17-004",
+      "OP07-040"
+    ]
+  },
+  "log-074": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP01-077",
+      "ST17-005"
+    ]
+  },
+  "log-075": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-076": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log-077": {
+    "player": "Pirate68906",
+    "action": "Hand",
+    "cards": [
+      "OP01-006",
+      "OP09-004",
+      "OP09-015",
+      "OP07-015",
+      "OP01-006",
+      "OP09-009"
+    ]
+  },
+  "log-078": {
+    "player": "Pirate68906",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-079": {
+    "player": "Pirate68906",
+    "action": "Board",
+    "cards": []
+  },
+  "log-080": {
+    "player": "Pirate68906",
+    "action": "Life",
+    "value": 4
+  },
+  "log-081": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-082": {
+    "player": "Pirate68906",
+    "action": "Draw 1 Card"
+  },
+  "log-083": {
+    "player": "Pirate68906",
+    "action": "Drew card from deck",
+    "card": "OP09-011"
+  },
+  "log-084": {
+    "player": "Pirate68906",
+    "action": "Draw 2 Don"
+  },
+  "log-085": {
+    "player": "Pirate68906",
+    "action": "Attach 1 Don to Shanks",
+    "card": "OP09-001",
+    "total_don": 1
+  },
+  "log-086": {
+    "player": "Pirate68906",
+    "action": "attacking",
+    "attacker": "OP09-001",
+    "defender": "OP01-060"
+  },
+  "log-087": {
+    "player": "Moroff",
+    "action": "Discard for Counter 2000",
+    "card": "OP07-040"
+  },
+  "log-088": {
+    "player": "Pirate68906",
+    "action": "attack_details",
+    "attacker": "Shanks",
+    "attacker_card": "OP09-001",
+    "attacker_power": 6000,
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060",
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log-089": {
+    "player": "Pirate68906",
+    "action": "Deploy",
+    "card": "OP09-015"
+  },
+  "log-090": {
+    "player": "Pirate68906",
+    "action": "End Turn"
+  },
+  "log-091": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "OP06-058",
+      "EB01-023",
+      "OP08-047",
+      "OP06-047",
+      "ST17-004"
+    ]
+  },
+  "log-092": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP01-077",
+      "ST17-005"
+    ]
+  },
+  "log-093": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "OP07-040"
+    ]
+  },
+  "log-094": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log-095": {
+    "player": "Pirate68906",
+    "action": "Hand",
+    "cards": [
+      "OP01-006",
+      "OP09-004",
+      "OP07-015",
+      "OP01-006",
+      "OP09-009",
+      "OP09-011"
+    ]
+  },
+  "log-096": {
+    "player": "Pirate68906",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-097": {
+    "player": "Pirate68906",
+    "action": "Board",
+    "cards": [
+      "OP09-015"
+    ]
+  },
+  "log-098": {
+    "player": "Pirate68906",
+    "action": "Life",
+    "value": 4
+  },
+  "log-099": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-100": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-002"
+  },
+  "log-101": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-102": {
+    "player": "Moroff",
+    "action": "Sent a Card to Deck Top"
+  },
+  "log-103": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "EB01-023"
+  },
+  "log-104": {
+    "player": "Moroff",
+    "action": "Edward Weevil: Draw 1 Card",
+    "card": "EB01-023"
+  },
+  "log-105": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-002"
+  },
+  "log-106": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log-107": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log-108": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP09-001"
+  },
+  "log-109": {
+    "player": "Pirate68906",
+    "action": "Shanks: Buff Donquixote Doflamingo -1000",
+    "card": "OP09-001"
+  },
+  "log-110": {
+    "player": "Pirate68906",
+    "action": "Lucky Roux Blocks",
+    "card": "OP09-015"
+  },
+  "log-111": {
+    "player": "Moroff",
+    "action": "attack_details",
+    "attacker": "Donquixote Doflamingo",
+    "attacker_card": "OP01-060",
+    "attacker_power": 6000,
+    "defender": "Lucky Roux",
+    "defender_card": "OP09-015",
+    "defender_power": 5000
+  },
+  "log-112": {
+    "player": "Pirate68906",
+    "action": "Lucky Roux Destroyed",
+    "card": "OP09-015"
+  },
+  "log-113": {
+    "player": "Pirate68906",
+    "action": "Lucky Roux: Destroy Marshall D. Teach",
+    "card": "OP09-015",
+    "target": "ST17-005"
+  },
+  "log-114": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "OP06-058",
+      "OP08-047",
+      "OP06-047",
+      "ST17-004",
+      "ST17-002"
+    ]
+  },
+  "log-115": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP01-077",
+      "EB01-023"
+    ]
+  },
+  "log-116": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "OP07-040",
+      "ST17-005"
+    ]
+  },
+  "log-117": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log-118": {
+    "player": "Pirate68906",
+    "action": "Hand",
+    "cards": [
+      "OP01-006",
+      "OP09-004",
+      "OP07-015",
+      "OP01-006",
+      "OP09-009",
+      "OP09-011"
+    ]
+  },
+  "log-119": {
+    "player": "Pirate68906",
+    "action": "Trash",
+    "cards": [
+      "OP09-015"
+    ]
+  },
+  "log-120": {
+    "player": "Pirate68906",
+    "action": "Board",
+    "cards": []
+  },
+  "log-121": {
+    "player": "Pirate68906",
+    "action": "Life",
+    "value": 4
+  },
+  "log-122": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-123": {
+    "player": "Pirate68906",
+    "action": "Draw 1 Card"
+  },
+  "log-124": {
+    "player": "Pirate68906",
+    "action": "Drew card from deck",
+    "card": "OP06-007"
+  },
+  "log-125": {
+    "player": "Pirate68906",
+    "action": "Draw 2 Don"
+  },
+  "log-126": {
+    "player": "Pirate68906",
+    "action": "Shanks attacking Donquixote Doflamingo",
+    "card": "OP09-001"
+  },
+  "log-127": {
+    "player": "Pirate68906",
+    "action": "attack_details",
+    "attacker": "Shanks",
+    "attacker_card": "OP09-001",
+    "attacker_power": 5000,
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060",
+    "defender_power": 5000
+  },
+  "log-128": {
+    "player": "Moroff",
+    "action": "Leader hit for 1 damage",
+    "leader": "Donquixote Doflamingo",
+    "card": "OP01-060"
+  },
+  "log-129": {
+    "player": "Pirate68906",
+    "action": "Deploy",
+    "card": "OP09-009"
+  },
+  "log-130": {
+    "player": "Pirate68906",
+    "action": "Benn Beckman: Trash Edward Weevil",
+    "card": "OP09-009",
+    "target": "EB01-023"
+  },
+  "log-131": {
+    "player": "Pirate68906",
+    "action": "End Turn"
+  },
+  "log-132": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "OP06-058",
+      "OP08-047",
+      "OP06-047",
+      "ST17-004",
+      "ST17-002",
+      "OP06-047"
+    ]
+  },
+  "log-133": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP01-077"
+    ]
+  },
+  "log-134": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "OP07-040",
+      "ST17-005",
+      "EB01-023"
+    ]
+  },
+  "log-135": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 3
+  },
+  "log-136": {
+    "player": "Pirate68906",
+    "action": "Hand",
+    "cards": [
+      "OP01-006",
+      "OP09-004",
+      "OP07-015",
+      "OP01-006",
+      "OP09-011",
+      "OP06-007"
+    ]
+  },
+  "log-137": {
+    "player": "Pirate68906",
+    "action": "Trash",
+    "cards": [
+      "OP09-015"
+    ]
+  },
+  "log-138": {
+    "player": "Pirate68906",
+    "action": "Board",
+    "cards": [
+      "OP09-009"
+    ]
+  },
+  "log-139": {
+    "player": "Pirate68906",
+    "action": "Life",
+    "value": 4
+  },
+  "log-140": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-141": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP07-046"
+  },
+  "log-142": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-143": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "OP06-047"
+  },
+  "log-144": {
+    "player": "Moroff",
+    "action": "Force Opponent to Shuffle Hand into Deck and Draw 5"
+  },
+  "log-145": {
+    "player": "Pirate68906",
+    "action": "Drew card from deck",
+    "card": "OP09-008"
+  },
+  "log-146": {
+    "player": "Pirate68906",
+    "action": "Drew card from deck",
+    "card": "OP09-008"
+  },
+  "log-147": {
+    "player": "Pirate68906",
+    "action": "Drew card from deck",
+    "card": "OP09-009"
+  },
+  "log-148": {
+    "player": "Pirate68906",
+    "action": "Drew card from deck",
+    "card": "OP06-007"
+  },
+  "log-149": {
+    "player": "Pirate68906",
+    "action": "Drew card from deck",
+    "card": "ST01-015"
+  },
+  "log-150": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "ST17-004"
+  },
+  "log-151": {
+    "player": "Moroff",
+    "action": "Placing Cards on Top of Deck"
+  },
+  "log-152": {
+    "player": "Moroff",
+    "action": "Boa Hancock: Attach 1 Rested Don to Donquixote Doflamingo",
+    "card": "ST17-004",
+    "target": "OP01-060"
+  },
+  "log-153": {
+    "player": "Moroff",
+    "action": "Donquixote Doflamingo attacking Shanks",
+    "card": "OP01-060"
+  },
+  "log-154": {
+    "player": "Pirate68906",
+    "action": "Shanks: Buff Donquixote Doflamingo -1000",
+    "card": "OP09-001"
+  },
+  "log-155": {
+    "player": "Moroff",
+    "action": "attack_details",
+    "attacker": "Donquixote Doflamingo",
+    "attacker_card": "OP01-060",
+    "attacker_power": 5000,
+    "defender": "Shanks",
+    "defender_card": "OP09-001",
+    "defender_power": 5000
+  },
+  "log-156": {
+    "player": "Pirate68906",
+    "action": "Leader hit for 1 damage",
+    "leader": "Shanks",
+    "card": "OP09-001"
+  },
+  "log-157": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "OP06-058",
+      "OP08-047",
+      "OP06-047",
+      "ST17-002",
+      "OP07-046"
+    ]
+  },
+  "log-158": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP01-077",
+      "OP06-047",
+      "ST17-004"
+    ]
+  },
+  "log-159": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "OP07-040",
+      "ST17-005",
+      "EB01-023"
+    ]
+  },
+  "log-160": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 3
+  },
+  "log-161": {
+    "player": "Pirate68906",
+    "action": "Hand",
+    "cards": [
+      "OP09-008",
+      "OP09-008",
+      "OP09-009",
+      "OP06-007",
+      "ST01-015",
+      "OP09-011"
+    ]
+  },
+  "log-162": {
+    "player": "Pirate68906",
+    "action": "Trash",
+    "cards": [
+      "OP09-015"
+    ]
+  },
+  "log-163": {
+    "player": "Pirate68906",
+    "action": "Board",
+    "cards": [
+      "OP09-009"
+    ]
+  },
+  "log-164": {
+    "player": "Pirate68906",
+    "action": "Life",
+    "value": 3
+  },
+  "log-165": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-166": {
+    "player": "Pirate68906",
+    "action": "Draw 1 Card"
+  },
+  "log-167": {
+    "player": "Pirate68906",
+    "action": "Drew card from deck",
+    "card": "OP10-019"
+  },
+  "log-168": {
+    "player": "Pirate68906",
+    "action": "Draw 2 Don"
+  },
+  "log-169": {
+    "player": "Pirate68906",
+    "action": "Deploy",
+    "card": "OP09-009"
+  },
+  "log-170": {
+    "player": "Pirate68906",
+    "action": "Benn Beckman: Trash Boa Hancock",
+    "card": "OP09-009",
+    "target": "ST17-004"
+  },
+  "log-171": {
+    "player": "Pirate68906",
+    "action": "Benn Beckman attacking Donquixote Doflamingo",
+    "card": "OP09-009"
+  },
+  "log-172": {
+    "player": "Moroff",
+    "action": "Discard for Counter 1000",
+    "card": "OP08-047"
+  },
+  "log-173": {
+    "player": "Moroff",
+    "action": "Discard for Counter 1000",
+    "card": "OP07-046"
+  },
+  "log-174": {
+    "player": "Moroff",
+    "action": "Discard for Counter 1000",
+    "card": "ST17-002"
+  },
+  "log-175": {
+    "player": "Pirate68906",
+    "action": "attack_details",
+    "attacker": "Benn Beckman",
+    "attacker_card": "OP09-009",
+    "attacker_power": 7000,
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060",
+    "defender_power": 8000,
+    "result": "Attack Fails"
+  },
+  "log-176": {
+    "player": "Pirate68906",
+    "action": "Attach 2 Don to Shanks",
+    "card": "OP09-001",
+    "total_don": 2
+  },
+  "log-177": {
+    "player": "Pirate68906",
+    "action": "Shanks attacking Donquixote Doflamingo",
+    "card": "OP09-001"
+  },
+  "log-178": {
+    "player": "Pirate68906",
+    "action": "attack_details",
+    "attacker": "Shanks",
+    "attacker_card": "OP09-001",
+    "attacker_power": 7000,
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060",
+    "defender_power": 5000
+  },
+  "log-179": {
+    "player": "Moroff",
+    "action": "Leader hit for 1 damage",
+    "leader": "Donquixote Doflamingo",
+    "card": "OP01-060"
+  },
+  "log-180": {
+    "player": "Pirate68906",
+    "action": "End Turn"
+  },
+  "log-181": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "OP06-058",
+      "OP06-047",
+      "OP06-047"
+    ]
+  },
+  "log-182": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP01-077",
+      "OP06-047"
+    ]
+  },
+  "log-183": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "OP07-040",
+      "ST17-005",
+      "EB01-023",
+      "ST17-004",
+      "OP08-047",
+      "OP07-046",
+      "ST17-002"
+    ]
+  },
+  "log-184": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 2
+  },
+  "log-185": {
+    "player": "Pirate68906",
+    "action": "Hand",
+    "cards": [
+      "OP09-008",
+      "OP09-008",
+      "OP06-007",
+      "ST01-015",
+      "OP09-011",
+      "OP10-019"
+    ]
+  },
+  "log-186": {
+    "player": "Pirate68906",
+    "action": "Trash",
+    "cards": [
+      "OP09-015"
+    ]
+  },
+  "log-187": {
+    "player": "Pirate68906",
+    "action": "Board",
+    "cards": [
+      "OP09-009",
+      "OP09-009"
+    ]
+  },
+  "log-188": {
+    "player": "Pirate68906",
+    "action": "Life",
+    "value": 3
+  },
+  "log-189": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-190": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "EB01-023"
+  },
+  "log-191": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-192": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "EB01-023"
+  },
+  "log-193": {
+    "player": "Moroff",
+    "action": "Edward Weevil: Draw 1 Card",
+    "card": "EB01-023"
+  },
+  "log-194": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP08-047"
+  },
+  "log-195": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log-196": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log-197": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 3
+  },
+  "log-198": {
+    "player": "Moroff",
+    "action": "Donquixote Doflamingo attacking Benn Beckman",
+    "card": "OP01-060"
+  },
+  "log-199": {
+    "player": "Moroff",
+    "action": "Donquixote Doflamingo revealed",
+    "card": "OP08-047"
+  },
+  "log-200": {
+    "player": "Pirate68906",
+    "action": "Discard Hongo for Counter 2000",
+    "card": "OP09-011"
+  },
+  "log-201": {
+    "player": "Moroff",
+    "action": "attack_details",
+    "attacker": "Donquixote Doflamingo",
+    "attacker_card": "OP01-060",
+    "attacker_power": 8000,
+    "defender": "Benn Beckman",
+    "defender_card": "OP09-009",
+    "defender_power": 9000,
+    "result": "Attack Fails"
+  },
+  "log-202": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Charlotte Pudding",
+    "card": "OP06-047",
+    "total_don": 1
+  },
+  "log-203": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Charlotte Pudding",
+    "card": "OP06-047",
+    "total_don": 2
+  },
+  "log-204": {
+    "player": "Moroff",
+    "action": "Charlotte Pudding attacking Shanks",
+    "card": "OP06-047"
+  },
+  "log-205": {
+    "player": "Moroff",
+    "action": "attack_details",
+    "attacker": "Charlotte Pudding",
+    "attacker_card": "OP06-047",
+    "attacker_power": 6000,
+    "defender": "Shanks",
+    "defender_card": "OP09-001",
+    "defender_power": 5000
+  },
+  "log-206": {
+    "player": "Pirate68906",
+    "action": "Leader hit for 1 damage",
+    "leader": "Shanks",
+    "card": "OP09-001"
+  },
+  "log-207": {
+    "player": "Pirate68906",
+    "action": "Gum-Gum Jet Pistol: Destroy Edward Weevil",
+    "card": "ST01-015",
+    "target": "EB01-023"
+  },
+  "log-208": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "OP06-058",
+      "OP06-047",
+      "OP06-047",
+      "OP08-047"
+    ]
+  },
+  "log-209": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": [
+      "OP01-077",
+      "OP06-047"
+    ]
+  },
+  "log-210": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "OP07-040",
+      "ST17-005",
+      "EB01-023",
+      "ST17-004",
+      "OP08-047",
+      "OP07-046",
+      "ST17-002",
+      "EB01-023"
+    ]
+  },
+  "log-211": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 2
+  },
+  "log-212": {
+    "player": "Pirate68906",
+    "action": "Hand",
+    "cards": [
+      "OP09-008",
+      "OP09-008",
+      "OP06-007",
+      "ST01-015",
+      "OP10-019"
+    ]
+  },
+  "log-213": {
+    "player": "Pirate68906",
+    "action": "Trash",
+    "cards": [
+      "OP09-015",
+      "OP09-011",
+      "ST01-015"
+    ]
+  },
+  "log-214": {
+    "player": "Pirate68906",
+    "action": "Board",
+    "cards": [
+      "OP09-009",
+      "OP09-009"
+    ]
+  },
+  "log-215": {
+    "player": "Pirate68906",
+    "action": "Life",
+    "value": 2
+  },
+  "log-216": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-217": {
+    "player": "Pirate68906",
+    "action": "Draw 1 Card"
+  },
+  "log-218": {
+    "player": "Pirate68906",
+    "action": "Drew card from deck",
+    "card": "OP09-008"
+  },
+  "log-219": {
+    "player": "Pirate68906",
+    "action": "Draw 2 Don"
+  },
+  "log-220": {
+    "player": "Pirate68906",
+    "action": "Red Force: Rest Red Force",
+    "card": "OP09-021"
+  },
+  "log-221": {
+    "player": "Pirate68906",
+    "action": "Red Force: Buff Charlotte Pudding -1000",
+    "card": "OP09-021",
+    "target": "OP06-047"
+  },
+  "log-222": {
+    "player": "Pirate68906",
+    "action": "Shanks attacking Charlotte Pudding",
+    "card": "OP09-001"
+  },
+  "log-223": {
+    "player": "Pirate68906",
+    "action": "attack_details",
+    "attacker": "Shanks",
+    "attacker_card": "OP09-001",
+    "attacker_power": 5000,
+    "defender": "Charlotte Pudding",
+    "defender_card": "OP06-047",
+    "defender_power": 3000
+  },
+  "log-224": {
+    "player": "Moroff",
+    "action": "Charlotte Pudding Destroyed",
+    "card": "OP06-047"
+  },
+  "log-225": {
+    "player": "Pirate68906",
+    "action": "Benn Beckman attacking Donquixote Doflamingo",
+    "card": "OP09-009"
+  },
+  "log-226": {
+    "player": "Pirate68906",
+    "action": "attack_details",
+    "attacker": "Benn Beckman",
+    "attacker_card": "OP09-009",
+    "attacker_power": 7000,
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060",
+    "defender_power": 5000
+  },
+  "log-227": {
+    "player": "Moroff",
+    "action": "Leader hit for 1 damage",
+    "leader": "Donquixote Doflamingo",
+    "card": "OP01-060"
+  },
+  "log-228": {
+    "player": "Pirate68906",
+    "action": "Benn Beckman attacking Donquixote Doflamingo",
+    "card": "OP09-009"
+  },
+  "log-229": {
+    "player": "Moroff",
+    "action": "Discard for Counter 1000",
+    "card": "ST03-004"
+  },
+  "log-230": {
+    "player": "Moroff",
+    "action": "Discard for Counter 1000",
+    "card": "OP06-047"
+  },
+  "log-231": {
+    "player": "Moroff",
+    "action": "Discard for Counter 1000",
+    "card": "OP06-047"
+  },
+  "log-232": {
+    "player": "Pirate68906",
+    "action": "attack_details",
+    "attacker": "Benn Beckman",
+    "attacker_card": "OP09-009",
+    "attacker_power": 7000,
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060",
+    "defender_power": 8000,
+    "result": "Attack Fails"
+  },
+  "log-233": {
+    "player": "Pirate68906",
+    "action": "Deploy",
+    "card": "OP06-007"
+  },
+  "log-234": {
+    "player": "Pirate68906",
+    "action": "Shanks: Destroy Perona",
+    "card": "OP06-007",
+    "target": "OP01-077"
+  },
+  "log-235": {
+    "player": "Pirate68906",
+    "action": "End Turn"
+  },
+  "log-236": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "OP06-058",
+      "OP08-047"
+    ]
+  },
+  "log-237": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log-238": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "OP07-040",
+      "ST17-005",
+      "EB01-023",
+      "ST17-004",
+      "OP08-047",
+      "OP07-046",
+      "ST17-002",
+      "EB01-023",
+      "OP06-047",
+      "ST03-004",
+      "OP06-047",
+      "OP06-047",
+      "OP01-077"
+    ]
+  },
+  "log-239": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 1
+  },
+  "log-240": {
+    "player": "Pirate68906",
+    "action": "Hand",
+    "cards": [
+      "OP09-008",
+      "OP09-008",
+      "ST01-015",
+      "OP10-019",
+      "OP09-008"
+    ]
+  },
+  "log-241": {
+    "player": "Pirate68906",
+    "action": "Trash",
+    "cards": [
+      "OP09-015",
+      "OP09-011",
+      "ST01-015"
+    ]
+  },
+  "log-242": {
+    "player": "Pirate68906",
+    "action": "Board",
+    "cards": [
+      "OP09-009",
+      "OP09-009",
+      "OP06-007"
+    ]
+  },
+  "log-243": {
+    "player": "Pirate68906",
+    "action": "Life",
+    "value": 2
+  },
+  "log-244": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-245": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP08-047"
+  },
+  "log-246": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": [
+      "OP06-058",
+      "OP08-047",
+      "OP08-047"
+    ]
+  },
+  "log-247": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log-248": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": [
+      "OP07-040",
+      "ST17-005",
+      "EB01-023",
+      "ST17-004",
+      "OP08-047",
+      "OP07-046",
+      "ST17-002",
+      "EB01-023",
+      "OP06-047",
+      "ST03-004",
+      "OP06-047",
+      "OP06-047",
+      "OP01-077"
+    ]
+  },
+  "log-249": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 1
+  },
+  "log-250": {
+    "player": "Pirate68906",
+    "action": "Hand",
+    "cards": [
+      "OP09-008",
+      "OP09-008",
+      "ST01-015",
+      "OP10-019",
+      "OP09-008"
+    ]
+  },
+  "log-251": {
+    "player": "Pirate68906",
+    "action": "Trash",
+    "cards": [
+      "OP09-015",
+      "OP09-011",
+      "ST01-015"
+    ]
+  },
+  "log-252": {
+    "player": "Pirate68906",
+    "action": "Board",
+    "cards": [
+      "OP09-009",
+      "OP09-009",
+      "OP06-007"
+    ]
+  },
+  "log-253": {
+    "player": "Pirate68906",
+    "action": "Life",
+    "value": 2
+  },
+  "log-254": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-255": {
+    "player": "Pirate68906",
+    "action": "Draw 1 Card"
+  },
+  "log-256": {
+    "player": "Pirate68906",
+    "action": "Drew card from deck",
+    "card": "ST01-015"
+  },
+  "log-257": {
+    "player": "Pirate68906",
+    "action": "Shanks attacking Donquixote Doflamingo",
+    "card": "OP06-007"
+  },
+  "log-258": {
+    "player": "Pirate68906",
+    "action": "attack_details",
+    "attacker": "Shanks",
+    "attacker_card": "OP06-007",
+    "attacker_power": 12000,
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060",
+    "defender_power": 5000
+  },
+  "log-259": {
+    "player": "Moroff",
+    "action": "Leader hit for 1 damage",
+    "leader": "Donquixote Doflamingo",
+    "card": "OP01-060"
+  },
+  "log-260": {
+    "player": "Pirate68906",
+    "action": "Benn Beckman attacking Donquixote Doflamingo",
+    "card": "OP09-009"
+  },
+  "log-261": {
+    "player": "Moroff",
+    "action": "Discard Jozu for Counter 1000",
+    "card": "OP08-047"
+  },
+  "log-262": {
+    "player": "Moroff",
+    "action": "Discard Jozu for Counter 1000",
+    "card": "OP08-047"
+  },
+  "log-263": {
+    "player": "Pirate68906",
+    "action": "attack_details",
+    "attacker": "Benn Beckman",
+    "attacker_card": "OP09-009",
+    "attacker_power": 7000,
+    "defender": "Donquixote Doflamingo",
+    "defender_card": "OP01-060",
+    "defender_power": 7000
+  },
+  "log-264": {
+    "player": "Moroff",
+    "action": "Leader hit for 1 damage",
+    "leader": "Donquixote Doflamingo",
+    "card": "OP01-060"
+  },
+  "log-265": {
+    "player": "Moroff",
+    "action": "Loses"
+  },
+  "log-266": {
+    "player": "Opponent",
+    "action": "Wins!"
+  },
+  "log-267": {
+    "player": "Opponent",
+    "action": "Quits!"
+  }
+}

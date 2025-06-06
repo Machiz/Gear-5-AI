@@ -1,0 +1,1323 @@
+{
+  "room_id": "DW6CQK",
+  "players": [
+    {
+      "name": "YoidoreshirazuKanaria",
+      "leader": {
+        "name": "Carrot",
+        "card_id": "OP08-021"
+      },
+      "version": "1.29b"
+    },
+    {
+      "name": "Mhcuber",
+      "leader": {
+        "name": "Monkey D. Luffy",
+        "card_id": "OP05-060"
+      },
+      "version": "1.29b"
+    }
+  ],
+  "game_log": [
+    {
+      "event_type": "connection",
+      "player": "YoidoreshirazuKanaria"
+    },
+    {
+      "event_type": "leader_reveal",
+      "player": "YoidoreshirazuKanaria",
+      "leader_name": "Carrot",
+      "leader_id": "OP08-021"
+    },
+    {
+      "event_type": "connection",
+      "player": "Mhcuber"
+    },
+    {
+      "event_type": "leader_reveal",
+      "player": "Mhcuber",
+      "leader_name": "Monkey D. Luffy",
+      "leader_id": "OP05-060"
+    },
+    {
+      "event_type": "turn_order_selection",
+      "player": "YoidoreshirazuKanaria",
+      "will_select_turn_order": true,
+      "goes_first": true
+    },
+    {
+      "event_type": "draw_card",
+      "player": "YoidoreshirazuKanaria",
+      "card_name": "Zou",
+      "card_id": "OP08-039"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "YoidoreshirazuKanaria",
+      "card_name": "Donquixote Doflamingo",
+      "card_id": "OP04-031"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "YoidoreshirazuKanaria",
+      "card_name": "Pedro",
+      "card_id": "OP08-030"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "YoidoreshirazuKanaria",
+      "card_name": "Wanda",
+      "card_id": "OP08-034"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "YoidoreshirazuKanaria",
+      "card_name": "Inuarashi",
+      "card_id": "OP08-022"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Gum Gum Giant",
+      "card_id": "OP09-078"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Sanji",
+      "card_id": "OP07-064"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Zorojuro",
+      "card_id": "ST18-004"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Usohachi",
+      "card_id": "ST18-001"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Sanji",
+      "card_id": "OP07-064"
+    },
+    {
+      "event_type": "mulligan_info",
+      "player": "Mhcuber",
+      "hand_before_mulligan": ["OP09-078", "OP07-064", "ST18-004", "ST18-001", "OP07-064"]
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Monkey D. Luffy",
+      "card_id": "OP09-119"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Eustass 'Captain' Kid",
+      "card_id": "OP05-074"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Trafalgar Law",
+      "card_id": "OP09-069"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Trafalgar Law",
+      "card_id": "OP09-069"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Usohachi",
+      "card_id": "ST18-001"
+    },
+    {
+      "event_type": "mulligan_info",
+      "player": "Mhcuber",
+      "hand_after_mulligan": ["OP09-119", "OP05-074", "OP09-069", "OP09-069", "ST18-001"]
+    },
+    {
+      "event_type": "mulligan",
+      "player": "Mhcuber"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "YoidoreshirazuKanaria",
+      "amount": 1
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "YoidoreshirazuKanaria",
+      "card_name": "Wanda",
+      "card_id": "OP08-034"
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Reveal and Draw Carrot [OP08-023]"
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Placing Cards on Bottom of Deck"
+    },
+    {
+      "event_type": "end_turn",
+      "player": "YoidoreshirazuKanaria"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-119", "OP05-074", "OP09-069", "OP09-069", "ST18-001"],
+      "board": [],
+      "trash": [],
+      "life": 5
+    },
+    {
+      "event_type": "player_state",
+      "player": "YoidoreshirazuKanaria",
+      "hand": ["OP08-039", "OP04-031", "OP08-030", "OP08-022", "OP08-023"],
+      "trash": [],
+      "board": ["OP08-034"],
+      "life": 5
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Onami",
+      "card_id": "ST18-002"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Onami",
+      "card_id": "ST18-002"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "Mhcuber",
+      "amount": 2
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Mhcuber",
+      "card_name": "Trafalgar Law",
+      "card_id": "OP09-069"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "description": "Reveal and Draw Luffy-tarou [ST18-005]"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "description": "Placing Cards on Bottom of Deck"
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Mhcuber",
+      "card_name": "Trafalgar Law",
+      "card_id": "OP09-069"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "description": "Reveal and Draw Sangoro [ST18-003]"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "description": "Placing Cards on Bottom of Deck"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-119", "OP05-074", "ST18-001", "ST18-002", "ST18-005", "ST18-003"],
+      "board": ["OP09-069", "OP09-069"],
+      "trash": [],
+      "life": 5
+    },
+    {
+      "event_type": "player_state",
+      "player": "YoidoreshirazuKanaria",
+      "hand": ["OP08-039", "OP04-031", "OP08-030", "OP08-022", "OP08-023"],
+      "trash": [],
+      "board": ["OP08-034"],
+      "life": 5
+    },
+    {
+      "event_type": "end_turn",
+      "player": "Mhcuber"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "YoidoreshirazuKanaria",
+      "card_name": "Carrot",
+      "card_id": "EB02-013"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "YoidoreshirazuKanaria",
+      "amount": 2
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "YoidoreshirazuKanaria",
+      "card_name": "Carrot",
+      "card_id": "EB02-013"
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Picked no cards to Draw"
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Placing Cards on Bottom of Deck"
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Zou [OP08-039]: Rest Zou [OP08-039]"
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Zou [OP08-039]: Activate 1 Don"
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Carrot [OP08-021]: Rest Trafalgar Law [OP09-069]"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "YoidoreshirazuKanaria",
+      "attacker_name": "Wanda",
+      "attacker_id": "OP08-034",
+      "attacker_power": 2000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Trafalgar Law",
+      "defender_id": "OP09-069",
+      "defender_power": 2000,
+      "outcome": "destroyed",
+      "destroyed_card": {
+        "name": "Trafalgar Law",
+        "id": "OP09-069"
+      }
+    },
+    {
+      "event_type": "attach_don",
+      "player": "YoidoreshirazuKanaria",
+      "target_name": "Carrot",
+      "target_id": "OP08-021",
+      "amount": 3,
+      "total": 3
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "YoidoreshirazuKanaria",
+      "attacker_name": "Carrot",
+      "attacker_id": "OP08-021",
+      "attacker_power": 8000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 5000,
+      "outcome": "hit",
+      "damage": 1
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Zou [OP08-039]: Set Wanda [OP08-034] to Active"
+    },
+    {
+      "event_type": "end_turn",
+      "player": "YoidoreshirazuKanaria"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-119", "OP05-074", "ST18-001", "ST18-002", "ST18-005", "ST18-003", "OP09-065"],
+      "board": ["OP09-069"],
+      "trash": ["OP09-069"],
+      "life": 4
+    },
+    {
+      "event_type": "player_state",
+      "player": "YoidoreshirazuKanaria",
+      "hand": ["OP04-031", "OP08-030", "OP08-022", "OP08-023"],
+      "trash": [],
+      "board": ["OP08-034", "EB02-013"],
+      "life": 5
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Trafalgar Law",
+      "card_id": "ST10-010"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Trafalgar Law",
+      "card_id": "ST10-010"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "Mhcuber",
+      "amount": 2
+    },
+    {
+      "event_type": "life_loss",
+      "player": "Mhcuber",
+      "amount": 1
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "description": "Monkey D. Luffy [OP05-060]: Draw 1 Don"
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Mhcuber",
+      "card_name": "Eustass 'Captain' Kid",
+      "card_id": "OP05-074"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Monkey D. Luffy",
+      "attacker_id": "OP05-060",
+      "attacker_power": 5000,
+      "defender_player": "YoidoreshirazuKanaria",
+      "defender_name": "Carrot",
+      "defender_id": "OP08-021",
+      "defender_power": 5000,
+      "outcome": "hit",
+      "damage": 1
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-119", "ST18-001", "ST18-002", "ST18-005", "ST18-003", "OP09-065", "ST10-010", "OP09-069"],
+      "board": ["OP09-069", "OP05-074"],
+      "trash": ["OP09-069"],
+      "life": 3
+    },
+    {
+      "event_type": "player_state",
+      "player": "YoidoreshirazuKanaria",
+      "hand": ["OP04-031", "OP08-030", "OP08-022", "OP08-023", "OP08-023"],
+      "trash": [],
+      "board": ["OP08-034", "EB02-013"],
+      "life": 4
+    },
+    {
+      "event_type": "end_turn",
+      "player": "Mhcuber"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "YoidoreshirazuKanaria",
+      "card_name": "Nekomamushi",
+      "card_id": "OP08-028"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "YoidoreshirazuKanaria",
+      "amount": 2
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Carrot [OP08-021]: Rest Eustass 'Captain' Kid [OP05-074]"
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "YoidoreshirazuKanaria",
+      "card_name": "Carrot",
+      "card_id": "OP08-023"
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Carrot [OP08-023]: Eustass 'Captain' Kid [OP05-074] will not Activate during next Refresh"
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Zou [OP08-039]: Rest Zou [OP08-039]"
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Zou [OP08-039]: Activate 1 Don"
+    },
+    {
+      "event_type": "attach_don",
+      "player": "YoidoreshirazuKanaria",
+      "target_name": "Carrot",
+      "target_id": "OP08-021",
+      "amount": 1,
+      "total": 1
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "YoidoreshirazuKanaria",
+      "attacker_name": "Carrot",
+      "attacker_id": "OP08-021",
+      "attacker_power": 6000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 7000,
+      "counter_play": {
+        "player": "Mhcuber",
+        "card_name": "Usohachi",
+        "card_id": "ST18-001",
+        "counter_value": 2000
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "end_turn",
+      "player": "YoidoreshirazuKanaria"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-119", "ST18-002", "ST18-005", "ST18-003", "OP09-065", "ST10-010", "OP09-069"],
+      "board": ["OP09-069", "OP05-074"],
+      "trash": ["OP09-069", "ST18-001"],
+      "life": 3
+    },
+    {
+      "event_type": "player_state",
+      "player": "YoidoreshirazuKanaria",
+      "hand": ["OP04-031", "OP08-030", "OP08-022", "OP08-023", "OP08-028"],
+      "trash": [],
+      "board": ["OP08-034", "EB02-013", "OP08-023"],
+      "life": 4
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Sanji",
+      "card_id": "OP07-064"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Sanji",
+      "card_id": "OP07-064"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "Mhcuber",
+      "amount": 2
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Mhcuber",
+      "card_name": "Luffy-tarou",
+      "card_id": "ST18-005"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "description": "Eustass 'Captain' Kid [OP05-074]: Draw 1 Don"
+    },
+    {
+      "event_type": "attach_don",
+      "player": "Mhcuber",
+      "target_name": "Monkey D. Luffy",
+      "target_id": "OP05-060",
+      "amount": 1,
+      "total": 1
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Monkey D. Luffy",
+      "attacker_id": "OP05-060",
+      "attacker_power": 6000,
+      "defender_player": "YoidoreshirazuKanaria",
+      "defender_name": "Carrot",
+      "defender_id": "OP08-021",
+      "defender_power": 5000,
+      "outcome": "hit",
+      "damage": 1
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-119", "ST18-002", "OP09-065", "ST10-010", "OP09-069", "OP07-064"],
+      "board": ["OP09-069", "OP05-074", "ST18-005", "ST18-003"],
+      "trash": ["OP09-069", "ST18-001"],
+      "life": 3
+    },
+    {
+      "event_type": "player_state",
+      "player": "YoidoreshirazuKanaria",
+      "hand": ["OP04-031", "OP08-030", "OP08-022", "OP08-023", "OP08-028", "EB02-013"],
+      "trash": [],
+      "board": ["OP08-034", "EB02-013", "OP08-023"],
+      "life": 3
+    },
+    {
+      "event_type": "end_turn",
+      "player": "Mhcuber"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "YoidoreshirazuKanaria",
+      "card_name": "Pedro",
+      "card_id": "OP08-030"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "YoidoreshirazuKanaria",
+      "card_name": "Pedro",
+      "card_id": "OP08-030"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "YoidoreshirazuKanaria",
+      "amount": 2
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Carrot [OP08-021]: Rest Sangoro [ST18-003]"
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "YoidoreshirazuKanaria",
+      "card_name": "Carrot",
+      "card_id": "OP08-023"
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Carrot [OP08-023]: Sangoro [ST18-003] will not Activate during next Refresh"
+    },
+    {
+      "event_type": "attach_don",
+      "player": "YoidoreshirazuKanaria",
+      "target_name": "Carrot",
+      "target_id": "OP08-023",
+      "amount": 2,
+      "total": 2
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "YoidoreshirazuKanaria",
+      "attacker_name": "Carrot",
+      "attacker_id": "OP08-023",
+      "attacker_power": 8000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 5000,
+      "effect": {
+        "player": "YoidoreshirazuKanaria",
+        "description": "Carrot [OP08-023]: Eustass 'Captain' Kid [OP05-074] will not Activate during next Refresh"
+      },
+      "outcome": "hit",
+      "damage": 1
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "YoidoreshirazuKanaria",
+      "attacker_name": "Carrot",
+      "attacker_id": "OP08-021",
+      "attacker_power": 5000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 6000,
+      "counter_play": {
+        "player": "Mhcuber",
+        "card_name": "Trafalgar Law",
+        "card_id": "OP09-069",
+        "counter_value": 1000
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Zou [OP08-039]: Set Carrot [OP08-023] to Active"
+    },
+    {
+      "event_type": "end_turn",
+      "player": "YoidoreshirazuKanaria"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-119", "ST18-002", "OP09-065", "ST10-010", "OP07-064", "ST18-005"],
+      "board": ["OP09-069", "OP05-074", "ST18-005", "ST18-003"],
+      "trash": ["OP09-069", "ST18-001", "OP09-069"],
+      "life": 2
+    },
+    {
+      "event_type": "player_state",
+      "player": "YoidoreshirazuKanaria",
+      "hand": ["OP04-031", "OP08-030", "OP08-022", "OP08-028", "EB02-013", "OP08-030"],
+      "trash": [],
+      "board": ["OP08-034", "EB02-013", "OP08-023", "OP08-023"],
+      "life": 3
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Gamma Knife",
+      "card_id": "OP05-077"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Gamma Knife",
+      "card_id": "OP05-077"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "Mhcuber",
+      "amount": 2
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Luffy-tarou",
+      "attacker_id": "ST18-005",
+      "attacker_power": 8000,
+      "defender_player": "YoidoreshirazuKanaria",
+      "defender_name": "Carrot",
+      "defender_id": "OP08-021",
+      "defender_power": 5000,
+      "outcome": "hit",
+      "damage": 1
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Mhcuber",
+      "card_name": "Trafalgar Law",
+      "card_id": "ST10-010"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "description": "Trafalgar Law [ST10-010]: Randomly send Nekomamushi [OP08-028] to Trash from Hand"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "description": "Trafalgar Law [ST10-010]: Randomly send Inuarashi [OP08-022] to Trash from Hand"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "description": "Eustass 'Captain' Kid [OP05-074]: Draw 1 Don"
+    },
+    {
+      "event_type": "attach_don",
+      "player": "Mhcuber",
+      "target_name": "Trafalgar Law",
+      "target_id": "OP09-069",
+      "amount": 3,
+      "total": 3
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Trafalgar Law",
+      "attacker_id": "OP09-069",
+      "attacker_power": 5000,
+      "defender_player": "YoidoreshirazuKanaria",
+      "defender_name": "Carrot",
+      "defender_id": "OP08-021",
+      "defender_power": 6000,
+      "counter_play": {
+        "player": "YoidoreshirazuKanaria",
+        "card_name": "Pedro",
+        "card_id": "OP08-030",
+        "counter_value": 1000
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "attach_don",
+      "player": "Mhcuber",
+      "target_name": "Monkey D. Luffy",
+      "target_id": "OP05-060",
+      "amount": 3,
+      "total": 3
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Monkey D. Luffy",
+      "attacker_id": "OP05-060",
+      "attacker_power": 8000,
+      "defender_player": "YoidoreshirazuKanaria",
+      "defender_name": "Carrot",
+      "defender_id": "OP08-021",
+      "defender_power": 9000,
+      "counter_play": {
+        "player": "YoidoreshirazuKanaria",
+        "card_name": "Milky",
+        "card_id": "OP08-032",
+        "counter_value": 2000
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "counter_play",
+      "player": "YoidoreshirazuKanaria",
+      "card_name": "Carrot",
+      "card_id": "EB02-013",
+      "counter_value": 2000
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-119", "ST18-002", "OP09-065", "OP07-064", "ST18-005", "OP05-077"],
+      "board": ["OP09-069", "OP05-074", "ST18-005", "ST18-003", "ST10-010"],
+      "trash": ["OP09-069", "ST18-001", "OP09-069"],
+      "life": 2
+    },
+    {
+      "event_type": "player_state",
+      "player": "YoidoreshirazuKanaria",
+      "hand": ["OP04-031", "OP08-030"],
+      "trash": ["OP08-028", "OP08-022", "OP08-030", "OP08-032", "EB02-013"],
+      "board": ["OP08-034", "EB02-013", "OP08-023", "OP08-023"],
+      "life": 2
+    },
+    {
+      "event_type": "end_turn",
+      "player": "Mhcuber"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "YoidoreshirazuKanaria",
+      "card_name": "Zou",
+      "card_id": "OP08-039"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "YoidoreshirazuKanaria",
+      "card_name": "Zou",
+      "card_id": "OP08-039"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "YoidoreshirazuKanaria",
+      "amount": 2
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "YoidoreshirazuKanaria",
+      "card_name": "Pedro",
+      "card_id": "OP08-030"
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Zou [OP08-039]: Rest Zou [OP08-039]"
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Zou [OP08-039]: Activate 1 Don"
+    },
+    {
+      "event_type": "attach_don",
+      "player": "YoidoreshirazuKanaria",
+      "target_name": "Carrot",
+      "target_id": "OP08-023",
+      "amount": 3,
+      "total": 3
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "YoidoreshirazuKanaria",
+      "attacker_name": "Carrot",
+      "attacker_id": "OP08-023",
+      "attacker_power": 9000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 5000,
+      "effect": {
+        "player": "YoidoreshirazuKanaria",
+        "description": "Carrot [OP08-023]: Luffy-tarou [ST18-005] will not Activate during next Refresh"
+      },
+      "outcome": "hit",
+      "damage": 1
+    },
+    {
+      "event_type": "attach_don",
+      "player": "YoidoreshirazuKanaria",
+      "target_name": "Carrot",
+      "target_id": "OP08-023",
+      "amount": 3,
+      "total": 3
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "YoidoreshirazuKanaria",
+      "attacker_name": "Carrot",
+      "attacker_id": "OP08-023",
+      "attacker_power": 9000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Sangoro",
+      "defender_id": "ST18-003",
+      "defender_power": 5000,
+      "effect": {
+        "player": "YoidoreshirazuKanaria",
+        "description": "Carrot [OP08-023]: Eustass 'Captain' Kid [OP05-074] will not Activate during next Refresh"
+      },
+      "blocker": {
+        "player": "Mhcuber",
+        "card_name": "Trafalgar Law",
+        "card_id": "ST10-010"
+      },
+      "outcome": "destroyed",
+      "destroyed_card": {
+        "name": "Trafalgar Law",
+        "id": "ST10-010"
+      }
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Zou [OP08-039]: Set Carrot [OP08-023] to Active"
+    },
+    {
+      "event_type": "end_turn",
+      "player": "YoidoreshirazuKanaria"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-119", "ST18-002", "OP09-065", "OP07-064", "ST18-005", "OP05-077", "OP09-078"],
+      "board": ["OP09-069", "OP05-074", "ST18-005", "ST18-003"],
+      "trash": ["OP09-069", "ST18-001", "OP09-069", "ST10-010"],
+      "life": 1
+    },
+    {
+      "event_type": "player_state",
+      "player": "YoidoreshirazuKanaria",
+      "hand": ["OP04-031", "OP08-039"],
+      "trash": ["OP08-028", "OP08-022", "OP08-030", "OP08-032", "EB02-013"],
+      "board": ["OP08-034", "EB02-013", "OP08-023", "OP08-023", "OP08-030"],
+      "life": 2
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Zorojuro",
+      "card_id": "ST18-004"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Zorojuro",
+      "card_id": "ST18-004"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "Mhcuber",
+      "amount": 2
+    },
+    {
+      "event_type": "attach_don",
+      "player": "Mhcuber",
+      "target_name": "Sangoro",
+      "target_id": "ST18-003",
+      "amount": 1,
+      "total": 1
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Trafalgar Law",
+      "card_id": "OP09-069"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Sangoro",
+      "attacker_id": "ST18-003",
+      "attacker_power": 7000,
+      "defender_player": "YoidoreshirazuKanaria",
+      "defender_name": "Carrot",
+      "defender_id": "OP08-023",
+      "defender_power": 6000,
+      "effect": {
+        "player": "Mhcuber",
+        "description": "Sangoro [ST18-003]: Draw 1 Card"
+      },
+      "outcome": "destroyed",
+      "destroyed_card": {
+        "name": "Carrot",
+        "id": "OP08-023"
+      }
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Mhcuber",
+      "card_name": "Sanji",
+      "card_id": "OP09-065"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "description": "Sanji [OP09-065]: Give Sanji [OP09-065] Rush"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "description": "Sanji [OP09-065]: Rest Pedro [OP08-030]"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "description": "Eustass 'Captain' Kid [OP05-074]: Draw 1 Don"
+    },
+    {
+      "event_type": "attach_don",
+      "player": "Mhcuber",
+      "target_name": "Monkey D. Luffy",
+      "target_id": "OP05-060",
+      "amount": 2,
+      "total": 2
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Monkey D. Luffy",
+      "attacker_id": "OP05-060",
+      "attacker_power": 7000,
+      "defender_player": "YoidoreshirazuKanaria",
+      "defender_name": "Carrot",
+      "defender_id": "OP08-021",
+      "defender_power": 5000,
+      "outcome": "hit",
+      "damage": 1
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-119", "ST18-002", "OP07-064", "ST18-005", "OP05-077", "OP09-078", "ST18-004", "OP09-069"],
+      "board": ["OP09-069", "OP05-074", "ST18-005", "ST18-003", "OP09-065"],
+      "trash": ["OP09-069", "ST18-001", "OP09-069", "ST10-010"],
+      "life": 1
+    },
+    {
+      "event_type": "player_state",
+      "player": "YoidoreshirazuKanaria",
+      "hand": ["OP04-031", "OP08-039", "OP04-031"],
+      "trash": ["OP08-028", "OP08-022", "OP08-030", "OP08-032", "EB02-013", "OP08-023"],
+      "board": ["OP08-034", "EB02-013", "OP08-023", "OP08-030"],
+      "life": 1
+    },
+    {
+      "event_type": "end_turn",
+      "player": "Mhcuber"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "YoidoreshirazuKanaria",
+      "card_name": "Wanda",
+      "card_id": "OP08-034"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "YoidoreshirazuKanaria",
+      "card_name": "Wanda",
+      "card_id": "OP08-034"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "YoidoreshirazuKanaria",
+      "amount": 2
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "YoidoreshirazuKanaria",
+      "card_name": "Wanda",
+      "card_id": "OP08-034"
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Reveal and Draw Shishilian [OP02-032]"
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Placing Cards on Bottom of Deck"
+    },
+    {
+      "event_type": "attach_don",
+      "player": "YoidoreshirazuKanaria",
+      "target_name": "Carrot",
+      "target_id": "OP08-023",
+      "amount": 5,
+      "total": 5
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "YoidoreshirazuKanaria",
+      "attacker_name": "Carrot",
+      "attacker_id": "OP08-023",
+      "attacker_power": 11000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 5000,
+      "effect": {
+        "player": "YoidoreshirazuKanaria",
+        "description": "Carrot [OP08-023]: Sangoro [ST18-003] will not Activate during next Refresh"
+      },
+      "outcome": "hit",
+      "damage": 1
+    },
+    {
+      "event_type": "trash_card",
+      "player": "YoidoreshirazuKanaria",
+      "card_name": "Carrot",
+      "card_id": "EB02-013"
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "YoidoreshirazuKanaria",
+      "card_name": "Shishilian",
+      "card_id": "OP02-032"
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Shishilian [OP02-032]: Set Carrot [OP08-023] to Active"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "YoidoreshirazuKanaria",
+      "attacker_name": "Carrot",
+      "attacker_id": "OP08-023",
+      "attacker_power": 11000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 5000,
+      "effect": {
+        "player": "YoidoreshirazuKanaria",
+        "description": "Carrot [OP08-023]: Eustass 'Captain' Kid [OP05-074] will not Activate during next Refresh"
+      },
+      "counter_play": {
+        "player": "Mhcuber",
+        "card_name": "Gum Gum Giant",
+        "card_id": "OP09-078",
+        "counter_value": 4000
+      },
+      "trash_card": {
+        "player": "Mhcuber",
+        "card_name": "Zorojuro",
+        "card_id": "ST18-004"
+      },
+      "draw_card": {
+        "player": "Mhcuber",
+        "card_name": "Sangoro",
+        "card_id": "ST18-003"
+      },
+      "draw_card": {
+        "player": "Mhcuber",
+        "card_name": "Gum Gum Giant",
+        "card_id": "OP09-078"
+      },
+      "effect_buff": {
+        "player": "Mhcuber",
+        "card_name": "Monkey D. Luffy",
+        "card_id": "OP05-060",
+        "power": 4000
+      },
+      "effect_draw": {
+        "player": "Mhcuber",
+        "amount": 2
+      },
+      "discard_counter": {
+        "player": "Mhcuber",
+        "card_name": "Sanji",
+        "card_id": "OP07-064",
+        "counter_value": 2000
+      },
+      "discard_counter": {
+        "player": "Mhcuber",
+        "card_name": "Sangoro",
+        "card_id": "ST18-003",
+        "counter_value": 1000
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "YoidoreshirazuKanaria",
+      "attacker_name": "Pedro",
+      "attacker_id": "OP08-030",
+      "attacker_power": 5000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 6000,
+      "counter_play": {
+        "player": "Mhcuber",
+        "card_name": "Trafalgar Law",
+        "card_id": "OP09-069",
+        "counter_value": 1000
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "YoidoreshirazuKanaria",
+      "attacker_name": "Carrot",
+      "attacker_id": "OP08-021",
+      "attacker_power": 5000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 6000,
+      "counter_play": {
+        "player": "Mhcuber",
+        "card_name": "Onami",
+        "card_id": "ST18-002",
+        "counter_value": 1000
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Carrot [OP08-021]: Rest Trafalgar Law [OP09-069]"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "YoidoreshirazuKanaria",
+      "attacker_name": "Wanda",
+      "attacker_id": "OP08-034",
+      "attacker_power": 2000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Trafalgar Law",
+      "defender_id": "OP09-069",
+      "defender_power": 2000,
+      "outcome": "destroyed",
+      "destroyed_card": {
+        "name": "Trafalgar Law",
+        "id": "OP09-069"
+      }
+    },
+    {
+      "event_type": "effect",
+      "player": "YoidoreshirazuKanaria",
+      "description": "Zou [OP08-039]: Set Pedro [OP08-030] to Active"
+    },
+    {
+      "event_type": "end_turn",
+      "player": "YoidoreshirazuKanaria"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-119", "OP07-064", "ST18-005", "OP05-077", "OP09-078"],
+      "board": ["OP05-074", "ST18-005", "ST18-003", "OP09-065"],
+      "trash": ["OP09-069", "ST18-001", "OP09-069", "ST10-010", "OP09-078", "ST18-004", "OP07-064", "ST18-003", "OP09-069", "ST18-002", "OP09-069"],
+      "life": 0
+    },
+    {
+      "event_type": "player_state",
+      "player": "YoidoreshirazuKanaria",
+      "hand": ["OP04-031", "OP08-039", "OP04-031"],
+      "trash": ["OP08-028", "OP08-022", "OP08-030", "OP08-032", "EB02-013", "OP08-023", "EB02-013"],
+      "board": ["OP08-034", "OP08-023", "OP08-030", "OP08-034", "OP02-032"],
+      "life": 1
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Monkey D. Luffy",
+      "card_id": "OP09-119"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Monkey D. Luffy",
+      "card_id": "OP09-119"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "Mhcuber",
+      "amount": 2
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Luffy-tarou",
+      "attacker_id": "ST18-005",
+      "attacker_power": 8000,
+      "defender_player": "YoidoreshirazuKanaria",
+      "defender_name": "Carrot",
+      "defender_id": "OP08-021",
+      "defender_power": 5000,
+      "outcome": "hit",
+      "damage": 1
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Mhcuber",
+      "card_name": "Monkey D. Luffy",
+      "card_id": "OP09-119"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Gum Gum Giant",
+      "card_id": "OP09-078"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "description": "Monkey D. Luffy [OP09-119]: Draw 1 Card"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "description": "Monkey D. Luffy [OP09-119]: Give Monkey D. Luffy [OP09-119] Rush"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "description": "Eustass 'Captain' Kid [OP05-074]: Draw 1 Don"
+    },
+    {
+      "event_type": "concede",
+      "player": "YoidoreshirazuKanaria"
+    }
+  ],
+  "winner": "Mhcuber"
+}

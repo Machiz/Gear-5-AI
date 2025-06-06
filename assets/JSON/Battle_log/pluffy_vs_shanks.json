@@ -1,0 +1,1088 @@
+{
+  "room_id": "WNMF8BB",
+  "players": [
+    {
+      "name": "Mhcuber",
+      "leader": {
+        "name": "Monkey D. Luffy",
+        "card_id": "OP05-060"
+      },
+      "version": "1.29b"
+    },
+    {
+      "name": "cake",
+      "leader": {
+        "name": "Shanks",
+        "card_id": "OP09-001"
+      },
+      "version": "1.29b"
+    }
+  ],
+  "game_log": [
+    {
+      "event_type": "connection",
+      "player": "Mhcuber"
+    },
+    {
+      "event_type": "leader_reveal",
+      "player": "Mhcuber",
+      "leader_name": "Monkey D. Luffy",
+      "leader_id": "OP05-060"
+    },
+    {
+      "event_type": "connection",
+      "player": "cake"
+    },
+    {
+      "event_type": "leader_reveal",
+      "player": "cake",
+      "leader_name": "Shanks",
+      "leader_id": "OP09-001"
+    },
+    {
+      "event_type": "turn_order_selection",
+      "player": "cake",
+      "goes_first": true
+    },
+    {
+      "event_type": "draw_card",
+      "player": "cake",
+      "card_name": "Tony Tony Chopper",
+      "card_id": "OP10-011"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "cake",
+      "card_name": "Monkey D. Luffy",
+      "card_id": "ST21-014"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "cake",
+      "card_name": "Benn Beckman",
+      "card_id": "OP09-009"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "cake",
+      "card_name": "Sanji",
+      "card_id": "OP10-005"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "cake",
+      "card_name": "Tony Tony Chopper",
+      "card_id": "OP10-011"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Sangoro",
+      "card_id": "ST18-003"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Gum Gum Giant",
+      "card_id": "OP09-078"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Gamma Knife",
+      "card_id": "OP05-077"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Luffy-tarou",
+      "card_id": "ST18-005"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Sangoro",
+      "card_id": "ST18-003"
+    },
+    {
+      "event_type": "mulligan",
+      "player": "Mhcuber",
+      "hand_before_mulligan": ["ST18-003", "OP09-078", "OP05-077", "ST18-005", "ST18-003"],
+      "drew_cards": [
+        {"card_name": "Sanji", "card_id": "OP09-065"},
+        {"card_name": "Gum Gum Giant", "card_id": "OP09-078"},
+        {"card_name": "Trafalgar Law", "card_id": "OP09-069"},
+        {"card_name": "Sanji", "card_id": "OP09-065"},
+        {"card_name": "Eustass 'Captain' Kid", "card_id": "OP05-074"}
+      ],
+      "hand_after_mulligan": ["OP09-065", "OP09-078", "OP09-069", "OP09-065", "OP05-074"]
+    },
+    {
+      "event_type": "draw_don",
+      "player": "cake",
+      "amount": 1
+    },
+    {
+      "event_type": "end_turn",
+      "player": "cake"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-065", "OP09-078", "OP09-069", "OP09-065", "OP05-074"],
+      "board": [],
+      "trash": [],
+      "life": 5
+    },
+    {
+      "event_type": "player_state",
+      "player": "cake",
+      "hand": ["OP10-011", "ST21-014", "OP09-009", "OP10-005", "OP10-011"],
+      "trash": [],
+      "board": [],
+      "life": 5
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Gum Gum Giant",
+      "card_id": "OP09-078"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "Mhcuber",
+      "amount": 2
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Mhcuber",
+      "card_name": "Trafalgar Law",
+      "card_id": "OP09-069"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "effect_description": "Reveal and Draw Sangoro [ST18-003]"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "effect_description": "Placing Cards on Bottom of Deck"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-065", "OP09-078", "OP09-065", "OP05-074", "OP09-078", "ST18-003"],
+      "board": ["OP09-069"],
+      "trash": [],
+      "life": 5
+    },
+    {
+      "event_type": "player_state",
+      "player": "cake",
+      "hand": ["OP10-011", "ST21-014", "OP09-009", "OP10-005", "OP10-011"],
+      "trash": [],
+      "board": [],
+      "life": 5
+    },
+    {
+      "event_type": "end_turn",
+      "player": "Mhcuber"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "cake",
+      "card_name": "Hongo",
+      "card_id": "OP09-011"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "cake",
+      "amount": 2
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "cake",
+      "card_name": "Sanji",
+      "card_id": "OP10-005"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "cake",
+      "attacker_name": "Shanks",
+      "attacker_id": "OP09-001",
+      "attacker_power": 5000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 6000,
+      "counter_play": {
+        "player": "Mhcuber",
+        "card_name": "Sanji",
+        "card_id": "OP09-065",
+        "counter_value": 1000
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "end_turn",
+      "player": "cake"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-065", "OP09-078", "OP05-074", "OP09-078", "ST18-003"],
+      "board": ["OP09-069"],
+      "trash": ["OP09-065"],
+      "life": 5
+    },
+    {
+      "event_type": "player_state",
+      "player": "cake",
+      "hand": ["OP10-011", "ST21-014", "OP09-009", "OP10-011", "OP09-011"],
+      "trash": [],
+      "board": ["OP10-005"],
+      "life": 5
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Gum Gum Giant",
+      "card_id": "OP09-078"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "Mhcuber",
+      "amount": 2
+    },
+    {
+      "event_type": "life_loss",
+      "player": "Mhcuber",
+      "amount": 1
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "effect_description": "Monkey D. Luffy [OP05-060]: Draw 1 Don"
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Mhcuber",
+      "card_name": "Eustass 'Captain' Kid",
+      "card_id": "OP05-074"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-065", "OP09-078", "OP09-078", "ST18-003", "OP09-078", "ST18-001"],
+      "board": ["OP09-069", "OP05-074"],
+      "trash": ["OP09-065"],
+      "life": 4
+    },
+    {
+      "event_type": "player_state",
+      "player": "cake",
+      "hand": ["OP10-011", "ST21-014", "OP09-009", "OP10-011", "OP09-011"],
+      "trash": [],
+      "board": ["OP10-005"],
+      "life": 5
+    },
+    {
+      "event_type": "end_turn",
+      "player": "Mhcuber"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "cake",
+      "card_name": "Silvers Rayleigh",
+      "card_id": "OP08-118"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "cake",
+      "amount": 2
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "cake",
+      "card_name": "Monkey D. Luffy",
+      "card_id": "ST21-014"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "cake",
+      "attacker_name": "Monkey D. Luffy",
+      "attacker_id": "ST21-014",
+      "attacker_power": 6000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 5000,
+      "effect": {
+        "player": "cake",
+        "description": "Monkey D. Luffy [ST21-014]: Attach 1 Rested Don to Shanks [OP09-001]"
+      },
+      "outcome": "hit",
+      "damage": 1
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "cake",
+      "attacker_name": "Sanji",
+      "attacker_id": "OP10-005",
+      "attacker_power": 6000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 7000,
+      "counter_play": {
+        "player": "Mhcuber",
+        "card_name": "Usohachi",
+        "card_id": "ST18-001",
+        "counter_value": 2000
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "cake",
+      "attacker_name": "Shanks",
+      "attacker_id": "OP09-001",
+      "attacker_power": 6000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 7000,
+      "blocker": {
+        "player": "Mhcuber",
+        "card_name": "Eustass 'Captain' Kid",
+        "card_id": "OP05-074"
+      },
+      "counter_play": {
+        "player": "Mhcuber",
+        "card_name": "Sangoro",
+        "card_id": "ST18-003",
+        "counter_value": 1000
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "end_turn",
+      "player": "cake"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-065", "OP09-078", "OP09-078", "OP09-078", "ST18-004"],
+      "board": ["OP09-069", "OP05-074"],
+      "trash": ["OP09-065", "ST18-001", "ST18-003"],
+      "life": 3
+    },
+    {
+      "event_type": "player_state",
+      "player": "cake",
+      "hand": ["OP10-011", "OP09-009", "OP10-011", "OP09-011", "OP08-118"],
+      "trash": [],
+      "board": ["OP10-005", "ST21-014"],
+      "life": 5
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Usohachi",
+      "card_id": "ST18-001"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "Mhcuber",
+      "amount": 2
+    },
+    {
+      "event_type": "life_loss",
+      "player": "Mhcuber",
+      "amount": 1
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "effect_description": "Monkey D. Luffy [OP05-060]: Draw 1 Don"
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Mhcuber",
+      "card_name": "Sanji",
+      "card_id": "OP09-065"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "effect_description": "Sanji [OP09-065]: Give Sanji [OP09-065] Rush"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "effect_description": "Eustass 'Captain' Kid [OP05-074]: Draw 1 Don"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "effect_description": "Gamma Knife [OP05-077]: Give Monkey D. Luffy [ST21-014] -5000"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Trafalgar Law",
+      "attacker_id": "OP09-069",
+      "attacker_power": 2000,
+      "defender_player": "cake",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "ST21-014",
+      "defender_power": 3000,
+      "counter_play": {
+        "player": "cake",
+        "card_name": "Hongo",
+        "card_id": "OP09-011",
+        "counter_value": 2000
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Monkey D. Luffy",
+      "attacker_id": "OP05-060",
+      "attacker_power": 5000,
+      "defender_player": "cake",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "ST21-014",
+      "defender_power": 1000,
+      "outcome": "destroyed",
+      "destroyed_card": {
+        "name": "Monkey D. Luffy",
+        "id": "ST21-014"
+      }
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Sanji",
+      "attacker_id": "OP09-065",
+      "attacker_power": 7000,
+      "defender_player": "cake",
+      "defender_name": "Shanks",
+      "defender_id": "OP09-001",
+      "defender_power": 5000,
+      "outcome": "hit",
+      "damage": 1
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-078", "OP09-078", "OP09-078", "ST18-004", "ST18-001"],
+      "board": ["OP09-069", "OP05-074", "OP09-065"],
+      "trash": ["OP09-065", "ST18-001", "ST18-003", "OP05-077"],
+      "life": 2
+    },
+    {
+      "event_type": "player_state",
+      "player": "cake",
+      "hand": ["OP10-011", "OP09-009", "OP10-011", "OP08-118", "OP09-009"],
+      "trash": ["OP09-011", "ST21-014"],
+      "board": ["OP10-005"],
+      "life": 4
+    },
+    {
+      "event_type": "end_turn",
+      "player": "Mhcuber"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "cake",
+      "card_name": "Sanji",
+      "card_id": "OP10-005"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "cake",
+      "amount": 2
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "cake",
+      "card_name": "Benn Beckman",
+      "card_id": "OP09-009"
+    },
+    {
+      "event_type": "effect",
+      "player": "cake",
+      "effect_description": "Benn Beckman [OP09-009]: Trash Eustass 'Captain' Kid [OP05-074]"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "cake",
+      "attacker_name": "Sanji",
+      "attacker_id": "OP10-005",
+      "attacker_power": 6000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 7000,
+      "counter_play": {
+        "player": "Mhcuber",
+        "card_name": "Usohachi",
+        "card_id": "ST18-001",
+        "counter_value": 2000
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "cake",
+      "attacker_name": "Shanks",
+      "attacker_id": "OP09-001",
+      "attacker_power": 5000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 5000,
+      "outcome": "hit",
+      "damage": 1
+    },
+    {
+      "event_type": "end_turn",
+      "player": "cake"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-078", "OP09-078", "OP09-078", "ST18-004", "ST18-001"],
+      "board": ["OP09-069", "OP09-065"],
+      "trash": ["OP09-065", "ST18-001", "ST18-003", "OP05-077", "OP05-074", "ST18-001"],
+      "life": 1
+    },
+    {
+      "event_type": "player_state",
+      "player": "cake",
+      "hand": ["OP10-011", "OP09-009", "OP10-011", "OP08-118", "OP10-005"],
+      "trash": ["OP09-011", "ST21-014"],
+      "board": ["OP10-005", "OP09-009"],
+      "life": 4
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Eustass 'Captain' Kid",
+      "card_id": "OP05-074"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "Mhcuber",
+      "amount": 2
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Mhcuber",
+      "card_name": "Eustass 'Captain' Kid",
+      "card_id": "OP05-074"
+    },
+    {
+      "event_type": "attach_don",
+      "player": "Mhcuber",
+      "target_name": "Monkey D. Luffy",
+      "target_id": "OP05-060",
+      "amount": 2,
+      "total": 2
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Monkey D. Luffy",
+      "attacker_id": "OP05-060",
+      "attacker_power": 6000,
+      "defender_player": "cake",
+      "defender_name": "Shanks",
+      "defender_id": "OP09-001",
+      "defender_power": 7000,
+      "effect": {
+        "player": "cake",
+        "description": "Shanks [OP09-001]: Buff Monkey D. Luffy [OP05-060] -1000"
+      },
+      "counter_play": {
+        "player": "cake",
+        "card_name": "Tony Tony Chopper",
+        "card_id": "OP10-011",
+        "counter_value": 2000
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Sanji",
+      "attacker_id": "OP09-065",
+      "attacker_power": 7000,
+      "defender_player": "cake",
+      "defender_name": "Shanks",
+      "defender_id": "OP09-001",
+      "defender_power": 5000,
+      "outcome": "hit",
+      "damage": 1
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-078", "OP09-078", "OP09-078", "ST18-004", "ST18-001"],
+      "board": ["OP09-069", "OP09-065", "OP05-074"],
+      "trash": ["OP09-065", "ST18-001", "ST18-003", "OP05-077", "OP05-074", "ST18-001"],
+      "life": 1
+    },
+    {
+      "event_type": "player_state",
+      "player": "cake",
+      "hand": ["OP10-011", "OP09-009", "OP08-118", "OP10-005", "OP09-004"],
+      "trash": ["OP09-011", "ST21-014", "OP10-011"],
+      "board": ["OP10-005", "OP09-009"],
+      "life": 3
+    },
+    {
+      "event_type": "end_turn",
+      "player": "Mhcuber"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "cake",
+      "card_name": "Lucky Roux",
+      "card_id": "OP09-015"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "cake",
+      "amount": 2
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "cake",
+      "card_name": "Benn Beckman",
+      "card_id": "OP09-009"
+    },
+    {
+      "event_type": "effect",
+      "player": "cake",
+      "effect_description": "Benn Beckman [OP09-009]: Trash Eustass 'Captain' Kid [OP05-074]"
+    },
+    {
+      "event_type": "attach_don",
+      "player": "cake",
+      "target_name": "Shanks",
+      "target_id": "OP09-001",
+      "amount": 2,
+      "total": 2
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "cake",
+      "attacker_name": "Shanks",
+      "attacker_id": "OP09-001",
+      "attacker_power": 7000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 9000,
+      "effect": {
+        "player": "Mhcuber",
+        "description": "Gum Gum Giant [OP09-078]: Trash Zorojuro [ST18-004]"
+      },
+      "effect": {
+        "player": "Mhcuber",
+        "description": "Gum Gum Giant [OP09-078]: Buff Monkey D. Luffy [OP05-060] 4000 for the Combat"
+      },
+      "draw_card": {
+        "player": "Mhcuber",
+        "card_name": "Hitokiri Kamazo",
+        "card_id": "OP06-076"
+      },
+      "draw_card": {
+        "player": "Mhcuber",
+        "card_name": "Sangoro",
+        "card_id": "ST18-003"
+      },
+      "effect": {
+        "player": "Mhcuber",
+        "description": "Gum Gum Giant [OP09-078]: Draw 2 Card"
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "cake",
+      "attacker_name": "Sanji",
+      "attacker_id": "OP10-005",
+      "attacker_power": 6000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 7000,
+      "counter_play": {
+        "player": "Mhcuber",
+        "card_name": "Hitokiri Kamazo",
+        "card_id": "OP06-076",
+        "counter_value": 2000
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "cake",
+      "attacker_name": "Benn Beckman",
+      "attacker_id": "OP09-009",
+      "attacker_power": 7000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 8000,
+      "counter_play": [
+        {
+          "player": "Mhcuber",
+          "card_name": "Usohachi",
+          "card_id": "ST18-001",
+          "counter_value": 2000
+        },
+        {
+          "player": "Mhcuber",
+          "card_name": "Sangoro",
+          "card_id": "ST18-003",
+          "counter_value": 1000
+        }
+      ],
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "end_turn",
+      "player": "cake"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-078", "OP09-078"],
+      "board": ["OP09-069", "OP09-065"],
+      "trash": ["OP09-065", "ST18-001", "ST18-003", "OP05-077", "OP05-074", "ST18-001", "OP05-074", "OP09-078", "ST18-004", "OP06-076", "ST18-001", "ST18-003"],
+      "life": 1
+    },
+    {
+      "event_type": "player_state",
+      "player": "cake",
+      "hand": ["OP10-011", "OP08-118", "OP10-005", "OP09-004", "OP09-015"],
+      "trash": ["OP09-011", "ST21-014", "OP10-011"],
+      "board": ["OP10-005", "OP09-009", "OP09-009"],
+      "life": 3
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Trafalgar Law",
+      "card_id": "OP09-069"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "Mhcuber",
+      "amount": 2
+    },
+    {
+      "event_type": "attach_don",
+      "player": "Mhcuber",
+      "target_name": "Sanji",
+      "target_id": "OP09-065",
+      "amount": 4,
+      "total": 4
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Sanji",
+      "attacker_id": "OP09-065",
+      "attacker_power": 11000,
+      "defender_player": "cake",
+      "defender_name": "Benn Beckman",
+      "defender_id": "OP09-009",
+      "defender_power": 7000,
+      "outcome": "destroyed",
+      "destroyed_card": {
+        "name": "Benn Beckman",
+        "id": "OP09-009"
+      }
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Mhcuber",
+      "card_name": "Trafalgar Law",
+      "card_id": "OP09-069"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "effect_description": "Reveal and Draw Sanji [OP07-064]"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "effect_description": "Placing Cards on Bottom of Deck"
+    },
+    {
+      "event_type": "attach_don",
+      "player": "Mhcuber",
+      "target_name": "Monkey D. Luffy",
+      "target_id": "OP05-060",
+      "amount": 2,
+      "total": 2
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Monkey D. Luffy",
+      "attacker_id": "OP05-060",
+      "attacker_power": 7000,
+      "defender_player": "cake",
+      "defender_name": "Sanji",
+      "defender_id": "OP10-005",
+      "defender_power": 3000,
+      "outcome": "destroyed",
+      "destroyed_card": {
+        "name": "Sanji",
+        "id": "OP10-005"
+      }
+    },
+    {
+      "event_type": "draw_card",
+      "player": "cake",
+      "card_name": "Lucky Roux",
+      "card_id": "OP09-015"
+    },
+    {
+      "event_type": "effect",
+      "player": "cake",
+      "effect_description": "Sanji [OP10-005]: Draw 1 Card"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["OP09-078", "OP09-078", "OP07-064"],
+      "board": ["OP09-069", "OP09-065", "OP09-069"],
+      "trash": ["OP09-065", "ST18-001", "ST18-003", "OP05-077", "OP05-074", "ST18-001", "OP05-074", "OP09-078", "ST18-004", "OP06-076", "ST18-001", "ST18-003"],
+      "life": 1
+    },
+    {
+      "event_type": "player_state",
+      "player": "cake",
+      "hand": ["OP10-011", "OP08-118", "OP10-005", "OP09-004", "OP09-015", "OP09-015"],
+      "trash": ["OP09-011", "ST21-014", "OP10-011", "OP09-009", "OP10-005"],
+      "board": ["OP09-009"],
+      "life": 3
+    },
+    {
+      "event_type": "end_turn",
+      "player": "Mhcuber"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "cake",
+      "card_name": "Hongo",
+      "card_id": "OP09-011"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "cake",
+      "amount": 2
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "cake",
+      "card_name": "Shanks",
+      "card_id": "OP09-004"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "cake",
+      "attacker_name": "Shanks",
+      "attacker_id": "OP09-001",
+      "attacker_power": 5000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 7000,
+      "counter_play": {
+        "player": "Mhcuber",
+        "card_name": "Sanji",
+        "card_id": "OP07-064",
+        "counter_value": 2000
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "cake",
+      "attacker_name": "Benn Beckman",
+      "attacker_id": "OP09-009",
+      "attacker_power": 7000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 9000,
+      "effect": {
+        "player": "Mhcuber",
+        "description": "Gum Gum Giant [OP09-078]: Trash Gum Gum Giant [OP09-078]"
+      },
+      "effect": {
+        "player": "Mhcuber",
+        "description": "Gum Gum Giant [OP09-078]: Buff Monkey D. Luffy [OP05-060] 4000 for the Combat"
+      },
+      "draw_card": {
+        "player": "Mhcuber",
+        "card_name": "Onami",
+        "card_id": "ST18-002"
+      },
+      "draw_card": {
+        "player": "Mhcuber",
+        "card_name": "Sanji",
+        "card_id": "OP07-064"
+      },
+      "effect": {
+        "player": "Mhcuber",
+        "description": "Gum Gum Giant [OP09-078]: Draw 2 Card"
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "cake",
+      "attacker_name": "Shanks",
+      "attacker_id": "OP09-004",
+      "attacker_power": 12000,
+      "defender_player": "Mhcuber",
+      "defender_name": "Monkey D. Luffy",
+      "defender_id": "OP05-060",
+      "defender_power": 5000,
+      "outcome": "hit",
+      "damage": 1
+    },
+    {
+      "event_type": "end_turn",
+      "player": "cake"
+    },
+    {
+      "event_type": "player_state",
+      "player": "Mhcuber",
+      "hand": ["ST18-002", "OP07-064", "OP09-119"],
+      "board": ["OP09-069", "OP09-065", "OP09-069"],
+      "trash": ["OP09-065", "ST18-001", "ST18-003", "OP05-077", "OP05-074", "ST18-001", "OP05-074", "OP09-078", "ST18-004", "OP06-076", "ST18-001", "ST18-003", "OP07-064", "OP09-078", "OP09-078"],
+      "life": 0
+    },
+    {
+      "event_type": "player_state",
+      "player": "cake",
+      "hand": ["OP10-011", "OP08-118", "OP10-005", "OP09-015", "OP09-015", "OP09-011"],
+      "trash": ["OP09-011", "ST21-014", "OP10-011", "OP09-009", "OP10-005"],
+      "board": ["OP09-009", "OP09-004"],
+      "life": 3
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Onami",
+      "card_id": "ST18-002"
+    },
+    {
+      "event_type": "draw_don",
+      "player": "Mhcuber",
+      "amount": 2
+    },
+    {
+      "event_type": "deploy_card",
+      "player": "Mhcuber",
+      "card_name": "Onami",
+      "card_id": "ST18-002"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "effect_description": "Onami [ST18-002]: Trash Monkey D. Luffy [OP09-119]"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Hitokiri Kamazo",
+      "card_id": "OP06-076"
+    },
+    {
+      "event_type": "draw_card",
+      "player": "Mhcuber",
+      "card_name": "Eustass 'Captain' Kid",
+      "card_id": "OP05-074"
+    },
+    {
+      "event_type": "effect",
+      "player": "Mhcuber",
+      "effect_description": "Onami [ST18-002]: Draw 2 Card"
+    },
+    {
+      "event_type": "attach_don",
+      "player": "Mhcuber",
+      "target_name": "Sanji",
+      "target_id": "OP09-065",
+      "amount": 3,
+      "total": 3
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Sanji",
+      "attacker_id": "OP09-065",
+      "attacker_power": 8000,
+      "defender_player": "cake",
+      "defender_name": "Benn Beckman",
+      "defender_id": "OP09-009",
+      "defender_power": 9000,
+      "effect": {
+        "player": "cake",
+        "description": "Shanks [OP09-001]: Buff Sanji [OP09-065] -1000"
+      },
+      "counter_play": {
+        "player": "cake",
+        "card_name": "Hongo",
+        "card_id": "OP09-011",
+        "counter_value": 2000
+      },
+      "outcome": "attack_fails"
+    },
+    {
+      "event_type": "attach_don",
+      "player": "Mhcuber",
+      "target_name": "Monkey D. Luffy",
+      "target_id": "OP05-060",
+      "amount": 2,
+      "total": 2
+    },
+    {
+      "event_type": "attack",
+      "attacker_player": "Mhcuber",
+      "attacker_name": "Monkey D. Luffy",
+      "attacker_id": "OP05-060",
+      "attacker_power": 5000,
+      "defender_player": "cake",
+      "defender_name": "Shanks",
+      "defender_id": "OP09-001",
+      "defender_power": 7000,
+      "counter_play": {
+        "player": "cake",
+        "card_name": "Tony Tony Chopper",
+        "card_id": "OP10-011",
+        "counter_value": 2000
+      },
+      "outcome": "concede"
+    },
+    {
+      "event_type": "concede",
+      "player": "Mhcuber",
+      "outcome": "loses"
+    }
+  ]
+}

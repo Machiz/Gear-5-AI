@@ -1,0 +1,1316 @@
+{
+  "log_001": {
+    "player": "Moroff",
+    "action": "Leader is Donquixote Doflamingo",
+    "card": "OP01-060"
+  },
+  "log_002": {
+    "player": "KappaMuXi",
+    "action": "Leader is Vegapunk",
+    "card": "OP07-097"
+  },
+  "log_003": {
+    "player": "KappaMuXi",
+    "action": "Chose to go Second"
+  },
+  "log_004": {
+    "player": "KappaMuXi",
+    "action": "Drew card from deck",
+    "card": "EB02-056"
+  },
+  "log_005": {
+    "player": "KappaMuXi",
+    "action": "Drew card from deck",
+    "card": "OP07-109"
+  },
+  "log_006": {
+    "player": "KappaMuXi",
+    "action": "Drew card from deck",
+    "card": "OP07-114"
+  },
+  "log_007": {
+    "player": "KappaMuXi",
+    "action": "Drew card from deck",
+    "card": "OP07-105"
+  },
+  "log_008": {
+    "player": "KappaMuXi",
+    "action": "Drew card from deck",
+    "card": "OP07-105"
+  },
+  "log_009": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "EB01-023"
+  },
+  "log_010": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "EB01-023"
+  },
+  "log_011": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-005"
+  },
+  "log_012": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST03-005"
+  },
+  "log_013": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP01-077"
+  },
+  "log_014": {
+    "player": "Moroff",
+    "action": "Hand before Mulligan",
+    "cards": ["EB01-023", "EB01-023", "ST17-005", "ST03-005", "OP01-077"]
+  },
+  "log_015": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["EB01-023", "EB01-023", "ST17-005", "ST03-005", "OP01-077"]
+  },
+  "log_016": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log_017": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_018": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log_019": {
+    "player": "KappaMuXi",
+    "action": "Hand",
+    "cards": ["EB02-056", "OP07-109", "OP07-114", "OP07-105", "OP07-105"]
+  },
+  "log_020": {
+    "player": "KappaMuXi",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_021": {
+    "player": "KappaMuXi",
+    "action": "Board",
+    "cards": []
+  },
+  "log_022": {
+    "player": "KappaMuXi",
+    "action": "Life",
+    "value": 2
+  },
+  "log_023": {
+    "player": "Moroff",
+    "action": "Draw 1 Don"
+  },
+  "log_024": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "OP01-077"
+  },
+  "log_025": {
+    "player": "Moroff",
+    "action": "Placing Cards on Top of Deck"
+  },
+  "log_026": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["EB01-023", "EB01-023", "ST17-005", "ST03-005"]
+  },
+  "log_027": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["OP01-077"]
+  },
+  "log_028": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_029": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log_030": {
+    "player": "KappaMuXi",
+    "action": "Hand",
+    "cards": ["EB02-056", "OP07-109", "OP07-114", "OP07-105", "OP07-105"]
+  },
+  "log_031": {
+    "player": "KappaMuXi",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_032": {
+    "player": "KappaMuXi",
+    "action": "Board",
+    "cards": []
+  },
+  "log_033": {
+    "player": "KappaMuXi",
+    "action": "Life",
+    "value": 2
+  },
+  "log_034": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_035": {
+    "player": "KappaMuXi",
+    "action": "Draw 1 Card"
+  },
+  "log_036": {
+    "player": "KappaMuXi",
+    "action": "Drew card from deck",
+    "card": "OP07-101"
+  },
+  "log_037": {
+    "player": "KappaMuXi",
+    "action": "Draw 2 Don"
+  },
+  "log_038": {
+    "player": "KappaMuXi",
+    "action": "Reveal and Draw",
+    "card": "EB02-056"
+  },
+  "log_039": {
+    "player": "KappaMuXi",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log_040": {
+    "player": "KappaMuXi",
+    "action": "End Turn"
+  },
+  "log_041": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["EB01-023", "EB01-023", "ST17-005", "ST03-005"]
+  },
+  "log_042": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["OP01-077"]
+  },
+  "log_043": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_044": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log_045": {
+    "player": "KappaMuXi",
+    "action": "Hand",
+    "cards": ["EB02-056", "OP07-109", "OP07-105", "OP07-101", "EB02-056"]
+  },
+  "log_046": {
+    "player": "KappaMuXi",
+    "action": "Trash",
+    "cards": ["OP07-114"]
+  },
+  "log_047": {
+    "player": "KappaMuXi",
+    "action": "Board",
+    "cards": ["OP07-105"]
+  },
+  "log_048": {
+    "player": "KappaMuXi",
+    "action": "Life",
+    "value": 2
+  },
+  "log_049": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log_050": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP08-047"
+  },
+  "log_051": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log_052": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "ST17-005"
+  },
+  "log_053": {
+    "player": "Moroff",
+    "action": "Sent a Card to Deck Top"
+  },
+  "log_054": {
+    "player": "Moroff",
+    "action": "ST17-005: Attach 1 Rested Don to",
+    "target_card": "OP01-060"
+  },
+  "log_055": {
+    "player": "Moroff",
+    "action": "ST17-005: Attach 1 Rested Don to",
+    "target_card": "OP01-060"
+  },
+  "log_056": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP07-097"
+  },
+  "log_057": {
+    "player": "Moroff",
+    "action": "OP01-060 revealed",
+    "card": "ST03-005"
+  },
+  "log_058": {
+    "player": "Moroff",
+    "action": "Deploy from Deck",
+    "card": "ST03-005"
+  },
+  "log_059": {
+    "player": "Moroff",
+    "action": "combat",
+    "attacker": "OP01-060",
+    "attacker_power": 7000,
+    "defender": "OP07-097",
+    "defender_power": 5000
+  },
+  "log_060": {
+    "player": "KappaMuXi",
+    "action": "hit for 1 damage",
+    "target": "OP07-097"
+  },
+  "log_061": {
+    "player": "KappaMuXi",
+    "action": "OP07-109: Destroy",
+    "target": "ST17-005"
+  },
+  "log_062": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["EB01-023", "EB01-023", "OP08-047"]
+  },
+  "log_063": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["OP01-077", "ST03-005"]
+  },
+  "log_064": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST17-005"]
+  },
+  "log_065": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log_066": {
+    "player": "KappaMuXi",
+    "action": "Hand",
+    "cards": ["EB02-056", "OP07-109", "OP07-105", "OP07-101", "EB02-056"]
+  },
+  "log_067": {
+    "player": "KappaMuXi",
+    "action": "Trash",
+    "cards": ["OP07-114", "OP07-109"]
+  },
+  "log_068": {
+    "player": "KappaMuXi",
+    "action": "Board",
+    "cards": ["OP07-105"]
+  },
+  "log_069": {
+    "player": "KappaMuXi",
+    "action": "Life",
+    "value": 1
+  },
+  "log_070": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_071": {
+    "player": "KappaMuXi",
+    "action": "Draw 1 Card"
+  },
+  "log_072": {
+    "player": "KappaMuXi",
+    "action": "Drew card from deck",
+    "card": "OP07-100"
+  },
+  "log_073": {
+    "player": "KappaMuXi",
+    "action": "Draw 2 Don"
+  },
+  "log_074": {
+    "player": "KappaMuXi",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log_075": {
+    "player": "KappaMuXi",
+    "action": "EB02-056: Trash",
+    "target": "OP07-100"
+  },
+  "log_076": {
+    "player": "KappaMuXi",
+    "action": "Attach 3 Don to",
+    "card": "OP07-105",
+    "total_don": 3
+  },
+  "log_077": {
+    "player": "KappaMuXi",
+    "action": "attacking",
+    "attacker": "OP07-105",
+    "defender": "ST03-005"
+  },
+  "log_078": {
+    "player": "KappaMuXi",
+    "action": "combat",
+    "attacker": "OP07-105",
+    "attacker_power": 9000,
+    "defender": "ST03-005",
+    "defender_power": 5000
+  },
+  "log_079": {
+    "player": "Moroff",
+    "action": "ST03-005 Destroyed"
+  },
+  "log_080": {
+    "player": "KappaMuXi",
+    "action": "End Turn"
+  },
+  "log_081": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["EB01-023", "EB01-023", "OP08-047"]
+  },
+  "log_082": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["OP01-077"]
+  },
+  "log_083": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST17-005", "ST03-005"]
+  },
+  "log_084": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log_085": {
+    "player": "KappaMuXi",
+    "action": "Hand",
+    "cards": ["EB02-056", "OP07-109", "OP07-105", "OP07-101"]
+  },
+  "log_086": {
+    "player": "KappaMuXi",
+    "action": "Trash",
+    "cards": ["OP07-114", "OP07-109", "OP07-100"]
+  },
+  "log_087": {
+    "player": "KappaMuXi",
+    "action": "Board",
+    "cards": ["OP07-105", "EB02-056", "OP07-105"]
+  },
+  "log_088": {
+    "player": "KappaMuXi",
+    "action": "Life",
+    "value": 1
+  },
+  "log_089": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log_090": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "EB01-023"
+  },
+  "log_091": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log_092": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "EB01-023"
+  },
+  "log_093": {
+    "player": "Moroff",
+    "action": "EB01-023: Draw 1 Card"
+  },
+  "log_094": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-003"
+  },
+  "log_095": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "ST17-003"
+  },
+  "log_096": {
+    "player": "Moroff",
+    "action": "Placing Cards on Top of Deck"
+  },
+  "log_097": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP07-097"
+  },
+  "log_098": {
+    "player": "KappaMuXi",
+    "action": "Blocks",
+    "card": "EB02-056"
+  },
+  "log_099": {
+    "player": "Moroff",
+    "action": "combat",
+    "attacker": "OP01-060",
+    "attacker_power": 5000,
+    "defender": "EB02-056",
+    "defender_power": 0
+  },
+  "log_100": {
+    "player": "KappaMuXi",
+    "action": "EB02-056 Destroyed"
+  },
+  "log_101": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["EB01-023", "OP08-047", "EB01-023"]
+  },
+  "log_102": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["OP01-077", "EB01-023", "ST17-003"]
+  },
+  "log_103": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST17-005", "ST03-005"]
+  },
+  "log_104": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log_105": {
+    "player": "KappaMuXi",
+    "action": "Hand",
+    "cards": ["EB02-056", "OP07-109", "OP07-105", "OP07-101"]
+  },
+  "log_106": {
+    "player": "KappaMuXi",
+    "action": "Trash",
+    "cards": ["OP07-114", "OP07-109", "OP07-100", "EB02-056"]
+  },
+  "log_107": {
+    "player": "KappaMuXi",
+    "action": "Board",
+    "cards": ["OP07-105", "OP07-105"]
+  },
+  "log_108": {
+    "player": "KappaMuXi",
+    "action": "Life",
+    "value": 1
+  },
+  "log_109": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_110": {
+    "player": "KappaMuXi",
+    "action": "Draw 1 Card"
+  },
+  "log_111": {
+    "player": "KappaMuXi",
+    "action": "Drew card from deck",
+    "card": "EB02-056"
+  },
+  "log_112": {
+    "player": "KappaMuXi",
+    "action": "Draw 2 Don"
+  },
+  "log_113": {
+    "player": "KappaMuXi",
+    "action": "Deploy",
+    "card": "EB02-056"
+  },
+  "log_114": {
+    "player": "KappaMuXi",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log_115": {
+    "player": "KappaMuXi",
+    "action": "Reveal and Draw",
+    "card": "OP08-106"
+  },
+  "log_116": {
+    "player": "KappaMuXi",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log_117": {
+    "player": "KappaMuXi",
+    "action": "OP08-106: Trash",
+    "target": "OP07-105"
+  },
+  "log_118": {
+    "player": "KappaMuXi",
+    "action": "OP08-106: Destroy",
+    "target": "EB01-023"
+  },
+  "log_119": {
+    "player": "KappaMuXi",
+    "action": "Drew card from deck",
+    "card": "OP07-109"
+  },
+  "log_120": {
+    "player": "KappaMuXi",
+    "action": "OP08-106: Draw 1 Card"
+  },
+  "log_121": {
+    "player": "KappaMuXi",
+    "action": "attacking",
+    "attacker": "OP07-105",
+    "defender": "OP01-060"
+  },
+  "log_122": {
+    "player": "KappaMuXi",
+    "action": "combat",
+    "attacker": "OP07-105",
+    "attacker_power": 6000,
+    "defender": "OP01-060",
+    "defender_power": 5000
+  },
+  "log_123": {
+    "player": "Moroff",
+    "action": "hit for 1 damage",
+    "target": "OP01-060"
+  },
+  "log_124": {
+    "player": "KappaMuXi",
+    "action": "attacking",
+    "attacker": "OP07-105",
+    "defender": "OP01-060"
+  },
+  "log_125": {
+    "player": "KappaMuXi",
+    "action": "combat",
+    "attacker": "OP07-105",
+    "attacker_power": 6000,
+    "defender": "OP01-060",
+    "defender_power": 5000
+  },
+  "log_126": {
+    "player": "Moroff",
+    "action": "hit for 1 damage",
+    "target": "OP01-060"
+  },
+  "log_127": {
+    "player": "KappaMuXi",
+    "action": "End Turn"
+  },
+  "log_128": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["EB01-023", "OP08-047", "EB01-023", "OP01-077", "ST17-004"]
+  },
+  "log_129": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["OP01-077", "ST17-003"]
+  },
+  "log_130": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST17-005", "ST03-005", "EB01-023"]
+  },
+  "log_131": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 3
+  },
+  "log_132": {
+    "player": "KappaMuXi",
+    "action": "Hand",
+    "cards": ["EB02-056", "OP07-109", "OP07-101", "OP07-109"]
+  },
+  "log_133": {
+    "player": "KappaMuXi",
+    "action": "Trash",
+    "cards": ["OP07-114", "OP07-109", "OP07-100", "EB02-056", "OP07-105"]
+  },
+  "log_134": {
+    "player": "KappaMuXi",
+    "action": "Board",
+    "cards": ["OP07-105", "OP07-105", "EB02-056", "OP07-111", "OP08-106"]
+  },
+  "log_135": {
+    "player": "KappaMuXi",
+    "action": "Life",
+    "value": 1
+  },
+  "log_136": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log_137": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP06-047"
+  },
+  "log_138": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log_139": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "ST17-004"
+  },
+  "log_140": {
+    "player": "Moroff",
+    "action": "Placing Cards on Top of Deck"
+  },
+  "log_141": {
+    "player": "Moroff",
+    "action": "ST17-004: Attach 1 Rested Don to",
+    "target_card": "OP01-060"
+  },
+  "log_142": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log_143": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 3
+  },
+  "log_144": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP07-105"
+  },
+  "log_145": {
+    "player": "Moroff",
+    "action": "OP01-060 revealed",
+    "card": "ST17-005"
+  },
+  "log_146": {
+    "player": "Moroff",
+    "action": "Deploy from Deck",
+    "card": "ST17-005"
+  },
+  "log_147": {
+    "player": "Moroff",
+    "action": "combat",
+    "attacker": "OP01-060",
+    "attacker_power": 8000,
+    "defender": "OP07-105",
+    "defender_power": 6000
+  },
+  "log_148": {
+    "player": "KappaMuXi",
+    "action": "OP07-105 Destroyed"
+  },
+  "log_149": {
+    "player": "KappaMuXi",
+    "action": "OP07-105: Deployed from Trash",
+    "card": "OP07-100"
+  },
+  "log_150": {
+    "player": "KappaMuXi",
+    "action": "Drew card from deck",
+    "card": "OP07-115"
+  },
+  "log_151": {
+    "player": "KappaMuXi",
+    "action": "Drew card from deck",
+    "card": "OP07-101"
+  },
+  "log_152": {
+    "player": "KappaMuXi",
+    "action": "OP07-100: Draw 2 Card"
+  },
+  "log_153": {
+    "player": "KappaMuXi",
+    "action": "OP07-100: Trash",
+    "target": "OP07-109"
+  },
+  "log_154": {
+    "player": "KappaMuXi",
+    "action": "OP07-100: Trash",
+    "target": "OP07-101"
+  },
+  "log_155": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["EB01-023", "OP08-047", "EB01-023", "OP06-047"]
+  },
+  "log_156": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["OP01-077", "ST17-003", "ST17-004", "ST17-005"]
+  },
+  "log_157": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST17-005", "ST03-005", "EB01-023"]
+  },
+  "log_158": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 3
+  },
+  "log_159": {
+    "player": "KappaMuXi",
+    "action": "Hand",
+    "cards": ["EB02-056", "OP07-109", "OP07-115", "OP07-101"]
+  },
+  "log_160": {
+    "player": "KappaMuXi",
+    "action": "Trash",
+    "cards": ["OP07-114", "OP07-109", "EB02-056", "OP07-105", "OP07-105", "OP07-109", "OP07-101"]
+  },
+  "log_161": {
+    "player": "KappaMuXi",
+    "action": "Board",
+    "cards": ["OP07-105", "EB02-056", "OP07-111", "OP08-106", "OP07-100"]
+  },
+  "log_162": {
+    "player": "KappaMuXi",
+    "action": "Life",
+    "value": 1
+  },
+  "log_163": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_164": {
+    "player": "KappaMuXi",
+    "action": "Draw 1 Card"
+  },
+  "log_165": {
+    "player": "KappaMuXi",
+    "action": "Drew card from deck",
+    "card": "OP07-101"
+  },
+  "log_166": {
+    "player": "KappaMuXi",
+    "action": "Draw 2 Don"
+  },
+  "log_167": {
+    "player": "KappaMuXi",
+    "action": "Attach 2 Don to",
+    "card": "OP07-111",
+    "total_don": 2
+  },
+  "log_168": {
+    "player": "KappaMuXi",
+    "action": "attacking",
+    "attacker": "OP07-111",
+    "defender": "OP01-060"
+  },
+  "log_169": {
+    "player": "KappaMuXi",
+    "action": "combat",
+    "attacker": "OP07-111",
+    "attacker_power": 7000,
+    "defender": "OP01-060",
+    "defender_power": 5000
+  },
+  "log_170": {
+    "player": "Moroff",
+    "action": "hit for 1 damage",
+    "target": "OP01-060"
+  },
+  "log_171": {
+    "player": "KappaMuXi",
+    "action": "Attach 2 Don to",
+    "card": "OP08-106",
+    "total_don": 2
+  },
+  "log_172": {
+    "player": "KappaMuXi",
+    "action": "attacking",
+    "attacker": "OP08-106",
+    "defender": "OP01-060"
+  },
+  "log_173": {
+    "player": "Moroff",
+    "action": "Discard for Counter 1000",
+    "card": "OP01-077"
+  },
+  "log_174": {
+    "player": "Moroff",
+    "action": "Discard for Counter 2000",
+    "card": "OP07-040"
+  },
+  "log_175": {
+    "player": "KappaMuXi",
+    "action": "combat",
+    "attacker": "OP08-106",
+    "attacker_power": 7000,
+    "defender": "OP01-060",
+    "defender_power": 8000
+  },
+  "log_176": {
+    "player": "KappaMuXi",
+    "action": "Attack Fails"
+  },
+  "log_177": {
+    "player": "KappaMuXi",
+    "action": "Attach 1 Don to",
+    "card": "OP07-100",
+    "total_don": 1
+  },
+  "log_178": {
+    "player": "KappaMuXi",
+    "action": "Attach 1 Don to",
+    "card": "OP07-100",
+    "total_don": 2
+  },
+  "log_179": {
+    "player": "KappaMuXi",
+    "action": "attacking",
+    "attacker": "OP07-100",
+    "defender": "OP01-060"
+  },
+  "log_180": {
+    "player": "KappaMuXi",
+    "action": "combat",
+    "attacker": "OP07-100",
+    "attacker_power": 7000,
+    "defender": "OP01-060",
+    "defender_power": 5000
+  },
+  "log_181": {
+    "player": "Moroff",
+    "action": "hit for 1 damage",
+    "target": "OP01-060"
+  },
+  "log_182": {
+    "player": "KappaMuXi",
+    "action": "attacking",
+    "attacker": "OP07-105",
+    "defender": "ST17-005"
+  },
+  "log_183": {
+    "player": "KappaMuXi",
+    "action": "combat",
+    "attacker": "OP07-105",
+    "attacker_power": 6000,
+    "defender": "ST17-005",
+    "defender_power": 3000
+  },
+  "log_184": {
+    "player": "Moroff",
+    "action": "ST17-005 Destroyed"
+  },
+  "log_185": {
+    "player": "KappaMuXi",
+    "action": "OP07-097: Add to top of Life",
+    "card": "OP07-115"
+  },
+  "log_186": {
+    "player": "KappaMuXi",
+    "action": "End Turn"
+  },
+  "log_187": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["EB01-023", "OP08-047", "EB01-023", "OP06-047", "OP08-047"]
+  },
+  "log_188": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["OP01-077", "ST17-003", "ST17-004"]
+  },
+  "log_189": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST17-005", "ST03-005", "EB01-023", "OP01-077", "OP07-040", "ST17-005"]
+  },
+  "log_190": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 1
+  },
+  "log_191": {
+    "player": "KappaMuXi",
+    "action": "Hand",
+    "cards": ["EB02-056", "OP07-109", "OP07-101", "OP07-101"]
+  },
+  "log_192": {
+    "player": "KappaMuXi",
+    "action": "Trash",
+    "cards": ["OP07-114", "OP07-109", "EB02-056", "OP07-105", "OP07-105", "OP07-109", "OP07-101"]
+  },
+  "log_193": {
+    "player": "KappaMuXi",
+    "action": "Board",
+    "cards": ["OP07-105", "EB02-056", "OP07-111", "OP08-106", "OP07-100"]
+  },
+  "log_194": {
+    "player": "KappaMuXi",
+    "action": "Life",
+    "value": 2
+  },
+  "log_195": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log_196": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP06-047"
+  },
+  "log_197": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log_198": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "ST17-004",
+    "defender": "OP07-111"
+  },
+  "log_199": {
+    "player": "KappaMuXi",
+    "action": "Blocks",
+    "card": "EB02-056"
+  },
+  "log_200": {
+    "player": "Moroff",
+    "action": "combat",
+    "attacker": "ST17-004",
+    "attacker_power": 6000,
+    "defender": "EB02-056",
+    "defender_power": 0
+  },
+  "log_201": {
+    "player": "KappaMuXi",
+    "action": "EB02-056 Destroyed"
+  },
+  "log_202": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log_203": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log_204": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 3
+  },
+  "log_205": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP07-097"
+  },
+  "log_206": {
+    "player": "Moroff",
+    "action": "OP01-060 revealed",
+    "card": "OP07-040"
+  },
+  "log_207": {
+    "player": "Moroff",
+    "action": "Deploy from Deck",
+    "card": "OP07-040"
+  },
+  "log_208": {
+    "player": "Moroff",
+    "action": "OP07-040: Return to Hand",
+    "target": "OP01-077"
+  },
+  "log_209": {
+    "player": "Moroff",
+    "action": "combat",
+    "attacker": "OP01-060",
+    "attacker_power": 8000,
+    "defender": "OP07-097",
+    "defender_power": 5000
+  },
+  "log_210": {
+    "player": "KappaMuXi",
+    "action": "hit for 1 damage",
+    "target": "OP07-097"
+  },
+  "log_211": {
+    "player": "KappaMuXi",
+    "action": "OP07-115: Deployed from Trash",
+    "card": "EB02-056"
+  },
+  "log_212": {
+    "player": "KappaMuXi",
+    "action": "Trash",
+    "card": "OP07-111"
+  },
+  "log_213": {
+    "player": "KappaMuXi",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log_214": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "ST17-003",
+    "total_don": 1
+  },
+  "log_215": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "ST17-003",
+    "total_don": 2
+  },
+  "log_216": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "ST17-003",
+    "total_don": 3
+  },
+  "log_217": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "ST17-003",
+    "total_don": 4
+  },
+  "log_218": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "ST17-003",
+    "defender": "OP07-097"
+  },
+  "log_219": {
+    "player": "KappaMuXi",
+    "action": "Blocks",
+    "card": "EB02-056"
+  },
+  "log_220": {
+    "player": "Moroff",
+    "action": "combat",
+    "attacker": "ST17-003",
+    "attacker_power": 6000,
+    "defender": "EB02-056",
+    "defender_power": 0
+  },
+  "log_221": {
+    "player": "KappaMuXi",
+    "action": "EB02-056 Destroyed"
+  },
+  "log_222": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["EB01-023", "OP08-047", "EB01-023", "OP06-047", "OP08-047", "OP06-047", "OP01-077"]
+  },
+  "log_223": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["ST17-003", "ST17-004", "OP07-040"]
+  },
+  "log_224": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST17-005", "ST03-005", "EB01-023", "OP01-077", "OP07-040", "ST17-005"]
+  },
+  "log_225": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 1
+  },
+  "log_226": {
+    "player": "KappaMuXi",
+    "action": "Hand",
+    "cards": ["EB02-056", "OP07-109", "OP07-101", "OP07-101"]
+  },
+  "log_227": {
+    "player": "KappaMuXi",
+    "action": "Trash",
+    "cards": ["OP07-114", "OP07-109", "EB02-056", "OP07-105", "OP07-105", "OP07-109", "OP07-101", "OP07-115", "OP07-111", "EB02-056"]
+  },
+  "log_228": {
+    "player": "KappaMuXi",
+    "action": "Board",
+    "cards": ["OP07-105", "OP08-106", "OP07-100", "OP07-105"]
+  },
+  "log_229": {
+    "player": "KappaMuXi",
+    "action": "Life",
+    "value": 1
+  },
+  "log_230": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_231": {
+    "player": "KappaMuXi",
+    "action": "Draw 1 Card"
+  },
+  "log_232": {
+    "player": "KappaMuXi",
+    "action": "Drew card from deck",
+    "card": "OP07-100"
+  },
+  "log_233": {
+    "player": "KappaMuXi",
+    "action": "Draw 2 Don"
+  },
+  "log_234": {
+    "player": "KappaMuXi",
+    "action": "Attach 2 Don to",
+    "card": "OP07-100",
+    "total_don": 2
+  },
+  "log_235": {
+    "player": "KappaMuXi",
+    "action": "attacking",
+    "attacker": "OP07-100",
+    "defender": "OP01-060"
+  },
+  "log_236": {
+    "player": "Moroff",
+    "action": "Discard for Counter 1000",
+    "card": "OP08-047"
+  },
+  "log_237": {
+    "player": "Moroff",
+    "action": "Discard for Counter 1000",
+    "card": "OP01-077"
+  },
+  "log_238": {
+    "player": "Moroff",
+    "action": "Discard for Counter 1000",
+    "card": "OP08-047"
+  },
+  "log_239": {
+    "player": "KappaMuXi",
+    "action": "combat",
+    "attacker": "OP07-100",
+    "attacker_power": 7000,
+    "defender": "OP01-060",
+    "defender_power": 8000
+  },
+  "log_240": {
+    "player": "KappaMuXi",
+    "action": "Attack Fails"
+  },
+  "log_241": {
+    "player": "KappaMuXi",
+    "action": "Attach 2 Don to",
+    "card": "OP07-105",
+    "total_don": 2
+  },
+  "log_242": {
+    "player": "KappaMuXi",
+    "action": "attacking",
+    "attacker": "OP07-105",
+    "defender": "OP01-060"
+  },
+  "log_243": {
+    "player": "KappaMuXi",
+    "action": "combat",
+    "attacker": "OP07-105",
+    "attacker_power": 8000,
+    "defender": "OP01-060",
+    "defender_power": 5000
+  },
+  "log_244": {
+    "player": "Moroff",
+    "action": "hit for 1 damage",
+    "target": "OP01-060"
+  },
+  "log_245": {
+    "player": "KappaMuXi",
+    "action": "Attach 2 Don to",
+    "card": "OP08-106",
+    "total_don": 2
+  },
+  "log_246": {
+    "player": "KappaMuXi",
+    "action": "attacking",
+    "attacker": "OP08-106",
+    "defender": "OP01-060"
+  },
+  "log_247": {
+    "player": "Moroff",
+    "action": "Discard for Counter 2000",
+    "card": "ST17-003"
+  },
+  "log_248": {
+    "player": "Moroff",
+    "action": "Discard for Counter 1000",
+    "card": "OP06-047"
+  },
+  "log_249": {
+    "player": "KappaMuXi",
+    "action": "combat",
+    "attacker": "OP08-106",
+    "attacker_power": 7000,
+    "defender": "OP01-060",
+    "defender_power": 8000
+  },
+  "log_250": {
+    "player": "KappaMuXi",
+    "action": "Attack Fails"
+  },
+  "log_251": {
+    "player": "KappaMuXi",
+    "action": "Attach 3 Don to",
+    "card": "OP07-105",
+    "total_don": 3
+  },
+  "log_252": {
+    "player": "KappaMuXi",
+    "action": "attacking",
+    "attacker": "OP07-105",
+    "defender": "OP01-060"
+  },
+  "log_253": {
+    "player": "KappaMuXi",
+    "action": "combat",
+    "attacker": "OP07-105",
+    "attacker_power": 9000,
+    "defender": "OP01-060",
+    "defender_power": 5000
+  },
+  "log_254": {
+    "player": "Moroff",
+    "action": "hit for 1 damage",
+    "target": "OP01-060"
+  },
+  "log_255": {
+    "player": "Moroff",
+    "action": "Loses"
+  },
+  "log_256": {
+    "player": "KappaMuXi",
+    "action": "Wins!"
+  }
+}

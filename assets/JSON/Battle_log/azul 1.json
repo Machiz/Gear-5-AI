@@ -1,0 +1,1572 @@
+{
+  "log_001": {
+    "player": "Moroff",
+    "action": "Leader is Donquixote Doflamingo",
+    "card": "OP01-060"
+  },
+  "log_002": {
+    "player": "dooblz",
+    "action": "Leader is Buggy",
+    "card": "OP09-042"
+  },
+  "log_003": {
+    "player": "dooblz",
+    "action": "Chose to go First"
+  },
+  "log_004": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "OP09-056"
+  },
+  "log_005": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "OP09-046"
+  },
+  "log_006": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "OP09-057"
+  },
+  "log_007": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "OP09-057"
+  },
+  "log_008": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "OP09-045"
+  },
+  "log_009": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-003"
+  },
+  "log_010": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-005"
+  },
+  "log_011": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP07-046"
+  },
+  "log_012": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST03-004"
+  },
+  "log_013": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-003"
+  },
+  "log_014": {
+    "player": "Moroff",
+    "action": "Hand before Mulligan",
+    "cards": ["ST17-003", "ST17-005", "OP07-046", "ST03-004", "ST17-003"]
+  },
+  "log_015": {
+    "player": "dooblz",
+    "action": "Draw 1 Don"
+  },
+  "log_016": {
+    "player": "dooblz",
+    "action": "Deploy",
+    "card": "OP09-056"
+  },
+  "log_017": {
+    "player": "dooblz",
+    "action": "Reveal and Draw",
+    "card": "P-084"
+  },
+  "log_018": {
+    "player": "dooblz",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log_019": {
+    "player": "dooblz",
+    "action": "End Turn"
+  },
+  "log_020": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["ST17-003", "ST17-005", "OP07-046", "ST03-004", "ST17-003"]
+  },
+  "log_021": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": []
+  },
+  "log_022": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_023": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log_024": {
+    "player": "dooblz",
+    "action": "Hand",
+    "cards": ["OP09-046", "OP09-057", "OP09-057", "OP09-045", "P-084"]
+  },
+  "log_025": {
+    "player": "dooblz",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_026": {
+    "player": "dooblz",
+    "action": "Board",
+    "cards": ["OP09-056"]
+  },
+  "log_027": {
+    "player": "dooblz",
+    "action": "Life",
+    "value": 5
+  },
+  "log_028": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log_029": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP06-047"
+  },
+  "log_030": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log_031": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "ST17-003"
+  },
+  "log_032": {
+    "player": "Moroff",
+    "action": "Placing Cards on Top of Deck"
+  },
+  "log_033": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "ST17-003"
+  },
+  "log_034": {
+    "player": "Moroff",
+    "action": "Placing Cards on Top of Deck"
+  },
+  "log_035": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["ST17-005", "OP07-046", "ST03-004", "OP06-047"]
+  },
+  "log_036": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["ST17-003", "ST17-003"]
+  },
+  "log_037": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_038": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log_039": {
+    "player": "dooblz",
+    "action": "Hand",
+    "cards": ["OP09-046", "OP09-057", "OP09-057", "OP09-045", "P-084"]
+  },
+  "log_040": {
+    "player": "dooblz",
+    "action": "Trash",
+    "cards": []
+  },
+  "log_041": {
+    "player": "dooblz",
+    "action": "Board",
+    "cards": ["OP09-056"]
+  },
+  "log_042": {
+    "player": "dooblz",
+    "action": "Life",
+    "value": 5
+  },
+  "log_043": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_044": {
+    "player": "dooblz",
+    "action": "Draw 1 Card"
+  },
+  "log_045": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "OP09-053"
+  },
+  "log_046": {
+    "player": "dooblz",
+    "action": "Draw 2 Don"
+  },
+  "log_047": {
+    "player": "dooblz",
+    "action": "Reveal and Draw",
+    "card": "OP09-048"
+  },
+  "log_048": {
+    "player": "dooblz",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log_049": {
+    "player": "dooblz",
+    "action": "Reveal and Draw",
+    "card": "OP09-056"
+  },
+  "log_050": {
+    "player": "dooblz",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log_051": {
+    "player": "dooblz",
+    "action": "Deploy",
+    "card": "OP09-056"
+  },
+  "log_052": {
+    "player": "dooblz",
+    "action": "Reveal and Draw",
+    "card": "OP09-045"
+  },
+  "log_053": {
+    "player": "dooblz",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log_054": {
+    "player": "dooblz",
+    "action": "attacking",
+    "attacker": "OP09-042",
+    "defender": "OP01-060"
+  },
+  "log_055": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "ST03-004",
+    "counter": 1000
+  },
+  "log_056": {
+    "player": "dooblz",
+    "action": "attacking",
+    "attacker": "OP09-042",
+    "attacker_power": 5000,
+    "defender": "OP01-060",
+    "defender_power": 6000,
+    "result": "Attack Fails"
+  },
+  "log_057": {
+    "player": "dooblz",
+    "action": "End Turn"
+  },
+  "log_058": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["ST17-005", "OP07-046", "OP06-047"]
+  },
+  "log_059": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["ST17-003", "ST17-003"]
+  },
+  "log_060": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-004"]
+  },
+  "log_061": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log_062": {
+    "player": "dooblz",
+    "action": "Hand",
+    "cards": ["OP09-046", "OP09-045", "P-084", "OP09-053", "OP09-048", "OP09-045"]
+  },
+  "log_063": {
+    "player": "dooblz",
+    "action": "Trash",
+    "cards": ["OP09-057", "OP09-057"]
+  },
+  "log_064": {
+    "player": "dooblz",
+    "action": "Board",
+    "cards": ["OP09-056", "OP09-056"]
+  },
+  "log_065": {
+    "player": "dooblz",
+    "action": "Life",
+    "value": 5
+  },
+  "log_066": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log_067": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP06-058"
+  },
+  "log_068": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log_069": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "ST17-005"
+  },
+  "log_070": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log_071": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log_072": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP09-042"
+  },
+  "log_073": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "attacker_power": 7000,
+    "defender": "OP09-042",
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log_074": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["OP07-046", "OP06-047", "OP06-058"]
+  },
+  "log_075": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["ST17-003", "ST17-003", "ST17-005"]
+  },
+  "log_076": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-004"]
+  },
+  "log_077": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 5
+  },
+  "log_078": {
+    "player": "dooblz",
+    "action": "Hand",
+    "cards": ["OP09-046", "OP09-045", "P-084", "OP09-053", "OP09-048", "OP09-045", "OP09-054"]
+  },
+  "log_079": {
+    "player": "dooblz",
+    "action": "Trash",
+    "cards": ["OP09-057", "OP09-057"]
+  },
+  "log_080": {
+    "player": "dooblz",
+    "action": "Board",
+    "cards": ["OP09-056", "OP09-056"]
+  },
+  "log_081": {
+    "player": "dooblz",
+    "action": "Life",
+    "value": 4
+  },
+  "log_082": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_083": {
+    "player": "dooblz",
+    "action": "Draw 1 Card"
+  },
+  "log_084": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "OP09-048"
+  },
+  "log_085": {
+    "player": "dooblz",
+    "action": "Draw 2 Don"
+  },
+  "log_086": {
+    "player": "dooblz",
+    "action": "attacking",
+    "attacker": "OP09-042",
+    "defender": "OP01-060"
+  },
+  "log_087": {
+    "player": "dooblz",
+    "action": "attacking",
+    "attacker": "OP09-042",
+    "attacker_power": 5000,
+    "defender": "OP01-060",
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log_088": {
+    "player": "dooblz",
+    "action": "Buggy",
+    "card": "OP09-042",
+    "effect": "Trash",
+    "target": "OP09-048"
+  },
+  "log_089": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "EB01-027"
+  },
+  "log_090": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "P-084"
+  },
+  "log_091": {
+    "player": "dooblz",
+    "action": "Dracule Mihawk",
+    "card": "OP09-048",
+    "effect": "Draw 2 Card"
+  },
+  "log_092": {
+    "player": "dooblz",
+    "action": "Dracule Mihawk",
+    "card": "OP09-048",
+    "effect": "Trash",
+    "target": "P-084"
+  },
+  "log_093": {
+    "player": "dooblz",
+    "action": "End Turn"
+  },
+  "log_094": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["OP07-046", "OP06-047", "OP06-058", "OP07-040"]
+  },
+  "log_095": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["ST17-003", "ST17-003", "ST17-005"]
+  },
+  "log_096": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-004"]
+  },
+  "log_097": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log_098": {
+    "player": "dooblz",
+    "action": "Hand",
+    "cards": ["OP09-046", "OP09-045", "OP09-053", "OP09-045", "OP09-054", "EB01-027"]
+  },
+  "log_099": {
+    "player": "dooblz",
+    "action": "Trash",
+    "cards": ["OP09-057", "OP09-057", "OP09-048", "P-084"]
+  },
+  "log_100": {
+    "player": "dooblz",
+    "action": "Board",
+    "cards": ["OP09-056", "OP09-056", "P-084", "OP09-048"]
+  },
+  "log_101": {
+    "player": "dooblz",
+    "action": "Life",
+    "value": 4
+  },
+  "log_102": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log_103": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP08-047"
+  },
+  "log_104": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log_105": {
+    "player": "Moroff",
+    "action": "Sent a Card to Deck Top"
+  },
+  "log_106": {
+    "player": "Moroff",
+    "action": "Deploy",
+    "card": "OP06-047"
+  },
+  "log_107": {
+    "player": "Moroff",
+    "action": "Force Opponent to Shuffle Hand into Deck and Draw 5"
+  },
+  "log_108": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "OP09-057"
+  },
+  "log_109": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "OP09-043"
+  },
+  "log_110": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "OP09-048"
+  },
+  "log_111": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "OP09-054"
+  },
+  "log_112": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "OP09-045"
+  },
+  "log_113": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log_114": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log_115": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP09-042"
+  },
+  "log_116": {
+    "player": "dooblz",
+    "action": "Dracule Mihawk Blocks",
+    "card": "OP09-048"
+  },
+  "log_117": {
+    "player": "dooblz",
+    "action": "Discard",
+    "card": "OP09-043",
+    "counter": 1000
+  },
+  "log_118": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "attacker_power": 7000,
+    "defender": "OP09-048",
+    "defender_power": 8000,
+    "result": "Attack Fails"
+  },
+  "log_119": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["OP07-046", "OP06-058", "OP07-040"]
+  },
+  "log_120": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["ST17-003", "ST17-003", "ST17-005", "OP06-047"]
+  },
+  "log_121": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-004"]
+  },
+  "log_122": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 4
+  },
+  "log_123": {
+    "player": "dooblz",
+    "action": "Hand",
+    "cards": ["OP09-057", "OP09-048", "OP09-054", "OP09-045"]
+  },
+  "log_124": {
+    "player": "dooblz",
+    "action": "Trash",
+    "cards": ["OP09-057", "OP09-057", "OP09-048", "P-084", "OP09-043"]
+  },
+  "log_125": {
+    "player": "dooblz",
+    "action": "Board",
+    "cards": ["OP09-056", "OP09-056", "P-084", "OP09-048"]
+  },
+  "log_126": {
+    "player": "dooblz",
+    "action": "Life",
+    "value": 4
+  },
+  "log_127": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_128": {
+    "player": "dooblz",
+    "action": "Draw 1 Card"
+  },
+  "log_129": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "OP06-047"
+  },
+  "log_130": {
+    "player": "dooblz",
+    "action": "Draw 2 Don"
+  },
+  "log_131": {
+    "player": "dooblz",
+    "action": "Reveal and Draw",
+    "card": "OP09-051"
+  },
+  "log_132": {
+    "player": "dooblz",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log_133": {
+    "player": "dooblz",
+    "action": "Deploy",
+    "card": "OP09-048"
+  },
+  "log_134": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "OP09-045"
+  },
+  "log_135": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "OP09-045"
+  },
+  "log_136": {
+    "player": "dooblz",
+    "action": "Dracule Mihawk",
+    "card": "OP09-048",
+    "effect": "Draw 2 Card"
+  },
+  "log_137": {
+    "player": "dooblz",
+    "action": "Dracule Mihawk",
+    "card": "OP09-048",
+    "effect": "Trash",
+    "target": "OP09-054"
+  },
+  "log_138": {
+    "player": "dooblz",
+    "action": "attacking",
+    "attacker": "OP09-042",
+    "defender": "OP01-060"
+  },
+  "log_139": {
+    "player": "dooblz",
+    "action": "attacking",
+    "attacker": "OP09-042",
+    "attacker_power": 5000,
+    "defender": "OP01-060",
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log_140": {
+    "player": "dooblz",
+    "action": "End Turn"
+  },
+  "log_141": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["OP07-046", "OP06-058", "OP07-040", "EB01-023"]
+  },
+  "log_142": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["ST17-003", "ST17-003", "ST17-005", "OP06-047"]
+  },
+  "log_143": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-004"]
+  },
+  "log_144": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 3
+  },
+  "log_145": {
+    "player": "dooblz",
+    "action": "Hand",
+    "cards": ["OP09-045", "OP06-047", "OP09-051", "OP09-045", "OP09-045"]
+  },
+  "log_146": {
+    "player": "dooblz",
+    "action": "Trash",
+    "cards": ["OP09-057", "OP09-057", "OP09-048", "P-084", "OP09-043", "OP09-057", "OP09-054"]
+  },
+  "log_147": {
+    "player": "dooblz",
+    "action": "Board",
+    "cards": ["OP09-056", "OP09-056", "P-084", "OP09-048", "OP09-048"]
+  },
+  "log_148": {
+    "player": "dooblz",
+    "action": "Life",
+    "value": 4
+  },
+  "log_149": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log_150": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "Jozu"
+  },
+  "log_151": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log_152": {
+    "player": "Moroff",
+    "action": "Gravity Blade Raging Tiger",
+    "card": "OP06-058",
+    "effect": "Send to Deck Bottom",
+    "target": "OP09-048"
+  },
+  "log_153": {
+    "player": "Moroff",
+    "action": "Gravity Blade Raging Tiger",
+    "card": "OP06-058",
+    "effect": "Send to Deck Bottom",
+    "target": "OP09-048"
+  },
+  "log_154": {
+    "player": "Moroff",
+    "action": "Sent a Card to Deck Top"
+  },
+  "log_155": {
+    "player": "Moroff",
+    "action": "Marshall D. Teach",
+    "card": "ST17-005",
+    "effect": "Attach 1 Rested Don to",
+    "target": "OP01-060"
+  },
+  "log_156": {
+    "player": "Moroff",
+    "action": "Marshall D. Teach",
+    "card": "ST17-005",
+    "effect": "Attach 1 Rested Don to",
+    "target": "OP01-060"
+  },
+  "log_157": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP09-042"
+  },
+  "log_158": {
+    "player": "Moroff",
+    "action": "Donquixote Doflamingo revealed",
+    "card": "EB01-023"
+  },
+  "log_159": {
+    "player": "Moroff",
+    "action": "Deploy from Deck",
+    "card": "EB01-023"
+  },
+  "log_160": {
+    "player": "Moroff",
+    "action": "Edward Weevil",
+    "card": "EB01-023",
+    "effect": "Draw 1 Card"
+  },
+  "log_161": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP07-040"
+  },
+  "log_162": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "attacker_power": 7000,
+    "defender": "OP09-042",
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log_163": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["OP07-046", "OP07-040", "OP08-047", "OP07-040"]
+  },
+  "log_164": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["ST17-003", "ST17-003", "ST17-005", "OP06-047", "EB01-023"]
+  },
+  "log_165": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-004", "OP06-058"]
+  },
+  "log_166": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 3
+  },
+  "log_167": {
+    "player": "dooblz",
+    "action": "Hand",
+    "cards": ["OP09-045", "OP06-047", "OP09-051", "OP09-045", "OP09-045", "P-084"]
+  },
+  "log_168": {
+    "player": "dooblz",
+    "action": "Trash",
+    "cards": ["OP09-057", "OP09-057", "OP09-048", "P-084", "OP09-043", "OP09-057", "OP09-054"]
+  },
+  "log_169": {
+    "player": "dooblz",
+    "action": "Board",
+    "cards": ["OP09-056", "OP09-056", "P-084"]
+  },
+  "log_170": {
+    "player": "dooblz",
+    "action": "Life",
+    "value": 3
+  },
+  "log_171": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_172": {
+    "player": "dooblz",
+    "action": "Draw 1 Card"
+  },
+  "log_173": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "EB01-027"
+  },
+  "log_174": {
+    "player": "dooblz",
+    "action": "Draw 2 Don"
+  },
+  "log_175": {
+    "player": "dooblz",
+    "action": "attacking",
+    "attacker": "OP09-042",
+    "defender": "OP01-060"
+  },
+  "log_176": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "OP07-046",
+    "counter": 1000
+  },
+  "log_177": {
+    "player": "dooblz",
+    "action": "attacking",
+    "attacker": "OP09-042",
+    "attacker_power": 5000,
+    "defender": "OP01-060",
+    "defender_power": 6000,
+    "result": "Attack Fails"
+  },
+  "log_178": {
+    "player": "dooblz",
+    "action": "Attach 4 Don to",
+    "card": "OP09-056",
+    "total_don": 4
+  },
+  "log_179": {
+    "player": "dooblz",
+    "action": "attacking",
+    "attacker": "OP09-056",
+    "defender": "OP01-060"
+  },
+  "log_180": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "OP07-040",
+    "counter": 2000
+  },
+  "log_181": {
+    "player": "dooblz",
+    "action": "attacking",
+    "attacker": "OP09-056",
+    "attacker_power": 6000,
+    "defender": "OP01-060",
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log_182": {
+    "player": "dooblz",
+    "action": "Buggy",
+    "card": "OP09-042",
+    "effect": "Trash",
+    "target": "OP09-045"
+  },
+  "log_183": {
+    "player": "dooblz",
+    "action": "End Turn"
+  },
+  "log_184": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["OP07-040", "OP08-047"]
+  },
+  "log_185": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["ST17-003", "ST17-003", "OP06-047", "EB01-023"]
+  },
+  "log_186": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-004", "OP06-058", "OP07-046", "OP07-040"]
+  },
+  "log_187": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 3
+  },
+  "log_188": {
+    "player": "dooblz",
+    "action": "Hand",
+    "cards": ["OP09-045", "OP06-047", "OP09-051", "EB01-027"]
+  },
+  "log_189": {
+    "player": "dooblz",
+    "action": "Trash",
+    "cards": ["OP09-057", "OP09-057", "OP09-048", "P-084", "OP09-043", "OP09-057", "OP09-054", "OP09-045"]
+  },
+  "log_190": {
+    "player": "dooblz",
+    "action": "Board",
+    "cards": ["OP09-056", "P-084", "P-084", "OP09-045"]
+  },
+  "log_191": {
+    "player": "dooblz",
+    "action": "Life",
+    "value": 3
+  },
+  "log_192": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log_193": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "ST17-002"
+  },
+  "log_194": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log_195": {
+    "player": "Moroff",
+    "action": "Sent a Card to Deck Top"
+  },
+  "log_196": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log_197": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log_198": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "ST17-005",
+    "total_don": 1
+  },
+  "log_199": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "ST17-005",
+    "total_don": 2
+  },
+  "log_200": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "ST17-005",
+    "total_don": 3
+  },
+  "log_201": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "ST17-005",
+    "total_don": 4
+  },
+  "log_202": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "ST17-005",
+    "defender": "OP09-056"
+  },
+  "log_203": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "ST17-005",
+    "attacker_power": 7000,
+    "defender": "OP09-056",
+    "defender_power": 2000
+  },
+  "log_204": {
+    "player": "dooblz",
+    "action": "Destroyed",
+    "card": "OP09-056"
+  },
+  "log_205": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 3
+  },
+  "log_206": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 4
+  },
+  "log_207": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 5
+  },
+  "log_208": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 6
+  },
+  "log_209": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP09-042"
+  },
+  "log_210": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "attacker_power": 11000,
+    "defender": "OP09-042",
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log_211": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["OP08-047", "ST17-002"]
+  },
+  "log_212": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["ST17-003", "ST17-003", "ST17-005", "OP06-047", "EB01-023"]
+  },
+  "log_213": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-004", "OP06-058", "OP07-046", "OP07-040"]
+  },
+  "log_214": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 3
+  },
+  "log_215": {
+    "player": "dooblz",
+    "action": "Hand",
+    "cards": ["OP09-045", "OP06-047", "OP09-051", "EB01-027", "OP09-053"]
+  },
+  "log_216": {
+    "player": "dooblz",
+    "action": "Trash",
+    "cards": ["OP09-057", "OP09-057", "OP09-048", "P-084", "OP09-043", "OP09-057", "OP09-054", "OP09-045", "OP09-056"]
+  },
+  "log_217": {
+    "player": "dooblz",
+    "action": "Board",
+    "cards": ["OP09-056", "P-084", "P-084", "OP09-045"]
+  },
+  "log_218": {
+    "player": "dooblz",
+    "action": "Life",
+    "value": 2
+  },
+  "log_219": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_220": {
+    "player": "dooblz",
+    "action": "Draw 1 Card"
+  },
+  "log_221": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "EB01-027"
+  },
+  "log_222": {
+    "player": "dooblz",
+    "action": "Draw 2 Don"
+  },
+  "log_223": {
+    "player": "dooblz",
+    "action": "Deploy",
+    "card": "EB01-027"
+  },
+  "log_224": {
+    "player": "dooblz",
+    "action": "Mr. 1 (Daz Bonez)",
+    "card": "EB01-027",
+    "effect": "Draw 2 Card"
+  },
+  "log_225": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "OP09-048"
+  },
+  "log_226": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "OP09-056"
+  },
+  "log_227": {
+    "player": "dooblz",
+    "action": "Trash",
+    "card": "OP06-047"
+  },
+  "log_228": {
+    "player": "dooblz",
+    "action": "Buggy",
+    "card": "OP09-042",
+    "effect": "Trash",
+    "target": "OP09-056"
+  },
+  "log_229": {
+    "player": "dooblz",
+    "action": "Trash",
+    "card": "OP09-056"
+  },
+  "log_230": {
+    "player": "dooblz",
+    "action": "Buggy",
+    "card": "OP09-051",
+    "effect": "Send to Deck Bottom",
+    "target": "ST17-005"
+  },
+  "log_231": {
+    "player": "dooblz",
+    "action": "attacking",
+    "attacker": "OP09-042",
+    "defender": "OP01-060"
+  },
+  "log_232": {
+    "player": "dooblz",
+    "action": "attacking",
+    "attacker": "OP09-042",
+    "attacker_power": 5000,
+    "defender": "OP01-060",
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log_233": {
+    "player": "dooblz",
+    "action": "attacking",
+    "attacker": "OP09-045",
+    "defender": "OP01-060"
+  },
+  "log_234": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "OP08-047",
+    "counter": 1000
+  },
+  "log_235": {
+    "player": "dooblz",
+    "action": "attacking",
+    "attacker": "OP09-045",
+    "attacker_power": 5000,
+    "defender": "OP01-060",
+    "defender_power": 6000,
+    "result": "Attack Fails"
+  },
+  "log_236": {
+    "player": "dooblz",
+    "action": "End Turn"
+  },
+  "log_237": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["ST17-002", "OP07-040"]
+  },
+  "log_238": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["ST17-003", "ST17-003", "OP06-047", "EB01-023"]
+  },
+  "log_239": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-004", "OP06-058", "OP07-046", "OP07-040", "OP08-047"]
+  },
+  "log_240": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 2
+  },
+  "log_241": {
+    "player": "dooblz",
+    "action": "Hand",
+    "cards": ["OP09-045", "EB01-027", "OP09-053", "OP09-048"]
+  },
+  "log_242": {
+    "player": "dooblz",
+    "action": "Trash",
+    "cards": ["OP09-057", "OP09-057", "OP09-048", "P-084", "OP09-043", "OP09-057", "OP09-054", "OP09-045", "OP09-056", "OP06-047", "OP09-056", "OP09-056"]
+  },
+  "log_243": {
+    "player": "dooblz",
+    "action": "Board",
+    "cards": ["P-084", "P-084", "OP09-045", "EB01-027", "OP09-051"]
+  },
+  "log_244": {
+    "player": "dooblz",
+    "action": "Life",
+    "value": 2
+  },
+  "log_245": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log_246": {
+    "player": "Moroff",
+    "action": "Drew card from deck",
+    "card": "OP07-040"
+  },
+  "log_247": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "ST17-003",
+    "total_don": 1
+  },
+  "log_248": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "ST17-003",
+    "total_don": 2
+  },
+  "log_249": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "ST17-003",
+    "total_don": 3
+  },
+  "log_250": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "ST17-003",
+    "total_don": 4
+  },
+  "log_251": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "ST17-003",
+    "total_don": 5
+  },
+  "log_252": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "ST17-003",
+    "defender": "OP09-042"
+  },
+  "log_253": {
+    "player": "dooblz",
+    "action": "Discard",
+    "card": "OP09-053",
+    "counter": 2000
+  },
+  "log_254": {
+    "player": "dooblz",
+    "action": "Discard",
+    "card": "EB01-027",
+    "counter": 1000
+  },
+  "log_255": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "ST17-003",
+    "attacker_power": 7000,
+    "defender": "OP09-042",
+    "defender_power": 8000,
+    "result": "Attack Fails"
+  },
+  "log_256": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log_257": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log_258": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 3
+  },
+  "log_259": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 4
+  },
+  "log_260": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to",
+    "card": "OP01-060",
+    "total_don": 5
+  },
+  "log_261": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP09-042"
+  },
+  "log_262": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "attacker_power": 10000,
+    "defender": "OP09-042",
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log_263": {
+    "player": "dooblz",
+    "action": "Sanji's Pilaf",
+    "card": "OP03-056",
+    "effect": "Draw 2 Card"
+  },
+  "log_264": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "OP09-046"
+  },
+  "log_265": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "OP03-056"
+  },
+  "log_266": {
+    "player": "Moroff",
+    "action": "Hand",
+    "cards": ["ST17-002", "OP07-040", "OP07-040"]
+  },
+  "log_267": {
+    "player": "Moroff",
+    "action": "Board",
+    "cards": ["ST17-003", "ST17-003", "OP06-047", "EB01-023"]
+  },
+  "log_268": {
+    "player": "Moroff",
+    "action": "Trash",
+    "cards": ["ST03-004", "OP06-058", "OP07-046", "OP07-040", "OP08-047"]
+  },
+  "log_269": {
+    "player": "Moroff",
+    "action": "Life",
+    "value": 2
+  },
+  "log_270": {
+    "player": "dooblz",
+    "action": "Hand",
+    "cards": ["OP09-045", "OP09-048", "OP09-046", "OP03-056"]
+  },
+  "log_271": {
+    "player": "dooblz",
+    "action": "Trash",
+    "cards": ["OP09-057", "OP09-057", "OP09-048", "P-084", "OP09-043", "OP09-057", "OP09-054", "OP09-045", "OP09-056", "OP06-047", "OP09-056", "OP09-056", "OP09-053", "EB01-027", "OP03-056"]
+  },
+  "log_272": {
+    "player": "dooblz",
+    "action": "Board",
+    "cards": ["P-084", "P-084", "OP09-045", "EB01-027", "OP09-051"]
+  },
+  "log_273": {
+    "player": "dooblz",
+    "action": "Life",
+    "value": 1
+  },
+  "log_274": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log_275": {
+    "player": "dooblz",
+    "action": "Draw 1 Card"
+  },
+  "log_276": {
+    "player": "dooblz",
+    "action": "Drew card from deck",
+    "card": "OP09-046"
+  },
+  "log_277": {
+    "player": "dooblz",
+    "action": "Attach 2 Don to",
+    "card": "OP09-045",
+    "total_don": 2
+  },
+  "log_278": {
+    "player": "dooblz",
+    "action": "attacking",
+    "attacker": "OP09-045",
+    "defender": "OP01-060"
+  },
+  "log_279": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "OP07-040",
+    "counter": 2000
+  },
+  "log_280": {
+    "player": "Moroff",
+    "action": "Discard",
+    "card": "ST17-002",
+    "counter": 1000
+  },
+  "log_281": {
+    "player": "dooblz",
+    "action": "attacking",
+    "attacker": "OP09-045",
+    "attacker_power": 7000,
+    "defender": "OP01-060",
+    "defender_power": 8000,
+    "result": "Attack Fails"
+  },
+  "log_282": {
+    "player": "dooblz",
+    "action": "Attach 1 Don to",
+    "card": "EB01-027",
+    "total_don": 1
+  },
+  "log_283": {
+    "player": "dooblz",
+    "action": "attacking",
+    "attacker": "EB01-027",
+    "defender": "OP01-060"
+  },
+  "log_284": {
+    "player": "dooblz",
+    "action": "attacking",
+    "attacker": "EB01-027",
+    "attacker_power": 7000,
+    "defender": "OP01-060",
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log_285": {
+    "player": "dooblz",
+    "action": "Attach 4 Don to",
+    "card": "OP09-042",
+    "total_don": 4
+  },
+  "log_286": {
+    "player": "dooblz",
+    "action": "attacking",
+    "attacker": "OP09-042",
+    "defender": "OP01-060"
+  },
+  "log_287": {
+    "player": "dooblz",
+    "action": "attacking",
+    "attacker": "OP09-042",
+    "attacker_power": 9000,
+    "defender": "OP01-060",
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log_288": {
+    "player": "Moroff",
+    "action": "Gravity Blade Raging Tiger",
+    "card": "OP06-058",
+    "effect": "Send to Deck Bottom",
+    "target": "EB01-027"
+  },
+  "log_289": {
+    "player": "dooblz",
+    "action": "Attach 3 Don to",
+    "card": "OP09-051",
+    "total_don": 3
+  },
+  "log_290": {
+    "player": "dooblz",
+    "action": "attacking",
+    "attacker": "OP09-051",
+    "defender": "OP01-060"
+  },
+  "log_291": {
+    "player": "dooblz",
+    "action": "attacking",
+    "attacker": "OP09-051",
+    "attacker_power": 15000,
+    "defender": "OP01-060",
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log_292": {
+    "player": "Moroff",
+    "action": "Loses"
+  },
+  "log_293": {
+    "player": "dooblz",
+    "action": "Wins!"
+  }
+}

@@ -1,0 +1,1304 @@
+{
+  "log-001": {
+    "player": "Moroff",
+    "action": "Leader is Donquixote Doflamingo",
+    "card": "OP01-060"
+  },
+  "log-002": {
+    "player": "Pirate26370",
+    "action": "Leader is Enel",
+    "card": "OP05-098"
+  },
+  "log-003": {
+    "player": "Moroff",
+    "action": "Will select turn order"
+  },
+  "log-004": {
+    "player": "Moroff",
+    "action": "Chose to go First"
+  },
+  "log-005": {
+    "player": "Moroff",
+    "action": "Drew card from deck: Sengoku",
+    "card": "OP07-046"
+  },
+  "log-006": {
+    "player": "Moroff",
+    "action": "Drew card from deck: Boa Hancock",
+    "card": "ST17-004"
+  },
+  "log-007": {
+    "player": "Moroff",
+    "action": "Drew card from deck: Sengoku",
+    "card": "OP07-046"
+  },
+  "log-008": {
+    "player": "Moroff",
+    "action": "Drew card from deck: Gecko Moria",
+    "card": "ST03-004"
+  },
+  "log-009": {
+    "player": "Moroff",
+    "action": "Drew card from deck: Buggy",
+    "card": "ST17-003"
+  },
+  "log-010": {
+    "player": "Moroff",
+    "action": "Hand before Mulligan: [OP07-046,ST17-004,OP07-046,ST03-004,ST17-003]"
+  },
+  "log-011": {
+    "player": "Pirate26370",
+    "action": "Drew card from deck: Nami",
+    "card": "OP08-106"
+  },
+  "log-012": {
+    "player": "Pirate26370",
+    "action": "Drew card from deck: Capone \"Gang\" Bege",
+    "card": "OP04-100"
+  },
+  "log-013": {
+    "player": "Pirate26370",
+    "action": "Drew card from deck: You're the one who should disappear!",
+    "card": "OP06-115"
+  },
+  "log-014": {
+    "player": "Pirate26370",
+    "action": "Drew card from deck: Franky",
+    "card": "OP07-107"
+  },
+  "log-015": {
+    "player": "Pirate26370",
+    "action": "Drew card from deck: Charlotte Brulee",
+    "card": "ST07-007"
+  },
+  "log-016": {
+    "player": "Pirate26370",
+    "action": "Drew card from deck: Charlotte Brulee",
+    "card": "ST07-007"
+  },
+  "log-017": {
+    "player": "Pirate26370",
+    "action": "Drew card from deck: Gedatsu",
+    "card": "OP05-102"
+  },
+  "log-018": {
+    "player": "Pirate26370",
+    "action": "Drew card from deck: Gedatsu",
+    "card": "OP05-102"
+  },
+  "log-019": {
+    "player": "Pirate26370",
+    "action": "Drew card from deck: Shirahoshi",
+    "card": "EB01-057"
+  },
+  "log-020": {
+    "player": "Pirate26370",
+    "action": "Drew card from deck: X. Drake",
+    "card": "OP10-114"
+  },
+  "log-021": {
+    "player": "Pirate26370",
+    "action": "Mulligan"
+  },
+  "log-022": {
+    "player": "Moroff",
+    "action": "Hand: [OP07-046,ST17-004,OP07-046,ST03-004,ST17-003]"
+  },
+  "log-023": {
+    "player": "Moroff",
+    "action": "Board: []"
+  },
+  "log-024": {
+    "player": "Moroff",
+    "action": "Trash: []"
+  },
+  "log-025": {
+    "player": "Moroff",
+    "action": "Life: 5"
+  },
+  "log-026": {
+    "player": "Pirate26370",
+    "action": "Hand: [ST07-007,OP05-102,OP05-102,EB01-057,OP10-114]"
+  },
+  "log-027": {
+    "player": "Pirate26370",
+    "action": "Trash: []"
+  },
+  "log-028": {
+    "player": "Pirate26370",
+    "action": "Board: []"
+  },
+  "log-029": {
+    "player": "Pirate26370",
+    "action": "Life: 4"
+  },
+  "log-030": {
+    "player": "Moroff",
+    "action": "Draw 1 Don"
+  },
+  "log-031": {
+    "player": "Moroff",
+    "action": "Deploy Sengoku",
+    "card": "OP07-046"
+  },
+  "log-032": {
+    "player": "Moroff",
+    "action": "Reveal and Draw Marshall D. Teach",
+    "card": "ST17-005"
+  },
+  "log-033": {
+    "player": "Moroff",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-034": {
+    "player": "Moroff",
+    "action": "Hand: [OP07-046,ST17-004,ST03-004,ST17-003,ST17-005]"
+  },
+  "log-035": {
+    "player": "Moroff",
+    "action": "Board: [OP07-046]"
+  },
+  "log-036": {
+    "player": "Moroff",
+    "action": "Trash: []"
+  },
+  "log-037": {
+    "player": "Moroff",
+    "action": "Life: 5"
+  },
+  "log-038": {
+    "player": "Pirate26370",
+    "action": "Hand: [ST07-007,OP05-102,OP05-102,EB01-057,OP10-114]"
+  },
+  "log-039": {
+    "player": "Pirate26370",
+    "action": "Trash: []"
+  },
+  "log-040": {
+    "player": "Pirate26370",
+    "action": "Board: []"
+  },
+  "log-041": {
+    "player": "Pirate26370",
+    "action": "Life: 4"
+  },
+  "log-042": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-043": {
+    "player": "Pirate26370",
+    "action": "Draw 1 Card"
+  },
+  "log-044": {
+    "player": "Pirate26370",
+    "action": "Drew card from deck: Damned Punk: Electromagnetic Cannon",
+    "card": "OP10-116"
+  },
+  "log-045": {
+    "player": "Pirate26370",
+    "action": "Draw 2 Don"
+  },
+  "log-046": {
+    "player": "Pirate26370",
+    "action": "Deploy Shirahoshi",
+    "card": "EB01-057"
+  },
+  "log-047": {
+    "player": "Pirate26370",
+    "action": "End Turn"
+  },
+  "log-048": {
+    "player": "Moroff",
+    "action": "Hand: [OP07-046,ST17-004,ST03-004,ST17-003,ST17-005]"
+  },
+  "log-049": {
+    "player": "Moroff",
+    "action": "Board: [OP07-046]"
+  },
+  "log-050": {
+    "player": "Moroff",
+    "action": "Trash: []"
+  },
+  "log-051": {
+    "player": "Moroff",
+    "action": "Life: 5"
+  },
+  "log-052": {
+    "player": "Pirate26370",
+    "action": "Hand: [ST07-007,OP05-102,OP05-102,OP10-114,OP10-116]"
+  },
+  "log-053": {
+    "player": "Pirate26370",
+    "action": "Trash: []"
+  },
+  "log-054": {
+    "player": "Pirate26370",
+    "action": "Board: [EB01-057]"
+  },
+  "log-055": {
+    "player": "Pirate26370",
+    "action": "Life: 4"
+  },
+  "log-056": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-057": {
+    "player": "Moroff",
+    "action": "Drew card from deck: Gecko Moria",
+    "card": "ST03-004"
+  },
+  "log-058": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-059": {
+    "player": "Moroff",
+    "action": "Deploy Marshall D. Teach",
+    "card": "ST17-005"
+  },
+  "log-060": {
+    "player": "Moroff",
+    "action": "Sent a Card to Deck Top"
+  },
+  "log-061": {
+    "player": "Moroff",
+    "action": "Marshall D. Teach",
+    "card": "ST17-005",
+    "effect": "Attach 1 Rested Don to Donquixote Doflamingo",
+    "target_card": "OP01-060"
+  },
+  "log-062": {
+    "player": "Moroff",
+    "action": "Marshall D. Teach",
+    "card": "ST17-005",
+    "effect": "Attach 1 Rested Don to Donquixote Doflamingo",
+    "target_card": "OP01-060"
+  },
+  "log-063": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP05-098"
+  },
+  "log-064": {
+    "player": "Moroff",
+    "action": "Donquixote Doflamingo",
+    "card": "OP01-060",
+    "effect": "revealed: Gecko Moria",
+    "target_card": "ST03-004"
+  },
+  "log-065": {
+    "player": "Moroff",
+    "action": "Deploy Gecko Moria from Deck",
+    "card": "ST03-004"
+  },
+  "log-066": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP05-098",
+    "attacker_power": 7000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-067": {
+    "player": "Moroff",
+    "action": "Hand: [OP07-046,ST17-004,ST03-004,ST17-003]"
+  },
+  "log-068": {
+    "player": "Moroff",
+    "action": "Board: [OP07-046,ST17-005,ST03-004]"
+  },
+  "log-069": {
+    "player": "Moroff",
+    "action": "Trash: []"
+  },
+  "log-070": {
+    "player": "Moroff",
+    "action": "Life: 5"
+  },
+  "log-071": {
+    "player": "Pirate26370",
+    "action": "Hand: [ST07-007,OP05-102,OP05-102,OP10-114,OP10-116,EB02-054]"
+  },
+  "log-072": {
+    "player": "Pirate26370",
+    "action": "Trash: []"
+  },
+  "log-073": {
+    "player": "Pirate26370",
+    "action": "Board: [EB01-057]"
+  },
+  "log-074": {
+    "player": "Pirate26370",
+    "action": "Life: 3"
+  },
+  "log-075": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-076": {
+    "player": "Pirate26370",
+    "action": "Draw 1 Card"
+  },
+  "log-077": {
+    "player": "Pirate26370",
+    "action": "Drew card from deck: Enel",
+    "card": "EB02-052"
+  },
+  "log-078": {
+    "player": "Pirate26370",
+    "action": "Draw 2 Don"
+  },
+  "log-079": {
+    "player": "Pirate26370",
+    "action": "attacking",
+    "attacker": "OP05-098",
+    "defender": "ST03-004"
+  },
+  "log-080": {
+    "player": "Pirate26370",
+    "action": "attacking",
+    "attacker": "OP05-098",
+    "defender": "ST03-004",
+    "attacker_power": 5000,
+    "defender_power": 5000
+  },
+  "log-081": {
+    "player": "Moroff",
+    "action": "Gecko Moria Destroyed",
+    "card": "ST03-004"
+  },
+  "log-082": {
+    "player": "Pirate26370",
+    "action": "Damned Punk: Electromagnetic Cannon",
+    "card": "OP10-116",
+    "effect": "Looked at their own top Life"
+  },
+  "log-083": {
+    "player": "Pirate26370",
+    "action": "Damned Punk: Electromagnetic Cannon",
+    "card": "OP10-116",
+    "effect": "Left at the Top"
+  },
+  "log-084": {
+    "player": "Pirate26370",
+    "action": "Damned Punk: Electromagnetic Cannon",
+    "card": "OP10-116",
+    "effect": "Destroy Marshall D. Teach",
+    "target_card": "ST17-005"
+  },
+  "log-085": {
+    "player": "Pirate26370",
+    "action": "End Turn"
+  },
+  "log-086": {
+    "player": "Moroff",
+    "action": "Hand: [OP07-046,ST17-004,ST03-004,ST17-003]"
+  },
+  "log-087": {
+    "player": "Moroff",
+    "action": "Board: [OP07-046]"
+  },
+  "log-088": {
+    "player": "Moroff",
+    "action": "Trash: [ST03-004,ST17-005]"
+  },
+  "log-089": {
+    "player": "Moroff",
+    "action": "Life: 5"
+  },
+  "log-090": {
+    "player": "Pirate26370",
+    "action": "Hand: [ST07-007,OP05-102,OP05-102,OP10-114,EB02-054,EB02-052]"
+  },
+  "log-091": {
+    "player": "Pirate26370",
+    "action": "Trash: [OP10-116]"
+  },
+  "log-092": {
+    "player": "Pirate26370",
+    "action": "Board: [EB01-057]"
+  },
+  "log-093": {
+    "player": "Pirate26370",
+    "action": "Life: 3"
+  },
+  "log-094": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-095": {
+    "player": "Moroff",
+    "action": "Drew card from deck: Perona",
+    "card": "OP01-077"
+  },
+  "log-096": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-097": {
+    "player": "Moroff",
+    "action": "Deploy Boa Hancock",
+    "card": "ST17-004"
+  },
+  "log-098": {
+    "player": "Moroff",
+    "action": "Placing Cards on Top of Deck"
+  },
+  "log-099": {
+    "player": "Moroff",
+    "action": "Boa Hancock",
+    "card": "ST17-004",
+    "effect": "Attach 1 Rested Don to Donquixote Doflamingo",
+    "target_card": "OP01-060"
+  },
+  "log-100": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log-101": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP05-098"
+  },
+  "log-102": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP05-098",
+    "attacker_power": 7000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-103": {
+    "player": "Pirate26370",
+    "action": "Charlotte Brulee",
+    "card": "ST07-007",
+    "effect": "Deploy Charlotte Brulee",
+    "target_card": "ST07-007"
+  },
+  "log-104": {
+    "player": "Moroff",
+    "action": "Hand: [OP07-046,ST03-004,ST17-003,OP01-077]"
+  },
+  "log-105": {
+    "player": "Moroff",
+    "action": "Board: [OP07-046,ST17-004]"
+  },
+  "log-106": {
+    "player": "Moroff",
+    "action": "Trash: [ST03-004,ST17-005]"
+  },
+  "log-107": {
+    "player": "Moroff",
+    "action": "Life: 5"
+  },
+  "log-108": {
+    "player": "Pirate26370",
+    "action": "Hand: [ST07-007,OP05-102,OP05-102,OP10-114,EB02-054,EB02-052]"
+  },
+  "log-109": {
+    "player": "Pirate26370",
+    "action": "Trash: [OP10-116]"
+  },
+  "log-110": {
+    "player": "Pirate26370",
+    "action": "Board: [EB01-057,ST07-007]"
+  },
+  "log-111": {
+    "player": "Pirate26370",
+    "action": "Life: 2"
+  },
+  "log-112": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-113": {
+    "player": "Pirate26370",
+    "action": "Draw 1 Card"
+  },
+  "log-114": {
+    "player": "Pirate26370",
+    "action": "Drew card from deck: Eustass \"Captain\" Kid",
+    "card": "OP10-112"
+  },
+  "log-115": {
+    "player": "Pirate26370",
+    "action": "Draw 2 Don"
+  },
+  "log-116": {
+    "player": "Pirate26370",
+    "action": "Deploy Gedatsu",
+    "card": "OP05-102"
+  },
+  "log-117": {
+    "player": "Pirate26370",
+    "action": "Gedatsu",
+    "card": "OP05-102",
+    "effect": "Destroy Boa Hancock",
+    "target_card": "ST17-004"
+  },
+  "log-118": {
+    "player": "Pirate26370",
+    "action": "Attach 1 Don to Enel",
+    "card": "OP05-098",
+    "total_don": 1
+  },
+  "log-119": {
+    "player": "Pirate26370",
+    "action": "attacking",
+    "attacker": "OP05-098",
+    "defender": "OP01-060"
+  },
+  "log-120": {
+    "player": "Moroff",
+    "action": "Discard Gecko Moria for Counter 1000",
+    "card": "ST03-004",
+    "counter": 1000
+  },
+  "log-121": {
+    "player": "Pirate26370",
+    "action": "attacking",
+    "attacker": "OP05-098",
+    "defender": "OP01-060",
+    "attacker_power": 6000,
+    "defender_power": 6000
+  },
+  "log-122": {
+    "player": "Pirate26370",
+    "action": "Enel",
+    "card": "OP05-098",
+    "effect": "hit for 1 damage"
+  },
+  "log-123": {
+    "player": "Pirate26370",
+    "action": "End Turn"
+  },
+  "log-124": {
+    "player": "Moroff",
+    "action": "Hand: [OP07-046,ST17-003,OP01-077,OP08-047]"
+  },
+  "log-125": {
+    "player": "Moroff",
+    "action": "Board: [OP07-046]"
+  },
+  "log-126": {
+    "player": "Moroff",
+    "action": "Trash: [ST03-004,ST17-005,ST17-004,ST03-004]"
+  },
+  "log-127": {
+    "player": "Moroff",
+    "action": "Life: 4"
+  },
+  "log-128": {
+    "player": "Pirate26370",
+    "action": "Hand: [ST07-007,OP05-102,OP10-114,EB02-054,EB02-052,OP10-112]"
+  },
+  "log-129": {
+    "player": "Pirate26370",
+    "action": "Trash: [OP10-116]"
+  },
+  "log-130": {
+    "player": "Pirate26370",
+    "action": "Board: [EB01-057,ST07-007,OP05-102]"
+  },
+  "log-131": {
+    "player": "Pirate26370",
+    "action": "Life: 2"
+  },
+  "log-132": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-133": {
+    "player": "Moroff",
+    "action": "Drew card from deck: Trafalgar Law",
+    "card": "ST17-002"
+  },
+  "log-134": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-135": {
+    "player": "Moroff",
+    "action": "Deploy Buggy",
+    "card": "ST17-003"
+  },
+  "log-136": {
+    "player": "Moroff",
+    "action": "Placing Cards on Top of Deck"
+  },
+  "log-137": {
+    "player": "Moroff",
+    "action": "Deploy Perona",
+    "card": "OP01-077"
+  },
+  "log-138": {
+    "player": "Moroff",
+    "action": "Placing Cards on Top of Deck"
+  },
+  "log-139": {
+    "player": "Moroff",
+    "action": "Attach 3 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 3
+  },
+  "log-140": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 4
+  },
+  "log-141": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP05-098"
+  },
+  "log-142": {
+    "player": "Moroff",
+    "action": "Donquixote Doflamingo",
+    "card": "OP01-060",
+    "effect": "revealed: Charlotte Pudding",
+    "target_card": "OP06-047"
+  },
+  "log-143": {
+    "player": "Pirate26370",
+    "action": "Charlotte Brulee Blocks",
+    "card": "ST07-007"
+  },
+  "log-144": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "ST07-007",
+    "attacker_power": 9000,
+    "defender_power": 1000
+  },
+  "log-145": {
+    "player": "Pirate26370",
+    "action": "Charlotte Brulee Destroyed",
+    "card": "ST07-007"
+  },
+  "log-146": {
+    "player": "Moroff",
+    "action": "Hand: [OP07-046,OP08-047,ST17-002]"
+  },
+  "log-147": {
+    "player": "Moroff",
+    "action": "Board: [OP07-046,ST17-003,OP01-077]"
+  },
+  "log-148": {
+    "player": "Moroff",
+    "action": "Trash: [ST03-004,ST17-005,ST17-004,ST03-004]"
+  },
+  "log-149": {
+    "player": "Moroff",
+    "action": "Life: 4"
+  },
+  "log-150": {
+    "player": "Pirate26370",
+    "action": "Hand: [ST07-007,OP05-102,OP10-114,EB02-054,EB02-052,OP10-112]"
+  },
+  "log-151": {
+    "player": "Pirate26370",
+    "action": "Trash: [OP10-116,ST07-007]"
+  },
+  "log-152": {
+    "player": "Pirate26370",
+    "action": "Board: [EB01-057,OP05-102]"
+  },
+  "log-153": {
+    "player": "Pirate26370",
+    "action": "Life: 2"
+  },
+  "log-154": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-155": {
+    "player": "Pirate26370",
+    "action": "Draw 1 Card"
+  },
+  "log-156": {
+    "player": "Pirate26370",
+    "action": "Drew card from deck: Charlotte Brulee",
+    "card": "ST07-007"
+  },
+  "log-157": {
+    "player": "Pirate26370",
+    "action": "Draw 2 Don"
+  },
+  "log-158": {
+    "player": "Pirate26370",
+    "action": "Deploy Charlotte Brulee",
+    "card": "ST07-007"
+  },
+  "log-159": {
+    "player": "Pirate26370",
+    "action": "Deploy Charlotte Brulee",
+    "card": "ST07-007"
+  },
+  "log-160": {
+    "player": "Pirate26370",
+    "action": "Attach 2 Don to Enel",
+    "card": "OP05-098",
+    "total_don": 2
+  },
+  "log-161": {
+    "player": "Pirate26370",
+    "action": "attacking",
+    "attacker": "OP05-102",
+    "defender": "OP01-060"
+  },
+  "log-162": {
+    "player": "Pirate26370",
+    "action": "attacking",
+    "attacker": "OP05-102",
+    "defender": "OP01-060",
+    "attacker_power": 6000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-163": {
+    "player": "Pirate26370",
+    "action": "attacking",
+    "attacker": "OP05-098",
+    "defender": "OP01-060"
+  },
+  "log-164": {
+    "player": "Pirate26370",
+    "action": "attacking",
+    "attacker": "OP05-098",
+    "defender": "OP01-060",
+    "attacker_power": 7000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-165": {
+    "player": "Pirate26370",
+    "action": "End Turn"
+  },
+  "log-166": {
+    "player": "Moroff",
+    "action": "Hand: [OP07-046,OP08-047,ST17-002,ST17-004,EB01-023]"
+  },
+  "log-167": {
+    "player": "Moroff",
+    "action": "Board: [OP07-046,ST17-003,OP01-077]"
+  },
+  "log-168": {
+    "player": "Moroff",
+    "action": "Trash: [ST03-004,ST17-005,ST17-004,ST03-004]"
+  },
+  "log-169": {
+    "player": "Moroff",
+    "action": "Life: 2"
+  },
+  "log-170": {
+    "player": "Pirate26370",
+    "action": "Hand: [OP05-102,OP10-114,EB02-054,EB02-052,OP10-112]"
+  },
+  "log-171": {
+    "player": "Pirate26370",
+    "action": "Trash: [OP10-116,ST07-007]"
+  },
+  "log-172": {
+    "player": "Pirate26370",
+    "action": "Board: [EB01-057,OP05-102,ST07-007,ST07-007]"
+  },
+  "log-173": {
+    "player": "Pirate26370",
+    "action": "Life: 2"
+  },
+  "log-174": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-175": {
+    "player": "Moroff",
+    "action": "Drew card from deck: Charlotte Pudding",
+    "card": "OP06-047"
+  },
+  "log-176": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-177": {
+    "player": "Moroff",
+    "action": "Deploy Boa Hancock",
+    "card": "ST17-004"
+  },
+  "log-178": {
+    "player": "Moroff",
+    "action": "Placing Cards on Top of Deck"
+  },
+  "log-179": {
+    "player": "Moroff",
+    "action": "Boa Hancock",
+    "card": "ST17-004",
+    "effect": "Attach 1 Rested Don to Donquixote Doflamingo",
+    "target_card": "OP01-060"
+  },
+  "log-180": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log-181": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 3
+  },
+  "log-182": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 4
+  },
+  "log-183": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 5
+  },
+  "log-184": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP05-102"
+  },
+  "log-185": {
+    "player": "Moroff",
+    "action": "Donquixote Doflamingo",
+    "card": "OP01-060",
+    "effect": "revealed: Perfume Femur",
+    "target_card": "OP07-057"
+  },
+  "log-186": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP05-102",
+    "attacker_power": 10000,
+    "defender_power": 6000
+  },
+  "log-187": {
+    "player": "Pirate26370",
+    "action": "Gedatsu Destroyed",
+    "card": "OP05-102"
+  },
+  "log-188": {
+    "player": "Moroff",
+    "action": "Hand: [OP07-046,OP08-047,ST17-002,EB01-023,OP06-047]"
+  },
+  "log-189": {
+    "player": "Moroff",
+    "action": "Board: [OP07-046,ST17-003,OP01-077,ST17-004]"
+  },
+  "log-190": {
+    "player": "Moroff",
+    "action": "Trash: [ST03-004,ST17-005,ST17-004,ST03-004]"
+  },
+  "log-191": {
+    "player": "Moroff",
+    "action": "Life: 2"
+  },
+  "log-192": {
+    "player": "Pirate26370",
+    "action": "Hand: [OP05-102,OP10-114,EB02-054,EB02-052,OP10-112]"
+  },
+  "log-193": {
+    "player": "Pirate26370",
+    "action": "Trash: [OP10-116,ST07-007,OP05-102]"
+  },
+  "log-194": {
+    "player": "Pirate26370",
+    "action": "Board: [EB01-057,ST07-007,ST07-007]"
+  },
+  "log-195": {
+    "player": "Pirate26370",
+    "action": "Life: 2"
+  },
+  "log-196": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-197": {
+    "player": "Pirate26370",
+    "action": "Draw 1 Card"
+  },
+  "log-198": {
+    "player": "Pirate26370",
+    "action": "Drew card from deck: Portgas D. Ace",
+    "card": "OP07-119"
+  },
+  "log-199": {
+    "player": "Pirate26370",
+    "action": "Draw 2 Don"
+  },
+  "log-200": {
+    "player": "Pirate26370",
+    "action": "Deploy Eustass \"Captain\" Kid",
+    "card": "OP10-112"
+  },
+  "log-201": {
+    "player": "Pirate26370",
+    "action": "Eustass \"Captain\" Kid",
+    "card": "OP10-112",
+    "effect": "Rest Eustass \"Captain\" Kid",
+    "target_card": "OP10-112"
+  },
+  "log-202": {
+    "player": "Pirate26370",
+    "action": "Eustass \"Captain\" Kid",
+    "card": "OP10-112",
+    "effect": "Trash 1 Life"
+  },
+  "log-203": {
+    "player": "Pirate26370",
+    "action": "Trash Boa Hancock from Life",
+    "card": "ST17-004"
+  },
+  "log-204": {
+    "player": "Pirate26370",
+    "action": "Attach 2 Don to Enel",
+    "card": "OP05-098",
+    "total_don": 2
+  },
+  "log-205": {
+    "player": "Pirate26370",
+    "action": "attacking",
+    "attacker": "OP05-098",
+    "defender": "OP01-060"
+  },
+  "log-206": {
+    "player": "Moroff",
+    "action": "Discard Sengoku for Counter 1000",
+    "card": "OP07-046",
+    "counter": 1000
+  },
+  "log-207": {
+    "player": "Moroff",
+    "action": "Discard Jozu for Counter 1000",
+    "card": "OP08-047",
+    "counter": 1000
+  },
+  "log-208": {
+    "player": "Moroff",
+    "action": "Discard Trafalgar Law for Counter 1000",
+    "card": "ST17-002",
+    "counter": 1000
+  },
+  "log-209": {
+    "player": "Pirate26370",
+    "action": "attacking",
+    "attacker": "OP05-098",
+    "defender": "OP01-060",
+    "attacker_power": 7000,
+    "defender_power": 8000,
+    "result": "Attack Fails"
+  },
+  "log-210": {
+    "player": "Pirate26370",
+    "action": "Drew card from deck: Shirahoshi",
+    "card": "EB01-057"
+  },
+  "log-211": {
+    "player": "Pirate26370",
+    "action": "Eustass \"Captain\" Kid",
+    "card": "OP10-112",
+    "effect": "Draw 1 Card"
+  },
+  "log-212": {
+    "player": "Pirate26370",
+    "action": "Eustass \"Captain\" Kid",
+    "card": "OP10-112",
+    "effect": "Trash Gedatsu",
+    "target_card": "OP05-102"
+  },
+  "log-213": {
+    "player": "Pirate26370",
+    "action": "End Turn"
+  },
+  "log-214": {
+    "player": "Moroff",
+    "action": "Hand: [EB01-023,OP06-047]"
+  },
+  "log-215": {
+    "player": "Moroff",
+    "action": "Board: [OP07-046,ST17-003,OP01-077,ST17-004]"
+  },
+  "log-216": {
+    "player": "Moroff",
+    "action": "Trash: [ST03-004,ST17-005,ST17-004,ST03-004,ST17-004,OP07-046,OP08-047,ST17-002]"
+  },
+  "log-217": {
+    "player": "Moroff",
+    "action": "Life: 1"
+  },
+  "log-218": {
+    "player": "Pirate26370",
+    "action": "Hand: [OP10-114,EB02-054,EB02-052,OP07-119,EB01-057]"
+  },
+  "log-219": {
+    "player": "Pirate26370",
+    "action": "Trash: [OP10-116,ST07-007,OP05-102,OP05-102]"
+  },
+  "log-220": {
+    "player": "Pirate26370",
+    "action": "Board: [EB01-057,ST07-007,ST07-007,OP10-112]"
+  },
+  "log-221": {
+    "player": "Pirate26370",
+    "action": "Life: 2"
+  },
+  "log-222": {
+    "player": "Moroff",
+    "action": "Draw 1 Card"
+  },
+  "log-223": {
+    "player": "Moroff",
+    "action": "Drew card from deck: Perfume Femur",
+    "card": "OP07-057"
+  },
+  "log-224": {
+    "player": "Moroff",
+    "action": "Draw 2 Don"
+  },
+  "log-225": {
+    "player": "Moroff",
+    "action": "Perfume Femur",
+    "card": "OP07-057",
+    "effect": "Buff Donquixote Doflamingo 2000",
+    "target_card": "OP01-060"
+  },
+  "log-226": {
+    "player": "Moroff",
+    "action": "Perfume Femur",
+    "card": "OP07-057",
+    "effect": "Grant Unblockable to Donquixote Doflamingo",
+    "target_card": "OP01-060"
+  },
+  "log-227": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 1
+  },
+  "log-228": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Donquixote Doflamingo",
+    "card": "OP01-060",
+    "total_don": 2
+  },
+  "log-229": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP05-098"
+  },
+  "log-230": {
+    "player": "Moroff",
+    "action": "Donquixote Doflamingo",
+    "card": "OP01-060",
+    "effect": "revealed: Trafalgar Law",
+    "target_card": "ST17-002"
+  },
+  "log-231": {
+    "player": "Moroff",
+    "action": "Deploy Trafalgar Law from Deck",
+    "card": "ST17-002"
+  },
+  "log-232": {
+    "player": "Moroff",
+    "action": "Trafalgar Law",
+    "card": "ST17-002",
+    "effect": "Return Buggy to Hand",
+    "target_card": "ST17-003"
+  },
+  "log-233": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "OP01-060",
+    "defender": "OP05-098",
+    "attacker_power": 9000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-234": {
+    "player": "Moroff",
+    "action": "Deploy Charlotte Pudding",
+    "card": "OP06-047"
+  },
+  "log-235": {
+    "player": "Moroff",
+    "action": "Force Opponent to Shuffle Hand into Deck and Draw 5"
+  },
+  "log-236": {
+    "player": "Pirate26370",
+    "action": "Drew card from deck: Franky",
+    "card": "OP07-107"
+  },
+  "log-237": {
+    "player": "Pirate26370",
+    "action": "Drew card from deck: Enel",
+    "card": "EB02-052"
+  },
+  "log-238": {
+    "player": "Pirate26370",
+    "action": "Drew card from deck: X. Drake",
+    "card": "OP10-114"
+  },
+  "log-239": {
+    "player": "Pirate26370",
+    "action": "Drew card from deck: Yamato",
+    "card": "OP04-112"
+  },
+  "log-240": {
+    "player": "Pirate26370",
+    "action": "Drew card from deck: Franky",
+    "card": "OP07-107"
+  },
+  "log-241": {
+    "player": "Moroff",
+    "action": "Attach 1 Don to Boa Hancock",
+    "card": "ST17-004",
+    "total_don": 1
+  },
+  "log-242": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "ST17-004",
+    "defender": "OP05-098"
+  },
+  "log-243": {
+    "player": "Moroff",
+    "action": "attacking",
+    "attacker": "ST17-004",
+    "defender": "OP05-098",
+    "attacker_power": 7000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-244": {
+    "player": "Pirate26370",
+    "action": "Trash Charlotte Katakuri",
+    "card": "OP03-123"
+  },
+  "log-245": {
+    "player": "Pirate26370",
+    "action": "Enel",
+    "card": "OP05-098",
+    "effect": "Add card to top of Life from Deck"
+  },
+  "log-246": {
+    "player": "Moroff",
+    "action": "Hand: [EB01-023,ST17-003]"
+  },
+  "log-247": {
+    "player": "Moroff",
+    "action": "Board: [OP07-046,OP01-077,ST17-004,ST17-002,OP06-047]"
+  },
+  "log-248": {
+    "player": "Moroff",
+    "action": "Trash: [ST03-004,ST17-005,ST17-004,ST03-004,ST17-004,OP07-046,OP08-047,ST17-002,OP07-057]"
+  },
+  "log-249": {
+    "player": "Moroff",
+    "action": "Life: 1"
+  },
+  "log-250": {
+    "player": "Pirate26370",
+    "action": "Hand: [OP07-107,EB02-052,OP10-114,OP04-112,OP07-107]"
+  },
+  "log-251": {
+    "player": "Pirate26370",
+    "action": "Trash: [OP10-116,ST07-007,OP05-102,OP05-102,OP03-123]"
+  },
+  "log-252": {
+    "player": "Pirate26370",
+    "action": "Board: [EB01-057,ST07-007,ST07-007,OP10-112]"
+  },
+  "log-253": {
+    "player": "Pirate26370",
+    "action": "Life: 1"
+  },
+  "log-254": {
+    "player": "Moroff",
+    "action": "End Turn"
+  },
+  "log-255": {
+    "player": "Pirate26370",
+    "action": "Draw 1 Card"
+  },
+  "log-256": {
+    "player": "Pirate26370",
+    "action": "Drew card from deck: Portgas D. Ace",
+    "card": "OP07-119"
+  },
+  "log-257": {
+    "player": "Pirate26370",
+    "action": "Deploy Portgas D. Ace",
+    "card": "OP07-119"
+  },
+  "log-258": {
+    "player": "Pirate26370",
+    "action": "Portgas D. Ace",
+    "card": "OP07-119",
+    "effect": "Add card to top of Life from Deck"
+  },
+  "log-259": {
+    "player": "Pirate26370",
+    "action": "Portgas D. Ace",
+    "card": "OP07-119",
+    "effect": "Give Portgas D. Ace Rush",
+    "target_card": "OP07-119"
+  },
+  "log-260": {
+    "player": "Pirate26370",
+    "action": "attacking",
+    "attacker": "OP05-098",
+    "defender": "OP01-060"
+  },
+  "log-261": {
+    "player": "Pirate26370",
+    "action": "attacking",
+    "attacker": "OP05-098",
+    "defender": "OP01-060",
+    "attacker_power": 5000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-262": {
+    "player": "Pirate26370",
+    "action": "attacking",
+    "attacker": "OP07-119",
+    "defender": "OP01-060"
+  },
+  "log-263": {
+    "player": "Pirate26370",
+    "action": "attacking",
+    "attacker": "OP07-119",
+    "defender": "OP01-060",
+    "attacker_power": 10000,
+    "defender_power": 5000,
+    "damage": 1
+  },
+  "log-264": {
+    "player": "Moroff",
+    "action": "Loses"
+  },
+  "log-265": {
+    "player": "Pirate26370",
+    "action": "Wins!"
+  }
+}
