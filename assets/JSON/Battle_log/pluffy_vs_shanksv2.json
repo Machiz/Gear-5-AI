@@ -1,0 +1,1956 @@
+{
+  "log-001": {
+    "action": "Waiting for a Connection with Room ID:WL877BB"
+  },
+  "log-002": {
+    "player": "Pirate26156",
+    "action": "Has Connected"
+  },
+  "log-003": {
+    "player": "Pirate26156",
+    "action": "Version is 1.29b"
+  },
+  "log-004": {
+    "player": "Pirate26156",
+    "action": "Leader is Monkey D. Luffy",
+    "card_id": "OP05-060"
+  },
+  "log-005": {
+    "player": "cake",
+    "action": "Has Connected"
+  },
+  "log-006": {
+    "player": "cake",
+    "action": "Version is 1.29b"
+  },
+  "log-007": {
+    "player": "cake",
+    "action": "Leader is Shanks",
+    "card_id": "OP09-001"
+  },
+  "log-008": {
+    "player": "cake",
+    "action": "Chose to go First"
+  },
+  "log-009": {
+    "player": "cake",
+    "action": "Drew card from deck",
+    "card": "Monkey D. Luffy",
+    "card_id": "ST21-014"
+  },
+  "log-010": {
+    "player": "cake",
+    "action": "Drew card from deck",
+    "card": "Lucky Roux",
+    "card_id": "OP09-015"
+  },
+  "log-011": {
+    "player": "cake",
+    "action": "Drew card from deck",
+    "card": "Monkey D. Luffy",
+    "card_id": "ST21-014"
+  },
+  "log-012": {
+    "player": "cake",
+    "action": "Drew card from deck",
+    "card": "Marco",
+    "card_id": "OP03-013"
+  },
+  "log-013": {
+    "player": "cake",
+    "action": "Drew card from deck",
+    "card": "Hongo",
+    "card_id": "OP09-011"
+  },
+  "log-014": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-015": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-016": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Trafalgar Law",
+    "card_id": "ST10-010"
+  },
+  "log-017": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Gamma Knife",
+    "card_id": "OP05-077"
+  },
+  "log-018": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Onami",
+    "card_id": "ST18-002"
+  },
+  "log-019": {
+    "player": "Pirate26156",
+    "action": "Hand before Mulligan",
+    "hand": ["ST18-001", "ST18-001", "ST10-010", "OP05-077", "ST18-002"]
+  },
+  "log-020": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Sangoro",
+    "card_id": "ST18-003"
+  },
+  "log-021": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Luffy-tarou",
+    "card_id": "ST18-005"
+  },
+  "log-022": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Trafalgar Law",
+    "card_id": "ST10-010"
+  },
+  "log-023": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP09-119"
+  },
+  "log-024": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Hitokiri Kamazo",
+    "card_id": "OP06-076"
+  },
+  "log-025": {
+    "player": "Pirate26156",
+    "action": "Hand after Mulligan",
+    "hand": ["ST18-003", "ST18-005", "ST10-010", "OP09-119", "OP06-076"]
+  },
+  "log-026": {
+    "player": "Pirate26156",
+    "action": "Mulligan"
+  },
+  "log-027": {
+    "player": "cake",
+    "action": "Draw 1 Don"
+  },
+  "log-028": {
+    "player": "cake",
+    "action": "End Turn"
+  },
+  "log-029": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["ST18-003", "ST18-005", "ST10-010", "OP09-119", "OP06-076"]
+  },
+  "log-030": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": []
+  },
+  "log-031": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": []
+  },
+  "log-032": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 5
+  },
+  "log-033": {
+    "player": "cake",
+    "action": "Hand",
+    "hand": ["ST21-014", "OP09-015", "ST21-014", "OP03-013", "OP09-011"]
+  },
+  "log-034": {
+    "player": "cake",
+    "action": "Trash",
+    "trash": []
+  },
+  "log-035": {
+    "player": "cake",
+    "action": "Board",
+    "board": []
+  },
+  "log-036": {
+    "player": "cake",
+    "action": "Life",
+    "life": 5
+  },
+  "log-037": {
+    "player": "Pirate26156",
+    "action": "Draw 1 Card"
+  },
+  "log-038": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Onami",
+    "card_id": "ST18-002"
+  },
+  "log-039": {
+    "player": "Pirate26156",
+    "action": "Draw 2 Don"
+  },
+  "log-040": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["ST18-003", "ST18-005", "ST10-010", "OP09-119", "OP06-076", "ST18-002"]
+  },
+  "log-041": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": []
+  },
+  "log-042": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": []
+  },
+  "log-043": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 5
+  },
+  "log-044": {
+    "player": "cake",
+    "action": "Hand",
+    "hand": ["ST21-014", "OP09-015", "ST21-014", "OP03-013", "OP09-011"]
+  },
+  "log-045": {
+    "player": "cake",
+    "action": "Trash",
+    "trash": []
+  },
+  "log-046": {
+    "player": "cake",
+    "action": "Board",
+    "board": []
+  },
+  "log-047": {
+    "player": "cake",
+    "action": "Life",
+    "life": 5
+  },
+  "log-048": {
+    "player": "Pirate26156",
+    "action": "End Turn"
+  },
+  "log-049": {
+    "player": "cake",
+    "action": "Draw 1 Card"
+  },
+  "log-050": {
+    "player": "cake",
+    "action": "Drew card from deck",
+    "card": "Marco",
+    "card_id": "OP03-013"
+  },
+  "log-051": {
+    "player": "cake",
+    "action": "Draw 2 Don"
+  },
+  "log-052": {
+    "player": "cake",
+    "action": "Deploy",
+    "card": "Hongo",
+    "card_id": "OP09-011"
+  },
+  "log-053": {
+    "player": "cake",
+    "action": "attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-054": {
+    "player": "Pirate26156",
+    "action": "Discard",
+    "card": "Trafalgar Law",
+    "card_id": "ST10-010",
+    "reason": "for Counter 1000"
+  },
+  "log-055": {
+    "player": "cake",
+    "action": "Shanks [5000] vs Monkey D. Luffy [6000]"
+  },
+  "log-056": {
+    "action": "Attack Fails"
+  },
+  "log-057": {
+    "player": "cake",
+    "action": "End Turn"
+  },
+  "log-058": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["ST18-003", "ST18-005", "OP09-119", "OP06-076", "ST18-002"]
+  },
+  "log-059": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": []
+  },
+  "log-060": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": ["ST10-010"]
+  },
+  "log-061": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 5
+  },
+  "log-062": {
+    "player": "cake",
+    "action": "Hand",
+    "hand": ["ST21-014", "OP09-015", "ST21-014", "OP03-013", "OP03-013"]
+  },
+  "log-063": {
+    "player": "cake",
+    "action": "Trash",
+    "trash": []
+  },
+  "log-064": {
+    "player": "cake",
+    "action": "Board",
+    "board": ["OP09-011"]
+  },
+  "log-065": {
+    "player": "cake",
+    "action": "Life",
+    "life": 5
+  },
+  "log-066": {
+    "player": "Pirate26156",
+    "action": "Draw 1 Card"
+  },
+  "log-067": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Trafalgar Law",
+    "card_id": "OP09-069"
+  },
+  "log-068": {
+    "player": "Pirate26156",
+    "action": "Draw 2 Don"
+  },
+  "log-069": {
+    "player": "Pirate26156",
+    "action": "Loses 1 Life"
+  },
+  "log-070": {
+    "player": "Pirate26156",
+    "action": "Monkey D. Luffy: Draw 1 Don",
+    "card_id": "OP05-060"
+  },
+  "log-071": {
+    "player": "Pirate26156",
+    "action": "Deploy",
+    "card": "Trafalgar Law",
+    "card_id": "OP09-069"
+  },
+  "log-072": {
+    "player": "Pirate26156",
+    "action": "Reveal and Draw",
+    "card": "Franosuke",
+    "card_id": "OP05-070"
+  },
+  "log-073": {
+    "player": "Pirate26156",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-074": {
+    "player": "Pirate26156",
+    "action": "Deploy",
+    "card": "Trafalgar Law",
+    "card_id": "OP09-069"
+  },
+  "log-075": {
+    "player": "Pirate26156",
+    "action": "Reveal and Draw",
+    "card": "Sanji",
+    "card_id": "OP07-064"
+  },
+  "log-076": {
+    "player": "Pirate26156",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-077": {
+    "player": "Pirate26156",
+    "action": "Attach 3 Don to Monkey D. Luffy",
+    "card_id": "OP05-060",
+    "total_don": 3
+  },
+  "log-078": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
+  },
+  "log-079": {
+    "player": "Pirate26156",
+    "action": "Monkey D. Luffy [8000] vs Shanks [5000]"
+  },
+  "log-080": {
+    "player": "cake",
+    "action": "Shanks hit for 1 damage",
+    "card_id": "OP09-001"
+  },
+  "log-081": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["ST18-003", "ST18-005", "OP09-119", "OP06-076", "ST18-002", "OP05-070", "OP07-064"]
+  },
+  "log-082": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": ["OP09-069", "OP09-069"]
+  },
+  "log-083": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": ["ST10-010"]
+  },
+  "log-084": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 4
+  },
+  "log-085": {
+    "player": "cake",
+    "action": "Hand",
+    "hand": ["ST21-014", "OP09-015", "ST21-014", "OP03-013", "OP03-013", "OP04-016"]
+  },
+  "log-086": {
+    "player": "cake",
+    "action": "Trash",
+    "trash": []
+  },
+  "log-087": {
+    "player": "cake",
+    "action": "Board",
+    "board": ["OP09-011"]
+  },
+  "log-088": {
+    "player": "cake",
+    "action": "Life",
+    "life": 4
+  },
+  "log-089": {
+    "player": "Pirate26156",
+    "action": "End Turn"
+  },
+  "log-090": {
+    "player": "cake",
+    "action": "Draw 1 Card"
+  },
+  "log-091": {
+    "player": "cake",
+    "action": "Drew card from deck",
+    "card": "Building Snake",
+    "card_id": "OP09-008"
+  },
+  "log-092": {
+    "player": "cake",
+    "action": "Draw 2 Don"
+  },
+  "log-093": {
+    "player": "cake",
+    "action": "Deploy",
+    "card": "Marco",
+    "card_id": "OP03-013"
+  },
+  "log-094": {
+    "player": "cake",
+    "action": "Marco: Destroy",
+    "card": "Marco",
+    "card_id": "OP03-013",
+    "target": "Trafalgar Law",
+    "target_id": "OP09-069"
+  },
+  "log-095": {
+    "player": "cake",
+    "action": "attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-096": {
+    "player": "cake",
+    "action": "Shanks [5000] vs Monkey D. Luffy [5000]"
+  },
+  "log-097": {
+    "player": "Pirate26156",
+    "action": "Monkey D. Luffy hit for 1 damage",
+    "card_id": "OP05-060"
+  },
+  "log-098": {
+    "player": "cake",
+    "action": "End Turn"
+  },
+  "log-099": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["ST18-003", "ST18-005", "OP09-119", "OP06-076", "ST18-002", "OP05-070", "OP07-064", "OP09-065"]
+  },
+  "log-100": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": ["OP09-069"]
+  },
+  "log-101": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": ["ST10-010", "OP09-069"]
+  },
+  "log-102": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 3
+  },
+  "log-103": {
+    "player": "cake",
+    "action": "Hand",
+    "hand": ["ST21-014", "OP09-015", "ST21-014", "OP03-013", "OP04-016", "OP09-008"]
+  },
+  "log-104": {
+    "player": "cake",
+    "action": "Trash",
+    "trash": []
+  },
+  "log-105": {
+    "player": "cake",
+    "action": "Board",
+    "board": ["OP09-011", "OP03-013"]
+  },
+  "log-106": {
+    "player": "cake",
+    "action": "Life",
+    "life": 4
+  },
+  "log-107": {
+    "player": "Pirate26156",
+    "action": "Draw 1 Card"
+  },
+  "log-108": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Charlotte Linlin",
+    "card_id": "OP08-069"
+  },
+  "log-109": {
+    "player": "Pirate26156",
+    "action": "Draw 2 Don"
+  },
+  "log-110": {
+    "player": "Pirate26156",
+    "action": "Deploy",
+    "card": "Luffy-tarou",
+    "card_id": "ST18-005"
+  },
+  "log-111": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["OP09-119", "OP06-076", "ST18-002", "OP05-070", "OP07-064", "OP09-065", "OP08-069"]
+  },
+  "log-112": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": ["OP09-069", "ST18-005", "ST18-003"]
+  },
+  "log-113": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": ["ST10-010", "OP09-069"]
+  },
+  "log-114": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 3
+  },
+  "log-115": {
+    "player": "cake",
+    "action": "Hand",
+    "hand": ["ST21-014", "OP09-015", "ST21-014", "OP03-013", "OP04-016", "OP09-008"]
+  },
+  "log-116": {
+    "player": "cake",
+    "action": "Trash",
+    "trash": []
+  },
+  "log-117": {
+    "player": "cake",
+    "action": "Board",
+    "board": ["OP09-011", "OP03-013"]
+  },
+  "log-118": {
+    "player": "cake",
+    "action": "Life",
+    "life": 4
+  },
+  "log-119": {
+    "player": "Pirate26156",
+    "action": "End Turn"
+  },
+  "log-120": {
+    "player": "cake",
+    "action": "Draw 1 Card"
+  },
+  "log-121": {
+    "player": "cake",
+    "action": "Drew card from deck",
+    "card": "Lucky Roux",
+    "card_id": "OP09-015"
+  },
+  "log-122": {
+    "player": "cake",
+    "action": "Draw 2 Don"
+  },
+  "log-123": {
+    "player": "cake",
+    "action": "Deploy",
+    "card": "Lucky Roux",
+    "card_id": "OP09-015"
+  },
+  "log-124": {
+    "player": "cake",
+    "action": "Attach 2 Don to Shanks",
+    "card_id": "OP09-001",
+    "total_don": 2
+  },
+  "log-125": {
+    "player": "cake",
+    "action": "Attach 1 Don to Marco",
+    "card_id": "OP03-013",
+    "total_don": 1
+  },
+  "log-126": {
+    "player": "cake",
+    "action": "attacking",
+    "attacker": "Marco",
+    "attacker_id": "OP03-013",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-127": {
+    "player": "cake",
+    "action": "Marco [7000] vs Monkey D. Luffy [5000]"
+  },
+  "log-128": {
+    "player": "Pirate26156",
+    "action": "Monkey D. Luffy hit for 1 damage",
+    "card_id": "OP05-060"
+  },
+  "log-129": {
+    "player": "cake",
+    "action": "attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-130": {
+    "player": "Pirate26156",
+    "action": "Discard",
+    "card": "Sanji",
+    "card_id": "OP07-064",
+    "reason": "for Counter 2000"
+  },
+  "log-131": {
+    "player": "Pirate26156",
+    "action": "Discard",
+    "card": "Onami",
+    "card_id": "ST18-002",
+    "reason": "for Counter 1000"
+  },
+  "log-132": {
+    "player": "cake",
+    "action": "Shanks [7000] vs Monkey D. Luffy [8000]"
+  },
+  "log-133": {
+    "action": "Attack Fails"
+  },
+  "log-134": {
+    "player": "cake",
+    "action": "End Turn"
+  },
+  "log-135": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["OP09-119", "OP06-076", "OP05-070", "OP09-065", "OP08-069", "OP07-064"]
+  },
+  "log-136": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": ["OP09-069", "ST18-005", "ST18-003"]
+  },
+  "log-137": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": ["ST10-010", "OP09-069", "OP07-064", "ST18-002"]
+  },
+  "log-138": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 2
+  },
+  "log-139": {
+    "player": "cake",
+    "action": "Hand",
+    "hand": ["ST21-014", "OP09-015", "ST21-014", "OP03-013", "OP04-016", "OP09-008"]
+  },
+  "log-140": {
+    "player": "cake",
+    "action": "Trash",
+    "trash": []
+  },
+  "log-141": {
+    "player": "cake",
+    "action": "Board",
+    "board": ["OP09-011", "OP03-013", "OP09-015"]
+  },
+  "log-142": {
+    "player": "cake",
+    "action": "Life",
+    "life": 4
+  },
+  "log-143": {
+    "player": "Pirate26156",
+    "action": "Draw 1 Card"
+  },
+  "log-144": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078"
+  },
+  "log-145": {
+    "player": "Pirate26156",
+    "action": "Draw 2 Don"
+  },
+  "log-146": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Sangoro",
+    "attacker_id": "ST18-003",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
+  },
+  "log-147": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Gamma Knife",
+    "card_id": "OP05-077"
+  },
+  "log-148": {
+    "player": "Pirate26156",
+    "action": "Sangoro: Draw 1 Card",
+    "card_id": "ST18-003"
+  },
+  "log-149": {
+    "player": "cake",
+    "action": "Shanks: Buff",
+    "card": "Shanks",
+    "card_id": "OP09-001",
+    "target": "Luffy-tarou",
+    "target_id": "ST18-005",
+    "buff": -1000
+  },
+  "log-150": {
+    "player": "cake",
+    "action": "Lucky Roux Blocks",
+    "card": "Lucky Roux",
+    "card_id": "OP09-015"
+  },
+  "log-151": {
+    "player": "cake",
+    "action": "Sangoro [6000] vs Lucky Roux [5000]"
+  },
+  "log-152": {
+    "player": "cake",
+    "action": "Lucky Roux Destroyed",
+    "card_id": "OP09-015"
+  },
+  "log-153": {
+    "player": "cake",
+    "action": "Lucky Roux: Destroy",
+    "card": "Lucky Roux",
+    "card_id": "OP09-015",
+    "target": "Sangoro",
+    "target_id": "ST18-003"
+  },
+  "log-154": {
+    "player": "Pirate26156",
+    "action": "Deploy",
+    "card": "Sanji",
+    "card_id": "OP09-065"
+  },
+  "log-155": {
+    "player": "Pirate26156",
+    "action": "Sanji: Give Sanji Rush",
+    "card_id": "OP09-065",
+    "target": "Sanji",
+    "target_id": "OP09-065"
+  },
+  "log-156": {
+    "player": "Pirate26156",
+    "action": "Sanji: Rest",
+    "card_id": "OP09-065",
+    "target": "Hongo",
+    "target_id": "OP09-011"
+  },
+  "log-157": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Hongo",
+    "defender_id": "OP09-011"
+  },
+  "log-158": {
+    "player": "Pirate26156",
+    "action": "Monkey D. Luffy [5000] vs Hongo [3000]"
+  },
+  "log-159": {
+    "player": "cake",
+    "action": "Hongo Destroyed",
+    "card_id": "OP09-011"
+  },
+  "log-160": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Luffy-tarou",
+    "attacker_id": "ST18-005",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
+  },
+  "log-161": {
+    "player": "cake",
+    "action": "Trash",
+    "card": "Monkey D. Luffy",
+    "card_id": "ST21-014"
+  },
+  "log-162": {
+    "player": "cake",
+    "action": "Bad Manners Kick Course: Counter 3000",
+    "card_id": "OP04-016"
+  },
+  "log-163": {
+    "player": "cake",
+    "action": "Luffy-tarou [7000] vs Shanks [8000]"
+  },
+  "log-164": {
+    "action": "Attack Fails"
+  },
+  "log-165": {
+    "player": "Pirate26156",
+    "action": "Attach 1 Don to Sanji",
+    "card_id": "OP09-065",
+    "total_don": 1
+  },
+  "log-166": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Sanji",
+    "attacker_id": "OP09-065",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
+  },
+  "log-167": {
+    "player": "Pirate26156",
+    "action": "Sanji [8000] vs Shanks [5000]"
+  },
+  "log-168": {
+    "player": "cake",
+    "action": "Shanks hit for 1 damage",
+    "card_id": "OP09-001"
+  },
+  "log-169": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["OP09-119", "OP06-076", "OP05-070", "OP08-069", "OP07-064", "OP09-078", "OP05-077"]
+  },
+  "log-170": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": ["OP09-069", "ST18-005", "OP09-065"]
+  },
+  "log-171": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": ["ST10-010", "OP09-069", "OP07-064", "ST18-002", "ST18-003"]
+  },
+  "log-172": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 2
+  },
+  "log-173": {
+    "player": "cake",
+    "action": "Hand",
+    "hand": ["ST21-014", "OP09-015", "OP03-013", "OP09-008", "OP04-016"]
+  },
+  "log-174": {
+    "player": "cake",
+    "action": "Trash",
+    "trash": ["OP09-015", "OP09-011", "ST21-014", "OP04-016"]
+  },
+  "log-175": {
+    "player": "cake",
+    "action": "Board",
+    "board": ["OP03-013"]
+  },
+  "log-176": {
+    "player": "cake",
+    "action": "Life",
+    "life": 3
+  },
+  "log-177": {
+    "player": "Pirate26156",
+    "action": "End Turn"
+  },
+  "log-178": {
+    "player": "cake",
+    "action": "Draw 1 Card"
+  },
+  "log-179": {
+    "player": "cake",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "OP10-005"
+  },
+  "log-180": {
+    "player": "cake",
+    "action": "Draw 2 Don"
+  },
+  "log-181": {
+    "player": "cake",
+    "action": "Deploy",
+    "card": "Lucky Roux",
+    "card_id": "OP09-015"
+  },
+  "log-182": {
+    "player": "cake",
+    "action": "Deploy",
+    "card": "Sanji",
+    "card_id": "OP10-005"
+  },
+  "log-183": {
+    "player": "cake",
+    "action": "Attach 1 Don to Marco",
+    "card_id": "OP03-013",
+    "total_don": 1
+  },
+  "log-184": {
+    "player": "cake",
+    "action": "Attach 1 Don to Shanks",
+    "card_id": "OP09-001",
+    "total_don": 1
+  },
+  "log-185": {
+    "player": "cake",
+    "action": "attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-186": {
+    "player": "Pirate26156",
+    "action": "Discard",
+    "card": "Sanji",
+    "card_id": "OP07-064",
+    "reason": "for Counter 2000"
+  },
+  "log-187": {
+    "player": "cake",
+    "action": "Shanks [6000] vs Monkey D. Luffy [7000]"
+  },
+  "log-188": {
+    "action": "Attack Fails"
+  },
+  "log-189": {
+    "player": "cake",
+    "action": "attacking",
+    "attacker": "Marco",
+    "attacker_id": "OP03-013",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-190": {
+    "player": "Pirate26156",
+    "action": "Discard",
+    "card": "Franosuke",
+    "card_id": "OP05-070",
+    "reason": "for Counter 2000"
+  },
+  "log-191": {
+    "player": "Pirate26156",
+    "action": "Discard",
+    "card": "Hitokiri Kamazo",
+    "card_id": "OP06-076",
+    "reason": "for Counter 2000"
+  },
+  "log-192": {
+    "player": "cake",
+    "action": "Marco [7000] vs Monkey D. Luffy [9000]"
+  },
+  "log-193": {
+    "action": "Attack Fails"
+  },
+  "log-194": {
+    "player": "cake",
+    "action": "End Turn"
+  },
+  "log-195": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["OP09-119", "OP08-069", "OP09-078", "OP05-077"]
+  },
+  "log-196": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": ["OP09-069", "ST18-005", "OP09-065"]
+  },
+  "log-197": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": ["ST10-010", "OP09-069", "OP07-064", "ST18-002", "ST18-003", "OP07-064", "OP05-070", "OP06-076"]
+  },
+  "log-198": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 2
+  },
+  "log-199": {
+    "player": "cake",
+    "action": "Hand",
+    "hand": ["ST21-014", "OP03-013", "OP09-008", "OP04-016"]
+  },
+  "log-200": {
+    "player": "cake",
+    "action": "Trash",
+    "trash": ["OP09-015", "OP09-011", "ST21-014", "OP04-016"]
+  },
+  "log-201": {
+    "player": "cake",
+    "action": "Board",
+    "board": ["OP03-013", "OP09-015", "OP10-005"]
+  },
+  "log-202": {
+    "player": "cake",
+    "action": "Life",
+    "life": 3
+  },
+  "log-203": {
+    "player": "Pirate26156",
+    "action": "Draw 1 Card"
+  },
+  "log-204": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078"
+  },
+  "log-205": {
+    "player": "Pirate26156",
+    "action": "Draw 2 Don"
+  },
+  "log-206": {
+    "player": "Pirate26156",
+    "action": "Deploy",
+    "card": "Charlotte Linlin",
+    "card_id": "OP08-069"
+  },
+  "log-207": {
+    "player": "Pirate26156",
+    "action": "Charlotte Linlin: Trash",
+    "card": "Charlotte Linlin",
+    "card_id": "OP08-069",
+    "target": "Gamma Knife",
+    "target_id": "OP05-077"
+  },
+  "log-208": {
+    "player": "Pirate26156",
+    "action": "Charlotte Linlin: Add card to top of Life from Deck",
+    "card_id": "OP08-069"
+  },
+  "log-209": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Luffy-tarou",
+    "attacker_id": "ST18-005",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
+  },
+  "log-210": {
+    "player": "cake",
+    "action": "Shanks: Buff",
+    "card": "Shanks",
+    "card_id": "OP09-001",
+    "target": "Sanji",
+    "target_id": "OP09-065",
+    "buff": -1000
+  },
+  "log-211": {
+    "player": "cake",
+    "action": "Lucky Roux Blocks",
+    "card": "Lucky Roux",
+    "card_id": "OP09-015"
+  },
+  "log-212": {
+    "player": "cake",
+    "action": "Luffy-tarou [8000] vs Lucky Roux [5000]"
+  },
+  "log-213": {
+    "player": "cake",
+    "action": "Lucky Roux Destroyed",
+    "card_id": "OP09-015"
+  },
+  "log-214": {
+    "player": "cake",
+    "action": "Lucky Roux: Destroy",
+    "card": "Lucky Roux",
+    "card_id": "OP09-015",
+    "target": "Trafalgar Law",
+    "target_id": "OP09-069"
+  },
+  "log-215": {
+    "player": "Pirate26156",
+    "action": "Loses 1 Life"
+  },
+  "log-216": {
+    "player": "Pirate26156",
+    "action": "Monkey D. Luffy: Draw 1 Don",
+    "card_id": "OP05-060"
+  },
+  "log-217": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
+  },
+  "log-218": {
+    "player": "cake",
+    "action": "Discard",
+    "card": "Marco",
+    "card_id": "OP03-013",
+    "reason": "for Counter 1000"
+  },
+  "log-219": {
+    "player": "Pirate26156",
+    "action": "Monkey D. Luffy [5000] vs Shanks [6000]"
+  },
+  "log-220": {
+    "action": "Attack Fails"
+  },
+  "log-221": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Sanji",
+    "attacker_id": "OP09-065",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
+  },
+  "log-222": {
+    "player": "cake",
+    "action": "Trash",
+    "card": "Monkey D. Luffy",
+    "card_id": "ST21-014"
+  },
+  "log-223": {
+    "player": "cake",
+    "action": "Bad Manners Kick Course: Counter 3000",
+    "card_id": "OP04-016"
+  },
+  "log-224": {
+    "player": "cake",
+    "action": "Sanji [6000] vs Shanks [8000]"
+  },
+  "log-225": {
+    "action": "Attack Fails"
+  },
+  "log-226": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["OP09-119", "OP09-078", "OP09-078", "ST18-004"]
+  },
+  "log-227": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": ["ST18-005", "OP09-065", "OP08-069"]
+  },
+  "log-228": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": ["ST10-010", "OP09-069", "OP07-064", "ST18-002", "ST18-003", "OP07-064", "OP05-070", "OP06-076", "OP05-077", "OP09-069"]
+  },
+  "log-229": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 2
+  },
+  "log-230": {
+    "player": "cake",
+    "action": "Hand",
+    "hand": ["OP09-008"]
+  },
+  "log-231": {
+    "player": "cake",
+    "action": "Trash",
+    "trash": ["OP09-015", "OP09-011", "ST21-014", "OP04-016", "OP09-015", "OP03-013", "ST21-014", "OP04-016"]
+  },
+  "log-232": {
+    "player": "cake",
+    "action": "Board",
+    "board": ["OP03-013", "OP10-005"]
+  },
+  "log-233": {
+    "player": "cake",
+    "action": "Life",
+    "life": 3
+  },
+  "log-234": {
+    "player": "Pirate26156",
+    "action": "End Turn"
+  },
+  "log-235": {
+    "player": "cake",
+    "action": "Draw 1 Card"
+  },
+  "log-236": {
+    "player": "cake",
+    "action": "Drew card from deck",
+    "card": "Tony Tony Chopper",
+    "card_id": "OP10-011"
+  },
+  "log-237": {
+    "player": "cake",
+    "action": "Draw 2 Don"
+  },
+  "log-238": {
+    "player": "cake",
+    "action": "Deploy",
+    "card": "Tony Tony Chopper",
+    "card_id": "OP10-011"
+  },
+  "log-239": {
+    "player": "cake",
+    "action": "Deploy",
+    "card": "Building Snake",
+    "card_id": "OP09-008"
+  },
+  "log-240": {
+    "player": "cake",
+    "action": "Building Snake: Return Building Snake to Deck Bottom",
+    "card_id": "OP09-008",
+    "target": "Building Snake",
+    "target_id": "OP09-008"
+  },
+  "log-241": {
+    "player": "cake",
+    "action": "Building Snake: Buff",
+    "card": "Building Snake",
+    "card_id": "OP09-008",
+    "target": "Sanji",
+    "target_id": "OP09-065",
+    "buff": -3000
+  },
+  "log-242": {
+    "player": "cake",
+    "action": "Attach 2 Don to Shanks",
+    "card_id": "OP09-001",
+    "total_don": 2
+  },
+  "log-243": {
+    "player": "cake",
+    "action": "Attach 2 Don to Marco",
+    "card_id": "OP03-013",
+    "total_don": 2
+  },
+  "log-244": {
+    "player": "cake",
+    "action": "Attach 1 Don to Sanji",
+    "card_id": "OP10-005",
+    "total_don": 1
+  },
+  "log-245": {
+    "player": "cake",
+    "action": "attacking",
+    "attacker": "Sanji",
+    "attacker_id": "OP10-005",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-246": {
+    "player": "cake",
+    "action": "Sanji [7000] vs Monkey D. Luffy [5000]"
+  },
+  "log-247": {
+    "player": "Pirate26156",
+    "action": "Monkey D. Luffy hit for 1 damage",
+    "card_id": "OP05-060"
+  },
+  "log-248": {
+    "player": "cake",
+    "action": "attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Sanji",
+    "defender_id": "OP09-065"
+  },
+  "log-249": {
+    "player": "cake",
+    "action": "Shanks [7000] vs Sanji [4000]"
+  },
+  "log-250": {
+    "player": "Pirate26156",
+    "action": "Sanji Destroyed",
+    "card_id": "OP09-065"
+  },
+  "log-251": {
+    "player": "cake",
+    "action": "attacking",
+    "attacker": "Marco",
+    "attacker_id": "OP03-013",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-252": {
+    "player": "Pirate26156",
+    "action": "Gum Gum Giant: Trash",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078",
+    "target": "Zorojuro",
+    "target_id": "ST18-004"
+  },
+  "log-253": {
+    "player": "Pirate26156",
+    "action": "Gum Gum Giant: Buff Monkey D. Luffy 4000 for the Combat",
+    "card_id": "OP09-078",
+    "target": "Monkey D. Luffy",
+    "target_id": "OP05-060",
+    "buff": 4000
+  },
+  "log-254": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Hitokiri Kamazo",
+    "card_id": "OP06-076"
+  },
+  "log-255": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-256": {
+    "player": "Pirate26156",
+    "action": "Gum Gum Giant: Draw 2 Card",
+    "card_id": "OP09-078"
+  },
+  "log-257": {
+    "player": "cake",
+    "action": "Marco [8000] vs Monkey D. Luffy [9000]"
+  },
+  "log-258": {
+    "action": "Attack Fails"
+  },
+  "log-259": {
+    "player": "cake",
+    "action": "End Turn"
+  },
+  "log-260": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["OP09-119", "OP09-078", "ST18-001", "OP06-076", "ST18-001"]
+  },
+  "log-261": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": ["ST18-005", "OP08-069"]
+  },
+  "log-262": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": ["ST10-010", "OP09-069", "OP07-064", "ST18-002", "ST18-003", "OP07-064", "OP05-070", "OP06-076", "OP05-077", "OP09-069", "OP09-065", "OP09-078", "ST18-004"]
+  },
+  "log-263": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 1
+  },
+  "log-264": {
+    "player": "cake",
+    "action": "Hand",
+    "hand": []
+  },
+  "log-265": {
+    "player": "cake",
+    "action": "Trash",
+    "trash": ["OP09-015", "OP09-011", "ST21-014", "OP04-016", "OP09-015", "OP03-013", "ST21-014", "OP04-016"]
+  },
+  "log-266": {
+    "player": "cake",
+    "action": "Board",
+    "board": ["OP03-013", "OP10-005", "OP10-011"]
+  },
+  "log-267": {
+    "player": "cake",
+    "action": "Life",
+    "life": 3
+  },
+  "log-268": {
+    "player": "Pirate26156",
+    "action": "Draw 1 Card"
+  },
+  "log-269": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Hitokiri Kamazo",
+    "card_id": "OP06-076"
+  },
+  "log-270": {
+    "player": "Pirate26156",
+    "action": "Draw 2 Don"
+  },
+  "log-271": {
+    "player": "Pirate26156",
+    "action": "Deploy",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-272": {
+    "player": "Pirate26156",
+    "action": "Usohachi: Rest",
+    "card": "Usohachi",
+    "card_id": "ST18-001",
+    "target": "Tony Tony Chopper",
+    "target_id": "OP10-011"
+  },
+  "log-273": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Sanji",
+    "defender_id": "OP10-005"
+  },
+  "log-274": {
+    "player": "Pirate26156",
+    "action": "Monkey D. Luffy [5000] vs Sanji [3000]"
+  },
+  "log-275": {
+    "player": "cake",
+    "action": "Sanji Destroyed",
+    "card_id": "OP10-005"
+  },
+  "log-276": {
+    "player": "cake",
+    "action": "Drew card from deck",
+    "card": "Monkey D. Luffy",
+    "card_id": "ST21-014"
+  },
+  "log-277": {
+    "player": "cake",
+    "action": "Sanji: Draw 1 Card",
+    "card_id": "OP10-005"
+  },
+  "log-278": {
+    "player": "Pirate26156",
+    "action": "Attach 2 Don to Luffy-tarou",
+    "card_id": "ST18-005",
+    "total_don": 2
+  },
+  "log-279": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Luffy-tarou",
+    "attacker_id": "ST18-005",
+    "defender": "Marco",
+    "defender_id": "OP03-013"
+  },
+  "log-280": {
+    "player": "Pirate26156",
+    "action": "Luffy-tarou [10000] vs Marco [6000]"
+  },
+  "log-281": {
+    "player": "cake",
+    "action": "Marco Destroyed",
+    "card_id": "OP03-013"
+  },
+  "log-282": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Charlotte Linlin",
+    "attacker_id": "OP08-069",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
+  },
+  "log-283": {
+    "player": "Pirate26156",
+    "action": "Charlotte Linlin [9000] vs Shanks [5000]"
+  },
+  "log-284": {
+    "player": "cake",
+    "action": "Shanks hit for 1 damage",
+    "card_id": "OP09-001"
+  },
+  "log-285": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["OP09-119", "OP09-078", "ST18-001", "OP06-076", "OP06-076"]
+  },
+  "log-286": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": ["ST18-005", "OP08-069", "ST18-001"]
+  },
+  "log-287": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": ["ST10-010", "OP09-069", "OP07-064", "ST18-002", "ST18-003", "OP07-064", "OP05-070", "OP06-076", "OP05-077", "OP09-069", "OP09-065", "OP09-078", "ST18-004"]
+  },
+  "log-288": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 1
+  },
+  "log-289": {
+    "player": "cake",
+    "action": "Hand",
+    "hand": ["ST21-014", "OP01-006"]
+  },
+  "log-290": {
+    "player": "cake",
+    "action": "Trash",
+    "trash": ["OP09-015", "OP09-011", "ST21-014", "OP04-016", "OP09-015", "OP03-013", "ST21-014", "OP04-016", "OP10-005", "OP03-013"]
+  },
+  "log-291": {
+    "player": "cake",
+    "action": "Board",
+    "board": ["OP10-011"]
+  },
+  "log-292": {
+    "player": "cake",
+    "action": "Life",
+    "life": 2
+  },
+  "log-293": {
+    "player": "Pirate26156",
+    "action": "End Turn"
+  },
+  "log-294": {
+    "player": "cake",
+    "action": "Draw 1 Card"
+  },
+  "log-295": {
+    "player": "cake",
+    "action": "Drew card from deck",
+    "card": "Shanks",
+    "card_id": "OP09-004"
+  },
+  "log-296": {
+    "player": "cake",
+    "action": "Deploy",
+    "card": "Shanks",
+    "card_id": "OP09-004"
+  },
+  "log-297": {
+    "player": "cake",
+    "action": "attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-298": {
+    "player": "Pirate26156",
+    "action": "Discard",
+    "card": "Hitokiri Kamazo",
+    "card_id": "OP06-076",
+    "reason": "for Counter 2000"
+  },
+  "log-299": {
+    "player": "cake",
+    "action": "Shanks [5000] vs Monkey D. Luffy [7000]"
+  },
+  "log-300": {
+    "action": "Attack Fails"
+  },
+  "log-301": {
+    "player": "cake",
+    "action": "attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-004",
+    "defender": "Luffy-tarou",
+    "defender_id": "ST18-005"
+  },
+  "log-302": {
+    "player": "Pirate26156",
+    "action": "Gum Gum Giant: Trash",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078",
+    "target": "Hitokiri Kamazo",
+    "target_id": "OP06-076"
+  },
+  "log-303": {
+    "player": "Pirate26156",
+    "action": "Gum Gum Giant: Buff Luffy-tarou 4000 for the Combat",
+    "card_id": "OP09-078",
+    "target": "Luffy-tarou",
+    "target_id": "ST18-005",
+    "buff": 4000
+  },
+  "log-304": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Onami",
+    "card_id": "ST18-002"
+  },
+  "log-305": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Luffy-tarou",
+    "card_id": "ST18-005"
+  },
+  "log-306": {
+    "player": "Pirate26156",
+    "action": "Gum Gum Giant: Draw 2 Card",
+    "card_id": "OP09-078"
+  },
+  "log-307": {
+    "player": "Pirate26156",
+    "action": "Discard",
+    "card": "Usohachi",
+    "card_id": "ST18-001",
+    "reason": "for Counter 2000"
+  },
+  "log-308": {
+    "player": "cake",
+    "action": "Shanks [12000] vs Luffy-tarou [13000]"
+  },
+  "log-309": {
+    "action": "Attack Fails"
+  },
+  "log-310": {
+    "player": "cake",
+    "action": "End Turn"
+  },
+  "log-311": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["OP09-119", "ST18-002", "ST18-005"]
+  },
+  "log-312": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": ["ST18-005", "OP08-069", "ST18-001"]
+  },
+  "log-313": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": ["ST10-010", "OP09-069", "OP07-064", "ST18-002", "ST18-003", "OP07-064", "OP05-070", "OP06-076", "OP05-077", "OP09-069", "OP09-065", "OP09-078", "ST18-004", "OP06-076", "OP09-078", "OP06-076", "ST18-001"]
+  },
+  "log-314": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 1
+  },
+  "log-315": {
+    "player": "cake",
+    "action": "Hand",
+    "hand": ["ST21-014", "OP01-006"]
+  },
+  "log-316": {
+    "player": "cake",
+    "action": "Trash",
+    "trash": ["OP09-015", "OP09-011", "ST21-014", "OP04-016", "OP09-015", "OP03-013", "ST21-014", "OP04-016", "OP10-005", "OP03-013"]
+  },
+  "log-317": {
+    "player": "cake",
+    "action": "Board",
+    "board": ["OP10-011", "OP09-004"]
+  },
+  "log-318": {
+    "player": "cake",
+    "action": "Life",
+    "life": 2
+  },
+  "log-319": {
+    "player": "Pirate26156",
+    "action": "Draw 1 Card"
+  },
+  "log-320": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Eustass 'Captain' Kid",
+    "card_id": "OP05-074"
+  },
+  "log-321": {
+    "player": "Pirate26156",
+    "action": "Draw 2 Don"
+  },
+  "log-322": {
+    "player": "Pirate26156",
+    "action": "Deploy",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP09-119"
+  },
+  "log-323": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "OP09-065"
+  },
+  "log-324": {
+    "player": "Pirate26156",
+    "action": "Monkey D. Luffy: Draw 1 Card",
+    "card_id": "OP09-119"
+  },
+  "log-325": {
+    "player": "Pirate26156",
+    "action": "Monkey D. Luffy: Give Monkey D. Luffy Rush",
+    "card_id": "OP09-119",
+    "target": "Monkey D. Luffy",
+    "target_id": "OP09-119"
+  },
+  "log-326": {
+    "player": "Pirate26156",
+    "action": "Loses 1 Life"
+  },
+  "log-327": {
+    "player": "Pirate26156",
+    "action": "Monkey D. Luffy: Draw 1 Don",
+    "card_id": "OP05-060"
+  },
+  "log-328": {
+    "player": "Pirate26156",
+    "action": "Attach 1 Don to Monkey D. Luffy",
+    "card_id": "OP05-060",
+    "total_don": 1
+  },
+  "log-329": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
+  },
+  "log-330": {
+    "player": "cake",
+    "action": "Discard",
+    "card": "Otama",
+    "card_id": "OP01-006",
+    "reason": "for Counter 2000"
+  },
+  "log-331": {
+    "player": "Pirate26156",
+    "action": "Monkey D. Luffy [6000] vs Shanks [7000]"
+  },
+  "log-332": {
+    "action": "Attack Fails"
+  },
+  "log-333": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Charlotte Linlin",
+    "attacker_id": "OP08-069",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
+  },
+  "log-334": {
+    "player": "cake",
+    "action": "Shanks: Buff",
+    "card": "Shanks",
+    "card_id": "OP09-001",
+    "target": "Luffy-tarou",
+    "target_id": "ST18-005",
+    "buff": -1000
+  },
+  "log-335": {
+    "player": "Pirate26156",
+    "action": "Charlotte Linlin [8000] vs Shanks [5000]"
+  },
+  "log-336": {
+    "player": "cake",
+    "action": "Shanks hit for 1 damage",
+    "card_id": "OP09-001"
+  },
+  "log-337": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Luffy-tarou",
+    "attacker_id": "ST18-005",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
+  },
+  "log-338": {
+    "player": "cake",
+    "action": "Tony Tony Chopper Blocks",
+    "card": "Tony Tony Chopper",
+    "card_id": "OP10-011"
+  },
+  "log-339": {
+    "player": "cake",
+    "action": "Luffy-tarou [6000] vs Tony Tony Chopper [6000]"
+  },
+  "log-340": {
+    "player": "cake",
+    "action": "Tony Tony Chopper Destroyed",
+    "card_id": "OP10-011"
+  },
+  "log-341": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP09-119",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
+  },
+  "log-342": {
+    "player": "Pirate26156",
+    "action": "Monkey D. Luffy [9000] vs Shanks [5000]"
+  },
+  "log-343": {
+    "player": "cake",
+    "action": "Shanks hit for 1 damage",
+    "card_id": "OP09-001"
+  },
+  "log-344": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["ST18-002", "ST18-005", "OP05-074", "OP09-065", "ST18-004"]
+  },
+  "log-345": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": ["ST18-005", "OP08-069", "ST18-001", "OP09-119"]
+  },
+  "log-346": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": ["ST10-010", "OP09-069", "OP07-064", "ST18-002", "ST18-003", "OP07-064", "OP05-070", "OP06-076", "OP05-077", "OP09-069", "OP09-065", "OP09-078", "ST18-004", "OP06-076", "OP09-078", "OP06-076", "ST18-001"]
+  },
+  "log-347": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 0
+  },
+  "log-348": {
+    "player": "cake",
+    "action": "Hand",
+    "hand": ["ST21-014", "OP09-009", "OP07-015"]
+  },
+  "log-349": {
+    "player": "cake",
+    "action": "Trash",
+    "trash": ["OP09-015", "OP09-011", "ST21-014", "OP04-016", "OP09-015", "OP03-013", "ST21-014", "OP04-016", "OP10-005", "OP03-013", "OP01-006", "OP10-011"]
+  },
+  "log-350": {
+    "player": "cake",
+    "action": "Board",
+    "board": ["OP09-004"]
+  },
+  "log-351": {
+    "player": "cake",
+    "action": "Life",
+    "life": 0
+  },
+  "log-352": {
+    "player": "Pirate26156",
+    "action": "End Turn"
+  },
+  "log-353": {
+    "player": "cake",
+    "action": "Draw 1 Card"
+  },
+  "log-354": {
+    "player": "cake",
+    "action": "Drew card from deck",
+    "card": "Marco",
+    "card_id": "OP03-013"
+  },
+  "log-355": {
+    "player": "cake",
+    "action": "Deploy",
+    "card": "Monkey D. Dragon",
+    "card_id": "OP07-015"
+  },
+  "log-356": {
+    "player": "cake",
+    "action": "Monkey D. Dragon: Attach 1 Rested Don to Shanks",
+    "card_id": "OP07-015",
+    "target": "Shanks",
+    "target_id": "OP09-001"
+  },
+  "log-357": {
+    "player": "cake",
+    "action": "Monkey D. Dragon: Attach 1 Rested Don to Shanks",
+    "card_id": "OP07-015",
+    "target": "Shanks",
+    "target_id": "OP09-001"
+  },
+  "log-358": {
+    "player": "cake",
+    "action": "Attach 2 Don to Shanks",
+    "card_id": "OP09-001",
+    "total_don": 4
+  },
+  "log-359": {
+    "player": "cake",
+    "action": "attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-360": {
+    "player": "Pirate26156",
+    "action": "Discard",
+    "card": "Sanji",
+    "card_id": "OP09-065",
+    "reason": "for Counter 1000"
+  },
+  "log-361": {
+    "player": "Pirate26156",
+    "action": "Discard",
+    "card": "Eustass 'Captain' Kid",
+    "card_id": "OP05-074",
+    "reason": "for Counter 1000"
+  },
+  "log-362": {
+    "player": "Pirate26156",
+    "action": "Discard",
+    "card": "Onami",
+    "card_id": "ST18-002",
+    "reason": "for Counter 1000"
+  },
+  "log-363": {
+    "player": "cake",
+    "action": "Shanks [9000] vs Monkey D. Luffy [8000]"
+  },
+  "log-364": {
+    "player": "Pirate26156",
+    "action": "Monkey D. Luffy hit for 1 damage",
+    "card_id": "OP05-060"
+  },
+  "log-365": {
+    "player": "Pirate26156",
+    "action": "Loses"
+  }
+}

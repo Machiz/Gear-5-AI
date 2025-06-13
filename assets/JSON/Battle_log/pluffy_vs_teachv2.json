@@ -1,0 +1,1183 @@
+{
+"log-001": {
+"player": "System",
+"action": "Attempting to connect",
+"room_id": "JCGWWF"
+},
+"log-002": {
+"player": "System",
+"action": "Version info",
+"version": "1.29b"
+},
+"log-003": {
+"player": "ElMeheecan",
+"action": "Leader is Marshall D. Teach",
+"card": "OP09-081"
+},
+"log-004": {
+"player": "Pirate26156",
+"action": "Will select turn order"
+},
+"log-005": {
+"player": "Pirate26156",
+"action": "Has Connected"
+},
+"log-006": {
+"player": "Pirate26156",
+"action": "Version info",
+"version": "1.29b"
+},
+"log-007": {
+"player": "Pirate26156",
+"action": "Leader is Monkey D. Luffy",
+"card": "OP05-060"
+},
+"log-008": {
+"player": "Pirate26156",
+"action": "Drew card from deck",
+"card": "ST18-002"
+},
+"log-009": {
+"player": "Pirate26156",
+"action": "Drew card from deck",
+"card": "ST18-005"
+},
+"log-010": {
+"player": "Pirate26156",
+"action": "Drew card from deck",
+"card": "OP09-069"
+},
+"log-011": {
+"player": "Pirate26156",
+"action": "Drew card from deck",
+"card": "ST18-003"
+},
+"log-012": {
+"player": "Pirate26156",
+"action": "Drew card from deck",
+"card": "OP09-119"
+},
+"log-013": {
+"player": "Pirate26156",
+"action": "Hand before Mulligan",
+"hand": ["ST18-002", "ST18-005", "OP09-069", "ST18-003", "OP09-119"]
+},
+"log-014": {
+"player": "Pirate26156",
+"action": "Chose to go First"
+},
+"log-015": {
+"player": "ElMeheecan",
+"action": "Drew card from deck",
+"card": "OP09-093"
+},
+"log-016": {
+"player": "ElMeheecan",
+"action": "Drew card from deck",
+"card": "OP05-096"
+},
+"log-017": {
+"player": "ElMeheecan",
+"action": "Drew card from deck",
+"card": "OP09-090"
+},
+"log-018": {
+"player": "ElMeheecan",
+"action": "Drew card from deck",
+"card": "OP09-083"
+},
+"log-019": {
+"player": "ElMeheecan",
+"action": "Drew card from deck",
+"card": "OP09-083"
+},
+"log-020": {
+"player": "ElMeheecan",
+"action": "Drew card from deck",
+"card": "OP08-084"
+},
+"log-021": {
+"player": "ElMeheecan",
+"action": "Drew card from deck",
+"card": "OP05-096"
+},
+"log-022": {
+"player": "ElMeheecan",
+"action": "Drew card from deck",
+"card": "OP09-095"
+},
+"log-023": {
+"player": "ElMeheecan",
+"action": "Drew card from deck",
+"card": "OP09-086"
+},
+"log-024": {
+"player": "ElMeheecan",
+"action": "Drew card from deck",
+"card": "OP10-082"
+},
+"log-025": {
+"player": "ElMeheecan",
+"action": "Mulligan"
+},
+"log-026": {
+"player": "Pirate26156",
+"action": "Current State",
+"hand": ["ST18-002", "ST18-005", "OP09-069", "ST18-003", "OP09-119"],
+"board": [],
+"trash": [],
+"life": 5
+},
+"log-027": {
+"player": "ElMeheecan",
+"action": "Current State",
+"hand": ["OP08-084", "OP05-096", "OP09-095", "OP09-086", "OP10-082"],
+"trash": [],
+"board": [],
+"life": 5
+},
+"log-028": {
+"player": "Pirate26156",
+"action": "Draw Don",
+"amount": 1
+},
+"log-029": {
+"player": "Pirate26156",
+"action": "Deploy",
+"card": "OP09-069"
+},
+"log-030": {
+"player": "Pirate26156",
+"action": "Reveal and Draw",
+"card": "ST18-004"
+},
+"log-031": {
+"player": "Pirate26156",
+"action": "Placing Cards on Bottom of Deck"
+},
+"log-032": {
+"player": "Pirate26156",
+"action": "Current State",
+"hand": ["ST18-002", "ST18-005", "ST18-003", "OP09-119", "ST18-004"],
+"board": ["OP09-069"],
+"trash": [],
+"life": 5
+},
+"log-033": {
+"player": "ElMeheecan",
+"action": "Current State",
+"hand": ["OP08-084", "OP05-096", "OP09-095", "OP09-086", "OP10-082"],
+"trash": [],
+"board": [],
+"life": 5
+},
+"log-034": {
+"player": "Pirate26156",
+"action": "End Turn"
+},
+"log-035": {
+"player": "ElMeheecan",
+"action": "Draw Card",
+"amount": 1
+},
+"log-036": {
+"player": "ElMeheecan",
+"action": "Drew card from deck",
+"card": "OP09-090"
+},
+"log-037": {
+"player": "ElMeheecan",
+"action": "Draw Don",
+"amount": 2
+},
+"log-038": {
+"player": "ElMeheecan",
+"action": "Deploy",
+"card": "OP09-090"
+},
+"log-039": {
+"player": "ElMeheecan",
+"action": "Card Ability: Rest",
+"card": "OP09-090",
+"target_card": "OP09-090"
+},
+"log-040": {
+"player": "ElMeheecan",
+"action": "Card Ability: Destroy",
+"card": "OP09-090",
+"target_card": "OP09-069"
+},
+"log-041": {
+"player": "ElMeheecan",
+"action": "End Turn"
+},
+"log-042": {
+"player": "Pirate26156",
+"action": "Current State",
+"hand": ["ST18-002", "ST18-005", "ST18-003", "OP09-119", "ST18-004"],
+"board": [],
+"trash": ["OP09-069"],
+"life": 5
+},
+"log-043": {
+"player": "ElMeheecan",
+"action": "Current State",
+"hand": ["OP08-084", "OP05-096", "OP09-095", "OP09-086", "OP10-082"],
+"trash": [],
+"board": ["OP09-090"],
+"life": 5
+},
+"log-044": {
+"player": "Pirate26156",
+"action": "Drew card from deck",
+"card": "OP05-074"
+},
+"log-045": {
+"player": "Pirate26156",
+"action": "Draw Card",
+"amount": 1
+},
+"log-046": {
+"player": "Pirate26156",
+"action": "Draw Don",
+"amount": 2
+},
+"log-047": {
+"player": "Pirate26156",
+"action": "Loses Life",
+"amount": 1
+},
+"log-048": {
+"player": "Pirate26156",
+"action": "Leader Ability: Draw Don",
+"leader": "OP05-060",
+"amount": 1
+},
+"log-049": {
+"player": "Pirate26156",
+"action": "Deploy",
+"card": "ST18-004"
+},
+"log-050": {
+"player": "Pirate26156",
+"action": "Reveal and Draw",
+"card": "ST18-001"
+},
+"log-051": {
+"player": "Pirate26156",
+"action": "Placing Cards on Bottom of Deck"
+},
+"log-052": {
+"player": "Pirate26156",
+"action": "Attacking",
+"attacker": "Monkey D. Luffy",
+"attacker_id": "OP05-060",
+"defender": "Marshall D. Teach",
+"defender_id": "OP09-081"
+},
+"log-053": {
+"player": "Pirate26156",
+"action": "Attack details",
+"attacker": "Monkey D. Luffy",
+"attacker_id": "OP05-060",
+"attacker_power": 5000,
+"defender": "Marshall D. Teach",
+"defender_id": "OP09-081",
+"defender_power": 5000
+},
+"log-054": {
+"player": "ElMeheecan",
+"action": "Damage taken by Marshall D. Teach",
+"card": "OP09-081",
+"damage": 1
+},
+"log-055": {
+"player": "Pirate26156",
+"action": "Current State",
+"hand": ["ST18-002", "ST18-005", "ST18-003", "OP09-119", "OP05-074", "ST18-001", "ST18-001"],
+"board": ["ST18-004"],
+"trash": ["OP09-069"],
+"life": 4
+},
+"log-056": {
+"player": "ElMeheecan",
+"action": "Current State",
+"hand": ["OP08-084", "OP05-096", "OP09-095", "OP09-086", "OP10-082", "OP09-083"],
+"trash": [],
+"board": ["OP09-090"],
+"life": 4
+},
+"log-057": {
+"player": "Pirate26156",
+"action": "End Turn"
+},
+"log-058": {
+"player": "ElMeheecan",
+"action": "Draw Card",
+"amount": 1
+},
+"log-059": {
+"player": "ElMeheecan",
+"action": "Drew card from deck",
+"card": "OP09-089"
+},
+"log-060": {
+"player": "ElMeheecan",
+"action": "Draw Don",
+"amount": 2
+},
+"log-061": {
+"player": "ElMeheecan",
+"action": "Deploy",
+"card": "OP09-095"
+},
+"log-062": {
+"player": "ElMeheecan",
+"action": "Card Ability: Rest",
+"card": "OP09-095",
+"target_card": "OP09-095"
+},
+"log-063": {
+"player": "ElMeheecan",
+"action": "Reveal and Draw",
+"card": "OP10-086"
+},
+"log-064": {
+"player": "ElMeheecan",
+"action": "Placing Cards on Bottom of Deck"
+},
+"log-065": {
+"player": "ElMeheecan",
+"action": "Attach Don",
+"card": "OP09-081",
+"amount": 2,
+"total_attached": 2
+},
+"log-066": {
+"player": "ElMeheecan",
+"action": "Attacking",
+"attacker": "Marshall D. Teach",
+"attacker_id": "OP09-081",
+"defender": "Monkey D. Luffy",
+"defender_id": "OP05-060"
+},
+"log-067": {
+"player": "Pirate26156",
+"action": "Discard for Counter",
+"card": "ST18-001",
+"counter_value": 2000
+},
+"log-068": {
+"player": "Pirate26156",
+"action": "Discard for Counter",
+"card": "ST18-002",
+"counter_value": 1000
+},
+"log-069": {
+"player": "ElMeheecan",
+"action": "Attack details",
+"attacker": "Marshall D. Teach",
+"attacker_id": "OP09-081",
+"attacker_power": 7000,
+"defender": "Monkey D. Luffy",
+"defender_id": "OP05-060",
+"defender_power": 8000
+},
+"log-070": {
+"player": "System",
+"action": "Attack Fails"
+},
+"log-071": {
+"player": "ElMeheecan",
+"action": "Card Ability: Trash",
+"card": "OP09-081",
+"target_card": "OP05-096"
+},
+"log-072": {
+"player": "ElMeheecan",
+"action": "Card Ability: Opponent can't activate On Play abilities next turn!",
+"card": "OP09-081"
+},
+"log-073": {
+"player": "ElMeheecan",
+"action": "End Turn"
+},
+"log-074": {
+"player": "Pirate26156",
+"action": "Current State",
+"hand": ["ST18-005", "ST18-003", "OP09-119", "OP05-074", "ST18-001"],
+"board": ["ST18-004"],
+"trash": ["OP09-069", "ST18-001", "ST18-002"],
+"life": 4
+},
+"log-075": {
+"player": "ElMeheecan",
+"action": "Current State",
+"hand": ["OP08-084", "OP09-086", "OP10-082", "OP09-083", "OP09-089", "OP10-086"],
+"trash": ["OP05-096"],
+"board": ["OP09-090", "OP09-095"],
+"life": 4
+},
+"log-076": {
+"player": "Pirate26156",
+"action": "Drew card from deck",
+"card": "ST18-004"
+},
+"log-077": {
+"player": "Pirate26156",
+"action": "Draw Card",
+"amount": 1
+},
+"log-078": {
+"player": "Pirate26156",
+"action": "Draw Don",
+"amount": 2
+},
+"log-079": {
+"player": "Pirate26156",
+"action": "Loses Life",
+"amount": 1
+},
+"log-080": {
+"player": "Pirate26156",
+"action": "Leader Ability: Draw Don",
+"leader": "OP05-060",
+"amount": 1
+},
+"log-081": {
+"player": "Pirate26156",
+"action": "Deploy",
+"card": "OP05-074"
+},
+"log-082": {
+"player": "Pirate26156",
+"action": "Attach Don",
+"card": "OP05-060",
+"amount": 1,
+"total_attached": 1
+},
+"log-083": {
+"player": "Pirate26156",
+"action": "Attacking",
+"attacker": "Monkey D. Luffy",
+"attacker_id": "OP05-060",
+"defender": "Laffitte",
+"defender_id": "OP09-095"
+},
+"log-084": {
+"player": "Pirate26156",
+"action": "Attack details",
+"attacker": "Monkey D. Luffy",
+"attacker_id": "OP05-060",
+"attacker_power": 6000,
+"defender": "Laffitte",
+"defender_id": "OP09-095",
+"defender_power": 1000
+},
+"log-085": {
+"player": "ElMeheecan",
+"action": "Card Destroyed",
+"card": "OP09-095"
+},
+"log-086": {
+"player": "Pirate26156",
+"action": "Attach Don",
+"card": "ST18-004",
+"amount": 1,
+"total_attached": 1
+},
+"log-087": {
+"player": "Pirate26156",
+"action": "Attacking",
+"attacker": "Zorojuro",
+"attacker_id": "ST18-004",
+"defender": "Marshall D. Teach",
+"defender_id": "OP09-081"
+},
+"log-088": {
+"player": "ElMeheecan",
+"action": "Discard for Counter",
+"card": "OP09-089",
+"counter_value": 2000
+},
+"log-089": {
+"player": "ElMeheecan",
+"action": "Discard for Counter",
+"card": "OP10-086",
+"counter_value": 1000
+},
+"log-090": {
+"player": "Pirate26156",
+"action": "Attack details",
+"attacker": "Zorojuro",
+"attacker_id": "ST18-004",
+"attacker_power": 7000,
+"defender": "Marshall D. Teach",
+"defender_id": "OP09-081",
+"defender_power": 8000
+},
+"log-091": {
+"player": "System",
+"action": "Attack Fails"
+},
+"log-092": {
+"player": "Pirate26156",
+"action": "Current State",
+"hand": ["ST18-005", "ST18-003", "OP09-119", "ST18-001", "ST18-004", "OP05-070"],
+"board": ["ST18-004", "OP05-074"],
+"trash": ["OP09-069", "ST18-001", "ST18-002"],
+"life": 3
+},
+"log-093": {
+"player": "ElMeheecan",
+"action": "Current State",
+"hand": ["OP08-084", "OP09-086", "OP10-082", "OP09-083"],
+"trash": ["OP05-096", "OP09-095", "OP09-089", "OP10-086"],
+"board": ["OP09-090"],
+"life": 4
+},
+"log-094": {
+"player": "Pirate26156",
+"action": "End Turn"
+},
+"log-095": {
+"player": "ElMeheecan",
+"action": "Draw Card",
+"amount": 1
+},
+"log-096": {
+"player": "ElMeheecan",
+"action": "Drew card from deck",
+"card": "OP09-083"
+},
+"log-097": {
+"player": "ElMeheecan",
+"action": "Draw Don",
+"amount": 2
+},
+"log-098": {
+"player": "ElMeheecan",
+"action": "Deploy",
+"card": "OP09-083"
+},
+"log-099": {
+"player": "ElMeheecan",
+"action": "Card Ability: Rest",
+"card": "OP09-083",
+"target_card": "OP09-083"
+},
+"log-100": {
+"player": "ElMeheecan",
+"action": "Card Ability: Cost Reduction",
+"card": "OP09-083",
+"target_card": "ST18-004",
+"amount": 3
+},
+"log-101": {
+"player": "ElMeheecan",
+"action": "Card Ability: Rest",
+"card": "OP09-090",
+"target_card": "OP09-090"
+},
+"log-102": {
+"player": "ElMeheecan",
+"action": "Card Ability: Destroy",
+"card": "OP09-090",
+"target_card": "ST18-004"
+},
+"log-103": {
+"player": "ElMeheecan",
+"action": "Attach Don",
+"card": "OP09-081",
+"amount": 1,
+"total_attached": 1
+},
+"log-104": {
+"player": "ElMeheecan",
+"action": "Attacking",
+"attacker": "Marshall D. Teach",
+"attacker_id": "OP09-081",
+"defender": "Monkey D. Luffy",
+"defender_id": "OP05-060"
+},
+"log-105": {
+"player": "Pirate26156",
+"action": "Discard for Counter",
+"card": "OP05-070",
+"counter_value": 2000
+},
+"log-106": {
+"player": "ElMeheecan",
+"action": "Attack details",
+"attacker": "Marshall D. Teach",
+"attacker_id": "OP09-081",
+"attacker_power": 6000,
+"defender": "Monkey D. Luffy",
+"defender_id": "OP05-060",
+"defender_power": 7000
+},
+"log-107": {
+"player": "System",
+"action": "Attack Fails"
+},
+"log-108": {
+"player": "ElMeheecan",
+"action": "Card Ability: Trash",
+"card": "OP09-081",
+"target_card": "OP09-083"
+},
+"log-109": {
+"player": "ElMeheecan",
+"action": "Card Ability: Opponent can't activate On Play abilities next turn!",
+"card": "OP09-081"
+},
+"log-110": {
+"player": "ElMeheecan",
+"action": "End Turn"
+},
+"log-111": {
+"player": "Pirate26156",
+"action": "Current State",
+"hand": ["ST18-005", "ST18-003", "OP09-119", "ST18-001", "ST18-004"],
+"board": ["OP05-074"],
+"trash": ["OP09-069", "ST18-001", "ST18-002", "ST18-004", "OP05-070"],
+"life": 3
+},
+"log-112": {
+"player": "ElMeheecan",
+"action": "Current State",
+"hand": ["OP08-084", "OP09-086", "OP10-082"],
+"trash": ["OP05-096", "OP09-095", "OP09-089", "OP10-086", "OP09-083"],
+"board": ["OP09-090", "OP09-083"],
+"life": 4
+},
+"log-113": {
+"player": "Pirate26156",
+"action": "Drew card from deck",
+"card": "OP05-077"
+},
+"log-114": {
+"player": "Pirate26156",
+"action": "Draw Card",
+"amount": 1
+},
+"log-115": {
+"player": "Pirate26156",
+"action": "Draw Don",
+"amount": 2
+},
+"log-116": {
+"player": "Pirate26156",
+"action": "Deploy",
+"card": "ST18-003"
+},
+"log-117": {
+"player": "Pirate26156",
+"action": "Card Ability: Give Power Down",
+"card": "OP05-077",
+"target_card": "OP09-083",
+"amount": 5000
+},
+"log-118": {
+"player": "Pirate26156",
+"action": "Leader Ability: Draw Don",
+"leader": "OP05-074",
+"amount": 1
+},
+"log-119": {
+"player": "Pirate26156",
+"action": "Attach Don",
+"card": "OP05-060",
+"amount": 2,
+"total_attached": 2
+},
+"log-120": {
+"player": "Pirate26156",
+"action": "Attacking",
+"attacker": "Monkey D. Luffy",
+"attacker_id": "OP05-060",
+"defender": "Van Augur",
+"defender_id": "OP09-083"
+},
+"log-121": {
+"player": "Pirate26156",
+"action": "Attack details",
+"attacker": "Monkey D. Luffy",
+"attacker_id": "OP05-060",
+"attacker_power": 7000,
+"defender": "Van Augur",
+"defender_id": "OP09-083",
+"defender_power": 1000
+},
+"log-122": {
+"player": "ElMeheecan",
+"action": "Card Destroyed",
+"card": "OP09-083"
+},
+"log-123": {
+"player": "ElMeheecan",
+"action": "Drew card from deck",
+"card": "EB01-051"
+},
+"log-124": {
+"player": "ElMeheecan",
+"action": "Card Ability: Draw Card",
+"card": "OP09-083",
+"amount": 1
+},
+"log-125": {
+"player": "Pirate26156",
+"action": "Attacking",
+"attacker": "Eustass 'Captain' Kid",
+"attacker_id": "OP05-074",
+"defender": "Marshall D. Teach",
+"defender_id": "OP09-081"
+},
+"log-126": {
+"player": "Pirate26156",
+"action": "Attack details",
+"attacker": "Eustass 'Captain' Kid",
+"attacker_id": "OP05-074",
+"attacker_power": 6000,
+"defender": "Marshall D. Teach",
+"defender_id": "OP09-081",
+"defender_power": 5000
+},
+"log-127": {
+"player": "ElMeheecan",
+"action": "Damage taken by Marshall D. Teach",
+"card": "OP09-081",
+"damage": 1
+},
+"log-128": {
+"player": "Pirate26156",
+"action": "Current State",
+"hand": ["ST18-005", "OP09-119", "ST18-001", "ST18-004"],
+"board": ["OP05-074", "ST18-003"],
+"trash": ["OP09-069", "ST18-001", "ST18-002", "ST18-004", "OP05-070", "OP05-077"],
+"life": 3
+},
+"log-129": {
+"player": "ElMeheecan",
+"action": "Current State",
+"hand": ["OP08-084", "OP09-086", "OP10-082", "EB01-051", "OP08-084"],
+"trash": ["OP05-096", "OP09-095", "OP09-089", "OP10-086", "OP09-083", "OP09-083"],
+"board": ["OP09-090"],
+"life": 3
+},
+"log-130": {
+"player": "Pirate26156",
+"action": "End Turn"
+},
+"log-131": {
+"player": "ElMeheecan",
+"action": "Draw Card",
+"amount": 1
+},
+"log-132": {
+"player": "ElMeheecan",
+"action": "Drew card from deck",
+"card": "OP10-082"
+},
+"log-133": {
+"player": "ElMeheecan",
+"action": "Draw Don",
+"amount": 2
+},
+"log-134": {
+"player": "ElMeheecan",
+"action": "Attacking",
+"attacker": "Marshall D. Teach",
+"attacker_id": "OP09-081",
+"defender": "Monkey D. Luffy",
+"defender_id": "OP05-060"
+},
+"log-135": {
+"player": "ElMeheecan",
+"action": "Attack details",
+"attacker": "Marshall D. Teach",
+"attacker_id": "OP09-081",
+"attacker_power": 5000,
+"defender": "Monkey D. Luffy",
+"defender_id": "OP05-060",
+"defender_power": 5000
+},
+"log-136": {
+"player": "Pirate26156",
+"action": "Damage taken by Monkey D. Luffy",
+"card": "OP05-060",
+"damage": 1
+},
+"log-137": {
+"player": "ElMeheecan",
+"action": "Card Ability: Trash 2 Cards from Deck",
+"card": "EB01-051"
+},
+"log-138": {
+"player": "ElMeheecan",
+"action": "Card Ability: Destroy",
+"card": "EB01-051",
+"target_card": "ST18-003"
+},
+"log-139": {
+"player": "ElMeheecan",
+"action": "Deploy",
+"card": "OP09-086"
+},
+"log-140": {
+"player": "ElMeheecan",
+"action": "Card Ability: Trash",
+"card": "OP09-081",
+"target_card": "OP10-082"
+},
+"log-141": {
+"player": "ElMeheecan",
+"action": "Card Ability: Opponent can't activate On Play abilities next turn!",
+"card": "OP09-081"
+},
+"log-142": {
+"player": "ElMeheecan",
+"action": "End Turn"
+},
+"log-143": {
+"player": "Pirate26156",
+"action": "Current State",
+"hand": ["ST18-005", "OP09-119", "ST18-001", "ST18-004", "OP05-074"],
+"board": ["OP05-074"],
+"trash": ["OP09-069", "ST18-001", "ST18-002", "ST18-004", "OP05-070", "OP05-077", "ST18-003"],
+"life": 2
+},
+"log-144": {
+"player": "ElMeheecan",
+"action": "Current State",
+"hand": ["OP08-084", "OP10-082", "OP08-084"],
+"trash": ["OP05-096", "OP09-095", "OP09-089", "OP10-086", "OP09-083", "OP09-083", "EB01-051", "OP09-083", "OP09-088", "OP10-082"],
+"board": ["OP09-090", "OP09-086"],
+"life": 3
+},
+"log-145": {
+"player": "Pirate26156",
+"action": "Drew card from deck",
+"card": "ST18-002"
+},
+"log-146": {
+"player": "Pirate26156",
+"action": "Draw Card",
+"amount": 1
+},
+"log-147": {
+"player": "Pirate26156",
+"action": "Draw Don",
+"amount": 2
+},
+"log-148": {
+"player": "Pirate26156",
+"action": "Deploy",
+"card": "OP09-119"
+},
+"log-149": {
+"player": "Pirate26156",
+"action": "Attacking",
+"attacker": "Monkey D. Luffy",
+"attacker_id": "OP05-060",
+"defender": "Marshall D. Teach",
+"defender_id": "OP09-081"
+},
+"log-150": {
+"player": "Pirate26156",
+"action": "Attack details",
+"attacker": "Monkey D. Luffy",
+"attacker_id": "OP05-060",
+"attacker_power": 5000,
+"defender": "Marshall D. Teach",
+"defender_id": "OP09-081",
+"defender_power": 5000
+},
+"log-151": {
+"player": "ElMeheecan",
+"action": "Damage taken by Marshall D. Teach",
+"card": "OP09-081",
+"damage": 1
+},
+"log-152": {
+"player": "Pirate26156",
+"action": "Current State",
+"hand": ["ST18-005", "ST18-001", "ST18-004", "OP05-074", "ST18-002"],
+"board": ["OP05-074", "OP09-119"],
+"trash": ["OP09-069", "ST18-001", "ST18-002", "ST18-004", "OP05-070", "OP05-077", "ST18-003"],
+"life": 2
+},
+"log-153": {
+"player": "ElMeheecan",
+"action": "Current State",
+"hand": ["OP08-084", "OP10-082", "OP08-084", "OP09-088"],
+"trash": ["OP05-096", "OP09-095", "OP09-089", "OP10-086", "OP09-083", "OP09-083", "EB01-051", "OP09-083", "OP09-088", "OP10-082"],
+"board": ["OP09-090", "OP09-086"],
+"life": 2
+},
+"log-154": {
+"player": "Pirate26156",
+"action": "End Turn"
+},
+"log-155": {
+"player": "ElMeheecan",
+"action": "Draw Card",
+"amount": 1
+},
+"log-156": {
+"player": "ElMeheecan",
+"action": "Drew card from deck",
+"card": "EB01-051"
+},
+"log-157": {
+"player": "ElMeheecan",
+"action": "Draw Don",
+"amount": 2
+},
+"log-158": {
+"player": "ElMeheecan",
+"action": "Deploy",
+"card": "OP10-082"
+},
+"log-159": {
+"player": "ElMeheecan",
+"action": "Card Ability: Trash",
+"card": "OP10-082",
+"target_card": "OP10-082"
+},
+"log-160": {
+"player": "ElMeheecan",
+"action": "Drew card from deck",
+"card": "OP09-099"
+},
+"log-161": {
+"player": "ElMeheecan",
+"action": "Card Ability: Draw Card",
+"card": "OP10-082",
+"amount": 1
+},
+"log-162": {
+"player": "ElMeheecan",
+"action": "Card Ability: Deployed from Trash",
+"card": "OP10-082",
+"target_card": "OP09-083"
+},
+"log-163": {
+"player": "ElMeheecan",
+"action": "Deploy",
+"card": "OP09-099"
+},
+"log-164": {
+"player": "ElMeheecan",
+"action": "Card Ability: Rest",
+"card": "OP09-099",
+"target_card": "OP09-099"
+},
+"log-165": {
+"player": "ElMeheecan",
+"action": "Card Ability: Trash",
+"card": "OP09-099",
+"target_card": "OP08-084"
+},
+"log-166": {
+"player": "ElMeheecan",
+"action": "Reveal and Draw",
+"card": "OP09-093"
+},
+"log-167": {
+"player": "ElMeheecan",
+"action": "Placing Cards on Bottom of Deck"
+},
+"log-168": {
+"player": "ElMeheecan",
+"action": "Attacking",
+"attacker": "Marshall D. Teach",
+"attacker_id": "OP09-081",
+"defender": "Monkey D. Luffy",
+"defender_id": "OP05-060"
+},
+"log-169": {
+"player": "Pirate26156",
+"action": "Discard for Counter",
+"card": "ST18-002",
+"counter_value": 1000
+},
+"log-170": {
+"player": "ElMeheecan",
+"action": "Attack details",
+"attacker": "Marshall D. Teach",
+"attacker_id": "OP09-081",
+"attacker_power": 5000,
+"defender": "Monkey D. Luffy",
+"defender_id": "OP05-060",
+"defender_power": 6000
+},
+"log-171": {
+"player": "System",
+"action": "Attack Fails"
+},
+"log-172": {
+"player": "ElMeheecan",
+"action": "Card Ability: Trash 2 Cards from Deck",
+"card": "EB01-051"
+},
+"log-173": {
+"player": "ElMeheecan",
+"action": "Card Ability: Destroy",
+"card": "EB01-051",
+"target_card": "OP05-074"
+},
+"log-174": {
+"player": "ElMeheecan",
+"action": "Card Ability: Trash",
+"card": "OP09-081",
+"target_card": "OP08-084"
+},
+"log-175": {
+"player": "ElMeheecan",
+"action": "Card Ability: Opponent can't activate On Play abilities next turn!",
+"card": "OP09-081"
+},
+"log-176": {
+"player": "ElMeheecan",
+"action": "End Turn"
+},
+"log-177": {
+"player": "Pirate26156",
+"action": "Current State",
+"hand": ["ST18-005", "ST18-001", "ST18-004", "OP05-074"],
+"board": ["OP09-119"],
+"trash": ["OP09-069", "ST18-001", "ST18-002", "ST18-004", "OP05-070", "OP05-077", "ST18-003", "ST18-002", "OP05-074"],
+"life": 2
+},
+"log-178": {
+"player": "ElMeheecan",
+"action": "Current State",
+"hand": ["OP09-088", "OP09-093"],
+"trash": ["OP05-096", "OP09-095", "OP09-089", "OP10-086", "OP09-083", "EB01-051", "OP09-083", "OP09-088", "OP10-082", "OP10-082", "OP08-084", "EB01-051", "OP09-086", "OP09-093", "OP08-084"],
+"board": ["OP09-090", "OP09-086", "OP09-083"],
+"life": 2
+},
+"log-179": {
+"player": "Pirate26156",
+"action": "Drew card from deck",
+"card": "ST18-005"
+},
+"log-180": {
+"player": "Pirate26156",
+"action": "Draw Card",
+"amount": 1
+},
+"log-181": {
+"player": "Pirate26156",
+"action": "Deploy",
+"card": "OP05-074"
+},
+"log-182": {
+"player": "Pirate26156",
+"action": "Deploy",
+"card": "ST18-004"
+},
+"log-183": {
+"player": "Pirate26156",
+"action": "Attacking",
+"attacker": "Monkey D. Luffy",
+"attacker_id": "OP05-060",
+"defender": "Marshall D. Teach",
+"defender_id": "OP09-081"
+},
+"log-184": {
+"player": "ElMeheecan",
+"action": "Discard for Counter",
+"card": "OP09-088",
+"counter_value": 2000
+},
+"log-185": {
+"player": "Pirate26156",
+"action": "Attack details",
+"attacker": "Monkey D. Luffy",
+"attacker_id": "OP05-060",
+"attacker_power": 5000,
+"defender": "Marshall D. Teach",
+"defender_id": "OP09-081",
+"defender_power": 7000
+},
+"log-186": {
+"player": "System",
+"action": "Attack Fails"
+},
+"log-187": {
+"player": "Pirate26156",
+"action": "Attacking",
+"attacker": "Monkey D. Luffy",
+"attacker_id": "OP09-119",
+"defender": "Marshall D. Teach",
+"defender_id": "OP09-081"
+},
+"log-188": {
+"player": "Pirate26156",
+"action": "Attack details",
+"attacker": "Monkey D. Luffy",
+"attacker_id": "OP09-119",
+"attacker_power": 10000,
+"defender": "Marshall D. Teach",
+"defender_id": "OP09-081",
+"defender_power": 5000
+},
+"log-189": {
+"player": "ElMeheecan",
+"action": "Damage taken by Marshall D. Teach",
+"card": "OP09-081",
+"damage": 1
+},
+"log-190": {
+"player": "Pirate26156",
+"action": "Current State",
+"hand": ["ST18-005", "ST18-001", "ST18-005"],
+"board": ["OP09-119", "OP05-074", "ST18-004"],
+"trash": ["OP09-069", "ST18-001", "ST18-002", "ST18-004", "OP05-070", "OP05-077", "ST18-003", "ST18-002", "OP05-074"],
+"life": 2
+},
+"log-191": {
+"player": "ElMeheecan",
+"action": "Current State",
+"hand": ["OP09-093", "OP10-098"],
+"trash": ["OP05-096", "OP09-095", "OP09-089", "OP10-086", "OP09-083", "EB01-051", "OP09-083", "OP09-088", "OP10-082", "OP10-082", "OP08-084", "EB01-051", "OP09-086", "OP09-093", "OP08-084", "OP09-088"],
+"board": ["OP09-090", "OP09-086", "OP09-083"],
+"life": 1
+},
+"log-192": {
+"player": "Pirate26156",
+"action": "End Turn"
+},
+"log-193": {
+"player": "ElMeheecan",
+"action": "Draw Card",
+"amount": 1
+},
+"log-194": {
+"player": "ElMeheecan",
+"action": "Drew card from deck",
+"card": "OP09-093"
+},
+"log-195": {
+"player": "ElMeheecan",
+"action": "Concedes"
+},
+"log-196": {
+"player": "ElMeheecan",
+"action": "Loses"
+},
+"log-197": {
+"player": "Pirate26156",
+"action": "Wins"
+},
+"log-198": {
+"player": "ElMeheecan",
+"action": "Quits"
+},
+"log-199": {
+"player": "ElMeheecan",
+"action": "Disconnected"
+}
+}

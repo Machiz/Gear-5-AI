@@ -1,0 +1,62 @@
+{
+  "ST28-001": {
+    "name": "Ashura Doji ST28-001",
+    "color": "yellow",
+    "type": "character",
+    "group": ["Land of Wano", "The Akazaya Nine"],
+    "attribute": "Slash",
+    "cost": 3,
+    "power": 3000,
+    "counter": 1000,
+    "effect": "[On Play] If your Leader has the {Land of Wano} type and your opponent has 3 or more Life cards, K.O. up to 1 of your opponent's Characters with a base cost of 5 or less.",
+    "images": "Images/ST28/ST28-001.png"
+  },
+  "ST28-002": {
+    "name": "Izo ST28-002",
+    "color": "yellow",
+    "type": "character",
+    "group": ["Land of Wano", "Former Whitebeard Pirates"],
+    "attribute": "Ranged",
+    "cost": 2,
+    "power": 1000,
+    "counter": 1000,
+    "effect": "[DON!! x2] This Character gains [Blocker]. [On Play] Your {Land of Wano} type Leader gains [Banish] during this turn.",
+    "images": "Images/ST28/ST28-002.png"
+  },
+  "ST28-003": {
+    "name": "Kin'emon ST28-003",
+    "color": "yellow",
+    "type": "character",
+    "group": ["Land of Wano", "The Akazaya Nine"],
+    "attribute": "Slash",
+    "cost": 4,
+    "power": 5000,
+    "counter": 2000,
+    "effect": "[Trigger] If your Leader has the {Land of Wano} type and your opponent has 3 or less Life cards, play this card.",
+    "images": "Images/ST28/ST28-003.png"
+  },
+  "ST28-004": {
+    "name": "Kouzuki Momonosuke ST28-004",
+    "color": "yellow",
+    "type": "character",
+    "group": ["Land of Wano", "Kouzuki Clan"],
+    "attribute": "Slash",
+    "cost": 6,
+    "power": 7000,
+    "counter": 0,
+    "effect": "[Your Turn] If you have 2 or less Life cards, your Leader gains +1000 power. [Activate: Main] [Once Per Turn] You may return 2 total of your currently given DON!! cards to your cost area rested: This Character gains [Rush] and +1000 power during this turn.",
+    "images": "Images/ST28/ST28-004.png"
+  },
+  "ST28-005": {
+    "name": "Yamato ST28-005",
+    "color": "yellow",
+    "type": "character",
+    "group": "Land of Wano",
+    "attribute": "Strike",
+    "cost": 1,
+    "power": 0,
+    "counter": 1000,
+    "effect": "[DON!! x2] [Your Turn] This Character gains +3000 power. [On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Land of Wano} type card with a cost of 2 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+    "images": "Images/ST28/ST28-005.png"
+  }
+}

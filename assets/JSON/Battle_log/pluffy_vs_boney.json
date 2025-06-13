@@ -1,1445 +1,1632 @@
 {
-  "room_id": "96Q6RQ",
-  "players": [
-    {
-      "name": "Mhcuber",
-      "leader": {
-        "name": "Monkey D. Luffy",
-        "card_id": "OP05-060"
-      },
-      "version": "1.29b"
-    },
-    {
-      "name": "Juanpa",
-      "leader": {
-        "name": "Jewelry Bonney",
-        "card_id": "OP07-019"
-      },
-      "version": "1.29b"
-    }
-  ],
-  "game_log": [
-    {
-      "event_type": "connection",
-      "player": "Mhcuber"
-    },
-    {
-      "event_type": "leader_reveal",
-      "player": "Mhcuber",
-      "leader_name": "Monkey D. Luffy",
-      "leader_id": "OP05-060"
-    },
-    {
-      "event_type": "connection",
-      "player": "Juanpa"
-    },
-    {
-      "event_type": "leader_reveal",
-      "player": "Juanpa",
-      "leader_name": "Jewelry Bonney",
-      "leader_id": "OP07-019"
-    },
-    {
-      "event_type": "turn_order_selection",
-      "player": "Mhcuber",
-      "choice": "First"
-    },
-    {
-      "event_type": "draw_card_from_deck",
-      "player": "Mhcuber",
-      "card_name": "Onami",
-      "card_id": "ST18-002"
-    },
-    {
-      "event_type": "draw_card_from_deck",
-      "player": "Mhcuber",
-      "card_name": "Trafalgar Law",
-      "card_id": "ST10-010"
-    },
-    {
-      "event_type": "draw_card_from_deck",
-      "player": "Mhcuber",
-      "card_name": "Eustass 'Captain' Kid",
-      "card_id": "OP05-074"
-    },
-    {
-      "event_type": "draw_card_from_deck",
-      "player": "Mhcuber",
-      "card_name": "Eustass 'Captain' Kid",
-      "card_id": "OP05-074"
-    },
-    {
-      "event_type": "draw_card_from_deck",
-      "player": "Mhcuber",
-      "card_name": "Sanji",
-      "card_id": "OP07-064"
-    },
-    {
-      "event_type": "hand_state",
-      "player": "Mhcuber",
-      "stage": "before Mulligan",
-      "cards": ["ST18-002", "ST10-010", "OP05-074", "OP05-074", "OP07-064"]
-    },
-    {
-      "event_type": "draw_card_from_deck",
-      "player": "Juanpa",
-      "card_name": "Hody Jones",
-      "card_id": "OP06-035"
-    },
-    {
-      "event_type": "draw_card_from_deck",
-      "player": "Juanpa",
-      "card_name": "Bartolomeo",
-      "card_id": "OP07-031"
-    },
-    {
-      "event_type": "draw_card_from_deck",
-      "player": "Juanpa",
-      "card_name": "Scratchmen Apoo",
-      "card_id": "ST02-008"
-    },
-    {
-      "event_type": "draw_card_from_deck",
-      "player": "Juanpa",
-      "card_name": "Bartolomeo",
-      "card_id": "OP07-031"
-    },
-    {
-      "event_type": "draw_card_from_deck",
-      "player": "Juanpa",
-      "card_name": "Killer",
-      "card_id": "OP01-039"
-    },
-    {
-      "event_type": "draw_card_from_deck",
-      "player": "Mhcuber",
-      "card_name": "Hitokiri Kamazo",
-      "card_id": "OP06-076"
-    },
-    {
-      "event_type": "draw_card_from_deck",
-      "player": "Mhcuber",
-      "card_name": "Eustass 'Captain' Kid",
-      "card_id": "OP05-074"
-    },
-    {
-      "event_type": "draw_card_from_deck",
-      "player": "Mhcuber",
-      "card_name": "Trafalgar Law",
-      "card_id": "OP09-069"
-    },
-    {
-      "event_type": "draw_card_from_deck",
-      "player": "Mhcuber",
-      "card_name": "Onami",
-      "card_id": "ST18-002"
-    },
-    {
-      "event_type": "draw_card_from_deck",
-      "player": "Mhcuber",
-      "card_name": "Zorojuro",
-      "card_id": "ST18-004"
-    },
-    {
-      "event_type": "hand_state",
-      "player": "Mhcuber",
-      "stage": "after Mulligan",
-      "cards": ["OP06-076", "OP05-074", "OP09-069", "ST18-002", "ST18-004"]
-    },
-    {
-      "event_type": "mulligan",
-      "player": "Mhcuber"
-    },
-    {
-      "event_type": "draw_card_from_deck",
-      "player": "Juanpa",
-      "card_name": "Whoever Wins This War Becomes Justice!!",
-      "card_id": "OP05-037"
-    },
-    {
-      "event_type": "draw_card_from_deck",
-      "player": "Juanpa",
-      "card_name": "Tashigi",
-      "card_id": "OP10-032"
-    },
-    {
-      "event_type": "draw_card_from_deck",
-      "player": "Juanpa",
-      "card_name": "Bartolomeo",
-      "card_id": "OP07-031"
-    },
-    {
-      "event_type": "draw_card_from_deck",
-      "player": "Juanpa",
-      "card_name": "Donquixote Rosinante",
-      "card_id": "OP05-030"
-    },
-    {
-      "event_type": "draw_card_from_deck",
-      "player": "Juanpa",
-      "card_name": "Scratchmen Apoo",
-      "card_id": "EB01-015"
-    },
-    {
-      "event_type": "mulligan",
-      "player": "Juanpa"
-    },
-    {
-      "event_type": "player_state",
-      "player": "Mhcuber",
-      "hand": ["OP06-076", "OP05-074", "OP09-069", "ST18-002", "ST18-004"],
-      "board": [],
-      "trash": [],
-      "life": 5
-    },
-    {
-      "event_type": "player_state",
-      "player": "Juanpa",
-      "hand": ["OP05-037", "OP10-032", "OP07-031", "OP05-030", "EB01-015"],
-      "trash": [],
-      "board": [],
-      "life": 5
-    },
-    {
-      "event_type": "draw_don",
-      "player": "Mhcuber",
-      "amount": 1
-    },
-    {
-      "event_type": "deploy_card",
-      "player": "Mhcuber",
-      "card_name": "Trafalgar Law",
-      "card_id": "OP09-069"
-    },
-    {
-      "event_type": "reveal_and_draw",
-      "player": "Mhcuber",
-      "card_name": "Trafalgar Law",
-      "card_id": "ST10-010"
-    },
-    {
-      "event_type": "card_action",
-      "player": "Mhcuber",
-      "action": "placing cards on bottom of deck"
-    },
-    {
-      "event_type": "player_state",
-      "player": "Mhcuber",
-      "hand": ["OP06-076", "OP05-074", "ST18-002", "ST18-004", "ST10-010"],
-      "board": ["OP09-069"],
-      "trash": [],
-      "life": 5
-    },
-    {
-      "event_type": "player_state",
-      "player": "Juanpa",
-      "hand": ["OP05-037", "OP10-032", "OP07-031", "OP05-030", "EB01-015"],
-      "trash": [],
-      "board": [],
-      "life": 5
-    },
-    {
-      "event_type": "end_turn",
-      "player": "Mhcuber"
-    },
-    {
-      "event_type": "draw_card",
-      "player": "Juanpa",
-      "amount": 1
-    },
-    {
-      "event_type": "drew_card_from_deck",
-      "player": "Juanpa",
-      "card_name": "Donquixote Rosinante",
-      "card_id": "OP05-030"
-    },
-    {
-      "event_type": "draw_don",
-      "player": "Juanpa",
-      "amount": 2
-    },
-    {
-      "event_type": "deploy_card",
-      "player": "Juanpa",
-      "card_name": "Donquixote Rosinante",
-      "card_id": "OP05-030"
-    },
-    {
-      "event_type": "end_turn",
-      "player": "Juanpa"
-    },
-    {
-      "event_type": "player_state",
-      "player": "Mhcuber",
-      "hand": ["OP06-076", "OP05-074", "ST18-002", "ST18-004", "ST10-010"],
-      "board": ["OP09-069"],
-      "trash": [],
-      "life": 5
-    },
-    {
-      "event_type": "player_state",
-      "player": "Juanpa",
-      "hand": ["OP05-037", "OP10-032", "OP07-031", "OP05-030", "EB01-015"],
-      "trash": [],
-      "board": ["OP05-030"],
-      "life": 5
-    },
-    {
-      "event_type": "draw_card",
-      "player": "Mhcuber",
-      "amount": 1
-    },
-    {
-      "event_type": "drew_card_from_deck",
-      "player": "Mhcuber",
-      "card_name": "Hitokiri Kamazo",
-      "card_id": "OP06-076"
-    },
-    {
-      "event_type": "draw_don",
-      "player": "Mhcuber",
-      "amount": 2
-    },
-    {
-      "event_type": "lose_life",
-      "player": "Mhcuber",
-      "amount": 1
-    },
-    {
-      "event_type": "leader_ability",
-      "player": "Mhcuber",
-      "leader_name": "Monkey D. Luffy",
-      "leader_id": "OP05-060",
-      "ability": "Draw 1 Don"
-    },
-    {
-      "event_type": "deploy_card",
-      "player": "Mhcuber",
-      "card_name": "Zorojuro",
-      "card_id": "ST18-004"
-    },
-    {
-      "event_type": "reveal_and_draw",
-      "player": "Mhcuber",
-      "card_name": "Usohachi",
-      "card_id": "ST18-001"
-    },
-    {
-      "event_type": "card_action",
-      "player": "Mhcuber",
-      "action": "placing cards on bottom of deck"
-    },
-    {
-      "event_type": "attack",
-      "attacker_player": "Mhcuber",
-      "attacker_name": "Monkey D. Luffy",
-      "attacker_id": "OP05-060",
-      "attacker_power": 5000,
-      "defender_player": "Juanpa",
-      "defender_name": "Jewelry Bonney",
-      "defender_id": "OP07-019",
-      "defender_power": 5000,
-      "outcome": "hit",
-      "damage_taken": 1
-    },
-    {
-      "event_type": "player_state",
-      "player": "Mhcuber",
-      "hand": ["OP06-076", "OP05-074", "ST18-002", "ST10-010", "OP06-076", "ST18-005", "ST18-001"],
-      "board": ["OP09-069", "ST18-004"],
-      "trash": [],
-      "life": 4
-    },
-    {
-      "event_type": "player_state",
-      "player": "Juanpa",
-      "hand": ["OP05-037", "OP10-032", "OP07-031", "OP05-030", "EB01-015", "OP10-032"],
-      "trash": [],
-      "board": ["OP05-030"],
-      "life": 4
-    },
-    {
-      "event_type": "end_turn",
-      "player": "Mhcuber"
-    },
-    {
-      "event_type": "draw_card",
-      "player": "Juanpa",
-      "amount": 1
-    },
-    {
-      "event_type": "drew_card_from_deck",
-      "player": "Juanpa",
-      "card_name": "Hody Jones",
-      "card_id": "OP06-035"
-    },
-    {
-      "event_type": "draw_don",
-      "player": "Juanpa",
-      "amount": 2
-    },
-    {
-      "event_type": "attach_don",
-      "player": "Juanpa",
-      "target_card": {
-        "name": "Jewelry Bonney",
-        "id": "OP07-019"
-      },
-      "amount": 1,
-      "total_don": 1
-    },
-    {
-      "event_type": "attack",
-      "attacker_player": "Juanpa",
-      "attacker_name": "Jewelry Bonney",
-      "attacker_id": "OP07-019",
-      "attacker_power": 6000,
-      "defender_player": "Mhcuber",
-      "defender_name": "Monkey D. Luffy",
-      "defender_id": "OP05-060",
-      "defender_power": 7000,
-      "counter_play": {
-        "player": "Mhcuber",
-        "card_name": "Hitokiri Kamazo",
-        "card_id": "OP06-076",
-        "counter_value": 2000
-      },
-      "outcome": "fail"
-    },
-    {
-      "event_type": "deploy_card",
-      "player": "Juanpa",
-      "card_name": "Donquixote Rosinante",
-      "card_id": "OP05-030"
-    },
-    {
-      "event_type": "end_turn",
-      "player": "Juanpa"
-    },
-    {
-      "event_type": "player_state",
-      "player": "Mhcuber",
-      "hand": ["OP06-076", "OP05-074", "ST18-002", "ST10-010", "ST18-005", "ST18-001"],
-      "board": ["OP09-069", "ST18-004"],
-      "trash": ["OP06-076"],
-      "life": 4
-    },
-    {
-      "event_type": "player_state",
-      "player": "Juanpa",
-      "hand": ["OP05-037", "OP10-032", "OP07-031", "EB01-015", "OP10-032", "OP06-035"],
-      "trash": [],
-      "board": ["OP05-030", "OP05-030"],
-      "life": 4
-    },
-    {
-      "event_type": "draw_card",
-      "player": "Mhcuber",
-      "amount": 1
-    },
-    {
-      "event_type": "drew_card_from_deck",
-      "player": "Mhcuber",
-      "card_name": "Usohachi",
-      "card_id": "ST18-001"
-    },
-    {
-      "event_type": "draw_don",
-      "player": "Mhcuber",
-      "amount": 2
-    },
-    {
-      "event_type": "lose_life",
-      "player": "Mhcuber",
-      "amount": 1
-    },
-    {
-      "event_type": "leader_ability",
-      "player": "Mhcuber",
-      "leader_name": "Monkey D. Luffy",
-      "leader_id": "OP05-060",
-      "ability": "Draw 1 Don"
-    },
-    {
-      "event_type": "attack",
-      "attacker_player": "Mhcuber",
-      "attacker_name": "Zorojuro",
-      "attacker_id": "ST18-004",
-      "attacker_power": 6000,
-      "defender_player": "Juanpa",
-      "defender_name": "Jewelry Bonney",
-      "defender_id": "OP07-019",
-      "defender_power": 7000,
-      "counter_play": {
-        "player": "Juanpa",
-        "card_name": "Tashigi",
-        "card_id": "OP10-032",
-        "counter_value": 2000
-      },
-      "ability_activated": {
-        "player": "Juanpa",
-        "card_name": "Jewelry Bonney",
-        "card_id": "OP07-019",
-        "ability": "Rest Monkey D. Luffy [OP05-060]"
-      },
-      "outcome": "fail"
-    },
-    {
-      "event_type": "deploy_card",
-      "player": "Mhcuber",
-      "card_name": "Eustass 'Captain' Kid",
-      "card_id": "OP05-074"
-    },
-    {
-      "event_type": "player_state",
-      "player": "Mhcuber",
-      "hand": ["OP06-076", "ST18-002", "ST10-010", "ST18-005", "ST18-001", "ST18-001", "ST18-002"],
-      "board": ["OP09-069", "ST18-004", "OP05-074"],
-      "trash": ["OP06-076"],
-      "life": 3
-    },
-    {
-      "event_type": "player_state",
-      "player": "Juanpa",
-      "hand": ["OP05-037", "OP10-032", "OP07-031", "EB01-015", "OP06-035"],
-      "trash": ["OP10-032"],
-      "board": ["OP05-030", "OP05-030"],
-      "life": 4
-    },
-    {
-      "event_type": "end_turn",
-      "player": "Mhcuber"
-    },
-    {
-      "event_type": "draw_card",
-      "player": "Juanpa",
-      "amount": 1
-    },
-    {
-      "event_type": "drew_card_from_deck",
-      "player": "Juanpa",
-      "card_name": "Scratchmen Apoo",
-      "card_id": "ST02-008"
-    },
-    {
-      "event_type": "draw_don",
-      "player": "Juanpa",
-      "amount": 2
-    },
-    {
-      "event_type": "attach_don",
-      "player": "Juanpa",
-      "target_card": {
-        "name": "Jewelry Bonney",
-        "id": "OP07-019"
-      },
-      "amount": 2,
-      "total_don": 2
-    },
-    {
-      "event_type": "attack",
-      "attacker_player": "Juanpa",
-      "attacker_name": "Jewelry Bonney",
-      "attacker_id": "OP07-019",
-      "attacker_power": 7000,
-      "defender_player": "Mhcuber",
-      "defender_name": "Monkey D. Luffy",
-      "defender_id": "OP05-060",
-      "defender_power": 8000,
-      "counter_play": {
-        "player": "Mhcuber",
-        "cards": [
-          {
-            "name": "Usohachi",
-            "id": "ST18-001",
-            "counter_value": 2000
-          },
-          {
-            "name": "Onami",
-            "id": "ST18-002",
-            "counter_value": 1000
-          }
-        ]
-      },
-      "outcome": "fail"
-    },
-    {
-      "event_type": "deploy_card",
-      "player": "Juanpa",
-      "card_name": "Bartolomeo",
-      "card_id": "OP07-031"
-    },
-    {
-      "event_type": "end_turn",
-      "player": "Juanpa"
-    },
-    {
-      "event_type": "player_state",
-      "player": "Mhcuber",
-      "hand": ["OP06-076", "ST18-002", "ST10-010", "ST18-005", "ST18-001"],
-      "board": ["OP09-069", "ST18-004", "OP05-074"],
-      "trash": ["OP06-076", "ST18-001", "ST18-002"],
-      "life": 3
-    },
-    {
-      "event_type": "player_state",
-      "player": "Juanpa",
-      "hand": ["OP05-037", "OP10-032", "EB01-015", "OP06-035", "ST02-008"],
-      "trash": ["OP10-032"],
-      "board": ["OP05-030", "OP05-030", "OP07-031"],
-      "life": 4
-    },
-    {
-      "event_type": "draw_card",
-      "player": "Mhcuber",
-      "amount": 1
-    },
-    {
-      "event_type": "drew_card_from_deck",
-      "player": "Mhcuber",
-      "card_name": "Sanji",
-      "card_id": "OP07-064"
-    },
-    {
-      "event_type": "draw_don",
-      "player": "Mhcuber",
-      "amount": 2
-    },
-    {
-      "event_type": "deploy_card",
-      "player": "Mhcuber",
-      "card_name": "Luffy-tarou",
-      "card_id": "ST18-005"
-    },
-    {
-      "event_type": "card_ability",
-      "player": "Mhcuber",
-      "card_name": "Onami",
-      "card_id": "ST18-002",
-      "ability": "Trash Trafalgar Law [ST10-010]"
-    },
-    {
-      "event_type": "drew_card_from_deck",
-      "player": "Mhcuber",
-      "card_name": "Gamma Knife",
-      "card_id": "OP05-077"
-    },
-    {
-      "event_type": "drew_card_from_deck",
-      "player": "Mhcuber",
-      "card_name": "Trafalgar Law",
-      "card_id": "OP09-069"
-    },
-    {
-      "event_type": "card_ability",
-      "player": "Mhcuber",
-      "card_name": "Onami",
-      "card_id": "ST18-002",
-      "ability": "Draw 2 Card"
-    },
-    {
-      "event_type": "card_ability",
-      "player": "Mhcuber",
-      "card_name": "Eustass 'Captain' Kid",
-      "card_id": "OP05-074",
-      "ability": "Draw 1 Don"
-    },
-    {
-      "event_type": "attach_don",
-      "player": "Mhcuber",
-      "target_card": {
-        "name": "Trafalgar Law",
-        "id": "OP09-069"
-      },
-      "amount": 3,
-      "total_don": 3
-    },
-    {
-      "event_type": "attack",
-      "attacker_player": "Mhcuber",
-      "attacker_name": "Trafalgar Law",
-      "attacker_id": "OP09-069",
-      "attacker_power": 5000,
-      "defender_player": "Juanpa",
-      "defender_name": "Jewelry Bonney",
-      "defender_id": "OP07-019",
-      "defender_power": 5000,
-      "ability_activated": {
-        "player": "Juanpa",
-        "card_name": "Jewelry Bonney",
-        "card_id": "OP07-019",
-        "ability": "Rest Eustass 'Captain' Kid [OP05-074]"
-      },
-      "outcome": "hit",
-      "damage_taken": 1
-    },
-    {
-      "event_type": "attack",
-      "attacker_player": "Mhcuber",
-      "attacker_name": "Zorojuro",
-      "attacker_id": "ST18-004",
-      "attacker_power": 6000,
-      "defender_player": "Juanpa",
-      "defender_name": "Jewelry Bonney",
-      "defender_id": "OP07-019",
-      "defender_power": 5000,
-      "outcome": "hit",
-      "damage_taken": 1
-    },
-    {
-      "event_type": "attack",
-      "attacker_player": "Mhcuber",
-      "attacker_name": "Monkey D. Luffy",
-      "attacker_id": "OP05-060",
-      "attacker_power": 5000,
-      "defender_player": "Juanpa",
-      "defender_name": "Jewelry Bonney",
-      "defender_id": "OP07-019",
-      "defender_power": 6000,
-      "counter_play": {
-        "player": "Juanpa",
-        "card_name": "Jewelry Bonney",
-        "card_id": "ST02-007",
-        "counter_value": 1000
-      },
-      "outcome": "fail"
-    },
-    {
-      "event_type": "player_state",
-      "player": "Mhcuber",
-      "hand": ["OP06-076", "ST18-001", "OP07-064", "OP05-077", "OP09-069"],
-      "board": ["OP09-069", "ST18-004", "OP05-074", "ST18-005", "ST18-002"],
-      "trash": ["OP06-076", "ST18-001", "ST18-002", "ST10-010"],
-      "life": 3
-    },
-    {
-      "event_type": "player_state",
-      "player": "Juanpa",
-      "hand": ["OP05-037", "OP10-032", "EB01-015", "OP06-035", "ST02-008", "OP04-031"],
-      "trash": ["OP10-032", "ST02-007"],
-      "board": ["OP05-030", "OP05-030", "OP07-031"],
-      "life": 2
-    },
-    {
-      "event_type": "end_turn",
-      "player": "Mhcuber"
-    },
-    {
-      "event_type": "draw_card",
-      "player": "Juanpa",
-      "amount": 1
-    },
-    {
-      "event_type": "drew_card_from_deck",
-      "player": "Juanpa",
-      "card_name": "Whoever Wins This War Becomes Justice!!",
-      "card_id": "OP05-037"
-    },
-    {
-      "event_type": "draw_don",
-      "player": "Juanpa",
-      "amount": 2
-    },
-    {
-      "event_type": "attack",
-      "attacker_player": "Juanpa",
-      "attacker_name": "Jewelry Bonney",
-      "attacker_id": "OP07-019",
-      "attacker_power": 5000,
-      "defender_player": "Mhcuber",
-      "defender_name": "Monkey D. Luffy",
-      "defender_id": "OP05-060",
-      "defender_power": 6000,
-      "counter_play": {
-        "player": "Mhcuber",
-        "card_name": "Trafalgar Law",
-        "card_id": "OP09-069",
-        "counter_value": 1000
-      },
-      "outcome": "fail"
-    },
-    {
-      "event_type": "deploy_card",
-      "player": "Juanpa",
-      "card_name": "Hody Jones",
-      "card_id": "OP06-035"
-    },
-    {
-      "event_type": "card_ability",
-      "player": "Juanpa",
-      "card_name": "Hody Jones",
-      "card_id": "OP06-035",
-      "ability": "Rest Onami [ST18-002]"
-    },
-    {
-      "event_type": "card_ability",
-      "player": "Juanpa",
-      "card_name": "Hody Jones",
-      "card_id": "OP06-035",
-      "ability": "Rest Luffy-tarou [ST18-005]"
-    },
-    {
-      "event_type": "lose_life",
-      "player": "Juanpa",
-      "amount": 1
-    },
-    {
-      "event_type": "drew_card_from_deck",
-      "player": "Juanpa",
-      "card_name": "Jewelry Bonney",
-      "card_id": "OP07-026"
-    },
-    {
-      "event_type": "card_ability",
-      "player": "Juanpa",
-      "card_name": "Bartolomeo",
-      "card_id": "OP07-031",
-      "ability": "Draw 1 Card"
-    },
-    {
-      "event_type": "card_ability",
-      "player": "Juanpa",
-      "card_name": "Bartolomeo",
-      "card_id": "OP07-031",
-      "ability": "Trash Smoker [OP10-030]"
-    },
-    {
-      "event_type": "attack",
-      "attacker_player": "Juanpa",
-      "attacker_name": "Hody Jones",
-      "attacker_id": "OP06-035",
-      "attacker_power": 8000,
-      "defender_player": "Mhcuber",
-      "defender_name": "Eustass 'Captain' Kid",
-      "defender_id": "OP05-074",
-      "defender_power": 6000,
-      "outcome": "destroyed",
-      "destroyed_card": {
-        "name": "Eustass 'Captain' Kid",
-        "id": "OP05-074"
-      }
-    },
-    {
-      "event_type": "end_turn",
-      "player": "Juanpa"
-    },
-    {
-      "event_type": "player_state",
-      "player": "Mhcuber",
-      "hand": ["OP06-076", "ST18-001", "OP07-064", "OP05-077"],
-      "board": ["OP09-069", "ST18-004", "ST18-005", "ST18-002"],
-      "trash": ["OP06-076", "ST18-001", "ST18-002", "ST10-010", "OP09-069", "OP05-074"],
-      "life": 3
-    },
-    {
-      "event_type": "player_state",
-      "player": "Juanpa",
-      "hand": ["OP05-037", "OP10-032", "EB01-015", "ST02-008", "OP04-031", "OP05-037", "OP07-026"],
-      "trash": ["OP10-032", "ST02-007", "OP10-030"],
-      "board": ["OP05-030", "OP05-030", "OP07-031", "OP06-035"],
-      "life": 1
-    },
-    {
-      "event_type": "draw_card",
-      "player": "Mhcuber",
-      "amount": 1
-    },
-    {
-      "event_type": "drew_card_from_deck",
-      "player": "Mhcuber",
-      "card_name": "Usohachi",
-      "card_id": "ST18-001"
-    },
-    {
-      "event_type": "draw_don",
-      "player": "Mhcuber",
-      "amount": 2
-    },
-    {
-      "event_type": "card_ability",
-      "player": "Mhcuber",
-      "card_name": "Gamma Knife",
-      "card_id": "OP05-077",
-      "ability": "Give Hody Jones [OP06-035] -5000"
-    },
-    {
-      "event_type": "attack",
-      "attacker_player": "Mhcuber",
-      "attacker_name": "Monkey D. Luffy",
-      "attacker_id": "OP05-060",
-      "attacker_power": 5000,
-      "defender_player": "Juanpa",
-      "defender_name": "Hody Jones",
-      "defender_id": "OP06-035",
-      "defender_power": 3000,
-      "ability_activated": {
-        "player": "Juanpa",
-        "card_name": "Jewelry Bonney",
-        "card_id": "OP07-019",
-        "ability": "Rest Luffy-tarou [ST18-005]"
-      },
-      "counter_play": {
-        "player": "Juanpa",
-        "card_name": "Donquixote Rosinante",
-        "card_id": "OP05-030",
-        "action": "trash"
-      },
-      "outcome": "hit",
-      "damage_taken": 1
-    },
-    {
-      "event_type": "attack",
-      "attacker_player": "Mhcuber",
-      "attacker_name": "Zorojuro",
-      "attacker_id": "ST18-004",
-      "attacker_power": 6000,
-      "defender_player": "Juanpa",
-      "defender_name": "Bartolomeo",
-      "defender_id": "OP07-031",
-      "defender_power": 4000,
-      "blocker": {
-        "player": "Juanpa",
-        "card_name": "Bartolomeo",
-        "card_id": "OP07-031"
-      },
-      "outcome": "hit",
-      "damage_taken": 1
-    },
-    {
-      "event_type": "deploy_card",
-      "player": "Mhcuber",
-      "card_name": "Sanji",
-      "card_id": "OP07-064"
-    },
-    {
-      "event_type": "player_state",
-      "player": "Mhcuber",
-      "hand": ["OP06-076", "ST18-001", "ST18-001"],
-      "board": ["OP09-069", "ST18-004", "ST18-005", "ST18-002", "OP07-064"],
-      "trash": ["OP06-076", "ST18-001", "ST18-002", "ST10-010", "OP09-069", "OP05-074", "OP05-077"],
-      "life": 3
-    },
-    {
-      "event_type": "player_state",
-      "player": "Juanpa",
-      "hand": ["OP05-037", "OP10-032", "EB01-015", "ST02-008", "OP04-031", "OP05-037", "OP07-026"],
-      "trash": ["OP10-032", "ST02-007", "OP10-030", "OP05-030", "OP07-031"],
-      "board": ["OP05-030", "OP06-035"],
-      "life": 1
-    },
-    {
-      "event_type": "end_turn",
-      "player": "Mhcuber"
-    },
-    {
-      "event_type": "draw_card",
-      "player": "Juanpa",
-      "amount": 1
-    },
-    {
-      "event_type": "drew_card_from_deck",
-      "player": "Juanpa",
-      "card_name": "Jewelry Bonney",
-      "card_id": "ST02-007"
-    },
-    {
-      "event_type": "draw_don",
-      "player": "Juanpa",
-      "amount": 2
-    },
-    {
-      "event_type": "attack",
-      "attacker_player": "Juanpa",
-      "attacker_name": "Jewelry Bonney",
-      "attacker_id": "OP07-019",
-      "attacker_power": 5000,
-      "defender_player": "Mhcuber",
-      "defender_name": "Monkey D. Luffy",
-      "defender_id": "OP05-060",
-      "defender_power": 5000,
-      "outcome": "hit",
-      "damage_taken": 1
-    },
-    {
-      "event_type": "attack",
-      "attacker_player": "Juanpa",
-      "attacker_name": "Hody Jones",
-      "attacker_id": "OP06-035",
-      "attacker_power": 8000,
-      "defender_player": "Mhcuber",
-      "defender_name": "Monkey D. Luffy",
-      "defender_id": "OP05-060",
-      "defender_power": 5000,
-      "outcome": "hit",
-      "damage_taken": 1
-    },
-    {
-      "event_type": "deploy_card",
-      "player": "Juanpa",
-      "card_name": "Donquixote Doflamingo",
-      "card_id": "OP04-031"
-    },
-    {
-      "event_type": "card_ability",
-      "player": "Juanpa",
-      "card_name": "Donquixote Doflamingo",
-      "card_id": "OP04-031",
-      "ability": "Luffy-tarou [ST18-005] will not Activate during next Refresh"
-    },
-    {
-      "event_type": "card_ability",
-      "player": "Juanpa",
-      "card_name": "Donquixote Doflamingo",
-      "card_id": "OP04-031",
-      "ability": "Zorojuro [ST18-004] will not Activate during next Refresh"
-    },
-    {
-      "event_type": "card_ability",
-      "player": "Juanpa",
-      "card_name": "Donquixote Doflamingo",
-      "card_id": "OP04-031",
-      "ability": "Monkey D. Luffy [OP05-060] will not Activate during next Refresh"
-    },
-    {
-      "event_type": "end_turn",
-      "player": "Juanpa"
-    },
-    {
-      "event_type": "player_state",
-      "player": "Mhcuber",
-      "hand": ["OP06-076", "ST18-001", "ST18-001", "OP07-064", "OP09-069"],
-      "board": ["OP09-069", "ST18-004", "ST18-005", "ST18-002", "OP07-064"],
-      "trash": ["OP06-076", "ST18-001", "ST18-002", "ST10-010", "OP09-069", "OP05-074", "OP05-077"],
-      "life": 1
-    },
-    {
-      "event_type": "player_state",
-      "player": "Juanpa",
-      "hand": ["OP05-037", "OP10-032", "EB01-015", "ST02-008", "OP05-037", "OP07-026", "ST02-007"],
-      "trash": ["OP10-032", "ST02-007", "OP10-030", "OP05-030", "OP07-031"],
-      "board": ["OP05-030", "OP06-035", "OP04-031"],
-      "life": 1
-    },
-    {
-      "event_type": "draw_card",
-      "player": "Mhcuber",
-      "amount": 1
-    },
-    {
-      "event_type": "drew_card_from_deck",
-      "player": "Mhcuber",
-      "card_name": "Sanji",
-      "card_id": "OP09-065"
-    },
-    {
-      "event_type": "draw_don",
-      "player": "Mhcuber",
-      "amount": 2
-    },
-    {
-      "event_type": "trash_card",
-      "player": "Mhcuber",
-      "card_name": "Trafalgar Law",
-      "card_id": "OP09-069"
-    },
-    {
-      "event_type": "deploy_card",
-      "player": "Mhcuber",
-      "card_name": "Sanji",
-      "card_id": "OP09-065"
-    },
-    {
-      "event_type": "card_ability",
-      "player": "Mhcuber",
-      "card_name": "Sanji",
-      "card_id": "OP09-065",
-      "ability": "Give Sanji [OP09-065] Rush"
-    },
-    {
-      "event_type": "card_ability",
-      "player": "Mhcuber",
-      "card_name": "Sanji",
-      "card_id": "OP09-065",
-      "ability": "Rest Donquixote Rosinante [OP05-030]"
-    },
-    {
-      "event_type": "attach_don",
-      "player": "Mhcuber",
-      "target_card": {
-        "name": "Sanji",
-        "id": "OP09-065"
-      },
-      "amount": 1,
-      "total_don": 1
-    },
-    {
-      "event_type": "attack",
-      "attacker_player": "Mhcuber",
-      "attacker_name": "Sanji",
-      "attacker_id": "OP09-065",
-      "attacker_power": 8000,
-      "defender_player": "Juanpa",
-      "defender_name": "Jewelry Bonney",
-      "defender_id": "OP07-019",
-      "defender_power": 5000,
-      "outcome": "hit",
-      "damage_taken": 1
-    },
-    {
-      "event_type": "attach_don",
-      "player": "Mhcuber",
-      "target_card": {
-        "name": "Sanji",
-        "id": "OP07-064"
-      },
-      "amount": 2,
-      "total_don": 2
-    },
-    {
-      "event_type": "attack",
-      "attacker_player": "Mhcuber",
-      "attacker_name": "Sanji",
-      "attacker_id": "OP07-064",
-      "attacker_power": 8000,
-      "defender_player": "Juanpa",
-      "defender_name": "Jewelry Bonney",
-      "defender_id": "OP07-019",
-      "defender_power": 9000,
-      "counter_play": {
-        "player": "Juanpa",
-        "cards": [
-          {
-            "name": "Scratchmen Apoo",
-            "id": "ST02-008",
-            "counter_value": 2000
-          },
-          {
-            "name": "Scratchmen Apoo",
-            "id": "EB01-015",
-            "counter_value": 2000
-          }
-        ]
-      },
-      "outcome": "fail"
-    },
-    {
-      "event_type": "player_state",
-      "player": "Mhcuber",
-      "hand": ["OP06-076", "ST18-001", "ST18-001", "OP07-064", "OP09-069"],
-      "board": ["ST18-004", "ST18-005", "ST18-002", "OP07-064", "OP09-065"],
-      "trash": ["OP06-076", "ST18-001", "ST18-002", "ST10-010", "OP09-069", "OP05-074", "OP05-077", "OP09-069"],
-      "life": 1
-    },
-    {
-      "event_type": "player_state",
-      "player": "Juanpa",
-      "hand": ["OP05-037", "OP10-032", "OP05-037", "OP07-026", "ST02-007", "OP10-030"],
-      "trash": ["OP10-032", "ST02-007", "OP10-030", "OP05-030", "OP07-031", "ST02-008", "EB01-015"],
-      "board": ["OP05-030", "OP06-035", "OP04-031"],
-      "life": 0
-    },
-    {
-      "event_type": "end_turn",
-      "player": "Mhcuber"
-    },
-    {
-      "event_type": "draw_card",
-      "player": "Juanpa",
-      "amount": 1
-    },
-    {
-      "event_type": "drew_card_from_deck",
-      "player": "Juanpa",
-      "card_name": "Shanks",
-      "card_id": "ST16-004"
-    },
-    {
-      "event_type": "attach_don",
-      "player": "Juanpa",
-      "target_card": {
-        "name": "Hody Jones",
-        "id": "OP06-035"
-      },
-      "amount": 3,
-      "total_don": 3
-    },
-    {
-      "event_type": "attack",
-      "attacker_player": "Juanpa",
-      "attacker_name": "Hody Jones",
-      "attacker_id": "OP06-035",
-      "attacker_power": 11000,
-      "defender_player": "Mhcuber",
-      "defender_name": "Monkey D. Luffy",
-      "defender_id": "OP05-060",
-      "defender_power": 2000,
-      "blocker": {
-        "player": "Mhcuber",
-        "card_name": "Onami",
-        "card_id": "ST18-002"
-      },
-      "outcome": "destroyed",
-      "destroyed_card": {
-        "name": "Onami",
-        "id": "ST18-002"
-      }
-    },
-    {
-      "event_type": "attach_don",
-      "player": "Juanpa",
-      "target_card": {
-        "name": "Jewelry Bonney",
-        "id": "OP07-019"
-      },
-      "amount": 6,
-      "total_don": 6
-    },
-    {
-      "event_type": "attack",
-      "attacker_player": "Juanpa",
-      "attacker_name": "Jewelry Bonney",
-      "attacker_id": "OP07-019",
-      "attacker_power": 11000,
-      "defender_player": "Mhcuber",
-      "defender_name": "Monkey D. Luffy",
-      "defender_id": "OP05-060",
-      "defender_power": 5000,
-      "outcome": "hit",
-      "damage_taken": 1
-    },
-    {
-      "event_type": "attach_don",
-      "player": "Juanpa",
-      "target_card": {
-        "name": "Donquixote Doflamingo",
-        "id": "OP04-031"
-      },
-      "amount": 1,
-      "total_don": 1
-    },
-    {
-      "event_type": "attack",
-      "attacker_player": "Juanpa",
-      "attacker_name": "Donquixote Doflamingo",
-      "attacker_id": "OP04-031",
-      "attacker_power": 11000,
-      "defender_player": "Mhcuber",
-      "defender_name": "Monkey D. Luffy",
-      "defender_id": "OP05-060",
-      "defender_power": 12000,
-      "counter_play": {
-        "player": "Mhcuber",
-        "cards": [
-          {
-            "name": "Usohachi",
-            "id": "ST18-001",
-            "counter_value": 2000
-          },
-          {
-            "name": "Usohachi",
-            "id": "ST18-001",
-            "counter_value": 2000
-          },
-          {
-            "name": "Hitokiri Kamazo",
-            "id": "OP06-076",
-            "counter_value": 2000
-          },
-          {
-            "name": "Trafalgar Law",
-            "id": "OP09-069",
-            "counter_value": 1000
-          }
-        ]
-      },
-      "outcome": "fail"
-    },
-    {
-      "event_type": "end_turn",
-      "player": "Juanpa"
-    },
-    {
-      "event_type": "player_state",
-      "player": "Mhcuber",
-      "hand": ["OP07-064", "ST18-003"],
-      "board": ["ST18-004", "ST18-005", "OP07-064", "OP09-065"],
-      "trash": [
-        "OP06-076",
-        "ST18-001",
-        "ST18-002",
-        "ST10-010",
-        "OP09-069",
-        "OP05-074",
-        "OP05-077",
-        "OP09-069",
-        "ST18-002",
-        "ST18-001",
-        "ST18-001",
-        "OP06-076",
-        "OP09-069"
-      ],
-      "life": 0
-    },
-    {
-      "event_type": "player_state",
-      "player": "Juanpa",
-      "hand": ["OP05-037", "OP10-032", "OP05-037", "OP07-026", "ST02-007", "OP10-030", "ST16-004"],
-      "trash": ["OP10-032", "ST02-007", "OP10-030", "OP05-030", "OP07-031", "ST02-008", "EB01-015"],
-      "board": ["OP05-030", "OP06-035", "OP04-031"],
-      "life": 0
-    },
-    {
-      "event_type": "draw_card",
-      "player": "Mhcuber",
-      "amount": 1
-    },
-    {
-      "event_type": "drew_card_from_deck",
-      "player": "Mhcuber",
-      "card_name": "Eustass 'Captain' Kid",
-      "card_id": "OP05-074"
-    },
-    {
-      "event_type": "draw_don",
-      "player": "Mhcuber",
-      "amount": 2
-    },
-    {
-      "event_type": "attach_don",
-      "player": "Mhcuber",
-      "target_card": {
-        "name": "Sanji",
-        "id": "OP09-065"
-      },
-      "amount": 4,
-      "total_don": 4
-    },
-    {
-      "event_type": "attach_don",
-      "player": "Mhcuber",
-      "target_card": {
-        "name": "Luffy-tarou",
-        "id": "ST18-005"
-      },
-      "amount": 3,
-      "total_don": 3
-    },
-    {
-      "event_type": "attach_don",
-      "player": "Mhcuber",
-      "target_card": {
-        "name": "Zorojuro",
-        "id": "ST18-004"
-      },
-      "amount": 3,
-      "total_don": 3
-    },
-    {
-      "event_type": "attack",
-      "attacker_player": "Mhcuber",
-      "attacker_name": "Zorojuro",
-      "attacker_id": "ST18-004",
-      "attacker_power": 9000,
-      "defender_player": "Juanpa",
-      "defender_name": "Jewelry Bonney",
-      "defender_id": "OP07-019",
-      "defender_power": 10000,
-      "counter_play": {
-        "player": "Juanpa",
-        "cards": [
-          {
-            "name": "Smoker",
-            "id": "OP10-030",
-            "action": "trash"
-          },
-          {
-            "name": "Whoever Wins This War Becomes Justice!!",
-            "id": "OP05-037",
-            "counter_value": 3000
-          },
-          {
-            "name": "Tashigi",
-            "id": "OP10-032",
-            "counter_value": 2000
-          }
-        ]
-      },
-      "outcome": "fail"
-    },
-    {
-      "event_type": "attack",
-      "attacker_player": "Mhcuber",
-      "attacker_name": "Monkey D. Luffy",
-      "attacker_id": "OP05-060",
-      "attacker_power": 5000,
-      "defender_player": "Juanpa",
-      "defender_name": "Jewelry Bonney",
-      "defender_id": "OP07-019",
-      "defender_power": 6000,
-      "counter_play": {
-        "player": "Juanpa",
-        "card_name": "Jewelry Bonney",
-        "card_id": "ST02-007",
-        "counter_value": 1000
-      },
-      "outcome": "fail"
-    },
-    {
-      "event_type": "attack",
-      "attacker_player": "Mhcuber",
-      "attacker_name": "Luffy-tarou",
-      "attacker_id": "ST18-005",
-      "attacker_power": 11000,
-      "defender_player": "Juanpa",
-      "defender_name": "Donquixote Rosinante",
-      "defender_id": "OP05-030",
-      "defender_power": 1000,
-      "blocker": {
-        "player": "Juanpa",
-        "card_name": "Donquixote Rosinante",
-        "card_id": "OP05-030"
-      },
-      "outcome": "destroyed",
-      "destroyed_card": {
-        "name": "Donquixote Rosinante",
-        "id": "OP05-030"
-      }
-    },
-    {
-      "event_type": "attack",
-      "attacker_player": "Mhcuber",
-      "attacker_name": "Sanji",
-      "attacker_id": "OP09-065",
-      "attacker_power": 8000,
-      "defender_player": "Juanpa",
-      "defender_name": "Jewelry Bonney",
-      "defender_id": "OP07-019",
-      "defender_power": 5000,
-      "counter_play": {
-        "player": "Juanpa",
-        "cards": [
-          {
-            "name": "Shanks",
-            "id": "ST16-004",
-            "action": "trash"
-          },
-          {
-            "name": "Whoever Wins This War Becomes Justice!!",
-            "id": "OP05-037",
-            "counter_value": 3000
-          },
-          {
-            "name": "Jewelry Bonney",
-            "id": "OP07-026",
-            "counter_value": 1000
-          }
-        ]
-      },
-      "outcome": "win"
-    },
-    {
-      "event_type": "game_result",
-      "winner": "Mhcuber"
-    }
-  ]
+  "log-001": {
+    "player": "Mhcuber",
+    "action": "Leader is Monkey D. Luffy",
+    "card": "OP05-060"
+  },
+  "log-002": {
+    "player": "Juanpa",
+    "action": "Leader is Jewelry Bonney",
+    "card": "OP07-019"
+  },
+  "log-003": {
+    "player": "Mhcuber",
+    "action": "Will select turn order"
+  },
+  "log-004": {
+    "player": "Juanpa",
+    "action": "Chose to go First"
+  },
+  "log-005": {
+    "player": "Juanpa",
+    "action": "Drew card from deck",
+    "card": "ST03-010"
+  },
+  "log-006": {
+    "player": "Juanpa",
+    "action": "Drew card from deck",
+    "card": "OP07-034"
+  },
+  "log-007": {
+    "player": "Juanpa",
+    "action": "Drew card from deck",
+    "card": "OP07-042"
+  },
+  "log-008": {
+    "player": "Juanpa",
+    "action": "Drew card from deck",
+    "card": "OP07-024"
+  },
+  "log-009": {
+    "player": "Juanpa",
+    "action": "Drew card from deck",
+    "card": "OP07-033"
+  },
+  "log-010": {
+    "player": "Juanpa",
+    "action": "Hand before Mulligan",
+    "hand": [
+      "ST03-010",
+      "OP07-034",
+      "OP07-042",
+      "OP07-024",
+      "OP07-033"
+    ]
+  },
+  "log-011": {
+    "player": "Juanpa",
+    "action": "Mulligan"
+  },
+  "log-012": {
+    "player": "Juanpa",
+    "action": "Drew card from deck",
+    "card": "OP07-039"
+  },
+  "log-013": {
+    "player": "Juanpa",
+    "action": "Drew card from deck",
+    "card": "OP07-026"
+  },
+  "log-014": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-005"
+  },
+  "log-015": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP09-065"
+  },
+  "log-016": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP05-068"
+  },
+  "log-017": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP05-062"
+  },
+  "log-018": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP05-070"
+  },
+  "log-019": {
+    "player": "Mhcuber",
+    "action": "Hand before Mulligan",
+    "hand": [
+      "ST18-005",
+      "OP09-065",
+      "OP05-068",
+      "OP05-062",
+      "OP05-070"
+    ]
+  },
+  "log-020": {
+    "player": "Mhcuber",
+    "action": "Mulligan"
+  },
+  "log-021": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP05-062"
+  },
+  "log-022": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-002"
+  },
+  "log-023": {
+    "player": "Juanpa",
+    "action": "Current State",
+    "hand": [
+      "OP07-034",
+      "OP07-042",
+      "OP07-024",
+      "OP07-033",
+      "OP07-039",
+      "OP07-026"
+    ],
+    "board": [],
+    "trash": [],
+    "life": 5
+  },
+  "log-024": {
+    "player": "Mhcuber",
+    "action": "Current State",
+    "hand": [
+      "ST18-005",
+      "OP09-065",
+      "OP05-068",
+      "OP05-070",
+      "OP05-062",
+      "ST18-002"
+    ],
+    "trash": [],
+    "board": [],
+    "life": 5
+  },
+  "log-025": {
+    "player": "Juanpa",
+    "action": "Draw Don",
+    "amount": 1
+  },
+  "log-026": {
+    "player": "Juanpa",
+    "action": "Deploy",
+    "card": "OP07-033"
+  },
+  "log-027": {
+    "player": "Juanpa",
+    "action": "Current State",
+    "hand": [
+      "OP07-034",
+      "OP07-042",
+      "OP07-024",
+      "OP07-039",
+      "OP07-026"
+    ],
+    "board": [
+      "OP07-033"
+    ],
+    "trash": [],
+    "life": 5
+  },
+  "log-028": {
+    "player": "Mhcuber",
+    "action": "Current State",
+    "hand": [
+      "ST18-005",
+      "OP09-065",
+      "OP05-068",
+      "OP05-070",
+      "OP05-062",
+      "ST18-002"
+    ],
+    "trash": [],
+    "board": [],
+    "life": 5
+  },
+  "log-029": {
+    "player": "Juanpa",
+    "action": "End Turn"
+  },
+  "log-030": {
+    "player": "Mhcuber",
+    "action": "Draw Card",
+    "amount": 1
+  },
+  "log-031": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP05-074"
+  },
+  "log-032": {
+    "player": "Mhcuber",
+    "action": "Draw Don",
+    "amount": 2
+  },
+  "log-033": {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "OP05-062"
+  },
+  "log-034": {
+    "player": "Mhcuber",
+    "action": "Current State",
+    "hand": [
+      "ST18-005",
+      "OP09-065",
+      "OP05-068",
+      "OP05-070",
+      "ST18-002",
+      "OP05-074"
+    ],
+    "board": [
+      "OP05-062"
+    ],
+    "trash": [],
+    "life": 5
+  },
+  "log-035": {
+    "player": "Juanpa",
+    "action": "Current State",
+    "hand": [
+      "OP07-034",
+      "OP07-042",
+      "OP07-024",
+      "OP07-039",
+      "OP07-026"
+    ],
+    "board": [
+      "OP07-033"
+    ],
+    "trash": [],
+    "life": 5
+  },
+  "log-036": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-037": {
+    "player": "Juanpa",
+    "action": "Draw Card",
+    "amount": 1
+  },
+  "log-038": {
+    "player": "Juanpa",
+    "action": "Drew card from deck",
+    "card": "OP07-039"
+  },
+  "log-039": {
+    "player": "Juanpa",
+    "action": "Draw Don",
+    "amount": 2
+  },
+  "log-040": {
+    "player": "Juanpa",
+    "action": "Deploy",
+    "card": "OP07-034"
+  },
+  "log-041": {
+    "player": "Juanpa",
+    "action": "Card Ability: Draw Card",
+    "card": "OP07-034",
+    "amount": 1
+  },
+  "log-042": {
+    "player": "Juanpa",
+    "action": "Drew card from deck",
+    "card": "OP07-020"
+  },
+  "log-043": {
+    "player": "Juanpa",
+    "action": "Attach Don",
+    "card": "OP07-019",
+    "amount": 2,
+    "total_attached": 2
+  },
+  "log-044": {
+    "player": "Juanpa",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-045": {
+    "player": "Juanpa",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 7000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-046": {
+    "player": "Mhcuber",
+    "action": "Damage taken by Monkey D. Luffy",
+    "card": "OP05-060",
+    "damage": 1
+  },
+  "log-047": {
+    "player": "Juanpa",
+    "action": "End Turn"
+  },
+  "log-048": {
+    "player": "Juanpa",
+    "action": "Current State",
+    "hand": [
+      "OP07-042",
+      "OP07-024",
+      "OP07-039",
+      "OP07-026",
+      "OP07-039",
+      "OP07-020"
+    ],
+    "board": [
+      "OP07-033",
+      "OP07-034"
+    ],
+    "trash": [],
+    "life": 5
+  },
+  "log-049": {
+    "player": "Mhcuber",
+    "action": "Current State",
+    "hand": [
+      "ST18-005",
+      "OP09-065",
+      "OP05-068",
+      "OP05-070",
+      "ST18-002",
+      "OP05-074"
+    ],
+    "trash": [],
+    "board": [
+      "OP05-062"
+    ],
+    "life": 4
+  },
+  "log-050": {
+    "player": "Mhcuber",
+    "action": "Draw Card",
+    "amount": 1
+  },
+  "log-051": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP09-065"
+  },
+  "log-052": {
+    "player": "Mhcuber",
+    "action": "Draw Don",
+    "amount": 2
+  },
+  "log-053": {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "OP05-070"
+  },
+  "log-054": {
+    "player": "Mhcuber",
+    "action": "Card Ability: Draw Card",
+    "card": "OP05-070",
+    "amount": 1
+  },
+  "log-055": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP09-070"
+  },
+  "log-056": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "card": "OP05-060",
+    "amount": 2,
+    "total_attached": 2
+  },
+  "log-057": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-058": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 7000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-059": {
+    "player": "Juanpa",
+    "action": "Damage taken by Jewelry Bonney",
+    "card": "OP07-019",
+    "damage": 1
+  },
+  "log-060": {
+    "player": "Mhcuber",
+    "action": "Current State",
+    "hand": [
+      "ST18-005",
+      "OP09-065",
+      "OP05-068",
+      "ST18-002",
+      "OP05-074",
+      "OP09-065",
+      "OP09-070"
+    ],
+    "board": [
+      "OP05-062",
+      "OP05-070"
+    ],
+    "trash": [],
+    "life": 4
+  },
+  "log-061": {
+    "player": "Juanpa",
+    "action": "Current State",
+    "hand": [
+      "OP07-042",
+      "OP07-024",
+      "OP07-039",
+      "OP07-026",
+      "OP07-039",
+      "OP07-020"
+    ],
+    "board": [
+      "OP07-033",
+      "OP07-034"
+    ],
+    "trash": [],
+    "life": 4
+  },
+  "log-062": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-063": {
+    "player": "Juanpa",
+    "action": "Draw Card",
+    "amount": 1
+  },
+  "log-064": {
+    "player": "Juanpa",
+    "action": "Drew card from deck",
+    "card": "OP07-030"
+  },
+  "log-065": {
+    "player": "Juanpa",
+    "action": "Draw Don",
+    "amount": 2
+  },
+  "log-066": {
+    "player": "Juanpa",
+    "action": "Deploy",
+    "card": "OP07-026"
+  },
+  "log-067": {
+    "player": "Juanpa",
+    "action": "Card Ability: Set as Active",
+    "card": "OP07-026",
+    "target_card": "OP07-026"
+  },
+  "log-068": {
+    "player": "Juanpa",
+    "action": "Attach Don",
+    "card": "OP07-019",
+    "amount": 2,
+    "total_attached": 4
+  },
+  "log-069": {
+    "player": "Juanpa",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-070": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP09-065",
+    "counter_value": 1000
+  },
+  "log-071": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP05-062",
+    "counter_value": 1000
+  },
+  "log-072": {
+    "player": "Juanpa",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 9000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 7000
+  },
+  "log-073": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-074": {
+    "player": "Juanpa",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-075": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP05-068",
+    "counter_value": 1000
+  },
+  "log-076": {
+    "player": "Juanpa",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 5000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 6000
+  },
+  "log-077": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-078": {
+    "player": "Juanpa",
+    "action": "Current State",
+    "hand": [
+      "OP07-042",
+      "OP07-024",
+      "OP07-039",
+      "OP07-039",
+      "OP07-020",
+      "OP07-030"
+    ],
+    "board": [
+      "OP07-033",
+      "OP07-034",
+      "OP07-026"
+    ],
+    "trash": [],
+    "life": 4
+  },
+  "log-079": {
+    "player": "Mhcuber",
+    "action": "Current State",
+    "hand": [
+      "ST18-005",
+      "OP05-070",
+      "ST18-002",
+      "OP05-074",
+      "OP09-065",
+      "OP09-070"
+    ],
+    "trash": [
+      "OP09-065",
+      "OP05-062",
+      "OP05-068"
+    ],
+    "board": [
+      "OP05-062",
+      "OP05-070"
+    ],
+    "life": 4
+  },
+  "log-080": {
+    "player": "Juanpa",
+    "action": "End Turn"
+  },
+  "log-081": {
+    "player": "Mhcuber",
+    "action": "Draw Card",
+    "amount": 1
+  },
+  "log-082": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP05-074"
+  },
+  "log-083": {
+    "player": "Mhcuber",
+    "action": "Draw Don",
+    "amount": 2
+  },
+  "log-084": {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "OP05-074"
+  },
+  "log-085": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "card": "OP05-060",
+    "amount": 1,
+    "total_attached": 3
+  },
+  "log-086": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-087": {
+    "player": "Juanpa",
+    "action": "Discard for Counter",
+    "card": "OP07-030",
+    "counter_value": 1000
+  },
+  "log-088": {
+    "player": "Juanpa",
+    "action": "Discard for Counter",
+    "card": "OP07-039",
+    "counter_value": 1000
+  },
+  "log-089": {
+    "player": "Juanpa",
+    "action": "Discard for Counter",
+    "card": "OP07-020",
+    "counter_value": 2000
+  },
+  "log-090": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 8000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 9000
+  },
+  "log-091": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-092": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Eustass 'Captain' Kid",
+    "attacker_id": "OP05-074",
+    "defender": "Brook",
+    "defender_id": "OP07-034"
+  },
+  "log-093": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Eustass 'Captain' Kid",
+    "attacker_id": "OP05-074",
+    "attacker_power": 6000,
+    "defender": "Brook",
+    "defender_id": "OP07-034",
+    "defender_power": 4000
+  },
+  "log-094": {
+    "player": "Juanpa",
+    "action": "Card Destroyed",
+    "card": "OP07-034"
+  },
+  "log-095": {
+    "player": "Mhcuber",
+    "action": "Current State",
+    "hand": [
+      "ST18-005",
+      "OP05-070",
+      "ST18-002",
+      "OP09-065",
+      "OP09-070",
+      "OP05-074"
+    ],
+    "board": [
+      "OP05-062",
+      "OP05-070",
+      "OP05-074"
+    ],
+    "trash": [
+      "OP09-065",
+      "OP05-062",
+      "OP05-068"
+    ],
+    "life": 4
+  },
+  "log-096": {
+    "player": "Juanpa",
+    "action": "Current State",
+    "hand": [
+      "OP07-042",
+      "OP07-024",
+      "OP07-039"
+    ],
+    "trash": [
+      "OP07-030",
+      "OP07-039",
+      "OP07-020",
+      "OP07-034"
+    ],
+    "board": [
+      "OP07-033",
+      "OP07-026"
+    ],
+    "life": 4
+  },
+  "log-097": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-098": {
+    "player": "Juanpa",
+    "action": "Draw Card",
+    "amount": 1
+  },
+  "log-099": {
+    "player": "Juanpa",
+    "action": "Drew card from deck",
+    "card": "OP07-025"
+  },
+  "log-100": {
+    "player": "Juanpa",
+    "action": "Draw Don",
+    "amount": 2
+  },
+  "log-101": {
+    "player": "Juanpa",
+    "action": "Deploy",
+    "card": "OP07-042"
+  },
+  "log-102": {
+    "player": "Juanpa",
+    "action": "Card Ability: Set as Active",
+    "card": "OP07-042",
+    "target_card": "OP07-042"
+  },
+  "log-103": {
+    "player": "Juanpa",
+    "action": "Attach Don",
+    "card": "OP07-019",
+    "amount": 2,
+    "total_attached": 6
+  },
+  "log-104": {
+    "player": "Juanpa",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-105": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "ST18-002",
+    "counter_value": 1000
+  },
+  "log-106": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "ST18-005",
+    "counter_value": 1000
+  },
+  "log-107": {
+    "player": "Juanpa",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 11000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 7000
+  },
+  "log-108": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-109": {
+    "player": "Juanpa",
+    "action": "Attacking",
+    "attacker": "Belo Betty",
+    "attacker_id": "OP07-042",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-110": {
+    "player": "Juanpa",
+    "action": "Attack details",
+    "attacker": "Belo Betty",
+    "attacker_id": "OP07-042",
+    "attacker_power": 6000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-111": {
+    "player": "Mhcuber",
+    "action": "Damage taken by Monkey D. Luffy",
+    "card": "OP05-060",
+    "damage": 1
+  },
+  "log-112": {
+    "player": "Juanpa",
+    "action": "End Turn"
+  },
+  "log-113": {
+    "player": "Juanpa",
+    "action": "Current State",
+    "hand": [
+      "OP07-024",
+      "OP07-039",
+      "OP07-025"
+    ],
+    "board": [
+      "OP07-033",
+      "OP07-026",
+      "OP07-042"
+    ],
+    "trash": [
+      "OP07-030",
+      "OP07-039",
+      "OP07-020",
+      "OP07-034"
+    ],
+    "life": 4
+  },
+  "log-114": {
+    "player": "Mhcuber",
+    "action": "Current State",
+    "hand": [
+      "OP05-070",
+      "OP09-065",
+      "OP09-070",
+      "OP05-074"
+    ],
+    "trash": [
+      "OP09-065",
+      "OP05-062",
+      "OP05-068",
+      "ST18-002",
+      "ST18-005"
+    ],
+    "board": [
+      "OP05-062",
+      "OP05-070",
+      "OP05-074"
+    ],
+    "life": 3
+  },
+  "log-115": {
+    "player": "Mhcuber",
+    "action": "Draw Card",
+    "amount": 1
+  },
+  "log-116": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-005"
+  },
+  "log-117": {
+    "player": "Mhcuber",
+    "action": "Draw Don",
+    "amount": 2
+  },
+  "log-118": {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "OP09-065"
+  },
+  "log-119": {
+    "player": "Mhcuber",
+    "action": "Card Ability: Set as Active",
+    "card": "OP09-065",
+    "target_card": "OP09-065"
+  },
+  "log-120": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "card": "OP05-060",
+    "amount": 2,
+    "total_attached": 5
+  },
+  "log-121": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-122": {
+    "player": "Juanpa",
+    "action": "Discard for Counter",
+    "card": "OP07-024",
+    "counter_value": 1000
+  },
+  "log-123": {
+    "player": "Juanpa",
+    "action": "Discard for Counter",
+    "card": "OP07-025",
+    "counter_value": 1000
+  },
+  "log-124": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 10000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 7000
+  },
+  "log-125": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-126": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Sanji",
+    "attacker_id": "OP09-065",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-127": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Sanji",
+    "attacker_id": "OP09-065",
+    "attacker_power": 7000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-128": {
+    "player": "Juanpa",
+    "action": "Damage taken by Jewelry Bonney",
+    "card": "OP07-019",
+    "damage": 1
+  },
+  "log-129": {
+    "player": "Mhcuber",
+    "action": "Current State",
+    "hand": [
+      "OP05-070",
+      "OP09-070",
+      "OP05-074",
+      "ST18-005"
+    ],
+    "board": [
+      "OP05-062",
+      "OP05-070",
+      "OP05-074",
+      "OP09-065"
+    ],
+    "trash": [
+      "OP09-065",
+      "OP05-062",
+      "OP05-068",
+      "ST18-002",
+      "ST18-005"
+    ],
+    "life": 3
+  },
+  "log-130": {
+    "player": "Juanpa",
+    "action": "Current State",
+    "hand": [
+      "OP07-039"
+    ],
+    "trash": [
+      "OP07-030",
+      "OP07-039",
+      "OP07-020",
+      "OP07-034",
+      "OP07-024",
+      "OP07-025"
+    ],
+    "board": [
+      "OP07-033",
+      "OP07-026",
+      "OP07-042"
+    ],
+    "life": 3
+  },
+  "log-131": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-132": {
+    "player": "Juanpa",
+    "action": "Draw Card",
+    "amount": 1
+  },
+  "log-133": {
+    "player": "Juanpa",
+    "action": "Drew card from deck",
+    "card": "OP07-030"
+  },
+  "log-134": {
+    "player": "Juanpa",
+    "action": "Draw Don",
+    "amount": 2
+  },
+  "log-135": {
+    "player": "Juanpa",
+    "action": "Deploy",
+    "card": "OP07-039"
+  },
+  "log-136": {
+    "player": "Juanpa",
+    "action": "Attach Don",
+    "card": "OP07-019",
+    "amount": 2,
+    "total_attached": 8
+  },
+  "log-137": {
+    "player": "Juanpa",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-138": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP09-070",
+    "counter_value": 1000
+  },
+  "log-139": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP05-074",
+    "counter_value": 1000
+  },
+  "log-140": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP05-070",
+    "counter_value": 2000
+  },
+  "log-141": {
+    "player": "Juanpa",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 13000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 9000
+  },
+  "log-142": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-143": {
+    "player": "Juanpa",
+    "action": "Attacking",
+    "attacker": "Donquixote Rosinante",
+    "attacker_id": "OP07-039",
+    "defender": "Eustass 'Captain' Kid",
+    "defender_id": "OP05-074"
+  },
+  "log-144": {
+    "player": "Juanpa",
+    "action": "Attack details",
+    "attacker": "Donquixote Rosinante",
+    "attacker_id": "OP07-039",
+    "attacker_power": 6000,
+    "defender": "Eustass 'Captain' Kid",
+    "defender_id": "OP05-074",
+    "defender_power": 6000
+  },
+  "log-145": {
+    "player": "Mhcuber",
+    "action": "Card Destroyed",
+    "card": "OP05-074"
+  },
+  "log-146": {
+    "player": "Juanpa",
+    "action": "End Turn"
+  },
+  "log-147": {
+    "player": "Juanpa",
+    "action": "Current State",
+    "hand": [
+      "OP07-030"
+    ],
+    "board": [
+      "OP07-033",
+      "OP07-026",
+      "OP07-042",
+      "OP07-039"
+    ],
+    "trash": [
+      "OP07-030",
+      "OP07-039",
+      "OP07-020",
+      "OP07-034",
+      "OP07-024",
+      "OP07-025"
+    ],
+    "life": 3
+  },
+  "log-148": {
+    "player": "Mhcuber",
+    "action": "Current State",
+    "hand": [
+      "ST18-005"
+    ],
+    "trash": [
+      "OP09-065",
+      "OP05-062",
+      "OP05-068",
+      "ST18-002",
+      "ST18-005",
+      "OP09-070",
+      "OP05-074",
+      "OP05-070",
+      "OP05-074"
+    ],
+    "board": [
+      "OP05-062",
+      "OP05-070",
+      "OP09-065"
+    ],
+    "life": 3
+  },
+  "log-149": {
+    "player": "Mhcuber",
+    "action": "Draw Card",
+    "amount": 1
+  },
+  "log-150": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP05-068"
+  },
+  "log-151": {
+    "player": "Mhcuber",
+    "action": "Draw Don",
+    "amount": 2
+  },
+  "log-152": {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "ST18-005"
+  },
+  "log-153": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "card": "OP05-060",
+    "amount": 2,
+    "total_attached": 7
+  },
+  "log-154": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-155": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 12000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-156": {
+    "player": "Juanpa",
+    "action": "Damage taken by Jewelry Bonney",
+    "card": "OP07-019",
+    "damage": 1
+  },
+  "log-157": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Luffy-tarou",
+    "attacker_id": "ST18-005",
+    "defender": "Donquixote Rosinante",
+    "defender_id": "OP07-039"
+  },
+  "log-158": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Luffy-tarou",
+    "attacker_id": "ST18-005",
+    "attacker_power": 6000,
+    "defender": "Donquixote Rosinante",
+    "defender_id": "OP07-039",
+    "defender_power": 6000
+  },
+  "log-159": {
+    "player": "Juanpa",
+    "action": "Card Destroyed",
+    "card": "OP07-039"
+  },
+  "log-160": {
+    "player": "Mhcuber",
+    "action": "Current State",
+    "hand": [
+      "OP05-068"
+    ],
+    "board": [
+      "OP05-062",
+      "OP05-070",
+      "OP09-065",
+      "ST18-005"
+    ],
+    "trash": [
+      "OP09-065",
+      "OP05-062",
+      "OP05-068",
+      "ST18-002",
+      "ST18-005",
+      "OP09-070",
+      "OP05-074",
+      "OP05-070",
+      "OP05-074"
+    ],
+    "life": 3
+  },
+  "log-161": {
+    "player": "Juanpa",
+    "action": "Current State",
+    "hand": [
+      "OP07-030"
+    ],
+    "trash": [
+      "OP07-030",
+      "OP07-039",
+      "OP07-020",
+      "OP07-034",
+      "OP07-024",
+      "OP07-025",
+      "OP07-039"
+    ],
+    "board": [
+      "OP07-033",
+      "OP07-026",
+      "OP07-042"
+    ],
+    "life": 2
+  },
+  "log-162": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-163": {
+    "player": "Juanpa",
+    "action": "Draw Card",
+    "amount": 1
+  },
+  "log-164": {
+    "player": "Juanpa",
+    "action": "Drew card from deck",
+    "card": "OP07-030"
+  },
+  "log-165": {
+    "player": "Juanpa",
+    "action": "Draw Don",
+    "amount": 2
+  },
+  "log-166": {
+    "player": "Juanpa",
+    "action": "Deploy",
+    "card": "OP07-030"
+  },
+  "log-167": {
+    "player": "Juanpa",
+    "action": "Card Ability: Set as Active",
+    "card": "OP07-030",
+    "target_card": "OP07-030"
+  },
+  "log-168": {
+    "player": "Juanpa",
+    "action": "Attach Don",
+    "card": "OP07-019",
+    "amount": 2,
+    "total_attached": 10
+  },
+  "log-169": {
+    "player": "Juanpa",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-170": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP05-068",
+    "counter_value": 1000
+  },
+  "log-171": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP05-062",
+    "counter_value": 1000
+  },
+  "log-172": {
+    "player": "Juanpa",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 15000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 7000
+  },
+  "log-173": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-174": {
+    "player": "Juanpa",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Luffy-tarou",
+    "defender_id": "ST18-005"
+  },
+  "log-175": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP05-070",
+    "counter_value": 2000
+  },
+  "log-176": {
+    "player": "Juanpa",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 5000,
+    "defender": "Luffy-tarou",
+    "defender_id": "ST18-005",
+    "defender_power": 8000
+  },
+  "log-177": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-178": {
+    "player": "Juanpa",
+    "action": "Attacking",
+    "attacker": "Donquixote Rosinante",
+    "attacker_id": "OP05-030",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-179": {
+    "player": "Juanpa",
+    "action": "Attack details",
+    "attacker": "Donquixote Rosinante",
+    "attacker_id": "OP05-030",
+    "attacker_power": 6000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-180": {
+    "player": "Mhcuber",
+    "action": "Damage taken by Monkey D. Luffy",
+    "card": "OP05-060",
+    "damage": 1
+  },
+  "log-181": {
+    "player": "Juanpa",
+    "action": "End Turn"
+  },
+  "log-182": {
+    "player": "Juanpa",
+    "action": "Current State",
+    "hand": [
+      "OP07-030"
+    ],
+    "board": [
+      "OP07-033",
+      "OP07-026",
+      "OP07-042",
+      "OP05-030"
+    ],
+    "trash": [
+      "OP07-030",
+      "OP07-039",
+      "OP07-020",
+      "OP07-034",
+      "OP07-024",
+      "OP07-025",
+      "OP07-039"
+    ],
+    "life": 2
+  },
+  "log-183": {
+    "player": "Mhcuber",
+    "action": "Current State",
+    "hand": [],
+    "trash": [
+      "OP09-065",
+      "OP05-062",
+      "OP05-068",
+      "ST18-002",
+      "ST18-005",
+      "OP09-070",
+      "OP05-074",
+      "OP05-070",
+      "OP05-074",
+      "OP05-068",
+      "OP05-062",
+      "OP05-070"
+    ],
+    "board": [
+      "OP05-062",
+      "OP05-070",
+      "OP09-065",
+      "ST18-005"
+    ],
+    "life": 2
+  },
+  "log-184": {
+    "player": "Mhcuber",
+    "action": "Draw Card",
+    "amount": 1
+  },
+  "log-185": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP05-074"
+  },
+  "log-186": {
+    "player": "Mhcuber",
+    "action": "Draw Don",
+    "amount": 2
+  },
+  "log-187": {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "OP05-074"
+  },
+  "log-188": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "card": "OP05-060",
+    "amount": 2,
+    "total_attached": 9
+  },
+  "log-189": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-190": {
+    "player": "Juanpa",
+    "action": "Discard for Counter",
+    "card": "OP07-030",
+    "counter_value": 1000
+  },
+  "log-191": {
+    "player": "Juanpa",
+    "action": "Discard for Counter",
+    "card": "OP07-030",
+    "counter_value": 1000
+  },
+  "log-192": {
+    "player": "Juanpa",
+    "action": "Discard for Counter",
+    "card": "OP07-033",
+    "counter_value": 2000
+  },
+  "log-193": {
+    "player": "Juanpa",
+    "action": "Discard for Counter",
+    "card": "OP07-026",
+    "counter_value": 1000
+  },
+  "log-194": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 14000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 11000
+  },
+  "log-195": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-196": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Luffy-tarou",
+    "attacker_id": "ST18-005",
+    "defender": "Donquixote Rosinante",
+    "defender_id": "OP05-030"
+  },
+  "log-197": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Luffy-tarou",
+    "attacker_id": "ST18-005",
+    "attacker_power": 11000,
+    "defender": "Donquixote Rosinante",
+    "defender_id": "OP05-030",
+    "defender_power": 1000
+  },
+  "log-198": {
+    "player": "Juanpa",
+    "action": "Card Destroyed",
+    "card": "OP05-030"
+  },
+  "log-199": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Sanji",
+    "attacker_id": "OP09-065",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-200": {
+    "player": "Juanpa",
+    "action": "Discard for Counter",
+    "card": "OP07-042",
+    "counter_value": 1000
+  },
+  "log-201": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Sanji",
+    "attacker_id": "OP09-065",
+    "attacker_power": 8000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-202": {
+    "player": "Juanpa",
+    "action": "Damage taken by Jewelry Bonney",
+    "card": "OP07-019",
+    "damage": 1
+  },
+  "log-203": {
+    "player": "Mhcuber",
+    "action": "Current State",
+    "hand": [],
+    "board": [
+      "OP05-062",
+      "OP05-070",
+      "OP09-065",
+      "ST18-005",
+      "OP05-074"
+    ],
+    "trash": [
+      "OP09-065",
+      "OP05-062",
+      "OP05-068",
+      "ST18-002",
+      "ST18-005",
+      "OP09-070",
+      "OP05-074",
+      "OP05-070",
+      "OP05-074"
+    ],
+    "life": 2
+  },
+  "log-204": {
+    "player": "Juanpa",
+    "action": "Current State",
+    "hand": [],
+    "trash": [
+      "OP07-030",
+      "OP07-039",
+      "OP07-020",
+      "OP07-034",
+      "OP07-024",
+      "OP07-025",
+      "OP07-039",
+      "OP07-030",
+      "OP07-033",
+      "OP07-026",
+      "OP05-030",
+      "OP07-042"
+    ],
+    "board": [
+      "OP07-033",
+      "OP07-026",
+      "OP07-042"
+    ],
+    "life": 0
+  },
+  "log-205": {
+    "player": "Juanpa",
+    "action": "Loses"
+  },
+  "log-206": {
+    "player": "Mhcuber",
+    "action": "Wins"
+  }
 }

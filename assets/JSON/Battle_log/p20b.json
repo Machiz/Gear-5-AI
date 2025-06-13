@@ -1,0 +1,1214 @@
+{
+  "log-001": {
+    "player": "Pirate18721",
+    "action": "Leader is Marshall D. Teach",
+    "card": "OP09-081"
+  },
+  "log-002": {
+    "player": "Theo",
+    "action": "Leader is Roronoa Zoro",
+    "card": "OP01-001"
+  },
+  "log-003": {
+    "player": "Theo",
+    "action": "Chose to go Second"
+  },
+  "log-004": {
+    "player": "Theo",
+    "action": "Drew card from deck",
+    "card": "OP08-010"
+  },
+  "log-005": {
+    "player": "Theo",
+    "action": "Drew card from deck",
+    "card": "ST21-003"
+  },
+  "log-006": {
+    "player": "Theo",
+    "action": "Drew card from deck",
+    "card": "ST21-017"
+  },
+  "log-007": {
+    "player": "Theo",
+    "action": "Drew card from deck",
+    "card": "OP02-015"
+  },
+  "log-008": {
+    "player": "Theo",
+    "action": "Drew card from deck",
+    "card": "OP04-010"
+  },
+  "log-009": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "OP10-098"
+  },
+  "log-010": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "OP05-096"
+  },
+  "log-011": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "OP09-096"
+  },
+  "log-012": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "OP09-095"
+  },
+  "log-013": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "OP09-096"
+  },
+  "log-014": {
+    "player": "Pirate18721",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "OP10-098",
+      "OP05-096",
+      "OP09-096",
+      "OP09-095",
+      "OP09-096"
+    ]
+  },
+  "log-015": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-098",
+      "OP05-096",
+      "OP09-096",
+      "OP09-095",
+      "OP09-096"
+    ]
+  },
+  "log-016": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-017": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-018": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-019": {
+    "player": "Theo",
+    "action": "Current Hand",
+    "cards": [
+      "OP08-010",
+      "ST21-003",
+      "ST21-017",
+      "OP02-015",
+      "OP04-010"
+    ]
+  },
+  "log-020": {
+    "player": "Theo",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-021": {
+    "player": "Theo",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-022": {
+    "player": "Theo",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-023": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Don"
+  },
+  "log-024": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Shiryu",
+    "card_id": "OP10-086"
+  },
+  "log-025": {
+    "player": "Pirate18721",
+    "action": "This is MY AGE!! effect: Trash 2 Remaining Cards",
+    "card": "OP09-096"
+  },
+  "log-026": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Trash",
+    "card": "I Bid 500 Million!!",
+    "card_id": "OP05-096"
+  },
+  "log-027": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Opponent can't activate On Play abilities next turn!"
+  },
+  "log-028": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-098",
+      "OP09-096",
+      "OP09-095",
+      "OP10-086"
+    ]
+  },
+  "log-029": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-030": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP10-082",
+      "OP09-086",
+      "OP05-096"
+    ]
+  },
+  "log-031": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-032": {
+    "player": "Theo",
+    "action": "Current Hand",
+    "cards": [
+      "OP08-010",
+      "ST21-003",
+      "ST21-017",
+      "OP02-015",
+      "OP04-010"
+    ]
+  },
+  "log-033": {
+    "player": "Theo",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-034": {
+    "player": "Theo",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-035": {
+    "player": "Theo",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-036": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-037": {
+    "player": "Theo",
+    "action": "Draw 1 Card"
+  },
+  "log-038": {
+    "player": "Theo",
+    "action": "Drew card from deck",
+    "card": "Roronoa Zoro",
+    "card_id": "OP01-025"
+  },
+  "log-039": {
+    "player": "Theo",
+    "action": "Draw 2 Don"
+  },
+  "log-040": {
+    "player": "Theo",
+    "action": "Deploy",
+    "card": "Sanji",
+    "card_id": "ST21-003"
+  },
+  "log-041": {
+    "player": "Theo",
+    "action": "End Turn"
+  },
+  "log-042": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-098",
+      "OP09-096",
+      "OP09-095",
+      "OP10-086"
+    ]
+  },
+  "log-043": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-044": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP10-082",
+      "OP09-086",
+      "OP05-096"
+    ]
+  },
+  "log-045": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-046": {
+    "player": "Theo",
+    "action": "Current Hand",
+    "cards": [
+      "OP08-010",
+      "ST21-017",
+      "OP02-015",
+      "OP04-010",
+      "OP01-025"
+    ]
+  },
+  "log-047": {
+    "player": "Theo",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-048": {
+    "player": "Theo",
+    "action": "Current Board",
+    "cards": [
+      "ST21-003"
+    ]
+  },
+  "log-049": {
+    "player": "Theo",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-050": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-051": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-093"
+  },
+  "log-052": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-053": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-054": {
+    "player": "Pirate18721",
+    "action": "This is MY AGE!! effect: Trash 2 Remaining Cards",
+    "card": "OP09-096"
+  },
+  "log-055": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Laffitte",
+    "card_id": "OP09-095"
+  },
+  "log-056": {
+    "player": "Pirate18721",
+    "action": "Laffitte effect: Rest",
+    "card": "Laffitte",
+    "card_id": "OP09-095"
+  },
+  "log-057": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-058": {
+    "player": "Pirate18721",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-059": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Roronoa Zoro",
+    "defender_id": "OP01-001"
+  },
+  "log-060": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 5000,
+    "defender": "Roronoa Zoro",
+    "defender_id": "OP01-001",
+    "defender_power": 5000
+  },
+  "log-061": {
+    "player": "Theo",
+    "action": "Damage taken by Roronoa Zoro",
+    "card": "OP01-001",
+    "damage": 1
+  },
+  "log-062": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Trash",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-063": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Opponent can't activate On Play abilities next turn!"
+  },
+  "log-064": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-098",
+      "OP10-086",
+      "OP09-093",
+      "OP09-086"
+    ]
+  },
+  "log-065": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-095"
+    ]
+  },
+  "log-066": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP10-082",
+      "OP09-086",
+      "OP05-096",
+      "OP09-096",
+      "OP09-083",
+      "OP09-098",
+      "OP09-088"
+    ]
+  },
+  "log-067": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-068": {
+    "player": "Theo",
+    "action": "Current Hand",
+    "cards": [
+      "OP08-010",
+      "ST21-017",
+      "OP02-015",
+      "OP04-010",
+      "OP01-025",
+      "OP08-010"
+    ]
+  },
+  "log-069": {
+    "player": "Theo",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-070": {
+    "player": "Theo",
+    "action": "Current Board",
+    "cards": [
+      "ST21-003"
+    ]
+  },
+  "log-071": {
+    "player": "Theo",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-072": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-073": {
+    "player": "Theo",
+    "action": "Draw 1 Card"
+  },
+  "log-074": {
+    "player": "Theo",
+    "action": "Drew card from deck",
+    "card": "Shut Up and Come With Us!!",
+    "card_id": "EB01-009"
+  },
+  "log-075": {
+    "player": "Theo",
+    "action": "Draw 2 Don"
+  },
+  "log-076": {
+    "player": "Theo",
+    "action": "Attacking",
+    "attacker": "Sanji",
+    "attacker_id": "ST21-003",
+    "defender": "Laffitte",
+    "defender_id": "OP09-095"
+  },
+  "log-077": {
+    "player": "Theo",
+    "action": "Attack details",
+    "attacker": "Sanji",
+    "attacker_id": "ST21-003",
+    "attacker_power": 3000,
+    "defender": "Laffitte",
+    "defender_id": "OP09-095",
+    "defender_power": 1000
+  },
+  "log-078": {
+    "player": "Pirate18721",
+    "action": "Destroyed",
+    "card": "Laffitte",
+    "card_id": "OP09-095"
+  },
+  "log-079": {
+    "player": "Theo",
+    "action": "Attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-001",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-080": {
+    "player": "Theo",
+    "action": "Attack details",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-001",
+    "attacker_power": 5000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-081": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-082": {
+    "player": "Theo",
+    "action": "Deploy",
+    "card": "Roronoa Zoro",
+    "card_id": "OP01-025"
+  },
+  "log-083": {
+    "player": "Theo",
+    "action": "Attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-025",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-084": {
+    "player": "Theo",
+    "action": "Attack details",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-025",
+    "attacker_power": 5000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-085": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-086": {
+    "player": "Theo",
+    "action": "End Turn"
+  },
+  "log-087": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-098",
+      "OP10-086",
+      "OP09-093",
+      "OP09-086",
+      "OP10-082",
+      "OP09-089"
+    ]
+  },
+  "log-088": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-089": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP10-082",
+      "OP09-086",
+      "OP05-096",
+      "OP09-096",
+      "OP09-083",
+      "OP09-098",
+      "OP09-088",
+      "OP09-095"
+    ]
+  },
+  "log-090": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-091": {
+    "player": "Theo",
+    "action": "Current Hand",
+    "cards": [
+      "OP08-010",
+      "ST21-017",
+      "OP02-015",
+      "OP04-010",
+      "OP08-010",
+      "EB01-009"
+    ]
+  },
+  "log-092": {
+    "player": "Theo",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-093": {
+    "player": "Theo",
+    "action": "Current Board",
+    "cards": [
+      "ST21-003",
+      "OP01-025"
+    ]
+  },
+  "log-094": {
+    "player": "Theo",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-095": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-096": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-097": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-098": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-099": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-100": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Sanji",
+    "defender_id": "ST21-003"
+  },
+  "log-101": {
+    "player": "Theo",
+    "action": "Shut Up and Come With Us!! effect: Deploy",
+    "card": "Tony Tony Chopper",
+    "card_id": "OP04-010",
+    "source": "Deck"
+  },
+  "log-102": {
+    "player": "Theo",
+    "action": "Tony Tony Chopper effect: Deploy",
+    "card": "Hiking Bear",
+    "card_id": "OP08-010"
+  },
+  "log-103": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 5000,
+    "defender": "Sanji",
+    "defender_id": "ST21-003",
+    "defender_power": 3000
+  },
+  "log-104": {
+    "player": "Theo",
+    "action": "Destroyed",
+    "card": "Sanji",
+    "card_id": "ST21-003"
+  },
+  "log-105": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-098",
+      "OP10-086",
+      "OP09-093",
+      "OP10-082",
+      "OP09-089"
+    ]
+  },
+  "log-106": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086"
+    ]
+  },
+  "log-107": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP10-082",
+      "OP09-086",
+      "OP05-096",
+      "OP09-096",
+      "OP09-083",
+      "OP09-098",
+      "OP09-088",
+      "OP09-095"
+    ]
+  },
+  "log-108": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-109": {
+    "player": "Theo",
+    "action": "Current Hand",
+    "cards": [
+      "OP08-010",
+      "ST21-017",
+      "OP02-015",
+      "OP04-010"
+    ]
+  },
+  "log-110": {
+    "player": "Theo",
+    "action": "Current Trash",
+    "cards": [
+      "EB01-009",
+      "ST21-003"
+    ]
+  },
+  "log-111": {
+    "player": "Theo",
+    "action": "Current Board",
+    "cards": [
+      "OP01-025",
+      "OP04-010",
+      "OP08-010"
+    ]
+  },
+  "log-112": {
+    "player": "Theo",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-113": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-114": {
+    "player": "Theo",
+    "action": "Draw 1 Card"
+  },
+  "log-115": {
+    "player": "Theo",
+    "action": "Drew card from deck",
+    "card": "Tony Tony Chopper",
+    "card_id": "OP08-007"
+  },
+  "log-116": {
+    "player": "Theo",
+    "action": "Draw 2 Don"
+  },
+  "log-117": {
+    "player": "Theo",
+    "action": "Deploy",
+    "card": "Tony Tony Chopper",
+    "card_id": "OP04-010"
+  },
+  "log-118": {
+    "player": "Theo",
+    "action": "Tony Tony Chopper effect: Deploy",
+    "card": "Hiking Bear",
+    "card_id": "OP08-010"
+  },
+  "log-119": {
+    "player": "Theo",
+    "action": "Attach 1 Don to",
+    "card": "Roronoa Zoro",
+    "card_id": "OP01-001",
+    "total_don": 1
+  },
+  "log-120": {
+    "player": "Theo",
+    "action": "Attach 1 Don to",
+    "card": "Hiking Bear",
+    "card_id": "OP08-010",
+    "total_don": 1
+  },
+  "log-121": {
+    "player": "Theo",
+    "action": "Hiking Bear effect: Buff",
+    "card": "Tony Tony Chopper",
+    "card_id": "OP04-010",
+    "power_buff": 1000
+  },
+  "log-122": {
+    "player": "Theo",
+    "action": "Attach 1 Don to",
+    "card": "Hiking Bear",
+    "card_id": "OP08-010",
+    "total_don": 2
+  },
+  "log-123": {
+    "player": "Theo",
+    "action": "Attacking",
+    "attacker": "Hiking Bear",
+    "attacker_id": "OP08-010",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-124": {
+    "player": "Pirate18721",
+    "action": "Discard",
+    "card": "Stronger",
+    "card_id": "OP09-089",
+    "counter_power": 2000
+  },
+  "log-125": {
+    "player": "Theo",
+    "action": "Attack details",
+    "attacker": "Hiking Bear",
+    "attacker_id": "OP08-010",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log-126": {
+    "player": "Theo",
+    "action": "Attacking",
+    "attacker": "Tony Tony Chopper",
+    "attacker_id": "OP04-010",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-127": {
+    "player": "Theo",
+    "action": "Attack details",
+    "attacker": "Tony Tony Chopper",
+    "attacker_id": "OP04-010",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-128": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-129": {
+    "player": "Pirate18721",
+    "action": "I Bid 500 Million!! effect: Destroy",
+    "card": "Roronoa Zoro",
+    "card_id": "OP01-025"
+  },
+  "log-130": {
+    "player": "Theo",
+    "action": "Attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-001",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-131": {
+    "player": "Theo",
+    "action": "Attack details",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-001",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-132": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-133": {
+    "player": "Theo",
+    "action": "End Turn"
+  },
+  "log-134": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-098",
+      "OP10-086",
+      "OP09-093",
+      "OP10-082",
+      "OP09-095"
+    ]
+  },
+  "log-135": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086"
+    ]
+  },
+  "log-136": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP10-082",
+      "OP09-086",
+      "OP05-096",
+      "OP09-096",
+      "OP09-083",
+      "OP09-098",
+      "OP09-088",
+      "OP09-095",
+      "OP09-089",
+      "OP05-096"
+    ]
+  },
+  "log-137": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 1
+  },
+  "log-138": {
+    "player": "Theo",
+    "action": "Current Hand",
+    "cards": [
+      "ST21-017",
+      "OP02-015",
+      "OP08-007"
+    ]
+  },
+  "log-139": {
+    "player": "Theo",
+    "action": "Current Trash",
+    "cards": [
+      "EB01-009",
+      "ST21-003",
+      "OP01-025"
+    ]
+  },
+  "log-140": {
+    "player": "Theo",
+    "action": "Current Board",
+    "cards": [
+      "OP04-010",
+      "OP08-010",
+      "OP04-010",
+      "OP08-010"
+    ]
+  },
+  "log-141": {
+    "player": "Theo",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-142": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-143": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Van Augur",
+    "card_id": "OP09-083"
+  },
+  "log-144": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-145": {
+    "player": "Pirate18721",
+    "action": "Liberation effect: Destroy",
+    "card": "Tony Tony Chopper",
+    "card_id": "OP04-010"
+  },
+  "log-146": {
+    "player": "Pirate18721",
+    "action": "Liberation effect: Destroy",
+    "card": "Tony Tony Chopper",
+    "card_id": "OP04-010"
+  },
+  "log-147": {
+    "player": "Pirate18721",
+    "action": "Attach 1 Don to",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "total_don": 1
+  },
+  "log-148": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Hiking Bear",
+    "defender_id": "OP08-010"
+  },
+  "log-149": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 6000,
+    "defender": "Hiking Bear",
+    "defender_id": "OP08-010",
+    "defender_power": 3000
+  },
+  "log-150": {
+    "player": "Theo",
+    "action": "Destroyed",
+    "card": "Hiking Bear",
+    "card_id": "OP08-010"
+  },
+  "log-151": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "defender": "Roronoa Zoro",
+    "defender_id": "OP01-001"
+  },
+  "log-152": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "attacker_power": 8000,
+    "defender": "Roronoa Zoro",
+    "defender_id": "OP01-001",
+    "defender_power": 5000
+  },
+  "log-153": {
+    "player": "Theo",
+    "action": "Damage taken by Roronoa Zoro",
+    "card": "OP01-001",
+    "damage": 1
+  },
+  "log-154": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Trash",
+    "card": "Laffitte",
+    "card_id": "OP09-095"
+  },
+  "log-155": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Opponent can't activate On Play abilities next turn!"
+  },
+  "log-156": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-086",
+      "OP09-093",
+      "OP10-082",
+      "OP09-083"
+    ]
+  },
+  "log-157": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086"
+    ]
+  },
+  "log-158": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP10-082",
+      "OP09-086",
+      "OP05-096",
+      "OP09-096",
+      "OP09-083",
+      "OP09-098",
+      "OP09-088",
+      "OP09-095",
+      "OP09-089",
+      "OP05-096",
+      "OP10-098",
+      "OP09-095"
+    ]
+  },
+  "log-159": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 1
+  },
+  "log-160": {
+    "player": "Theo",
+    "action": "Current Hand",
+    "cards": [
+      "ST21-017",
+      "OP02-015",
+      "OP08-007",
+      "OP08-013"
+    ]
+  },
+  "log-161": {
+    "player": "Theo",
+    "action": "Current Trash",
+    "cards": [
+      "EB01-009",
+      "ST21-003",
+      "OP01-025",
+      "OP04-010",
+      "OP04-010",
+      "OP08-010"
+    ]
+  },
+  "log-162": {
+    "player": "Theo",
+    "action": "Current Board",
+    "cards": [
+      "OP08-010"
+    ]
+  },
+  "log-163": {
+    "player": "Theo",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-164": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-165": {
+    "player": "Theo",
+    "action": "Draw 1 Card"
+  },
+  "log-166": {
+    "player": "Theo",
+    "action": "Drew card from deck",
+    "card": "Monkey D. Luffy",
+    "card_id": "ST21-014"
+  },
+  "log-167": {
+    "player": "Theo",
+    "action": "Draw 2 Don"
+  },
+  "log-168": {
+    "player": "Theo",
+    "action": "Attach 1 Don to",
+    "card": "Roronoa Zoro",
+    "card_id": "OP01-001",
+    "total_don": 1
+  },
+  "log-169": {
+    "player": "Theo",
+    "action": "Attach 4 Don to",
+    "card": "Hiking Bear",
+    "card_id": "OP08-010",
+    "total_don": 4
+  },
+  "log-170": {
+    "player": "Theo",
+    "action": "Attacking",
+    "attacker": "Hiking Bear",
+    "attacker_id": "OP08-010",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-171": {
+    "player": "Theo",
+    "action": "Attack details",
+    "attacker": "Hiking Bear",
+    "attacker_id": "OP08-010",
+    "attacker_power": 8000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-172": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-173": {
+    "player": "Theo",
+    "action": "Attach 3 Don to",
+    "card": "Roronoa Zoro",
+    "card_id": "OP01-001",
+    "total_don": 4
+  },
+  "log-174": {
+    "player": "Theo",
+    "action": "Attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-001",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-175": {
+    "player": "Theo",
+    "action": "Attack details",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-001",
+    "attacker_power": 9000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-176": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-177": {
+    "player": "Pirate18721",
+    "action": "Loses"
+  }
+}

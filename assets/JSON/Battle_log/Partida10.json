@@ -1,0 +1,2653 @@
+{
+  "log-001": {
+    "player": "shirohige",
+    "action": "Leader is Monkey D. Luffy",
+    "card": "OP05-060"
+  },
+  "log-002": {
+    "player": "You",
+    "action": "Will select turn order"
+  },
+  "log-003": {
+    "player": "Pirate65394",
+    "action": "Leader is Jewelry Bonney",
+    "card": "OP07-019"
+  },
+  "log-004": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "EB01-012"
+  },
+  "log-005": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "EB01-015"
+  },
+  "log-006": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP06-035"
+  },
+  "log-007": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP06-035"
+  },
+  "log-008": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "EB01-015"
+  },
+  "log-009": {
+    "player": "Pirate65394",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "EB01-012",
+      "EB01-015",
+      "OP06-035",
+      "OP06-035",
+      "EB01-015"
+    ]
+  },
+  "log-010": {
+    "player": "Pirate65394",
+    "action": "Chose to go First"
+  },
+  "log-011": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "OP09-078"
+  },
+  "log-012": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "OP05-074"
+  },
+  "log-013": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "ST18-003"
+  },
+  "log-014": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "OP05-074"
+  },
+  "log-015": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "ST18-005"
+  },
+  "log-016": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "ST18-001"
+  },
+  "log-017": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "OP09-078"
+  },
+  "log-018": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "OP07-064"
+  },
+  "log-019": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "ST18-003"
+  },
+  "log-020": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "OP09-119"
+  },
+  "log-021": {
+    "player": "shirohige",
+    "action": "Mulligan"
+  },
+  "log-022": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP10-032"
+  },
+  "log-023": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP10-032"
+  },
+  "log-024": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP05-030"
+  },
+  "log-025": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP10-032"
+  },
+  "log-026": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP08-023"
+  },
+  "log-027": {
+    "player": "Pirate65394",
+    "action": "Hand after Mulligan",
+    "cards": [
+      "OP10-032",
+      "OP10-032",
+      "OP05-030",
+      "OP10-032",
+      "OP08-023"
+    ]
+  },
+  "log-028": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-032",
+      "OP10-032",
+      "OP05-030",
+      "OP10-032",
+      "OP08-023"
+    ]
+  },
+  "log-029": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": []
+  },
+  "log-030": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-031": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-032": {
+    "player": "shirohige",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "OP09-078",
+      "OP07-064",
+      "ST18-003",
+      "OP09-119"
+    ]
+  },
+  "log-033": {
+    "player": "shirohige",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-034": {
+    "player": "shirohige",
+    "action": "Board",
+    "cards": []
+  },
+  "log-035": {
+    "player": "shirohige",
+    "action": "Life",
+    "value": 5
+  },
+  "log-036": {
+    "player": "Pirate65394",
+    "action": "Mulligan"
+  },
+  "log-037": {
+    "player": "Pirate65394",
+    "action": "Draw 1 Don"
+  },
+  "log-038": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-032",
+      "OP10-032",
+      "OP05-030",
+      "OP10-032",
+      "OP08-023"
+    ]
+  },
+  "log-039": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": []
+  },
+  "log-040": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-041": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-042": {
+    "player": "shirohige",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "OP09-078",
+      "OP07-064",
+      "ST18-003",
+      "OP09-119"
+    ]
+  },
+  "log-043": {
+    "player": "shirohige",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-044": {
+    "player": "shirohige",
+    "action": "Board",
+    "cards": []
+  },
+  "log-045": {
+    "player": "shirohige",
+    "action": "Life",
+    "value": 5
+  },
+  "log-046": {
+    "player": "Pirate65394",
+    "action": "End Turn"
+  },
+  "log-047": {
+    "player": "shirohige",
+    "action": "Draw 1 Card"
+  },
+  "log-048": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "ST18-002"
+  },
+  "log-049": {
+    "player": "shirohige",
+    "action": "Draw 2 Don"
+  },
+  "log-050": {
+    "player": "shirohige",
+    "action": "End Turn"
+  },
+  "log-051": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-032",
+      "OP10-032",
+      "OP05-030",
+      "OP10-032",
+      "OP08-023"
+    ]
+  },
+  "log-052": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": []
+  },
+  "log-053": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-054": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-055": {
+    "player": "shirohige",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "OP09-078",
+      "OP07-064",
+      "ST18-003",
+      "OP09-119",
+      "ST18-002"
+    ]
+  },
+  "log-056": {
+    "player": "shirohige",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-057": {
+    "player": "shirohige",
+    "action": "Board",
+    "cards": []
+  },
+  "log-058": {
+    "player": "shirohige",
+    "action": "Life",
+    "value": 5
+  },
+  "log-059": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP06-035"
+  },
+  "log-060": {
+    "player": "Pirate65394",
+    "action": "Draw 1 Card"
+  },
+  "log-061": {
+    "player": "Pirate65394",
+    "action": "Draw 2 Don"
+  },
+  "log-062": {
+    "player": "Pirate65394",
+    "action": "Deploy",
+    "card": "OP05-030"
+  },
+  "log-063": {
+    "player": "Pirate65394",
+    "action": "attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-064": {
+    "player": "Pirate65394",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 5000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-065": {
+    "player": "shirohige",
+    "action": "Monkey D. Luffy hit for 1 damage"
+  },
+  "log-066": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-032",
+      "OP10-032",
+      "OP10-032",
+      "OP08-023",
+      "OP06-035"
+    ]
+  },
+  "log-067": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP05-030"
+    ]
+  },
+  "log-068": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-069": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-070": {
+    "player": "shirohige",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "OP09-078",
+      "OP07-064",
+      "ST18-003",
+      "OP09-119",
+      "ST18-002",
+      "OP09-078"
+    ]
+  },
+  "log-071": {
+    "player": "shirohige",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-072": {
+    "player": "shirohige",
+    "action": "Board",
+    "cards": []
+  },
+  "log-073": {
+    "player": "shirohige",
+    "action": "Life",
+    "value": 4
+  },
+  "log-074": {
+    "player": "Pirate65394",
+    "action": "End Turn"
+  },
+  "log-075": {
+    "player": "shirohige",
+    "action": "Draw 1 Card"
+  },
+  "log-076": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "OP07-064"
+  },
+  "log-077": {
+    "player": "shirohige",
+    "action": "Draw 2 Don"
+  },
+  "log-078": {
+    "player": "shirohige",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-079": {
+    "player": "Pirate65394",
+    "action": "Discard for Counter 2000",
+    "card": "OP10-032"
+  },
+  "log-080": {
+    "player": "shirohige",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 5000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 7000
+  },
+  "log-081": {
+    "player": "shirohige",
+    "action": "Attack Fails"
+  },
+  "log-082": {
+    "player": "shirohige",
+    "action": "Loses 1 Life"
+  },
+  "log-083": {
+    "player": "shirohige",
+    "action": "Draw 1 Don",
+    "card": "OP05-060"
+  },
+  "log-084": {
+    "player": "shirohige",
+    "action": "Deploy",
+    "card": "ST18-003"
+  },
+  "log-085": {
+    "player": "shirohige",
+    "action": "End Turn"
+  },
+  "log-086": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-032",
+      "OP10-032",
+      "OP08-023",
+      "OP06-035"
+    ]
+  },
+  "log-087": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP05-030"
+    ]
+  },
+  "log-088": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": [
+      "OP10-032"
+    ]
+  },
+  "log-089": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-090": {
+    "player": "shirohige",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "OP09-078",
+      "OP07-064",
+      "OP09-119",
+      "ST18-002",
+      "OP09-078",
+      "OP07-064",
+      "OP05-070"
+    ]
+  },
+  "log-091": {
+    "player": "shirohige",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-092": {
+    "player": "shirohige",
+    "action": "Board",
+    "cards": [
+      "ST18-003"
+    ]
+  },
+  "log-093": {
+    "player": "shirohige",
+    "action": "Life",
+    "value": 3
+  },
+  "log-094": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP10-030"
+  },
+  "log-095": {
+    "player": "Pirate65394",
+    "action": "Draw 1 Card"
+  },
+  "log-096": {
+    "player": "Pirate65394",
+    "action": "Draw 2 Don"
+  },
+  "log-097": {
+    "player": "Pirate65394",
+    "action": "attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-098": {
+    "player": "shirohige",
+    "action": "Discard for Counter 1000",
+    "card": "ST18-002"
+  },
+  "log-099": {
+    "player": "Pirate65394",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 5000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 6000
+  },
+  "log-100": {
+    "player": "Pirate65394",
+    "action": "Attack Fails"
+  },
+  "log-101": {
+    "player": "Pirate65394",
+    "action": "Deploy",
+    "card": "OP10-030"
+  },
+  "log-102": {
+    "player": "Pirate65394",
+    "action": "Activate 1 Don",
+    "card": "OP10-030"
+  },
+  "log-103": {
+    "player": "Pirate65394",
+    "action": "Can't Activate Don via Character Effects!"
+  },
+  "log-104": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-032",
+      "OP10-032",
+      "OP08-023",
+      "OP06-035"
+    ]
+  },
+  "log-105": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP05-030",
+      "OP10-030"
+    ]
+  },
+  "log-106": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": [
+      "OP10-032"
+    ]
+  },
+  "log-107": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-108": {
+    "player": "shirohige",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "OP09-078",
+      "OP07-064",
+      "OP09-119",
+      "OP09-078",
+      "OP07-064",
+      "OP05-070"
+    ]
+  },
+  "log-109": {
+    "player": "shirohige",
+    "action": "Trash",
+    "cards": [
+      "ST18-002"
+    ]
+  },
+  "log-110": {
+    "player": "shirohige",
+    "action": "Board",
+    "cards": [
+      "ST18-003"
+    ]
+  },
+  "log-111": {
+    "player": "shirohige",
+    "action": "Life",
+    "value": 3
+  },
+  "log-112": {
+    "player": "Pirate65394",
+    "action": "End Turn"
+  },
+  "log-113": {
+    "player": "shirohige",
+    "action": "Draw 1 Card"
+  },
+  "log-114": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "ST18-005"
+  },
+  "log-115": {
+    "player": "shirohige",
+    "action": "Draw 2 Don"
+  },
+  "log-116": {
+    "player": "shirohige",
+    "action": "attacking",
+    "attacker": "Sangoro",
+    "attacker_id": "ST18-003",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-117": {
+    "player": "Pirate65394",
+    "action": "Rest",
+    "card": "OP05-060",
+    "ability_source": "OP07-019"
+  },
+  "log-118": {
+    "player": "Pirate65394",
+    "action": "Discard for Counter 2000",
+    "card": "OP10-032"
+  },
+  "log-119": {
+    "player": "shirohige",
+    "action": "Attack details",
+    "attacker": "Sangoro",
+    "attacker_id": "ST18-003",
+    "attacker_power": 6000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 7000
+  },
+  "log-120": {
+    "player": "shirohige",
+    "action": "Attack Fails"
+  },
+  "log-121": {
+    "player": "shirohige",
+    "action": "Deploy",
+    "card": "ST18-005"
+  },
+  "log-122": {
+    "player": "shirohige",
+    "action": "End Turn"
+  },
+  "log-123": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-032",
+      "OP08-023",
+      "OP06-035"
+    ]
+  },
+  "log-124": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP05-030",
+      "OP10-030"
+    ]
+  },
+  "log-125": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": [
+      "OP10-032",
+      "OP10-032"
+    ]
+  },
+  "log-126": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-127": {
+    "player": "shirohige",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "OP09-078",
+      "OP07-064",
+      "OP09-119",
+      "OP09-078",
+      "OP07-064",
+      "OP05-070"
+    ]
+  },
+  "log-128": {
+    "player": "shirohige",
+    "action": "Trash",
+    "cards": [
+      "ST18-002"
+    ]
+  },
+  "log-129": {
+    "player": "shirohige",
+    "action": "Board",
+    "cards": [
+      "ST18-003",
+      "ST18-005"
+    ]
+  },
+  "log-130": {
+    "player": "shirohige",
+    "action": "Life",
+    "value": 3
+  },
+  "log-131": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "ST02-007"
+  },
+  "log-132": {
+    "player": "Pirate65394",
+    "action": "Draw 1 Card"
+  },
+  "log-133": {
+    "player": "Pirate65394",
+    "action": "Draw 2 Don"
+  },
+  "log-134": {
+    "player": "Pirate65394",
+    "action": "Deploy",
+    "card": "OP08-023"
+  },
+  "log-135": {
+    "player": "Pirate65394",
+    "action": "Ability activated",
+    "card": "OP08-023",
+    "effect": "Sangoro [ST18-003] will not Activate during next Refresh"
+  },
+  "log-136": {
+    "player": "Pirate65394",
+    "action": "Deploy",
+    "card": "ST02-007"
+  },
+  "log-137": {
+    "player": "Pirate65394",
+    "action": "Activate 1 Don",
+    "card": "OP10-030"
+  },
+  "log-138": {
+    "player": "Pirate65394",
+    "action": "Can't Activate Don via Character Effects!"
+  },
+  "log-139": {
+    "player": "Pirate65394",
+    "action": "Ability activated",
+    "card": "ST02-007",
+    "effect": "Rest Jewelry Bonney [ST02-007]"
+  },
+  "log-140": {
+    "player": "Pirate65394",
+    "action": "Reveal and Draw",
+    "card": "OP01-039"
+  },
+  "log-141": {
+    "player": "Pirate65394",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-142": {
+    "player": "Pirate65394",
+    "action": "attacking",
+    "attacker": "Smoker",
+    "attacker_id": "OP10-030",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-143": {
+    "player": "shirohige",
+    "action": "Discard for Counter 2000",
+    "card": "OP05-070"
+  },
+  "log-144": {
+    "player": "shirohige",
+    "action": "Discard for Counter 2000",
+    "card": "OP07-064"
+  },
+  "log-145": {
+    "player": "Pirate65394",
+    "action": "Attack details",
+    "attacker": "Smoker",
+    "attacker_id": "OP10-030",
+    "attacker_power": 7000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 9000
+  },
+  "log-146": {
+    "player": "Pirate65394",
+    "action": "Attack Fails"
+  },
+  "log-147": {
+    "player": "Pirate65394",
+    "action": "attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-148": {
+    "player": "Pirate65394",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 5000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-149": {
+    "player": "shirohige",
+    "action": "Monkey D. Luffy hit for 1 damage"
+  },
+  "log-150": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-032",
+      "OP06-035",
+      "OP01-039"
+    ]
+  },
+  "log-151": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP05-030",
+      "OP10-030",
+      "OP08-023",
+      "ST02-007"
+    ]
+  },
+  "log-152": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": [
+      "OP10-032",
+      "OP10-032"
+    ]
+  },
+  "log-153": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-154": {
+    "player": "shirohige",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "OP09-078",
+      "OP07-064",
+      "OP09-119",
+      "OP09-078",
+      "OP09-078"
+    ]
+  },
+  "log-155": {
+    "player": "shirohige",
+    "action": "Trash",
+    "cards": [
+      "ST18-002",
+      "OP05-070",
+      "OP07-064"
+    ]
+  },
+  "log-156": {
+    "player": "shirohige",
+    "action": "Board",
+    "cards": [
+      "ST18-003",
+      "ST18-005"
+    ]
+  },
+  "log-157": {
+    "player": "shirohige",
+    "action": "Life",
+    "value": 2
+  },
+  "log-158": {
+    "player": "Pirate65394",
+    "action": "End Turn"
+  },
+  "log-159": {
+    "player": "shirohige",
+    "action": "Draw 1 Card"
+  },
+  "log-160": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "OP08-069"
+  },
+  "log-161": {
+    "player": "shirohige",
+    "action": "Draw 2 Don"
+  },
+  "log-162": {
+    "player": "shirohige",
+    "action": "Deploy",
+    "card": "OP08-069"
+  },
+  "log-163": {
+    "player": "shirohige",
+    "action": "Ability activated",
+    "card": "OP08-069",
+    "effect": "Trash Gum Gum Giant [OP09-078]"
+  },
+  "log-164": {
+    "player": "shirohige",
+    "action": "Ability activated",
+    "card": "OP08-069",
+    "effect": "Add card to top of Life from Deck"
+  },
+  "log-165": {
+    "player": "shirohige",
+    "action": "Ability activated",
+    "card": "OP08-069",
+    "effect": "Add Carrot [OP08-023] to bottom of Life"
+  },
+  "log-166": {
+    "player": "shirohige",
+    "action": "attacking",
+    "attacker": "Luffy-tarou",
+    "attacker_id": "ST18-005",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-167": {
+    "player": "Pirate65394",
+    "action": "Rest",
+    "card": "OP08-069",
+    "ability_source": "OP07-019"
+  },
+  "log-168": {
+    "player": "Pirate65394",
+    "action": "Blocks",
+    "card": "OP05-030"
+  },
+  "log-169": {
+    "player": "shirohige",
+    "action": "Attack details",
+    "attacker": "Luffy-tarou",
+    "attacker_id": "ST18-005",
+    "attacker_power": 8000,
+    "defender": "Donquixote Rosinante",
+    "defender_id": "OP05-030",
+    "defender_power": 1000
+  },
+  "log-170": {
+    "player": "Pirate65394",
+    "action": "Destroyed",
+    "card": "OP05-030"
+  },
+  "log-171": {
+    "player": "shirohige",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Jewelry Bonney",
+    "defender_id": "ST02-007"
+  },
+  "log-172": {
+    "player": "shirohige",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 5000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "ST02-007",
+    "defender_power": 1000
+  },
+  "log-173": {
+    "player": "Pirate65394",
+    "action": "Destroyed",
+    "card": "ST02-007"
+  },
+  "log-174": {
+    "player": "shirohige",
+    "action": "End Turn"
+  },
+  "log-175": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-032",
+      "OP06-035",
+      "OP01-039"
+    ]
+  },
+  "log-176": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP10-030"
+    ]
+  },
+  "log-177": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": [
+      "OP10-032",
+      "OP10-032",
+      "OP05-030",
+      "ST02-007"
+    ]
+  },
+  "log-178": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 6
+  },
+  "log-179": {
+    "player": "shirohige",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "OP09-078",
+      "OP07-064",
+      "OP09-119",
+      "OP09-078"
+    ]
+  },
+  "log-180": {
+    "player": "shirohige",
+    "action": "Trash",
+    "cards": [
+      "ST18-002",
+      "OP05-070",
+      "OP07-064",
+      "OP09-078"
+    ]
+  },
+  "log-181": {
+    "player": "shirohige",
+    "action": "Board",
+    "cards": [
+      "ST18-003",
+      "ST18-005",
+      "OP08-069"
+    ]
+  },
+  "log-182": {
+    "player": "shirohige",
+    "action": "Life",
+    "value": 3
+  },
+  "log-183": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP07-029"
+  },
+  "log-184": {
+    "player": "Pirate65394",
+    "action": "Draw 1 Card"
+  },
+  "log-185": {
+    "player": "Pirate65394",
+    "action": "Draw 2 Don"
+  },
+  "log-186": {
+    "player": "Pirate65394",
+    "action": "Deploy",
+    "card": "OP01-039"
+  },
+  "log-187": {
+    "player": "Pirate65394",
+    "action": "Activate 1 Don",
+    "card": "OP10-030"
+  },
+  "log-188": {
+    "player": "Pirate65394",
+    "action": "Can't Activate Don via Character Effects!"
+  },
+  "log-189": {
+    "player": "Pirate65394",
+    "action": "Deploy",
+    "card": "OP06-035"
+  },
+  "log-190": {
+    "player": "Pirate65394",
+    "action": "Loses 1 Life"
+  },
+  "log-191": {
+    "player": "Pirate65394",
+    "action": "attacking",
+    "attacker": "Smoker",
+    "attacker_id": "OP10-030",
+    "defender": "Sangoro",
+    "defender_id": "ST18-003"
+  },
+  "log-192": {
+    "player": "shirohige",
+    "action": "Discard for Counter 2000",
+    "card": "OP07-064"
+  },
+  "log-193": {
+    "player": "Pirate65394",
+    "action": "Attack details",
+    "attacker": "Smoker",
+    "attacker_id": "OP10-030",
+    "attacker_power": 7000,
+    "defender": "Sangoro",
+    "defender_id": "ST18-003",
+    "defender_power": 8000
+  },
+  "log-194": {
+    "player": "Pirate65394",
+    "action": "Attack Fails"
+  },
+  "log-195": {
+    "player": "Pirate65394",
+    "action": "attacking",
+    "attacker": "Hody Jones",
+    "attacker_id": "OP06-035",
+    "defender": "Sangoro",
+    "defender_id": "ST18-003"
+  },
+  "log-196": {
+    "player": "Pirate65394",
+    "action": "Attack details",
+    "attacker": "Hody Jones",
+    "attacker_id": "OP06-035",
+    "attacker_power": 8000,
+    "defender": "Sangoro",
+    "defender_id": "ST18-003",
+    "defender_power": 6000
+  },
+  "log-197": {
+    "player": "shirohige",
+    "action": "Destroyed",
+    "card": "ST18-003"
+  },
+  "log-198": {
+    "player": "Pirate65394",
+    "action": "attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-199": {
+    "player": "Pirate65394",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 5000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-200": {
+    "player": "shirohige",
+    "action": "Monkey D. Luffy hit for 1 damage"
+  },
+  "log-201": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-032",
+      "OP07-029",
+      "OP07-021"
+    ]
+  },
+  "log-202": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP10-030",
+      "OP01-039",
+      "OP06-035"
+    ]
+  },
+  "log-203": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": [
+      "OP10-032",
+      "OP10-032",
+      "OP05-030",
+      "ST02-007"
+    ]
+  },
+  "log-204": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-205": {
+    "player": "shirohige",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "OP09-078",
+      "OP09-119",
+      "OP09-078",
+      "ST18-004"
+    ]
+  },
+  "log-206": {
+    "player": "shirohige",
+    "action": "Trash",
+    "cards": [
+      "ST18-002",
+      "OP05-070",
+      "OP07-064",
+      "OP09-078",
+      "OP07-064",
+      "ST18-003"
+    ]
+  },
+  "log-207": {
+    "player": "shirohige",
+    "action": "Board",
+    "cards": [
+      "ST18-005",
+      "OP08-069"
+    ]
+  },
+  "log-208": {
+    "player": "shirohige",
+    "action": "Life",
+    "value": 2
+  },
+  "log-209": {
+    "player": "Pirate65394",
+    "action": "End Turn"
+  },
+  "log-210": {
+    "player": "shirohige",
+    "action": "Draw 1 Card"
+  },
+  "log-211": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "OP08-069"
+  },
+  "log-212": {
+    "player": "shirohige",
+    "action": "Draw 2 Don"
+  },
+  "log-213": {
+    "player": "shirohige",
+    "action": "attacking",
+    "attacker": "Charlotte Linlin",
+    "attacker_id": "OP08-069",
+    "defender": "Smoker",
+    "defender_id": "OP10-030"
+  },
+  "log-214": {
+    "player": "Pirate65394",
+    "action": "Rest",
+    "card": "ST18-005",
+    "ability_source": "OP07-019"
+  },
+  "log-215": {
+    "player": "Pirate65394",
+    "action": "Blocks",
+    "card": "OP01-039"
+  },
+  "log-216": {
+    "player": "shirohige",
+    "action": "Attack details",
+    "attacker": "Charlotte Linlin",
+    "attacker_id": "OP08-069",
+    "attacker_power": 9000,
+    "defender": "Killer",
+    "defender_id": "OP01-039",
+    "defender_power": 2000
+  },
+  "log-217": {
+    "player": "Pirate65394",
+    "action": "Destroyed",
+    "card": "OP01-039"
+  },
+  "log-218": {
+    "player": "shirohige",
+    "action": "Deploy",
+    "card": "OP09-119"
+  },
+  "log-219": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "ST18-005"
+  },
+  "log-220": {
+    "player": "shirohige",
+    "action": "Ability activated",
+    "card": "OP09-119",
+    "effect": "Draw 1 Card"
+  },
+  "log-221": {
+    "player": "shirohige",
+    "action": "Ability activated",
+    "card": "OP09-119",
+    "effect": "Give Monkey D. Luffy [OP09-119] Rush"
+  },
+  "log-222": {
+    "player": "shirohige",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP09-119",
+    "defender": "Smoker",
+    "defender_id": "OP10-030"
+  },
+  "log-223": {
+    "player": "shirohige",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP09-119",
+    "attacker_power": 10000,
+    "defender": "Smoker",
+    "defender_id": "OP10-030",
+    "defender_power": 7000
+  },
+  "log-224": {
+    "player": "Pirate65394",
+    "action": "Destroyed",
+    "card": "OP10-030"
+  },
+  "log-225": {
+    "player": "shirohige",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-226": {
+    "player": "Pirate65394",
+    "action": "Discard for Counter 2000",
+    "card": "OP10-032"
+  },
+  "log-227": {
+    "player": "shirohige",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 5000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 7000
+  },
+  "log-228": {
+    "player": "shirohige",
+    "action": "Attack Fails"
+  },
+  "log-229": {
+    "player": "shirohige",
+    "action": "End Turn"
+  },
+  "log-230": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP07-029",
+      "OP07-021"
+    ]
+  },
+  "log-231": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP06-035"
+    ]
+  },
+  "log-232": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": [
+      "OP10-032",
+      "OP10-032",
+      "OP05-030",
+      "ST02-007",
+      "OP01-039",
+      "OP10-030",
+      "OP10-032"
+    ]
+  },
+  "log-233": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-234": {
+    "player": "shirohige",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "OP09-078",
+      "OP09-078",
+      "ST18-004",
+      "OP08-069",
+      "ST18-005"
+    ]
+  },
+  "log-235": {
+    "player": "shirohige",
+    "action": "Trash",
+    "cards": [
+      "ST18-002",
+      "OP05-070",
+      "OP07-064",
+      "OP09-078",
+      "OP07-064",
+      "ST18-003"
+    ]
+  },
+  "log-236": {
+    "player": "shirohige",
+    "action": "Board",
+    "cards": [
+      "ST18-005",
+      "OP08-069",
+      "OP09-119"
+    ]
+  },
+  "log-237": {
+    "player": "shirohige",
+    "action": "Life",
+    "value": 2
+  },
+  "log-238": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP07-029"
+  },
+  "log-239": {
+    "player": "Pirate65394",
+    "action": "Draw 1 Card"
+  },
+  "log-240": {
+    "player": "Pirate65394",
+    "action": "Draw 2 Don"
+  },
+  "log-241": {
+    "player": "Pirate65394",
+    "action": "Deploy",
+    "card": "OP07-021"
+  },
+  "log-242": {
+    "player": "Pirate65394",
+    "action": "attacking",
+    "attacker": "Hody Jones",
+    "attacker_id": "OP06-035",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-243": {
+    "player": "shirohige",
+    "action": "Ability activated",
+    "card": "OP09-078",
+    "effect": "Trash Luffy-tarou [ST18-005]"
+  },
+  "log-244": {
+    "player": "shirohige",
+    "action": "Ability activated",
+    "card": "OP09-078",
+    "effect": "Buff Monkey D. Luffy [OP05-060] 4000 for the Combat"
+  },
+  "log-245": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "OP05-074"
+  },
+  "log-246": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "OP09-069"
+  },
+  "log-247": {
+    "player": "shirohige",
+    "action": "Ability activated",
+    "card": "OP09-078",
+    "effect": "Draw 2 Card"
+  },
+  "log-248": {
+    "player": "Pirate65394",
+    "action": "Attack details",
+    "attacker": "Hody Jones",
+    "attacker_id": "OP06-035",
+    "attacker_power": 8000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 9000
+  },
+  "log-249": {
+    "player": "Pirate65394",
+    "action": "Attack Fails"
+  },
+  "log-250": {
+    "player": "Pirate65394",
+    "action": "attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-251": {
+    "player": "shirohige",
+    "action": "Discard for Counter 1000",
+    "card": "OP09-069"
+  },
+  "log-252": {
+    "player": "Pirate65394",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 5000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 6000
+  },
+  "log-253": {
+    "player": "Pirate65394",
+    "action": "Attack Fails"
+  },
+  "log-254": {
+    "player": "Pirate65394",
+    "action": "Deploy",
+    "card": "OP07-029"
+  },
+  "log-255": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP07-029"
+    ]
+  },
+  "log-256": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP06-035",
+      "OP07-021",
+      "OP07-029"
+    ]
+  },
+  "log-257": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": [
+      "OP10-032",
+      "OP10-032",
+      "OP05-030",
+      "ST02-007",
+      "OP01-039",
+      "OP10-030",
+      "OP10-032"
+    ]
+  },
+  "log-258": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-259": {
+    "player": "shirohige",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "OP09-078",
+      "ST18-004",
+      "OP08-069",
+      "OP05-074"
+    ]
+  },
+  "log-260": {
+    "player": "shirohige",
+    "action": "Trash",
+    "cards": [
+      "ST18-002",
+      "OP05-070",
+      "OP07-064",
+      "OP09-078",
+      "OP07-064",
+      "ST18-003",
+      "OP09-078",
+      "ST18-005",
+      "OP09-069"
+    ]
+  },
+  "log-261": {
+    "player": "shirohige",
+    "action": "Board",
+    "cards": [
+      "ST18-005",
+      "OP08-069",
+      "OP09-119"
+    ]
+  },
+  "log-262": {
+    "player": "shirohige",
+    "action": "Life",
+    "value": 2
+  },
+  "log-263": {
+    "player": "Pirate65394",
+    "action": "Activate 1 Don",
+    "card": "OP07-021"
+  },
+  "log-264": {
+    "player": "Pirate65394",
+    "action": "End Turn"
+  },
+  "log-265": {
+    "player": "shirohige",
+    "action": "Draw 1 Card"
+  },
+  "log-266": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "ST18-004"
+  },
+  "log-267": {
+    "player": "shirohige",
+    "action": "Draw 2 Don"
+  },
+  "log-268": {
+    "player": "shirohige",
+    "action": "Deploy",
+    "card": "OP08-069"
+  },
+  "log-269": {
+    "player": "shirohige",
+    "action": "Ability activated",
+    "card": "OP08-069",
+    "effect": "Trash Zorojuro [ST18-004]"
+  },
+  "log-270": {
+    "player": "shirohige",
+    "action": "Ability activated",
+    "card": "OP08-069",
+    "effect": "Add card to top of Life from Deck"
+  },
+  "log-271": {
+    "player": "shirohige",
+    "action": "Ability activated",
+    "card": "OP08-069",
+    "effect": "Add Basil Hawkins [OP07-029] to bottom of Life"
+  },
+  "log-272": {
+    "player": "Pirate65394",
+    "action": "Rest",
+    "card": "OP09-119",
+    "ability_source": "OP07-029"
+  },
+  "log-273": {
+    "player": "shirohige",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-274": {
+    "player": "Pirate65394",
+    "action": "Rest",
+    "card": "OP08-069",
+    "ability_source": "OP07-019"
+  },
+  "log-275": {
+    "player": "shirohige",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 5000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-276": {
+    "player": "Pirate65394",
+    "action": "Jewelry Bonney hit for 1 damage"
+  },
+  "log-277": {
+    "player": "shirohige",
+    "action": "attacking",
+    "attacker": "Charlotte Linlin",
+    "attacker_id": "OP08-069",
+    "defender": "Hody Jones",
+    "defender_id": "OP06-035"
+  },
+  "log-278": {
+    "player": "shirohige",
+    "action": "Attack details",
+    "attacker": "Charlotte Linlin",
+    "attacker_id": "OP08-069",
+    "attacker_power": 9000,
+    "defender": "Hody Jones",
+    "defender_id": "OP06-035",
+    "defender_power": 8000
+  },
+  "log-279": {
+    "player": "Pirate65394",
+    "action": "Destroyed",
+    "card": "OP06-035"
+  },
+  "log-280": {
+    "player": "shirohige",
+    "action": "attacking",
+    "attacker": "Luffy-tarou",
+    "attacker_id": "ST18-005",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-281": {
+    "player": "shirohige",
+    "action": "Attack details",
+    "attacker": "Luffy-tarou",
+    "attacker_id": "ST18-005",
+    "attacker_power": 8000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-282": {
+    "player": "Pirate65394",
+    "action": "Jewelry Bonney hit for 1 damage"
+  },
+  "log-283": {
+    "player": "shirohige",
+    "action": "Loses 1 Life"
+  },
+  "log-284": {
+    "player": "shirohige",
+    "action": "Draw 1 Don",
+    "card": "OP05-060"
+  },
+  "log-285": {
+    "player": "shirohige",
+    "action": "End Turn"
+  },
+  "log-286": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP07-029",
+      "OP08-023",
+      "ST16-004"
+    ]
+  },
+  "log-287": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP07-021",
+      "OP07-029"
+    ]
+  },
+  "log-288": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": [
+      "OP10-032",
+      "OP10-032",
+      "OP05-030",
+      "ST02-007",
+      "OP01-039",
+      "OP10-030",
+      "OP10-032",
+      "OP06-035"
+    ]
+  },
+  "log-289": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 3
+  },
+  "log-290": {
+    "player": "shirohige",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "OP09-078",
+      "ST18-004",
+      "OP05-074",
+      "OP05-077"
+    ]
+  },
+  "log-291": {
+    "player": "shirohige",
+    "action": "Trash",
+    "cards": [
+      "ST18-002",
+      "OP05-070",
+      "OP07-064",
+      "OP09-078",
+      "OP07-064",
+      "ST18-003",
+      "OP09-078",
+      "ST18-005",
+      "OP09-069",
+      "ST18-004"
+    ]
+  },
+  "log-292": {
+    "player": "shirohige",
+    "action": "Board",
+    "cards": [
+      "ST18-005",
+      "OP08-069",
+      "OP09-119",
+      "OP08-069"
+    ]
+  },
+  "log-293": {
+    "player": "shirohige",
+    "action": "Life",
+    "value": 2
+  },
+  "log-294": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "ST02-007"
+  },
+  "log-295": {
+    "player": "Pirate65394",
+    "action": "Draw 1 Card"
+  },
+  "log-296": {
+    "player": "Pirate65394",
+    "action": "Deploy",
+    "card": "OP08-023"
+  },
+  "log-297": {
+    "player": "Pirate65394",
+    "action": "Ability activated",
+    "card": "OP08-023",
+    "effect": "Luffy-tarou [ST18-005] will not Activate during next Refresh"
+  },
+  "log-298": {
+    "player": "Pirate65394",
+    "action": "attacking",
+    "attacker": "Basil Hawkins",
+    "attacker_id": "OP07-029",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-299": {
+    "player": "Pirate65394",
+    "action": "Attack details",
+    "attacker": "Basil Hawkins",
+    "attacker_id": "OP07-029",
+    "attacker_power": 7000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-300": {
+    "player": "shirohige",
+    "action": "Monkey D. Luffy hit for 1 damage"
+  },
+  "log-301": {
+    "player": "Pirate65394",
+    "action": "Attach 3 Don to Uroge",
+    "card": "OP07-021",
+    "total_don": 3
+  },
+  "log-302": {
+    "player": "Pirate65394",
+    "action": "attacking",
+    "attacker": "Uroge",
+    "attacker_id": "OP07-021",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-303": {
+    "player": "shirohige",
+    "action": "Ability activated",
+    "card": "OP09-078",
+    "effect": "Trash Luffy-tarou [ST18-005]"
+  },
+  "log-304": {
+    "player": "shirohige",
+    "action": "Ability activated",
+    "card": "OP09-078",
+    "effect": "Buff Monkey D. Luffy [OP05-060] 4000 for the Combat"
+  },
+  "log-305": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "OP05-070"
+  },
+  "log-306": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "OP07-064"
+  },
+  "log-307": {
+    "player": "shirohige",
+    "action": "Ability activated",
+    "card": "OP09-078",
+    "effect": "Draw 2 Card"
+  },
+  "log-308": {
+    "player": "Pirate65394",
+    "action": "Attack details",
+    "attacker": "Uroge",
+    "attacker_id": "OP07-021",
+    "attacker_power": 8000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 9000
+  },
+  "log-309": {
+    "player": "Pirate65394",
+    "action": "Attack Fails"
+  },
+  "log-310": {
+    "player": "Pirate65394",
+    "action": "Attach 2 Don to Jewelry Bonney",
+    "card": "OP07-019",
+    "total_don": 2
+  },
+  "log-311": {
+    "player": "Pirate65394",
+    "action": "attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-312": {
+    "player": "shirohige",
+    "action": "Discard for Counter 2000",
+    "card": "OP07-064"
+  },
+  "log-313": {
+    "player": "shirohige",
+    "action": "Discard for Counter 2000",
+    "card": "OP05-070"
+  },
+  "log-314": {
+    "player": "Pirate65394",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 7000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 9000
+  },
+  "log-315": {
+    "player": "Pirate65394",
+    "action": "Attack Fails"
+  },
+  "log-316": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP07-029",
+      "ST16-004",
+      "ST02-007"
+    ]
+  },
+  "log-317": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP07-021",
+      "OP07-029",
+      "OP08-023"
+    ]
+  },
+  "log-318": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": [
+      "OP10-032",
+      "OP10-032",
+      "OP05-030",
+      "ST02-007",
+      "OP01-039",
+      "OP10-030",
+      "OP10-032",
+      "OP06-035"
+    ]
+  },
+  "log-319": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 3
+  },
+  "log-320": {
+    "player": "shirohige",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "ST18-004",
+      "OP05-074",
+      "OP05-077"
+    ]
+  },
+  "log-321": {
+    "player": "shirohige",
+    "action": "Trash",
+    "cards": [
+      "ST18-002",
+      "OP05-070",
+      "OP07-064",
+      "OP09-078",
+      "OP07-064",
+      "ST18-003",
+      "OP09-078",
+      "ST18-005",
+      "OP09-069",
+      "ST18-004",
+      "OP09-078",
+      "ST18-005",
+      "OP07-064",
+      "OP05-070"
+    ]
+  },
+  "log-322": {
+    "player": "shirohige",
+    "action": "Board",
+    "cards": [
+      "ST18-005",
+      "OP08-069",
+      "OP09-119",
+      "OP08-069"
+    ]
+  },
+  "log-323": {
+    "player": "shirohige",
+    "action": "Life",
+    "value": 1
+  },
+  "log-324": {
+    "player": "Pirate65394",
+    "action": "Activate 1 Don",
+    "card": "OP07-021"
+  },
+  "log-325": {
+    "player": "Pirate65394",
+    "action": "End Turn"
+  },
+  "log-326": {
+    "player": "shirohige",
+    "action": "Draw 1 Card"
+  },
+  "log-327": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "OP09-078"
+  },
+  "log-328": {
+    "player": "shirohige",
+    "action": "Draw 2 Don"
+  },
+  "log-329": {
+    "player": "shirohige",
+    "action": "Deploy",
+    "card": "ST18-004"
+  },
+  "log-330": {
+    "player": "shirohige",
+    "action": "Reveal and Draw",
+    "card": "OP09-119"
+  },
+  "log-331": {
+    "player": "shirohige",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-332": {
+    "player": "shirohige",
+    "action": "Attach 4 Don to Monkey D. Luffy",
+    "card": "OP05-060",
+    "total_don": 4
+  },
+  "log-333": {
+    "player": "shirohige",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP09-119",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-334": {
+    "player": "Pirate65394",
+    "action": "Rest",
+    "card": "OP08-069",
+    "ability_source": "OP07-019"
+  },
+  "log-335": {
+    "player": "shirohige",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP09-119",
+    "attacker_power": 10000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-336": {
+    "player": "Pirate65394",
+    "action": "Jewelry Bonney hit for 1 damage"
+  },
+  "log-337": {
+    "player": "shirohige",
+    "action": "attacking",
+    "attacker": "Charlotte Linlin",
+    "attacker_id": "OP08-069",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-338": {
+    "player": "shirohige",
+    "action": "Attack details",
+    "attacker": "Charlotte Linlin",
+    "attacker_id": "OP08-069",
+    "attacker_power": 9000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-339": {
+    "player": "Pirate65394",
+    "action": "Jewelry Bonney hit for 1 damage"
+  },
+  "log-340": {
+    "player": "shirohige",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Basil Hawkins",
+    "defender_id": "OP07-029"
+  },
+  "log-341": {
+    "player": "shirohige",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 9000,
+    "defender": "Basil Hawkins",
+    "defender_id": "OP07-029",
+    "defender_power": 7000
+  },
+  "log-342": {
+    "player": "Pirate65394",
+    "action": "Destroyed",
+    "card": "OP07-029"
+  },
+  "log-343": {
+    "player": "shirohige",
+    "action": "End Turn"
+  },
+  "log-344": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP07-029",
+      "ST16-004",
+      "ST02-007",
+      "ST02-007",
+      "OP06-035"
+    ]
+  },
+  "log-345": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP07-021",
+      "OP08-023"
+    ]
+  },
+  "log-346": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": [
+      "OP10-032",
+      "OP10-032",
+      "OP05-030",
+      "ST02-007",
+      "OP01-039",
+      "OP10-030",
+      "OP10-032",
+      "OP06-035",
+      "OP07-029"
+    ]
+  },
+  "log-347": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 1
+  },
+  "log-348": {
+    "player": "shirohige",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "OP05-074",
+      "OP05-077",
+      "OP09-078",
+      "OP09-119"
+    ]
+  },
+  "log-349": {
+    "player": "shirohige",
+    "action": "Trash",
+    "cards": [
+      "ST18-002",
+      "OP05-070",
+      "OP07-064",
+      "OP09-078",
+      "OP07-064",
+      "ST18-003",
+      "OP09-078",
+      "ST18-005",
+      "OP09-069",
+      "ST18-004",
+      "OP09-078",
+      "ST18-005",
+      "OP07-064",
+      "OP05-070"
+    ]
+  },
+  "log-350": {
+    "player": "shirohige",
+    "action": "Board",
+    "cards": [
+      "ST18-005",
+      "OP08-069",
+      "OP09-119",
+      "OP08-069",
+      "ST18-004"
+    ]
+  },
+  "log-351": {
+    "player": "shirohige",
+    "action": "Life",
+    "value": 1
+  },
+  "log-352": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP07-021"
+  },
+  "log-353": {
+    "player": "Pirate65394",
+    "action": "Draw 1 Card"
+  },
+  "log-354": {
+    "player": "Pirate65394",
+    "action": "attacking",
+    "attacker": "Uroge",
+    "attacker_id": "OP07-021",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-355": {
+    "player": "shirohige",
+    "action": "Discard for Counter 1000",
+    "card": "OP05-074"
+  },
+  "log-356": {
+    "player": "Pirate65394",
+    "action": "Attack details",
+    "attacker": "Uroge",
+    "attacker_id": "OP07-021",
+    "attacker_power": 5000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 6000
+  },
+  "log-357": {
+    "player": "Pirate65394",
+    "action": "Attack Fails"
+  },
+  "log-358": {
+    "player": "Pirate65394",
+    "action": "Attach 5 Don to Carrot",
+    "card": "OP08-023",
+    "total_don": 5
+  },
+  "log-359": {
+    "player": "Pirate65394",
+    "action": "attacking",
+    "attacker": "Carrot",
+    "attacker_id": "OP08-023",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-360": {
+    "player": "Pirate65394",
+    "action": "Ability activated",
+    "card": "OP08-023",
+    "effect": "Luffy-tarou [ST18-005] will not Activate during next Refresh"
+  },
+  "log-361": {
+    "player": "Pirate65394",
+    "action": "Attack details",
+    "attacker": "Carrot",
+    "attacker_id": "OP08-023",
+    "attacker_power": 11000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-362": {
+    "player": "shirohige",
+    "action": "Monkey D. Luffy hit for 1 damage"
+  },
+  "log-363": {
+    "player": "Pirate65394",
+    "action": "Attach 5 Don to Jewelry Bonney",
+    "card": "OP07-019",
+    "total_don": 5
+  },
+  "log-364": {
+    "player": "Pirate65394",
+    "action": "attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-365": {
+    "player": "shirohige",
+    "action": "Ability activated",
+    "card": "OP09-078",
+    "effect": "Trash Gamma Knife [OP05-077]"
+  },
+  "log-366": {
+    "player": "shirohige",
+    "action": "Ability activated",
+    "card": "OP09-078",
+    "effect": "Buff Monkey D. Luffy [OP05-060] 4000 for the Combat"
+  },
+  "log-367": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "ST18-004"
+  },
+  "log-368": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "OP09-065"
+  },
+  "log-369": {
+    "player": "shirohige",
+    "action": "Ability activated",
+    "card": "OP09-078",
+    "effect": "Draw 2 Card"
+  },
+  "log-370": {
+    "player": "shirohige",
+    "action": "Discard for Counter 2000",
+    "card": "ST18-001"
+  },
+  "log-371": {
+    "player": "Pirate65394",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 10000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 11000
+  },
+  "log-372": {
+    "player": "Pirate65394",
+    "action": "Attack Fails"
+  },
+  "log-373": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP07-029",
+      "ST16-004",
+      "ST02-007",
+      "ST02-007",
+      "OP06-035",
+      "OP07-021"
+    ]
+  },
+  "log-374": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP07-021",
+      "OP08-023"
+    ]
+  },
+  "log-375": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": [
+      "OP10-032",
+      "OP10-032",
+      "OP05-030",
+      "ST02-007",
+      "OP01-039",
+      "OP10-030",
+      "OP10-032",
+      "OP06-035",
+      "OP07-029"
+    ]
+  },
+  "log-376": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 1
+  },
+  "log-377": {
+    "player": "shirohige",
+    "action": "Hand",
+    "cards": [
+      "OP09-119",
+      "OP09-065",
+      "ST18-004",
+      "OP09-065"
+    ]
+  },
+  "log-378": {
+    "player": "shirohige",
+    "action": "Trash",
+    "cards": [
+      "ST18-002",
+      "OP05-070",
+      "OP07-064",
+      "OP09-078",
+      "OP07-064",
+      "ST18-003",
+      "OP09-078",
+      "ST18-005",
+      "OP09-069",
+      "ST18-004",
+      "OP09-078",
+      "ST18-005",
+      "OP07-064",
+      "OP05-070",
+      "OP05-074",
+      "OP09-078",
+      "OP05-077",
+      "ST18-001"
+    ]
+  },
+  "log-379": {
+    "player": "shirohige",
+    "action": "Board",
+    "cards": [
+      "ST18-005",
+      "OP08-069",
+      "OP09-119",
+      "OP08-069",
+      "ST18-004"
+    ]
+  },
+  "log-380": {
+    "player": "shirohige",
+    "action": "Life",
+    "value": 0
+  },
+  "log-381": {
+    "player": "Pirate65394",
+    "action": "End Turn"
+  },
+  "log-382": {
+    "player": "shirohige",
+    "action": "Draw 1 Card"
+  },
+  "log-383": {
+    "player": "shirohige",
+    "action": "Drew card from deck",
+    "card": "OP05-074"
+  },
+  "log-384": {
+    "player": "shirohige",
+    "action": "Draw 2 Don"
+  },
+  "log-385": {
+    "player": "shirohige",
+    "action": "Attach 9 Don to Monkey D. Luffy",
+    "card": "OP09-119",
+    "total_don": 9
+  },
+  "log-386": {
+    "player": "shirohige",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP09-119",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-387": {
+    "player": "shirohige",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP09-119",
+    "attacker_power": 19000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-388": {
+    "player": "Pirate65394",
+    "action": "Jewelry Bonney hit for 1 damage"
+  },
+  "log-389": {
+    "player": "shirohige",
+    "action": "attacking",
+    "attacker": "Zorojuro",
+    "attacker_id": "ST18-004",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-390": {
+    "player": "Pirate65394",
+    "action": "Discard for Counter 1000",
+    "card": "OP07-021"
+  },
+  "log-391": {
+    "player": "Pirate65394",
+    "action": "Discard for Counter 1000",
+    "card": "OP08-023"
+  },
+  "log-392": {
+    "player": "shirohige",
+    "action": "Attack details",
+    "attacker": "Zorojuro",
+    "attacker_id": "ST18-004",
+    "attacker_power": 6000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 7000
+  },
+  "log-393": {
+    "player": "shirohige",
+    "action": "Attack Fails"
+  },
+  "log-394": {
+    "player": "shirohige",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-395": {
+    "player": "Pirate65394",
+    "action": "Discard for Counter 1000",
+    "card": "ST02-007"
+  },
+  "log-396": {
+    "player": "shirohige",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 5000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 6000
+  },
+  "log-397": {
+    "player": "shirohige",
+    "action": "Attack Fails"
+  },
+  "log-398": {
+    "player": "shirohige",
+    "action": "attacking",
+    "attacker": "Charlotte Linlin",
+    "attacker_id": "OP08-069",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-399": {
+    "player": "Pirate65394",
+    "action": "Discard for Counter 1000",
+    "card": "ST02-007"
+  }
+}

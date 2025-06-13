@@ -1,0 +1,62 @@
+{
+  "ST23-001": {
+    "name": "Uta ST23-001",
+    "color": "red",
+    "type": "character",
+    "group": "FILM",
+    "attribute": "Special",
+    "cost": 6,
+    "power": 4000,
+    "counter": 2000,
+    "effect": "If you have a Character with 10000 power or more, give this card in your hand −4 cost. [Blocker]",
+    "images": "Images/ST23/ST23-001.png"
+  },
+  "ST23-002": {
+    "name": "Shanks ST23-002",
+    "color": "red",
+    "type": "character",
+    "group": ["The Four Emperors", "Red-Haired Pirates"],
+    "attribute": "Slash",
+    "cost": 9,
+    "power": 10000,
+    "counter": 0,
+    "effect": "If your opponent has a Character with 8000 base power or more, give this card in your hand −3 cost. [On Play] If your Leader has the {Red-Haired Pirates} type or is [Uta], your Leader gains +2000 power until the end of your opponent's next End Phase.",
+    "images": "Images/ST23/ST23-002.png"
+  },
+  "ST23-003": {
+    "name": "Benn Beckman ST23-003",
+    "color": "red",
+    "type": "character",
+    "group": "Red-Haired Pirates",
+    "attribute": "Ranged",
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000,
+    "effect": "[On Play] You may trash 1 card from your hand: If your Leader has the {Red-Haired Pirates} type, K.O. up to 1 of your opponent's Characters with 4000 base power or less.",
+    "images": "Images/ST23/ST23-003.png"
+  },
+  "ST23-004": {
+    "name": "Monkey D. Luffy ST23-004",
+    "color": "red",
+    "type": "character",
+    "group": ["FILM", "Supernovas", "Straw Hat Crew"],
+    "attribute": "Strike",
+    "cost": 1,
+    "power": 2000,
+    "counter": 1000,
+    "effect": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: Give up to 1 of your opponent's Characters −1000 power during this turn.",
+    "images": "Images/ST23/ST23-004.png"
+  },
+  "ST23-005": {
+    "name": "Yasopp ST23-005",
+    "color": "red",
+    "type": "character",
+    "group": "Red-Haired Pirates",
+    "attribute": "Ranged",
+    "cost": 1,
+    "power": 1000,
+    "counter": 1000,
+    "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+    "images": "Images/ST23/ST23-005.png"
+  }
+}

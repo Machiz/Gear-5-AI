@@ -1,0 +1,2037 @@
+{
+  "log-001": {
+    "player": "Pirate18721",
+    "action": "Leader is Marshall D. Teach",
+    "card": "OP09-081"
+  },
+  "log-002": {
+    "player": "Godfrett",
+    "action": "Leader is Shanks",
+    "card": "OP09-001"
+  },
+  "log-003": {
+    "player": "Godfrett",
+    "action": "Chose to go Second"
+  },
+  "log-004": {
+    "player": "Godfrett",
+    "action": "Drew card from deck",
+    "card": "Shanks",
+    "card_id": "OP09-004"
+  },
+  "log-005": {
+    "player": "Godfrett",
+    "action": "Drew card from deck",
+    "card": "Hongo",
+    "card_id": "OP09-011"
+  },
+  "log-006": {
+    "player": "Godfrett",
+    "action": "Drew card from deck",
+    "card": "Silvers Rayleigh",
+    "card_id": "OP08-118"
+  },
+  "log-007": {
+    "player": "Godfrett",
+    "action": "Drew card from deck",
+    "card": "Gum Gum Mole Gun",
+    "card_id": "ST21-017"
+  },
+  "log-008": {
+    "player": "Godfrett",
+    "action": "Drew card from deck",
+    "card": "Shanks",
+    "card_id": "OP06-007"
+  },
+  "log-009": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shiryu",
+    "card_id": "OP10-086"
+  },
+  "log-010": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Stronger",
+    "card_id": "OP09-089"
+  },
+  "log-011": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-012": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Van Augur",
+    "card_id": "OP09-083"
+  },
+  "log-013": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-014": {
+    "player": "Pirate18721",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "OP10-086",
+      "OP09-089",
+      "OP09-099",
+      "OP09-083",
+      "OP09-091"
+    ]
+  },
+  "log-015": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "This is MY AGE!!!!",
+    "card_id": "OP09-096"
+  },
+  "log-016": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Stronger",
+    "card_id": "OP09-089"
+  },
+  "log-017": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "This is MY AGE!!!!",
+    "card_id": "OP09-096"
+  },
+  "log-018": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-019": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Kuzan",
+    "card_id": "OP10-082"
+  },
+  "log-020": {
+    "player": "Pirate18721",
+    "action": "Hand after Mulligan",
+    "cards": [
+      "OP09-096",
+      "OP09-089",
+      "OP09-096",
+      "OP09-088",
+      "OP10-082"
+    ]
+  },
+  "log-021": {
+    "player": "Pirate18721",
+    "action": "Mulligan"
+  },
+  "log-022": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP09-096",
+      "OP09-089",
+      "OP09-096",
+      "OP09-088",
+      "OP10-082"
+    ]
+  },
+  "log-023": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": []
+  },
+  "log-024": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-025": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 5
+  },
+  "log-026": {
+    "player": "Godfrett",
+    "action": "Hand",
+    "cards": [
+      "OP09-004",
+      "OP09-011",
+      "OP08-118",
+      "ST21-017",
+      "OP06-007"
+    ]
+  },
+  "log-027": {
+    "player": "Godfrett",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-028": {
+    "player": "Godfrett",
+    "action": "Board",
+    "cards": []
+  },
+  "log-029": {
+    "player": "Godfrett",
+    "action": "Life",
+    "value": 5
+  },
+  "log-030": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Don"
+  },
+  "log-031": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Shiryu",
+    "card_id": "OP10-086"
+  },
+  "log-032": {
+    "player": "Pirate18721",
+    "action": "This is MY AGE!!!! effect: Trash 2 Remaining Cards",
+    "card": "OP09-096"
+  },
+  "log-033": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Trash Kuzan",
+    "card": "OP09-081",
+    "card_id_effect": "OP10-082"
+  },
+  "log-034": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Opponent can't activate On Play abilities next turn!",
+    "card": "OP09-081"
+  },
+  "log-035": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP09-096",
+      "OP09-089",
+      "OP09-088",
+      "OP10-086"
+    ]
+  },
+  "log-036": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": []
+  },
+  "log-037": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP09-099",
+      "OP10-082"
+    ]
+  },
+  "log-038": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 5
+  },
+  "log-039": {
+    "player": "Godfrett",
+    "action": "Hand",
+    "cards": [
+      "OP09-004",
+      "OP09-011",
+      "OP08-118",
+      "ST21-017",
+      "OP06-007"
+    ]
+  },
+  "log-040": {
+    "player": "Godfrett",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-041": {
+    "player": "Godfrett",
+    "action": "Board",
+    "cards": []
+  },
+  "log-042": {
+    "player": "Godfrett",
+    "action": "Life",
+    "value": 5
+  },
+  "log-043": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-044": {
+    "player": "Godfrett",
+    "action": "Draw 1 Card"
+  },
+  "log-045": {
+    "player": "Godfrett",
+    "action": "Drew card from deck",
+    "card": "Silvers Rayleigh",
+    "card_id": "OP08-118"
+  },
+  "log-046": {
+    "player": "Godfrett",
+    "action": "Draw 2 Don"
+  },
+  "log-047": {
+    "player": "Godfrett",
+    "action": "End Turn"
+  },
+  "log-048": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP09-096",
+      "OP09-089",
+      "OP09-088",
+      "OP10-086"
+    ]
+  },
+  "log-049": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": []
+  },
+  "log-050": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP09-099",
+      "OP10-082"
+    ]
+  },
+  "log-051": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 5
+  },
+  "log-052": {
+    "player": "Godfrett",
+    "action": "Hand",
+    "cards": [
+      "OP09-004",
+      "OP09-011",
+      "OP08-118",
+      "ST21-017",
+      "OP06-007",
+      "OP08-118"
+    ]
+  },
+  "log-053": {
+    "player": "Godfrett",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-054": {
+    "player": "Godfrett",
+    "action": "Board",
+    "cards": []
+  },
+  "log-055": {
+    "player": "Godfrett",
+    "action": "Life",
+    "value": 5
+  },
+  "log-056": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-057": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-058": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-059": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-060": {
+    "player": "Pirate18721",
+    "action": "This is MY AGE!!!! effect: Trash 2 Remaining Cards",
+    "card": "OP09-096"
+  },
+  "log-061": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-062": {
+    "player": "Pirate18721",
+    "action": "Attach 1 Don to Marshall D. Teach",
+    "card": "OP09-081",
+    "total_don": 1
+  },
+  "log-063": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
+  },
+  "log-064": {
+    "player": "Godfrett",
+    "action": "Discard Hongo for Counter 2000",
+    "card": "OP09-011"
+  },
+  "log-065": {
+    "player": "Game",
+    "action": "Attack Fails",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 6000,
+    "defender": "Shanks",
+    "defender_id": "OP09-001",
+    "defender_power": 7000
+  },
+  "log-066": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Trash Shiryu",
+    "card": "OP09-081",
+    "card_id_effect": "OP09-088"
+  },
+  "log-067": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Opponent can't activate On Play abilities next turn!",
+    "card": "OP09-081"
+  },
+  "log-068": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP09-089",
+      "OP10-086",
+      "OP09-086"
+    ]
+  },
+  "log-069": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": []
+  },
+  "log-070": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP09-099",
+      "OP10-082",
+      "OP09-096",
+      "EB01-051",
+      "OP09-089",
+      "OP09-088"
+    ]
+  },
+  "log-071": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 5
+  },
+  "log-072": {
+    "player": "Godfrett",
+    "action": "Hand",
+    "cards": [
+      "OP09-004",
+      "OP08-118",
+      "ST21-017",
+      "OP06-007",
+      "OP08-118"
+    ]
+  },
+  "log-073": {
+    "player": "Godfrett",
+    "action": "Trash",
+    "cards": [
+      "OP09-011"
+    ]
+  },
+  "log-074": {
+    "player": "Godfrett",
+    "action": "Board",
+    "cards": []
+  },
+  "log-075": {
+    "player": "Godfrett",
+    "action": "Life",
+    "value": 5
+  },
+  "log-076": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-077": {
+    "player": "Godfrett",
+    "action": "Draw 1 Card"
+  },
+  "log-078": {
+    "player": "Godfrett",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "OP10-005"
+  },
+  "log-079": {
+    "player": "Godfrett",
+    "action": "Draw 2 Don"
+  },
+  "log-080": {
+    "player": "Godfrett",
+    "action": "Attach 1 Don to Shanks",
+    "card": "OP09-001",
+    "total_don": 1
+  },
+  "log-081": {
+    "player": "Godfrett",
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-082": {
+    "player": "Pirate18721",
+    "action": "Discard Stronger for Counter 2000",
+    "card": "OP09-089"
+  },
+  "log-083": {
+    "player": "Game",
+    "action": "Attack Fails",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 7000
+  },
+  "log-084": {
+    "player": "Godfrett",
+    "action": "Deploy",
+    "card": "Sanji",
+    "card_id": "OP10-005"
+  },
+  "log-085": {
+    "player": "Godfrett",
+    "action": "End Turn"
+  },
+  "log-086": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP10-086",
+      "OP09-086"
+    ]
+  },
+  "log-087": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": []
+  },
+  "log-088": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP09-099",
+      "OP10-082",
+      "OP09-096",
+      "EB01-051",
+      "OP09-089",
+      "OP09-088",
+      "OP09-089"
+    ]
+  },
+  "log-089": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 5
+  },
+  "log-090": {
+    "player": "Godfrett",
+    "action": "Hand",
+    "cards": [
+      "OP09-004",
+      "OP08-118",
+      "ST21-017",
+      "OP06-007",
+      "OP08-118"
+    ]
+  },
+  "log-091": {
+    "player": "Godfrett",
+    "action": "Trash",
+    "cards": [
+      "OP09-011"
+    ]
+  },
+  "log-092": {
+    "player": "Godfrett",
+    "action": "Board",
+    "cards": [
+      "OP10-005"
+    ]
+  },
+  "log-093": {
+    "player": "Godfrett",
+    "action": "Life",
+    "value": 5
+  },
+  "log-094": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-095": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Laffitte",
+    "card_id": "OP09-095"
+  },
+  "log-096": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-097": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Shiryu",
+    "card_id": "OP10-086"
+  },
+  "log-098": {
+    "player": "Pirate18721",
+    "action": "Shiryu effect: Destroy Sanji",
+    "card": "OP10-086",
+    "card_id_effect": "OP10-005"
+  },
+  "log-099": {
+    "player": "Godfrett",
+    "action": "Drew card from deck",
+    "card": "Otama",
+    "card_id": "OP01-006"
+  },
+  "log-100": {
+    "player": "Godfrett",
+    "action": "Sanji effect: Draw 1 Card",
+    "card": "OP10-005"
+  },
+  "log-101": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Laffitte",
+    "card_id": "OP09-095"
+  },
+  "log-102": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
+  },
+  "log-103": {
+    "player": "Godfrett",
+    "action": "Shanks effect: Buff Marshall D. Teach -1000",
+    "card": "OP09-001",
+    "card_id_effect": "OP09-081"
+  },
+  "log-104": {
+    "player": "Game",
+    "action": "Attack Fails",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 4000,
+    "defender": "Shanks",
+    "defender_id": "OP09-001",
+    "defender_power": 5000
+  },
+  "log-105": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP09-086"
+    ]
+  },
+  "log-106": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": [
+      "OP10-086",
+      "OP09-095"
+    ]
+  },
+  "log-107": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP09-099",
+      "OP10-082",
+      "OP09-096",
+      "EB01-051",
+      "OP09-089",
+      "OP09-088",
+      "OP09-089"
+    ]
+  },
+  "log-108": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 5
+  },
+  "log-109": {
+    "player": "Godfrett",
+    "action": "Hand",
+    "cards": [
+      "OP09-004",
+      "OP08-118",
+      "ST21-017",
+      "OP06-007",
+      "OP08-118",
+      "OP01-006"
+    ]
+  },
+  "log-110": {
+    "player": "Godfrett",
+    "action": "Trash",
+    "cards": [
+      "OP09-011",
+      "OP10-005"
+    ]
+  },
+  "log-111": {
+    "player": "Godfrett",
+    "action": "Board",
+    "cards": []
+  },
+  "log-112": {
+    "player": "Godfrett",
+    "action": "Life",
+    "value": 5
+  },
+  "log-113": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-114": {
+    "player": "Godfrett",
+    "action": "Draw 1 Card"
+  },
+  "log-115": {
+    "player": "Godfrett",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "OP10-005"
+  },
+  "log-116": {
+    "player": "Godfrett",
+    "action": "Draw 2 Don"
+  },
+  "log-117": {
+    "player": "Godfrett",
+    "action": "Attach 2 Don to Shanks",
+    "card": "OP09-001",
+    "total_don": 2
+  },
+  "log-118": {
+    "player": "Godfrett",
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-119": {
+    "player": "Game",
+    "action": "Marshall D. Teach hit for 1 damage",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "attacker_power": 7000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-120": {
+    "player": "Godfrett",
+    "action": "Deploy",
+    "card": "Sanji",
+    "card_id": "OP10-005"
+  },
+  "log-121": {
+    "player": "Godfrett",
+    "action": "End Turn"
+  },
+  "log-122": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP09-086",
+      "OP09-093"
+    ]
+  },
+  "log-123": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": [
+      "OP10-086",
+      "OP09-095"
+    ]
+  },
+  "log-124": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP09-099",
+      "OP10-082",
+      "OP09-096",
+      "EB01-051",
+      "OP09-089",
+      "OP09-088",
+      "OP09-089"
+    ]
+  },
+  "log-125": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 4
+  },
+  "log-126": {
+    "player": "Godfrett",
+    "action": "Hand",
+    "cards": [
+      "OP09-004",
+      "OP08-118",
+      "ST21-017",
+      "OP06-007",
+      "OP08-118"
+    ]
+  },
+  "log-127": {
+    "player": "Godfrett",
+    "action": "Trash",
+    "cards": [
+      "OP09-011",
+      "OP10-005"
+    ]
+  },
+  "log-128": {
+    "player": "Godfrett",
+    "action": "Board",
+    "cards": [
+      "OP10-005"
+    ]
+  },
+  "log-129": {
+    "player": "Godfrett",
+    "action": "Life",
+    "value": 5
+  },
+  "log-130": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-131": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Stronger",
+    "card_id": "OP09-089"
+  },
+  "log-132": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-133": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-134": {
+    "player": "Pirate18721",
+    "action": "Laffitte effect: Rest Laffitte",
+    "card": "OP09-095"
+  },
+  "log-135": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-136": {
+    "player": "Pirate18721",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-137": {
+    "player": "Pirate18721",
+    "action": "Attach 1 Don to Shiryu",
+    "card": "OP10-086",
+    "total_don": 1
+  },
+  "log-138": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Shiryu",
+    "attacker_id": "OP10-086",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
+  },
+  "log-139": {
+    "player": "Godfrett",
+    "action": "Discard Otama for Counter 2000",
+    "card": "OP01-006"
+  },
+  "log-140": {
+    "player": "Game",
+    "action": "Attack Fails",
+    "attacker": "Shiryu",
+    "attacker_id": "OP10-086",
+    "attacker_power": 6000,
+    "defender": "Shanks",
+    "defender_id": "OP09-001",
+    "defender_power": 7000
+  },
+  "log-141": {
+    "player": "Pirate18721",
+    "action": "Attach 1 Don to Marshall D. Teach",
+    "card": "OP09-081",
+    "total_don": 1
+  },
+  "log-142": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
+  },
+  "log-143": {
+    "player": "Game",
+    "action": "Shanks hit for 1 damage",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 6000,
+    "defender": "Shanks",
+    "defender_id": "OP09-001",
+    "defender_power": 5000
+  },
+  "log-144": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP09-093",
+      "OP09-089",
+      "OP09-091"
+    ]
+  },
+  "log-145": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": [
+      "OP10-086",
+      "OP09-095",
+      "OP09-086"
+    ]
+  },
+  "log-146": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP09-099",
+      "OP10-082",
+      "OP09-096",
+      "EB01-051",
+      "OP09-089",
+      "OP09-088",
+      "OP09-089"
+    ]
+  },
+  "log-147": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 4
+  },
+  "log-148": {
+    "player": "Godfrett",
+    "action": "Hand",
+    "cards": [
+      "OP09-004",
+      "OP08-118",
+      "ST21-017",
+      "OP06-007",
+      "OP08-118",
+      "ST21-014"
+    ]
+  },
+  "log-149": {
+    "player": "Godfrett",
+    "action": "Trash",
+    "cards": [
+      "OP09-011",
+      "OP10-005",
+      "OP01-006"
+    ]
+  },
+  "log-150": {
+    "player": "Godfrett",
+    "action": "Board",
+    "cards": [
+      "OP10-005"
+    ]
+  },
+  "log-151": {
+    "player": "Godfrett",
+    "action": "Life",
+    "value": 4
+  },
+  "log-152": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-153": {
+    "player": "Godfrett",
+    "action": "Draw 1 Card"
+  },
+  "log-154": {
+    "player": "Godfrett",
+    "action": "Drew card from deck",
+    "card": "Otama",
+    "card_id": "OP01-006"
+  },
+  "log-155": {
+    "player": "Godfrett",
+    "action": "Draw 2 Don"
+  },
+  "log-156": {
+    "player": "Godfrett",
+    "action": "Deploy",
+    "card": "Silvers Rayleigh",
+    "card_id": "OP08-118"
+  },
+  "log-157": {
+    "player": "Godfrett",
+    "action": "Silvers Rayleigh effect: Grant Jesus Burgess -3000 until next turn end",
+    "card": "OP08-118",
+    "card_id_effect": "OP09-086"
+  },
+  "log-158": {
+    "player": "Godfrett",
+    "action": "Silvers Rayleigh effect: Grant Shiryu -2000 until next turn end",
+    "card": "OP08-118",
+    "card_id_effect": "OP10-086"
+  },
+  "log-159": {
+    "player": "Godfrett",
+    "action": "Silvers Rayleigh effect: Destroy Laffitte",
+    "card": "OP08-118",
+    "card_id_effect": "OP09-095"
+  },
+  "log-160": {
+    "player": "Godfrett",
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Shiryu",
+    "defender_id": "OP10-086"
+  },
+  "log-161": {
+    "player": "Game",
+    "action": "Shiryu Destroyed",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "attacker_power": 5000,
+    "defender": "Shiryu",
+    "defender_id": "OP10-086",
+    "defender_power": 5000
+  },
+  "log-162": {
+    "player": "Godfrett",
+    "action": "Attacking",
+    "attacker": "Sanji",
+    "attacker_id": "OP10-005",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-163": {
+    "player": "Pirate18721",
+    "action": "Discard Stronger for Counter 2000",
+    "card": "OP09-089"
+  },
+  "log-164": {
+    "player": "Game",
+    "action": "Attack Fails",
+    "attacker": "Sanji",
+    "attacker_id": "OP10-005",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 7000
+  },
+  "log-165": {
+    "player": "Godfrett",
+    "action": "End Turn"
+  },
+  "log-166": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP09-093",
+      "OP09-091"
+    ]
+  },
+  "log-167": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": [
+      "OP09-086"
+    ]
+  },
+  "log-168": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP09-099",
+      "OP10-082",
+      "OP09-096",
+      "EB01-051",
+      "OP09-089",
+      "OP09-088",
+      "OP09-089",
+      "OP09-095",
+      "OP10-086",
+      "OP09-089"
+    ]
+  },
+  "log-169": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 4
+  },
+  "log-170": {
+    "player": "Godfrett",
+    "action": "Hand",
+    "cards": [
+      "OP09-004",
+      "OP08-118",
+      "ST21-017",
+      "OP06-007",
+      "ST21-014",
+      "OP01-006"
+    ]
+  },
+  "log-171": {
+    "player": "Godfrett",
+    "action": "Trash",
+    "cards": [
+      "OP09-011",
+      "OP10-005",
+      "OP01-006"
+    ]
+  },
+  "log-172": {
+    "player": "Godfrett",
+    "action": "Board",
+    "cards": [
+      "OP10-005",
+      "OP08-118"
+    ]
+  },
+  "log-173": {
+    "player": "Godfrett",
+    "action": "Life",
+    "value": 4
+  },
+  "log-174": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-175": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Kuzan",
+    "card_id": "OP10-082"
+  },
+  "log-176": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-177": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Kuzan",
+    "card_id": "OP10-082"
+  },
+  "log-178": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-179": {
+    "player": "Pirate18721",
+    "action": "Attach 1 Don to Jesus Burgess",
+    "card": "OP09-086",
+    "total_don": 1
+  },
+  "log-180": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "defender": "Sanji",
+    "defender_id": "OP10-005"
+  },
+  "log-181": {
+    "player": "Game",
+    "action": "Sanji Destroyed",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "attacker_power": 6000,
+    "defender": "Sanji",
+    "defender_id": "OP10-005",
+    "defender_power": 3000
+  },
+  "log-182": {
+    "player": "Godfrett",
+    "action": "Drew card from deck",
+    "card": "Tony Tony Chopper",
+    "card_id": "OP10-011"
+  },
+  "log-183": {
+    "player": "Godfrett",
+    "action": "Sanji effect: Draw 1 Card",
+    "card": "OP10-005"
+  },
+  "log-184": {
+    "player": "Pirate18721",
+    "action": "Attach 1 Don to Marshall D. Teach",
+    "card": "OP09-081",
+    "total_don": 1
+  },
+  "log-185": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
+  },
+  "log-186": {
+    "player": "Godfrett",
+    "action": "Discard Otama for Counter 2000",
+    "card": "OP01-006"
+  },
+  "log-187": {
+    "player": "Game",
+    "action": "Attack Fails",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 6000,
+    "defender": "Shanks",
+    "defender_id": "OP09-001",
+    "defender_power": 7000
+  },
+  "log-188": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP09-093"
+    ]
+  },
+  "log-189": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": [
+      "OP09-086",
+      "OP10-082",
+      "OP09-091"
+    ]
+  },
+  "log-190": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP09-099",
+      "OP10-082",
+      "OP09-096",
+      "EB01-051",
+      "OP09-089",
+      "OP09-088",
+      "OP09-089"
+    ]
+  },
+  "log-191": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 4
+  },
+  "log-192": {
+    "player": "Godfrett",
+    "action": "Hand",
+    "cards": [
+      "OP09-004",
+      "OP08-118",
+      "ST21-017",
+      "OP06-007",
+      "ST21-014",
+      "OP10-011"
+    ]
+  },
+  "log-193": {
+    "player": "Godfrett",
+    "action": "Trash",
+    "cards": [
+      "OP09-011",
+      "OP10-005",
+      "OP01-006",
+      "OP10-005",
+      "OP01-006"
+    ]
+  },
+  "log-194": {
+    "player": "Godfrett",
+    "action": "Board",
+    "cards": [
+      "OP08-118"
+    ]
+  },
+  "log-195": {
+    "player": "Godfrett",
+    "action": "Life",
+    "value": 4
+  },
+  "log-196": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-197": {
+    "player": "Godfrett",
+    "action": "Draw 1 Card"
+  },
+  "log-198": {
+    "player": "Godfrett",
+    "action": "Drew card from deck",
+    "card": "Uta",
+    "card_id": "OP09-002"
+  },
+  "log-199": {
+    "player": "Godfrett",
+    "action": "Draw 2 Don"
+  },
+  "log-200": {
+    "player": "Godfrett",
+    "action": "Deploy",
+    "card": "Silvers Rayleigh",
+    "card_id": "OP08-118"
+  },
+  "log-201": {
+    "player": "Godfrett",
+    "action": "Silvers Rayleigh effect: Grant Jesus Burgess -3000 until next turn end",
+    "card": "OP08-118",
+    "card_id_effect": "OP09-086"
+  },
+  "log-202": {
+    "player": "Godfrett",
+    "action": "Silvers Rayleigh effect: Grant Kuzan -2000 until next turn end",
+    "card": "OP08-118",
+    "card_id_effect": "OP10-082"
+  },
+  "log-203": {
+    "player": "Godfrett",
+    "action": "Silvers Rayleigh effect: Destroy Vasco Shot",
+    "card": "OP08-118",
+    "card_id_effect": "OP09-091"
+  },
+  "log-204": {
+    "player": "Godfrett",
+    "action": "Attach 1 Don to Shanks",
+    "card": "OP09-001",
+    "total_don": 1
+  },
+  "log-205": {
+    "player": "Godfrett",
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Jesus Burgess",
+    "defender_id": "OP09-086"
+  },
+  "log-206": {
+    "player": "Game",
+    "action": "Jesus Burgess Destroyed",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "attacker_power": 6000,
+    "defender": "Jesus Burgess",
+    "defender_id": "OP09-086",
+    "defender_power": 5000
+  },
+  "log-207": {
+    "player": "Godfrett",
+    "action": "Attacking",
+    "attacker": "Silvers Rayleigh",
+    "attacker_id": "OP08-118",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-208": {
+    "player": "Game",
+    "action": "Marshall D. Teach hit for 1 damage",
+    "attacker": "Silvers Rayleigh",
+    "attacker_id": "OP08-118",
+    "attacker_power": 8000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-209": {
+    "player": "Godfrett",
+    "action": "Deploy",
+    "card": "Uta",
+    "card_id": "OP09-002"
+  },
+  "log-210": {
+    "player": "Godfrett",
+    "action": "Reveal and Draw",
+    "card": "Lucky Roux",
+    "card_id": "OP09-015"
+  },
+  "log-211": {
+    "player": "Godfrett",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-212": {
+    "player": "Godfrett",
+    "action": "End Turn"
+  },
+  "log-213": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP09-093",
+      "OP10-082"
+    ]
+  },
+  "log-214": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": [
+      "OP10-082"
+    ]
+  },
+  "log-215": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP09-099",
+      "OP10-082",
+      "OP09-096",
+      "EB01-051",
+      "OP09-089",
+      "OP09-088",
+      "OP09-089",
+      "OP09-095",
+      "OP10-086",
+      "OP09-089",
+      "OP09-091",
+      "OP09-086"
+    ]
+  },
+  "log-216": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 3
+  },
+  "log-217": {
+    "player": "Godfrett",
+    "action": "Hand",
+    "cards": [
+      "OP09-004",
+      "ST21-017",
+      "OP06-007",
+      "ST21-014",
+      "OP10-011",
+      "OP09-015"
+    ]
+  },
+  "log-218": {
+    "player": "Godfrett",
+    "action": "Trash",
+    "cards": [
+      "OP09-011",
+      "OP10-005",
+      "OP01-006",
+      "OP10-005",
+      "OP01-006"
+    ]
+  },
+  "log-219": {
+    "player": "Godfrett",
+    "action": "Board",
+    "cards": [
+      "OP08-118",
+      "OP08-118",
+      "OP09-002"
+    ]
+  },
+  "log-220": {
+    "player": "Godfrett",
+    "action": "Life",
+    "value": 4
+  },
+  "log-221": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-222": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-223": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-224": {
+    "player": "Pirate18721",
+    "action": "Hachinosu effect: Rest Hachinosu",
+    "card": "OP09-099"
+  },
+  "log-225": {
+    "player": "Pirate18721",
+    "action": "Hachinosu effect: Trash Hachinosu",
+    "card": "OP09-099"
+  },
+  "log-226": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-227": {
+    "player": "Pirate18721",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-228": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-093"
+  },
+  "log-229": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Nullify effects of Shanks",
+    "card": "OP09-093",
+    "card_id_effect": "OP09-001"
+  },
+  "log-230": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Silvers Rayleigh can't attack next turn",
+    "card": "OP09-093",
+    "card_id_effect": "OP08-118"
+  },
+  "log-231": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Nullify effects of Silvers Rayleigh until next turn end!",
+    "card": "OP09-093",
+    "card_id_effect": "OP08-118"
+  },
+  "log-232": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
+  },
+  "log-233": {
+    "player": "Godfrett",
+    "action": "Discard Lucky Roux for Counter 1000",
+    "card": "OP09-015"
+  },
+  "log-234": {
+    "player": "Game",
+    "action": "Attack Fails",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 5000,
+    "defender": "Shanks",
+    "defender_id": "OP09-001",
+    "defender_power": 6000
+  },
+  "log-235": {
+    "player": "Pirate18721",
+    "action": "Shanks no longer nullified",
+    "card": "OP09-001"
+  },
+  "log-236": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP10-082",
+      "OP09-091"
+    ]
+  },
+  "log-237": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": [
+      "OP10-082",
+      "OP09-093"
+    ]
+  },
+  "log-238": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP09-099",
+      "OP10-082",
+      "OP09-096",
+      "EB01-051",
+      "OP09-089",
+      "OP09-088",
+      "OP09-089",
+      "OP09-095",
+      "OP10-086",
+      "OP09-089",
+      "OP09-091",
+      "OP09-086",
+      "OP09-099"
+    ]
+  },
+  "log-239": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 3
+  },
+  "log-240": {
+    "player": "Godfrett",
+    "action": "Hand",
+    "cards": [
+      "OP09-004",
+      "ST21-017",
+      "OP06-007",
+      "ST21-014",
+      "OP10-011"
+    ]
+  },
+  "log-241": {
+    "player": "Godfrett",
+    "action": "Trash",
+    "cards": [
+      "OP09-011",
+      "OP10-005",
+      "OP01-006",
+      "OP10-005",
+      "OP01-006",
+      "OP09-015"
+    ]
+  },
+  "log-242": {
+    "player": "Godfrett",
+    "action": "Board",
+    "cards": [
+      "OP08-118",
+      "OP08-118",
+      "OP09-002"
+    ]
+  },
+  "log-243": {
+    "player": "Godfrett",
+    "action": "Life",
+    "value": 4
+  },
+  "log-244": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-245": {
+    "player": "Godfrett",
+    "action": "Draw 1 Card"
+  },
+  "log-246": {
+    "player": "Godfrett",
+    "action": "Drew card from deck",
+    "card": "Monkey D. Luffy",
+    "card_id": "ST21-014"
+  },
+  "log-247": {
+    "player": "Godfrett",
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-248": {
+    "player": "Game",
+    "action": "Marshall D. Teach hit for 1 damage",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "attacker_power": 5000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-249": {
+    "player": "Pirate18721",
+    "action": "Liberation effect: Nullify effects of Shanks until next turn end!",
+    "card": "OP10-098",
+    "card_id_effect": "OP09-001"
+  },
+  "log-250": {
+    "player": "Pirate18721",
+    "action": "Liberation effect: Nullify effects of Silvers Rayleigh until next turn end!",
+    "card": "OP10-098",
+    "card_id_effect": "OP08-118"
+  },
+  "log-251": {
+    "player": "Godfrett",
+    "action": "Deploy",
+    "card": "Shanks",
+    "card_id": "OP09-004"
+  },
+  "log-252": {
+    "player": "Godfrett",
+    "action": "Attacking",
+    "attacker": "Silvers Rayleigh",
+    "attacker_id": "OP08-118",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-253": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach Blocks",
+    "card": "OP09-093"
+  },
+  "log-254": {
+    "player": "Pirate18721",
+    "action": "Discard Vasco Shot for Counter 1000",
+    "card": "OP09-091"
+  },
+  "log-255": {
+    "player": "Game",
+    "action": "Attack Fails",
+    "attacker": "Silvers Rayleigh",
+    "attacker_id": "OP08-118",
+    "attacker_power": 8000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-093",
+    "defender_power": 12000
+  },
+  "log-256": {
+    "player": "Godfrett",
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-004",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-093"
+  },
+  "log-257": {
+    "player": "Game",
+    "action": "Marshall D. Teach Destroyed",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-004",
+    "attacker_power": 12000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-093",
+    "defender_power": 11000
+  },
+  "log-258": {
+    "player": "Godfrett",
+    "action": "Shanks no longer nullified",
+    "card": "OP09-001"
+  },
+  "log-259": {
+    "player": "Godfrett",
+    "action": "Silvers Rayleigh no longer nullified",
+    "card": "OP08-118"
+  },
+  "log-260": {
+    "player": "Godfrett",
+    "action": "Silvers Rayleigh is no longer blocked from attacking",
+    "card": "OP08-118"
+  },
+  "log-261": {
+    "player": "Godfrett",
+    "action": "Silvers Rayleigh no longer nullified",
+    "card": "OP08-118"
+  },
+  "log-262": {
+    "player": "Godfrett",
+    "action": "End Turn"
+  },
+  "log-263": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP10-082"
+    ]
+  },
+  "log-264": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": [
+      "OP10-082"
+    ]
+  },
+  "log-265": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP09-099",
+      "OP10-082",
+      "OP09-096",
+      "EB01-051",
+      "OP09-089",
+      "OP09-088",
+      "OP09-089",
+      "OP09-095",
+      "OP10-086",
+      "OP09-089",
+      "OP09-091",
+      "OP09-086",
+      "OP09-099",
+      "OP10-098",
+      "OP09-091",
+      "OP09-093"
+    ]
+  },
+  "log-266": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 2
+  },
+  "log-267": {
+    "player": "Godfrett",
+    "action": "Hand",
+    "cards": [
+      "ST21-017",
+      "OP06-007",
+      "ST21-014",
+      "OP10-011",
+      "ST21-014"
+    ]
+  },
+  "log-268": {
+    "player": "Godfrett",
+    "action": "Trash",
+    "cards": [
+      "OP09-011",
+      "OP10-005",
+      "OP01-006",
+      "OP10-005",
+      "OP01-006",
+      "OP09-015"
+    ]
+  },
+  "log-269": {
+    "player": "Godfrett",
+    "action": "Board",
+    "cards": [
+      "OP08-118",
+      "OP08-118",
+      "OP09-002",
+      "OP09-004"
+    ]
+  },
+  "log-270": {
+    "player": "Godfrett",
+    "action": "Life",
+    "value": 4
+  },
+  "log-271": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-272": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "This is MY AGE!!!!",
+    "card_id": "OP09-096"
+  },
+  "log-273": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-274": {
+    "player": "Pirate18721",
+    "action": "This is MY AGE!!!! effect: Trash 2 Remaining Cards",
+    "card": "OP09-096"
+  },
+  "log-275": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-276": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Kuzan",
+    "card_id": "OP10-082"
+  },
+  "log-277": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
+  },
+  "log-278": {
+    "player": "Godfrett",
+    "action": "Shanks effect: Buff Marshall D. Teach -1000",
+    "card": "OP09-001",
+    "card_id_effect": "OP09-081"
+  },
+  "log-279": {
+    "player": "Game",
+    "action": "Attack Fails",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 4000,
+    "defender": "Shanks",
+    "defender_id": "OP09-001",
+    "defender_power": 5000
+  },
+  "log-280": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": []
+  },
+  "log-281": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": [
+      "OP10-082",
+      "OP09-086",
+      "OP10-082"
+    ]
+  },
+  "log-282": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP09-099",
+      "OP10-082",
+      "OP09-096",
+      "EB01-051",
+      "OP09-089",
+      "OP09-088",
+      "OP09-089",
+      "OP09-095",
+      "OP10-086",
+      "OP09-089",
+      "OP09-091",
+      "OP09-086",
+      "OP09-099",
+      "OP10-098",
+      "OP09-091",
+      "OP09-093",
+      "OP09-096",
+      "OP09-098",
+      "OP09-091"
+    ]
+  },
+  "log-283": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 2
+  },
+  "log-284": {
+    "player": "Godfrett",
+    "action": "Hand",
+    "cards": [
+      "ST21-017",
+      "OP06-007",
+      "ST21-014",
+      "OP10-011",
+      "ST21-014"
+    ]
+  },
+  "log-285": {
+    "player": "Godfrett",
+    "action": "Trash",
+    "cards": [
+      "OP09-011",
+      "OP10-005",
+      "OP01-006",
+      "OP10-005",
+      "OP01-006",
+      "OP09-015"
+    ]
+  },
+  "log-286": {
+    "player": "Godfrett",
+    "action": "Board",
+    "cards": [
+      "OP08-118",
+      "OP08-118",
+      "OP09-002",
+      "OP09-004"
+    ]
+  },
+  "log-287": {
+    "player": "Godfrett",
+    "action": "Life",
+    "value": 4
+  },
+  "log-288": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-289": {
+    "player": "Godfrett",
+    "action": "Draw 1 Card"
+  },
+  "log-290": {
+    "player": "Godfrett",
+    "action": "Drew card from deck",
+    "card": "Silvers Rayleigh",
+    "card_id": "OP08-118"
+  },
+  "log-291": {
+    "player": "Pirate18721",
+    "action": "Concedes!"
+  },
+  "log-292": {
+    "player": "Pirate18721",
+    "action": "Loses"
+  }
+}

@@ -1,0 +1,1891 @@
+{
+  "log-001": {
+    "player": "Shade",
+    "action": "Connecting to JFLND9"
+  },
+  "log-002": {
+    "player": "Shade",
+    "action": "Version is 1.29b"
+  },
+  "log-003": {
+    "player": "Shade",
+    "action": "Leader is Roronoa Zoro",
+    "card": "OP01-001"
+  },
+  "log-004": {
+    "player": "keni",
+    "action": "Has Connected"
+  },
+  "log-005": {
+    "player": "keni",
+    "action": "Version is 1.29b"
+  },
+  "log-006": {
+    "player": "keni",
+    "action": "Leader is Jewelry Bonney",
+    "card": "OP07-019"
+  },
+  "log-007": {
+    "player": "Shade",
+    "action": "Chose to go First"
+  },
+  "log-008": {
+    "player": "Shade",
+    "action": "Drew card from deck",
+    "card": "OP02-015"
+  },
+  "log-009": {
+    "player": "Shade",
+    "action": "Drew card from deck",
+    "card": "OP01-025"
+  },
+  "log-010": {
+    "player": "Shade",
+    "action": "Drew card from deck",
+    "card": "OP02-005"
+  },
+  "log-011": {
+    "player": "Shade",
+    "action": "Drew card from deck",
+    "card": "OP03-008"
+  },
+  "log-012": {
+    "player": "Shade",
+    "action": "Drew card from deck",
+    "card": "OP02-005"
+  },
+  "log-013": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "OP04-031"
+  },
+  "log-014": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "ST16-004"
+  },
+  "log-015": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "OP07-029"
+  },
+  "log-016": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "OP08-023"
+  },
+  "log-017": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "ST02-007"
+  },
+  "log-018": {
+    "player": "keni",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "OP04-031",
+      "ST16-004",
+      "OP07-029",
+      "OP08-023",
+      "ST02-007"
+    ]
+  },
+  "log-019": {
+    "player": "Shade",
+    "action": "Drew card from deck",
+    "card": "OP01-025"
+  },
+  "log-020": {
+    "player": "Shade",
+    "action": "Drew card from deck",
+    "card": "OP01-025"
+  },
+  "log-021": {
+    "player": "Shade",
+    "action": "Drew card from deck",
+    "card": "OP01-029"
+  },
+  "log-022": {
+    "player": "Shade",
+    "action": "Drew card from deck",
+    "card": "ST01-016"
+  },
+  "log-023": {
+    "player": "Shade",
+    "action": "Drew card from deck",
+    "card": "OP02-005"
+  },
+  "log-024": {
+    "player": "Shade",
+    "action": "Mulligan"
+  },
+  "log-025": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "EB01-015"
+  },
+  "log-026": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "OP10-030"
+  },
+  "log-027": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "EB01-012"
+  },
+  "log-028": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "ST16-004"
+  },
+  "log-029": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "OP08-023"
+  },
+  "log-030": {
+    "player": "keni",
+    "action": "Hand after Mulligan",
+    "cards": [
+      "EB01-015",
+      "OP10-030",
+      "EB01-012",
+      "ST16-004",
+      "OP08-023"
+    ]
+  },
+  "log-031": {
+    "player": "keni",
+    "action": "Mulligan"
+  },
+  "log-032": {
+    "player": "Shade",
+    "action": "Draw 1 Don"
+  },
+  "log-033": {
+    "player": "Shade",
+    "action": "End Turn"
+  },
+  "log-034": {
+    "player": "keni",
+    "action": "Hand",
+    "cards": [
+      "EB01-015",
+      "OP10-030",
+      "EB01-012",
+      "ST16-004",
+      "OP08-023"
+    ]
+  },
+  "log-035": {
+    "player": "keni",
+    "action": "Board",
+    "cards": []
+  },
+  "log-036": {
+    "player": "keni",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-037": {
+    "player": "keni",
+    "action": "Life",
+    "value": 5
+  },
+  "log-038": {
+    "player": "Shade",
+    "action": "Hand",
+    "cards": [
+      "OP01-025",
+      "OP01-025",
+      "OP01-029",
+      "ST01-016",
+      "OP02-005"
+    ]
+  },
+  "log-039": {
+    "player": "Shade",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-040": {
+    "player": "Shade",
+    "action": "Board",
+    "cards": []
+  },
+  "log-041": {
+    "player": "Shade",
+    "action": "Life",
+    "value": 5
+  },
+  "log-042": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "EB01-012"
+  },
+  "log-043": {
+    "player": "keni",
+    "action": "Draw 1 Card"
+  },
+  "log-044": {
+    "player": "keni",
+    "action": "Draw 2 Don"
+  },
+  "log-045": {
+    "player": "keni",
+    "action": "Hand",
+    "cards": [
+      "EB01-015",
+      "OP10-030",
+      "EB01-012",
+      "ST16-004",
+      "OP08-023",
+      "EB01-012"
+    ]
+  },
+  "log-046": {
+    "player": "keni",
+    "action": "Board",
+    "cards": []
+  },
+  "log-047": {
+    "player": "keni",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-048": {
+    "player": "keni",
+    "action": "Life",
+    "value": 5
+  },
+  "log-049": {
+    "player": "Shade",
+    "action": "Hand",
+    "cards": [
+      "OP01-025",
+      "OP01-025",
+      "OP01-029",
+      "ST01-016",
+      "OP02-005"
+    ]
+  },
+  "log-050": {
+    "player": "Shade",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-051": {
+    "player": "Shade",
+    "action": "Board",
+    "cards": []
+  },
+  "log-052": {
+    "player": "Shade",
+    "action": "Life",
+    "value": 5
+  },
+  "log-053": {
+    "player": "keni",
+    "action": "End Turn"
+  },
+  "log-054": {
+    "player": "Shade",
+    "action": "Draw 1 Card"
+  },
+  "log-055": {
+    "player": "Shade",
+    "action": "Drew card from deck",
+    "card": "ST01-011"
+  },
+  "log-056": {
+    "player": "Shade",
+    "action": "Draw 2 Don"
+  },
+  "log-057": {
+    "player": "Shade",
+    "action": "attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-001",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-058": {
+    "player": "keni",
+    "action": "Discard for Counter 1000",
+    "card": "EB01-012"
+  },
+  "log-059": {
+    "player": "Shade",
+    "action": "Attack Fails",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-001",
+    "attacker_power": 5000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 6000
+  },
+  "log-060": {
+    "player": "Shade",
+    "action": "Deploy",
+    "card": "OP02-005"
+  },
+  "log-061": {
+    "player": "Shade",
+    "action": "Reveal and Draw",
+    "card": "OP03-008"
+  },
+  "log-062": {
+    "player": "Shade",
+    "action": "Deploy",
+    "card": "OP03-008"
+  },
+  "log-063": {
+    "player": "Shade",
+    "action": "Picked no cards to Draw"
+  },
+  "log-064": {
+    "player": "Shade",
+    "action": "End Turn"
+  },
+  "log-065": {
+    "player": "keni",
+    "action": "Hand",
+    "cards": [
+      "EB01-015",
+      "OP10-030",
+      "EB01-012",
+      "ST16-004",
+      "OP08-023"
+    ]
+  },
+  "log-066": {
+    "player": "keni",
+    "action": "Board",
+    "cards": []
+  },
+  "log-067": {
+    "player": "keni",
+    "action": "Trash",
+    "cards": [
+      "EB01-012"
+    ]
+  },
+  "log-068": {
+    "player": "keni",
+    "action": "Life",
+    "value": 5
+  },
+  "log-069": {
+    "player": "Shade",
+    "action": "Hand",
+    "cards": [
+      "OP01-025",
+      "OP01-025",
+      "OP01-029",
+      "ST01-016",
+      "ST01-011"
+    ]
+  },
+  "log-070": {
+    "player": "Shade",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-071": {
+    "player": "Shade",
+    "action": "Board",
+    "cards": [
+      "OP02-005",
+      "OP03-008"
+    ]
+  },
+  "log-072": {
+    "player": "Shade",
+    "action": "Life",
+    "value": 5
+  },
+  "log-073": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "OP05-030"
+  },
+  "log-074": {
+    "player": "keni",
+    "action": "Draw 1 Card"
+  },
+  "log-075": {
+    "player": "keni",
+    "action": "Draw 2 Don"
+  },
+  "log-076": {
+    "player": "keni",
+    "action": "Deploy",
+    "card": "EB01-015"
+  },
+  "log-077": {
+    "player": "keni",
+    "action": "Rest",
+    "card": "OP02-005",
+    "effect_card": "EB01-015"
+  },
+  "log-078": {
+    "player": "keni",
+    "action": "Deploy",
+    "card": "OP05-030"
+  },
+  "log-079": {
+    "player": "keni",
+    "action": "attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Curly Dadan",
+    "defender_id": "OP02-005"
+  },
+  "log-080": {
+    "player": "Shade",
+    "action": "Destroyed",
+    "card": "OP02-005"
+  },
+  "log-081": {
+    "player": "keni",
+    "action": "Hand",
+    "cards": [
+      "OP10-030",
+      "EB01-012",
+      "ST16-004",
+      "OP08-023"
+    ]
+  },
+  "log-082": {
+    "player": "keni",
+    "action": "Board",
+    "cards": [
+      "EB01-015",
+      "OP05-030"
+    ]
+  },
+  "log-083": {
+    "player": "keni",
+    "action": "Trash",
+    "cards": [
+      "EB01-012"
+    ]
+  },
+  "log-084": {
+    "player": "keni",
+    "action": "Life",
+    "value": 5
+  },
+  "log-085": {
+    "player": "Shade",
+    "action": "Hand",
+    "cards": [
+      "OP01-025",
+      "OP01-025",
+      "OP01-029",
+      "ST01-016",
+      "ST01-011"
+    ]
+  },
+  "log-086": {
+    "player": "Shade",
+    "action": "Trash",
+    "cards": [
+      "OP02-005"
+    ]
+  },
+  "log-087": {
+    "player": "Shade",
+    "action": "Board",
+    "cards": [
+      "OP03-008"
+    ]
+  },
+  "log-088": {
+    "player": "Shade",
+    "action": "Life",
+    "value": 5
+  },
+  "log-089": {
+    "player": "keni",
+    "action": "End Turn"
+  },
+  "log-090": {
+    "player": "Shade",
+    "action": "Draw 1 Card"
+  },
+  "log-091": {
+    "player": "Shade",
+    "action": "Drew card from deck",
+    "card": "OP05-010"
+  },
+  "log-092": {
+    "player": "Shade",
+    "action": "Draw 2 Don"
+  },
+  "log-093": {
+    "player": "Shade",
+    "action": "Deploy",
+    "card": "OP05-010"
+  },
+  "log-094": {
+    "player": "Shade",
+    "action": "Destroy",
+    "card": "OP05-030",
+    "effect_card": "OP05-010"
+  },
+  "log-095": {
+    "player": "Shade",
+    "action": "Attach 1 Don to",
+    "card": "OP01-001",
+    "total_don": 1
+  },
+  "log-096": {
+    "player": "Shade",
+    "action": "attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-001",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-097": {
+    "player": "keni",
+    "action": "Rest",
+    "card": "OP03-008",
+    "effect_card": "OP07-019"
+  },
+  "log-098": {
+    "player": "Shade",
+    "action": "Jewelry Bonney hit for 1 damage",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-001",
+    "attacker_power": 6000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-099": {
+    "player": "Shade",
+    "action": "Deploy",
+    "card": "OP01-025"
+  },
+  "log-100": {
+    "player": "Shade",
+    "action": "attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-025",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-101": {
+    "player": "Shade",
+    "action": "Jewelry Bonney hit for 1 damage",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-025",
+    "attacker_power": 6000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-102": {
+    "player": "Shade",
+    "action": "End Turn"
+  },
+  "log-103": {
+    "player": "keni",
+    "action": "Hand",
+    "cards": [
+      "OP10-030",
+      "EB01-012",
+      "ST16-004",
+      "OP08-023",
+      "OP10-032",
+      "OP07-029"
+    ]
+  },
+  "log-104": {
+    "player": "keni",
+    "action": "Board",
+    "cards": [
+      "EB01-015"
+    ]
+  },
+  "log-105": {
+    "player": "keni",
+    "action": "Trash",
+    "cards": [
+      "EB01-012",
+      "OP05-030"
+    ]
+  },
+  "log-106": {
+    "player": "keni",
+    "action": "Life",
+    "value": 3
+  },
+  "log-107": {
+    "player": "Shade",
+    "action": "Hand",
+    "cards": [
+      "OP01-025",
+      "OP01-029",
+      "ST01-016",
+      "ST01-011"
+    ]
+  },
+  "log-108": {
+    "player": "Shade",
+    "action": "Trash",
+    "cards": [
+      "OP02-005"
+    ]
+  },
+  "log-109": {
+    "player": "Shade",
+    "action": "Board",
+    "cards": [
+      "OP03-008",
+      "OP05-010",
+      "OP01-025"
+    ]
+  },
+  "log-110": {
+    "player": "Shade",
+    "action": "Life",
+    "value": 5
+  },
+  "log-111": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "EB01-012"
+  },
+  "log-112": {
+    "player": "keni",
+    "action": "Draw 1 Card"
+  },
+  "log-113": {
+    "player": "keni",
+    "action": "Draw 2 Don"
+  },
+  "log-114": {
+    "player": "keni",
+    "action": "Deploy",
+    "card": "OP08-023"
+  },
+  "log-115": {
+    "player": "keni",
+    "action": "will not Activate during next Refresh",
+    "card": "OP01-025",
+    "effect_card": "OP08-023"
+  },
+  "log-116": {
+    "player": "keni",
+    "action": "attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Buggy",
+    "defender_id": "OP03-008"
+  },
+  "log-117": {
+    "player": "Shade",
+    "action": "Destroyed",
+    "card": "OP03-008"
+  },
+  "log-118": {
+    "player": "keni",
+    "action": "Hand",
+    "cards": [
+      "OP10-030",
+      "EB01-012",
+      "ST16-004",
+      "OP10-032",
+      "OP07-029",
+      "EB01-012"
+    ]
+  },
+  "log-119": {
+    "player": "keni",
+    "action": "Board",
+    "cards": [
+      "EB01-015",
+      "OP08-023"
+    ]
+  },
+  "log-120": {
+    "player": "keni",
+    "action": "Trash",
+    "cards": [
+      "EB01-012",
+      "OP05-030"
+    ]
+  },
+  "log-121": {
+    "player": "keni",
+    "action": "Life",
+    "value": 3
+  },
+  "log-122": {
+    "player": "Shade",
+    "action": "Hand",
+    "cards": [
+      "OP01-025",
+      "OP01-029",
+      "ST01-016",
+      "ST01-011"
+    ]
+  },
+  "log-123": {
+    "player": "Shade",
+    "action": "Trash",
+    "cards": [
+      "OP02-005",
+      "OP03-008"
+    ]
+  },
+  "log-124": {
+    "player": "Shade",
+    "action": "Board",
+    "cards": [
+      "OP05-010",
+      "OP01-025"
+    ]
+  },
+  "log-125": {
+    "player": "Shade",
+    "action": "Life",
+    "value": 5
+  },
+  "log-126": {
+    "player": "keni",
+    "action": "End Turn"
+  },
+  "log-127": {
+    "player": "Shade",
+    "action": "Draw 1 Card"
+  },
+  "log-128": {
+    "player": "Shade",
+    "action": "Drew card from deck",
+    "card": "OP02-016"
+  },
+  "log-129": {
+    "player": "Shade",
+    "action": "Draw 2 Don"
+  },
+  "log-130": {
+    "player": "Shade",
+    "action": "Attach 2 Don to",
+    "card": "OP01-001",
+    "total_don": 2
+  },
+  "log-131": {
+    "player": "Shade",
+    "action": "Attach 1 Don to",
+    "card": "OP01-001",
+    "total_don": 3
+  },
+  "log-132": {
+    "player": "Shade",
+    "action": "attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-001",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-133": {
+    "player": "keni",
+    "action": "Rest",
+    "card": "OP05-010",
+    "effect_card": "OP07-019"
+  },
+  "log-134": {
+    "player": "Shade",
+    "action": "Jewelry Bonney hit for 1 damage",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-001",
+    "attacker_power": 8000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-135": {
+    "player": "Shade",
+    "action": "Deploy",
+    "card": "OP01-025"
+  },
+  "log-136": {
+    "player": "Shade",
+    "action": "attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-025",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-137": {
+    "player": "keni",
+    "action": "Discard for Counter 2000",
+    "card": "OP10-032"
+  },
+  "log-138": {
+    "player": "Shade",
+    "action": "Attack Fails",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-025",
+    "attacker_power": 6000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 7000
+  },
+  "log-139": {
+    "player": "Shade",
+    "action": "End Turn"
+  },
+  "log-140": {
+    "player": "keni",
+    "action": "Hand",
+    "cards": [
+      "OP10-030",
+      "EB01-012",
+      "ST16-004",
+      "OP07-029",
+      "EB01-012",
+      "ST02-007"
+    ]
+  },
+  "log-141": {
+    "player": "keni",
+    "action": "Board",
+    "cards": [
+      "EB01-015",
+      "OP08-023"
+    ]
+  },
+  "log-142": {
+    "player": "keni",
+    "action": "Trash",
+    "cards": [
+      "EB01-012",
+      "OP05-030",
+      "OP10-032"
+    ]
+  },
+  "log-143": {
+    "player": "keni",
+    "action": "Life",
+    "value": 2
+  },
+  "log-144": {
+    "player": "Shade",
+    "action": "Hand",
+    "cards": [
+      "OP01-029",
+      "ST01-016",
+      "ST01-011",
+      "OP02-016"
+    ]
+  },
+  "log-145": {
+    "player": "Shade",
+    "action": "Trash",
+    "cards": [
+      "OP02-005",
+      "OP03-008"
+    ]
+  },
+  "log-146": {
+    "player": "Shade",
+    "action": "Board",
+    "cards": [
+      "OP05-010",
+      "OP01-025",
+      "OP01-025"
+    ]
+  },
+  "log-147": {
+    "player": "Shade",
+    "action": "Life",
+    "value": 5
+  },
+  "log-148": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "ST02-008"
+  },
+  "log-149": {
+    "player": "keni",
+    "action": "Draw 1 Card"
+  },
+  "log-150": {
+    "player": "keni",
+    "action": "Draw 2 Don"
+  },
+  "log-151": {
+    "player": "keni",
+    "action": "Deploy",
+    "card": "OP07-029"
+  },
+  "log-152": {
+    "player": "keni",
+    "action": "Attach 1 Don to",
+    "card": "OP08-023",
+    "total_don": 1
+  },
+  "log-153": {
+    "player": "keni",
+    "action": "attacking",
+    "attacker": "Carrot",
+    "attacker_id": "OP08-023",
+    "defender": "Roronoa Zoro",
+    "defender_id": "OP01-025"
+  },
+  "log-154": {
+    "player": "keni",
+    "action": "will not Activate during next Refresh",
+    "card": "OP01-025",
+    "effect_card": "OP08-023"
+  },
+  "log-155": {
+    "player": "Shade",
+    "action": "Destroyed",
+    "card": "OP01-025",
+    "attacker": "Carrot",
+    "attacker_id": "OP08-023",
+    "attacker_power": 7000,
+    "defender": "Roronoa Zoro",
+    "defender_id": "OP01-025",
+    "defender_power": 5000
+  },
+  "log-156": {
+    "player": "keni",
+    "action": "attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Roronoa Zoro",
+    "defender_id": "OP01-001"
+  },
+  "log-157": {
+    "player": "keni",
+    "action": "Roronoa Zoro hit for 1 damage",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 5000,
+    "defender": "Roronoa Zoro",
+    "defender_id": "OP01-001",
+    "defender_power": 5000
+  },
+  "log-158": {
+    "player": "keni",
+    "action": "Hand",
+    "cards": [
+      "OP10-030",
+      "EB01-012",
+      "ST16-004",
+      "EB01-012",
+      "ST02-007",
+      "ST02-008"
+    ]
+  },
+  "log-159": {
+    "player": "keni",
+    "action": "Board",
+    "cards": [
+      "EB01-015",
+      "OP08-023",
+      "OP07-029"
+    ]
+  },
+  "log-160": {
+    "player": "keni",
+    "action": "Trash",
+    "cards": [
+      "EB01-012",
+      "OP05-030",
+      "OP10-032"
+    ]
+  },
+  "log-161": {
+    "player": "keni",
+    "action": "Life",
+    "value": 2
+  },
+  "log-162": {
+    "player": "Shade",
+    "action": "Hand",
+    "cards": [
+      "OP01-029",
+      "ST01-016",
+      "ST01-011",
+      "OP02-016",
+      "ST21-017"
+    ]
+  },
+  "log-163": {
+    "player": "Shade",
+    "action": "Trash",
+    "cards": [
+      "OP02-005",
+      "OP03-008",
+      "OP01-025"
+    ]
+  },
+  "log-164": {
+    "player": "Shade",
+    "action": "Board",
+    "cards": [
+      "OP05-010",
+      "OP01-025"
+    ]
+  },
+  "log-165": {
+    "player": "Shade",
+    "action": "Life",
+    "value": 4
+  },
+  "log-166": {
+    "player": "keni",
+    "action": "End Turn"
+  },
+  "log-167": {
+    "player": "Shade",
+    "action": "Draw 1 Card"
+  },
+  "log-168": {
+    "player": "Shade",
+    "action": "Drew card from deck",
+    "card": "OP01-013"
+  },
+  "log-169": {
+    "player": "Shade",
+    "action": "Draw 2 Don"
+  },
+  "log-170": {
+    "player": "Shade",
+    "action": "Attach 1 Don to",
+    "card": "OP01-001",
+    "total_don": 1
+  },
+  "log-171": {
+    "player": "Shade",
+    "action": "Buff",
+    "card": "OP08-023",
+    "value": -5000,
+    "effect_card": "ST21-017"
+  },
+  "log-172": {
+    "player": "Shade",
+    "action": "Destroy",
+    "card": "OP08-023",
+    "effect_card": "ST21-017"
+  },
+  "log-173": {
+    "player": "Shade",
+    "action": "Deploy",
+    "card": "OP01-013"
+  },
+  "log-174": {
+    "player": "Shade",
+    "action": "Loses 1 Life"
+  },
+  "log-175": {
+    "player": "Shade",
+    "action": "Attach 2 Rested Don to",
+    "card": "OP01-013",
+    "effect_card": "OP01-013"
+  },
+  "log-176": {
+    "player": "Shade",
+    "action": "Buff Self 2000",
+    "card": "OP01-013",
+    "effect_card": "OP01-013"
+  },
+  "log-177": {
+    "player": "Shade",
+    "action": "Deploy",
+    "card": "OP03-008"
+  },
+  "log-178": {
+    "player": "Shade",
+    "action": "Reveal and Draw",
+    "card": "ST01-016"
+  },
+  "log-179": {
+    "player": "Shade",
+    "action": "Attach 1 Don to",
+    "card": "OP01-001",
+    "total_don": 2
+  },
+  "log-180": {
+    "player": "Shade",
+    "action": "attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-001",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-181": {
+    "player": "keni",
+    "action": "Rest",
+    "card": "OP03-008",
+    "effect_card": "OP07-019"
+  },
+  "log-182": {
+    "player": "keni",
+    "action": "Blocks",
+    "card": "OP07-029"
+  },
+  "log-183": {
+    "player": "keni",
+    "action": "Discard for Counter 1000",
+    "card": "ST02-007"
+  },
+  "log-184": {
+    "player": "Shade",
+    "action": "Attack Fails",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-001",
+    "attacker_power": 7000,
+    "defender": "Basil Hawkins",
+    "defender_id": "OP07-029",
+    "defender_power": 8000
+  },
+  "log-185": {
+    "player": "Shade",
+    "action": "End Turn"
+  },
+  "log-186": {
+    "player": "keni",
+    "action": "Hand",
+    "cards": [
+      "OP10-030",
+      "EB01-012",
+      "ST16-004",
+      "EB01-012",
+      "ST02-008"
+    ]
+  },
+  "log-187": {
+    "player": "keni",
+    "action": "Board",
+    "cards": [
+      "EB01-015",
+      "OP07-029"
+    ]
+  },
+  "log-188": {
+    "player": "keni",
+    "action": "Trash",
+    "cards": [
+      "EB01-012",
+      "OP05-030",
+      "OP10-032",
+      "OP08-023",
+      "ST02-007"
+    ]
+  },
+  "log-189": {
+    "player": "keni",
+    "action": "Life",
+    "value": 2
+  },
+  "log-190": {
+    "player": "Shade",
+    "action": "Hand",
+    "cards": [
+      "OP01-029",
+      "ST01-016",
+      "ST01-011",
+      "OP02-016",
+      "ST01-016"
+    ]
+  },
+  "log-191": {
+    "player": "Shade",
+    "action": "Trash",
+    "cards": [
+      "OP02-005",
+      "OP03-008",
+      "OP01-025",
+      "ST21-017"
+    ]
+  },
+  "log-192": {
+    "player": "Shade",
+    "action": "Board",
+    "cards": [
+      "OP05-010",
+      "OP01-025",
+      "OP01-013",
+      "OP03-008"
+    ]
+  },
+  "log-193": {
+    "player": "Shade",
+    "action": "Life",
+    "value": 3
+  },
+  "log-194": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "OP07-021"
+  },
+  "log-195": {
+    "player": "keni",
+    "action": "Draw 1 Card"
+  },
+  "log-196": {
+    "player": "keni",
+    "action": "Draw 2 Don"
+  },
+  "log-197": {
+    "player": "keni",
+    "action": "Deploy",
+    "card": "OP07-021"
+  },
+  "log-198": {
+    "player": "keni",
+    "action": "Deploy",
+    "card": "OP10-030"
+  },
+  "log-199": {
+    "player": "keni",
+    "action": "attacking",
+    "attacker": "Basil Hawkins",
+    "attacker_id": "OP07-029",
+    "defender": "Roronoa Zoro",
+    "defender_id": "OP01-025"
+  },
+  "log-200": {
+    "player": "Shade",
+    "action": "Destroyed",
+    "card": "OP01-025",
+    "attacker": "Basil Hawkins",
+    "attacker_id": "OP07-029",
+    "attacker_power": 7000,
+    "defender": "Roronoa Zoro",
+    "defender_id": "OP01-025",
+    "defender_power": 5000
+  },
+  "log-201": {
+    "player": "keni",
+    "action": "attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Buggy",
+    "defender_id": "OP03-008"
+  },
+  "log-202": {
+    "player": "Shade",
+    "action": "Destroyed",
+    "card": "OP03-008",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 5000,
+    "defender": "Buggy",
+    "defender_id": "OP03-008",
+    "defender_power": 3000
+  },
+  "log-203": {
+    "player": "keni",
+    "action": "Hand",
+    "cards": [
+      "EB01-012",
+      "ST16-004",
+      "EB01-012",
+      "ST02-008"
+    ]
+  },
+  "log-204": {
+    "player": "keni",
+    "action": "Board",
+    "cards": [
+      "EB01-015",
+      "OP07-029",
+      "OP07-021",
+      "OP10-030"
+    ]
+  },
+  "log-205": {
+    "player": "keni",
+    "action": "Trash",
+    "cards": [
+      "EB01-012",
+      "OP05-030",
+      "OP10-032",
+      "OP08-023",
+      "ST02-007"
+    ]
+  },
+  "log-206": {
+    "player": "keni",
+    "action": "Life",
+    "value": 2
+  },
+  "log-207": {
+    "player": "Shade",
+    "action": "Hand",
+    "cards": [
+      "OP01-029",
+      "ST01-016",
+      "ST01-011",
+      "OP02-016",
+      "ST01-016"
+    ]
+  },
+  "log-208": {
+    "player": "Shade",
+    "action": "Trash",
+    "cards": [
+      "OP02-005",
+      "OP03-008",
+      "OP01-025",
+      "ST21-017",
+      "OP01-025",
+      "OP03-008"
+    ]
+  },
+  "log-209": {
+    "player": "Shade",
+    "action": "Board",
+    "cards": [
+      "OP05-010",
+      "OP01-013"
+    ]
+  },
+  "log-210": {
+    "player": "Shade",
+    "action": "Life",
+    "value": 3
+  },
+  "log-211": {
+    "player": "keni",
+    "action": "Activate 1 Don",
+    "card": "OP07-021"
+  },
+  "log-212": {
+    "player": "keni",
+    "action": "End Turn"
+  },
+  "log-213": {
+    "player": "Shade",
+    "action": "Draw 1 Card"
+  },
+  "log-214": {
+    "player": "Shade",
+    "action": "Drew card from deck",
+    "card": "OP01-013"
+  },
+  "log-215": {
+    "player": "Shade",
+    "action": "Draw 2 Don"
+  },
+  "log-216": {
+    "player": "Shade",
+    "action": "Deploy",
+    "card": "ST01-011"
+  },
+  "log-217": {
+    "player": "Shade",
+    "action": "Attach 1 Rested Don to",
+    "card": "OP01-013",
+    "effect_card": "ST01-011"
+  },
+  "log-218": {
+    "player": "Shade",
+    "action": "Attach 1 Rested Don to",
+    "card": "OP01-013",
+    "effect_card": "ST01-011"
+  },
+  "log-219": {
+    "player": "Shade",
+    "action": "Deploy",
+    "card": "OP01-013"
+  },
+  "log-220": {
+    "player": "Shade",
+    "action": "Attach 1 Don to",
+    "card": "OP01-001",
+    "total_don": 1
+  },
+  "log-221": {
+    "player": "Shade",
+    "action": "Grant Unblockable to",
+    "card": "OP01-013",
+    "effect_card": "ST01-016"
+  },
+  "log-222": {
+    "player": "Shade",
+    "action": "Loses 1 Life"
+  },
+  "log-223": {
+    "player": "Shade",
+    "action": "Attach 2 Rested Don to",
+    "card": "OP01-013",
+    "effect_card": "OP01-013"
+  },
+  "log-224": {
+    "player": "Shade",
+    "action": "Buff Self 2000",
+    "card": "OP01-013",
+    "effect_card": "OP01-013"
+  },
+  "log-225": {
+    "player": "Shade",
+    "action": "attacking",
+    "attacker": "Sanji",
+    "attacker_id": "OP01-013",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-226": {
+    "player": "keni",
+    "action": "Rest",
+    "card": "OP01-013",
+    "effect_card": "OP07-019"
+  },
+  "log-227": {
+    "player": "Shade",
+    "action": "Jewelry Bonney hit for 1 damage",
+    "attacker": "Sanji",
+    "attacker_id": "OP01-013",
+    "attacker_power": 10000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-228": {
+    "player": "Shade",
+    "action": "Attach 1 Don to",
+    "card": "OP01-001",
+    "total_don": 2
+  },
+  "log-229": {
+    "player": "Shade",
+    "action": "attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-001",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-230": {
+    "player": "keni",
+    "action": "Discard for Counter 2000",
+    "card": "ST02-008"
+  },
+  "log-231": {
+    "player": "keni",
+    "action": "Discard for Counter 1000",
+    "card": "EB01-012"
+  },
+  "log-232": {
+    "player": "Shade",
+    "action": "Attack Fails",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-001",
+    "attacker_power": 7000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 8000
+  },
+  "log-233": {
+    "player": "Shade",
+    "action": "Deploy",
+    "card": "OP02-016"
+  },
+  "log-234": {
+    "player": "Shade",
+    "action": "Buff",
+    "card": "OP05-010",
+    "value": 3000,
+    "effect_card": "OP02-016"
+  },
+  "log-235": {
+    "player": "Shade",
+    "action": "attacking",
+    "attacker": "Nico Robin",
+    "attacker_id": "OP05-010",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-236": {
+    "player": "keni",
+    "action": "Discard for Counter 2000",
+    "card": "ST02-008"
+  },
+  "log-237": {
+    "player": "Shade",
+    "action": "Attack Fails",
+    "attacker": "Nico Robin",
+    "attacker_id": "OP05-010",
+    "attacker_power": 6000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 7000
+  },
+  "log-238": {
+    "player": "Shade",
+    "action": "End Turn"
+  },
+  "log-239": {
+    "player": "keni",
+    "action": "Hand",
+    "cards": [
+      "EB01-012",
+      "ST16-004"
+    ]
+  },
+  "log-240": {
+    "player": "keni",
+    "action": "Board",
+    "cards": [
+      "EB01-015",
+      "OP07-029",
+      "OP07-021",
+      "OP10-030"
+    ]
+  },
+  "log-241": {
+    "player": "keni",
+    "action": "Trash",
+    "cards": [
+      "EB01-012",
+      "OP05-030",
+      "OP10-032",
+      "OP08-023",
+      "ST02-007",
+      "ST02-008",
+      "EB01-012",
+      "ST02-008"
+    ]
+  },
+  "log-242": {
+    "player": "keni",
+    "action": "Life",
+    "value": 1
+  },
+  "log-243": {
+    "player": "Shade",
+    "action": "Hand",
+    "cards": [
+      "OP01-029",
+      "ST01-016",
+      "ST01-011"
+    ]
+  },
+  "log-244": {
+    "player": "Shade",
+    "action": "Trash",
+    "cards": [
+      "OP02-005",
+      "OP03-008",
+      "OP01-025",
+      "ST21-017",
+      "OP01-025",
+      "OP03-008",
+      "ST01-016"
+    ]
+  },
+  "log-245": {
+    "player": "Shade",
+    "action": "Board",
+    "cards": [
+      "OP05-010",
+      "OP01-013",
+      "ST01-011",
+      "OP01-013",
+      "OP02-016"
+    ]
+  },
+  "log-246": {
+    "player": "Shade",
+    "action": "Life",
+    "value": 2
+  },
+  "log-247": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "OP05-030"
+  },
+  "log-248": {
+    "player": "keni",
+    "action": "Draw 1 Card"
+  },
+  "log-249": {
+    "player": "keni",
+    "action": "attacking",
+    "attacker": "Basil Hawkins",
+    "attacker_id": "OP07-029",
+    "defender": "Roronoa Zoro",
+    "defender_id": "OP01-001"
+  },
+  "log-250": {
+    "player": "keni",
+    "action": "Roronoa Zoro hit for 1 damage",
+    "attacker": "Basil Hawkins",
+    "attacker_id": "OP07-029",
+    "attacker_power": 7000,
+    "defender": "Roronoa Zoro",
+    "defender_id": "OP01-001",
+    "defender_power": 5000
+  },
+  "log-251": {
+    "player": "Shade",
+    "action": "Give -3000 to",
+    "card": "OP10-030",
+    "effect_card": "OP04-016"
+  },
+  "log-252": {
+    "player": "keni",
+    "action": "Attach 3 Don to",
+    "card": "OP07-021",
+    "total_don": 3
+  },
+  "log-253": {
+    "player": "keni",
+    "action": "attacking",
+    "attacker": "Uroge",
+    "attacker_id": "OP07-021",
+    "defender": "Roronoa Zoro",
+    "defender_id": "OP01-001"
+  },
+  "log-254": {
+    "player": "Shade",
+    "action": "Counter 2000",
+    "card": "OP01-029"
+  },
+  "log-255": {
+    "player": "Shade",
+    "action": "Counter 2000",
+    "card": "OP01-029"
+  },
+  "log-256": {
+    "player": "Shade",
+    "action": "Attack Fails",
+    "attacker": "Uroge",
+    "attacker_id": "OP07-021",
+    "attacker_power": 8000,
+    "defender": "Roronoa Zoro",
+    "defender_id": "OP01-001",
+    "defender_power": 9000
+  },
+  "log-257": {
+    "player": "keni",
+    "action": "Attach 2 Don to",
+    "card": "OP07-019",
+    "total_don": 2
+  },
+  "log-258": {
+    "player": "keni",
+    "action": "attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Roronoa Zoro",
+    "defender_id": "OP01-001"
+  },
+  "log-259": {
+    "player": "keni",
+    "action": "Roronoa Zoro hit for 1 damage",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 7000,
+    "defender": "Roronoa Zoro",
+    "defender_id": "OP01-001",
+    "defender_power": 5000
+  },
+  "log-260": {
+    "player": "keni",
+    "action": "Attach 3 Don to",
+    "card": "OP10-030",
+    "total_don": 3
+  },
+  "log-261": {
+    "player": "keni",
+    "action": "attacking",
+    "attacker": "Smoker",
+    "attacker_id": "OP10-030",
+    "defender": "Roronoa Zoro",
+    "defender_id": "OP01-001"
+  },
+  "log-262": {
+    "player": "Shade",
+    "action": "Discard for Counter 2000",
+    "card": "OP02-015"
+  },
+  "log-263": {
+    "player": "Shade",
+    "action": "Discard for Counter 2000",
+    "card": "ST01-011"
+  },
+  "log-264": {
+    "player": "Shade",
+    "action": "Attack Fails",
+    "attacker": "Smoker",
+    "attacker_id": "OP10-030",
+    "attacker_power": 7000,
+    "defender": "Roronoa Zoro",
+    "defender_id": "OP01-001",
+    "defender_power": 9000
+  },
+  "log-265": {
+    "player": "keni",
+    "action": "Deploy",
+    "card": "OP05-030"
+  },
+  "log-266": {
+    "player": "keni",
+    "action": "Hand",
+    "cards": [
+      "EB01-012",
+      "ST16-004"
+    ]
+  },
+  "log-267": {
+    "player": "keni",
+    "action": "Board",
+    "cards": [
+      "EB01-015",
+      "OP07-029",
+      "OP07-021",
+      "OP10-030",
+      "OP05-030"
+    ]
+  },
+  "log-268": {
+    "player": "keni",
+    "action": "Trash",
+    "cards": [
+      "EB01-012",
+      "OP05-030",
+      "OP10-032",
+      "OP08-023",
+      "ST02-007",
+      "ST02-008",
+      "EB01-012",
+      "ST02-008"
+    ]
+  },
+  "log-269": {
+    "player": "keni",
+    "action": "Life",
+    "value": 1
+  },
+  "log-270": {
+    "player": "Shade",
+    "action": "Hand",
+    "cards": [
+      "ST01-016"
+    ]
+  },
+  "log-271": {
+    "player": "Shade",
+    "action": "Trash",
+    "cards": [
+      "OP02-005",
+      "OP03-008",
+      "OP01-025",
+      "ST21-017",
+      "OP01-025",
+      "OP03-008",
+      "ST01-016",
+      "OP04-016",
+      "OP01-029",
+      "OP02-015",
+      "ST01-011"
+    ]
+  },
+  "log-272": {
+    "player": "Shade",
+    "action": "Board",
+    "cards": [
+      "OP05-010",
+      "OP01-013",
+      "ST01-011",
+      "OP01-013",
+      "OP02-016"
+    ]
+  },
+  "log-273": {
+    "player": "Shade",
+    "action": "Life",
+    "value": 0
+  },
+  "log-274": {
+    "player": "keni",
+    "action": "Activate 1 Don",
+    "card": "OP07-021"
+  },
+  "log-275": {
+    "player": "keni",
+    "action": "End Turn"
+  },
+  "log-276": {
+    "player": "Shade",
+    "action": "Draw 1 Card"
+  },
+  "log-277": {
+    "player": "Shade",
+    "action": "Drew card from deck",
+    "card": "OP01-029"
+  },
+  "log-278": {
+    "player": "Shade",
+    "action": "Attach 1 Don to",
+    "card": "OP01-001",
+    "total_don": 1
+  },
+  "log-279": {
+    "player": "Shade",
+    "action": "Attach 2 Don to",
+    "card": "OP01-001",
+    "total_don": 3
+  },
+  "log-280": {
+    "player": "Shade",
+    "action": "attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-001",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-281": {
+    "player": "keni",
+    "action": "Rest",
+    "card": "OP01-013",
+    "effect_card": "OP07-019"
+  },
+  "log-282": {
+    "player": "Shade",
+    "action": "Jewelry Bonney hit for 1 damage",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-001",
+    "attacker_power": 8000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-283": {
+    "player": "Shade",
+    "action": "Attach 6 Don to",
+    "card": "OP01-013",
+    "total_don": 6
+  },
+  "log-284": {
+    "player": "Shade",
+    "action": "Grant Unblockable to",
+    "card": "OP01-013",
+    "effect_card": "ST01-016"
+  },
+  "log-285": {
+    "player": "Shade",
+    "action": "attacking",
+    "attacker": "Sanji",
+    "attacker_id": "OP01-013",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-286": {
+    "player": "keni",
+    "action": "Discard for Counter 1000",
+    "card": "EB01-012"
+  }
+}

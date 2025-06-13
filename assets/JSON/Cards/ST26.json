@@ -1,0 +1,62 @@
+{
+  "ST26-001": {
+    "name": "Soba Mask ST26-001",
+    "color": "purple",
+    "type": "character",
+    "group": "Straw Hat Crew",
+    "attribute": "Strike",
+    "cost": 7,
+    "power": 9000,
+    "counter": 0,
+    "effect": "If you have a [San-Gorou] or [Sanji] Character with 7000 base power or more, give this card in your hand −5 cost. [On Play] Return all of your [San-Gorou] and [Sanji] Characters to the owner's hand.",
+    "images": "Images/ST26/ST26-001.png"
+  },
+  "ST26-002": {
+    "name": "Tony Tony Chopper ST26-002",
+    "color": "purple",
+    "type": "character",
+    "group": ["Animal", "Straw Hat Crew"],
+    "attribute": "Wisdom",
+    "cost": 3,
+    "power": 4000,
+    "counter": 1000,
+    "effect": "[Blocker] [On Play] DON!! −2: Rest up to 1 of your opponent's DON!! cards or Characters with a cost of 1 or less.",
+    "images": "Images/ST26/ST26-002.png"
+  },
+  "ST26-003": {
+    "name": "Nico Robin ST26-003",
+    "color": "purple",
+    "type": "character",
+    "group": "Straw Hat Crew",
+    "attribute": "Strike",
+    "cost": 3,
+    "power": 4000,
+    "counter": 2000,
+    "effect": "[On Play] DON!! −2: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+    "images": "Images/ST26/ST26-003.png"
+  },
+  "ST26-004": {
+    "name": "General Franky ST26-004",
+    "color": "purple",
+    "type": "character",
+    "group": "Straw Hat Crew",
+    "attribute": "Ranged",
+    "cost": 8,
+    "power": 10000,
+    "counter": 0,
+    "effect": "[On Play] DON!! −2: Give up to 2 of your opponent's Characters −2000 power during this turn.",
+    "images": "Images/ST26/ST26-004.png"
+  },
+  "ST26-005": {
+    "name": "Monkey D. Luffy ST26-005",
+    "color": "purple",
+    "type": "character",
+    "group": "Straw Hat Crew",
+    "attribute": "Strike",
+    "cost": 6,
+    "power": 7000,
+    "counter": 0,
+    "effect": "[On Play]/[When Attacking] DON!! −2: If your Leader is multicolored and your opponent has 5 or more DON!! cards on their field, your {Straw Hat Crew} type Leader's base power becomes 7000 until the end of your opponent's next End Phase.",
+    "images": "Images/ST26/ST26-005.png"
+  }
+}

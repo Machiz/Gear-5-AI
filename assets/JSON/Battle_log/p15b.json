@@ -1,0 +1,1162 @@
+{
+  "log-001": {
+    "player": "Pirate18721",
+    "action": "Leader is Marshall D. Teach",
+    "card": "OP09-081"
+  },
+  "log-002": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Leader is Monkey D. Dragon",
+    "card": "OP07-001"
+  },
+  "log-003": {
+    "player": "Pirate18721",
+    "action": "Will select turn order"
+  },
+  "log-004": {
+    "player": "Pirate18721",
+    "action": "Chose to go First"
+  },
+  "log-005": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-006": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-007": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Liberation",
+    "card_id": "OP10-098"
+  },
+  "log-008": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-009": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shigan (Finger Gun)",
+    "card_id": "EB01-051"
+  },
+  "log-010": {
+    "player": "Pirate18721",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "OP09-088",
+      "OP09-088",
+      "OP10-098",
+      "OP09-088",
+      "EB01-051"
+    ]
+  },
+  "log-011": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Drew card from deck",
+    "card": "Gol D. Roger",
+    "card_id": "OP09-118"
+  },
+  "log-012": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Drew card from deck",
+    "card": "Monkey D. Luffy",
+    "card_id": "ST01-012"
+  },
+  "log-013": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Drew card from deck",
+    "card": "Nami",
+    "card_id": "ST01-007"
+  },
+  "log-014": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Drew card from deck",
+    "card": "Koala",
+    "card_id": "OP05-006"
+  },
+  "log-015": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Drew card from deck",
+    "card": "Kid and Killer",
+    "card_id": "EB01-003"
+  },
+  "log-016": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "I Bid 500 Million!!",
+    "card_id": "OP05-096"
+  },
+  "log-017": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shiryu",
+    "card_id": "OP10-086"
+  },
+  "log-018": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-019": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Stronger",
+    "card_id": "OP09-089"
+  },
+  "log-020": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-021": {
+    "player": "Pirate18721",
+    "action": "Hand after Mulligan",
+    "cards": [
+      "OP05-096",
+      "OP10-086",
+      "OP09-086",
+      "OP09-089",
+      "OP09-088"
+    ]
+  },
+  "log-022": {
+    "player": "Pirate18721",
+    "action": "Mulligan"
+  },
+  "log-023": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP05-096",
+      "OP10-086",
+      "OP09-086",
+      "OP09-089",
+      "OP09-088"
+    ]
+  },
+  "log-024": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-025": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-026": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-027": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-118",
+      "ST01-012",
+      "ST01-007",
+      "OP05-006",
+      "EB01-003"
+    ]
+  },
+  "log-028": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-029": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-030": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-031": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Don"
+  },
+  "log-032": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach ability: Trash card",
+    "card": "I Bid 500 Million!!",
+    "card_id": "OP05-096"
+  },
+  "log-033": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach ability: Opponent can't activate On Play abilities next turn!"
+  },
+  "log-034": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-086",
+      "OP09-086",
+      "OP09-089",
+      "OP09-088"
+    ]
+  },
+  "log-035": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-036": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP05-096"
+    ]
+  },
+  "log-037": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-038": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-118",
+      "ST01-012",
+      "ST01-007",
+      "OP05-006",
+      "EB01-003"
+    ]
+  },
+  "log-039": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-040": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-041": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-042": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-043": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Draw 1 Card"
+  },
+  "log-044": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Drew card from deck",
+    "card": "Monkey D. Dragon",
+    "card_id": "OP07-015"
+  },
+  "log-045": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Draw 2 Don"
+  },
+  "log-046": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Deploy",
+    "card": "Nami",
+    "card_id": "ST01-007"
+  },
+  "log-047": {
+    "player": "ARCANJOMIGUEL",
+    "action": "End Turn"
+  },
+  "log-048": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-086",
+      "OP09-086",
+      "OP09-089",
+      "OP09-088"
+    ]
+  },
+  "log-049": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-050": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP05-096"
+    ]
+  },
+  "log-051": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-052": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-118",
+      "ST01-012",
+      "OP05-006",
+      "EB01-003",
+      "OP07-015"
+    ]
+  },
+  "log-053": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-054": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Board",
+    "cards": [
+      "ST01-007"
+    ]
+  },
+  "log-055": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-056": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-057": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-058": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-059": {
+    "player": "Pirate18721",
+    "action": "Attach 3 Don to Marshall D. Teach",
+    "card": "OP09-081",
+    "total_don": 3
+  },
+  "log-060": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Monkey D. Dragon",
+    "defender_id": "OP07-001"
+  },
+  "log-061": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 8000,
+    "defender": "Monkey D. Dragon",
+    "defender_id": "OP07-001",
+    "defender_power": 5000
+  },
+  "log-062": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Damage taken by Monkey D. Dragon",
+    "card": "OP07-001",
+    "damage": 1
+  },
+  "log-063": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-086",
+      "OP09-086",
+      "OP09-089",
+      "OP09-088",
+      "OP09-088"
+    ]
+  },
+  "log-064": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-065": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP05-096"
+    ]
+  },
+  "log-066": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-067": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-118",
+      "ST01-012",
+      "OP05-006",
+      "EB01-003",
+      "OP07-015",
+      "OP10-011"
+    ]
+  },
+  "log-068": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-069": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Board",
+    "cards": [
+      "ST01-007"
+    ]
+  },
+  "log-070": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-071": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-072": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Draw 1 Card"
+  },
+  "log-073": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Drew card from deck",
+    "card": "Roronoa Zoro",
+    "card_id": "OP01-025"
+  },
+  "log-074": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Draw 2 Don"
+  },
+  "log-075": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Deploy",
+    "card": "Kid and Killer",
+    "card_id": "EB01-003"
+  },
+  "log-076": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Nami ability: Attach 1 Rested Don to Monkey D. Dragon",
+    "card": "OP07-001"
+  },
+  "log-077": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Attacking",
+    "attacker": "Monkey D. Dragon",
+    "attacker_id": "OP07-001",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-078": {
+    "player": "Pirate18721",
+    "action": "Discard for Counter",
+    "card": "Stronger",
+    "card_id": "OP09-089",
+    "counter_power": 2000
+  },
+  "log-079": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Attack details",
+    "attacker": "Monkey D. Dragon",
+    "attacker_id": "OP07-001",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log-080": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Monkey D. Dragon ability: Transfer 1 Attached Don to Kid and Killer",
+    "card": "EB01-003"
+  },
+  "log-081": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Attacking",
+    "attacker": "Kid and Killer",
+    "attacker_id": "EB01-003",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-082": {
+    "player": "Pirate18721",
+    "action": "Discard for Counter",
+    "card": "Shiryu",
+    "card_id": "OP09-088",
+    "counter_power": 2000
+  },
+  "log-083": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Attack details",
+    "attacker": "Kid and Killer",
+    "attacker_id": "EB01-003",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log-084": {
+    "player": "ARCANJOMIGUEL",
+    "action": "End Turn"
+  },
+  "log-085": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-086",
+      "OP09-086",
+      "OP09-088"
+    ]
+  },
+  "log-086": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-087": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP05-096",
+      "OP09-089",
+      "OP09-088"
+    ]
+  },
+  "log-088": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-089": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-118",
+      "ST01-012",
+      "OP05-006",
+      "OP07-015",
+      "OP10-011",
+      "OP01-025"
+    ]
+  },
+  "log-090": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Trash",
+    "cards": [],
+    "board_trash": [
+      "EB01-003"
+    ]
+  },
+  "log-091": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Board",
+    "cards": [
+      "ST01-007",
+      "EB01-003"
+    ]
+  },
+  "log-092": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-093": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-094": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shigan (Finger Gun)",
+    "card_id": "EB01-051"
+  },
+  "log-095": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-096": {
+    "player": "Pirate18721",
+    "action": "Shigan (Finger Gun) ability: Trash 2 Cards from Deck"
+  },
+  "log-097": {
+    "player": "Pirate18721",
+    "action": "Shigan (Finger Gun) ability: Destroy Kid and Killer",
+    "card": "EB01-003"
+  },
+  "log-098": {
+    "player": "Pirate18721",
+    "action": "Attach 1 Don to Marshall D. Teach",
+    "card": "OP09-081",
+    "total_don": 1
+  },
+  "log-099": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Monkey D. Dragon",
+    "defender_id": "OP07-001"
+  },
+  "log-100": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Discard for Counter",
+    "card": "Koala",
+    "card_id": "OP05-006",
+    "counter_power": 2000
+  },
+  "log-101": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 6000,
+    "defender": "Monkey D. Dragon",
+    "defender_id": "OP07-001",
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log-102": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach ability: Trash card",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-103": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach ability: Opponent can't activate On Play abilities next turn!"
+  },
+  "log-104": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-086",
+      "OP09-086"
+    ]
+  },
+  "log-105": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-106": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP05-096",
+      "OP09-089",
+      "OP09-088",
+      "EB01-051",
+      "OP09-098",
+      "OP10-098",
+      "OP09-088"
+    ]
+  },
+  "log-107": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-108": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-118",
+      "ST01-012",
+      "OP07-015",
+      "OP10-011",
+      "OP01-025"
+    ]
+  },
+  "log-109": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Trash",
+    "cards": [
+      "EB01-003",
+      "OP05-006"
+    ]
+  },
+  "log-110": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Board",
+    "cards": [
+      "ST01-007"
+    ]
+  },
+  "log-111": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-112": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-113": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Draw 1 Card"
+  },
+  "log-114": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Drew card from deck",
+    "card": "Roronoa Zoro",
+    "card_id": "OP01-025"
+  },
+  "log-115": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Draw 2 Don"
+  },
+  "log-116": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Attacking",
+    "attacker": "Monkey D. Dragon",
+    "attacker_id": "OP07-001",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-117": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Attack details",
+    "attacker": "Monkey D. Dragon",
+    "attacker_id": "OP07-001",
+    "attacker_power": 5000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-118": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-119": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Deploy",
+    "card": "Roronoa Zoro",
+    "card_id": "OP01-025"
+  },
+  "log-120": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Nami ability: Attach 1 Rested Don to Roronoa Zoro",
+    "card": "OP01-025"
+  },
+  "log-121": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-025",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-122": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Attack details",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-025",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-123": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-124": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Deploy",
+    "card": "Roronoa Zoro",
+    "card_id": "OP01-025"
+  },
+  "log-125": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Monkey D. Dragon ability: Transfer 1 Attached Don to Roronoa Zoro",
+    "card": "OP01-025"
+  },
+  "log-126": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-025",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-127": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Attack details",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-025",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-128": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-129": {
+    "player": "ARCANJOMIGUEL",
+    "action": "End Turn"
+  },
+  "log-130": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-086",
+      "OP09-086",
+      "OP09-095",
+      "OP10-086",
+      "OP09-091"
+    ]
+  },
+  "log-131": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-132": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP05-096",
+      "OP09-089",
+      "OP09-088",
+      "EB01-051",
+      "OP09-098",
+      "OP10-098",
+      "OP09-088"
+    ]
+  },
+  "log-133": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 2
+  },
+  "log-134": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-118",
+      "ST01-012",
+      "OP07-015",
+      "OP10-011"
+    ]
+  },
+  "log-135": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Trash",
+    "cards": [
+      "EB01-003",
+      "OP05-006"
+    ]
+  },
+  "log-136": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Board",
+    "cards": [
+      "ST01-007",
+      "OP01-025",
+      "OP01-025"
+    ]
+  },
+  "log-137": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-138": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-139": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-140": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-141": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Shiryu",
+    "card_id": "OP10-086"
+  },
+  "log-142": {
+    "player": "Pirate18721",
+    "action": "Shiryu ability: Destroy Roronoa Zoro",
+    "card": "OP01-025"
+  },
+  "log-143": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-144": {
+    "player": "Pirate18721",
+    "action": "Attach 1 Don to Marshall D. Teach",
+    "card": "OP09-081",
+    "total_don": 1
+  },
+  "log-145": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Roronoa Zoro",
+    "defender_id": "OP01-025"
+  },
+  "log-146": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Discard for Counter",
+    "card": "Tony Tony Chopper",
+    "card_id": "OP10-011",
+    "counter_power": 2000
+  },
+  "log-147": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 6000,
+    "defender": "Roronoa Zoro",
+    "defender_id": "OP01-025",
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log-148": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach ability: Trash card",
+    "card": "Laffitte",
+    "card_id": "OP09-095"
+  },
+  "log-149": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach ability: Opponent can't activate On Play abilities next turn!"
+  },
+  "log-150": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-086",
+      "OP10-086",
+      "OP09-099"
+    ]
+  },
+  "log-151": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP10-086",
+      "OP09-091"
+    ]
+  },
+  "log-152": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP05-096",
+      "OP09-089",
+      "OP09-088",
+      "EB01-051",
+      "OP09-098",
+      "OP10-098",
+      "OP09-088",
+      "OP09-095"
+    ]
+  },
+  "log-153": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 2
+  },
+  "log-154": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-118",
+      "ST01-012",
+      "OP07-015"
+    ]
+  },
+  "log-155": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Trash",
+    "cards": [
+      "EB01-003",
+      "OP05-006",
+      "OP01-025",
+      "OP10-011"
+    ]
+  },
+  "log-156": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Board",
+    "cards": [
+      "ST01-007",
+      "OP01-025"
+    ]
+  },
+  "log-157": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-158": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-159": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Draw 1 Card"
+  },
+  "log-160": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Drew card from deck",
+    "card": "Roronoa Zoro",
+    "card_id": "ST21-015"
+  },
+  "log-161": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Draw 2 Don"
+  },
+  "log-162": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-025",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-163": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Attack details",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-025",
+    "attacker_power": 5000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-164": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-165": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Attach 2 Don to Monkey D. Dragon",
+    "card": "OP07-001",
+    "total_don": 2
+  },
+  "log-166": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Attach 1 Don to Monkey D. Dragon",
+    "card": "OP07-001",
+    "total_don": 3
+  },
+  "log-167": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Attacking",
+    "attacker": "Monkey D. Dragon",
+    "attacker_id": "OP07-001",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-168": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Attack details",
+    "attacker": "Monkey D. Dragon",
+    "attacker_id": "OP07-001",
+    "attacker_power": 8000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-169": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-170": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Deploy",
+    "card": "Monkey D. Luffy",
+    "card_id": "ST01-012"
+  },
+  "log-171": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Monkey D. Dragon ability: Transfer 2 Attached Don to Monkey D. Luffy",
+    "card": "ST01-012"
+  },
+  "log-172": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Nami ability: Attach 1 Rested Don to Monkey D. Luffy",
+    "card": "ST01-012"
+  },
+  "log-173": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST01-012",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-174": {
+    "player": "ARCANJOMIGUEL",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST01-012",
+    "attacker_power": 9000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-175": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-176": {
+    "player": "Pirate18721",
+    "action": "Loses"
+  }
+}

@@ -1,0 +1,3014 @@
+{
+  "log-001": {
+    "player": "Marveze",
+    "action": "Leader is Nami",
+    "card": "OP03-040"
+  },
+  "log-002": {
+    "player": "You",
+    "action": "Will select turn order"
+  },
+  "log-003": {
+    "player": "Pirate65394",
+    "action": "Leader is Jewelry Bonney",
+    "card": "OP07-019"
+  },
+  "log-004": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP08-023"
+  },
+  "log-005": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "ST02-008"
+  },
+  "log-006": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "ST02-008"
+  },
+  "log-007": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP10-032"
+  },
+  "log-008": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP05-030"
+  },
+  "log-009": {
+    "player": "Pirate65394",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "OP08-023",
+      "ST02-008",
+      "ST02-008",
+      "OP10-032",
+      "OP05-030"
+    ]
+  },
+  "log-010": {
+    "player": "Pirate65394",
+    "action": "Chose to go Second"
+  },
+  "log-011": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP06-059"
+  },
+  "log-012": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP03-050"
+  },
+  "log-013": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP03-056"
+  },
+  "log-014": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP07-055"
+  },
+  "log-015": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP02-063"
+  },
+  "log-016": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP10-032"
+  },
+  "log-017": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "ST16-004"
+  },
+  "log-018": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP10-030"
+  },
+  "log-019": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP10-030"
+  },
+  "log-020": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "EB01-012"
+  },
+  "log-021": {
+    "player": "Pirate65394",
+    "action": "Hand after Mulligan",
+    "cards": [
+      "OP10-032",
+      "ST16-004",
+      "OP10-030",
+      "OP10-030",
+      "EB01-012"
+    ]
+  },
+  "log-022": {
+    "player": "Pirate65394",
+    "action": "Mulligan"
+  },
+  "log-023": {
+    "player": "Marveze",
+    "action": "Draw 1 Don"
+  },
+  "log-024": {
+    "player": "Marveze",
+    "action": "End Turn"
+  },
+  "log-025": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-032",
+      "ST16-004",
+      "OP10-030",
+      "OP10-030",
+      "EB01-012"
+    ]
+  },
+  "log-026": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": []
+  },
+  "log-027": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-028": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-029": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP06-059",
+      "OP03-050",
+      "OP03-056",
+      "OP07-055",
+      "OP02-063"
+    ]
+  },
+  "log-030": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-031": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": []
+  },
+  "log-032": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 5
+  },
+  "log-033": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP08-023"
+  },
+  "log-034": {
+    "player": "Pirate65394",
+    "action": "Draw 1 Card"
+  },
+  "log-035": {
+    "player": "Pirate65394",
+    "action": "Draw 2 Don"
+  },
+  "log-036": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-032",
+      "ST16-004",
+      "OP10-030",
+      "OP10-030",
+      "EB01-012",
+      "OP08-023"
+    ]
+  },
+  "log-037": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": []
+  },
+  "log-038": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-039": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-040": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP06-059",
+      "OP03-050",
+      "OP03-056",
+      "OP07-055",
+      "OP02-063"
+    ]
+  },
+  "log-041": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-042": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": []
+  },
+  "log-043": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 5
+  },
+  "log-044": {
+    "player": "Pirate65394",
+    "action": "End Turn"
+  },
+  "log-045": {
+    "player": "Marveze",
+    "action": "Draw 1 Card"
+  },
+  "log-046": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP03-054"
+  },
+  "log-047": {
+    "player": "Marveze",
+    "action": "Draw 2 Don"
+  },
+  "log-048": {
+    "player": "Marveze",
+    "action": "Deploy",
+    "card": "OP03-050"
+  },
+  "log-049": {
+    "player": "Marveze",
+    "action": "End Turn"
+  },
+  "log-050": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-032",
+      "ST16-004",
+      "OP10-030",
+      "OP10-030",
+      "EB01-012",
+      "OP08-023"
+    ]
+  },
+  "log-051": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": []
+  },
+  "log-052": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-053": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-054": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP06-059",
+      "OP03-056",
+      "OP07-055",
+      "OP02-063",
+      "OP03-054"
+    ]
+  },
+  "log-055": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-056": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": [
+      "OP03-050"
+    ]
+  },
+  "log-057": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 5
+  },
+  "log-058": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP08-030"
+  },
+  "log-059": {
+    "player": "Pirate65394",
+    "action": "Draw 1 Card"
+  },
+  "log-060": {
+    "player": "Pirate65394",
+    "action": "Draw 2 Don"
+  },
+  "log-061": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-032",
+      "ST16-004",
+      "OP10-030",
+      "OP10-030",
+      "EB01-012",
+      "OP08-023",
+      "OP08-030"
+    ]
+  },
+  "log-062": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": []
+  },
+  "log-063": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-064": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-065": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP06-059",
+      "OP03-056",
+      "OP07-055",
+      "OP02-063",
+      "OP03-054"
+    ]
+  },
+  "log-066": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-067": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": [
+      "OP03-050"
+    ]
+  },
+  "log-068": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 5
+  },
+  "log-069": {
+    "player": "Pirate65394",
+    "action": "End Turn"
+  },
+  "log-070": {
+    "player": "Marveze",
+    "action": "Draw 1 Card"
+  },
+  "log-071": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "ST03-017"
+  },
+  "log-072": {
+    "player": "Marveze",
+    "action": "Draw 2 Don"
+  },
+  "log-073": {
+    "player": "Marveze",
+    "action": "Sanji's Pilaf",
+    "card": "OP03-056",
+    "effect": "Draw 2 Card"
+  },
+  "log-074": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP03-044"
+  },
+  "log-075": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP03-054"
+  },
+  "log-076": {
+    "player": "Marveze",
+    "action": "End Turn"
+  },
+  "log-077": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-032",
+      "ST16-004",
+      "OP10-030",
+      "OP10-030",
+      "EB01-012",
+      "OP08-023",
+      "OP08-030"
+    ]
+  },
+  "log-078": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": []
+  },
+  "log-079": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-080": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-081": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP06-059",
+      "OP07-055",
+      "OP02-063",
+      "OP03-054",
+      "ST03-017",
+      "OP03-044",
+      "OP03-054"
+    ]
+  },
+  "log-082": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": [
+      "OP03-056"
+    ]
+  },
+  "log-083": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": [
+      "OP03-050"
+    ]
+  },
+  "log-084": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 5
+  },
+  "log-085": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP05-037"
+  },
+  "log-086": {
+    "player": "Pirate65394",
+    "action": "Draw 1 Card"
+  },
+  "log-087": {
+    "player": "Pirate65394",
+    "action": "Draw 2 Don"
+  },
+  "log-088": {
+    "player": "Pirate65394",
+    "action": "Deploy",
+    "card": "OP08-030"
+  },
+  "log-089": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-032",
+      "ST16-004",
+      "OP10-030",
+      "OP10-030",
+      "EB01-012",
+      "OP08-023",
+      "OP05-037"
+    ]
+  },
+  "log-090": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP08-030"
+    ]
+  },
+  "log-091": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-092": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-093": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP06-059",
+      "OP07-055",
+      "OP02-063",
+      "OP03-054",
+      "ST03-017",
+      "OP03-044",
+      "OP03-054"
+    ]
+  },
+  "log-094": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": [
+      "OP03-056"
+    ]
+  },
+  "log-095": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": [
+      "OP03-050"
+    ]
+  },
+  "log-096": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 5
+  },
+  "log-097": {
+    "player": "Pirate65394",
+    "action": "End Turn"
+  },
+  "log-098": {
+    "player": "Marveze",
+    "action": "Draw 1 Card"
+  },
+  "log-099": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP03-054"
+  },
+  "log-100": {
+    "player": "Marveze",
+    "action": "Draw 2 Don"
+  },
+  "log-101": {
+    "player": "Marveze",
+    "action": "End Turn"
+  },
+  "log-102": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-032",
+      "ST16-004",
+      "OP10-030",
+      "OP10-030",
+      "EB01-012",
+      "OP08-023",
+      "OP05-037"
+    ]
+  },
+  "log-103": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP08-030"
+    ]
+  },
+  "log-104": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-105": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-106": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP06-059",
+      "OP07-055",
+      "OP02-063",
+      "OP03-054",
+      "ST03-017",
+      "OP03-044",
+      "OP03-054",
+      "OP03-054"
+    ]
+  },
+  "log-107": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": [
+      "OP03-056"
+    ]
+  },
+  "log-108": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": [
+      "OP03-050"
+    ]
+  },
+  "log-109": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 5
+  },
+  "log-110": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP10-032"
+  },
+  "log-111": {
+    "player": "Pirate65394",
+    "action": "Draw 1 Card"
+  },
+  "log-112": {
+    "player": "Pirate65394",
+    "action": "Draw 2 Don"
+  },
+  "log-113": {
+    "player": "Pirate65394",
+    "action": "Deploy",
+    "card": "EB01-012"
+  },
+  "log-114": {
+    "player": "Pirate65394",
+    "action": "Cavendish",
+    "card": "EB01-012",
+    "effect": "Activate 2 Don"
+  },
+  "log-115": {
+    "player": "Pirate65394",
+    "action": "Attach 1 Don to Jewelry Bonney",
+    "card": "OP07-019",
+    "value": 1
+  },
+  "log-116": {
+    "player": "Pirate65394",
+    "action": "Jewelry Bonney attacking Nami",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Nami",
+    "defender_id": "OP03-040"
+  },
+  "log-117": {
+    "player": "Marveze",
+    "action": "White Snake",
+    "card": "OP06-059",
+    "effect": "Buff Nami",
+    "target": "OP03-040",
+    "value": 1000
+  },
+  "log-118": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP03-050"
+  },
+  "log-119": {
+    "player": "Marveze",
+    "action": "White Snake",
+    "card": "OP06-059",
+    "effect": "Draw 1 Card"
+  },
+  "log-120": {
+    "player": "Marveze",
+    "action": "Discard for Counter",
+    "card": "OP03-050",
+    "value": 1000
+  },
+  "log-121": {
+    "player": "Pirate65394",
+    "action": "Attack Fails"
+  },
+  "log-122": {
+    "player": "Pirate65394",
+    "action": "Attach 1 Don to Jewelry Bonney",
+    "card": "OP07-019",
+    "value": 2
+  },
+  "log-123": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-032",
+      "ST16-004",
+      "OP10-030",
+      "OP10-030",
+      "OP08-023",
+      "OP05-037",
+      "OP10-032"
+    ]
+  },
+  "log-124": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP08-030",
+      "EB01-012"
+    ]
+  },
+  "log-125": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-126": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-127": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP07-055",
+      "OP02-063",
+      "OP03-054",
+      "ST03-017",
+      "OP03-044",
+      "OP03-054",
+      "OP03-054"
+    ]
+  },
+  "log-128": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "OP06-059",
+      "OP03-050"
+    ]
+  },
+  "log-129": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": [
+      "OP03-050"
+    ]
+  },
+  "log-130": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 5
+  },
+  "log-131": {
+    "player": "Pirate65394",
+    "action": "End Turn"
+  },
+  "log-132": {
+    "player": "Marveze",
+    "action": "Draw 1 Card"
+  },
+  "log-133": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP03-055"
+  },
+  "log-134": {
+    "player": "Marveze",
+    "action": "Draw 2 Don"
+  },
+  "log-135": {
+    "player": "Marveze",
+    "action": "Deploy",
+    "card": "OP03-044"
+  },
+  "log-136": {
+    "player": "Marveze",
+    "action": "Kaya",
+    "card": "OP03-044",
+    "effect": "Draw 2 Card"
+  },
+  "log-137": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP07-055"
+  },
+  "log-138": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP03-055"
+  },
+  "log-139": {
+    "player": "Marveze",
+    "action": "Trash",
+    "card": "OP03-054"
+  },
+  "log-140": {
+    "player": "Marveze",
+    "action": "Trash",
+    "card": "OP02-063"
+  },
+  "log-141": {
+    "player": "Marveze",
+    "action": "End Turn"
+  },
+  "log-142": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-032",
+      "ST16-004",
+      "OP10-030",
+      "OP10-030",
+      "EB01-012",
+      "OP08-023",
+      "OP05-037"
+    ]
+  },
+  "log-143": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP08-030",
+      "EB01-012"
+    ]
+  },
+  "log-144": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-145": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-146": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP07-055",
+      "OP03-054",
+      "ST03-017",
+      "OP03-054",
+      "OP03-055",
+      "OP07-055",
+      "OP03-055"
+    ]
+  },
+  "log-147": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "OP06-059",
+      "OP03-050",
+      "OP03-054",
+      "OP02-063"
+    ]
+  },
+  "log-148": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": [
+      "OP03-050",
+      "OP03-044"
+    ]
+  },
+  "log-149": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 5
+  },
+  "log-150": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP07-029"
+  },
+  "log-151": {
+    "player": "Pirate65394",
+    "action": "Draw 1 Card"
+  },
+  "log-152": {
+    "player": "Pirate65394",
+    "action": "Draw 2 Don"
+  },
+  "log-153": {
+    "player": "Pirate65394",
+    "action": "Deploy",
+    "card": "ST16-004"
+  },
+  "log-154": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-032",
+      "OP10-030",
+      "OP10-030",
+      "OP08-023",
+      "OP05-037",
+      "OP10-032",
+      "OP07-029"
+    ]
+  },
+  "log-155": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP08-030",
+      "EB01-012",
+      "ST16-004"
+    ]
+  },
+  "log-156": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-157": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-158": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP07-055",
+      "OP03-054",
+      "ST03-017",
+      "OP03-054",
+      "OP03-055",
+      "OP07-055",
+      "OP03-055"
+    ]
+  },
+  "log-159": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "OP06-059",
+      "OP03-050",
+      "OP03-054",
+      "OP02-063"
+    ]
+  },
+  "log-160": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": [
+      "OP03-050",
+      "OP03-044"
+    ]
+  },
+  "log-161": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 5
+  },
+  "log-162": {
+    "player": "Pirate65394",
+    "action": "End Turn"
+  },
+  "log-163": {
+    "player": "Marveze",
+    "action": "Draw 1 Card"
+  },
+  "log-164": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP03-056"
+  },
+  "log-165": {
+    "player": "Marveze",
+    "action": "Draw 2 Don"
+  },
+  "log-166": {
+    "player": "Marveze",
+    "action": "Sanji's Pilaf",
+    "card": "OP03-056",
+    "effect": "Draw 2 Card"
+  },
+  "log-167": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP03-044"
+  },
+  "log-168": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP02-069"
+  },
+  "log-169": {
+    "player": "Marveze",
+    "action": "Deploy",
+    "card": "OP03-044"
+  },
+  "log-170": {
+    "player": "Marveze",
+    "action": "Kaya",
+    "card": "OP03-044",
+    "effect": "Draw 2 Card"
+  },
+  "log-171": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP06-059"
+  },
+  "log-172": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP01-088"
+  },
+  "log-173": {
+    "player": "Marveze",
+    "action": "Trash",
+    "card": "OP06-059"
+  },
+  "log-174": {
+    "player": "Marveze",
+    "action": "Trash",
+    "card": "OP03-054"
+  },
+  "log-175": {
+    "player": "Marveze",
+    "action": "End Turn"
+  },
+  "log-176": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-032",
+      "OP10-030",
+      "OP10-030",
+      "OP08-023",
+      "OP05-037",
+      "OP10-032",
+      "OP07-029"
+    ]
+  },
+  "log-177": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP08-030",
+      "EB01-012",
+      "ST16-004"
+    ]
+  },
+  "log-178": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-179": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-180": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP07-055",
+      "ST03-017",
+      "OP03-054",
+      "OP03-055",
+      "OP07-055",
+      "OP03-055",
+      "OP02-069",
+      "OP01-088"
+    ]
+  },
+  "log-181": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "OP06-059",
+      "OP03-050",
+      "OP03-054",
+      "OP02-063",
+      "OP03-056",
+      "OP06-059",
+      "OP03-054"
+    ]
+  },
+  "log-182": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": [
+      "OP03-050",
+      "OP03-044",
+      "OP03-044"
+    ]
+  },
+  "log-183": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 5
+  },
+  "log-184": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "EB01-015"
+  },
+  "log-185": {
+    "player": "Pirate65394",
+    "action": "Draw 1 Card"
+  },
+  "log-186": {
+    "player": "Pirate65394",
+    "action": "Deploy",
+    "card": "OP10-032"
+  },
+  "log-187": {
+    "player": "Pirate65394",
+    "action": "Attach 1 Don to Tashigi",
+    "card": "OP10-032",
+    "value": 1
+  },
+  "log-188": {
+    "player": "Pirate65394",
+    "action": "Shanks attacking Nami",
+    "attacker": "Shanks",
+    "attacker_id": "ST16-004",
+    "defender": "Nami",
+    "defender_id": "OP03-040"
+  },
+  "log-189": {
+    "player": "Pirate65394",
+    "action": "Nami hit for 1 damage",
+    "target": "OP03-040"
+  },
+  "log-190": {
+    "player": "Pirate65394",
+    "action": "Cavendish attacking Nami",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "defender": "Nami",
+    "defender_id": "OP03-040"
+  },
+  "log-191": {
+    "player": "Pirate65394",
+    "action": "Cavendish",
+    "card": "EB01-012",
+    "effect": "Activate 2 Don"
+  },
+  "log-192": {
+    "player": "Marveze",
+    "action": "Desert Spada",
+    "card": "OP01-088",
+    "effect": "Buff Nami",
+    "target": "OP03-040",
+    "value": 2000,
+    "timing": "Combat"
+  },
+  "log-193": {
+    "player": "Marveze",
+    "action": "Placing Cards on Top of Deck"
+  },
+  "log-194": {
+    "player": "Pirate65394",
+    "action": "Attack Fails"
+  },
+  "log-195": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-030",
+      "OP10-030",
+      "OP08-023",
+      "OP05-037",
+      "OP10-032",
+      "OP07-029",
+      "EB01-015"
+    ]
+  },
+  "log-196": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP08-030",
+      "EB01-012",
+      "ST16-004",
+      "OP10-032"
+    ]
+  },
+  "log-197": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-198": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-199": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP07-055",
+      "ST03-017",
+      "OP03-054",
+      "OP03-055",
+      "OP07-055",
+      "OP03-055",
+      "OP02-069",
+      "ST03-017"
+    ]
+  },
+  "log-200": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "OP06-059",
+      "OP03-050",
+      "OP03-054",
+      "OP02-063",
+      "OP03-056",
+      "OP06-059",
+      "OP03-054",
+      "OP01-088"
+    ]
+  },
+  "log-201": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": [
+      "OP03-050",
+      "OP03-044",
+      "OP03-044"
+    ]
+  },
+  "log-202": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 4
+  },
+  "log-203": {
+    "player": "Pirate65394",
+    "action": "End Turn"
+  },
+  "log-204": {
+    "player": "Marveze",
+    "action": "Draw 1 Card"
+  },
+  "log-205": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP03-055"
+  },
+  "log-206": {
+    "player": "Marveze",
+    "action": "End Turn"
+  },
+  "log-207": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-030",
+      "OP10-030",
+      "OP08-023",
+      "OP05-037",
+      "OP10-032",
+      "OP07-029",
+      "EB01-015"
+    ]
+  },
+  "log-208": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP08-030",
+      "EB01-012",
+      "ST16-004",
+      "OP10-032"
+    ]
+  },
+  "log-209": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-210": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-211": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP07-055",
+      "ST03-017",
+      "OP03-054",
+      "OP03-055",
+      "OP07-055",
+      "OP03-055",
+      "OP02-069",
+      "ST03-017",
+      "OP03-055"
+    ]
+  },
+  "log-212": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "OP06-059",
+      "OP03-050",
+      "OP03-054",
+      "OP02-063",
+      "OP03-056",
+      "OP06-059",
+      "OP03-054",
+      "OP01-088"
+    ]
+  },
+  "log-213": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": [
+      "OP03-050",
+      "OP03-044",
+      "OP03-044"
+    ]
+  },
+  "log-214": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 4
+  },
+  "log-215": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP06-035"
+  },
+  "log-216": {
+    "player": "Pirate65394",
+    "action": "Draw 1 Card"
+  },
+  "log-217": {
+    "player": "Pirate65394",
+    "action": "Attach 4 Don to Cavendish",
+    "card": "EB01-012",
+    "value": 4
+  },
+  "log-218": {
+    "player": "Pirate65394",
+    "action": "Cavendish attacking Nami",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "defender": "Nami",
+    "defender_id": "OP03-040"
+  },
+  "log-219": {
+    "player": "Marveze",
+    "action": "Love Love Beam",
+    "card": "ST03-017",
+    "effect": "Buff Kaya",
+    "target": "OP03-044",
+    "value": 4000,
+    "timing": "Combat"
+  },
+  "log-220": {
+    "player": "Marveze",
+    "action": "Snake Dance",
+    "card": "OP07-055",
+    "effect": "Buff Nami",
+    "target": "OP03-040",
+    "value": 4000,
+    "timing": "Combat"
+  },
+  "log-221": {
+    "player": "Marveze",
+    "action": "Snake Dance",
+    "card": "OP07-055",
+    "effect": "Return Kaya to Hand",
+    "target": "OP03-044"
+  },
+  "log-222": {
+    "player": "Marveze",
+    "action": "Gum-Gum Giant Gavel",
+    "card": "OP03-055",
+    "effect": "Trash Usopp's Rubber Band of Doom!",
+    "target": "OP03-054"
+  },
+  "log-223": {
+    "player": "Marveze",
+    "action": "Gum-Gum Giant Gavel",
+    "card": "OP03-055",
+    "effect": "Buff Nami",
+    "target": "OP03-040",
+    "value": 4000,
+    "timing": "Combat"
+  },
+  "log-224": {
+    "player": "Marveze",
+    "action": "Gum-Gum Giant Gavel",
+    "card": "OP03-055",
+    "effect": "Trash 2 Cards from Deck"
+  },
+  "log-225": {
+    "player": "Pirate65394",
+    "action": "Attack Fails"
+  },
+  "log-226": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-030",
+      "OP10-030",
+      "OP08-023",
+      "OP05-037",
+      "OP10-032",
+      "OP07-029",
+      "EB01-015",
+      "OP06-035"
+    ]
+  },
+  "log-227": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP08-030",
+      "EB01-012",
+      "ST16-004",
+      "OP10-032"
+    ]
+  },
+  "log-228": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-229": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-230": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP07-055",
+      "OP03-055",
+      "OP03-055",
+      "OP02-069",
+      "ST03-017",
+      "OP03-044"
+    ]
+  },
+  "log-231": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "OP06-059",
+      "OP03-050",
+      "OP03-054",
+      "OP02-063",
+      "OP03-056",
+      "OP06-059",
+      "OP03-054",
+      "OP01-088",
+      "ST03-017",
+      "OP07-055",
+      "OP03-055",
+      "OP03-054",
+      "OP09-050",
+      "OP03-041"
+    ]
+  },
+  "log-232": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": [
+      "OP03-050",
+      "OP03-044"
+    ]
+  },
+  "log-233": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 4
+  },
+  "log-234": {
+    "player": "Pirate65394",
+    "action": "End Turn"
+  },
+  "log-235": {
+    "player": "Marveze",
+    "action": "Draw 1 Card"
+  },
+  "log-236": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP09-050"
+  },
+  "log-237": {
+    "player": "Marveze",
+    "action": "Deploy",
+    "card": "OP09-050"
+  },
+  "log-238": {
+    "player": "Marveze",
+    "action": "Deploy",
+    "card": "OP03-044"
+  },
+  "log-239": {
+    "player": "Marveze",
+    "action": "Kaya",
+    "card": "OP03-044",
+    "effect": "Draw 2 Card"
+  },
+  "log-240": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP03-044"
+  },
+  "log-241": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP07-054"
+  },
+  "log-242": {
+    "player": "Marveze",
+    "action": "Trash",
+    "card": "OP03-044"
+  },
+  "log-243": {
+    "player": "Marveze",
+    "action": "Trash",
+    "card": "OP03-055"
+  },
+  "log-244": {
+    "player": "Marveze",
+    "action": "Deploy",
+    "card": "OP07-054"
+  },
+  "log-245": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP04-041"
+  },
+  "log-246": {
+    "player": "Marveze",
+    "action": "Marguerite",
+    "card": "OP07-054",
+    "effect": "Draw 1 Card"
+  },
+  "log-247": {
+    "player": "Marveze",
+    "action": "End Turn"
+  },
+  "log-248": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-030",
+      "OP10-030",
+      "OP08-023",
+      "OP05-037",
+      "OP10-032",
+      "OP07-029",
+      "EB01-015",
+      "OP06-035"
+    ]
+  },
+  "log-249": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP08-030",
+      "EB01-012",
+      "ST16-004",
+      "OP10-032"
+    ]
+  },
+  "log-250": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-251": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-252": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP07-055",
+      "OP03-055",
+      "OP02-069",
+      "ST03-017",
+      "OP04-041"
+    ]
+  },
+  "log-253": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "OP06-059",
+      "OP03-050",
+      "OP03-054",
+      "OP02-063",
+      "OP03-056",
+      "OP06-059",
+      "OP03-054",
+      "OP01-088",
+      "ST03-017",
+      "OP07-055",
+      "OP03-055",
+      "OP03-054",
+      "OP09-050",
+      "OP03-041",
+      "OP03-044",
+      "OP03-055"
+    ]
+  },
+  "log-254": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": [
+      "OP03-050",
+      "OP03-044",
+      "OP09-050",
+      "OP03-044",
+      "OP07-054"
+    ]
+  },
+  "log-255": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 4
+  },
+  "log-256": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "ST02-008"
+  },
+  "log-257": {
+    "player": "Pirate65394",
+    "action": "Draw 1 Card"
+  },
+  "log-258": {
+    "player": "Pirate65394",
+    "action": "Attach 6 Don to Shanks",
+    "card": "ST16-004",
+    "value": 6
+  },
+  "log-259": {
+    "player": "Pirate65394",
+    "action": "Shanks attacking Nami",
+    "attacker": "Shanks",
+    "attacker_id": "ST16-004",
+    "defender": "Nami",
+    "defender_id": "OP03-040"
+  },
+  "log-260": {
+    "player": "Pirate65394",
+    "action": "Nami hit for 1 damage",
+    "target": "OP03-040"
+  },
+  "log-261": {
+    "player": "Marveze",
+    "action": "Snake Dance",
+    "card": "OP07-055",
+    "effect": "Return Kaya to Hand",
+    "target": "OP03-044"
+  },
+  "log-262": {
+    "player": "Marveze",
+    "action": "Snake Dance",
+    "card": "OP07-055",
+    "effect": "Send Pedro to Hand",
+    "target": "OP08-030"
+  },
+  "log-263": {
+    "player": "Pirate65394",
+    "action": "Tashigi",
+    "card": "OP10-032",
+    "effect": "Rest Tashigi",
+    "target": "OP10-032"
+  },
+  "log-264": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-030",
+      "OP10-030",
+      "OP08-023",
+      "OP05-037",
+      "OP10-032",
+      "OP07-029",
+      "EB01-015",
+      "OP06-035",
+      "ST02-008"
+    ]
+  },
+  "log-265": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP08-030",
+      "EB01-012",
+      "ST16-004",
+      "OP10-032"
+    ]
+  },
+  "log-266": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-267": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-268": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP07-055",
+      "OP03-055",
+      "OP02-069",
+      "ST03-017",
+      "OP04-041",
+      "OP03-044"
+    ]
+  },
+  "log-269": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "OP06-059",
+      "OP03-050",
+      "OP03-054",
+      "OP02-063",
+      "OP03-056",
+      "OP06-059",
+      "OP03-054",
+      "OP01-088",
+      "ST03-017",
+      "OP07-055",
+      "OP03-055",
+      "OP03-054",
+      "OP09-050",
+      "OP03-041",
+      "OP03-044",
+      "OP03-055",
+      "OP07-055"
+    ]
+  },
+  "log-270": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": [
+      "OP03-050",
+      "OP09-050",
+      "OP03-044",
+      "OP07-054"
+    ]
+  },
+  "log-271": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 3
+  },
+  "log-272": {
+    "player": "Pirate65394",
+    "action": "End Turn"
+  },
+  "log-273": {
+    "player": "Marveze",
+    "action": "Draw 1 Card"
+  },
+  "log-274": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP01-086"
+  },
+  "log-275": {
+    "player": "Marveze",
+    "action": "Nami attacking Jewelry Bonney",
+    "attacker": "Nami",
+    "attacker_id": "OP09-050",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-276": {
+    "player": "Marveze",
+    "action": "Reveal and Draw",
+    "card": "OP01-088"
+  },
+  "log-277": {
+    "player": "Marveze",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-278": {
+    "player": "Pirate65394",
+    "action": "Jewelry Bonney",
+    "card": "OP07-019",
+    "effect": "Rest Boodle",
+    "target": "OP03-050"
+  },
+  "log-279": {
+    "player": "Pirate65394",
+    "action": "Attack Fails"
+  },
+  "log-280": {
+    "player": "Marveze",
+    "action": "End Turn"
+  },
+  "log-281": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-030",
+      "OP10-030",
+      "OP08-023",
+      "OP05-037",
+      "OP10-032",
+      "OP07-029",
+      "EB01-015",
+      "OP06-035",
+      "ST02-008"
+    ]
+  },
+  "log-282": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP08-030",
+      "EB01-012",
+      "ST16-004",
+      "OP10-032"
+    ]
+  },
+  "log-283": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-284": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-285": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP07-055",
+      "OP03-055",
+      "OP02-069",
+      "ST03-017",
+      "OP04-041",
+      "OP03-044",
+      "OP01-086",
+      "OP01-088"
+    ]
+  },
+  "log-286": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "OP06-059",
+      "OP03-050",
+      "OP03-054",
+      "OP02-063",
+      "OP03-056",
+      "OP06-059",
+      "OP03-054",
+      "OP01-088",
+      "ST03-017",
+      "OP07-055",
+      "OP03-055",
+      "OP03-054",
+      "OP09-050",
+      "OP03-041",
+      "OP03-044",
+      "OP03-055",
+      "OP07-055"
+    ]
+  },
+  "log-287": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": [
+      "OP03-050",
+      "OP09-050",
+      "OP03-044",
+      "OP07-054"
+    ]
+  },
+  "log-288": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 3
+  },
+  "log-289": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP04-031"
+  },
+  "log-290": {
+    "player": "Pirate65394",
+    "action": "Draw 1 Card"
+  },
+  "log-291": {
+    "player": "Pirate65394",
+    "action": "Deploy",
+    "card": "OP04-031"
+  },
+  "log-292": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-030",
+      "OP10-030",
+      "OP08-023",
+      "OP05-037",
+      "OP10-032",
+      "OP07-029",
+      "EB01-015",
+      "OP06-035",
+      "ST02-008"
+    ]
+  },
+  "log-293": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP08-030",
+      "EB01-012",
+      "ST16-004",
+      "OP10-032",
+      "OP04-031"
+    ]
+  },
+  "log-294": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-295": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-296": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP07-055",
+      "OP03-055",
+      "OP02-069",
+      "ST03-017",
+      "OP04-041",
+      "OP03-044",
+      "OP01-086",
+      "OP01-088"
+    ]
+  },
+  "log-297": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "OP06-059",
+      "OP03-050",
+      "OP03-054",
+      "OP02-063",
+      "OP03-056",
+      "OP06-059",
+      "OP03-054",
+      "OP01-088",
+      "ST03-017",
+      "OP07-055",
+      "OP03-055",
+      "OP03-054",
+      "OP09-050",
+      "OP03-041",
+      "OP03-044",
+      "OP03-055",
+      "OP07-055"
+    ]
+  },
+  "log-298": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": [
+      "OP03-050",
+      "OP09-050",
+      "OP03-044",
+      "OP07-054"
+    ]
+  },
+  "log-299": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 3
+  },
+  "log-300": {
+    "player": "Pirate65394",
+    "action": "End Turn"
+  },
+  "log-301": {
+    "player": "Marveze",
+    "action": "Draw 1 Card"
+  },
+  "log-302": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP03-044"
+  },
+  "log-303": {
+    "player": "Marveze",
+    "action": "End Turn"
+  },
+  "log-304": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-030",
+      "OP10-030",
+      "OP08-023",
+      "OP05-037",
+      "OP10-032",
+      "OP07-029",
+      "EB01-015",
+      "OP06-035",
+      "ST02-008"
+    ]
+  },
+  "log-305": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP08-030",
+      "EB01-012",
+      "ST16-004",
+      "OP10-032",
+      "OP04-031"
+    ]
+  },
+  "log-306": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-307": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-308": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP07-055",
+      "OP03-055",
+      "OP02-069",
+      "ST03-017",
+      "OP04-041",
+      "OP03-044",
+      "OP01-086",
+      "OP01-088",
+      "OP03-044"
+    ]
+  },
+  "log-309": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "OP06-059",
+      "OP03-050",
+      "OP03-054",
+      "OP02-063",
+      "OP03-056",
+      "OP06-059",
+      "OP03-054",
+      "OP01-088",
+      "ST03-017",
+      "OP07-055",
+      "OP03-055",
+      "OP03-054",
+      "OP09-050",
+      "OP03-041",
+      "OP03-044",
+      "OP03-055",
+      "OP07-055"
+    ]
+  },
+  "log-310": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": [
+      "OP03-050",
+      "OP09-050",
+      "OP03-044",
+      "OP07-054"
+    ]
+  },
+  "log-311": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 3
+  },
+  "log-312": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "ST16-004"
+  },
+  "log-313": {
+    "player": "Pirate65394",
+    "action": "Draw 1 Card"
+  },
+  "log-314": {
+    "player": "Pirate65394",
+    "action": "Attach 5 Don to Shanks",
+    "card": "ST16-004",
+    "value": 5
+  },
+  "log-315": {
+    "player": "Pirate65394",
+    "action": "Shanks attacking Nami",
+    "attacker": "Shanks",
+    "attacker_id": "ST16-004",
+    "defender": "Nami",
+    "defender_id": "OP03-040"
+  },
+  "log-316": {
+    "player": "Pirate65394",
+    "action": "Nami hit for 1 damage",
+    "target": "OP03-040"
+  },
+  "log-317": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-030",
+      "OP10-030",
+      "OP08-023",
+      "OP05-037",
+      "OP10-032",
+      "OP07-029",
+      "EB01-015",
+      "OP06-035",
+      "ST02-008",
+      "ST16-004"
+    ]
+  },
+  "log-318": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP08-030",
+      "EB01-012",
+      "ST16-004",
+      "OP10-032",
+      "OP04-031"
+    ]
+  },
+  "log-319": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-320": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-321": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP07-055",
+      "OP03-055",
+      "OP02-069",
+      "ST03-017",
+      "OP04-041",
+      "OP03-044",
+      "OP01-086",
+      "OP01-088",
+      "OP03-044",
+      "OP03-041",
+      "OP04-041",
+      "OP01-088"
+    ]
+  },
+  "log-322": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "OP06-059",
+      "OP03-050",
+      "OP03-054",
+      "OP02-063",
+      "OP03-056",
+      "OP06-059",
+      "OP03-054",
+      "OP01-088",
+      "ST03-017",
+      "OP07-055",
+      "OP03-055",
+      "OP03-054",
+      "OP09-050",
+      "OP03-041",
+      "OP03-044",
+      "OP03-055",
+      "OP07-055"
+    ]
+  },
+  "log-323": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": [
+      "OP03-050",
+      "OP09-050",
+      "OP03-044",
+      "OP07-054"
+    ]
+  },
+  "log-324": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 2
+  },
+  "log-325": {
+    "player": "Pirate65394",
+    "action": "End Turn"
+  },
+  "log-326": {
+    "player": "Marveze",
+    "action": "Draw 1 Card"
+  },
+  "log-327": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP04-041"
+  },
+  "log-328": {
+    "player": "Marveze",
+    "action": "Nami attacking Jewelry Bonney",
+    "attacker": "Nami",
+    "attacker_id": "OP09-050",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-329": {
+    "player": "Marveze",
+    "action": "Reveal and Draw",
+    "card": "OP01-088"
+  },
+  "log-330": {
+    "player": "Marveze",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-331": {
+    "player": "Pirate65394",
+    "action": "Attack Fails"
+  },
+  "log-332": {
+    "player": "Marveze",
+    "action": "End Turn"
+  },
+  "log-333": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-030",
+      "OP10-030",
+      "OP08-023",
+      "OP05-037",
+      "OP10-032",
+      "OP07-029",
+      "EB01-015",
+      "OP06-035",
+      "ST02-008",
+      "ST16-004"
+    ]
+  },
+  "log-334": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP08-030",
+      "EB01-012",
+      "ST16-004",
+      "OP10-032",
+      "OP04-031"
+    ]
+  },
+  "log-335": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-336": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-337": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP07-055",
+      "OP03-055",
+      "OP02-069",
+      "ST03-017",
+      "OP04-041",
+      "OP03-044",
+      "OP01-086",
+      "OP01-088",
+      "OP03-044",
+      "OP03-041",
+      "OP04-041",
+      "OP01-088"
+    ]
+  },
+  "log-338": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "OP06-059",
+      "OP03-050",
+      "OP03-054",
+      "OP02-063",
+      "OP03-056",
+      "OP06-059",
+      "OP03-054",
+      "OP01-088",
+      "ST03-017",
+      "OP07-055",
+      "OP03-055",
+      "OP03-054",
+      "OP09-050",
+      "OP03-041",
+      "OP03-044",
+      "OP03-055",
+      "OP07-055"
+    ]
+  },
+  "log-339": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": [
+      "OP03-050",
+      "OP09-050",
+      "OP03-044",
+      "OP07-054"
+    ]
+  },
+  "log-340": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 2
+  },
+  "log-341": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "OP07-029"
+  },
+  "log-342": {
+    "player": "Pirate65394",
+    "action": "Draw 1 Card"
+  },
+  "log-343": {
+    "player": "Pirate65394",
+    "action": "Attach 6 Don to Shanks",
+    "card": "ST16-004",
+    "value": 6
+  },
+  "log-344": {
+    "player": "Pirate65394",
+    "action": "Shanks attacking Nami",
+    "attacker": "Shanks",
+    "attacker_id": "ST16-004",
+    "defender": "Nami",
+    "defender_id": "OP03-040"
+  },
+  "log-345": {
+    "player": "Marveze",
+    "action": "Overheat",
+    "card": "OP01-086",
+    "effect": "Buff Kaya",
+    "target": "OP03-044",
+    "value": 4000,
+    "timing": "Combat"
+  },
+  "log-346": {
+    "player": "Marveze",
+    "action": "Overheat",
+    "card": "OP01-086",
+    "effect": "Return Kaya to Hand",
+    "target": "OP03-044"
+  },
+  "log-347": {
+    "player": "Pirate65394",
+    "action": "Nami hit for 1 damage",
+    "target": "OP03-040"
+  },
+  "log-348": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-030",
+      "OP10-030",
+      "OP08-023",
+      "OP05-037",
+      "OP10-032",
+      "OP07-029",
+      "EB01-015",
+      "OP06-035",
+      "ST02-008",
+      "ST16-004",
+      "OP07-029"
+    ]
+  },
+  "log-349": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP08-030",
+      "EB01-012",
+      "ST16-004",
+      "OP10-032",
+      "OP04-031"
+    ]
+  },
+  "log-350": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-351": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-352": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP07-055",
+      "OP03-055",
+      "OP02-069",
+      "ST03-017",
+      "OP04-041",
+      "OP03-044",
+      "OP01-088",
+      "OP03-044",
+      "OP03-041",
+      "OP04-041",
+      "OP01-088",
+      "OP03-044",
+      "OP01-086"
+    ]
+  },
+  "log-353": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "OP06-059",
+      "OP03-050",
+      "OP03-054",
+      "OP02-063",
+      "OP03-056",
+      "OP06-059",
+      "OP03-054",
+      "OP01-088",
+      "ST03-017",
+      "OP07-055",
+      "OP03-055",
+      "OP03-054",
+      "OP09-050",
+      "OP03-041",
+      "OP03-044",
+      "OP03-055",
+      "OP07-055",
+      "OP01-086"
+    ]
+  },
+  "log-354": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": [
+      "OP03-050",
+      "OP09-050",
+      "OP07-054"
+    ]
+  },
+  "log-355": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 1
+  },
+  "log-356": {
+    "player": "Pirate65394",
+    "action": "End Turn"
+  },
+  "log-357": {
+    "player": "Marveze",
+    "action": "Draw 1 Card"
+  },
+  "log-358": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP02-066"
+  },
+  "log-359": {
+    "player": "Marveze",
+    "action": "Nami attacking Jewelry Bonney",
+    "attacker": "Nami",
+    "attacker_id": "OP09-050",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-360": {
+    "player": "Marveze",
+    "action": "Reveal and Draw",
+    "card": "OP03-056"
+  },
+  "log-361": {
+    "player": "Marveze",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-362": {
+    "player": "Pirate65394",
+    "action": "Attack Fails"
+  },
+  "log-363": {
+    "player": "Marveze",
+    "action": "Sanji's Pilaf",
+    "card": "OP03-056",
+    "effect": "Draw 2 Card"
+  },
+  "log-364": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP02-066"
+  },
+  "log-365": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "ST03-017"
+  },
+  "log-366": {
+    "player": "Marveze",
+    "action": "End Turn"
+  },
+  "log-367": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-030",
+      "OP10-030",
+      "OP08-023",
+      "OP05-037",
+      "OP10-032",
+      "OP07-029",
+      "EB01-015",
+      "OP06-035",
+      "ST02-008",
+      "ST16-004",
+      "OP07-029"
+    ]
+  },
+  "log-368": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP08-030",
+      "EB01-012",
+      "ST16-004",
+      "OP10-032",
+      "OP04-031"
+    ]
+  },
+  "log-369": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-370": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-371": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP07-055",
+      "OP03-055",
+      "OP02-069",
+      "ST03-017",
+      "OP04-041",
+      "OP03-044",
+      "OP01-088",
+      "OP03-044",
+      "OP03-041",
+      "OP04-041",
+      "OP01-088",
+      "OP03-044",
+      "OP01-086",
+      "OP02-066",
+      "OP02-066",
+      "ST03-017"
+    ]
+  },
+  "log-372": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "OP06-059",
+      "OP03-050",
+      "OP03-054",
+      "OP02-063",
+      "OP03-056",
+      "OP06-059",
+      "OP03-054",
+      "OP01-088",
+      "ST03-017",
+      "OP07-055",
+      "OP03-055",
+      "OP03-054",
+      "OP09-050",
+      "OP03-041",
+      "OP03-044",
+      "OP03-055",
+      "OP07-055",
+      "OP01-086",
+      "OP03-056"
+    ]
+  },
+  "log-373": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": [
+      "OP03-050",
+      "OP09-050",
+      "OP07-054"
+    ]
+  },
+  "log-374": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 1
+  },
+  "log-375": {
+    "player": "Pirate65394",
+    "action": "Drew card from deck",
+    "card": "ST02-007"
+  },
+  "log-376": {
+    "player": "Pirate65394",
+    "action": "Draw 1 Card"
+  },
+  "log-377": {
+    "player": "Pirate65394",
+    "action": "Attach 5 Don to Shanks",
+    "card": "ST16-004",
+    "value": 5
+  },
+  "log-378": {
+    "player": "Pirate65394",
+    "action": "Shanks attacking Nami",
+    "attacker": "Shanks",
+    "attacker_id": "ST16-004",
+    "defender": "Nami",
+    "defender_id": "OP03-040"
+  },
+  "log-379": {
+    "player": "Marveze",
+    "action": "Gum-Gum Giant Gavel",
+    "card": "OP03-055",
+    "effect": "Trash Impel Down All Stars",
+    "target": "OP02-066"
+  },
+  "log-380": {
+    "player": "Marveze",
+    "action": "Gum-Gum Giant Gavel",
+    "card": "OP03-055",
+    "effect": "Buff Nami",
+    "target": "OP03-040",
+    "value": 4000,
+    "timing": "Combat"
+  },
+  "log-381": {
+    "player": "Marveze",
+    "action": "Gum-Gum Giant Gavel",
+    "card": "OP03-055",
+    "effect": "Trash 2 Cards from Deck"
+  },
+  "log-382": {
+    "player": "Marveze",
+    "action": "Desert Spada",
+    "card": "OP01-088",
+    "effect": "Buff Nami",
+    "target": "OP03-040",
+    "value": 2000,
+    "timing": "Combat"
+  },
+  "log-383": {
+    "player": "Marveze",
+    "action": "Placing Cards on Top of Deck"
+  },
+  "log-384": {
+    "player": "Marveze",
+    "action": "Love Love Beam",
+    "card": "ST03-017",
+    "effect": "Buff Nami",
+    "target": "OP03-040",
+    "value": 4000,
+    "timing": "Combat"
+  },
+  "log-385": {
+    "player": "Marveze",
+    "action": "Discard for Counter",
+    "card": "OP04-041",
+    "value": 2000
+  },
+  "log-386": {
+    "player": "Pirate65394",
+    "action": "Attack Fails"
+  },
+  "log-387": {
+    "player": "Pirate65394",
+    "action": "Hand",
+    "cards": [
+      "OP10-030",
+      "OP10-030",
+      "OP08-023",
+      "OP05-037",
+      "OP10-032",
+      "OP07-029",
+      "EB01-015",
+      "OP06-035",
+      "ST02-008",
+      "ST16-004",
+      "OP07-029",
+      "ST02-007"
+    ]
+  },
+  "log-388": {
+    "player": "Pirate65394",
+    "action": "Board",
+    "cards": [
+      "OP08-030",
+      "EB01-012",
+      "ST16-004",
+      "OP10-032",
+      "OP04-031"
+    ]
+  },
+  "log-389": {
+    "player": "Pirate65394",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-390": {
+    "player": "Pirate65394",
+    "action": "Life",
+    "value": 5
+  },
+  "log-391": {
+    "player": "Marveze",
+    "action": "Hand",
+    "cards": [
+      "OP07-055",
+      "OP02-069",
+      "ST03-017",
+      "OP04-041",
+      "OP03-044",
+      "OP01-088",
+      "OP03-044",
+      "OP03-041",
+      "OP03-044",
+      "OP01-086",
+      "OP02-066"
+    ]
+  },
+  "log-392": {
+    "player": "Marveze",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "OP06-059",
+      "OP03-050",
+      "OP03-054",
+      "OP02-063",
+      "OP03-056",
+      "OP06-059",
+      "OP03-054",
+      "OP01-088",
+      "ST03-017",
+      "OP07-055",
+      "OP03-055",
+      "OP03-054",
+      "OP09-050",
+      "OP03-041",
+      "OP03-044",
+      "OP03-055",
+      "OP07-055",
+      "OP01-086",
+      "OP03-056",
+      "OP03-055",
+      "OP02-066",
+      "ST03-017",
+      "OP07-054",
+      "OP01-088",
+      "ST03-017",
+      "OP04-041"
+    ]
+  },
+  "log-393": {
+    "player": "Marveze",
+    "action": "Board",
+    "cards": [
+      "OP03-050",
+      "OP09-050",
+      "OP07-054"
+    ]
+  },
+  "log-394": {
+    "player": "Marveze",
+    "action": "Life",
+    "value": 1
+  },
+  "log-395": {
+    "player": "Pirate65394",
+    "action": "End Turn"
+  },
+  "log-396": {
+    "player": "Marveze",
+    "action": "Draw 1 Card"
+  },
+  "log-397": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP09-050"
+  },
+  "log-398": {
+    "player": "Marveze",
+    "action": "Nami attacking Jewelry Bonney",
+    "attacker": "Nami",
+    "attacker_id": "OP09-050",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-399": {
+    "player": "Marveze",
+    "action": "Reveal and Draw",
+    "card": "OP03-055"
+  },
+  "log-400": {
+    "player": "Marveze",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-401": {
+    "player": "Pirate65394",
+    "action": "Attack Fails"
+  },
+  "log-402": {
+    "player": "Marveze",
+    "action": "Deploy",
+    "card": "OP03-044"
+  },
+  "log-403": {
+    "player": "Marveze",
+    "action": "Kaya",
+    "card": "OP03-044",
+    "effect": "Draw 2 Card"
+  },
+  "log-404": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP03-054"
+  },
+  "log-405": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP01-088"
+  },
+  "log-406": {
+    "player": "Marveze",
+    "action": "Trash",
+    "card": "OP01-088"
+  },
+  "log-407": {
+    "player": "Marveze",
+    "action": "Trash",
+    "card": "OP03-054"
+  },
+  "log-408": {
+    "player": "Marveze",
+    "action": "Deploy",
+    "card": "OP03-044"
+  },
+  "log-409": {
+    "player": "Marveze",
+    "action": "Kaya",
+    "card": "OP03-044",
+    "effect": "Draw 2 Card"
+  },
+  "log-410": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP09-050"
+  },
+  "log-411": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP07-054"
+  },
+  "log-412": {
+    "player": "Marveze",
+    "action": "Trash",
+    "card": "OP07-054"
+  },
+  "log-413": {
+    "player": "Marveze",
+    "action": "Trash",
+    "card": "OP09-050"
+  },
+  "log-414": {
+    "player": "Marveze",
+    "action": "Trash",
+    "card": "OP07-054"
+  },
+  "log-415": {
+    "player": "Marveze",
+    "action": "Deploy",
+    "card": "OP03-044"
+  },
+  "log-416": {
+    "player": "Marveze",
+    "action": "Kaya",
+    "card": "OP03-044",
+    "effect": "Draw 2 Card"
+  },
+  "log-417": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP06-059"
+  },
+  "log-418": {
+    "player": "Marveze",
+    "action": "Drew card from deck",
+    "card": "OP02-069"
+  }
+}

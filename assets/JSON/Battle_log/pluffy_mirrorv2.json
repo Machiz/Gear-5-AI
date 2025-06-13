@@ -1,0 +1,1860 @@
+{
+  "log-001": {
+    "player": "MechaGamera",
+    "action": "Attempting to connect to NWR9GQ"
+  },
+  "log-002": {
+    "player": "MechaGamera",
+    "action": "Version is 1.29b"
+  },
+  "log-003": {
+    "player": "MechaGamera",
+    "action": "Leader is Monkey D. Luffy",
+    "card_id": "OP05-060"
+  },
+  "log-004": {
+    "player": "Mhcuber",
+    "action": "Has Connected"
+  },
+  "log-005": {
+    "player": "Mhcuber",
+    "action": "Version is 1.29b"
+  },
+  "log-006": {
+    "player": "Mhcuber",
+    "action": "Leader is Monkey D. Luffy",
+    "card_id": "OP05-060"
+  },
+  "log-007": {
+    "player": "MechaGamera",
+    "action": "Chose to go First"
+  },
+  "log-008": {
+    "player": "MechaGamera",
+    "action": "Drew card from deck",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078"
+  },
+  "log-009": {
+    "player": "MechaGamera",
+    "action": "Drew card from deck",
+    "card": "Eustass 'Captain' Kid",
+    "card_id": "OP05-074"
+  },
+  "log-010": {
+    "player": "MechaGamera",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "OP07-064"
+  },
+  "log-011": {
+    "player": "MechaGamera",
+    "action": "Drew card from deck",
+    "card": "Charlotte Linlin",
+    "card_id": "OP08-069"
+  },
+  "log-012": {
+    "player": "MechaGamera",
+    "action": "Drew card from deck",
+    "card": "Franosuke",
+    "card_id": "OP05-070"
+  },
+  "log-013": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Hitokiri Kamazo",
+    "card_id": "OP06-076"
+  },
+  "log-014": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Luffy-tarou",
+    "card_id": "ST18-005"
+  },
+  "log-015": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Sangoro",
+    "card_id": "ST18-003"
+  },
+  "log-016": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078"
+  },
+  "log-017": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Charlotte Linlin",
+    "card_id": "OP08-069"
+  },
+  "log-018": {
+    "player": "Mhcuber",
+    "action": "Hand before Mulligan",
+    "cards": ["OP06-076", "ST18-005", "ST18-003", "OP09-078", "OP08-069"]
+  },
+  "log-019": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "OP09-065"
+  },
+  "log-020": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Zorojuro",
+    "card_id": "ST18-004"
+  },
+  "log-021": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP09-119"
+  },
+  "log-022": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Onami",
+    "card_id": "ST18-002"
+  },
+  "log-023": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Zorojuro",
+    "card_id": "ST18-004"
+  },
+  "log-024": {
+    "player": "Mhcuber",
+    "action": "Hand after Mulligan",
+    "cards": ["OP09-065", "ST18-004", "OP09-119", "ST18-002", "ST18-004"]
+  },
+  "log-025": {
+    "player": "Mhcuber",
+    "action": "Mulligan"
+  },
+  "log-026": {
+    "player": "MechaGamera",
+    "action": "Drew card from deck",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP09-119"
+  },
+  "log-027": {
+    "player": "MechaGamera",
+    "action": "Drew card from deck",
+    "card": "Onami",
+    "card_id": "ST18-002"
+  },
+  "log-028": {
+    "player": "MechaGamera",
+    "action": "Drew card from deck",
+    "card": "Onami",
+    "card_id": "ST18-002"
+  },
+  "log-029": {
+    "player": "MechaGamera",
+    "action": "Drew card from deck",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-030": {
+    "player": "MechaGamera",
+    "action": "Drew card from deck",
+    "card": "Sangoro",
+    "card_id": "ST18-003"
+  },
+  "log-031": {
+    "player": "MechaGamera",
+    "action": "Mulligan"
+  },
+  "log-032": {
+    "player": "MechaGamera",
+    "action": "Draw 1 Don"
+  },
+  "log-033": {
+    "player": "MechaGamera",
+    "action": "End Turn"
+  },
+  "log-034": {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "cards": ["OP09-065", "ST18-004", "OP09-119", "ST18-002", "ST18-004"]
+  },
+  "log-035": {
+    "player": "Mhcuber",
+    "action": "Board",
+    "cards": []
+  },
+  "log-036": {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-037": {
+    "player": "Mhcuber",
+    "action": "Life",
+    "value": 5
+  },
+  "log-038": {
+    "player": "MechaGamera",
+    "action": "Hand",
+    "cards": ["OP09-119", "ST18-002", "ST18-002", "ST18-001", "ST18-003"]
+  },
+  "log-039": {
+    "player": "MechaGamera",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-040": {
+    "player": "MechaGamera",
+    "action": "Board",
+    "cards": []
+  },
+  "log-041": {
+    "player": "MechaGamera",
+    "action": "Life",
+    "value": 5
+  },
+  "log-042": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Eustass 'Captain' Kid",
+    "card_id": "OP05-074"
+  },
+  "log-043": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-044": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-045": {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "cards": ["OP09-065", "ST18-004", "OP09-119", "ST18-002", "ST18-004", "OP05-074"]
+  },
+  "log-046": {
+    "player": "Mhcuber",
+    "action": "Board",
+    "cards": []
+  },
+  "log-047": {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-048": {
+    "player": "Mhcuber",
+    "action": "Life",
+    "value": 5
+  },
+  "log-049": {
+    "player": "MechaGamera",
+    "action": "Hand",
+    "cards": ["OP09-119", "ST18-002", "ST18-002", "ST18-001", "ST18-003"]
+  },
+  "log-050": {
+    "player": "MechaGamera",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-051": {
+    "player": "MechaGamera",
+    "action": "Board",
+    "cards": []
+  },
+  "log-052": {
+    "player": "MechaGamera",
+    "action": "Life",
+    "value": 5
+  },
+  "log-053": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-054": {
+    "player": "MechaGamera",
+    "action": "Draw 1 Card"
+  },
+  "log-055": {
+    "player": "MechaGamera",
+    "action": "Drew card from deck",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078"
+  },
+  "log-056": {
+    "player": "MechaGamera",
+    "action": "Draw 2 Don"
+  },
+  "log-057": {
+    "player": "MechaGamera",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-058": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter 1000",
+    "card": "Onami",
+    "card_id": "ST18-002"
+  },
+  "log-059": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 5000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 6000
+  },
+  "log-060": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-061": {
+    "player": "MechaGamera",
+    "action": "Loses 1 Life"
+  },
+  "log-062": {
+    "player": "MechaGamera",
+    "action": "Monkey D. Luffy: Draw 1 Don",
+    "card_id": "OP05-060"
+  },
+  "log-063": {
+    "player": "MechaGamera",
+    "action": "Deploy",
+    "card": "Onami",
+    "card_id": "ST18-002"
+  },
+  "log-064": {
+    "player": "MechaGamera",
+    "action": "End Turn"
+  },
+  "log-065": {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "cards": ["OP09-065", "ST18-004", "OP09-119", "ST18-004", "OP05-074"]
+  },
+  "log-066": {
+    "player": "Mhcuber",
+    "action": "Board",
+    "cards": []
+  },
+  "log-067": {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "cards": ["ST18-002"]
+  },
+  "log-068": {
+    "player": "Mhcuber",
+    "action": "Life",
+    "value": 5
+  },
+  "log-069": {
+    "player": "MechaGamera",
+    "action": "Hand",
+    "cards": ["OP09-119", "ST18-002", "ST18-001", "ST18-003", "OP09-078", "OP07-064"]
+  },
+  "log-070": {
+    "player": "MechaGamera",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-071": {
+    "player": "MechaGamera",
+    "action": "Board",
+    "cards": ["ST18-002"]
+  },
+  "log-072": {
+    "player": "MechaGamera",
+    "action": "Life",
+    "value": 4
+  },
+  "log-073": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "OP07-064"
+  },
+  "log-074": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-075": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-076": {
+    "player": "Mhcuber",
+    "action": "Loses 1 Life"
+  },
+  "log-077": {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy: Draw 1 Don",
+    "card_id": "OP05-060"
+  },
+  "log-078": {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "Zorojuro",
+    "card_id": "ST18-004"
+  },
+  "log-079": {
+    "player": "Mhcuber",
+    "action": "Reveal and Draw",
+    "card": "Sangoro",
+    "card_id": "ST18-003"
+  },
+  "log-080": {
+    "player": "Mhcuber",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-081": {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "Trafalgar Law",
+    "card_id": "OP09-069"
+  },
+  "log-082": {
+    "player": "Mhcuber",
+    "action": "Reveal and Draw",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-083": {
+    "player": "Mhcuber",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-084": {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-085": {
+    "player": "MechaGamera",
+    "action": "Discard for Counter 1000",
+    "card": "Onami",
+    "card_id": "ST18-002"
+  },
+  "log-086": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 5000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 6000
+  },
+  "log-087": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-088": {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "cards": ["OP09-065", "ST18-004", "OP09-119", "OP05-074", "OP07-064", "ST18-003", "ST18-001"]
+  },
+  "log-089": {
+    "player": "Mhcuber",
+    "action": "Board",
+    "cards": ["ST18-004", "OP09-069"]
+  },
+  "log-090": {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "cards": ["ST18-002"]
+  },
+  "log-091": {
+    "player": "Mhcuber",
+    "action": "Life",
+    "value": 4
+  },
+  "log-092": {
+    "player": "MechaGamera",
+    "action": "Hand",
+    "cards": ["OP09-119", "ST18-001", "ST18-003", "OP09-078", "OP07-064"]
+  },
+  "log-093": {
+    "player": "MechaGamera",
+    "action": "Trash",
+    "cards": ["ST18-002"]
+  },
+  "log-094": {
+    "player": "MechaGamera",
+    "action": "Board",
+    "cards": ["ST18-002"]
+  },
+  "log-095": {
+    "player": "MechaGamera",
+    "action": "Life",
+    "value": 4
+  },
+  "log-096": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-097": {
+    "player": "MechaGamera",
+    "action": "Draw 1 Card"
+  },
+  "log-098": {
+    "player": "MechaGamera",
+    "action": "Drew card from deck",
+    "card": "Franosuke",
+    "card_id": "OP05-070"
+  },
+  "log-099": {
+    "player": "MechaGamera",
+    "action": "Draw 2 Don"
+  },
+  "log-100": {
+    "player": "MechaGamera",
+    "action": "Deploy",
+    "card": "Sangoro",
+    "card_id": "ST18-003"
+  },
+  "log-101": {
+    "player": "MechaGamera",
+    "action": "Attach 1 Don to Monkey D. Luffy",
+    "card_id": "OP05-060",
+    "total_don": 1
+  },
+  "log-102": {
+    "player": "MechaGamera",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-103": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter 2000",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-104": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 6000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 7000
+  },
+  "log-105": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-106": {
+    "player": "MechaGamera",
+    "action": "End Turn"
+  },
+  "log-107": {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "cards": ["OP09-065", "ST18-004", "OP09-119", "OP05-074", "OP07-064", "ST18-003"]
+  },
+  "log-108": {
+    "player": "Mhcuber",
+    "action": "Board",
+    "cards": ["ST18-004", "OP09-069"]
+  },
+  "log-109": {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "cards": ["ST18-002", "ST18-001"]
+  },
+  "log-110": {
+    "player": "Mhcuber",
+    "action": "Life",
+    "value": 4
+  },
+  "log-111": {
+    "player": "MechaGamera",
+    "action": "Hand",
+    "cards": ["OP09-119", "ST18-001", "OP09-078", "OP07-064", "OP05-070"]
+  },
+  "log-112": {
+    "player": "MechaGamera",
+    "action": "Trash",
+    "cards": ["ST18-002"]
+  },
+  "log-113": {
+    "player": "MechaGamera",
+    "action": "Board",
+    "cards": ["ST18-002", "ST18-003"]
+  },
+  "log-114": {
+    "player": "MechaGamera",
+    "action": "Life",
+    "value": 4
+  },
+  "log-115": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Hitokiri Kamazo",
+    "card_id": "OP06-076"
+  },
+  "log-116": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-117": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-118": {
+    "player": "Mhcuber",
+    "action": "Loses 1 Life"
+  },
+  "log-119": {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy: Draw 1 Don",
+    "card_id": "OP05-060"
+  },
+  "log-120": {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "Sanji",
+    "card_id": "OP09-065"
+  },
+  "log-121": {
+    "player": "Mhcuber",
+    "action": "Sanji: Give Sanji Rush",
+    "card_id": "OP09-065"
+  },
+  "log-122": {
+    "player": "Mhcuber",
+    "action": "Sanji: Rest",
+    "card": "Sangoro",
+    "card_id": "ST18-003"
+  },
+  "log-123": {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "Zorojuro",
+    "attacker_id": "ST18-004",
+    "defender": "Sangoro",
+    "defender_id": "ST18-003"
+  },
+  "log-124": {
+    "player": "MechaGamera",
+    "action": "Discard for Counter 2000",
+    "card": "Franosuke",
+    "card_id": "OP05-070"
+  },
+  "log-125": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Zorojuro",
+    "attacker_id": "ST18-004",
+    "attacker_power": 6000,
+    "defender": "Sangoro",
+    "defender_id": "ST18-003",
+    "defender_power": 8000
+  },
+  "log-126": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-127": {
+    "player": "Mhcuber",
+    "action": "Attach 1 Don to Monkey D. Luffy",
+    "card_id": "OP05-060",
+    "total_don": 1
+  },
+  "log-128": {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Sangoro",
+    "defender_id": "ST18-003"
+  },
+  "log-129": {
+    "player": "MechaGamera",
+    "action": "Blocks",
+    "card": "Onami",
+    "card_id": "ST18-002"
+  },
+  "log-130": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 6000,
+    "defender": "Onami",
+    "defender_id": "ST18-002",
+    "defender_power": 2000
+  },
+  "log-131": {
+    "player": "MechaGamera",
+    "action": "Onami Destroyed",
+    "card_id": "ST18-002"
+  },
+  "log-132": {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "Sanji",
+    "attacker_id": "OP09-065",
+    "defender": "Sangoro",
+    "defender_id": "ST18-003"
+  },
+  "log-133": {
+    "player": "MechaGamera",
+    "action": "Discard for Counter 2000",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-134": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Sanji",
+    "attacker_id": "OP09-065",
+    "attacker_power": 7000,
+    "defender": "Sangoro",
+    "defender_id": "ST18-003",
+    "defender_power": 8000
+  },
+  "log-135": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-136": {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "cards": ["ST18-004", "OP09-119", "OP05-074", "OP07-064", "ST18-003", "OP06-076", "OP07-064"]
+  },
+  "log-137": {
+    "player": "Mhcuber",
+    "action": "Board",
+    "cards": ["ST18-004", "OP09-069", "OP09-065"]
+  },
+  "log-138": {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "cards": ["ST18-002", "ST18-001"]
+  },
+  "log-139": {
+    "player": "Mhcuber",
+    "action": "Life",
+    "value": 3
+  },
+  "log-140": {
+    "player": "MechaGamera",
+    "action": "Hand",
+    "cards": ["OP09-119", "OP09-078", "OP07-064"]
+  },
+  "log-141": {
+    "player": "MechaGamera",
+    "action": "Trash",
+    "cards": ["ST18-002", "OP05-070", "ST18-002", "ST18-001"]
+  },
+  "log-142": {
+    "player": "MechaGamera",
+    "action": "Board",
+    "cards": ["ST18-003"]
+  },
+  "log-143": {
+    "player": "MechaGamera",
+    "action": "Life",
+    "value": 4
+  },
+  "log-144": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-145": {
+    "player": "MechaGamera",
+    "action": "Draw 1 Card"
+  },
+  "log-146": {
+    "player": "MechaGamera",
+    "action": "Drew card from deck",
+    "card": "Luffy-tarou",
+    "card_id": "ST18-005"
+  },
+  "log-147": {
+    "player": "MechaGamera",
+    "action": "Draw 2 Don"
+  },
+  "log-148": {
+    "player": "MechaGamera",
+    "action": "Loses 1 Life"
+  },
+  "log-149": {
+    "player": "MechaGamera",
+    "action": "Monkey D. Luffy: Draw 1 Don",
+    "card_id": "OP05-060"
+  },
+  "log-150": {
+    "player": "MechaGamera",
+    "action": "Deploy",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP09-119"
+  },
+  "log-151": {
+    "player": "MechaGamera",
+    "action": "Drew card from deck",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078"
+  },
+  "log-152": {
+    "player": "MechaGamera",
+    "action": "Monkey D. Luffy: Draw 1 Card",
+    "card_id": "OP09-119"
+  },
+  "log-153": {
+    "player": "MechaGamera",
+    "action": "Monkey D. Luffy: Give Monkey D. Luffy Rush",
+    "card_id": "OP09-119"
+  },
+  "log-154": {
+    "player": "MechaGamera",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP09-119",
+    "defender": "Sanji",
+    "defender_id": "OP09-065"
+  },
+  "log-155": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter 2000",
+    "card": "Sanji",
+    "card_id": "OP07-064"
+  },
+  "log-156": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter 2000",
+    "card": "Hitokiri Kamazo",
+    "card_id": "OP06-076"
+  },
+  "log-157": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP09-119",
+    "attacker_power": 10000,
+    "defender": "Sanji",
+    "defender_id": "OP09-065",
+    "defender_power": 11000
+  },
+  "log-158": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-159": {
+    "player": "MechaGamera",
+    "action": "attacking",
+    "attacker": "Sangoro",
+    "attacker_id": "ST18-003",
+    "defender": "Zorojuro",
+    "defender_id": "ST18-004"
+  },
+  "log-160": {
+    "player": "MechaGamera",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "OP09-065"
+  },
+  "log-161": {
+    "player": "MechaGamera",
+    "action": "Sangoro: Draw 1 Card",
+    "card_id": "ST18-003"
+  },
+  "log-162": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter 1000",
+    "card": "Sangoro",
+    "card_id": "ST18-003"
+  },
+  "log-163": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Sangoro",
+    "attacker_id": "ST18-003",
+    "attacker_power": 6000,
+    "defender": "Zorojuro",
+    "defender_id": "ST18-004",
+    "defender_power": 7000
+  },
+  "log-164": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-165": {
+    "player": "MechaGamera",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-166": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 5000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-167": {
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card_id": "OP05-060"
+  },
+  "log-168": {
+    "player": "MechaGamera",
+    "action": "End Turn"
+  },
+  "log-169": {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "cards": ["ST18-004", "OP09-119", "OP05-074", "OP07-064", "OP07-064"]
+  },
+  "log-170": {
+    "player": "Mhcuber",
+    "action": "Board",
+    "cards": ["ST18-004", "OP09-069", "OP09-065"]
+  },
+  "log-171": {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "cards": ["ST18-002", "ST18-001", "OP07-064", "OP06-076", "ST18-003"]
+  },
+  "log-172": {
+    "player": "Mhcuber",
+    "action": "Life",
+    "value": 2
+  },
+  "log-173": {
+    "player": "MechaGamera",
+    "action": "Hand",
+    "cards": ["OP09-078", "OP07-064", "ST18-005", "OP09-078", "OP09-078", "OP09-065"]
+  },
+  "log-174": {
+    "player": "MechaGamera",
+    "action": "Trash",
+    "cards": ["ST18-002", "OP05-070", "ST18-002", "ST18-001"]
+  },
+  "log-175": {
+    "player": "MechaGamera",
+    "action": "Board",
+    "cards": ["ST18-003", "OP09-119"]
+  },
+  "log-176": {
+    "player": "MechaGamera",
+    "action": "Life",
+    "value": 3
+  },
+  "log-177": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Luffy-tarou",
+    "card_id": "ST18-005"
+  },
+  "log-178": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-179": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-180": {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "Eustass 'Captain' Kid",
+    "card_id": "OP05-074"
+  },
+  "log-181": {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "Zorojuro",
+    "attacker_id": "ST18-004",
+    "defender": "Sangoro",
+    "defender_id": "ST18-003"
+  },
+  "log-182": {
+    "player": "MechaGamera",
+    "action": "Discard for Counter 1000",
+    "card": "Sanji",
+    "card_id": "OP09-065"
+  },
+  "log-183": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Zorojuro",
+    "attacker_id": "ST18-004",
+    "attacker_power": 6000,
+    "defender": "Sangoro",
+    "defender_id": "ST18-003",
+    "defender_power": 7000
+  },
+  "log-184": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-185": {
+    "player": "Mhcuber",
+    "action": "Attach 1 Don to Sanji",
+    "card_id": "OP09-065",
+    "total_don": 1
+  },
+  "log-186": {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "Sanji",
+    "attacker_id": "OP09-065",
+    "defender": "Sangoro",
+    "defender_id": "ST18-003"
+  },
+  "log-187": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Sanji",
+    "attacker_id": "OP09-065",
+    "attacker_power": 8000,
+    "defender": "Sangoro",
+    "defender_id": "ST18-003",
+    "defender_power": 6000
+  },
+  "log-188": {
+    "player": "MechaGamera",
+    "action": "Sangoro Destroyed",
+    "card_id": "ST18-003"
+  },
+  "log-189": {
+    "player": "Mhcuber",
+    "action": "Attach 2 Don to Monkey D. Luffy",
+    "card_id": "OP05-060",
+    "total_don": 2
+  },
+  "log-190": {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-191": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 7000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-192": {
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card_id": "OP05-060"
+  },
+  "log-193": {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "cards": ["ST18-004", "OP09-119", "OP07-064", "OP07-064", "ST18-005"]
+  },
+  "log-194": {
+    "player": "Mhcuber",
+    "action": "Board",
+    "cards": ["ST18-004", "OP09-069", "OP09-065", "OP05-074"]
+  },
+  "log-195": {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "cards": ["ST18-002", "ST18-001", "OP07-064", "OP06-076", "ST18-003"]
+  },
+  "log-196": {
+    "player": "Mhcuber",
+    "action": "Life",
+    "value": 2
+  },
+  "log-197": {
+    "player": "MechaGamera",
+    "action": "Hand",
+    "cards": ["OP09-078", "OP07-064", "ST18-005", "OP09-078", "OP09-078", "ST18-001"]
+  },
+  "log-198": {
+    "player": "MechaGamera",
+    "action": "Trash",
+    "cards": ["ST18-002", "OP05-070", "ST18-002", "ST18-001", "OP09-065", "ST18-003"]
+  },
+  "log-199": {
+    "player": "MechaGamera",
+    "action": "Board",
+    "cards": ["OP09-119"]
+  },
+  "log-200": {
+    "player": "MechaGamera",
+    "action": "Life",
+    "value": 2
+  },
+  "log-201": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-202": {
+    "player": "MechaGamera",
+    "action": "Draw 1 Card"
+  },
+  "log-203": {
+    "player": "MechaGamera",
+    "action": "Drew card from deck",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP09-119"
+  },
+  "log-204": {
+    "player": "MechaGamera",
+    "action": "Draw 2 Don"
+  },
+  "log-205": {
+    "player": "MechaGamera",
+    "action": "Deploy",
+    "card": "Luffy-tarou",
+    "card_id": "ST18-005"
+  },
+  "log-206": {
+    "player": "MechaGamera",
+    "action": "Usohachi: Rest",
+    "card": "Eustass 'Captain' Kid",
+    "card_id": "OP05-074"
+  },
+  "log-207": {
+    "player": "MechaGamera",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP09-119",
+    "defender": "Eustass 'Captain' Kid",
+    "defender_id": "OP05-074"
+  },
+  "log-208": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP09-119",
+    "attacker_power": 10000,
+    "defender": "Eustass 'Captain' Kid",
+    "defender_id": "OP05-074",
+    "defender_power": 6000
+  },
+  "log-209": {
+    "player": "Mhcuber",
+    "action": "Eustass 'Captain' Kid Destroyed",
+    "card_id": "OP05-074"
+  },
+  "log-210": {
+    "player": "MechaGamera",
+    "action": "Attach 1 Don to Monkey D. Luffy",
+    "card_id": "OP05-060",
+    "total_don": 1
+  },
+  "log-211": {
+    "player": "MechaGamera",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Zorojuro",
+    "defender_id": "ST18-004"
+  },
+  "log-212": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter 2000",
+    "card": "Sanji",
+    "card_id": "OP07-064"
+  },
+  "log-213": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 6000,
+    "defender": "Zorojuro",
+    "defender_id": "ST18-004",
+    "defender_power": 8000
+  },
+  "log-214": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-215": {
+    "player": "MechaGamera",
+    "action": "End Turn"
+  },
+  "log-216": {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "cards": ["ST18-004", "OP09-119", "OP07-064", "ST18-005"]
+  },
+  "log-217": {
+    "player": "Mhcuber",
+    "action": "Board",
+    "cards": ["ST18-004", "OP09-069", "OP09-065"]
+  },
+  "log-218": {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "cards": ["ST18-002", "ST18-001", "OP07-064", "OP06-076", "ST18-003", "OP05-074", "OP07-064"]
+  },
+  "log-219": {
+    "player": "Mhcuber",
+    "action": "Life",
+    "value": 2
+  },
+  "log-220": {
+    "player": "MechaGamera",
+    "action": "Hand",
+    "cards": ["OP09-078", "OP07-064", "OP09-078", "OP09-078", "OP09-119"]
+  },
+  "log-221": {
+    "player": "MechaGamera",
+    "action": "Trash",
+    "cards": ["ST18-002", "OP05-070", "ST18-002", "ST18-001", "OP09-065", "ST18-003"]
+  },
+  "log-222": {
+    "player": "MechaGamera",
+    "action": "Board",
+    "cards": ["OP09-119", "ST18-005", "ST18-001"]
+  },
+  "log-223": {
+    "player": "MechaGamera",
+    "action": "Life",
+    "value": 2
+  },
+  "log-224": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078"
+  },
+  "log-225": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-226": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-227": {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP09-119"
+  },
+  "log-228": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Luffy-tarou",
+    "card_id": "ST18-005"
+  },
+  "log-229": {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy: Draw 1 Card",
+    "card_id": "OP09-119"
+  },
+  "log-230": {
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy: Give Monkey D. Luffy Rush",
+    "card_id": "OP09-119"
+  },
+  "log-231": {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-232": {
+    "player": "MechaGamera",
+    "action": "Discard for Counter 2000",
+    "card": "Sanji",
+    "card_id": "OP07-064"
+  },
+  "log-233": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 5000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 7000
+  },
+  "log-234": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-235": {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "Zorojuro",
+    "attacker_id": "ST18-004",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-236": {
+    "player": "MechaGamera",
+    "action": "Gum Gum Giant: Trash",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078"
+  },
+  "log-237": {
+    "player": "MechaGamera",
+    "action": "Gum Gum Giant: Buff",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP05-060",
+    "power_buff": 4000,
+    "duration": "Combat"
+  },
+  "log-238": {
+    "player": "MechaGamera",
+    "action": "Drew card from deck",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-239": {
+    "player": "MechaGamera",
+    "action": "Drew card from deck",
+    "card": "Trafalgar Law",
+    "card_id": "OP09-069"
+  },
+  "log-240": {
+    "player": "MechaGamera",
+    "action": "Gum Gum Giant: Draw 2 Card",
+    "card_id": "OP09-078"
+  },
+  "log-241": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Zorojuro",
+    "attacker_id": "ST18-004",
+    "attacker_power": 6000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 9000
+  },
+  "log-242": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-243": {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "Sanji",
+    "attacker_id": "OP09-065",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-244": {
+    "player": "MechaGamera",
+    "action": "Discard for Counter 2000",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-245": {
+    "player": "MechaGamera",
+    "action": "Discard for Counter 1000",
+    "card": "Trafalgar Law",
+    "card_id": "OP09-069"
+  },
+  "log-246": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Sanji",
+    "attacker_id": "OP09-065",
+    "attacker_power": 7000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 8000
+  },
+  "log-247": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-248": {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP09-119",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP09-119"
+  },
+  "log-249": {
+    "player": "MechaGamera",
+    "action": "Gum Gum Giant: Trash",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP09-119"
+  },
+  "log-250": {
+    "player": "MechaGamera",
+    "action": "Gum Gum Giant: Buff",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP09-119",
+    "power_buff": 4000,
+    "duration": "Combat"
+  },
+  "log-251": {
+    "player": "MechaGamera",
+    "action": "Drew card from deck",
+    "card": "Sangoro",
+    "card_id": "ST18-003"
+  },
+  "log-252": {
+    "player": "MechaGamera",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "OP07-064"
+  },
+  "log-253": {
+    "player": "MechaGamera",
+    "action": "Gum Gum Giant: Draw 2 Card",
+    "card_id": "OP09-078"
+  },
+  "log-254": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP09-119",
+    "attacker_power": 10000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP09-119",
+    "defender_power": 14000
+  },
+  "log-255": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-256": {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "cards": ["ST18-004", "OP07-064", "ST18-005", "OP09-078", "ST18-005"]
+  },
+  "log-257": {
+    "player": "Mhcuber",
+    "action": "Board",
+    "cards": ["ST18-004", "OP09-069", "OP09-065", "OP09-119"]
+  },
+  "log-258": {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "cards": ["ST18-002", "ST18-001", "OP07-064", "OP06-076", "ST18-003", "OP05-074", "OP07-064"]
+  },
+  "log-259": {
+    "player": "Mhcuber",
+    "action": "Life",
+    "value": 2
+  },
+  "log-260": {
+    "player": "MechaGamera",
+    "action": "Hand",
+    "cards": ["ST18-003", "OP07-064"]
+  },
+  "log-261": {
+    "player": "MechaGamera",
+    "action": "Trash",
+    "cards": ["ST18-002", "OP05-070", "ST18-002", "ST18-001", "OP09-065", "ST18-003", "OP07-064", "OP09-078", "OP09-078", "ST18-001", "OP09-069", "OP09-078", "OP09-119"]
+  },
+  "log-262": {
+    "player": "MechaGamera",
+    "action": "Board",
+    "cards": ["OP09-119", "ST18-005", "ST18-001"]
+  },
+  "log-263": {
+    "player": "MechaGamera",
+    "action": "Life",
+    "value": 2
+  },
+  "log-264": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-265": {
+    "player": "MechaGamera",
+    "action": "Draw 1 Card"
+  },
+  "log-266": {
+    "player": "MechaGamera",
+    "action": "Drew card from deck",
+    "card": "Charlotte Linlin",
+    "card_id": "OP08-069"
+  },
+  "log-267": {
+    "player": "MechaGamera",
+    "action": "Draw 2 Don"
+  },
+  "log-268": {
+    "player": "MechaGamera",
+    "action": "Attach 2 Don to Monkey D. Luffy",
+    "card_id": "OP05-060",
+    "total_don": 2
+  },
+  "log-269": {
+    "player": "MechaGamera",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-270": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 7000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-271": {
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card_id": "OP05-060"
+  },
+  "log-272": {
+    "player": "MechaGamera",
+    "action": "attacking",
+    "attacker": "Luffy-tarou",
+    "attacker_id": "ST18-005",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-273": {
+    "player": "Mhcuber",
+    "action": "Gum Gum Giant: Trash",
+    "card": "Luffy-tarou",
+    "card_id": "ST18-005"
+  },
+  "log-274": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-275": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-276": {
+    "player": "Mhcuber",
+    "action": "Gum Gum Giant: Buff",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP05-060",
+    "power_buff": 4000,
+    "duration": "Combat"
+  },
+  "log-277": {
+    "player": "Mhcuber",
+    "action": "Gum Gum Giant: Draw 2 Card",
+    "card_id": "OP09-078"
+  },
+  "log-278": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Luffy-tarou",
+    "attacker_id": "ST18-005",
+    "attacker_power": 8000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 9000
+  },
+  "log-279": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-280": {
+    "player": "MechaGamera",
+    "action": "Attach 3 Don to Usohachi",
+    "card_id": "ST18-001",
+    "total_don": 3
+  },
+  "log-281": {
+    "player": "MechaGamera",
+    "action": "attacking",
+    "attacker": "Usohachi",
+    "attacker_id": "ST18-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-282": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter 2000",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-283": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Usohachi",
+    "attacker_id": "ST18-001",
+    "attacker_power": 6000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 7000
+  },
+  "log-284": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-285": {
+    "player": "MechaGamera",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP09-119",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-286": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP09-119",
+    "attacker_power": 10000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-287": {
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card_id": "OP05-060"
+  },
+  "log-288": {
+    "player": "MechaGamera",
+    "action": "End Turn"
+  },
+  "log-289": {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "cards": ["ST18-004", "OP07-064", "ST18-005", "ST10-010", "ST18-001", "OP09-065"]
+  },
+  "log-290": {
+    "player": "Mhcuber",
+    "action": "Board",
+    "cards": ["ST18-004", "OP09-069", "OP09-065", "OP09-119"]
+  },
+  "log-291": {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "cards": ["ST18-002", "ST18-001", "OP07-064", "OP06-076", "ST18-003", "OP05-074", "OP07-064", "OP09-078", "ST18-005", "ST18-001"]
+  },
+  "log-292": {
+    "player": "Mhcuber",
+    "action": "Life",
+    "value": 0
+  },
+  "log-293": {
+    "player": "MechaGamera",
+    "action": "Hand",
+    "cards": ["ST18-003", "OP07-064", "OP08-069"]
+  },
+  "log-294": {
+    "player": "MechaGamera",
+    "action": "Trash",
+    "cards": ["ST18-002", "OP05-070", "ST18-002", "ST18-001", "OP09-065", "ST18-003", "OP07-064", "OP09-078", "OP09-078", "ST18-001", "OP09-069", "OP09-078", "OP09-119"]
+  },
+  "log-295": {
+    "player": "MechaGamera",
+    "action": "Board",
+    "cards": ["OP09-119", "ST18-005", "ST18-001"]
+  },
+  "log-296": {
+    "player": "MechaGamera",
+    "action": "Life",
+    "value": 2
+  },
+  "log-297": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Zorojuro",
+    "card_id": "ST18-004"
+  },
+  "log-298": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-299": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-300": {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "Sanji",
+    "card_id": "OP09-065"
+  },
+  "log-301": {
+    "player": "Mhcuber",
+    "action": "Sanji: Give Sanji Rush",
+    "card_id": "OP09-065"
+  },
+  "log-302": {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "Zorojuro",
+    "attacker_id": "ST18-004",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-303": {
+    "player": "MechaGamera",
+    "action": "Discard for Counter 2000",
+    "card": "Sanji",
+    "card_id": "OP07-064"
+  },
+  "log-304": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Zorojuro",
+    "attacker_id": "ST18-004",
+    "attacker_power": 6000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 7000
+  },
+  "log-305": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-306": {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "Sanji",
+    "attacker_id": "OP09-065",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-307": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Sanji",
+    "attacker_id": "OP09-065",
+    "attacker_power": 7000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-308": {
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card_id": "OP05-060"
+  },
+  "log-309": {
+    "player": "Mhcuber",
+    "action": "Attach 2 Don to Monkey D. Luffy",
+    "card_id": "OP05-060",
+    "total_don": 2
+  },
+  "log-310": {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-311": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 7000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-312": {
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card_id": "OP05-060"
+  },
+  "log-313": {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "Sanji",
+    "attacker_id": "OP09-065",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-314": {
+    "player": "MechaGamera",
+    "action": "Discard for Counter 1000",
+    "card": "Sanji",
+    "card_id": "OP09-065"
+  },
+  "log-315": {
+    "player": "MechaGamera",
+    "action": "Discard for Counter 1000",
+    "card": "Sanji",
+    "card_id": "OP09-065"
+  },
+  "log-316": {
+    "player": "MechaGamera",
+    "action": "Discard for Counter 1000",
+    "card": "Sangoro",
+    "card_id": "ST18-003"
+  },
+  "log-317": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Sanji",
+    "attacker_id": "OP09-065",
+    "attacker_power": 7000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 8000
+  },
+  "log-318": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-319": {
+    "player": "Mhcuber",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP09-119",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-320": {
+    "player": "System",
+    "action": "Combat",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP09-119",
+    "attacker_power": 10000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-321": {
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card_id": "OP05-060"
+  },
+  "log-322": {
+    "player": "MechaGamera",
+    "action": "Loses"
+  },
+  "log-323": {
+    "player": "Mhcuber",
+    "action": "Wins!"
+  }
+}

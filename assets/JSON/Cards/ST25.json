@@ -1,0 +1,62 @@
+{
+  "ST25-001": {
+    "name": "Alvida ST25-001",
+    "color": "blue",
+    "type": "character",
+    "group": "Cross Guild",
+    "attribute": "Strike",
+    "cost": 4,
+    "power": 5000,
+    "counter": 1000,
+    "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains +1 cost. [On Play] If your Leader is [Buggy], draw 3 cards and trash 2 cards from your hand.",
+    "images": "Images/ST25/ST25-001.png"
+  },
+  "ST25-002": {
+    "name": "Cabaji ST25-002",
+    "color": "blue",
+    "type": "character",
+    "group": "Cross Guild",
+    "attribute": "Slash",
+    "cost": 4,
+    "power": 1000,
+    "counter": 2000,
+    "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains [Blocker] and +1 cost. [Opponent's Turn] This Character gains +5000 power.",
+    "images": "Images/ST25/ST25-002.png"
+  },
+  "ST25-003": {
+    "name": "Crocodile & Mihawk ST25-003",
+    "color": "blue",
+    "type": "character",
+    "group": ["Cross Guild", "Former Baroque Works"],
+    "attribute": ["Slash", "Special"],
+    "cost": 8,
+    "power": 7000,
+    "counter": 0,
+    "effect": "[On Play] Draw 2 cards and trash 1 card from your hand. Then, play up to 1 {Cross Guild} type Character card with a cost of 4 or less from your hand. [Once Per Turn] If your {Cross Guild} type Character would be removed from the field by your opponent's effect, you may trash 1 card from your hand instead.",
+    "images": "Images/ST25/ST25-003.png"
+  },
+  "ST25-004": {
+    "name": "Buggy ST25-004",
+    "color": "blue",
+    "type": "character",
+    "group": ["The Four Emperors", "Cross Guild"],
+    "attribute": "Slash",
+    "cost": 4,
+    "power": 1000,
+    "counter": 1000,
+    "effect": "[Activate: Main] You may trash 1 card from your hand and trash this Character: If your Leader is [Buggy], play up to 1 {Cross Guild} type Character card with a cost of 6 or less from your hand.",
+    "images": "Images/ST25/ST25-004.png"
+  },
+  "ST25-005": {
+    "name": "Mohji ST25-005",
+    "color": "blue",
+    "type": "character",
+    "group": "Cross Guild",
+    "attribute": "Wisdom",
+    "cost": 4,
+    "power": 1000,
+    "counter": 2000,
+    "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains [Blocker] and +1 cost. [On K.O.] If your Leader is [Buggy] and you have 3 or less cards in your hand, draw 1 card.",
+    "images": "Images/ST25/ST25-005.png"
+  }
+}

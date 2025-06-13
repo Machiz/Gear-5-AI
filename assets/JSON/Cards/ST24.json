@@ -1,0 +1,62 @@
+{
+  "ST24-001": {
+    "name": "Capone \"Gang\" Bege ST24-001",
+    "color": "green",
+    "type": "character",
+    "group": ["Supernovas", "Firetank Pirates"],
+    "attribute": "Ranged",
+    "cost": 2,
+    "power": 1000,
+    "counter": 1000,
+    "effect": "[Blocker] [On Play] If you have 6 or more rested cards, draw 1 card and trash 1 card from your hand.",
+    "images": "Images/ST24/ST24-001.png"
+  },
+  "ST24-002": {
+    "name": "Kid & Killer ST24-002",
+    "color": "green",
+    "type": "character",
+    "group": ["Supernovas", "Kid Pirates"],
+    "attribute": ["Slash", "Special"],
+    "cost": 2,
+    "power": 2000,
+    "counter": 1000,
+    "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order. [On Your Opponent's Attack] You may trash this Character: Set up to 1 of your DON!! cards as active.",
+    "images": "Images/ST24/ST24-002.png"
+  },
+  "ST24-003": {
+    "name": "Basil Hawkins ST24-003",
+    "color": "green",
+    "type": "character",
+    "group": ["Supernovas", "Hawkins Pirates"],
+    "attribute": "Slash",
+    "cost": 4,
+    "power": 4000,
+    "counter": 2000,
+    "effect": "[End of Your Turn] Set up to 1 of your DON!! cards as active.",
+    "images": "Images/ST24/ST24-003.png"
+  },
+  "ST24-004": {
+    "name": "Law & Bepo ST24-004",
+    "color": "green",
+    "type": "character",
+    "group": ["Minks", "Supernovas", "Heart Pirates"],
+    "attribute": ["Slash", "Strike"],
+    "cost": 10,
+    "power": 11000,
+    "counter": 0,
+    "effect": "[On Play] Rest up to 1 of your opponent's Characters and that Character will not become active in your opponent's next Refresh Phase. Then, if your opponent has 2 or more rested Characters, your Leader gains +2000 power until the end of your opponent's next End Phase.",
+    "images": "Images/ST24/ST24-004.png"
+  },
+  "ST24-005": {
+    "name": "X. Drake ST24-005",
+    "color": "green",
+    "type": "character",
+    "group": ["Supernovas", "Navy", "Drake Pirates"],
+    "attribute": "Slash",
+    "cost": 5,
+    "power": 5000,
+    "counter": 2000,
+    "effect": "[On Play] If your Leader has the {Supernovas} type, rest up to 1 of your opponent's Characters with a cost of 5 or less. Then, set up to 1 of your DON!! cards as active at the end of this turn.",
+    "images": "Images/ST24/ST24-005.png"
+  }
+}

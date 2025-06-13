@@ -1,0 +1,2118 @@
+{
+  "log-001": {
+    "player": "Pirate18721",
+    "action": "Leader is Marshall D. Teach",
+    "card": "OP09-081"
+  },
+  "log-002": {
+    "player": "Pirate29518",
+    "action": "Leader is Jewelry Bonney",
+    "card": "OP07-019"
+  },
+  "log-003": {
+    "player": "Pirate29518",
+    "action": "Chose to go First"
+  },
+  "log-004": {
+    "player": "Pirate29518",
+    "action": "Drew card from deck",
+    "card": "Donquixote Rosinante",
+    "card_id": "OP05-030"
+  },
+  "log-005": {
+    "player": "Pirate29518",
+    "action": "Drew card from deck",
+    "card": "Jewelry Bonney",
+    "card_id": "ST02-007"
+  },
+  "log-006": {
+    "player": "Pirate29518",
+    "action": "Drew card from deck",
+    "card": "Carrot",
+    "card_id": "OP08-023"
+  },
+  "log-007": {
+    "player": "Pirate29518",
+    "action": "Drew card from deck",
+    "card": "Roronoa Zoro",
+    "card_id": "OP06-118"
+  },
+  "log-008": {
+    "player": "Pirate29518",
+    "action": "Drew card from deck",
+    "card": "Cavendish",
+    "card_id": "EB01-012"
+  },
+  "log-009": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Stronger",
+    "card_id": "OP09-089"
+  },
+  "log-010": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Van Augur",
+    "card_id": "OP09-083"
+  },
+  "log-011": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Laffitte",
+    "card_id": "OP09-095"
+  },
+  "log-012": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-013": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-014": {
+    "player": "Pirate18721",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "OP09-089",
+      "OP09-083",
+      "OP09-095",
+      "OP09-088",
+      "OP09-088"
+    ]
+  },
+  "log-015": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shiryu",
+    "card_id": "OP10-086"
+  },
+  "log-016": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-017": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "This is MY AGE!!!!",
+    "card_id": "OP09-096"
+  },
+  "log-018": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "This is MY AGE!!!!",
+    "card_id": "OP09-096"
+  },
+  "log-019": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Van Augur",
+    "card_id": "OP09-083"
+  },
+  "log-020": {
+    "player": "Pirate18721",
+    "action": "Hand after Mulligan",
+    "cards": [
+      "OP10-086",
+      "OP09-099",
+      "OP09-096",
+      "OP09-096",
+      "OP09-083"
+    ]
+  },
+  "log-021": {
+    "player": "Pirate18721",
+    "action": "Mulligan"
+  },
+  "log-022": {
+    "player": "Pirate29518",
+    "action": "Draw 1 Don"
+  },
+  "log-023": {
+    "player": "Pirate29518",
+    "action": "End Turn"
+  },
+  "log-024": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-086",
+      "OP09-099",
+      "OP09-096",
+      "OP09-096",
+      "OP09-083"
+    ]
+  },
+  "log-025": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-026": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-027": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-028": {
+    "player": "Pirate29518",
+    "action": "Current Hand",
+    "cards": [
+      "OP05-030",
+      "ST02-007",
+      "OP08-023",
+      "OP06-118",
+      "EB01-012"
+    ]
+  },
+  "log-029": {
+    "player": "Pirate29518",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-030": {
+    "player": "Pirate29518",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-031": {
+    "player": "Pirate29518",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-032": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-033": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-093"
+  },
+  "log-034": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-035": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-036": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-037": {
+    "player": "Pirate18721",
+    "action": "This is MY AGE!!!! activated",
+    "card": "OP09-096",
+    "effect": "Trash 2 Remaining Cards"
+  },
+  "log-038": {
+    "player": "Pirate18721",
+    "action": "Hachinosu activated",
+    "card": "OP09-099",
+    "effect": "Rest Hachinosu"
+  },
+  "log-039": {
+    "player": "Pirate18721",
+    "action": "Hachinosu activated",
+    "card": "OP09-099",
+    "effect": "Trash Van Augur",
+    "card_id": "OP09-083"
+  },
+  "log-040": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-041": {
+    "player": "Pirate18721",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-042": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-086",
+      "OP09-096",
+      "OP09-093",
+      "OP09-086",
+      "OP09-088"
+    ]
+  },
+  "log-043": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-044": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP10-086",
+      "OP09-096",
+      "OP09-083"
+    ]
+  },
+  "log-045": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-046": {
+    "player": "Pirate29518",
+    "action": "Current Hand",
+    "cards": [
+      "OP05-030",
+      "ST02-007",
+      "OP08-023",
+      "OP06-118",
+      "EB01-012"
+    ]
+  },
+  "log-047": {
+    "player": "Pirate29518",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-048": {
+    "player": "Pirate29518",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-049": {
+    "player": "Pirate29518",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-050": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-051": {
+    "player": "Pirate29518",
+    "action": "Draw 1 Card"
+  },
+  "log-052": {
+    "player": "Pirate29518",
+    "action": "Drew card from deck",
+    "card": "Smoker",
+    "card_id": "OP10-030"
+  },
+  "log-053": {
+    "player": "Pirate29518",
+    "action": "Draw 2 Don"
+  },
+  "log-054": {
+    "player": "Pirate29518",
+    "action": "Attach 1 Don to",
+    "card": "Jewelry Bonney",
+    "card_id": "OP07-019",
+    "total_don": 1
+  },
+  "log-055": {
+    "player": "Pirate29518",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-056": {
+    "player": "Pirate18721",
+    "action": "Discarded for Counter",
+    "card": "Shiryu",
+    "card_id": "OP09-088",
+    "counter_value": 2000
+  },
+  "log-057": {
+    "player": "Pirate29518",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 7000
+  },
+  "log-058": {
+    "player": "Pirate29518",
+    "action": "Attack Fails"
+  },
+  "log-059": {
+    "player": "Pirate29518",
+    "action": "Deploy",
+    "card": "Jewelry Bonney",
+    "card_id": "ST02-007"
+  },
+  "log-060": {
+    "player": "Pirate29518",
+    "action": "Jewelry Bonney activated",
+    "card": "ST02-007",
+    "effect": "Rest Jewelry Bonney"
+  },
+  "log-061": {
+    "player": "Pirate29518",
+    "action": "Reveal and Draw",
+    "card": "Scratchmen Apoo",
+    "card_id": "EB01-015"
+  },
+  "log-062": {
+    "player": "Pirate29518",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-063": {
+    "player": "Pirate29518",
+    "action": "End Turn"
+  },
+  "log-064": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-086",
+      "OP09-096",
+      "OP09-093",
+      "OP09-086"
+    ]
+  },
+  "log-065": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-066": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP10-086",
+      "OP09-096",
+      "OP09-083",
+      "OP09-088"
+    ]
+  },
+  "log-067": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-068": {
+    "player": "Pirate29518",
+    "action": "Current Hand",
+    "cards": [
+      "OP05-030",
+      "OP08-023",
+      "OP06-118",
+      "EB01-012",
+      "OP10-030",
+      "EB01-015"
+    ]
+  },
+  "log-069": {
+    "player": "Pirate29518",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-070": {
+    "player": "Pirate29518",
+    "action": "Current Board",
+    "cards": [
+      "ST02-007"
+    ]
+  },
+  "log-071": {
+    "player": "Pirate29518",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-072": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-073": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Van Augur",
+    "card_id": "OP09-083"
+  },
+  "log-074": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-075": {
+    "player": "Pirate18721",
+    "action": "Hachinosu activated",
+    "card": "OP09-099",
+    "effect": "Rest Hachinosu"
+  },
+  "log-076": {
+    "player": "Pirate18721",
+    "action": "Hachinosu activated",
+    "card": "OP09-099",
+    "effect": "Trash Van Augur",
+    "card_id": "OP09-083"
+  },
+  "log-077": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Stronger",
+    "card_id": "OP09-089"
+  },
+  "log-078": {
+    "player": "Pirate18721",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-079": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-080": {
+    "player": "Pirate18721",
+    "action": "This is MY AGE!!!! activated",
+    "card": "OP09-096",
+    "effect": "Trash 2 Remaining Cards"
+  },
+  "log-081": {
+    "player": "Pirate18721",
+    "action": "Attach 3 Don to",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "total_don": 3
+  },
+  "log-082": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-083": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 8000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-084": {
+    "player": "Pirate29518",
+    "action": "Damage taken by Jewelry Bonney",
+    "card": "OP07-019",
+    "damage": 1
+  },
+  "log-085": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-086",
+      "OP09-093",
+      "OP09-086",
+      "OP09-089",
+      "OP09-091"
+    ]
+  },
+  "log-086": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-087": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP10-086",
+      "OP09-096",
+      "OP09-083",
+      "OP09-088",
+      "OP09-083",
+      "OP09-096",
+      "EB01-051",
+      "OP09-088"
+    ]
+  },
+  "log-088": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-089": {
+    "player": "Pirate29518",
+    "action": "Current Hand",
+    "cards": [
+      "OP05-030",
+      "OP08-023",
+      "OP06-118",
+      "EB01-012",
+      "OP10-030",
+      "EB01-015",
+      "OP10-032"
+    ]
+  },
+  "log-090": {
+    "player": "Pirate29518",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-091": {
+    "player": "Pirate29518",
+    "action": "Current Board",
+    "cards": [
+      "ST02-007"
+    ]
+  },
+  "log-092": {
+    "player": "Pirate29518",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-093": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-094": {
+    "player": "Pirate29518",
+    "action": "Draw 1 Card"
+  },
+  "log-095": {
+    "player": "Pirate29518",
+    "action": "Drew card from deck",
+    "card": "Donquixote Rosinante",
+    "card_id": "OP05-030"
+  },
+  "log-096": {
+    "player": "Pirate29518",
+    "action": "Draw 2 Don"
+  },
+  "log-097": {
+    "player": "Pirate29518",
+    "action": "Deploy",
+    "card": "Cavendish",
+    "card_id": "EB01-012"
+  },
+  "log-098": {
+    "player": "Pirate29518",
+    "action": "Cavendish activated",
+    "card": "EB01-012",
+    "effect": "Activate 2 Don"
+  },
+  "log-099": {
+    "player": "Pirate29518",
+    "action": "Jewelry Bonney activated",
+    "card": "ST02-007",
+    "effect": "Rest Jewelry Bonney"
+  },
+  "log-100": {
+    "player": "Pirate29518",
+    "action": "Reveal and Draw",
+    "card": "Uroge",
+    "card_id": "OP07-021"
+  },
+  "log-101": {
+    "player": "Pirate29518",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-102": {
+    "player": "Pirate29518",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-103": {
+    "player": "Pirate18721",
+    "action": "Discarded for Counter",
+    "card": "Shiryu",
+    "card_id": "OP10-086",
+    "counter_value": 1000
+  },
+  "log-104": {
+    "player": "Pirate29518",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 5000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 6000
+  },
+  "log-105": {
+    "player": "Pirate29518",
+    "action": "Attack Fails"
+  },
+  "log-106": {
+    "player": "Pirate29518",
+    "action": "End Turn"
+  },
+  "log-107": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-093",
+      "OP09-086",
+      "OP09-089",
+      "OP09-091"
+    ]
+  },
+  "log-108": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-109": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP10-086",
+      "OP09-096",
+      "OP09-083",
+      "OP09-088",
+      "OP09-083",
+      "OP09-096",
+      "EB01-051",
+      "OP09-088",
+      "OP10-086"
+    ]
+  },
+  "log-110": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-111": {
+    "player": "Pirate29518",
+    "action": "Current Hand",
+    "cards": [
+      "OP05-030",
+      "OP08-023",
+      "OP06-118",
+      "OP10-030",
+      "EB01-015",
+      "OP10-032",
+      "OP05-030",
+      "OP07-021"
+    ]
+  },
+  "log-112": {
+    "player": "Pirate29518",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-113": {
+    "player": "Pirate29518",
+    "action": "Current Board",
+    "cards": [
+      "ST02-007",
+      "EB01-012"
+    ]
+  },
+  "log-114": {
+    "player": "Pirate29518",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-115": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-116": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "I Bid 500 Million!!",
+    "card_id": "OP05-096"
+  },
+  "log-117": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-118": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-119": {
+    "player": "Pirate18721",
+    "action": "Attach 1 Don to",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "total_don": 1
+  },
+  "log-120": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-121": {
+    "player": "Pirate29518",
+    "action": "Jewelry Bonney activated",
+    "card": "OP07-019",
+    "effect": "Rest Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-122": {
+    "player": "Pirate29518",
+    "action": "Discarded for Counter",
+    "card": "Tashigi",
+    "card_id": "OP10-032",
+    "counter_value": 2000
+  },
+  "log-123": {
+    "player": "Pirate29518",
+    "action": "Attack details",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 6000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 7000
+  },
+  "log-124": {
+    "player": "Pirate29518",
+    "action": "Attack Fails"
+  },
+  "log-125": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach activated",
+    "card": "OP09-081",
+    "effect": "Trash I Bid 500 Million!!",
+    "card_id": "OP05-096"
+  },
+  "log-126": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach activated",
+    "card": "OP09-081",
+    "effect": "Opponent can't activate On Play abilities next turn!"
+  },
+  "log-127": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-093",
+      "OP09-089",
+      "OP09-091"
+    ]
+  },
+  "log-128": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086"
+    ]
+  },
+  "log-129": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP10-086",
+      "OP09-096",
+      "OP09-083",
+      "OP09-088",
+      "OP09-083",
+      "OP09-096",
+      "EB01-051",
+      "OP09-088",
+      "OP10-086",
+      "OP05-096"
+    ]
+  },
+  "log-130": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-131": {
+    "player": "Pirate29518",
+    "action": "Current Hand",
+    "cards": [
+      "OP05-030",
+      "OP08-023",
+      "OP06-118",
+      "OP10-030",
+      "EB01-015",
+      "OP05-030",
+      "OP07-021"
+    ]
+  },
+  "log-132": {
+    "player": "Pirate29518",
+    "action": "Current Trash",
+    "cards": [
+      "OP10-032"
+    ]
+  },
+  "log-133": {
+    "player": "Pirate29518",
+    "action": "Current Board",
+    "cards": [
+      "ST02-007",
+      "EB01-012"
+    ]
+  },
+  "log-134": {
+    "player": "Pirate29518",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-135": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-136": {
+    "player": "Pirate29518",
+    "action": "Draw 1 Card"
+  },
+  "log-137": {
+    "player": "Pirate29518",
+    "action": "Drew card from deck",
+    "card": "Jewelry Bonney",
+    "card_id": "ST02-007"
+  },
+  "log-138": {
+    "player": "Pirate29518",
+    "action": "Draw 2 Don"
+  },
+  "log-139": {
+    "player": "Pirate29518",
+    "action": "Deploy",
+    "card": "Smoker",
+    "card_id": "OP10-030"
+  },
+  "log-140": {
+    "player": "Pirate29518",
+    "action": "Attacking",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-141": {
+    "player": "Pirate29518",
+    "action": "Cavendish activated",
+    "card": "EB01-012",
+    "effect": "Activate 2 Don"
+  },
+  "log-142": {
+    "player": "Pirate18721",
+    "action": "Discarded for Counter",
+    "card": "Stronger",
+    "card_id": "OP09-089",
+    "counter_value": 2000
+  },
+  "log-143": {
+    "player": "Pirate29518",
+    "action": "Attack details",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 7000
+  },
+  "log-144": {
+    "player": "Pirate29518",
+    "action": "Attack Fails"
+  },
+  "log-145": {
+    "player": "Pirate29518",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-146": {
+    "player": "Pirate29518",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 5000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-147": {
+    "player": "Pirate29518",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-148": {
+    "player": "Pirate29518",
+    "action": "Deploy",
+    "card": "Uroge",
+    "card_id": "OP07-021"
+  },
+  "log-149": {
+    "player": "Pirate29518",
+    "action": "Uroge activated",
+    "card": "OP07-021",
+    "effect": "Activate 1 Don"
+  },
+  "log-150": {
+    "player": "Pirate29518",
+    "action": "End Turn"
+  },
+  "log-151": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-093",
+      "OP09-091",
+      "OP09-089"
+    ]
+  },
+  "log-152": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086"
+    ]
+  },
+  "log-153": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP10-086",
+      "OP09-096",
+      "OP09-083",
+      "OP09-088",
+      "OP09-083",
+      "OP09-096",
+      "EB01-051",
+      "OP09-088",
+      "OP10-086",
+      "OP05-096",
+      "OP09-089"
+    ]
+  },
+  "log-154": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-155": {
+    "player": "Pirate29518",
+    "action": "Current Hand",
+    "cards": [
+      "OP05-030",
+      "OP08-023",
+      "OP06-118",
+      "EB01-015",
+      "OP05-030",
+      "ST02-007"
+    ]
+  },
+  "log-156": {
+    "player": "Pirate29518",
+    "action": "Current Trash",
+    "cards": [
+      "OP10-032"
+    ]
+  },
+  "log-157": {
+    "player": "Pirate29518",
+    "action": "Current Board",
+    "cards": [
+      "ST02-007",
+      "EB01-012",
+      "OP10-030",
+      "OP07-021"
+    ]
+  },
+  "log-158": {
+    "player": "Pirate29518",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-159": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-160": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Black Hole",
+    "card_id": "OP09-098"
+  },
+  "log-161": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-162": {
+    "player": "Pirate18721",
+    "action": "Black Hole activated",
+    "card": "OP09-098",
+    "effect": "Nullify effects of Uroge",
+    "card_id": "OP07-021"
+  },
+  "log-163": {
+    "player": "Pirate18721",
+    "action": "Black Hole activated",
+    "card": "OP09-098",
+    "effect": "Destroy Uroge",
+    "card_id": "OP07-021"
+  },
+  "log-164": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-165": {
+    "player": "Pirate18721",
+    "action": "Attach 1 Don to",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086",
+    "total_don": 1
+  },
+  "log-166": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "defender": "Cavendish",
+    "defender_id": "EB01-012"
+  },
+  "log-167": {
+    "player": "Pirate29518",
+    "action": "Jewelry Bonney activated",
+    "card": "OP07-019",
+    "effect": "Rest Marshall D. Teach",
+    "card_id": "OP09-081"
+  },
+  "log-168": {
+    "player": "Pirate29518",
+    "action": "Discarded for Counter",
+    "card": "Scratchmen Apoo",
+    "card_id": "EB01-015",
+    "counter_value": 2000
+  },
+  "log-169": {
+    "player": "Pirate29518",
+    "action": "Discarded for Counter",
+    "card": "Jewelry Bonney",
+    "card_id": "ST02-007",
+    "counter_value": 1000
+  },
+  "log-170": {
+    "player": "Pirate29518",
+    "action": "Discarded for Counter",
+    "card": "Donquixote Rosinante",
+    "card_id": "OP05-030",
+    "counter_value": 1000
+  },
+  "log-171": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "attacker_power": 9000,
+    "defender": "Cavendish",
+    "defender_id": "EB01-012",
+    "defender_power": 10000
+  },
+  "log-172": {
+    "player": "Pirate18721",
+    "action": "Attack Fails"
+  },
+  "log-173": {
+    "player": "Pirate18721",
+    "action": "Attach 1 Don to",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "total_don": 1
+  },
+  "log-174": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-093",
+      "OP09-089"
+    ]
+  },
+  "log-175": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086",
+      "OP09-091"
+    ]
+  },
+  "log-176": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP10-086",
+      "OP09-096",
+      "OP09-083",
+      "OP09-088",
+      "OP09-083",
+      "OP09-096",
+      "EB01-051",
+      "OP09-088",
+      "OP10-086",
+      "OP05-096",
+      "OP09-089",
+      "OP09-098"
+    ]
+  },
+  "log-177": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-178": {
+    "player": "Pirate29518",
+    "action": "Current Hand",
+    "cards": [
+      "OP05-030",
+      "OP08-023",
+      "OP06-118"
+    ]
+  },
+  "log-179": {
+    "player": "Pirate29518",
+    "action": "Current Trash",
+    "cards": [
+      "OP10-032",
+      "OP07-021",
+      "EB01-015",
+      "ST02-007",
+      "OP05-030"
+    ]
+  },
+  "log-180": {
+    "player": "Pirate29518",
+    "action": "Current Board",
+    "cards": [
+      "ST02-007",
+      "EB01-012",
+      "OP10-030"
+    ]
+  },
+  "log-181": {
+    "player": "Pirate29518",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-182": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-183": {
+    "player": "Pirate29518",
+    "action": "Draw 1 Card"
+  },
+  "log-184": {
+    "player": "Pirate29518",
+    "action": "Drew card from deck",
+    "card": "Carrot",
+    "card_id": "OP08-023"
+  },
+  "log-185": {
+    "player": "Pirate29518",
+    "action": "Draw 2 Don"
+  },
+  "log-186": {
+    "player": "Pirate29518",
+    "action": "Deploy",
+    "card": "Carrot",
+    "card_id": "OP08-023"
+  },
+  "log-187": {
+    "player": "Pirate29518",
+    "action": "Carrot activated",
+    "card": "OP08-023",
+    "effect": "Jesus Burgess will not Activate during next Refresh",
+    "card_id": "OP09-086"
+  },
+  "log-188": {
+    "player": "Pirate29518",
+    "action": "Attacking",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-189": {
+    "player": "Pirate29518",
+    "action": "Cavendish activated",
+    "card": "EB01-012",
+    "effect": "Activate 2 Don"
+  },
+  "log-190": {
+    "player": "Pirate18721",
+    "action": "Discarded for Counter",
+    "card": "Stronger",
+    "card_id": "OP09-089",
+    "counter_value": 2000
+  },
+  "log-191": {
+    "player": "Pirate29518",
+    "action": "Attack details",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 7000
+  },
+  "log-192": {
+    "player": "Pirate29518",
+    "action": "Attack Fails"
+  },
+  "log-193": {
+    "player": "Pirate29518",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-194": {
+    "player": "Pirate29518",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 5000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-195": {
+    "player": "Pirate29518",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-196": {
+    "player": "Pirate29518",
+    "action": "Attacking",
+    "attacker": "Smoker",
+    "attacker_id": "OP10-030",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-197": {
+    "player": "Pirate29518",
+    "action": "Attack details",
+    "attacker": "Smoker",
+    "attacker_id": "OP10-030",
+    "attacker_power": 7000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-198": {
+    "player": "Pirate18721",
+    "action": "Trash from Life",
+    "card": "Laffitte",
+    "card_id": "OP09-095"
+  },
+  "log-199": {
+    "player": "Pirate18721",
+    "action": "Banished 1 Life"
+  },
+  "log-200": {
+    "player": "Pirate29518",
+    "action": "Deploy",
+    "card": "Donquixote Rosinante",
+    "card_id": "OP05-030"
+  },
+  "log-201": {
+    "player": "Pirate29518",
+    "action": "Jewelry Bonney activated",
+    "card": "ST02-007",
+    "effect": "Rest Jewelry Bonney"
+  },
+  "log-202": {
+    "player": "Pirate29518",
+    "action": "Reveal and Draw",
+    "card": "Uroge",
+    "card_id": "OP07-021"
+  },
+  "log-203": {
+    "player": "Pirate29518",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-204": {
+    "player": "Pirate29518",
+    "action": "End Turn"
+  },
+  "log-205": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-093",
+      "OP09-086"
+    ]
+  },
+  "log-206": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086",
+      "OP09-091"
+    ]
+  },
+  "log-207": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP10-086",
+      "OP09-096",
+      "OP09-083",
+      "OP09-088",
+      "OP09-083",
+      "OP09-096",
+      "EB01-051",
+      "OP09-088",
+      "OP10-086",
+      "OP05-096",
+      "OP09-089",
+      "OP09-098",
+      "OP09-089",
+      "OP09-095"
+    ]
+  },
+  "log-208": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 2
+  },
+  "log-209": {
+    "player": "Pirate29518",
+    "action": "Current Hand",
+    "cards": [
+      "OP08-023",
+      "OP06-118",
+      "OP07-021"
+    ]
+  },
+  "log-210": {
+    "player": "Pirate29518",
+    "action": "Current Trash",
+    "cards": [
+      "OP10-032",
+      "OP07-021",
+      "EB01-015",
+      "ST02-007",
+      "OP05-030"
+    ]
+  },
+  "log-211": {
+    "player": "Pirate29518",
+    "action": "Current Board",
+    "cards": [
+      "ST02-007",
+      "EB01-012",
+      "OP10-030",
+      "OP08-023",
+      "OP05-030"
+    ]
+  },
+  "log-212": {
+    "player": "Pirate29518",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-213": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-214": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shigan (Finger Gun)",
+    "card_id": "EB01-051"
+  },
+  "log-215": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-216": {
+    "player": "Pirate18721",
+    "action": "Shigan (Finger Gun) activated",
+    "card": "EB01-051",
+    "effect": "Trash 2 Cards from Deck"
+  },
+  "log-217": {
+    "player": "Pirate18721",
+    "action": "Shigan (Finger Gun) activated",
+    "card": "EB01-051",
+    "effect": "Destroy Carrot",
+    "card_id": "OP08-023"
+  },
+  "log-218": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-219": {
+    "player": "Pirate18721",
+    "action": "Attach 2 Don to",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "total_don": 2
+  },
+  "log-220": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Cavendish",
+    "defender_id": "EB01-012"
+  },
+  "log-221": {
+    "player": "Pirate29518",
+    "action": "Jewelry Bonney activated",
+    "card": "OP07-019",
+    "effect": "Rest Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-222": {
+    "player": "Pirate29518",
+    "action": "Discarded for Counter",
+    "card": "Uroge",
+    "card_id": "OP07-021",
+    "counter_value": 1000
+  },
+  "log-223": {
+    "player": "Pirate29518",
+    "action": "Discarded for Counter",
+    "card": "Carrot",
+    "card_id": "OP08-023",
+    "counter_value": 1000
+  },
+  "log-224": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 7000,
+    "defender": "Cavendish",
+    "defender_id": "EB01-012",
+    "defender_power": 8000
+  },
+  "log-225": {
+    "player": "Pirate18721",
+    "action": "Attack Fails"
+  },
+  "log-226": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-093"
+    ]
+  },
+  "log-227": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086",
+      "OP09-091",
+      "OP09-086"
+    ]
+  },
+  "log-228": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP10-086",
+      "OP09-096",
+      "OP09-083",
+      "OP09-088",
+      "OP09-083",
+      "OP09-096",
+      "EB01-051",
+      "OP09-088",
+      "OP10-086",
+      "OP05-096",
+      "OP09-089",
+      "OP09-098",
+      "OP09-089",
+      "OP09-095",
+      "EB01-051",
+      "OP09-099",
+      "OP09-086"
+    ]
+  },
+  "log-229": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 2
+  },
+  "log-230": {
+    "player": "Pirate29518",
+    "action": "Current Hand",
+    "cards": [
+      "OP06-118"
+    ]
+  },
+  "log-231": {
+    "player": "Pirate29518",
+    "action": "Current Trash",
+    "cards": [
+      "OP10-032",
+      "OP07-021",
+      "EB01-015",
+      "ST02-007",
+      "OP05-030",
+      "OP08-023",
+      "OP07-021",
+      "OP08-023"
+    ]
+  },
+  "log-232": {
+    "player": "Pirate29518",
+    "action": "Current Board",
+    "cards": [
+      "ST02-007",
+      "EB01-012",
+      "OP10-030",
+      "OP05-030"
+    ]
+  },
+  "log-233": {
+    "player": "Pirate29518",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-234": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-235": {
+    "player": "Pirate29518",
+    "action": "Draw 1 Card"
+  },
+  "log-236": {
+    "player": "Pirate29518",
+    "action": "Drew card from deck",
+    "card": "Scratchmen Apoo",
+    "card_id": "ST02-008"
+  },
+  "log-237": {
+    "player": "Pirate29518",
+    "action": "Draw 2 Don"
+  },
+  "log-238": {
+    "player": "Pirate29518",
+    "action": "Deploy",
+    "card": "Roronoa Zoro",
+    "card_id": "OP06-118"
+  },
+  "log-239": {
+    "player": "Pirate29518",
+    "action": "Attacking",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-240": {
+    "player": "Pirate29518",
+    "action": "Cavendish activated",
+    "card": "EB01-012",
+    "effect": "Activate 2 Don"
+  },
+  "log-241": {
+    "player": "Pirate29518",
+    "action": "Attack details",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-242": {
+    "player": "Pirate29518",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-243": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Stronger",
+    "card_id": "OP09-089"
+  },
+  "log-244": {
+    "player": "Pirate18721",
+    "action": "This is MY AGE!!!! activated",
+    "card": "OP09-096",
+    "effect": "Trash 2 Remaining Cards"
+  },
+  "log-245": {
+    "player": "Pirate29518",
+    "action": "Jewelry Bonney activated",
+    "card": "ST02-007",
+    "effect": "Rest Jewelry Bonney"
+  },
+  "log-246": {
+    "player": "Pirate29518",
+    "action": "Reveal and Draw",
+    "card": "Capone \"Gang\" Bege",
+    "card_id": "ST02-004"
+  },
+  "log-247": {
+    "player": "Pirate29518",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-248": {
+    "player": "Pirate29518",
+    "action": "Smoker activated",
+    "card": "OP10-030",
+    "effect": "Activate 1 Don"
+  },
+  "log-249": {
+    "player": "Pirate29518",
+    "action": "Can't Activate Don via Character Effects!"
+  },
+  "log-250": {
+    "player": "Pirate29518",
+    "action": "Attacking",
+    "attacker": "Smoker",
+    "attacker_id": "OP10-030",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-251": {
+    "player": "Pirate29518",
+    "action": "Attack details",
+    "attacker": "Smoker",
+    "attacker_id": "OP10-030",
+    "attacker_power": 7000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-252": {
+    "player": "Pirate18721",
+    "action": "Trash from Life",
+    "card": "Van Augur",
+    "card_id": "OP09-083"
+  },
+  "log-253": {
+    "player": "Pirate18721",
+    "action": "Banished 1 Life"
+  },
+  "log-254": {
+    "player": "Pirate29518",
+    "action": "Attach 2 Don to",
+    "card": "Jewelry Bonney",
+    "card_id": "OP07-019",
+    "total_don": 2
+  },
+  "log-255": {
+    "player": "Pirate29518",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-256": {
+    "player": "Pirate18721",
+    "action": "Vasco Shot Blocks",
+    "card": "OP09-091"
+  },
+  "log-257": {
+    "player": "Pirate29518",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 7000,
+    "defender": "Vasco Shot",
+    "defender_id": "OP09-091",
+    "defender_power": 2000
+  },
+  "log-258": {
+    "player": "Pirate18721",
+    "action": "Vasco Shot Destroyed",
+    "card": "OP09-091"
+  },
+  "log-259": {
+    "player": "Pirate29518",
+    "action": "End Turn"
+  },
+  "log-260": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-093",
+      "OP09-089"
+    ]
+  },
+  "log-261": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086",
+      "OP09-086"
+    ]
+  },
+  "log-262": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP10-086",
+      "OP09-096",
+      "OP09-083",
+      "OP09-088",
+      "OP09-083",
+      "OP09-096",
+      "EB01-051",
+      "OP09-088",
+      "OP10-086",
+      "OP05-096",
+      "OP09-089",
+      "OP09-098",
+      "OP09-089",
+      "OP09-095",
+      "EB01-051",
+      "OP09-099",
+      "OP09-086",
+      "OP09-096",
+      "OP09-086",
+      "OP09-093",
+      "OP09-083",
+      "OP09-091"
+    ]
+  },
+  "log-263": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 0
+  },
+  "log-264": {
+    "player": "Pirate29518",
+    "action": "Current Hand",
+    "cards": [
+      "ST02-008",
+      "ST02-004"
+    ]
+  },
+  "log-265": {
+    "player": "Pirate29518",
+    "action": "Current Trash",
+    "cards": [
+      "OP10-032",
+      "OP07-021",
+      "EB01-015",
+      "ST02-007",
+      "OP05-030",
+      "OP08-023",
+      "OP07-021",
+      "OP08-023"
+    ]
+  },
+  "log-266": {
+    "player": "Pirate29518",
+    "action": "Current Board",
+    "cards": [
+      "ST02-007",
+      "EB01-012",
+      "OP10-030",
+      "OP05-030",
+      "OP06-118"
+    ]
+  },
+  "log-267": {
+    "player": "Pirate29518",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-268": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-269": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Laffitte",
+    "card_id": "OP09-095"
+  },
+  "log-270": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-093"
+  },
+  "log-271": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "defender": "Cavendish",
+    "defender_id": "EB01-012"
+  },
+  "log-272": {
+    "player": "Pirate29518",
+    "action": "Jewelry Bonney activated",
+    "card": "OP07-019",
+    "effect": "Rest Marshall D. Teach",
+    "card_id": "OP09-093"
+  },
+  "log-273": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "attacker_power": 10000,
+    "defender": "Cavendish",
+    "defender_id": "EB01-012",
+    "defender_power": 6000
+  },
+  "log-274": {
+    "player": "Pirate29518",
+    "action": "Donquixote Rosinante activated",
+    "card": "OP05-030",
+    "effect": "Trash Donquixote Rosinante",
+    "card_id": "OP05-030"
+  },
+  "log-275": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "defender": "Cavendish",
+    "defender_id": "EB01-012"
+  },
+  "log-276": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "attacker_power": 10000,
+    "defender": "Cavendish",
+    "defender_id": "EB01-012",
+    "defender_power": 6000
+  },
+  "log-277": {
+    "player": "Pirate29518",
+    "action": "Cavendish Destroyed",
+    "card": "EB01-012"
+  },
+  "log-278": {
+    "player": "Pirate18721",
+    "action": "Hachinosu activated",
+    "card": "OP09-099",
+    "effect": "Rest Hachinosu"
+  },
+  "log-279": {
+    "player": "Pirate18721",
+    "action": "Hachinosu activated",
+    "card": "OP09-099",
+    "effect": "Trash Laffitte",
+    "card_id": "OP09-095"
+  },
+  "log-280": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Shiryu",
+    "card_id": "OP10-086"
+  },
+  "log-281": {
+    "player": "Pirate18721",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-282": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-283": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 5000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-284": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Jewelry Bonney",
+    "card": "OP07-019",
+    "damage": 1
+  },
+  "log-285": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-089",
+      "OP10-086"
+    ]
+  },
+  "log-286": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086",
+      "OP09-086",
+      "OP09-093"
+    ]
+  },
+  "log-287": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP10-086",
+      "OP09-096",
+      "OP09-083",
+      "OP09-088",
+      "OP09-083",
+      "OP09-096",
+      "EB01-051",
+      "OP09-088",
+      "OP10-086",
+      "OP05-096",
+      "OP09-089",
+      "OP09-098",
+      "OP09-089",
+      "OP09-095",
+      "EB01-051",
+      "OP09-099",
+      "OP09-086",
+      "OP09-096",
+      "OP09-086",
+      "OP09-093",
+      "OP09-083",
+      "OP09-091",
+      "OP09-095"
+    ]
+  },
+  "log-288": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 0
+  },
+  "log-289": {
+    "player": "Pirate29518",
+    "action": "Current Hand",
+    "cards": [
+      "ST02-008",
+      "ST02-004",
+      "OP06-035"
+    ]
+  },
+  "log-290": {
+    "player": "Pirate29518",
+    "action": "Current Trash",
+    "cards": [
+      "OP10-032",
+      "OP07-021",
+      "EB01-015",
+      "ST02-007",
+      "OP05-030",
+      "OP08-023",
+      "OP07-021",
+      "OP08-023",
+      "OP05-030",
+      "EB01-012"
+    ]
+  },
+  "log-291": {
+    "player": "Pirate29518",
+    "action": "Current Board",
+    "cards": [
+      "ST02-007",
+      "OP10-030",
+      "OP06-118"
+    ]
+  },
+  "log-292": {
+    "player": "Pirate29518",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-293": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-294": {
+    "player": "Pirate29518",
+    "action": "Draw 1 Card"
+  },
+  "log-295": {
+    "player": "Pirate29518",
+    "action": "Drew card from deck",
+    "card": "Capone \"Gang\" Bege",
+    "card_id": "ST02-004"
+  },
+  "log-296": {
+    "player": "Pirate29518",
+    "action": "Attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP06-118",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-297": {
+    "player": "Pirate29518",
+    "action": "Roronoa Zoro activated",
+    "card": "OP06-118",
+    "effect": "Set to Active"
+  },
+  "log-298": {
+    "player": "Pirate29518",
+    "action": "Attack details",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP06-118",
+    "attacker_power": 9000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-299": {
+    "player": "Pirate29518",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-300": {
+    "player": "Pirate18721",
+    "action": "Loses"
+  }
+}

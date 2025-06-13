@@ -1,0 +1,1935 @@
+{
+  "log-001": {
+    "player": "Pirate18721",
+    "action": "Leader is Marshall D. Teach",
+    "card": "OP09-081"
+  },
+  "log-002": {
+    "player": "Deyvus",
+    "action": "Leader is Monkey D. Luffy",
+    "card": "EB02-010"
+  },
+  "log-003": {
+    "player": "Deyvus",
+    "action": "Chose to go Second"
+  },
+  "log-004": {
+    "player": "Deyvus",
+    "action": "Drew card from deck",
+    "card": "Monkey D. Luffy",
+    "card_id": "EB02-061"
+  },
+  "log-005": {
+    "player": "Deyvus",
+    "action": "Drew card from deck",
+    "card": "Electrical Luna",
+    "card_id": "OP08-036"
+  },
+  "log-006": {
+    "player": "Deyvus",
+    "action": "Drew card from deck",
+    "card": "Luffy-tarou",
+    "card_id": "ST18-005"
+  },
+  "log-007": {
+    "player": "Deyvus",
+    "action": "Drew card from deck",
+    "card": "Nami",
+    "card_id": "EB02-017"
+  },
+  "log-008": {
+    "player": "Deyvus",
+    "action": "Drew card from deck",
+    "card": "When You're At Sea, You Fight Pirates!!!",
+    "card_id": "OP05-076"
+  },
+  "log-009": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Catarina Devon",
+    "card_id": "OP09-084"
+  },
+  "log-010": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Van Augur",
+    "card_id": "OP09-083"
+  },
+  "log-011": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Kuzan",
+    "card_id": "OP10-082"
+  },
+  "log-012": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-013": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "This is MY AGE!!!!",
+    "card_id": "OP09-096"
+  },
+  "log-014": {
+    "player": "Pirate18721",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "OP09-084",
+      "OP09-083",
+      "OP10-082",
+      "OP09-091",
+      "OP09-096"
+    ]
+  },
+  "log-015": {
+    "player": "Deyvus",
+    "action": "Drew card from deck",
+    "card": "Zorojuro",
+    "card_id": "ST18-004"
+  },
+  "log-016": {
+    "player": "Deyvus",
+    "action": "Drew card from deck",
+    "card": "Going Merry",
+    "card_id": "EB02-041"
+  },
+  "log-017": {
+    "player": "Deyvus",
+    "action": "Drew card from deck",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-018": {
+    "player": "Deyvus",
+    "action": "Drew card from deck",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078"
+  },
+  "log-019": {
+    "player": "Deyvus",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "OP07-064"
+  },
+  "log-020": {
+    "player": "Deyvus",
+    "action": "Mulligan"
+  },
+  "log-021": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-022": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Stronger",
+    "card_id": "OP09-089"
+  },
+  "log-023": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-024": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-025": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Kuzan",
+    "card_id": "OP10-082"
+  },
+  "log-026": {
+    "player": "Pirate18721",
+    "action": "Hand after Mulligan",
+    "cards": [
+      "OP09-099",
+      "OP09-089",
+      "OP09-099",
+      "OP09-086",
+      "OP10-082"
+    ]
+  },
+  "log-027": {
+    "player": "Pirate18721",
+    "action": "Mulligan"
+  },
+  "log-028": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP09-099",
+      "OP09-089",
+      "OP09-099",
+      "OP09-086",
+      "OP10-082"
+    ]
+  },
+  "log-029": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": []
+  },
+  "log-030": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-031": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 5
+  },
+  "log-032": {
+    "player": "Deyvus",
+    "action": "Hand",
+    "cards": [
+      "ST18-004",
+      "EB02-041",
+      "ST18-001",
+      "OP09-078",
+      "OP07-064"
+    ]
+  },
+  "log-033": {
+    "player": "Deyvus",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-034": {
+    "player": "Deyvus",
+    "action": "Board",
+    "cards": []
+  },
+  "log-035": {
+    "player": "Deyvus",
+    "action": "Life",
+    "value": 4
+  },
+  "log-036": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Don"
+  },
+  "log-037": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-038": {
+    "player": "Pirate18721",
+    "action": "Hachinosu effect",
+    "card": "Hachinosu",
+    "card_id": "OP09-099",
+    "effect": "Rest Hachinosu"
+  },
+  "log-039": {
+    "player": "Pirate18721",
+    "action": "Hachinosu effect",
+    "card": "Hachinosu",
+    "card_id": "OP09-099",
+    "effect": "Trash Hachinosu"
+  },
+  "log-040": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-041": {
+    "player": "Pirate18721",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-042": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP09-089",
+      "OP09-086",
+      "OP10-082",
+      "OP09-091"
+    ]
+  },
+  "log-043": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": []
+  },
+  "log-044": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": [
+      "OP09-099"
+    ]
+  },
+  "log-045": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 5
+  },
+  "log-046": {
+    "player": "Deyvus",
+    "action": "Hand",
+    "cards": [
+      "ST18-004",
+      "EB02-041",
+      "ST18-001",
+      "OP09-078",
+      "OP07-064"
+    ]
+  },
+  "log-047": {
+    "player": "Deyvus",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-048": {
+    "player": "Deyvus",
+    "action": "Board",
+    "cards": []
+  },
+  "log-049": {
+    "player": "Deyvus",
+    "action": "Life",
+    "value": 4
+  },
+  "log-050": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-051": {
+    "player": "Deyvus",
+    "action": "Draw 1 Card"
+  },
+  "log-052": {
+    "player": "Deyvus",
+    "action": "Drew card from deck",
+    "card": "Gum-Gum Jet Gatling",
+    "card_id": "OP03-072"
+  },
+  "log-053": {
+    "player": "Deyvus",
+    "action": "Draw 2 Don"
+  },
+  "log-054": {
+    "player": "Deyvus",
+    "action": "Deploy",
+    "card": "Going Merry",
+    "card_id": "EB02-041"
+  },
+  "log-055": {
+    "player": "Deyvus",
+    "action": "Drew card from deck",
+    "card": "Sanji & Pudding",
+    "card_id": "EB02-035"
+  },
+  "log-056": {
+    "player": "Deyvus",
+    "action": "Going Merry effect",
+    "card": "Going Merry",
+    "card_id": "EB02-041",
+    "effect": "Draw 1 Card"
+  },
+  "log-057": {
+    "player": "Deyvus",
+    "action": "End Turn"
+  },
+  "log-058": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP09-089",
+      "OP09-086",
+      "OP10-082",
+      "OP09-091"
+    ]
+  },
+  "log-059": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": []
+  },
+  "log-060": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": [
+      "OP09-099"
+    ]
+  },
+  "log-061": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 5
+  },
+  "log-062": {
+    "player": "Deyvus",
+    "action": "Hand",
+    "cards": [
+      "ST18-004",
+      "ST18-001",
+      "OP09-078",
+      "OP07-064",
+      "OP03-072",
+      "EB02-035"
+    ]
+  },
+  "log-063": {
+    "player": "Deyvus",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-064": {
+    "player": "Deyvus",
+    "action": "Board",
+    "cards": []
+  },
+  "log-065": {
+    "player": "Deyvus",
+    "action": "Life",
+    "value": 4
+  },
+  "log-066": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-067": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-068": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-069": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-070": {
+    "player": "Pirate18721",
+    "action": "Attach 1 Don to Marshall D. Teach",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "total_don": 1
+  },
+  "log-071": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "EB02-010"
+  },
+  "log-072": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 6000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "EB02-010",
+    "defender_power": 5000
+  },
+  "log-073": {
+    "player": "Deyvus",
+    "action": "Damage taken by Monkey D. Luffy",
+    "card": "EB02-010",
+    "damage": 1
+  },
+  "log-074": {
+    "player": "Deyvus",
+    "action": "Reveal and Draw",
+    "card": "Monkey D. Luffy",
+    "card_id": "EB02-061"
+  },
+  "log-075": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "effect": "Trash Kuzan",
+    "effect_card_id": "OP10-082"
+  },
+  "log-076": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "effect": "Opponent can't activate On Play abilities next turn!"
+  },
+  "log-077": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP09-089",
+      "OP09-086",
+      "OP09-091"
+    ]
+  },
+  "log-078": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": [
+      "OP09-091"
+    ]
+  },
+  "log-079": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": [
+      "OP09-099",
+      "OP10-082"
+    ]
+  },
+  "log-080": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 5
+  },
+  "log-081": {
+    "player": "Deyvus",
+    "action": "Hand",
+    "cards": [
+      "ST18-004",
+      "ST18-001",
+      "OP09-078",
+      "OP07-064",
+      "OP03-072",
+      "EB02-035",
+      "EB02-061"
+    ]
+  },
+  "log-082": {
+    "player": "Deyvus",
+    "action": "Trash",
+    "cards": [
+      "OP05-076"
+    ]
+  },
+  "log-083": {
+    "player": "Deyvus",
+    "action": "Board",
+    "cards": []
+  },
+  "log-084": {
+    "player": "Deyvus",
+    "action": "Life",
+    "value": 3
+  },
+  "log-085": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-086": {
+    "player": "Deyvus",
+    "action": "Draw 1 Card"
+  },
+  "log-087": {
+    "player": "Deyvus",
+    "action": "Drew card from deck",
+    "card": "Going Merry",
+    "card_id": "EB02-041"
+  },
+  "log-088": {
+    "player": "Deyvus",
+    "action": "Draw 2 Don"
+  },
+  "log-089": {
+    "player": "Deyvus",
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "EB02-010",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-090": {
+    "player": "Deyvus",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "EB02-010",
+    "attacker_power": 5000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-091": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-092": {
+    "player": "Deyvus",
+    "action": "Deploy",
+    "card": "Zorojuro",
+    "card_id": "ST18-004"
+  },
+  "log-093": {
+    "player": "Deyvus",
+    "action": "End Turn"
+  },
+  "log-094": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP09-089",
+      "OP09-086",
+      "OP09-091",
+      "OP09-099"
+    ]
+  },
+  "log-095": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": [
+      "OP09-091"
+    ]
+  },
+  "log-096": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": [
+      "OP09-099",
+      "OP10-082"
+    ]
+  },
+  "log-097": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 4
+  },
+  "log-098": {
+    "player": "Deyvus",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "OP09-078",
+      "OP07-064",
+      "OP03-072",
+      "EB02-035",
+      "EB02-061",
+      "EB02-041"
+    ]
+  },
+  "log-099": {
+    "player": "Deyvus",
+    "action": "Trash",
+    "cards": [
+      "OP05-076"
+    ]
+  },
+  "log-100": {
+    "player": "Deyvus",
+    "action": "Board",
+    "cards": [
+      "ST18-004"
+    ]
+  },
+  "log-101": {
+    "player": "Deyvus",
+    "action": "Life",
+    "value": 3
+  },
+  "log-102": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-103": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-104": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-105": {
+    "player": "Pirate18721",
+    "action": "Hachinosu effect",
+    "card": "Hachinosu",
+    "card_id": "OP09-099",
+    "effect": "Rest Hachinosu"
+  },
+  "log-106": {
+    "player": "Pirate18721",
+    "action": "Hachinosu effect",
+    "card": "Hachinosu",
+    "card_id": "OP09-099",
+    "effect": "Trash Hachinosu"
+  },
+  "log-107": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Liberation",
+    "card_id": "OP10-098"
+  },
+  "log-108": {
+    "player": "Pirate18721",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-109": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-110": {
+    "player": "Pirate18721",
+    "action": "Attach 3 Don to Marshall D. Teach",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "total_don": 3
+  },
+  "log-111": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "EB02-010"
+  },
+  "log-112": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 8000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "EB02-010",
+    "defender_power": 5000
+  },
+  "log-113": {
+    "player": "Deyvus",
+    "action": "Damage taken by Monkey D. Luffy",
+    "card": "EB02-010",
+    "damage": 1
+  },
+  "log-114": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP09-089",
+      "OP09-086",
+      "OP09-088",
+      "OP10-098"
+    ]
+  },
+  "log-115": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": [
+      "OP09-091",
+      "OP09-091"
+    ]
+  },
+  "log-116": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": [
+      "OP09-099",
+      "OP10-082",
+      "OP09-099"
+    ]
+  },
+  "log-117": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 4
+  },
+  "log-118": {
+    "player": "Deyvus",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "OP09-078",
+      "OP07-064",
+      "OP03-072",
+      "EB02-035",
+      "EB02-061",
+      "EB02-041",
+      "EB02-041"
+    ]
+  },
+  "log-119": {
+    "player": "Deyvus",
+    "action": "Trash",
+    "cards": [
+      "OP05-076"
+    ]
+  },
+  "log-120": {
+    "player": "Deyvus",
+    "action": "Board",
+    "cards": [
+      "ST18-004"
+    ]
+  },
+  "log-121": {
+    "player": "Deyvus",
+    "action": "Life",
+    "value": 2
+  },
+  "log-122": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-123": {
+    "player": "Deyvus",
+    "action": "Draw 1 Card"
+  },
+  "log-124": {
+    "player": "Deyvus",
+    "action": "Drew card from deck",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-125": {
+    "player": "Deyvus",
+    "action": "Draw 2 Don"
+  },
+  "log-126": {
+    "player": "Deyvus",
+    "action": "Deploy",
+    "card": "Sanji & Pudding",
+    "card_id": "EB02-035"
+  },
+  "log-127": {
+    "player": "Deyvus",
+    "action": "Monkey D. Luffy effect",
+    "card": "Monkey D. Luffy",
+    "card_id": "EB02-010",
+    "effect": "Activate 1 Don"
+  },
+  "log-128": {
+    "player": "Deyvus",
+    "action": "Monkey D. Luffy effect",
+    "card": "Monkey D. Luffy",
+    "card_id": "EB02-010",
+    "effect": "Activate 1 Don"
+  },
+  "log-129": {
+    "player": "Deyvus",
+    "action": "Monkey D. Luffy effect",
+    "card": "Monkey D. Luffy",
+    "card_id": "EB02-010",
+    "effect": "Grant Monkey D. Luffy 1000 until opponent's next turn end"
+  },
+  "log-130": {
+    "player": "Deyvus",
+    "action": "Sanji & Pudding effect",
+    "card": "Sanji & Pudding",
+    "card_id": "EB02-035",
+    "effect": "Draw 1 Don"
+  },
+  "log-131": {
+    "player": "Deyvus",
+    "action": "Going Merry effect",
+    "card": "Going Merry",
+    "card_id": "EB02-041",
+    "effect": "Rest Going Merry"
+  },
+  "log-132": {
+    "player": "Deyvus",
+    "action": "Going Merry effect",
+    "card": "Going Merry",
+    "card_id": "EB02-041",
+    "effect": "Sanji & Pudding Cost 2 until Opponent's Turn End",
+    "effect_card_id": "EB02-035"
+  },
+  "log-133": {
+    "player": "Deyvus",
+    "action": "Deploy",
+    "card": "Going Merry",
+    "card_id": "EB02-041"
+  },
+  "log-134": {
+    "player": "Deyvus",
+    "action": "Drew card from deck",
+    "card": "Sanji & Pudding",
+    "card_id": "EB02-035"
+  },
+  "log-135": {
+    "player": "Deyvus",
+    "action": "Going Merry effect",
+    "card": "Going Merry",
+    "card_id": "EB02-041",
+    "effect": "Draw 1 Card"
+  },
+  "log-136": {
+    "player": "Deyvus",
+    "action": "Going Merry effect",
+    "card": "Going Merry",
+    "card_id": "EB02-041",
+    "effect": "Rest Going Merry"
+  },
+  "log-137": {
+    "player": "Deyvus",
+    "action": "Going Merry effect",
+    "card": "Going Merry",
+    "card_id": "EB02-041",
+    "effect": "Zorojuro Cost 2 until Opponent's Turn End",
+    "effect_card_id": "ST18-004"
+  },
+  "log-138": {
+    "player": "Deyvus",
+    "action": "Attacking",
+    "attacker": "Zorojuro",
+    "attacker_id": "ST18-004",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-139": {
+    "player": "Pirate18721",
+    "action": "Discarded for Counter 2000",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-140": {
+    "player": "Deyvus",
+    "action": "Attack details",
+    "attacker": "Zorojuro",
+    "attacker_id": "ST18-004",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 7000
+  },
+  "log-141": {
+    "player": "Deyvus",
+    "action": "Attack Fails"
+  },
+  "log-142": {
+    "player": "Deyvus",
+    "action": "Zorojuro cost restored",
+    "card": "Zorojuro",
+    "card_id": "ST18-004"
+  },
+  "log-143": {
+    "player": "Deyvus",
+    "action": "Sanji & Pudding cost restored",
+    "card": "Sanji & Pudding",
+    "card_id": "EB02-035"
+  },
+  "log-144": {
+    "player": "Deyvus",
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "EB02-010",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-145": {
+    "player": "Deyvus",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "EB02-010",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-146": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-147": {
+    "player": "Deyvus",
+    "action": "Deploy",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-148": {
+    "player": "Deyvus",
+    "action": "End Turn"
+  },
+  "log-149": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP09-089",
+      "OP09-086",
+      "OP10-098",
+      "OP09-084"
+    ]
+  },
+  "log-150": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": [
+      "OP09-091",
+      "OP09-091"
+    ]
+  },
+  "log-151": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": [
+      "OP09-099",
+      "OP10-082",
+      "OP09-099",
+      "OP09-088"
+    ]
+  },
+  "log-152": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 3
+  },
+  "log-153": {
+    "player": "Deyvus",
+    "action": "Hand",
+    "cards": [
+      "OP09-078",
+      "OP07-064",
+      "OP03-072",
+      "EB02-061",
+      "EB02-041",
+      "EB02-035"
+    ]
+  },
+  "log-154": {
+    "player": "Deyvus",
+    "action": "Trash",
+    "cards": [
+      "OP05-076",
+      "EB02-041",
+      "ST18-001"
+    ]
+  },
+  "log-155": {
+    "player": "Deyvus",
+    "action": "Board",
+    "cards": [
+      "ST18-004",
+      "EB02-035",
+      "ST18-001"
+    ]
+  },
+  "log-156": {
+    "player": "Deyvus",
+    "action": "Life",
+    "value": 2
+  },
+  "log-157": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-158": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-159": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-160": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Catarina Devon",
+    "card_id": "OP09-084"
+  },
+  "log-161": {
+    "player": "Pirate18721",
+    "action": "Catarina Devon effect",
+    "card": "Catarina Devon",
+    "card_id": "OP09-084",
+    "effect": "Catarina Devon Gains Blocker"
+  },
+  "log-162": {
+    "player": "Pirate18721",
+    "action": "Attach 2 Don to Marshall D. Teach",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "total_don": 2
+  },
+  "log-163": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Zorojuro",
+    "defender_id": "ST18-004"
+  },
+  "log-164": {
+    "player": "Deyvus",
+    "action": "Discarded for Counter 2000",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-165": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 7000,
+    "defender": "Zorojuro",
+    "defender_id": "ST18-004",
+    "defender_power": 8000
+  },
+  "log-166": {
+    "player": "Pirate18721",
+    "action": "Attack Fails"
+  },
+  "log-167": {
+    "player": "Pirate18721",
+    "action": "Zorojuro cost restored",
+    "card": "Zorojuro",
+    "card_id": "ST18-004"
+  },
+  "log-168": {
+    "player": "Pirate18721",
+    "action": "Sanji & Pudding cost restored",
+    "card": "Sanji & Pudding",
+    "card_id": "EB02-035"
+  },
+  "log-169": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP09-089",
+      "OP09-086",
+      "OP10-098",
+      "OP09-088"
+    ]
+  },
+  "log-170": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": [
+      "OP09-091",
+      "OP09-091",
+      "OP09-084"
+    ]
+  },
+  "log-171": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": [
+      "OP09-099",
+      "OP10-082",
+      "OP09-099",
+      "OP09-088"
+    ]
+  },
+  "log-172": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 3
+  },
+  "log-173": {
+    "player": "Deyvus",
+    "action": "Hand",
+    "cards": [
+      "OP09-078",
+      "OP07-064",
+      "OP03-072",
+      "EB02-061",
+      "EB02-041",
+      "EB02-035"
+    ]
+  },
+  "log-174": {
+    "player": "Deyvus",
+    "action": "Trash",
+    "cards": [
+      "OP05-076",
+      "EB02-041",
+      "ST18-001"
+    ]
+  },
+  "log-175": {
+    "player": "Deyvus",
+    "action": "Board",
+    "cards": [
+      "ST18-004",
+      "EB02-035",
+      "ST18-001"
+    ]
+  },
+  "log-176": {
+    "player": "Deyvus",
+    "action": "Life",
+    "value": 2
+  },
+  "log-177": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-178": {
+    "player": "Deyvus",
+    "action": "Draw 1 Card"
+  },
+  "log-179": {
+    "player": "Deyvus",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "OP07-064"
+  },
+  "log-180": {
+    "player": "Deyvus",
+    "action": "Draw 2 Don"
+  },
+  "log-181": {
+    "player": "Deyvus",
+    "action": "Going Merry effect",
+    "card": "Going Merry",
+    "card_id": "EB02-041",
+    "effect": "Rest Going Merry"
+  },
+  "log-182": {
+    "player": "Deyvus",
+    "action": "Going Merry effect",
+    "card": "Going Merry",
+    "card_id": "EB02-041",
+    "effect": "Sanji & Pudding Cost 2 until Opponent's Turn End",
+    "effect_card_id": "EB02-035"
+  },
+  "log-183": {
+    "player": "Deyvus",
+    "action": "Deploy",
+    "card": "Sanji & Pudding",
+    "card_id": "EB02-035"
+  },
+  "log-184": {
+    "player": "Deyvus",
+    "action": "Drew card from deck",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-185": {
+    "player": "Deyvus",
+    "action": "Sanji & Pudding effect",
+    "card": "Sanji & Pudding",
+    "card_id": "EB02-035",
+    "effect": "Draw 1 Card"
+  },
+  "log-186": {
+    "player": "Deyvus",
+    "action": "Monkey D. Luffy effect",
+    "card": "Monkey D. Luffy",
+    "card_id": "EB02-010",
+    "effect": "Activate 1 Don"
+  },
+  "log-187": {
+    "player": "Deyvus",
+    "action": "Monkey D. Luffy effect",
+    "card": "Monkey D. Luffy",
+    "card_id": "EB02-010",
+    "effect": "Activate 1 Don"
+  },
+  "log-188": {
+    "player": "Deyvus",
+    "action": "Monkey D. Luffy effect",
+    "card": "Monkey D. Luffy",
+    "card_id": "EB02-010",
+    "effect": "Grant Monkey D. Luffy 1000 until opponent's next turn end"
+  },
+  "log-189": {
+    "player": "Deyvus",
+    "action": "Sanji & Pudding effect",
+    "card": "Sanji & Pudding",
+    "card_id": "EB02-035",
+    "effect": "Draw 1 Don"
+  },
+  "log-190": {
+    "player": "Deyvus",
+    "action": "Sanji & Pudding effect",
+    "card": "Sanji & Pudding",
+    "card_id": "EB02-035",
+    "effect": "Draw 1 Don"
+  },
+  "log-191": {
+    "player": "Deyvus",
+    "action": "Deploy",
+    "card": "Going Merry",
+    "card_id": "EB02-041"
+  },
+  "log-192": {
+    "player": "Deyvus",
+    "action": "Drew card from deck",
+    "card": "Nami",
+    "card_id": "EB02-017"
+  },
+  "log-193": {
+    "player": "Deyvus",
+    "action": "Going Merry effect",
+    "card": "Going Merry",
+    "card_id": "EB02-041",
+    "effect": "Draw 1 Card"
+  },
+  "log-194": {
+    "player": "Deyvus",
+    "action": "Going Merry effect",
+    "card": "Going Merry",
+    "card_id": "EB02-041",
+    "effect": "Rest Going Merry"
+  },
+  "log-195": {
+    "player": "Deyvus",
+    "action": "Going Merry effect",
+    "card": "Going Merry",
+    "card_id": "EB02-041",
+    "effect": "Sanji & Pudding Cost 2 until Opponent's Turn End",
+    "effect_card_id": "EB02-035"
+  },
+  "log-196": {
+    "player": "Deyvus",
+    "action": "Attacking",
+    "attacker": "Zorojuro",
+    "attacker_id": "ST18-004",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-197": {
+    "player": "Pirate18721",
+    "action": "Discarded for Counter 2000",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-198": {
+    "player": "Deyvus",
+    "action": "Attack details",
+    "attacker": "Zorojuro",
+    "attacker_id": "ST18-004",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 7000
+  },
+  "log-199": {
+    "player": "Deyvus",
+    "action": "Attack Fails"
+  },
+  "log-200": {
+    "player": "Deyvus",
+    "action": "Attacking",
+    "attacker": "Sanji & Pudding",
+    "attacker_id": "EB02-035",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-201": {
+    "player": "Pirate18721",
+    "action": "Blocked by",
+    "blocker": "Vasco Shot",
+    "blocker_id": "OP09-091"
+  },
+  "log-202": {
+    "player": "Deyvus",
+    "action": "Attack details",
+    "attacker": "Sanji & Pudding",
+    "attacker_id": "EB02-035",
+    "attacker_power": 7000,
+    "defender": "Vasco Shot",
+    "defender_id": "OP09-091",
+    "defender_power": 2000
+  },
+  "log-203": {
+    "player": "Pirate18721",
+    "action": "Destroyed",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-204": {
+    "player": "Deyvus",
+    "action": "Attach 3 Don to Usohachi",
+    "card": "Usohachi",
+    "card_id": "ST18-001",
+    "total_don": 3
+  },
+  "log-205": {
+    "player": "Deyvus",
+    "action": "Attacking",
+    "attacker": "Usohachi",
+    "attacker_id": "ST18-001",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-206": {
+    "player": "Deyvus",
+    "action": "Attack details",
+    "attacker": "Usohachi",
+    "attacker_id": "ST18-001",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-207": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-208": {
+    "player": "Pirate18721",
+    "action": "I Bid 500 Million!! effect",
+    "card": "I Bid 500 Million!!",
+    "card_id": "OP05-096",
+    "effect": "Destroy Zorojuro",
+    "effect_card_id": "ST18-004"
+  },
+  "log-209": {
+    "player": "Deyvus",
+    "action": "Deploy",
+    "card": "Nami",
+    "card_id": "EB02-017"
+  },
+  "log-210": {
+    "player": "Deyvus",
+    "action": "Reveal and Draw",
+    "card": "Sanji & Pudding",
+    "card_id": "EB02-035"
+  },
+  "log-211": {
+    "player": "Deyvus",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-212": {
+    "player": "Deyvus",
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "EB02-010",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-213": {
+    "player": "Pirate18721",
+    "action": "Blocked by",
+    "blocker": "Vasco Shot",
+    "blocker_id": "OP09-091"
+  },
+  "log-214": {
+    "player": "Deyvus",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "EB02-010",
+    "attacker_power": 6000,
+    "defender": "Vasco Shot",
+    "defender_id": "OP09-091",
+    "defender_power": 2000
+  },
+  "log-215": {
+    "player": "Pirate18721",
+    "action": "Destroyed",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-216": {
+    "player": "Deyvus",
+    "action": "End Turn"
+  },
+  "log-217": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP09-089",
+      "OP09-086",
+      "OP10-098"
+    ]
+  },
+  "log-218": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": [
+      "OP09-084"
+    ]
+  },
+  "log-219": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": [
+      "OP09-099",
+      "OP10-082",
+      "OP09-099",
+      "OP09-088",
+      "OP09-088",
+      "OP09-091",
+      "OP05-096",
+      "OP09-091"
+    ]
+  },
+  "log-220": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 2
+  },
+  "log-221": {
+    "player": "Deyvus",
+    "action": "Hand",
+    "cards": [
+      "OP09-078",
+      "OP07-064",
+      "OP03-072",
+      "EB02-061",
+      "OP07-064",
+      "ST18-001",
+      "EB02-035"
+    ]
+  },
+  "log-222": {
+    "player": "Deyvus",
+    "action": "Trash",
+    "cards": [
+      "OP05-076",
+      "EB02-041",
+      "ST18-001",
+      "EB02-041",
+      "ST18-004"
+    ]
+  },
+  "log-223": {
+    "player": "Deyvus",
+    "action": "Board",
+    "cards": [
+      "EB02-035",
+      "ST18-001",
+      "EB02-035",
+      "EB02-017"
+    ]
+  },
+  "log-224": {
+    "player": "Deyvus",
+    "action": "Life",
+    "value": 2
+  },
+  "log-225": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-226": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-093"
+  },
+  "log-227": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-228": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Stronger",
+    "card_id": "OP09-089"
+  },
+  "log-229": {
+    "player": "Pirate18721",
+    "action": "Stronger effect",
+    "card": "Stronger",
+    "card_id": "OP09-089",
+    "effect": "Trash Stronger"
+  },
+  "log-230": {
+    "player": "Pirate18721",
+    "action": "Stronger effect",
+    "card": "Stronger",
+    "card_id": "OP09-089",
+    "effect": "Trash Jesus Burgess",
+    "effect_card_id": "OP09-086"
+  },
+  "log-231": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-232": {
+    "player": "Pirate18721",
+    "action": "Stronger effect",
+    "card": "Stronger",
+    "card_id": "OP09-089",
+    "effect": "Draw 1 Card"
+  },
+  "log-233": {
+    "player": "Pirate18721",
+    "action": "Stronger effect",
+    "card": "Stronger",
+    "card_id": "OP09-089",
+    "effect": "Sanji & Pudding Cost -2",
+    "effect_card_id": "EB02-035"
+  },
+  "log-234": {
+    "player": "Pirate18721",
+    "action": "Liberation effect",
+    "card": "Liberation",
+    "card_id": "OP10-098",
+    "effect": "Destroy Sanji & Pudding",
+    "effect_card_id": "EB02-035"
+  },
+  "log-235": {
+    "player": "Pirate18721",
+    "action": "Liberation effect",
+    "card": "Liberation",
+    "card_id": "OP10-098",
+    "effect": "Destroy Usohachi",
+    "effect_card_id": "ST18-001"
+  },
+  "log-236": {
+    "player": "Pirate18721",
+    "action": "Attach 2 Don to Marshall D. Teach",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "total_don": 2
+  },
+  "log-237": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "EB02-010"
+  },
+  "log-238": {
+    "player": "Deyvus",
+    "action": "Discarded for Counter 2000",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-239": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 7000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "EB02-010",
+    "defender_power": 8000
+  },
+  "log-240": {
+    "player": "Pirate18721",
+    "action": "Attack Fails"
+  },
+  "log-241": {
+    "player": "Pirate18721",
+    "action": "Sanji & Pudding cost restored",
+    "card": "Sanji & Pudding",
+    "card_id": "EB02-035"
+  },
+  "log-242": {
+    "player": "Pirate18721",
+    "action": "Hand",
+    "cards": [
+      "OP09-093",
+      "OP09-086"
+    ]
+  },
+  "log-243": {
+    "player": "Pirate18721",
+    "action": "Board",
+    "cards": [
+      "OP09-084"
+    ]
+  },
+  "log-244": {
+    "player": "Pirate18721",
+    "action": "Trash",
+    "cards": [
+      "OP09-099",
+      "OP10-082",
+      "OP09-099",
+      "OP09-088",
+      "OP09-088",
+      "OP09-091",
+      "OP05-096",
+      "OP09-091",
+      "OP09-089",
+      "OP09-086",
+      "OP10-098"
+    ]
+  },
+  "log-245": {
+    "player": "Pirate18721",
+    "action": "Life",
+    "value": 2
+  },
+  "log-246": {
+    "player": "Deyvus",
+    "action": "Hand",
+    "cards": [
+      "OP09-078",
+      "OP07-064",
+      "OP03-072",
+      "EB02-061",
+      "OP07-064",
+      "EB02-035"
+    ]
+  },
+  "log-247": {
+    "player": "Deyvus",
+    "action": "Trash",
+    "cards": [
+      "OP05-076",
+      "EB02-041",
+      "ST18-001",
+      "EB02-041",
+      "ST18-004",
+      "ST18-001",
+      "EB02-035",
+      "ST18-001"
+    ]
+  },
+  "log-248": {
+    "player": "Deyvus",
+    "action": "Board",
+    "cards": [
+      "EB02-035",
+      "EB02-017"
+    ]
+  },
+  "log-249": {
+    "player": "Deyvus",
+    "action": "Life",
+    "value": 2
+  },
+  "log-250": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-251": {
+    "player": "Deyvus",
+    "action": "Draw 1 Card"
+  },
+  "log-252": {
+    "player": "Deyvus",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "OP07-064"
+  },
+  "log-253": {
+    "player": "Deyvus",
+    "action": "Draw 2 Don"
+  },
+  "log-254": {
+    "player": "Deyvus",
+    "action": "Deploy",
+    "card": "Sanji & Pudding",
+    "card_id": "EB02-035"
+  },
+  "log-255": {
+    "player": "Deyvus",
+    "action": "Drew card from deck",
+    "card": "Monkey D. Luffy",
+    "card_id": "EB02-061"
+  },
+  "log-256": {
+    "player": "Deyvus",
+    "action": "Sanji & Pudding effect",
+    "card": "Sanji & Pudding",
+    "card_id": "EB02-035",
+    "effect": "Draw 1 Card"
+  },
+  "log-257": {
+    "player": "Deyvus",
+    "action": "Monkey D. Luffy effect",
+    "card": "Monkey D. Luffy",
+    "card_id": "EB02-010",
+    "effect": "Activate 1 Don"
+  },
+  "log-258": {
+    "player": "Deyvus",
+    "action": "Monkey D. Luffy effect",
+    "card": "Monkey D. Luffy",
+    "card_id": "EB02-010",
+    "effect": "Activate 1 Don"
+  },
+  "log-259": {
+    "player": "Deyvus",
+    "action": "Monkey D. Luffy effect",
+    "card": "Monkey D. Luffy",
+    "card_id": "EB02-010",
+    "effect": "Grant Monkey D. Luffy 1000 until opponent's next turn end"
+  },
+  "log-260": {
+    "player": "Deyvus",
+    "action": "Sanji & Pudding effect",
+    "card": "Sanji & Pudding",
+    "card_id": "EB02-035",
+    "effect": "Draw 1 Don"
+  },
+  "log-261": {
+    "player": "Deyvus",
+    "action": "Sanji & Pudding effect",
+    "card": "Sanji & Pudding",
+    "card_id": "EB02-035",
+    "effect": "Draw 1 Don"
+  },
+  "log-262": {
+    "player": "Deyvus",
+    "action": "Going Merry effect",
+    "card": "Going Merry",
+    "card_id": "EB02-041",
+    "effect": "Rest Going Merry"
+  },
+  "log-263": {
+    "player": "Deyvus",
+    "action": "Going Merry effect",
+    "card": "Going Merry",
+    "card_id": "EB02-041",
+    "effect": "Sanji & Pudding Cost 2 until Opponent's Turn End",
+    "effect_card_id": "EB02-035"
+  },
+  "log-264": {
+    "player": "Deyvus",
+    "action": "Attacking",
+    "attacker": "Sanji & Pudding",
+    "attacker_id": "EB02-035",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-265": {
+    "player": "Deyvus",
+    "action": "Attack details",
+    "attacker": "Sanji & Pudding",
+    "attacker_id": "EB02-035",
+    "attacker_power": 7000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-266": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-267": {
+    "player": "Pirate18721",
+    "action": "Liberation effect",
+    "card": "Liberation",
+    "card_id": "OP10-098",
+    "effect": "Nullify effects of Monkey D. Luffy until next turn end!",
+    "effect_card_id": "EB02-010"
+  },
+  "log-268": {
+    "player": "Pirate18721",
+    "action": "Liberation effect",
+    "card": "Liberation",
+    "card_id": "OP10-098",
+    "effect": "Nullify effects of Sanji & Pudding until next turn end!",
+    "effect_card_id": "EB02-035"
+  },
+  "log-269": {
+    "player": "Deyvus",
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "EB02-010",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-270": {
+    "player": "Deyvus",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "EB02-010",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-271": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-272": {
+    "player": "Deyvus",
+    "action": "Deploy",
+    "card": "Monkey D. Luffy",
+    "card_id": "EB02-061"
+  },
+  "log-273": {
+    "player": "Deyvus",
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "EB02-061",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-274": {
+    "player": "Deyvus",
+    "action": "Monkey D. Luffy effect",
+    "card": "Monkey D. Luffy",
+    "card_id": "EB02-061",
+    "effect": "Set Monkey D. Luffy to Active"
+  },
+  "log-275": {
+    "player": "Deyvus",
+    "action": "Monkey D. Luffy effect",
+    "card": "Monkey D. Luffy",
+    "card_id": "EB02-061",
+    "effect": "Takes Top Life"
+  },
+  "log-276": {
+    "player": "Pirate18721",
+    "action": "Discarded for Counter 2000",
+    "card": "Stronger",
+    "card_id": "OP09-089"
+  },
+  "log-277": {
+    "player": "Pirate18721",
+    "action": "Discarded for Counter 1000",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-278": {
+    "player": "Deyvus",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "EB02-061",
+    "attacker_power": 7000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 8000
+  },
+  "log-279": {
+    "player": "Deyvus",
+    "action": "Attack Fails"
+  },
+  "log-280": {
+    "player": "Deyvus",
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "EB02-061",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-281": {
+    "player": "Deyvus",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "EB02-061",
+    "attacker_power": 7000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-282": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-283": {
+    "player": "Pirate18721",
+    "action": "Loses"
+  }
+}

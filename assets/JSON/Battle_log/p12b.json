@@ -1,0 +1,2140 @@
+{
+  "log-001": {
+    "player": "Pirate18721",
+    "action": "Leader is Marshall D. Teach",
+    "card": "OP09-081"
+  },
+  "log-002": {
+    "player": "AndyWild",
+    "action": "Leader is Vinsmoke Reiju",
+    "card": "OP06-042"
+  },
+  "log-003": {
+    "player": "Pirate18721",
+    "action": "Will select turn order"
+  },
+  "log-004": {
+    "player": "Pirate18721",
+    "action": "Chose to go First"
+  },
+  "log-005": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-006": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-093"
+  },
+  "log-007": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Stronger",
+    "card_id": "OP09-089"
+  },
+  "log-008": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Stronger",
+    "card_id": "OP09-089"
+  },
+  "log-009": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Kuzan",
+    "card_id": "OP10-082"
+  },
+  "log-010": {
+    "player": "Pirate18721",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "OP09-086",
+      "OP09-093",
+      "OP09-089",
+      "OP09-089",
+      "OP10-082"
+    ]
+  },
+  "log-011": {
+    "player": "AndyWild",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-068"
+  },
+  "log-012": {
+    "player": "AndyWild",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Sora",
+    "card_id": "OP06-063"
+  },
+  "log-013": {
+    "player": "AndyWild",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-069"
+  },
+  "log-014": {
+    "player": "AndyWild",
+    "action": "Drew card from deck",
+    "card": "Porche",
+    "card_id": "OP07-072"
+  },
+  "log-015": {
+    "player": "AndyWild",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Sora",
+    "card_id": "OP06-063"
+  },
+  "log-016": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-017": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Kuzan",
+    "card_id": "OP10-082"
+  },
+  "log-018": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shiryu",
+    "card_id": "OP10-086"
+  },
+  "log-019": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-020": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-021": {
+    "player": "Pirate18721",
+    "action": "Hand after Mulligan",
+    "cards": [
+      "OP09-088",
+      "OP10-082",
+      "OP10-086",
+      "OP09-086",
+      "OP09-099"
+    ]
+  },
+  "log-022": {
+    "player": "Pirate18721",
+    "action": "Mulligan"
+  },
+  "log-023": {
+    "player": "AndyWild",
+    "action": "Drew card from deck",
+    "card": "Porche",
+    "card_id": "OP07-072"
+  },
+  "log-024": {
+    "player": "AndyWild",
+    "action": "Drew card from deck",
+    "card": "Foxy",
+    "card_id": "OP10-075"
+  },
+  "log-025": {
+    "player": "AndyWild",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Sora",
+    "card_id": "OP06-063"
+  },
+  "log-026": {
+    "player": "AndyWild",
+    "action": "Drew card from deck",
+    "card": "Cosette",
+    "card_id": "OP06-072"
+  },
+  "log-027": {
+    "player": "AndyWild",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Ichiji",
+    "card_id": "OP06-061"
+  },
+  "log-028": {
+    "player": "AndyWild",
+    "action": "Mulligan"
+  },
+  "log-029": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-088",
+      "OP10-082",
+      "OP10-086",
+      "OP09-086",
+      "OP09-099"
+    ]
+  },
+  "log-030": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-031": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-032": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-033": {
+    "player": "AndyWild",
+    "action": "Current Hand",
+    "cards": [
+      "OP07-072",
+      "OP10-075",
+      "OP06-063",
+      "OP06-072",
+      "OP06-061"
+    ]
+  },
+  "log-034": {
+    "player": "AndyWild",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-035": {
+    "player": "AndyWild",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-036": {
+    "player": "AndyWild",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-037": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Don"
+  },
+  "log-038": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-039": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach ability",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "effect": "Trash Kuzan",
+    "effect_card_id": "OP10-082"
+  },
+  "log-040": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach ability",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "effect": "Opponent can't activate On Play abilities next turn!"
+  },
+  "log-041": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-088",
+      "OP10-086",
+      "OP09-086"
+    ]
+  },
+  "log-042": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-043": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP10-082"
+    ]
+  },
+  "log-044": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-045": {
+    "player": "AndyWild",
+    "action": "Current Hand",
+    "cards": [
+      "OP07-072",
+      "OP10-075",
+      "OP06-063",
+      "OP06-072",
+      "OP06-061"
+    ]
+  },
+  "log-046": {
+    "player": "AndyWild",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-047": {
+    "player": "AndyWild",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-048": {
+    "player": "AndyWild",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-049": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-050": {
+    "player": "AndyWild",
+    "action": "Draw 1 Card"
+  },
+  "log-051": {
+    "player": "AndyWild",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-069"
+  },
+  "log-052": {
+    "player": "AndyWild",
+    "action": "Draw 2 Don"
+  },
+  "log-053": {
+    "player": "AndyWild",
+    "action": "Deploy",
+    "card": "Vinsmoke Sora",
+    "card_id": "OP06-063"
+  },
+  "log-054": {
+    "player": "AndyWild",
+    "action": "Attach Don to",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-042",
+    "attached_don": 1,
+    "total_don": 1
+  },
+  "log-055": {
+    "player": "AndyWild",
+    "action": "End Turn"
+  },
+  "log-056": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-088",
+      "OP10-086",
+      "OP09-086"
+    ]
+  },
+  "log-057": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-058": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP10-082"
+    ]
+  },
+  "log-059": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-060": {
+    "player": "AndyWild",
+    "action": "Current Hand",
+    "cards": [
+      "OP07-072",
+      "OP10-075",
+      "OP06-072",
+      "OP06-061",
+      "OP06-069"
+    ]
+  },
+  "log-061": {
+    "player": "AndyWild",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-062": {
+    "player": "AndyWild",
+    "action": "Current Board",
+    "cards": [
+      "OP06-063"
+    ]
+  },
+  "log-063": {
+    "player": "AndyWild",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-064": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-065": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-066": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-067": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-068": {
+    "player": "Pirate18721",
+    "action": "Attach Don to",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "attached_don": 1,
+    "total_don": 1
+  },
+  "log-069": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042"
+  },
+  "log-070": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 6000,
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042",
+    "defender_power": 5000
+  },
+  "log-071": {
+    "player": "AndyWild",
+    "action": "Damage taken by Vinsmoke Reiju",
+    "card": "OP06-042",
+    "damage": 1
+  },
+  "log-072": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-088",
+      "OP10-086",
+      "OP09-086"
+    ]
+  },
+  "log-073": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-091"
+    ]
+  },
+  "log-074": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP10-082"
+    ]
+  },
+  "log-075": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-076": {
+    "player": "AndyWild",
+    "action": "Current Hand",
+    "cards": [
+      "OP07-072",
+      "OP10-075",
+      "OP06-072",
+      "OP06-061",
+      "OP06-069",
+      "OP07-066"
+    ]
+  },
+  "log-077": {
+    "player": "AndyWild",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-078": {
+    "player": "AndyWild",
+    "action": "Current Board",
+    "cards": [
+      "OP06-063"
+    ]
+  },
+  "log-079": {
+    "player": "AndyWild",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-080": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-081": {
+    "player": "AndyWild",
+    "action": "Draw 1 Card"
+  },
+  "log-082": {
+    "player": "AndyWild",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-068"
+  },
+  "log-083": {
+    "player": "AndyWild",
+    "action": "Draw 2 Don"
+  },
+  "log-084": {
+    "player": "AndyWild",
+    "action": "Deploy",
+    "card": "Porche",
+    "card_id": "OP07-072"
+  },
+  "log-085": {
+    "player": "AndyWild",
+    "action": "Reveal and Draw",
+    "card": "Foxy",
+    "card_id": "OP10-075"
+  },
+  "log-086": {
+    "player": "AndyWild",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-087": {
+    "player": "AndyWild",
+    "action": "Drew card from deck",
+    "card": "Black Maria",
+    "card_id": "OP08-074"
+  },
+  "log-088": {
+    "player": "AndyWild",
+    "action": "Vinsmoke Reiju ability",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-042",
+    "effect": "Draw 1 Card"
+  },
+  "log-089": {
+    "player": "AndyWild",
+    "action": "Vinsmoke Reiju ability",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-068",
+    "effect": "Trash Vinsmoke Reiju",
+    "effect_card_id": "OP06-068"
+  },
+  "log-090": {
+    "player": "AndyWild",
+    "action": "Attach Don to",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-042",
+    "attached_don": 1,
+    "total_don": 1
+  },
+  "log-091": {
+    "player": "AndyWild",
+    "action": "Attacking",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-042",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-092": {
+    "player": "Pirate18721",
+    "action": "Discard for Counter",
+    "card": "Shiryu",
+    "card_id": "OP09-088",
+    "power": 2000
+  },
+  "log-093": {
+    "player": "AndyWild",
+    "action": "Attack details",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-042",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 7000
+  },
+  "log-094": {
+    "player": "AndyWild",
+    "action": "Attack Fails"
+  },
+  "log-095": {
+    "player": "AndyWild",
+    "action": "End Turn"
+  },
+  "log-096": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-086",
+      "OP09-086"
+    ]
+  },
+  "log-097": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-091"
+    ]
+  },
+  "log-098": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP10-082",
+      "OP09-088"
+    ]
+  },
+  "log-099": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-100": {
+    "player": "AndyWild",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-075",
+      "OP06-072",
+      "OP06-061",
+      "OP07-066",
+      "OP10-075",
+      "OP08-074"
+    ]
+  },
+  "log-101": {
+    "player": "AndyWild",
+    "action": "Current Trash",
+    "cards": [
+      "OP06-068"
+    ]
+  },
+  "log-102": {
+    "player": "AndyWild",
+    "action": "Current Board",
+    "cards": [
+      "OP06-063",
+      "OP07-072",
+      "OP06-069"
+    ]
+  },
+  "log-103": {
+    "player": "AndyWild",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-104": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-105": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-106": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-107": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Shiryu",
+    "card_id": "OP10-086"
+  },
+  "log-108": {
+    "player": "Pirate18721",
+    "action": "Shiryu ability",
+    "card": "Shiryu",
+    "card_id": "OP10-086",
+    "effect": "Destroy Porche",
+    "effect_card_id": "OP07-072"
+  },
+  "log-109": {
+    "player": "Pirate18721",
+    "action": "Hachinosu ability",
+    "card": "Hachinosu",
+    "card_id": "OP09-099",
+    "effect": "Rest Hachinosu",
+    "effect_card_id": "OP09-099"
+  },
+  "log-110": {
+    "player": "Pirate18721",
+    "action": "Hachinosu ability",
+    "card": "Hachinosu",
+    "card_id": "OP09-099",
+    "effect": "Trash Hachinosu",
+    "effect_card_id": "OP09-099"
+  },
+  "log-111": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-112": {
+    "player": "Pirate18721",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-113": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach ability",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "effect": "Trash Hachinosu",
+    "effect_card_id": "OP09-099"
+  },
+  "log-114": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach ability",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "effect": "Opponent can't activate On Play abilities next turn!"
+  },
+  "log-115": {
+    "player": "Pirate18721",
+    "action": "Attach Don to",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "attached_don": 1,
+    "total_don": 1
+  },
+  "log-116": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042"
+  },
+  "log-117": {
+    "player": "AndyWild",
+    "action": "Discard for Counter",
+    "card": "Black Maria",
+    "card_id": "OP08-074",
+    "power": 2000
+  },
+  "log-118": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 6000,
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042",
+    "defender_power": 7000
+  },
+  "log-119": {
+    "player": "Pirate18721",
+    "action": "Attack Fails"
+  },
+  "log-120": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-086"
+    ]
+  },
+  "log-121": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-091",
+      "OP10-086"
+    ]
+  },
+  "log-122": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP10-082",
+      "OP09-088",
+      "OP09-099",
+      "OP09-099"
+    ]
+  },
+  "log-123": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-124": {
+    "player": "AndyWild",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-075",
+      "OP06-072",
+      "OP06-061",
+      "OP07-066",
+      "OP10-075"
+    ]
+  },
+  "log-125": {
+    "player": "AndyWild",
+    "action": "Current Trash",
+    "cards": [
+      "OP06-068",
+      "OP07-072",
+      "OP08-074"
+    ]
+  },
+  "log-126": {
+    "player": "AndyWild",
+    "action": "Current Board",
+    "cards": [
+      "OP06-063",
+      "OP06-069"
+    ]
+  },
+  "log-127": {
+    "player": "AndyWild",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-128": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-129": {
+    "player": "AndyWild",
+    "action": "Draw 1 Card"
+  },
+  "log-130": {
+    "player": "AndyWild",
+    "action": "Drew card from deck",
+    "card": "Black Maria",
+    "card_id": "OP08-074"
+  },
+  "log-131": {
+    "player": "AndyWild",
+    "action": "Draw 2 Don"
+  },
+  "log-132": {
+    "player": "AndyWild",
+    "action": "Attacking",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-069",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-133": {
+    "player": "AndyWild",
+    "action": "Attack details",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-069",
+    "attacker_power": 5000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-134": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-135": {
+    "player": "AndyWild",
+    "action": "Deploy",
+    "card": "Tony Tony Chopper",
+    "card_id": "OP07-066"
+  },
+  "log-136": {
+    "player": "AndyWild",
+    "action": "Deploy",
+    "card": "Cosette",
+    "card_id": "OP06-072"
+  },
+  "log-137": {
+    "player": "AndyWild",
+    "action": "Attach Don to",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-042",
+    "attached_don": 1,
+    "total_don": 1
+  },
+  "log-138": {
+    "player": "AndyWild",
+    "action": "Attacking",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-042",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-139": {
+    "player": "AndyWild",
+    "action": "Attack details",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-042",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-140": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-141": {
+    "player": "AndyWild",
+    "action": "End Turn"
+  },
+  "log-142": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-086",
+      "OP09-093",
+      "OP09-086"
+    ]
+  },
+  "log-143": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-091",
+      "OP10-086"
+    ]
+  },
+  "log-144": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP10-082",
+      "OP09-088",
+      "OP09-099",
+      "OP09-099"
+    ]
+  },
+  "log-145": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-146": {
+    "player": "AndyWild",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-075",
+      "OP06-061",
+      "OP10-075",
+      "OP08-074"
+    ]
+  },
+  "log-147": {
+    "player": "AndyWild",
+    "action": "Current Trash",
+    "cards": [
+      "OP06-068",
+      "OP07-072",
+      "OP08-074"
+    ]
+  },
+  "log-148": {
+    "player": "AndyWild",
+    "action": "Current Board",
+    "cards": [
+      "OP06-063",
+      "OP06-069",
+      "OP07-066",
+      "OP06-072"
+    ]
+  },
+  "log-149": {
+    "player": "AndyWild",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-150": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-151": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Kuzan",
+    "card_id": "OP10-082"
+  },
+  "log-152": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-153": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-154": {
+    "player": "Pirate18721",
+    "action": "Attach Don to",
+    "card": "Shiryu",
+    "card_id": "OP10-086",
+    "attached_don": 2,
+    "total_don": 2
+  },
+  "log-155": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Shiryu",
+    "attacker_id": "OP10-086",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-069"
+  },
+  "log-156": {
+    "player": "AndyWild",
+    "action": "Cosette Blocks",
+    "card": "Cosette",
+    "card_id": "OP06-072"
+  },
+  "log-157": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Shiryu",
+    "attacker_id": "OP10-086",
+    "attacker_power": 7000,
+    "defender": "Cosette",
+    "defender_id": "OP06-072",
+    "defender_power": 0
+  },
+  "log-158": {
+    "player": "AndyWild",
+    "action": "Cosette Destroyed",
+    "card": "Cosette",
+    "card_id": "OP06-072"
+  },
+  "log-159": {
+    "player": "Pirate18721",
+    "action": "Attach Don to",
+    "card": "Shiryu",
+    "card_id": "OP10-086",
+    "attached_don": 1,
+    "total_don": 3
+  },
+  "log-160": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-069"
+  },
+  "log-161": {
+    "player": "AndyWild",
+    "action": "Discard for Counter",
+    "card": "Foxy",
+    "card_id": "OP10-075",
+    "power": 2000
+  },
+  "log-162": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 5000,
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-069",
+    "defender_power": 7000
+  },
+  "log-163": {
+    "player": "Pirate18721",
+    "action": "Attack Fails"
+  },
+  "log-164": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-086",
+      "OP09-093",
+      "OP10-082"
+    ]
+  },
+  "log-165": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-091",
+      "OP10-086",
+      "OP09-086"
+    ]
+  },
+  "log-166": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP10-082",
+      "OP09-088",
+      "OP09-099",
+      "OP09-099"
+    ]
+  },
+  "log-167": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-168": {
+    "player": "AndyWild",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-075",
+      "OP06-061",
+      "OP08-074"
+    ]
+  },
+  "log-169": {
+    "player": "AndyWild",
+    "action": "Current Trash",
+    "cards": [
+      "OP06-068",
+      "OP07-072",
+      "OP08-074",
+      "OP06-072",
+      "OP10-075"
+    ]
+  },
+  "log-170": {
+    "player": "AndyWild",
+    "action": "Current Board",
+    "cards": [
+      "OP06-063",
+      "OP06-069",
+      "OP07-066"
+    ]
+  },
+  "log-171": {
+    "player": "AndyWild",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-172": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-173": {
+    "player": "AndyWild",
+    "action": "Draw 1 Card"
+  },
+  "log-174": {
+    "player": "AndyWild",
+    "action": "Drew card from deck",
+    "card": "Foxy",
+    "card_id": "OP10-075"
+  },
+  "log-175": {
+    "player": "AndyWild",
+    "action": "Draw 2 Don"
+  },
+  "log-176": {
+    "player": "AndyWild",
+    "action": "Deploy",
+    "card": "Black Maria",
+    "card_id": "OP08-074"
+  },
+  "log-177": {
+    "player": "AndyWild",
+    "action": "Must return Don to match opponent's Don Count at End of Turn!"
+  },
+  "log-178": {
+    "player": "AndyWild",
+    "action": "Black Maria ability",
+    "card": "Black Maria",
+    "card_id": "OP08-074",
+    "effect": "Draw 1 Rested Don"
+  },
+  "log-179": {
+    "player": "AndyWild",
+    "action": "Black Maria ability",
+    "card": "Black Maria",
+    "card_id": "OP08-074",
+    "effect": "Draw 1 Rested Don"
+  },
+  "log-180": {
+    "player": "AndyWild",
+    "action": "Black Maria ability",
+    "card": "Black Maria",
+    "card_id": "OP08-074",
+    "effect": "Draw 1 Rested Don"
+  },
+  "log-181": {
+    "player": "AndyWild",
+    "action": "Black Maria ability",
+    "card": "Black Maria",
+    "card_id": "OP08-074",
+    "effect": "Draw 1 Rested Don"
+  },
+  "log-182": {
+    "player": "AndyWild",
+    "action": "Attach Don to",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-042",
+    "attached_don": 3,
+    "total_don": 3
+  },
+  "log-183": {
+    "player": "AndyWild",
+    "action": "Attacking",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-042",
+    "defender": "Shiryu",
+    "defender_id": "OP10-086"
+  },
+  "log-184": {
+    "player": "Pirate18721",
+    "action": "Vasco Shot Blocks",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-185": {
+    "player": "AndyWild",
+    "action": "Attack details",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-042",
+    "attacker_power": 8000,
+    "defender": "Vasco Shot",
+    "defender_id": "OP09-091",
+    "defender_power": 2000
+  },
+  "log-186": {
+    "player": "Pirate18721",
+    "action": "Vasco Shot Destroyed",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-187": {
+    "player": "AndyWild",
+    "action": "Attacking",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-069",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-188": {
+    "player": "AndyWild",
+    "action": "Attack details",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-069",
+    "attacker_power": 5000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-189": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-190": {
+    "player": "AndyWild",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Sora",
+    "card_id": "OP06-063"
+  },
+  "log-191": {
+    "player": "AndyWild",
+    "action": "Vinsmoke Reiju ability",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-042",
+    "effect": "Draw 1 Card"
+  },
+  "log-192": {
+    "player": "AndyWild",
+    "action": "End Turn"
+  },
+  "log-193": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-086",
+      "OP09-093",
+      "OP10-082",
+      "OP09-095"
+    ]
+  },
+  "log-194": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP10-086",
+      "OP09-086"
+    ]
+  },
+  "log-195": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP10-082",
+      "OP09-088",
+      "OP09-099",
+      "OP09-099",
+      "OP09-091"
+    ]
+  },
+  "log-196": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 2
+  },
+  "log-197": {
+    "player": "AndyWild",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-075",
+      "OP06-061",
+      "OP10-075",
+      "OP06-063"
+    ]
+  },
+  "log-198": {
+    "player": "AndyWild",
+    "action": "Current Trash",
+    "cards": [
+      "OP06-068",
+      "OP07-072",
+      "OP08-074",
+      "OP06-072",
+      "OP10-075"
+    ]
+  },
+  "log-199": {
+    "player": "AndyWild",
+    "action": "Current Board",
+    "cards": [
+      "OP06-063",
+      "OP06-069",
+      "OP07-066",
+      "OP08-074"
+    ]
+  },
+  "log-200": {
+    "player": "AndyWild",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-201": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-202": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Laffitte",
+    "card_id": "OP09-095"
+  },
+  "log-203": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-204": {
+    "player": "Pirate18721",
+    "action": "Hachinosu ability",
+    "card": "Hachinosu",
+    "card_id": "OP09-099",
+    "effect": "Rest Hachinosu",
+    "effect_card_id": "OP09-099"
+  },
+  "log-205": {
+    "player": "Pirate18721",
+    "action": "Hachinosu ability",
+    "card": "Hachinosu",
+    "card_id": "OP09-099",
+    "effect": "Trash Laffitte",
+    "effect_card_id": "OP09-095"
+  },
+  "log-206": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "This is MY AGE!!!!",
+    "card_id": "OP09-096"
+  },
+  "log-207": {
+    "player": "Pirate18721",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-208": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-093"
+  },
+  "log-209": {
+    "player": "Pirate18721",
+    "action": "This is MY AGE!!!! ability",
+    "card": "This is MY AGE!!!!",
+    "card_id": "OP09-096",
+    "effect": "Trash 2 Remaining Cards"
+  },
+  "log-210": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-211": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach ability",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "effect": "Trash Laffitte",
+    "effect_card_id": "OP09-095"
+  },
+  "log-212": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach ability",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "effect": "Opponent can't activate On Play abilities next turn!"
+  },
+  "log-213": {
+    "player": "Pirate18721",
+    "action": "Attach Don to",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086",
+    "attached_don": 1,
+    "total_don": 1
+  },
+  "log-214": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-069"
+  },
+  "log-215": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "attacker_power": 8000,
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-069",
+    "defender_power": 5000
+  },
+  "log-216": {
+    "player": "AndyWild",
+    "action": "Vinsmoke Reiju Destroyed",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-069"
+  },
+  "log-217": {
+    "player": "Pirate18721",
+    "action": "Attach Don to",
+    "card": "Shiryu",
+    "card_id": "OP10-086",
+    "attached_don": 2,
+    "total_don": 2
+  },
+  "log-218": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Shiryu",
+    "attacker_id": "OP10-086",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042"
+  },
+  "log-219": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Shiryu",
+    "attacker_id": "OP10-086",
+    "attacker_power": 7000,
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042",
+    "defender_power": 5000
+  },
+  "log-220": {
+    "player": "AndyWild",
+    "action": "Damage taken by Vinsmoke Reiju",
+    "card": "OP06-042",
+    "damage": 1
+  },
+  "log-221": {
+    "player": "Pirate18721",
+    "action": "Attach Don to",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "attached_don": 1,
+    "total_don": 1
+  },
+  "log-222": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042"
+  },
+  "log-223": {
+    "player": "AndyWild",
+    "action": "Discard for Counter",
+    "card": "Vinsmoke Sora",
+    "card_id": "OP06-063",
+    "power": 2000
+  },
+  "log-224": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 6000,
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042",
+    "defender_power": 7000
+  },
+  "log-225": {
+    "player": "Pirate18721",
+    "action": "Attack Fails"
+  },
+  "log-226": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-093",
+      "OP10-082",
+      "OP09-093"
+    ]
+  },
+  "log-227": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP10-086",
+      "OP09-086",
+      "OP09-086"
+    ]
+  },
+  "log-228": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP10-082",
+      "OP09-088",
+      "OP09-099",
+      "OP09-099",
+      "OP09-091",
+      "OP09-095",
+      "OP09-096",
+      "OP09-083",
+      "OP05-096",
+      "OP09-095"
+    ]
+  },
+  "log-229": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 2
+  },
+  "log-230": {
+    "player": "AndyWild",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-075",
+      "OP06-061",
+      "OP10-075",
+      "OP06-060"
+    ]
+  },
+  "log-231": {
+    "player": "AndyWild",
+    "action": "Current Trash",
+    "cards": [
+      "OP06-068",
+      "OP07-072",
+      "OP08-074",
+      "OP06-072",
+      "OP10-075",
+      "OP06-069",
+      "OP06-063"
+    ]
+  },
+  "log-232": {
+    "player": "AndyWild",
+    "action": "Current Board",
+    "cards": [
+      "OP06-063",
+      "OP07-066",
+      "OP08-074"
+    ]
+  },
+  "log-233": {
+    "player": "AndyWild",
+    "action": "Current Life",
+    "value": 2
+  },
+  "log-234": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-235": {
+    "player": "AndyWild",
+    "action": "Draw 1 Card"
+  },
+  "log-236": {
+    "player": "AndyWild",
+    "action": "Drew card from deck",
+    "card": "Germa Kingdom",
+    "card_id": "OP06-079"
+  },
+  "log-237": {
+    "player": "AndyWild",
+    "action": "Draw 2 Don"
+  },
+  "log-238": {
+    "player": "AndyWild",
+    "action": "Deploy",
+    "card": "Germa Kingdom",
+    "card_id": "OP06-079"
+  },
+  "log-239": {
+    "player": "AndyWild",
+    "action": "Deploy",
+    "card": "Vinsmoke Ichiji",
+    "card_id": "OP06-061"
+  },
+  "log-240": {
+    "player": "AndyWild",
+    "action": "Attach Don to",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-042",
+    "attached_don": 1,
+    "total_don": 1
+  },
+  "log-241": {
+    "player": "AndyWild",
+    "action": "Attacking",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-042",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-242": {
+    "player": "AndyWild",
+    "action": "Attack details",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-042",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-243": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-244": {
+    "player": "Pirate18721",
+    "action": "Black Hole ability",
+    "card": "Black Hole",
+    "card_id": "OP09-098",
+    "effect": "Nullify effects of Vinsmoke Ichiji",
+    "effect_card_id": "OP06-061"
+  },
+  "log-245": {
+    "player": "AndyWild",
+    "action": "Trash",
+    "card": "Vinsmoke Ichiji",
+    "card_id": "OP06-060"
+  },
+  "log-246": {
+    "player": "AndyWild",
+    "action": "Reveal and Draw",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-068"
+  },
+  "log-247": {
+    "player": "AndyWild",
+    "action": "Vinsmoke Ichiji no longer nullified",
+    "card": "Vinsmoke Ichiji",
+    "card_id": "OP06-061"
+  },
+  "log-248": {
+    "player": "AndyWild",
+    "action": "End Turn"
+  },
+  "log-249": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-093",
+      "OP10-082",
+      "OP09-093"
+    ]
+  },
+  "log-250": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP10-086",
+      "OP09-086",
+      "OP09-086"
+    ]
+  },
+  "log-251": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP10-082",
+      "OP09-088",
+      "OP09-099",
+      "OP09-099",
+      "OP09-091",
+      "OP09-095",
+      "OP09-096",
+      "OP09-083",
+      "OP05-096",
+      "OP09-095",
+      "OP09-098"
+    ]
+  },
+  "log-252": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 1
+  },
+  "log-253": {
+    "player": "AndyWild",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-075",
+      "OP10-075",
+      "OP06-068"
+    ]
+  },
+  "log-254": {
+    "player": "AndyWild",
+    "action": "Current Trash",
+    "cards": [
+      "OP06-068",
+      "OP07-072",
+      "OP08-074",
+      "OP06-072",
+      "OP10-075",
+      "OP06-069",
+      "OP06-063",
+      "OP06-060"
+    ]
+  },
+  "log-255": {
+    "player": "AndyWild",
+    "action": "Current Board",
+    "cards": [
+      "OP06-063",
+      "OP07-066",
+      "OP08-074",
+      "OP06-061"
+    ]
+  },
+  "log-256": {
+    "player": "AndyWild",
+    "action": "Current Life",
+    "value": 2
+  },
+  "log-257": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-258": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Kuzan",
+    "card_id": "OP10-082"
+  },
+  "log-259": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-260": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-093"
+  },
+  "log-261": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Shiryu",
+    "attacker_id": "OP10-086",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042"
+  },
+  "log-262": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Shiryu",
+    "attacker_id": "OP10-086",
+    "attacker_power": 5000,
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042",
+    "defender_power": 5000
+  },
+  "log-263": {
+    "player": "AndyWild",
+    "action": "Damage taken by Vinsmoke Reiju",
+    "card": "OP06-042",
+    "damage": 1
+  },
+  "log-264": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-069"
+  },
+  "log-265": {
+    "player": "AndyWild",
+    "action": "Tony Tony Chopper Blocks",
+    "card": "Tony Tony Chopper",
+    "card_id": "OP07-066"
+  },
+  "log-266": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "attacker_power": 7000,
+    "defender": "Tony Tony Chopper",
+    "defender_id": "OP07-066",
+    "defender_power": 0
+  },
+  "log-267": {
+    "player": "AndyWild",
+    "action": "Tony Tony Chopper Destroyed",
+    "card": "Tony Tony Chopper",
+    "card_id": "OP07-066"
+  },
+  "log-268": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach ability",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-093",
+    "effect": "Nullify effects of Vinsmoke Reiju",
+    "effect_card_id": "OP06-042"
+  },
+  "log-269": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach ability",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-093",
+    "effect": "Vinsmoke Ichiji can't attack next turn",
+    "effect_card_id": "OP06-061"
+  },
+  "log-270": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach ability",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-093",
+    "effect": "Nullify effects of Vinsmoke Ichiji until next turn end!",
+    "effect_card_id": "OP06-061"
+  },
+  "log-271": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042"
+  },
+  "log-272": {
+    "player": "AndyWild",
+    "action": "Discard for Counter",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-068",
+    "power": 1000
+  },
+  "log-273": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 5000,
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042",
+    "defender_power": 6000
+  },
+  "log-274": {
+    "player": "Pirate18721",
+    "action": "Attack Fails"
+  },
+  "log-275": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach ability",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "effect": "Trash Kuzan",
+    "effect_card_id": "OP10-082"
+  },
+  "log-276": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach ability",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "effect": "Opponent can't activate On Play abilities next turn!"
+  },
+  "log-277": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042"
+  },
+  "log-278": {
+    "player": "AndyWild",
+    "action": "Discard for Counter",
+    "card": "Black Maria",
+    "card_id": "OP08-074",
+    "power": 2000
+  },
+  "log-279": {
+    "player": "AndyWild",
+    "action": "Discard for Counter",
+    "card": "Foxy",
+    "card_id": "OP10-075",
+    "power": 2000
+  },
+  "log-280": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "attacker_power": 8000,
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042",
+    "defender_power": 9000
+  },
+  "log-281": {
+    "player": "Pirate18721",
+    "action": "Attack Fails"
+  },
+  "log-282": {
+    "player": "Pirate18721",
+    "action": "Vinsmoke Reiju no longer nullified",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-042"
+  },
+  "log-283": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-082",
+      "OP09-093"
+    ]
+  },
+  "log-284": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP10-086",
+      "OP09-086",
+      "OP09-086",
+      "OP09-093"
+    ]
+  },
+  "log-285": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP10-082",
+      "OP09-088",
+      "OP09-099",
+      "OP09-099",
+      "OP09-091",
+      "OP09-095",
+      "OP09-096",
+      "OP09-083",
+      "OP05-096",
+      "OP09-095",
+      "OP09-098",
+      "OP10-082"
+    ]
+  },
+  "log-286": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 1
+  },
+  "log-287": {
+    "player": "AndyWild",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-075"
+    ]
+  },
+  "log-288": {
+    "player": "AndyWild",
+    "action": "Current Trash",
+    "cards": [
+      "OP06-068",
+      "OP07-072",
+      "OP08-074",
+      "OP06-072",
+      "OP10-075",
+      "OP06-069",
+      "OP06-063",
+      "OP06-060",
+      "OP07-066",
+      "OP06-068",
+      "OP08-074",
+      "OP10-075"
+    ]
+  },
+  "log-289": {
+    "player": "AndyWild",
+    "action": "Current Board",
+    "cards": [
+      "OP06-063",
+      "OP08-074",
+      "OP06-061"
+    ]
+  },
+  "log-290": {
+    "player": "AndyWild",
+    "action": "Current Life",
+    "value": 1
+  },
+  "log-291": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-292": {
+    "player": "AndyWild",
+    "action": "Draw 1 Card"
+  },
+  "log-293": {
+    "player": "AndyWild",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-069"
+  },
+  "log-294": {
+    "player": "AndyWild",
+    "action": "Draw 2 Don"
+  },
+  "log-295": {
+    "player": "AndyWild",
+    "action": "Attach Don to",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-042",
+    "attached_don": 2,
+    "total_don": 2
+  },
+  "log-296": {
+    "player": "AndyWild",
+    "action": "Attacking",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-042",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-297": {
+    "player": "AndyWild",
+    "action": "Attack details",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-042",
+    "attacker_power": 7000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-298": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card": "OP09-081",
+    "damage": 1
+  },
+  "log-299": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Shiryu",
+    "card_id": "OP10-086"
+  },
+  "log-300": {
+    "player": "Pirate18721",
+    "action": "This is MY AGE!!!! ability",
+    "card": "This is MY AGE!!!!",
+    "card_id": "OP09-096",
+    "effect": "Trash 2 Remaining Cards"
+  },
+  "log-301": {
+    "player": "AndyWild",
+    "action": "Attach Don to",
+    "card": "Black Maria",
+    "card_id": "OP08-074",
+    "attached_don": 3,
+    "total_don": 3
+  },
+  "log-302": {
+    "player": "AndyWild",
+    "action": "Attacking",
+    "attacker": "Black Maria",
+    "attacker_id": "OP08-074",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-303": {
+    "player": "Pirate18721",
+    "action": "Discard for Counter",
+    "card": "Shiryu",
+    "card_id": "OP10-086",
+    "power": 1000
+  },
+  "log-304": {
+    "player": "AndyWild",
+    "action": "Attack details",
+    "attacker": "Black Maria",
+    "attacker_id": "OP08-074",
+    "attacker_power": 5000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 6000
+  },
+  "log-305": {
+    "player": "AndyWild",
+    "action": "Attack Fails"
+  },
+  "log-306": {
+    "player": "AndyWild",
+    "action": "Concedes"
+  },
+  "log-307": {
+    "player": "Pirate18721",
+    "action": "Wins!"
+  }
+}

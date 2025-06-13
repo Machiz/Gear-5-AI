@@ -1,0 +1,2435 @@
+{
+  "log-001": {
+    "player": "Pirate18721",
+    "action": "Leader is Marshall D. Teach",
+    "card": "OP09-081"
+  },
+  "log-002": {
+    "player": "TempestAngel",
+    "action": "Leader is Vinsmoke Reiju",
+    "card": "OP06-042"
+  },
+  "log-003": {
+    "player": "TempestAngel",
+    "action": "Chose to go First"
+  },
+  "log-004": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Judge",
+    "card_id": "OP06-062"
+  },
+  "log-005": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-066"
+  },
+  "log-006": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Sanji",
+    "card_id": "OP10-063"
+  },
+  "log-007": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-066"
+  },
+  "log-008": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-069"
+  },
+  "log-009": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-010": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "This is MY AGE!!!!",
+    "card_id": "OP09-096"
+  },
+  "log-011": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-012": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "I Bid 500 Million!!",
+    "card_id": "OP05-096"
+  },
+  "log-013": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Laffitte",
+    "card_id": "OP09-095"
+  },
+  "log-014": {
+    "player": "Pirate18721",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "OP09-088",
+      "OP09-096",
+      "OP09-091",
+      "OP05-096",
+      "OP09-095"
+    ]
+  },
+  "log-015": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Germa Kingdom",
+    "card_id": "OP06-079"
+  },
+  "log-016": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Germa Kingdom",
+    "card_id": "OP06-079"
+  },
+  "log-017": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-069"
+  },
+  "log-018": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Niji",
+    "card_id": "OP06-064"
+  },
+  "log-019": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Niji",
+    "card_id": "OP06-064"
+  },
+  "log-020": {
+    "player": "TempestAngel",
+    "action": "Mulligan"
+  },
+  "log-021": {
+    "player": "TempestAngel",
+    "action": "Draw 1 Don"
+  },
+  "log-022": {
+    "player": "TempestAngel",
+    "action": "Deploy",
+    "card": "Germa Kingdom",
+    "card_id": "OP06-079"
+  },
+  "log-023": {
+    "player": "TempestAngel",
+    "action": "Trash",
+    "card": "Germa Kingdom",
+    "card_id": "OP06-079"
+  },
+  "log-024": {
+    "player": "TempestAngel",
+    "action": "Reveal and Draw",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-068"
+  },
+  "log-025": {
+    "player": "TempestAngel",
+    "action": "End Turn"
+  },
+  "log-026": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-088",
+      "OP09-096",
+      "OP09-091",
+      "OP05-096",
+      "OP09-095"
+    ]
+  },
+  "log-027": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-028": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-029": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-030": {
+    "player": "TempestAngel",
+    "action": "Current Hand",
+    "cards": [
+      "OP06-069",
+      "OP06-064",
+      "OP06-064",
+      "OP06-068"
+    ]
+  },
+  "log-031": {
+    "player": "TempestAngel",
+    "action": "Current Trash",
+    "cards": [
+      "OP06-079"
+    ]
+  },
+  "log-032": {
+    "player": "TempestAngel",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-033": {
+    "player": "TempestAngel",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-034": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-035": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shigan (Finger Gun)",
+    "card_id": "EB01-051"
+  },
+  "log-036": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-037": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Stronger",
+    "card_id": "OP09-089"
+  },
+  "log-038": {
+    "player": "Pirate18721",
+    "action": "This is MY AGE!!!! effect: Trash 2 Remaining Cards",
+    "card_id": "OP09-096"
+  },
+  "log-039": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Laffitte",
+    "card_id": "OP09-095"
+  },
+  "log-040": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Trash I Bid 500 Million!!",
+    "card_id": "OP09-081",
+    "trashed_card": "OP05-096"
+  },
+  "log-041": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Opponent can't activate On Play abilities next turn!",
+    "card_id": "OP09-081"
+  },
+  "log-042": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-088",
+      "OP09-091",
+      "EB01-051",
+      "OP09-089"
+    ]
+  },
+  "log-043": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-095"
+    ]
+  },
+  "log-044": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-098",
+      "OP09-095",
+      "OP05-096"
+    ]
+  },
+  "log-045": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-046": {
+    "player": "TempestAngel",
+    "action": "Current Hand",
+    "cards": [
+      "OP06-069",
+      "OP06-064",
+      "OP06-064",
+      "OP06-068"
+    ]
+  },
+  "log-047": {
+    "player": "TempestAngel",
+    "action": "Current Trash",
+    "cards": [
+      "OP06-079"
+    ]
+  },
+  "log-048": {
+    "player": "TempestAngel",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-049": {
+    "player": "TempestAngel",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-050": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-051": {
+    "player": "TempestAngel",
+    "action": "Draw 1 Card"
+  },
+  "log-052": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Sora",
+    "card_id": "OP06-063"
+  },
+  "log-053": {
+    "player": "TempestAngel",
+    "action": "Draw 2 Don"
+  },
+  "log-054": {
+    "player": "TempestAngel",
+    "action": "Trash",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-069"
+  },
+  "log-055": {
+    "player": "TempestAngel",
+    "action": "Reveal and Draw",
+    "card": "Vinsmoke Judge",
+    "card_id": "OP06-062"
+  },
+  "log-056": {
+    "player": "TempestAngel",
+    "action": "Attach 1 Don to Vinsmoke Reiju",
+    "card_id": "OP06-042",
+    "total_don": 1
+  },
+  "log-057": {
+    "player": "TempestAngel",
+    "action": "Attacking",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-042",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-058": {
+    "player": "TempestAngel",
+    "action": "Attack details",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-042",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-059": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card_id": "OP09-081",
+    "damage": 1
+  },
+  "log-060": {
+    "player": "TempestAngel",
+    "action": "Deploy",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-068"
+  },
+  "log-061": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Reiju effect: Trash Vinsmoke Reiju",
+    "card_id": "OP06-068"
+  },
+  "log-062": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Reiju effect: Deployed Vinsmoke Reiju from Trash",
+    "card_id": "OP06-068",
+    "deployed_card": "OP06-069"
+  },
+  "log-063": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-068"
+  },
+  "log-064": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Reiju effect: Draw 1 Card",
+    "card_id": "OP06-042"
+  },
+  "log-065": {
+    "player": "TempestAngel",
+    "action": "End Turn"
+  },
+  "log-066": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-088",
+      "OP09-091",
+      "EB01-051",
+      "OP09-089",
+      "OP09-083"
+    ]
+  },
+  "log-067": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-095"
+    ]
+  },
+  "log-068": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-098",
+      "OP09-095",
+      "OP05-096"
+    ]
+  },
+  "log-069": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-070": {
+    "player": "TempestAngel",
+    "action": "Current Hand",
+    "cards": [
+      "OP06-064",
+      "OP06-064",
+      "OP06-063",
+      "OP06-062",
+      "OP06-068"
+    ]
+  },
+  "log-071": {
+    "player": "TempestAngel",
+    "action": "Current Trash",
+    "cards": [
+      "OP06-079",
+      "OP06-068"
+    ]
+  },
+  "log-072": {
+    "player": "TempestAngel",
+    "action": "Current Board",
+    "cards": [
+      "OP06-069"
+    ]
+  },
+  "log-073": {
+    "player": "TempestAngel",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-074": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-075": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "This is MY AGE!!!!",
+    "card_id": "OP09-096"
+  },
+  "log-076": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-077": {
+    "player": "Pirate18721",
+    "action": "Shigan (Finger Gun) effect: Trash 2 Cards from Deck",
+    "card_id": "EB01-051"
+  },
+  "log-078": {
+    "player": "Pirate18721",
+    "action": "Shigan (Finger Gun) effect: Destroy Vinsmoke Reiju",
+    "card_id": "EB01-051",
+    "destroyed_card": "OP06-069"
+  },
+  "log-079": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042"
+  },
+  "log-080": {
+    "player": "TempestAngel",
+    "action": "Discard Vinsmoke Niji for Counter 1000",
+    "card": "Vinsmoke Niji",
+    "card_id": "OP06-064",
+    "counter_value": 1000
+  },
+  "log-081": {
+    "player": "Pirate18721",
+    "action": "Attack Fails",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 5000,
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042",
+    "defender_power": 6000
+  },
+  "log-082": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Trash Van Augur",
+    "card_id": "OP09-081",
+    "trashed_card": "OP09-083"
+  },
+  "log-083": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Opponent can't activate On Play abilities next turn!",
+    "card_id": "OP09-081"
+  },
+  "log-084": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-088",
+      "OP09-091",
+      "OP09-089",
+      "OP09-096"
+    ]
+  },
+  "log-085": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-095"
+    ]
+  },
+  "log-086": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-098",
+      "OP09-095",
+      "OP05-096",
+      "EB01-051",
+      "OP09-083",
+      "OP09-088",
+      "OP09-083"
+    ]
+  },
+  "log-087": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-088": {
+    "player": "TempestAngel",
+    "action": "Current Hand",
+    "cards": [
+      "OP06-064",
+      "OP06-063",
+      "OP06-062",
+      "OP06-068"
+    ]
+  },
+  "log-089": {
+    "player": "TempestAngel",
+    "action": "Current Trash",
+    "cards": [
+      "OP06-079",
+      "OP06-068",
+      "OP06-069",
+      "OP06-064"
+    ]
+  },
+  "log-090": {
+    "player": "TempestAngel",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-091": {
+    "player": "TempestAngel",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-092": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-093": {
+    "player": "TempestAngel",
+    "action": "Draw 1 Card"
+  },
+  "log-094": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Ichiji",
+    "card_id": "OP06-060"
+  },
+  "log-095": {
+    "player": "TempestAngel",
+    "action": "Draw 2 Don"
+  },
+  "log-096": {
+    "player": "TempestAngel",
+    "action": "Trash",
+    "card": "Vinsmoke Niji",
+    "card_id": "OP06-064"
+  },
+  "log-097": {
+    "player": "TempestAngel",
+    "action": "Reveal and Draw",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-067"
+  },
+  "log-098": {
+    "player": "TempestAngel",
+    "action": "Attacking",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-042",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-099": {
+    "player": "TempestAngel",
+    "action": "Attack details",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-042",
+    "attacker_power": 5000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-100": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card_id": "OP09-081",
+    "damage": 1
+  },
+  "log-101": {
+    "player": "TempestAngel",
+    "action": "Deploy",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-067"
+  },
+  "log-102": {
+    "player": "TempestAngel",
+    "action": "End Turn"
+  },
+  "log-103": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-088",
+      "OP09-091",
+      "EB01-051",
+      "OP09-089",
+      "OP09-083"
+    ]
+  },
+  "log-104": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-095"
+    ]
+  },
+  "log-105": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-098",
+      "OP09-095",
+      "OP05-096",
+      "EB01-051",
+      "OP09-083",
+      "OP09-088",
+      "OP09-083"
+    ]
+  },
+  "log-106": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-107": {
+    "player": "TempestAngel",
+    "action": "Current Hand",
+    "cards": [
+      "OP06-063",
+      "OP06-062",
+      "OP06-068",
+      "OP06-060"
+    ]
+  },
+  "log-108": {
+    "player": "TempestAngel",
+    "action": "Current Trash",
+    "cards": [
+      "OP06-079",
+      "OP06-068",
+      "OP06-069",
+      "OP06-064",
+      "OP06-064"
+    ]
+  },
+  "log-109": {
+    "player": "TempestAngel",
+    "action": "Current Board",
+    "cards": [
+      "OP06-067"
+    ]
+  },
+  "log-110": {
+    "player": "TempestAngel",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-111": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-112": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "This is MY AGE!!!!",
+    "card_id": "OP09-096"
+  },
+  "log-113": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-114": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-115": {
+    "player": "Pirate18721",
+    "action": "This is MY AGE!!!! effect: Trash 2 Remaining Cards",
+    "card_id": "OP09-096"
+  },
+  "log-116": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-117": {
+    "player": "Pirate18721",
+    "action": "Laffitte effect: Rest Laffitte",
+    "card_id": "OP09-095"
+  },
+  "log-118": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-119": {
+    "player": "Pirate18721",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-120": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042"
+  },
+  "log-121": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Yonji Blocks",
+    "card_id": "OP06-067"
+  },
+  "log-122": {
+    "player": "Pirate18721",
+    "action": "Attack Fails",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 5000,
+    "defender": "Vinsmoke Yonji",
+    "defender_id": "OP06-067",
+    "defender_power": 6000
+  },
+  "log-123": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Trash Stronger",
+    "card_id": "OP09-081",
+    "trashed_card": "OP09-089"
+  },
+  "log-124": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Opponent can't activate On Play abilities next turn!",
+    "card_id": "OP09-081"
+  },
+  "log-125": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-088",
+      "OP09-091",
+      "EB01-051",
+      "OP09-096",
+      "OP09-086"
+    ]
+  },
+  "log-126": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-095",
+      "OP09-086"
+    ]
+  },
+  "log-127": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-098",
+      "OP09-095",
+      "OP05-096",
+      "EB01-051",
+      "OP09-083",
+      "OP09-088",
+      "OP09-083",
+      "OP09-096",
+      "OP09-088",
+      "OP09-084",
+      "OP09-089"
+    ]
+  },
+  "log-128": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-129": {
+    "player": "TempestAngel",
+    "action": "Current Hand",
+    "cards": [
+      "OP06-063",
+      "OP06-062",
+      "OP06-068",
+      "OP06-060"
+    ]
+  },
+  "log-130": {
+    "player": "TempestAngel",
+    "action": "Current Trash",
+    "cards": [
+      "OP06-079",
+      "OP06-068",
+      "OP06-069",
+      "OP06-064",
+      "OP06-064"
+    ]
+  },
+  "log-131": {
+    "player": "TempestAngel",
+    "action": "Current Board",
+    "cards": [
+      "OP06-067"
+    ]
+  },
+  "log-132": {
+    "player": "TempestAngel",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-133": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-134": {
+    "player": "TempestAngel",
+    "action": "Draw 1 Card"
+  },
+  "log-135": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-067"
+  },
+  "log-136": {
+    "player": "TempestAngel",
+    "action": "Draw 2 Don"
+  },
+  "log-137": {
+    "player": "TempestAngel",
+    "action": "Attacking",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-042",
+    "defender": "Laffitte",
+    "defender_id": "OP09-095"
+  },
+  "log-138": {
+    "player": "TempestAngel",
+    "action": "Attack details",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-042",
+    "attacker_power": 5000,
+    "defender": "Laffitte",
+    "defender_id": "OP09-095",
+    "defender_power": 1000
+  },
+  "log-139": {
+    "player": "Pirate18721",
+    "action": "Laffitte Destroyed",
+    "card_id": "OP09-095"
+  },
+  "log-140": {
+    "player": "TempestAngel",
+    "action": "Deploy",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-068"
+  },
+  "log-141": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Reiju effect: Trash Vinsmoke Reiju",
+    "card_id": "OP06-068"
+  },
+  "log-142": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Reiju effect: Deployed Vinsmoke Reiju from Trash",
+    "card_id": "OP06-068",
+    "deployed_card": "OP06-069"
+  },
+  "log-143": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Sanji",
+    "card_id": "OP10-063"
+  },
+  "log-144": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Reiju effect: Draw 1 Card",
+    "card_id": "OP06-042"
+  },
+  "log-145": {
+    "player": "TempestAngel",
+    "action": "Deploy",
+    "card": "Vinsmoke Sanji",
+    "card_id": "OP10-063"
+  },
+  "log-146": {
+    "player": "TempestAngel",
+    "action": "End Turn"
+  },
+  "log-147": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-088",
+      "OP09-091",
+      "EB01-051",
+      "OP09-096",
+      "OP09-086"
+    ]
+  },
+  "log-148": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086"
+    ]
+  },
+  "log-149": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-098",
+      "OP09-095",
+      "OP05-096",
+      "EB01-051",
+      "OP09-083",
+      "OP09-088",
+      "OP09-083",
+      "OP09-096",
+      "OP09-088",
+      "OP09-084",
+      "OP09-089",
+      "OP09-095"
+    ]
+  },
+  "log-150": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-151": {
+    "player": "TempestAngel",
+    "action": "Current Hand",
+    "cards": [
+      "OP06-063",
+      "OP06-062",
+      "OP06-060",
+      "OP06-067"
+    ]
+  },
+  "log-152": {
+    "player": "TempestAngel",
+    "action": "Current Trash",
+    "cards": [
+      "OP06-079",
+      "OP06-068",
+      "OP06-064",
+      "OP06-064",
+      "OP06-068"
+    ]
+  },
+  "log-153": {
+    "player": "TempestAngel",
+    "action": "Current Board",
+    "cards": [
+      "OP06-067",
+      "OP06-069",
+      "OP10-063"
+    ]
+  },
+  "log-154": {
+    "player": "TempestAngel",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-155": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-156": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Stronger",
+    "card_id": "OP09-089"
+  },
+  "log-157": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-158": {
+    "player": "Pirate18721",
+    "action": "Shigan (Finger Gun) effect: Trash 2 Cards from Deck",
+    "card_id": "EB01-051"
+  },
+  "log-159": {
+    "player": "Pirate18721",
+    "action": "Shigan (Finger Gun) effect: Destroy Vinsmoke Yonji",
+    "card_id": "EB01-051",
+    "destroyed_card": "OP06-067"
+  },
+  "log-160": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-161": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042"
+  },
+  "log-162": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "attacker_power": 9000,
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042",
+    "defender_power": 5000
+  },
+  "log-163": {
+    "player": "TempestAngel",
+    "action": "Damage taken by Vinsmoke Reiju",
+    "card_id": "OP06-042",
+    "damage": 1
+  },
+  "log-164": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042"
+  },
+  "log-165": {
+    "player": "TempestAngel",
+    "action": "Discard Vinsmoke Yonji for Counter 1000",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-067",
+    "counter_value": 1000
+  },
+  "log-166": {
+    "player": "Pirate18721",
+    "action": "Attack Fails",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 5000,
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042",
+    "defender_power": 6000
+  },
+  "log-167": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-088",
+      "OP09-091",
+      "OP09-096",
+      "OP09-089"
+    ]
+  },
+  "log-168": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086",
+      "OP09-086"
+    ]
+  },
+  "log-169": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-098",
+      "OP09-095",
+      "OP05-096",
+      "EB01-051",
+      "OP09-083",
+      "OP09-088",
+      "OP09-083",
+      "OP09-096",
+      "OP09-088",
+      "OP09-084",
+      "OP09-089",
+      "OP09-095",
+      "EB01-051",
+      "OP09-093",
+      "OP09-086"
+    ]
+  },
+  "log-170": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-171": {
+    "player": "TempestAngel",
+    "action": "Current Hand",
+    "cards": [
+      "OP06-063",
+      "OP06-062",
+      "OP06-060",
+      "OP06-061"
+    ]
+  },
+  "log-172": {
+    "player": "TempestAngel",
+    "action": "Current Trash",
+    "cards": [
+      "OP06-079",
+      "OP06-068",
+      "OP06-064",
+      "OP06-064",
+      "OP06-068",
+      "OP06-067",
+      "OP06-067"
+    ]
+  },
+  "log-173": {
+    "player": "TempestAngel",
+    "action": "Current Board",
+    "cards": [
+      "OP06-069",
+      "OP10-063"
+    ]
+  },
+  "log-174": {
+    "player": "TempestAngel",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-175": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-176": {
+    "player": "TempestAngel",
+    "action": "Draw 1 Card"
+  },
+  "log-177": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Ichiji",
+    "card_id": "OP06-060"
+  },
+  "log-178": {
+    "player": "TempestAngel",
+    "action": "Draw 2 Don"
+  },
+  "log-179": {
+    "player": "TempestAngel",
+    "action": "Trash",
+    "card": "Vinsmoke Ichiji",
+    "card_id": "OP06-061"
+  },
+  "log-180": {
+    "player": "TempestAngel",
+    "action": "Reveal and Draw",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-066"
+  },
+  "log-181": {
+    "player": "TempestAngel",
+    "action": "Attach 1 Don to Vinsmoke Reiju",
+    "card_id": "OP06-069",
+    "total_don": 1
+  },
+  "log-182": {
+    "player": "TempestAngel",
+    "action": "Attacking",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-069",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-183": {
+    "player": "Pirate18721",
+    "action": "Discard Stronger for Counter 2000",
+    "card": "Stronger",
+    "card_id": "OP09-089",
+    "counter_value": 2000
+  },
+  "log-184": {
+    "player": "TempestAngel",
+    "action": "Attack Fails",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-069",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 7000
+  },
+  "log-185": {
+    "player": "TempestAngel",
+    "action": "Deploy",
+    "card": "Vinsmoke Ichiji",
+    "card_id": "OP06-060"
+  },
+  "log-186": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Ichiji effect: Trash Vinsmoke Ichiji",
+    "card_id": "OP06-060"
+  },
+  "log-187": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Ichiji effect: Deployed Vinsmoke Ichiji from Trash",
+    "card_id": "OP06-060",
+    "deployed_card": "OP06-061"
+  },
+  "log-188": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-067"
+  },
+  "log-189": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Reiju effect: Draw 1 Card",
+    "card_id": "OP06-042"
+  },
+  "log-190": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Ichiji effect: Give Jesus Burgess -2000 Power",
+    "card_id": "OP06-061",
+    "target_card": "OP09-086",
+    "power_change": -2000
+  },
+  "log-191": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Ichiji Gains Rush",
+    "card_id": "OP06-061"
+  },
+  "log-192": {
+    "player": "TempestAngel",
+    "action": "Attach 2 Don to Vinsmoke Ichiji",
+    "card_id": "OP06-061",
+    "total_don": 2
+  },
+  "log-193": {
+    "player": "TempestAngel",
+    "action": "Attacking",
+    "attacker": "Vinsmoke Ichiji",
+    "attacker_id": "OP06-061",
+    "defender": "Jesus Burgess",
+    "defender_id": "OP09-086"
+  },
+  "log-194": {
+    "player": "Pirate18721",
+    "action": "Discard Shiryu for Counter 2000",
+    "card": "Shiryu",
+    "card_id": "OP09-088",
+    "counter_value": 2000
+  },
+  "log-195": {
+    "player": "Pirate18721",
+    "action": "Discard Vasco Shot for Counter 1000",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091",
+    "counter_value": 1000
+  },
+  "log-196": {
+    "player": "TempestAngel",
+    "action": "Attack Fails",
+    "attacker": "Vinsmoke Ichiji",
+    "attacker_id": "OP06-061",
+    "attacker_power": 9000,
+    "defender": "Jesus Burgess",
+    "defender_id": "OP09-086",
+    "defender_power": 10000
+  },
+  "log-197": {
+    "player": "TempestAngel",
+    "action": "Attacking",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-042",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-198": {
+    "player": "TempestAngel",
+    "action": "Attack details",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-042",
+    "attacker_power": 5000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-199": {
+    "player": "Pirate18721",
+    "action": "Damage taken by Marshall D. Teach",
+    "card_id": "OP09-081",
+    "damage": 1
+  },
+  "log-200": {
+    "player": "TempestAngel",
+    "action": "End Turn"
+  },
+  "log-201": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-096",
+      "OP10-086"
+    ]
+  },
+  "log-202": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086",
+      "OP09-086"
+    ]
+  },
+  "log-203": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-098",
+      "OP09-095",
+      "OP05-096",
+      "EB01-051",
+      "OP09-083",
+      "OP09-088",
+      "OP09-083",
+      "OP09-096",
+      "OP09-088",
+      "OP09-084",
+      "OP09-089",
+      "OP09-095",
+      "EB01-051",
+      "OP09-093",
+      "OP09-086",
+      "OP09-089",
+      "OP09-088",
+      "OP09-091"
+    ]
+  },
+  "log-204": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 2
+  },
+  "log-205": {
+    "player": "TempestAngel",
+    "action": "Current Hand",
+    "cards": [
+      "OP06-063",
+      "OP06-062",
+      "OP06-060",
+      "OP06-066",
+      "OP06-067"
+    ]
+  },
+  "log-206": {
+    "player": "TempestAngel",
+    "action": "Current Trash",
+    "cards": [
+      "OP06-079",
+      "OP06-068",
+      "OP06-064",
+      "OP06-064",
+      "OP06-068",
+      "OP06-067",
+      "OP06-067",
+      "OP06-060"
+    ]
+  },
+  "log-207": {
+    "player": "TempestAngel",
+    "action": "Current Board",
+    "cards": [
+      "OP06-069",
+      "OP10-063",
+      "OP06-061"
+    ]
+  },
+  "log-208": {
+    "player": "TempestAngel",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-209": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-210": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Liberation",
+    "card_id": "OP10-098"
+  },
+  "log-211": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-212": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-213": {
+    "player": "Pirate18721",
+    "action": "This is MY AGE!!!! effect: Trash 2 Remaining Cards",
+    "card_id": "OP09-096"
+  },
+  "log-214": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Shiryu",
+    "card_id": "OP10-086"
+  },
+  "log-215": {
+    "player": "Pirate18721",
+    "action": "Attach 3 Don to Jesus Burgess",
+    "card_id": "OP09-086",
+    "total_don": 3
+  },
+  "log-216": {
+    "player": "Pirate18721",
+    "action": "Attach 1 Don to Jesus Burgess",
+    "card_id": "OP09-086",
+    "total_don": 4
+  },
+  "log-217": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "defender": "Vinsmoke Ichiji",
+    "defender_id": "OP06-061"
+  },
+  "log-218": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "attacker_power": 14000,
+    "defender": "Vinsmoke Ichiji",
+    "defender_id": "OP06-061",
+    "defender_power": 7000
+  },
+  "log-219": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Ichiji Destroyed",
+    "card_id": "OP06-061"
+  },
+  "log-220": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-069"
+  },
+  "log-221": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "attacker_power": 10000,
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-069",
+    "defender_power": 5000
+  },
+  "log-222": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Reiju Destroyed",
+    "card_id": "OP06-069"
+  },
+  "log-223": {
+    "player": "Pirate18721",
+    "action": "Attach 1 Don to Marshall D. Teach",
+    "card_id": "OP09-081",
+    "total_don": 1
+  },
+  "log-224": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042"
+  },
+  "log-225": {
+    "player": "TempestAngel",
+    "action": "Discard Vinsmoke Sora for Counter 2000",
+    "card": "Vinsmoke Sora",
+    "card_id": "OP06-063",
+    "counter_value": 2000
+  },
+  "log-226": {
+    "player": "Pirate18721",
+    "action": "Attack Fails",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 6000,
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042",
+    "defender_power": 7000
+  },
+  "log-227": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-098",
+      "OP09-088"
+    ]
+  },
+  "log-228": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086",
+      "OP09-086",
+      "OP10-086"
+    ]
+  },
+  "log-229": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-098",
+      "OP09-095",
+      "OP05-096",
+      "EB01-051",
+      "OP09-083",
+      "OP09-088",
+      "OP09-083",
+      "OP09-096",
+      "OP09-088",
+      "OP09-084",
+      "OP09-089",
+      "OP09-095",
+      "EB01-051",
+      "OP09-093",
+      "OP09-086",
+      "OP09-089",
+      "OP09-088",
+      "OP09-091",
+      "OP09-096",
+      "OP10-082",
+      "OP09-098"
+    ]
+  },
+  "log-230": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 2
+  },
+  "log-231": {
+    "player": "TempestAngel",
+    "action": "Current Hand",
+    "cards": [
+      "OP06-062",
+      "OP06-060",
+      "OP06-066",
+      "OP06-067"
+    ]
+  },
+  "log-232": {
+    "player": "TempestAngel",
+    "action": "Current Trash",
+    "cards": [
+      "OP06-079",
+      "OP06-068",
+      "OP06-064",
+      "OP06-064",
+      "OP06-068",
+      "OP06-067",
+      "OP06-067",
+      "OP06-060",
+      "OP06-061",
+      "OP06-069",
+      "OP06-063"
+    ]
+  },
+  "log-233": {
+    "player": "TempestAngel",
+    "action": "Current Board",
+    "cards": [
+      "OP10-063"
+    ]
+  },
+  "log-234": {
+    "player": "TempestAngel",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-235": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-236": {
+    "player": "TempestAngel",
+    "action": "Draw 1 Card"
+  },
+  "log-237": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Black Maria",
+    "card_id": "OP08-074"
+  },
+  "log-238": {
+    "player": "TempestAngel",
+    "action": "Draw 2 Don"
+  },
+  "log-239": {
+    "player": "TempestAngel",
+    "action": "Trash",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-066"
+  },
+  "log-240": {
+    "player": "TempestAngel",
+    "action": "Reveal and Draw",
+    "card": "Vinsmoke Ichiji",
+    "card_id": "OP06-061"
+  },
+  "log-241": {
+    "player": "TempestAngel",
+    "action": "Deploy",
+    "card": "Vinsmoke Judge",
+    "card_id": "OP06-062"
+  },
+  "log-242": {
+    "player": "TempestAngel",
+    "action": "Trash",
+    "card": "Vinsmoke Ichiji",
+    "card_id": "OP06-061"
+  },
+  "log-243": {
+    "player": "TempestAngel",
+    "action": "Trash",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-067"
+  },
+  "log-244": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Judge effect: Deployed Vinsmoke Reiju from Trash",
+    "card_id": "OP06-062",
+    "deployed_card": "OP06-068"
+  },
+  "log-245": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Judge effect: Deployed Vinsmoke Niji from Trash",
+    "card_id": "OP06-062",
+    "deployed_card": "OP06-064"
+  },
+  "log-246": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Judge effect: Deployed Vinsmoke Ichiji from Trash",
+    "card_id": "OP06-062",
+    "deployed_card": "OP06-060"
+  },
+  "log-247": {
+    "player": "TempestAngel",
+    "action": "Trash",
+    "card": "Vinsmoke Sanji",
+    "card_id": "OP10-063"
+  },
+  "log-248": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Judge effect: Deployed Vinsmoke Yonji from Trash",
+    "card_id": "OP06-062",
+    "deployed_card": "OP06-066"
+  },
+  "log-249": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Sora",
+    "card_id": "OP06-063"
+  },
+  "log-250": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Reiju effect: Draw 1 Card",
+    "card_id": "OP06-042"
+  },
+  "log-251": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Ichiji effect: Trash Vinsmoke Ichiji",
+    "card_id": "OP06-060"
+  },
+  "log-252": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Ichiji effect: Deployed Vinsmoke Ichiji from Trash",
+    "card_id": "OP06-060",
+    "deployed_card": "OP06-061"
+  },
+  "log-253": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Ichiji effect: Give Jesus Burgess -2000 Power",
+    "card_id": "OP06-061",
+    "target_card": "OP09-086",
+    "power_change": -2000
+  },
+  "log-254": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Ichiji Gains Rush",
+    "card_id": "OP06-061"
+  },
+  "log-255": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Yonji effect: Trash Vinsmoke Yonji",
+    "card_id": "OP06-066"
+  },
+  "log-256": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Yonji effect: Deployed Vinsmoke Yonji from Trash",
+    "card_id": "OP06-066",
+    "deployed_card": "OP06-067"
+  },
+  "log-257": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Niji effect: Trash Vinsmoke Niji",
+    "card_id": "OP06-064"
+  },
+  "log-258": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Reiju effect: Trash Vinsmoke Reiju",
+    "card_id": "OP06-068"
+  },
+  "log-259": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Reiju effect: Deployed Vinsmoke Reiju from Trash",
+    "card_id": "OP06-068",
+    "deployed_card": "OP06-069"
+  },
+  "log-260": {
+    "player": "TempestAngel",
+    "action": "Vinsmoke Reiju effect: Draw 2 Card",
+    "card_id": "OP06-069"
+  },
+  "log-261": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Niji",
+    "card_id": "OP06-065"
+  },
+  "log-262": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-069"
+  },
+  "log-263": {
+    "player": "TempestAngel",
+    "action": "Attacking",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-042",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  }
+"log-264": {
+    "player": "Vinsmoke Reiju",
+    "card_id": "OP06-042",
+    "power": 5000,
+    "vs": "Marshall D. Teach",
+    "vs_id": "OP09-081",
+    "vs_power": 5000
+  },
+  "log-265": {
+    "player": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "action": "hit for 1 damage"
+  },
+  "log-266": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-093"
+  },
+  "log-267": {
+    "player": "Pirate18721",
+    "action": "played",
+    "card": "This is MY AGE!!!!",
+    "card_id": "OP09-096",
+    "effect": "Trash 2 Remaining Cards"
+  },
+  "log-268": {
+    "player": "TempestAngel",
+    "action": "Attacking",
+    "attacker": "Vinsmoke Ichiji",
+    "attacker_id": "OP06-061",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-269": {
+    "player": "Vinsmoke Ichiji",
+    "card_id": "OP06-061",
+    "power": 7000,
+    "vs": "Marshall D. Teach",
+    "vs_id": "OP09-081",
+    "vs_power": 5000
+  },
+  "log-270": {
+    "player": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "action": "hit for 1 damage"
+  },
+  "log-271": {
+    "player": "TempestAngel",
+    "action": "End Turn"
+  },
+  "log-272": {
+    "player": "Pirate18721",
+    "hand": ["OP10-098", "OP09-088", "OP09-093", "OP10-086"],
+    "board": ["OP09-086", "OP09-086", "OP10-086"],
+    "trash": ["OP09-096", "OP09-098", "OP09-095", "OP05-096", "EB01-051", "OP09-083", "OP09-088", "OP09-083", "OP09-096", "OP09-088", "OP09-084", "OP09-089", "OP09-095", "EB01-051", "OP09-093", "OP09-086", "OP09-089", "OP09-088", "OP09-091", "OP09-096", "OP10-082", "OP09-098", "OP09-096", "OP09-091", "OP10-086"],
+    "life": 0
+  },
+  "log-273": {
+    "player": "TempestAngel",
+    "hand": ["OP06-060", "OP08-074", "OP06-063", "OP06-065", "OP06-069"],
+    "trash": ["OP06-079", "OP06-064", "OP06-068", "OP06-067", "OP06-063", "OP06-061", "OP06-067", "OP10-063", "OP06-060", "OP06-066", "OP06-064", "OP06-068"],
+    "board": ["OP06-062", "OP06-061", "OP06-067", "OP06-069"],
+    "life": 3
+  },
+  "log-274": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-275": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-093"
+  },
+  "log-276": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-093"
+  },
+  "log-277": {
+    "player": "Pirate18721",
+    "action": "card ability",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-093",
+    "effect": "Nullify effects of Vinsmoke Reiju",
+    "target_card_id": "OP06-042"
+  },
+  "log-278": {
+    "player": "Pirate18721",
+    "action": "card ability",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-093",
+    "effect": "Vinsmoke Judge can't attack next turn",
+    "target_card_id": "OP06-062"
+  },
+  "log-279": {
+    "player": "Pirate18721",
+    "action": "card ability",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-093",
+    "effect": "Nullify effects of Vinsmoke Judge until next turn end!",
+    "target_card_id": "OP06-062"
+  },
+  "log-280": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Shiryu",
+    "attacker_id": "OP10-086",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042"
+  },
+  "log-281": {
+    "player": "TempestAngel",
+    "action": "Discard",
+    "card": "Vinsmoke Niji",
+    "card_id": "OP06-065",
+    "reason": "for Counter 1000"
+  },
+  "log-282": {
+    "player": "Shiryu",
+    "card_id": "OP10-086",
+    "power": 5000,
+    "vs": "Vinsmoke Reiju",
+    "vs_id": "OP06-042",
+    "vs_power": 6000
+  },
+  "log-283": {
+    "action": "Attack Fails"
+  },
+  "log-284": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "defender": "Vinsmoke Ichiji",
+    "defender_id": "OP06-061"
+  },
+  "log-285": {
+    "player": "TempestAngel",
+    "action": "Blocks",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-067"
+  },
+  "log-286": {
+    "player": "Jesus Burgess",
+    "card_id": "OP09-086",
+    "power": 11000,
+    "vs": "Vinsmoke Yonji",
+    "vs_id": "OP06-067",
+    "vs_power": 6000
+  },
+  "log-287": {
+    "player": "TempestAngel",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-067",
+    "action": "Destroyed"
+  },
+  "log-288": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "defender": "Vinsmoke Ichiji",
+    "defender_id": "OP06-061"
+  },
+  "log-289": {
+    "player": "TempestAngel",
+    "action": "Discard",
+    "card": "Black Maria",
+    "card_id": "OP08-074",
+    "reason": "for Counter 2000"
+  },
+  "log-290": {
+    "player": "TempestAngel",
+    "action": "Discard",
+    "card": "Vinsmoke Sora",
+    "card_id": "OP06-063",
+    "reason": "for Counter 2000"
+  },
+  "log-291": {
+    "player": "TempestAngel",
+    "action": "Discard",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-069",
+    "reason": "for Counter 1000"
+  },
+  "log-292": {
+    "player": "Jesus Burgess",
+    "card_id": "OP09-086",
+    "power": 11000,
+    "vs": "Vinsmoke Ichiji",
+    "vs_id": "OP06-061",
+    "vs_power": 12000
+  },
+  "log-293": {
+    "action": "Attack Fails"
+  },
+  "log-294": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042"
+  },
+  "log-295": {
+    "player": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "power": 5000,
+    "vs": "Vinsmoke Reiju",
+    "vs_id": "OP06-042",
+    "vs_power": 5000
+  },
+  "log-296": {
+    "player": "Vinsmoke Reiju",
+    "card_id": "OP06-042",
+    "action": "hit for 1 damage"
+  },
+  "log-297": {
+    "player": "Pirate18721",
+    "action": "card ability",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "effect": "Trash Marshall D. Teach",
+    "target_card_id": "OP09-093"
+  },
+  "log-298": {
+    "player": "Pirate18721",
+    "action": "card ability",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "effect": "Opponent can't activate On Play abilities next turn!"
+  },
+  "log-299": {
+    "player": "Pirate18721",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-042",
+    "action": "no longer nullified"
+  },
+  "log-300": {
+    "player": "Pirate18721",
+    "hand": ["OP10-098", "OP09-088", "OP10-086"],
+    "board": ["OP09-086", "OP09-086", "OP10-086", "OP09-093"],
+    "trash": ["OP09-096", "OP09-098", "OP09-095", "OP05-096", "EB01-051", "OP09-083", "OP09-088", "OP09-083", "OP09-096", "OP09-088", "OP09-084", "OP09-089", "OP09-095", "EB01-051", "OP09-093", "OP09-086", "OP09-089", "OP09-088", "OP09-091", "OP09-096", "OP10-082", "OP09-098", "OP09-096", "OP09-091", "OP10-086", "OP09-093"],
+    "life": 0
+  },
+  "log-301": {
+    "player": "TempestAngel",
+    "hand": ["OP06-060", "OP06-066"],
+    "trash": ["OP06-079", "OP06-064", "OP06-068", "OP06-067", "OP06-063", "OP06-061", "OP06-067", "OP10-063", "OP06-060", "OP06-066", "OP06-064", "OP06-068", "OP06-065", "OP06-067", "OP08-074", "OP06-063", "OP06-069"],
+    "board": ["OP06-062", "OP06-061", "OP06-069"],
+    "life": 2
+  },
+  "log-302": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-303": {
+    "player": "TempestAngel",
+    "action": "Draw 1 Card"
+  },
+  "log-304": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Ichiji",
+    "card_id": "OP06-060"
+  },
+  "log-305": {
+    "player": "TempestAngel",
+    "action": "Draw 2 Don"
+  },
+  "log-306": {
+    "player": "TempestAngel",
+    "action": "Attacking",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-069",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-307": {
+    "player": "Pirate18721",
+    "action": "Discard",
+    "card": "Shiryu",
+    "card_id": "OP10-086",
+    "reason": "for Counter 1000"
+  },
+  "log-308": {
+    "player": "Vinsmoke Reiju",
+    "card_id": "OP06-069",
+    "power": 5000,
+    "vs": "Marshall D. Teach",
+    "vs_id": "OP09-081",
+    "vs_power": 6000
+  },
+  "log-309": {
+    "action": "Attack Fails"
+  },
+  "log-310": {
+    "player": "TempestAngel",
+    "action": "Attacking",
+    "attacker": "Vinsmoke Ichiji",
+    "attacker_id": "OP06-061",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-311": {
+    "player": "Pirate18721",
+    "action": "Blocks",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-093"
+  },
+  "log-312": {
+    "player": "Vinsmoke Ichiji",
+    "card_id": "OP06-061",
+    "power": 7000,
+    "vs": "Marshall D. Teach",
+    "vs_id": "OP09-093",
+    "vs_power": 12000
+  },
+  "log-313": {
+    "action": "Attack Fails"
+  },
+  "log-314": {
+    "player": "TempestAngel",
+    "action": "Trash",
+    "card": "Vinsmoke Ichiji",
+    "card_id": "OP06-060"
+  },
+  "log-315": {
+    "player": "TempestAngel",
+    "action": "Reveal and Draw",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-066"
+  },
+  "log-316": {
+    "player": "TempestAngel",
+    "action": "Attach 1 Don to Vinsmoke Reiju",
+    "card_id": "OP06-042",
+    "total_don": 1
+  },
+  "log-317": {
+    "player": "TempestAngel",
+    "action": "Attacking",
+    "attacker": "Vinsmoke Reiju",
+    "attacker_id": "OP06-042",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-318": {
+    "player": "Pirate18721",
+    "action": "Discard",
+    "card": "Shiryu",
+    "card_id": "OP09-088",
+    "reason": "for Counter 2000"
+  },
+  "log-319": {
+    "player": "Vinsmoke Reiju",
+    "card_id": "OP06-042",
+    "power": 6000,
+    "vs": "Marshall D. Teach",
+    "vs_id": "OP09-081",
+    "vs_power": 7000
+  },
+  "log-320": {
+    "action": "Attack Fails"
+  },
+  "log-321": {
+    "player": "TempestAngel",
+    "action": "Deploy",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-066"
+  },
+  "log-322": {
+    "player": "TempestAngel",
+    "action": "card ability",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-066",
+    "effect": "Trash Vinsmoke Yonji",
+    "target_card_id": "OP06-066"
+  },
+  "log-323": {
+    "player": "TempestAngel",
+    "action": "card ability",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-066",
+    "effect": "Deployed Vinsmoke Yonji from Trash",
+    "target_card_id": "OP06-067"
+  },
+  "log-324": {
+    "player": "TempestAngel",
+    "action": "Drew card from deck",
+    "card": "Vinsmoke Sora",
+    "card_id": "OP06-063"
+  },
+  "log-325": {
+    "player": "TempestAngel",
+    "action": "card ability",
+    "card": "Vinsmoke Reiju",
+    "card_id": "OP06-042",
+    "effect": "Draw 1 Card"
+  },
+  "log-326": {
+    "player": "TempestAngel",
+    "action": "Deploy",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-066"
+  },
+  "log-327": {
+    "player": "TempestAngel",
+    "action": "card ability",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-066",
+    "effect": "Trash Vinsmoke Yonji",
+    "target_card_id": "OP06-066"
+  },
+  "log-328": {
+    "player": "TempestAngel",
+    "action": "card ability",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-066",
+    "effect": "Deployed Vinsmoke Yonji from Trash",
+    "target_card_id": "OP06-067"
+  },
+  "log-329": {
+    "player": "TempestAngel",
+    "card": "Vinsmoke Judge",
+    "card_id": "OP06-062",
+    "action": "is no longer blocked from attacking"
+  },
+  "log-330": {
+    "player": "TempestAngel",
+    "card": "Vinsmoke Judge",
+    "card_id": "OP06-062",
+    "action": "no longer nullified"
+  },
+  "log-331": {
+    "player": "TempestAngel",
+    "action": "End Turn"
+  },
+  "log-332": {
+    "player": "Pirate18721",
+    "hand": ["OP10-098"],
+    "board": ["OP09-086", "OP09-086", "OP10-086", "OP09-093"],
+    "trash": ["OP09-096", "OP09-098", "OP09-095", "OP05-096", "EB01-051", "OP09-083", "OP09-088", "OP09-083", "OP09-096", "OP09-088", "OP09-084", "OP09-089", "OP09-095", "EB01-051", "OP09-093", "OP09-086", "OP09-089", "OP09-088", "OP09-091", "OP09-096", "OP10-082", "OP09-098", "OP09-096", "OP09-091", "OP10-086", "OP09-093", "OP10-086", "OP09-088"],
+    "life": 0
+  },
+  "log-333": {
+    "player": "TempestAngel",
+    "hand": ["OP06-060", "OP06-063"],
+    "trash": ["OP06-079", "OP06-064", "OP06-068", "OP06-063", "OP06-061", "OP06-067", "OP10-063", "OP06-060", "OP06-066", "OP06-064", "OP06-068", "OP06-065", "OP08-074", "OP06-063", "OP06-069", "OP06-060", "OP06-066", "OP06-066"],
+    "board": ["OP06-062", "OP06-061", "OP06-069", "OP06-067", "OP06-067"],
+    "life": 2
+  },
+  "log-334": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-335": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-336": {
+    "player": "Pirate18721",
+    "action": "Attach 3 Don to Shiryu",
+    "card_id": "OP10-086",
+    "total_don": 3
+  },
+  "log-337": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Shiryu",
+    "attacker_id": "OP10-086",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042"
+  },
+  "log-338": {
+    "player": "TempestAngel",
+    "action": "Blocks",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-067"
+  },
+  "log-339": {
+    "player": "Shiryu",
+    "card_id": "OP10-086",
+    "power": 8000,
+    "vs": "Vinsmoke Yonji",
+    "vs_id": "OP06-067",
+    "vs_power": 6000
+  },
+  "log-340": {
+    "player": "TempestAngel",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-067",
+    "action": "Destroyed"
+  },
+  "log-341": {
+    "player": "Pirate18721",
+    "action": "Attach 3 Don to Marshall D. Teach",
+    "card_id": "OP09-081",
+    "total_don": 3
+  },
+  "log-342": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042"
+  },
+  "log-343": {
+    "player": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "power": 8000,
+    "vs": "Vinsmoke Reiju",
+    "vs_id": "OP06-042",
+    "vs_power": 5000
+  },
+  "log-344": {
+    "player": "Vinsmoke Reiju",
+    "card_id": "OP06-042",
+    "action": "hit for 1 damage"
+  },
+  "log-345": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-093",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042"
+  },
+  "log-346": {
+    "player": "Marshall D. Teach",
+    "card_id": "OP09-093",
+    "power": 12000,
+    "vs": "Vinsmoke Reiju",
+    "vs_id": "OP06-042",
+    "vs_power": 5000
+  },
+  "log-347": {
+    "player": "Vinsmoke Reiju",
+    "card_id": "OP06-042",
+    "action": "hit for 1 damage"
+  },
+  "log-348": {
+    "player": "Pirate18721",
+    "action": "Attach 2 Don to Jesus Burgess",
+    "card_id": "OP09-086",
+    "total_don": 2
+  },
+  "log-349": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042"
+  },
+  "log-350": {
+    "player": "TempestAngel",
+    "action": "Blocks",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-067"
+  },
+  "log-351": {
+    "player": "Jesus Burgess",
+    "card_id": "OP09-086",
+    "power": 14000,
+    "vs": "Vinsmoke Yonji",
+    "vs_id": "OP06-067",
+    "vs_power": 6000
+  },
+  "log-352": {
+    "player": "TempestAngel",
+    "card": "Vinsmoke Yonji",
+    "card_id": "OP06-067",
+    "action": "Destroyed"
+  },
+  "log-353": {
+    "player": "Pirate18721",
+    "action": "Attach 2 Don to Jesus Burgess",
+    "card_id": "OP09-086",
+    "total_don": 2
+  },
+  "log-354": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "defender": "Vinsmoke Reiju",
+    "defender_id": "OP06-042"
+  },
+  "log-355": {
+    "player": "TempestAngel",
+    "action": "Discard",
+    "card": "Vinsmoke Ichiji",
+    "card_id": "OP06-060",
+    "reason": "for Counter 1000"
+  },
+  "log-356": {
+    "player": "TempestAngel",
+    "action": "Discard",
+    "card": "Vinsmoke Sora",
+    "card_id": "OP06-063",
+    "reason": "for Counter 2000"
+  },
+  "log-357": {
+    "player": "TempestAngel",
+    "action": "Discard",
+    "card": "Vinsmoke Sanji",
+    "card_id": "OP10-063",
+    "reason": "for Counter 1000"
+  },
+  "log-358": {
+    "player": "Pirate18721",
+    "action": "Wins!"
+  }
+}

@@ -1,0 +1,1460 @@
+{
+  "log-001": {
+    "player": "Pirate18721",
+    "action": "Leader is Marshall D. Teach",
+    "card": "OP09-081"
+  },
+  "log-002": {
+    "player": "Fifen",
+    "action": "Leader is Yamato",
+    "card": "OP06-022"
+  },
+  "log-003": {
+    "player": "Fifen",
+    "action": "Chose to go First"
+  },
+  "log-004": {
+    "player": "Fifen",
+    "action": "Drew card from deck",
+    "card": "Nekomamushi",
+    "card_id": "OP06-110"
+  },
+  "log-005": {
+    "player": "Fifen",
+    "action": "Drew card from deck",
+    "card": "Otama",
+    "card_id": "OP07-022"
+  },
+  "log-006": {
+    "player": "Fifen",
+    "action": "Drew card from deck",
+    "card": "Otama",
+    "card_id": "OP07-022"
+  },
+  "log-007": {
+    "player": "Fifen",
+    "action": "Drew card from deck",
+    "card": "Electrical Luna",
+    "card_id": "OP08-036"
+  },
+  "log-008": {
+    "player": "Fifen",
+    "action": "Drew card from deck",
+    "card": "You're the one who should disappear!",
+    "card_id": "OP06-115"
+  },
+  "log-009": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-010": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "This is MY AGE!!!!",
+    "card_id": "OP09-096"
+  },
+  "log-011": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "I Bid 500 Million!!",
+    "card_id": "OP05-096"
+  },
+  "log-012": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Stronger",
+    "card_id": "OP09-089"
+  },
+  "log-013": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-014": {
+    "player": "Pirate18721",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "OP09-099",
+      "OP09-096",
+      "OP05-096",
+      "OP09-089",
+      "OP09-088"
+    ]
+  },
+  "log-015": {
+    "player": "Fifen",
+    "action": "Drew card from deck",
+    "card": "Nami",
+    "card_id": "OP08-106"
+  },
+  "log-016": {
+    "player": "Fifen",
+    "action": "Drew card from deck",
+    "card": "Portgas D. Ace",
+    "card_id": "ST13-011"
+  },
+  "log-017": {
+    "player": "Fifen",
+    "action": "Drew card from deck",
+    "card": "Kozuki Hiyori",
+    "card_id": "OP06-106"
+  },
+  "log-018": {
+    "player": "Fifen",
+    "action": "Drew card from deck",
+    "card": "Otama",
+    "card_id": "OP07-022"
+  },
+  "log-019": {
+    "player": "Fifen",
+    "action": "Drew card from deck",
+    "card": "Electrical Luna",
+    "card_id": "OP08-036"
+  },
+  "log-020": {
+    "player": "Fifen",
+    "action": "Mulligan"
+  },
+  "log-021": {
+    "player": "Fifen",
+    "action": "Draw 1 Don"
+  },
+  "log-022": {
+    "player": "Fifen",
+    "action": "Deploy",
+    "card": "Otama",
+    "card_id": "OP07-022"
+  },
+  "log-023": {
+    "player": "Fifen",
+    "action": "Picked no cards to Draw"
+  },
+  "log-024": {
+    "player": "Fifen",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-025": {
+    "player": "Fifen",
+    "action": "End Turn"
+  },
+  "log-026": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-099",
+      "OP09-096",
+      "OP05-096",
+      "OP09-089",
+      "OP09-088"
+    ]
+  },
+  "log-027": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-028": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-029": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-030": {
+    "player": "Fifen",
+    "action": "Current Hand",
+    "cards": [
+      "OP08-106",
+      "ST13-011",
+      "OP06-106",
+      "OP08-036"
+    ]
+  },
+  "log-031": {
+    "player": "Fifen",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-032": {
+    "player": "Fifen",
+    "action": "Current Board",
+    "cards": [
+      "OP07-022"
+    ]
+  },
+  "log-033": {
+    "player": "Fifen",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-034": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-035": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-036": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-037": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-038": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-093"
+  },
+  "log-039": {
+    "player": "Pirate18721",
+    "action": "This is MY AGE!!!! effect: Trash 2 Remaining Cards",
+    "card": "OP09-096"
+  },
+  "log-040": {
+    "player": "Pirate18721",
+    "action": "Hachinosu effect: Rest Hachinosu",
+    "card": "OP09-099"
+  },
+  "log-041": {
+    "player": "Pirate18721",
+    "action": "Hachinosu effect: Trash Stronger",
+    "card": "OP09-099",
+    "trashed_card": "OP09-089"
+  },
+  "log-042": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "This is MY AGE!!!!",
+    "card_id": "OP09-096"
+  },
+  "log-043": {
+    "player": "Pirate18721",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-044": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP05-096",
+      "OP09-088",
+      "OP09-086",
+      "OP09-093",
+      "OP09-096"
+    ]
+  },
+  "log-045": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-046": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "EB01-051",
+      "OP05-096",
+      "OP09-089"
+    ]
+  },
+  "log-047": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-048": {
+    "player": "Fifen",
+    "action": "Current Hand",
+    "cards": [
+      "OP08-106",
+      "ST13-011",
+      "OP06-106",
+      "OP08-036"
+    ]
+  },
+  "log-049": {
+    "player": "Fifen",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-050": {
+    "player": "Fifen",
+    "action": "Current Board",
+    "cards": [
+      "OP07-022"
+    ]
+  },
+  "log-051": {
+    "player": "Fifen",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-052": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-053": {
+    "player": "Fifen",
+    "action": "Draw 1 Card"
+  },
+  "log-054": {
+    "player": "Fifen",
+    "action": "Drew card from deck",
+    "card": "You're the one who should disappear!",
+    "card_id": "OP06-115"
+  },
+  "log-055": {
+    "player": "Fifen",
+    "action": "Draw 2 Don"
+  },
+  "log-056": {
+    "player": "Fifen",
+    "action": "Attach 3 Don to Yamato",
+    "card": "OP06-022",
+    "total_don": 3
+  },
+  "log-057": {
+    "player": "Fifen",
+    "action": "Attacking",
+    "attacker": "Yamato",
+    "attacker_id": "OP06-022",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-058": {
+    "player": "Fifen",
+    "action": "Attack details",
+    "attacker": "Yamato",
+    "attacker_id": "OP06-022",
+    "attacker_power": 8000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-059": {
+    "player": "Marshall D. Teach",
+    "action": "hit for 2 damage",
+    "card": "OP09-081"
+  },
+  "log-060": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Shiryu",
+    "card_id": "OP10-086"
+  },
+  "log-061": {
+    "player": "Pirate18721",
+    "action": "This is MY AGE!!!! effect: Trash 2 Remaining Cards",
+    "card": "OP09-096"
+  },
+  "log-062": {
+    "player": "Fifen",
+    "action": "End Turn"
+  },
+  "log-063": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP05-096",
+      "OP09-088",
+      "OP09-086",
+      "OP09-093",
+      "OP09-096",
+      "OP09-093",
+      "OP10-086"
+    ]
+  },
+  "log-064": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-065": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "EB01-051",
+      "OP05-096",
+      "OP09-089",
+      "OP09-096",
+      "OP09-083",
+      "EB01-051"
+    ]
+  },
+  "log-066": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-067": {
+    "player": "Fifen",
+    "action": "Current Hand",
+    "cards": [
+      "OP08-106",
+      "ST13-011",
+      "OP06-106",
+      "OP08-036",
+      "OP06-115"
+    ]
+  },
+  "log-068": {
+    "player": "Fifen",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-069": {
+    "player": "Fifen",
+    "action": "Current Board",
+    "cards": [
+      "OP07-022"
+    ]
+  },
+  "log-070": {
+    "player": "Fifen",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-071": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-072": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Black Hole",
+    "card_id": "OP09-098"
+  },
+  "log-073": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-074": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-075": {
+    "player": "Pirate18721",
+    "action": "Hachinosu effect: Rest Hachinosu",
+    "card": "OP09-099"
+  },
+  "log-076": {
+    "player": "Pirate18721",
+    "action": "Hachinosu effect: Trash I Bid 500 Million!!",
+    "card": "OP09-099",
+    "trashed_card": "OP05-096"
+  },
+  "log-077": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Stronger",
+    "card_id": "OP09-089"
+  },
+  "log-078": {
+    "player": "Pirate18721",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-079": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Yamato",
+    "defender_id": "OP06-022"
+  },
+  "log-080": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 5000,
+    "defender": "Yamato",
+    "defender_id": "OP06-022",
+    "defender_power": 5000
+  },
+  "log-081": {
+    "player": "Yamato",
+    "action": "hit for 1 damage",
+    "card": "OP06-022"
+  },
+  "log-082": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Trash Black Hole",
+    "card": "OP09-081",
+    "trashed_card": "OP09-098"
+  },
+  "log-083": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Opponent can't activate On Play abilities next turn!",
+    "card": "OP09-081"
+  },
+  "log-084": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-088",
+      "OP09-093",
+      "OP09-096",
+      "OP09-093",
+      "OP10-086",
+      "OP09-089"
+    ]
+  },
+  "log-085": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086"
+    ]
+  },
+  "log-086": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "EB01-051",
+      "OP05-096",
+      "OP09-089",
+      "OP09-096",
+      "OP09-083",
+      "EB01-051",
+      "OP05-096",
+      "OP09-098"
+    ]
+  },
+  "log-087": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-088": {
+    "player": "Fifen",
+    "action": "Current Hand",
+    "cards": [
+      "OP08-106",
+      "ST13-011",
+      "OP06-106",
+      "OP08-036",
+      "OP06-115",
+      "OP01-041"
+    ]
+  },
+  "log-089": {
+    "player": "Fifen",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-090": {
+    "player": "Fifen",
+    "action": "Current Board",
+    "cards": [
+      "OP07-022"
+    ]
+  },
+  "log-091": {
+    "player": "Fifen",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-092": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-093": {
+    "player": "Fifen",
+    "action": "Draw 1 Card"
+  },
+  "log-094": {
+    "player": "Fifen",
+    "action": "Drew card from deck",
+    "card": "Kikunojo",
+    "card_id": "OP06-104"
+  },
+  "log-095": {
+    "player": "Fifen",
+    "action": "Draw 2 Don"
+  },
+  "log-096": {
+    "player": "Fifen",
+    "action": "Attach 1 Don to Yamato",
+    "card": "OP06-022",
+    "total_don": 1
+  },
+  "log-097": {
+    "player": "Fifen",
+    "action": "Attacking",
+    "attacker": "Yamato",
+    "attacker_id": "OP06-022",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-098": {
+    "player": "Pirate18721",
+    "action": "Discard for Counter 2000",
+    "card": "Stronger",
+    "card_id": "OP09-089"
+  },
+  "log-099": {
+    "player": "Fifen",
+    "action": "Attack details",
+    "attacker": "Yamato",
+    "attacker_id": "OP06-022",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log-100": {
+    "player": "Fifen",
+    "action": "Deploy",
+    "card": "Kikunojo",
+    "card_id": "OP06-104"
+  },
+  "log-101": {
+    "player": "Fifen",
+    "action": "End Turn"
+  },
+  "log-102": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-088",
+      "OP09-093",
+      "OP09-096",
+      "OP09-093",
+      "OP10-086"
+    ]
+  },
+  "log-103": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086"
+    ]
+  },
+  "log-104": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "EB01-051",
+      "OP05-096",
+      "OP09-089",
+      "OP09-096",
+      "OP09-083",
+      "EB01-051",
+      "OP05-096",
+      "OP09-098",
+      "OP09-089"
+    ]
+  },
+  "log-105": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-106": {
+    "player": "Fifen",
+    "action": "Current Hand",
+    "cards": [
+      "OP08-106",
+      "ST13-011",
+      "OP06-106",
+      "OP08-036",
+      "OP06-115",
+      "OP01-041"
+    ]
+  },
+  "log-107": {
+    "player": "Fifen",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-108": {
+    "player": "Fifen",
+    "action": "Current Board",
+    "cards": [
+      "OP07-022",
+      "OP06-104"
+    ]
+  },
+  "log-109": {
+    "player": "Fifen",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-110": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-111": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-093"
+  },
+  "log-112": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-113": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-114": {
+    "player": "Pirate18721",
+    "action": "This is MY AGE!!!! effect: Trash 2 Remaining Cards",
+    "card": "OP09-096"
+  },
+  "log-115": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-116": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "defender": "Yamato",
+    "defender_id": "OP06-022"
+  },
+  "log-117": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "attacker_power": 8000,
+    "defender": "Yamato",
+    "defender_id": "OP06-022",
+    "defender_power": 5000
+  },
+  "log-118": {
+    "player": "Yamato",
+    "action": "hit for 1 damage",
+    "card": "OP06-022"
+  },
+  "log-119": {
+    "player": "Fifen",
+    "action": "Kikunojo Trigger: Deploy",
+    "card": "OP06-104"
+  },
+  "log-120": {
+    "player": "Pirate18721",
+    "action": "Attach 2 Don to Marshall D. Teach",
+    "card": "OP09-081",
+    "total_don": 2
+  },
+  "log-121": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Yamato",
+    "defender_id": "OP06-022"
+  },
+  "log-122": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 7000,
+    "defender": "Yamato",
+    "defender_id": "OP06-022",
+    "defender_power": 5000
+  },
+  "log-123": {
+    "player": "Yamato",
+    "action": "hit for 1 damage",
+    "card": "OP06-022"
+  },
+  "log-124": {
+    "player": "Pirate18721",
+    "action": "Hachinosu effect: Rest Hachinosu",
+    "card": "OP09-099"
+  },
+  "log-125": {
+    "player": "Pirate18721",
+    "action": "Hachinosu effect: Trash Shiryu",
+    "card": "OP09-099",
+    "trashed_card": "OP09-088"
+  },
+  "log-126": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Shiryu",
+    "card_id": "OP10-086"
+  },
+  "log-127": {
+    "player": "Pirate18721",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-128": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-093",
+      "OP09-093",
+      "OP10-086",
+      "OP09-093",
+      "OP10-086"
+    ]
+  },
+  "log-129": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086",
+      "OP09-088"
+    ]
+  },
+  "log-130": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "EB01-051",
+      "OP05-096",
+      "OP09-089",
+      "OP09-096",
+      "OP09-083",
+      "EB01-051",
+      "OP05-096",
+      "OP09-098",
+      "OP09-089",
+      "OP09-096",
+      "EB01-051",
+      "OP09-088",
+      "OP09-088"
+    ]
+  },
+  "log-131": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-132": {
+    "player": "Fifen",
+    "action": "Current Hand",
+    "cards": [
+      "OP08-106",
+      "ST13-011",
+      "OP06-106",
+      "OP08-036",
+      "OP06-115",
+      "OP01-041",
+      "OP06-035"
+    ]
+  },
+  "log-133": {
+    "player": "Fifen",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-134": {
+    "player": "Fifen",
+    "action": "Current Board",
+    "cards": [
+      "OP07-022",
+      "OP06-104",
+      "OP06-104"
+    ]
+  },
+  "log-135": {
+    "player": "Fifen",
+    "action": "Current Life",
+    "value": 1
+  },
+  "log-136": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-137": {
+    "player": "Fifen",
+    "action": "Draw 1 Card"
+  },
+  "log-138": {
+    "player": "Fifen",
+    "action": "Drew card from deck",
+    "card": "You're the one who should disappear!",
+    "card_id": "OP06-115"
+  },
+  "log-139": {
+    "player": "Fifen",
+    "action": "Draw 2 Don"
+  },
+  "log-140": {
+    "player": "Fifen",
+    "action": "Attacking",
+    "attacker": "Yamato",
+    "attacker_id": "OP06-022",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-141": {
+    "player": "Pirate18721",
+    "action": "Discard for Counter 1000",
+    "card": "Shiryu",
+    "card_id": "OP10-086"
+  },
+  "log-142": {
+    "player": "Fifen",
+    "action": "Attack details",
+    "attacker": "Yamato",
+    "attacker_id": "OP06-022",
+    "attacker_power": 5000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 6000,
+    "result": "Attack Fails"
+  },
+  "log-143": {
+    "player": "Fifen",
+    "action": "Attacking",
+    "attacker": "Kikunojo",
+    "attacker_id": "OP06-104",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-144": {
+    "player": "Fifen",
+    "action": "Attack details",
+    "attacker": "Kikunojo",
+    "attacker_id": "OP06-104",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-145": {
+    "player": "Marshall D. Teach",
+    "action": "hit for 1 damage",
+    "card": "OP09-081"
+  },
+  "log-146": {
+    "player": "Fifen",
+    "action": "Attacking",
+    "attacker": "Kikunojo",
+    "attacker_id": "OP06-104",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-147": {
+    "player": "Fifen",
+    "action": "Attack details",
+    "attacker": "Kikunojo",
+    "attacker_id": "OP06-104",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-148": {
+    "player": "Marshall D. Teach",
+    "action": "hit for 1 damage",
+    "card": "OP09-081"
+  },
+  "log-149": {
+    "player": "Fifen",
+    "action": "Deploy",
+    "card": "Kozuki Hiyori",
+    "card_id": "OP06-106"
+  },
+  "log-150": {
+    "player": "Fifen",
+    "action": "Kozuki Hiyori effect: Takes Top Life",
+    "card": "OP06-106"
+  },
+  "log-151": {
+    "player": "Fifen",
+    "action": "Kozuki Hiyori effect: Added card to top of Life from Hand",
+    "card": "OP06-106"
+  },
+  "log-152": {
+    "player": "Fifen",
+    "action": "Deploy",
+    "card": "Portgas D. Ace",
+    "card_id": "ST13-011"
+  },
+  "log-153": {
+    "player": "Fifen",
+    "action": "Portgas D. Ace Gains Rush",
+    "card": "ST13-011"
+  },
+  "log-154": {
+    "player": "Fifen",
+    "action": "Yamato effect: Attach 2 Rested Don to Portgas D. Ace",
+    "card": "OP06-022",
+    "attached_card": "ST13-011"
+  },
+  "log-155": {
+    "player": "Fifen",
+    "action": "Attacking",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "ST13-011",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-156": {
+    "player": "Fifen",
+    "action": "Attack details",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "ST13-011",
+    "attacker_power": 9000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-157": {
+    "player": "Marshall D. Teach",
+    "action": "hit for 1 damage",
+    "card": "OP09-081"
+  },
+  "log-158": {
+    "player": "Fifen",
+    "action": "End Turn"
+  },
+  "log-159": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-093",
+      "OP09-093",
+      "OP10-086",
+      "OP09-093",
+      "OP09-099",
+      "OP10-086",
+      "OP09-089"
+    ]
+  },
+  "log-160": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086",
+      "OP09-088"
+    ]
+  },
+  "log-161": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "EB01-051",
+      "OP05-096",
+      "OP09-089",
+      "OP09-096",
+      "OP09-083",
+      "EB01-051",
+      "OP05-096",
+      "OP09-098",
+      "OP09-089",
+      "OP09-096",
+      "EB01-051",
+      "OP09-088",
+      "OP09-088",
+      "OP10-086"
+    ]
+  },
+  "log-162": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 0
+  },
+  "log-163": {
+    "player": "Fifen",
+    "action": "Current Hand",
+    "cards": [
+      "OP08-106",
+      "OP08-036",
+      "OP06-115",
+      "OP01-041",
+      "OP06-035",
+      "OP08-106"
+    ]
+  },
+  "log-164": {
+    "player": "Fifen",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-165": {
+    "player": "Fifen",
+    "action": "Current Board",
+    "cards": [
+      "OP07-022",
+      "OP06-104",
+      "OP06-104",
+      "OP06-106",
+      "ST13-011"
+    ]
+  },
+  "log-166": {
+    "player": "Fifen",
+    "action": "Current Life",
+    "value": 1
+  },
+  "log-167": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-168": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-169": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-170": {
+    "player": "Pirate18721",
+    "action": "Hachinosu effect: Rest Hachinosu",
+    "card": "OP09-099"
+  },
+  "log-171": {
+    "player": "Pirate18721",
+    "action": "Hachinosu effect: Trash Shiryu",
+    "card": "OP09-099",
+    "trashed_card": "OP10-086"
+  },
+  "log-172": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-173": {
+    "player": "Pirate18721",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-174": {
+    "player": "Pirate18721",
+    "action": "Attach 3 Don to Jesus Burgess",
+    "card": "OP09-086",
+    "total_don": 3
+  },
+  "log-175": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "defender": "Yamato",
+    "defender_id": "OP06-022"
+  },
+  "log-176": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "attacker_power": 12000,
+    "defender": "Yamato",
+    "defender_id": "OP06-022",
+    "defender_power": 5000
+  },
+  "log-177": {
+    "player": "Yamato",
+    "action": "hit for 1 damage",
+    "card": "OP06-022"
+  },
+  "log-178": {
+    "player": "Fifen",
+    "action": "Trash",
+    "card": "Electrical Luna",
+    "card_id": "OP08-036"
+  },
+  "log-179": {
+    "player": "Fifen",
+    "action": "You're the one who should disappear! effect: Add card to top of Life from Deck",
+    "card": "OP06-115"
+  },
+  "log-180": {
+    "player": "Pirate18721",
+    "action": "Attach 3 Don to Shiryu",
+    "card": "OP09-088",
+    "total_don": 3
+  },
+  "log-181": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Shiryu",
+    "attacker_id": "OP09-088",
+    "defender": "Yamato",
+    "defender_id": "OP06-022"
+  },
+  "log-182": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Shiryu",
+    "attacker_id": "OP09-088",
+    "attacker_power": 7000,
+    "defender": "Yamato",
+    "defender_id": "OP06-022",
+    "defender_power": 5000
+  },
+  "log-183": {
+    "player": "Yamato",
+    "action": "hit for 1 damage",
+    "card": "OP06-022"
+  },
+  "log-184": {
+    "player": "Pirate18721",
+    "action": "Attach 2 Don to Marshall D. Teach",
+    "card": "OP09-081",
+    "total_don": 2
+  },
+  "log-185": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Yamato",
+    "defender_id": "OP06-022"
+  },
+  "log-186": {
+    "player": "Fifen",
+    "action": "Trash",
+    "card": "Kozuki Momonosuke",
+    "card_id": "OP01-041"
+  },
+  "log-187": {
+    "player": "Fifen",
+    "action": "You're the one who should disappear! effect: Counter 3000",
+    "card": "OP06-115"
+  },
+  "log-188": {
+    "player": "Pirate18721",
+    "action": "Attack details",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 7000,
+    "defender": "Yamato",
+    "defender_id": "OP06-022",
+    "defender_power": 8000,
+    "result": "Attack Fails"
+  },
+  "log-189": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Trash Hachinosu",
+    "card": "OP09-081",
+    "trashed_card": "OP09-099"
+  },
+  "log-190": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach effect: Opponent can't activate On Play abilities next turn!",
+    "card": "OP09-081"
+  },
+  "log-191": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-093",
+      "OP09-093",
+      "OP09-093",
+      "OP10-086",
+      "OP09-089",
+      "OP09-091",
+      "OP09-091"
+    ]
+  },
+  "log-192": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086",
+      "OP09-088"
+    ]
+  },
+  "log-193": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "EB01-051",
+      "OP05-096",
+      "OP09-089",
+      "OP09-096",
+      "OP09-083",
+      "EB01-051",
+      "OP05-096",
+      "OP09-098",
+      "OP09-089",
+      "OP09-096",
+      "EB01-051",
+      "OP09-088",
+      "OP09-088",
+      "OP10-086",
+      "OP10-086",
+      "OP09-099"
+    ]
+  },
+  "log-194": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 0
+  },
+  "log-195": {
+    "player": "Fifen",
+    "action": "Current Hand",
+    "cards": [
+      "OP08-106",
+      "OP01-041",
+      "OP06-035",
+      "OP08-106"
+    ]
+  },
+  "log-196": {
+    "player": "Fifen",
+    "action": "Current Trash",
+    "cards": [
+      "OP08-036",
+      "OP06-115",
+      "OP01-041",
+      "OP06-115"
+    ]
+  },
+  "log-197": {
+    "player": "Fifen",
+    "action": "Current Board",
+    "cards": [
+      "OP07-022",
+      "OP06-104",
+      "OP06-104",
+      "OP06-106",
+      "ST13-011"
+    ]
+  },
+  "log-198": {
+    "player": "Fifen",
+    "action": "Current Life",
+    "value": 0
+  },
+  "log-199": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-200": {
+    "player": "Fifen",
+    "action": "Draw 1 Card"
+  },
+  "log-201": {
+    "player": "Fifen",
+    "action": "Drew card from deck",
+    "card": "Kikunojo",
+    "card_id": "OP06-104"
+  },
+  "log-202": {
+    "player": "Fifen",
+    "action": "Draw 2 Don"
+  },
+  "log-203": {
+    "player": "Fifen",
+    "action": "Attacking",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "ST13-011",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-204": {
+    "player": "Pirate18721",
+    "action": "Discard for Counter 1000",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-205": {
+    "player": "Pirate18721",
+    "action": "Discard for Counter 2000",
+    "card": "Stronger",
+    "card_id": "OP09-089"
+  },
+  "log-206": {
+    "player": "Fifen",
+    "action": "Attack details",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "ST13-011",
+    "attacker_power": 7000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 8000,
+    "result": "Attack Fails"
+  },
+  "log-207": {
+    "player": "Fifen",
+    "action": "Attacking",
+    "attacker": "Kikunojo",
+    "attacker_id": "OP06-104",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-208": {
+    "player": "Pirate18721",
+    "action": "Discard for Counter 1000",
+    "card": "Vasco Shot",
+    "card_id": "OP09-091"
+  },
+  "log-209": {
+    "player": "Pirate18721",
+    "action": "Discard for Counter 1000",
+    "card": "Shiryu",
+    "card_id": "OP10-086"
+  },
+  "log-210": {
+    "player": "Fifen",
+    "action": "Attack details",
+    "attacker": "Kikunojo",
+    "attacker_id": "OP06-104",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log-211": {
+    "player": "Fifen",
+    "action": "Attacking",
+    "attacker": "Yamato",
+    "attacker_id": "OP06-022",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-212": {
+    "player": "Fifen",
+    "action": "Attack details",
+    "attacker": "Yamato",
+    "attacker_id": "OP06-022",
+    "attacker_power": 5000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-213": {
+    "player": "Marshall D. Teach",
+    "action": "hit for 2 damage",
+    "card": "OP09-081"
+  },
+  "log-214": {
+    "player": "Pirate18721",
+    "action": "Loses"
+  }
+}

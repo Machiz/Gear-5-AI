@@ -1,0 +1,2181 @@
+{
+  "log-001": {
+    "player": "Pirate18721",
+    "action": "Leader is Marshall D. Teach",
+    "card": "OP09-081"
+  },
+  "log-002": {
+    "player": "Pirate93934",
+    "action": "Leader is Kalgara",
+    "card": "OP08-098"
+  },
+  "log-003": {
+    "player": "Pirate18721",
+    "action": "Will select turn order"
+  },
+  "log-004": {
+    "player": "Pirate18721",
+    "action": "Chose to go Second"
+  },
+  "log-005": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-006": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shiryu",
+    "card_id": "OP09-088"
+  },
+  "log-007": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "This is MY AGE!!!!",
+    "card_id": "OP09-096"
+  },
+  "log-008": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Van Augur",
+    "card_id": "OP09-083"
+  },
+  "log-009": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "I Bid 500 Million!!",
+    "card_id": "OP05-096"
+  },
+  "log-010": {
+    "player": "Pirate18721",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "OP09-086",
+      "OP09-088",
+      "OP09-096",
+      "OP09-083",
+      "OP05-096"
+    ]
+  },
+  "log-011": {
+    "player": "Pirate93934",
+    "action": "Drew card from deck",
+    "card": "Kamakiri",
+    "card_id": "OP06-102"
+  },
+  "log-012": {
+    "player": "Pirate93934",
+    "action": "Drew card from deck",
+    "card": "Enel",
+    "card_id": "EB02-052"
+  },
+  "log-013": {
+    "player": "Pirate93934",
+    "action": "Drew card from deck",
+    "card": "Wiper",
+    "card_id": "OP06-114"
+  },
+  "log-014": {
+    "player": "Pirate93934",
+    "action": "Drew card from deck",
+    "card": "Wiper",
+    "card_id": "OP06-114"
+  },
+  "log-015": {
+    "player": "Pirate93934",
+    "action": "Drew card from deck",
+    "card": "The Earth Won't Lose!!",
+    "card_id": "OP08-115"
+  },
+  "log-016": {
+    "player": "Pirate93934",
+    "action": "Draw 1 Don"
+  },
+  "log-017": {
+    "player": "Pirate93934",
+    "action": "End Turn"
+  },
+  "log-018": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-086",
+      "OP09-088",
+      "OP09-096",
+      "OP09-083",
+      "OP05-096"
+    ]
+  },
+  "log-019": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-020": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-021": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-022": {
+    "player": "Pirate93934",
+    "action": "Current Hand",
+    "cards": [
+      "OP06-102",
+      "EB02-052",
+      "OP06-114",
+      "OP06-114",
+      "OP08-115"
+    ]
+  },
+  "log-023": {
+    "player": "Pirate93934",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-024": {
+    "player": "Pirate93934",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-025": {
+    "player": "Pirate93934",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-026": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-027": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Stronger",
+    "card_id": "OP09-089"
+  },
+  "log-028": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-029": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Laffitte",
+    "card_id": "OP09-095"
+  },
+  "log-030": {
+    "player": "Pirate18721",
+    "action": "This is MY AGE!!!!",
+    "card_id": "OP09-096",
+    "effect": "Trash 2 Remaining Cards"
+  },
+  "log-031": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Laffitte",
+    "card_id": "OP09-095"
+  },
+  "log-032": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "effect": "Trash Van Augur",
+    "effect_card_id": "OP09-083"
+  },
+  "log-033": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "effect": "Opponent can't activate On Play abilities next turn!"
+  },
+  "log-034": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-086",
+      "OP09-088",
+      "OP05-096",
+      "OP09-089"
+    ]
+  },
+  "log-035": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-095"
+    ]
+  },
+  "log-036": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP10-098",
+      "OP09-083"
+    ]
+  },
+  "log-037": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-038": {
+    "player": "Pirate93934",
+    "action": "Current Hand",
+    "cards": [
+      "OP06-102",
+      "EB02-052",
+      "OP06-114",
+      "OP06-114",
+      "OP08-115"
+    ]
+  },
+  "log-039": {
+    "player": "Pirate93934",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-040": {
+    "player": "Pirate93934",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-041": {
+    "player": "Pirate93934",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-042": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-043": {
+    "player": "Pirate93934",
+    "action": "Draw 1 Card"
+  },
+  "log-044": {
+    "player": "Pirate93934",
+    "action": "Drew card from deck",
+    "card": "El Thor",
+    "card_id": "OP05-114"
+  },
+  "log-045": {
+    "player": "Pirate93934",
+    "action": "Draw 2 Don"
+  },
+  "log-046": {
+    "player": "Pirate93934",
+    "action": "Attach 3 Don to Kalgara",
+    "card_id": "OP08-098",
+    "total_don": 3
+  },
+  "log-047": {
+    "player": "Pirate93934",
+    "action": "Attacking",
+    "attacker": "Kalgara",
+    "attacker_id": "OP08-098",
+    "attacker_power": 8000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-048": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach hit for 1 damage"
+  },
+  "log-049": {
+    "player": "Pirate93934",
+    "action": "End Turn"
+  },
+  "log-050": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-086",
+      "OP09-088",
+      "OP05-096",
+      "OP09-089",
+      "OP09-086"
+    ]
+  },
+  "log-051": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-095"
+    ]
+  },
+  "log-052": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP10-098",
+      "OP09-083"
+    ]
+  },
+  "log-053": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-054": {
+    "player": "Pirate93934",
+    "action": "Current Hand",
+    "cards": [
+      "OP06-102",
+      "EB02-052",
+      "OP06-114",
+      "OP06-114",
+      "OP08-115",
+      "OP05-114"
+    ]
+  },
+  "log-055": {
+    "player": "Pirate93934",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-056": {
+    "player": "Pirate93934",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-057": {
+    "player": "Pirate93934",
+    "action": "Current Life",
+    "value": 5
+  },
+  "log-058": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-059": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Kuzan",
+    "card_id": "OP10-082"
+  },
+  "log-060": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-061": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-062": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Kalgara",
+    "defender_id": "OP08-098"
+  },
+  "log-063": {
+    "player": "Pirate93934",
+    "action": "Kalgara hit for 1 damage"
+  },
+  "log-064": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "effect": "Trash I Bid 500 Million!!",
+    "effect_card_id": "OP05-096"
+  },
+  "log-065": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach",
+    "card_id": "OP09-081",
+    "effect": "Opponent can't activate On Play abilities next turn!"
+  },
+  "log-066": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-088",
+      "OP09-089",
+      "OP09-086",
+      "OP10-082"
+    ]
+  },
+  "log-067": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-095",
+      "OP09-086"
+    ]
+  },
+  "log-068": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP10-098",
+      "OP09-083",
+      "OP05-096"
+    ]
+  },
+  "log-069": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-070": {
+    "player": "Pirate93934",
+    "action": "Current Hand",
+    "cards": [
+      "OP06-102",
+      "EB02-052",
+      "OP06-114",
+      "OP06-114",
+      "OP08-115",
+      "OP05-114",
+      "OP08-110"
+    ]
+  },
+  "log-071": {
+    "player": "Pirate93934",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-072": {
+    "player": "Pirate93934",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-073": {
+    "player": "Pirate93934",
+    "action": "Current Life",
+    "value": 4
+  },
+  "log-074": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-075": {
+    "player": "Pirate93934",
+    "action": "Draw 1 Card"
+  },
+  "log-076": {
+    "player": "Pirate93934",
+    "action": "Drew card from deck",
+    "card": "Satori",
+    "card_id": "OP05-105"
+  },
+  "log-077": {
+    "player": "Pirate93934",
+    "action": "Draw 2 Don"
+  },
+  "log-078": {
+    "player": "Pirate93934",
+    "action": "Attach 3 Don to Kalgara",
+    "card_id": "OP08-098",
+    "total_don": 3
+  },
+  "log-079": {
+    "player": "Pirate93934",
+    "action": "Attacking",
+    "attacker": "Kalgara",
+    "attacker_id": "OP08-098",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-080": {
+    "player": "Pirate93934",
+    "action": "Kalgara",
+    "card_id": "OP08-098",
+    "effect": "Takes Top Life"
+  },
+  "log-081": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach hit for 1 damage"
+  },
+  "log-082": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-083": {
+    "player": "Pirate18721",
+    "action": "This is MY AGE!!!!",
+    "card_id": "OP09-096",
+    "effect": "Trash 2 Remaining Cards"
+  },
+  "log-084": {
+    "player": "Pirate93934",
+    "action": "End Turn"
+  },
+  "log-085": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-088",
+      "OP09-089",
+      "OP09-086",
+      "OP10-082",
+      "OP09-099"
+    ]
+  },
+  "log-086": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-095",
+      "OP09-086"
+    ]
+  },
+  "log-087": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP10-098",
+      "OP09-083",
+      "OP05-096",
+      "OP09-096",
+      "OP09-099",
+      "OP09-084"
+    ]
+  },
+  "log-088": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-089": {
+    "player": "Pirate93934",
+    "action": "Current Hand",
+    "cards": [
+      "OP06-102",
+      "EB02-052",
+      "OP06-114",
+      "OP08-115",
+      "OP05-114",
+      "OP08-110",
+      "OP05-105",
+      "OP05-101"
+    ]
+  },
+  "log-090": {
+    "player": "Pirate93934",
+    "action": "Current Trash",
+    "cards": []
+  },
+  "log-091": {
+    "player": "Pirate93934",
+    "action": "Current Board",
+    "cards": [
+      "OP06-114"
+    ]
+  },
+  "log-092": {
+    "player": "Pirate93934",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-093": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-094": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shigan (Finger Gun)",
+    "card_id": "EB01-051"
+  },
+  "log-095": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-096": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Jesus Burgess",
+    "card_id": "OP09-086"
+  },
+  "log-097": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-098": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "defender": "Kalgara",
+    "defender_id": "OP08-098"
+  },
+  "log-099": {
+    "player": "Pirate93934",
+    "action": "The Earth Won't Lose!!",
+    "card_id": "OP08-115",
+    "effect": "Buff Kalgara 3000 for the Combat",
+    "effect_card_id": "OP08-098"
+  },
+  "log-100": {
+    "player": "Pirate18721",
+    "action": "Attack Fails",
+    "attacker": "Jesus Burgess",
+    "attacker_power": 7000,
+    "defender": "Kalgara",
+    "defender_power": 8000
+  },
+  "log-101": {
+    "player": "Pirate18721",
+    "action": "Laffitte",
+    "card_id": "OP09-095",
+    "effect": "Rest Laffitte",
+    "effect_card_id": "OP09-095"
+  },
+  "log-102": {
+    "player": "Pirate18721",
+    "action": "Reveal and Draw",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-093"
+  },
+  "log-103": {
+    "player": "Pirate18721",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-104": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Kalgara",
+    "defender_id": "OP08-098"
+  },
+  "log-105": {
+    "player": "Pirate93934",
+    "action": "Discard Ohm",
+    "card_id": "OP05-101",
+    "effect": "for Counter 1000"
+  },
+  "log-106": {
+    "player": "Pirate18721",
+    "action": "Attack Fails",
+    "attacker": "Marshall D. Teach",
+    "attacker_power": 5000,
+    "defender": "Kalgara",
+    "defender_power": 6000
+  },
+  "log-107": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-088",
+      "OP09-089",
+      "OP10-082",
+      "EB01-051",
+      "OP09-093"
+    ]
+  },
+  "log-108": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-095",
+      "OP09-086",
+      "OP09-086"
+    ]
+  },
+  "log-109": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP10-098",
+      "OP09-083",
+      "OP05-096",
+      "OP09-096",
+      "OP09-099",
+      "OP09-084"
+    ]
+  },
+  "log-110": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-111": {
+    "player": "Pirate93934",
+    "action": "Current Hand",
+    "cards": [
+      "OP06-102",
+      "EB02-052",
+      "OP06-114",
+      "OP05-114",
+      "OP08-110",
+      "OP05-105"
+    ]
+  },
+  "log-112": {
+    "player": "Pirate93934",
+    "action": "Current Trash",
+    "cards": [
+      "OP08-115",
+      "OP05-101"
+    ]
+  },
+  "log-113": {
+    "player": "Pirate93934",
+    "action": "Current Board",
+    "cards": [
+      "OP06-114"
+    ]
+  },
+  "log-114": {
+    "player": "Pirate93934",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-115": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-116": {
+    "player": "Pirate93934",
+    "action": "Draw 1 Card"
+  },
+  "log-117": {
+    "player": "Pirate93934",
+    "action": "Drew card from deck",
+    "card": "Holy",
+    "card_id": "OP05-110"
+  },
+  "log-118": {
+    "player": "Pirate93934",
+    "action": "Draw 2 Don"
+  },
+  "log-119": {
+    "player": "Pirate93934",
+    "action": "Attach 2 Don to Wiper",
+    "card_id": "OP06-114",
+    "total_don": 2
+  },
+  "log-120": {
+    "player": "Pirate93934",
+    "action": "Attacking",
+    "attacker": "Wiper",
+    "attacker_id": "OP06-114",
+    "attacker_power": 9000,
+    "defender": "Jesus Burgess",
+    "defender_id": "OP09-086",
+    "defender_power": 7000
+  },
+  "log-121": {
+    "player": "Pirate18721",
+    "action": "Jesus Burgess Destroyed",
+    "card_id": "OP09-086"
+  },
+  "log-122": {
+    "player": "Pirate93934",
+    "action": "Attach 1 Don to Kalgara",
+    "card_id": "OP08-098",
+    "total_don": 1
+  },
+  "log-123": {
+    "player": "Pirate93934",
+    "action": "Attacking",
+    "attacker": "Kalgara",
+    "attacker_id": "OP08-098",
+    "defender": "Laffitte",
+    "defender_id": "OP09-095"
+  },
+  "log-124": {
+    "player": "Pirate93934",
+    "action": "Kalgara",
+    "card_id": "OP08-098",
+    "effect": "Takes Top Life"
+  },
+  "log-125": {
+    "player": "Pirate18721",
+    "action": "Laffitte Destroyed",
+    "card_id": "OP09-095"
+  },
+  "log-126": {
+    "player": "Pirate93934",
+    "action": "Deploy",
+    "card": "Kamakiri",
+    "card_id": "OP06-102"
+  },
+  "log-127": {
+    "player": "Pirate93934",
+    "action": "Kamakiri",
+    "card_id": "OP06-102",
+    "effect": "Send Hachinosu to Deck Bottom",
+    "effect_card_id": "OP09-099"
+  },
+  "log-128": {
+    "player": "Pirate93934",
+    "action": "End Turn"
+  },
+  "log-129": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-088",
+      "OP09-089",
+      "OP10-082",
+      "EB01-051",
+      "OP09-093"
+    ]
+  },
+  "log-130": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086"
+    ]
+  },
+  "log-131": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP10-098",
+      "OP09-083",
+      "OP05-096",
+      "OP09-096",
+      "OP09-099",
+      "OP09-084",
+      "OP09-086",
+      "OP09-095"
+    ]
+  },
+  "log-132": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-133": {
+    "player": "Pirate93934",
+    "action": "Current Hand",
+    "cards": [
+      "EB02-052",
+      "OP05-114",
+      "OP08-110",
+      "OP05-105",
+      "OP05-110",
+      "OP06-102"
+    ]
+  },
+  "log-134": {
+    "player": "Pirate93934",
+    "action": "Current Trash",
+    "cards": [
+      "OP08-115",
+      "OP05-101"
+    ]
+  },
+  "log-135": {
+    "player": "Pirate93934",
+    "action": "Current Board",
+    "cards": [
+      "OP06-114",
+      "OP06-114",
+      "OP06-102"
+    ]
+  },
+  "log-136": {
+    "player": "Pirate93934",
+    "action": "Current Life",
+    "value": 2
+  },
+  "log-137": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-138": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-139": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-140": {
+    "player": "Pirate18721",
+    "action": "Shigan (Finger Gun)",
+    "card_id": "EB01-051",
+    "effect": "Trash 2 Cards from Deck"
+  },
+  "log-141": {
+    "player": "Pirate18721",
+    "action": "Shigan (Finger Gun)",
+    "card_id": "EB01-051",
+    "effect": "Destroy Wiper",
+    "effect_card_id": "OP06-114"
+  },
+  "log-142": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-143": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "defender": "Kalgara",
+    "defender_id": "OP08-098"
+  },
+  "log-144": {
+    "player": "Pirate93934",
+    "action": "Discard Satori",
+    "card_id": "OP05-105",
+    "effect": "for Counter 2000"
+  },
+  "log-145": {
+    "player": "Pirate93934",
+    "action": "Discard Wiper",
+    "card_id": "OP08-110",
+    "effect": "for Counter 2000"
+  },
+  "log-146": {
+    "player": "Pirate18721",
+    "action": "Attack Fails",
+    "attacker": "Jesus Burgess",
+    "attacker_power": 8000,
+    "defender": "Kalgara",
+    "defender_power": 9000
+  },
+  "log-147": {
+    "player": "Pirate18721",
+    "action": "Attach 3 Don to Marshall D. Teach",
+    "card_id": "OP09-081",
+    "total_don": 3
+  },
+  "log-148": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Kalgara",
+    "defender_id": "OP08-098"
+  },
+  "log-149": {
+    "player": "Pirate93934",
+    "action": "Kalgara hit for 1 damage"
+  },
+  "log-150": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-088",
+      "OP09-089",
+      "OP10-082",
+      "OP09-093"
+    ]
+  },
+  "log-151": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086"
+    ]
+  },
+  "log-152": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP10-098",
+      "OP09-083",
+      "OP05-096",
+      "OP09-096",
+      "OP09-099",
+      "OP09-084",
+      "OP09-086",
+      "OP09-095",
+      "EB01-051",
+      "OP09-098",
+      "OP09-083"
+    ]
+  },
+  "log-153": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-154": {
+    "player": "Pirate93934",
+    "action": "Current Hand",
+    "cards": [
+      "EB02-052",
+      "OP05-114",
+      "OP05-110",
+      "OP06-102",
+      "OP05-110"
+    ]
+  },
+  "log-155": {
+    "player": "Pirate93934",
+    "action": "Current Trash",
+    "cards": [
+      "OP08-115",
+      "OP05-101",
+      "OP06-114",
+      "OP05-105",
+      "OP08-110"
+    ]
+  },
+  "log-156": {
+    "player": "Pirate93934",
+    "action": "Current Board",
+    "cards": [
+      "OP06-114",
+      "OP06-102"
+    ]
+  },
+  "log-157": {
+    "player": "Pirate93934",
+    "action": "Current Life",
+    "value": 1
+  },
+  "log-158": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-159": {
+    "player": "Pirate93934",
+    "action": "Draw 1 Card"
+  },
+  "log-160": {
+    "player": "Pirate93934",
+    "action": "Drew card from deck",
+    "card": "Montblanc Norland",
+    "card_id": "OP08-109"
+  },
+  "log-161": {
+    "player": "Pirate93934",
+    "action": "Draw 2 Don"
+  },
+  "log-162": {
+    "player": "Pirate93934",
+    "action": "Kamakiri",
+    "card_id": "OP06-102",
+    "effect": "Send Hachinosu to Deck Bottom",
+    "effect_card_id": "OP09-099"
+  },
+  "log-163": {
+    "player": "Pirate93934",
+    "action": "Attach 5 Don to Wiper",
+    "card_id": "OP06-114",
+    "total_don": 5
+  },
+  "log-164": {
+    "player": "Pirate93934",
+    "action": "Attacking",
+    "attacker": "Wiper",
+    "attacker_id": "OP06-114",
+    "attacker_power": 12000,
+    "defender": "Jesus Burgess",
+    "defender_id": "OP09-086",
+    "defender_power": 8000
+  },
+  "log-165": {
+    "player": "Pirate18721",
+    "action": "Jesus Burgess Destroyed",
+    "card_id": "OP09-086"
+  },
+  "log-166": {
+    "player": "Pirate93934",
+    "action": "Attach 2 Don to Kamakiri",
+    "card_id": "OP06-102",
+    "total_don": 2
+  },
+  "log-167": {
+    "player": "Pirate93934",
+    "action": "Attacking",
+    "attacker": "Kamakiri",
+    "attacker_id": "OP06-102",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-168": {
+    "player": "Pirate18721",
+    "action": "Discard Stronger",
+    "card_id": "OP09-089",
+    "effect": "for Counter 2000"
+  },
+  "log-169": {
+    "player": "Pirate18721",
+    "action": "Attack Fails",
+    "attacker": "Kamakiri",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_power": 7000
+  },
+  "log-170": {
+    "player": "Pirate93934",
+    "action": "Attach 1 Don to Kalgara",
+    "card_id": "OP08-098",
+    "total_don": 1
+  },
+  "log-171": {
+    "player": "Pirate93934",
+    "action": "Attacking",
+    "attacker": "Kalgara",
+    "attacker_id": "OP08-098",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-172": {
+    "player": "Pirate18721",
+    "action": "Discard Shiryu",
+    "card_id": "OP09-088",
+    "effect": "for Counter 2000"
+  },
+  "log-173": {
+    "player": "Pirate18721",
+    "action": "Attack Fails",
+    "attacker": "Kalgara",
+    "attacker_power": 6000,
+    "defender": "Marshall D. Teach",
+    "defender_power": 7000
+  },
+  "log-174": {
+    "player": "Pirate93934",
+    "action": "End Turn"
+  },
+  "log-175": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-082",
+      "OP09-093"
+    ]
+  },
+  "log-176": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": []
+  },
+  "log-177": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP10-098",
+      "OP09-083",
+      "OP05-096",
+      "OP09-096",
+      "OP09-099",
+      "OP09-084",
+      "OP09-086",
+      "OP09-095",
+      "EB01-051",
+      "OP09-098",
+      "OP09-083",
+      "OP09-086",
+      "OP09-089",
+      "OP09-088"
+    ]
+  },
+  "log-178": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-179": {
+    "player": "Pirate93934",
+    "action": "Current Hand",
+    "cards": [
+      "EB02-052",
+      "OP05-114",
+      "OP05-110",
+      "OP06-102",
+      "OP05-110",
+      "OP08-109"
+    ]
+  },
+  "log-180": {
+    "player": "Pirate93934",
+    "action": "Current Trash",
+    "cards": [
+      "OP08-115",
+      "OP05-101",
+      "OP06-114",
+      "OP05-105",
+      "OP08-110"
+    ]
+  },
+  "log-181": {
+    "player": "Pirate93934",
+    "action": "Current Board",
+    "cards": [
+      "OP06-114",
+      "OP06-102"
+    ]
+  },
+  "log-182": {
+    "player": "Pirate93934",
+    "action": "Current Life",
+    "value": 1
+  },
+  "log-183": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-184": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shigan (Finger Gun)",
+    "card_id": "EB01-051"
+  },
+  "log-185": {
+    "player": "Pirate18721",
+    "action": "Draw 2 Don"
+  },
+  "log-186": {
+    "player": "Pirate18721",
+    "action": "Shigan (Finger Gun)",
+    "card_id": "EB01-051",
+    "effect": "Trash 2 Cards from Deck"
+  },
+  "log-187": {
+    "player": "Pirate18721",
+    "action": "Shigan (Finger Gun)",
+    "card_id": "EB01-051",
+    "effect": "Destroy Wiper",
+    "effect_card_id": "OP06-114"
+  },
+  "log-188": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Kuzan",
+    "card_id": "OP10-082"
+  },
+  "log-189": {
+    "player": "Pirate18721",
+    "action": "Attach 1 Don to Marshall D. Teach",
+    "card_id": "OP09-081",
+    "total_don": 1
+  },
+  "log-190": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Kamakiri",
+    "defender_id": "OP06-102"
+  },
+  "log-191": {
+    "player": "Pirate93934",
+    "action": "Discard Kamakiri",
+    "card_id": "OP06-102",
+    "effect": "for Counter 1000"
+  },
+  "log-192": {
+    "player": "Pirate93934",
+    "action": "Discard Holy",
+    "card_id": "OP05-110",
+    "effect": "for Counter 1000"
+  },
+  "log-193": {
+    "player": "Pirate93934",
+    "action": "Discard Holy",
+    "card_id": "OP05-110",
+    "effect": "for Counter 1000"
+  },
+  "log-194": {
+    "player": "Pirate18721",
+    "action": "Attack Fails",
+    "attacker": "Marshall D. Teach",
+    "attacker_power": 6000,
+    "defender": "Kamakiri",
+    "defender_power": 7000
+  },
+  "log-195": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-093"
+    ]
+  },
+  "log-196": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP10-082"
+    ]
+  },
+  "log-197": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP10-098",
+      "OP09-083",
+      "OP05-096",
+      "OP09-096",
+      "OP09-099",
+      "OP09-084",
+      "OP09-086",
+      "OP09-095",
+      "EB01-051",
+      "OP09-098",
+      "OP09-083",
+      "OP09-086",
+      "OP09-089",
+      "OP09-088",
+      "EB01-051",
+      "OP09-091",
+      "OP09-091"
+    ]
+  },
+  "log-198": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 3
+  },
+  "log-199": {
+    "player": "Pirate93934",
+    "action": "Current Hand",
+    "cards": [
+      "EB02-052",
+      "OP05-114",
+      "OP08-109"
+    ]
+  },
+  "log-200": {
+    "player": "Pirate93934",
+    "action": "Current Trash",
+    "cards": [
+      "OP08-115",
+      "OP05-101",
+      "OP06-114",
+      "OP05-105",
+      "OP08-110",
+      "OP06-114",
+      "OP06-102",
+      "OP05-110",
+      "OP05-110"
+    ]
+  },
+  "log-201": {
+    "player": "Pirate93934",
+    "action": "Current Board",
+    "cards": [
+      "OP06-102"
+    ]
+  },
+  "log-202": {
+    "player": "Pirate93934",
+    "action": "Current Life",
+    "value": 1
+  },
+  "log-203": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-204": {
+    "player": "Pirate93934",
+    "action": "Draw 1 Card"
+  },
+  "log-205": {
+    "player": "Pirate93934",
+    "action": "Drew card from deck",
+    "card": "Wiper",
+    "card_id": "OP08-110"
+  },
+  "log-206": {
+    "player": "Pirate93934",
+    "action": "Draw 2 Don"
+  },
+  "log-207": {
+    "player": "Pirate93934",
+    "action": "Attacking",
+    "attacker": "Kalgara",
+    "attacker_id": "OP08-098",
+    "attacker_power": 5000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-208": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach hit for 1 damage"
+  },
+  "log-209": {
+    "player": "Pirate93934",
+    "action": "Deploy",
+    "card": "Enel",
+    "card_id": "EB02-052"
+  },
+  "log-210": {
+    "player": "Pirate93934",
+    "action": "Attacking",
+    "attacker": "Enel",
+    "attacker_id": "EB02-052",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-211": {
+    "player": "Pirate93934",
+    "action": "Enel",
+    "card_id": "EB02-052",
+    "effect": "Trash Wiper",
+    "effect_card_id": "OP08-110"
+  },
+  "log-212": {
+    "player": "Pirate93934",
+    "action": "Enel",
+    "card_id": "EB02-052",
+    "effect": "Add card to top of Life from Deck"
+  },
+  "log-213": {
+    "player": "Pirate93934",
+    "action": "Enel",
+    "card_id": "EB02-052",
+    "effect": "Buff Enel 1000",
+    "effect_card_id": "EB02-052"
+  },
+  "log-214": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach hit for 1 damage"
+  },
+  "log-215": {
+    "player": "Pirate93934",
+    "action": "End Turn"
+  },
+  "log-216": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP09-093",
+      "OP10-082",
+      "OP09-089"
+    ]
+  },
+  "log-217": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP10-082"
+    ]
+  },
+  "log-218": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP10-098",
+      "OP09-083",
+      "OP05-096",
+      "OP09-096",
+      "OP09-099",
+      "OP09-084",
+      "OP09-086",
+      "OP09-095",
+      "EB01-051",
+      "OP09-098",
+      "OP09-083",
+      "OP09-086",
+      "OP09-089",
+      "OP09-088",
+      "EB01-051",
+      "OP09-091",
+      "OP09-091"
+    ]
+  },
+  "log-219": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 1
+  },
+  "log-220": {
+    "player": "Pirate93934",
+    "action": "Current Hand",
+    "cards": [
+      "OP05-114",
+      "OP08-109"
+    ]
+  },
+  "log-221": {
+    "player": "Pirate93934",
+    "action": "Current Trash",
+    "cards": [
+      "OP08-115",
+      "OP05-101",
+      "OP06-114",
+      "OP05-105",
+      "OP08-110",
+      "OP06-114",
+      "OP06-102",
+      "OP05-110",
+      "OP05-110",
+      "OP08-110"
+    ]
+  },
+  "log-222": {
+    "player": "Pirate93934",
+    "action": "Current Board",
+    "cards": [
+      "OP06-102",
+      "EB02-052"
+    ]
+  },
+  "log-223": {
+    "player": "Pirate93934",
+    "action": "Current Life",
+    "value": 2
+  },
+  "log-224": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-225": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Hachinosu",
+    "card_id": "OP09-099"
+  },
+  "log-226": {
+    "player": "Pirate18721",
+    "action": "Kuzan",
+    "card_id": "OP10-082",
+    "effect": "Trash Kuzan",
+    "effect_card_id": "OP10-082"
+  },
+  "log-227": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shigan (Finger Gun)",
+    "card_id": "EB01-051"
+  },
+  "log-228": {
+    "player": "Pirate18721",
+    "action": "Kuzan",
+    "card_id": "OP10-082",
+    "effect": "Draw 1 Card"
+  },
+  "log-229": {
+    "player": "Pirate18721",
+    "action": "Kuzan",
+    "card_id": "OP10-082",
+    "effect": "Deployed Jesus Burgess from Trash",
+    "effect_card_id": "OP09-086"
+  },
+  "log-230": {
+    "player": "Pirate18721",
+    "action": "Deploy",
+    "card": "Marshall D. Teach",
+    "card_id": "OP09-093"
+  },
+  "log-231": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach",
+    "card_id": "OP09-093",
+    "effect": "Nullify effects of Kalgara",
+    "effect_card_id": "OP08-098"
+  },
+  "log-232": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach",
+    "card_id": "OP09-093",
+    "effect": "Enel can't attack next turn",
+    "effect_card_id": "EB02-052"
+  },
+  "log-233": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach",
+    "card_id": "OP09-093",
+    "effect": "Nullify effects of Enel until next turn end!",
+    "effect_card_id": "EB02-052"
+  },
+  "log-234": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Kalgara",
+    "defender_id": "OP08-098"
+  },
+  "log-235": {
+    "player": "Pirate93934",
+    "action": "Discard Montblanc Norland",
+    "card_id": "OP08-109",
+    "effect": "for Counter 1000"
+  },
+  "log-236": {
+    "player": "Pirate18721",
+    "action": "Attack Fails",
+    "attacker": "Marshall D. Teach",
+    "attacker_power": 5000,
+    "defender": "Kalgara",
+    "defender_power": 6000
+  },
+  "log-237": {
+    "player": "Pirate18721",
+    "action": "Kalgara no longer nullified",
+    "card_id": "OP08-098"
+  },
+  "log-238": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-082",
+      "OP09-089",
+      "OP09-099",
+      "EB01-051"
+    ]
+  },
+  "log-239": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086",
+      "OP09-093"
+    ]
+  },
+  "log-240": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP10-098",
+      "OP09-083",
+      "OP05-096",
+      "OP09-096",
+      "OP09-099",
+      "OP09-084",
+      "OP09-095",
+      "EB01-051",
+      "OP09-098",
+      "OP09-083",
+      "OP09-086",
+      "OP09-089",
+      "OP09-088",
+      "EB01-051",
+      "OP09-091",
+      "OP09-091",
+      "OP10-082"
+    ]
+  },
+  "log-241": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 1
+  },
+  "log-242": {
+    "player": "Pirate93934",
+    "action": "Current Hand",
+    "cards": [
+      "OP05-114"
+    ]
+  },
+  "log-243": {
+    "player": "Pirate93934",
+    "action": "Current Trash",
+    "cards": [
+      "OP08-115",
+      "OP05-101",
+      "OP06-114",
+      "OP05-105",
+      "OP08-110",
+      "OP06-114",
+      "OP06-102",
+      "OP05-110",
+      "OP05-110",
+      "OP08-110",
+      "OP08-109"
+    ]
+  },
+  "log-244": {
+    "player": "Pirate93934",
+    "action": "Current Board",
+    "cards": [
+      "OP06-102",
+      "EB02-052"
+    ]
+  },
+  "log-245": {
+    "player": "Pirate93934",
+    "action": "Current Life",
+    "value": 2
+  },
+  "log-246": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-247": {
+    "player": "Pirate93934",
+    "action": "Draw 1 Card"
+  },
+  "log-248": {
+    "player": "Pirate93934",
+    "action": "Drew card from deck",
+    "card": "Upper Yard",
+    "card_id": "OP05-117"
+  },
+  "log-249": {
+    "player": "Pirate93934",
+    "action": "Deploy",
+    "card": "Upper Yard",
+    "card_id": "OP05-117"
+  },
+  "log-250": {
+    "player": "Pirate93934",
+    "action": "Reveal and Draw",
+    "card": "El Thor",
+    "card_id": "OP05-114"
+  },
+  "log-251": {
+    "player": "Pirate93934",
+    "action": "Attach 4 Don to Kalgara",
+    "card_id": "OP08-098",
+    "total_don": 4
+  },
+  "log-252": {
+    "player": "Pirate93934",
+    "action": "Attacking",
+    "attacker": "Kalgara",
+    "attacker_id": "OP08-098",
+    "attacker_power": 9000,
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081",
+    "defender_power": 5000
+  },
+  "log-253": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach hit for 1 damage"
+  },
+  "log-254": {
+    "player": "Pirate93934",
+    "action": "Attach 3 Don to Kamakiri",
+    "card_id": "OP06-102",
+    "total_don": 3
+  },
+  "log-255": {
+    "player": "Pirate93934",
+    "action": "Attacking",
+    "attacker": "Kamakiri",
+    "attacker_id": "OP06-102",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-256": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach Blocks",
+    "card_id": "OP09-093"
+  },
+  "log-257": {
+    "player": "Pirate18721",
+    "action": "Attack Fails",
+    "attacker": "Kamakiri",
+    "attacker_power": 7000,
+    "defender": "Marshall D. Teach",
+    "defender_power": 12000
+  },
+  "log-258": {
+    "player": "Pirate93934",
+    "action": "Enel is no longer blocked from attacking",
+    "card_id": "EB02-052"
+  },
+  "log-259": {
+    "player": "Pirate93934",
+    "action": "Enel no longer nullified",
+    "card_id": "EB02-052"
+  },
+  "log-260": {
+    "player": "Pirate93934",
+    "action": "End Turn"
+  },
+  "log-261": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-082",
+      "OP09-089",
+      "OP09-099",
+      "EB01-051",
+      "OP09-086"
+    ]
+  },
+  "log-262": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086",
+      "OP09-093"
+    ]
+  },
+  "log-263": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP10-098",
+      "OP09-083",
+      "OP05-096",
+      "OP09-096",
+      "OP09-099",
+      "OP09-084",
+      "OP09-095",
+      "EB01-051",
+      "OP09-098",
+      "OP09-083",
+      "OP09-086",
+      "OP09-089",
+      "OP09-088",
+      "EB01-051",
+      "OP09-091",
+      "OP09-091",
+      "OP10-082"
+    ]
+  },
+  "log-264": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 0
+  },
+  "log-265": {
+    "player": "Pirate93934",
+    "action": "Current Hand",
+    "cards": [
+      "OP05-114",
+      "OP05-114"
+    ]
+  },
+  "log-266": {
+    "player": "Pirate93934",
+    "action": "Current Trash",
+    "cards": [
+      "OP08-115",
+      "OP05-101",
+      "OP06-114",
+      "OP05-105",
+      "OP08-110",
+      "OP06-114",
+      "OP06-102",
+      "OP05-110",
+      "OP05-110",
+      "OP08-110",
+      "OP08-109"
+    ]
+  },
+  "log-267": {
+    "player": "Pirate93934",
+    "action": "Current Board",
+    "cards": [
+      "OP06-102",
+      "EB02-052"
+    ]
+  },
+  "log-268": {
+    "player": "Pirate93934",
+    "action": "Current Life",
+    "value": 2
+  },
+  "log-269": {
+    "player": "Pirate18721",
+    "action": "Draw 1 Card"
+  },
+  "log-270": {
+    "player": "Pirate18721",
+    "action": "Drew card from deck",
+    "card": "Shiryu",
+    "card_id": "OP10-086"
+  },
+  "log-271": {
+    "player": "Pirate18721",
+    "action": "Attach 5 Don to Marshall D. Teach",
+    "card_id": "OP09-081",
+    "total_don": 5
+  },
+  "log-272": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "attacker_power": 10000,
+    "defender": "Kalgara",
+    "defender_id": "OP08-098",
+    "defender_power": 5000
+  },
+  "log-273": {
+    "player": "Pirate93934",
+    "action": "Kalgara hit for 1 damage"
+  },
+  "log-274": {
+    "player": "Pirate18721",
+    "action": "Attach 2 Don to Jesus Burgess",
+    "card_id": "OP09-086",
+    "total_don": 2
+  },
+  "log-275": {
+    "player": "Pirate18721",
+    "action": "Attach 1 Don to Jesus Burgess",
+    "card_id": "OP09-086",
+    "total_don": 3
+  },
+  "log-276": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Jesus Burgess",
+    "attacker_id": "OP09-086",
+    "defender": "Kalgara",
+    "defender_id": "OP08-098"
+  },
+  "log-277": {
+    "player": "Pirate93934",
+    "action": "El Thor",
+    "card_id": "OP05-114",
+    "effect": "Counter 2000"
+  },
+  "log-278": {
+    "player": "Pirate93934",
+    "action": "El Thor",
+    "card_id": "OP05-114",
+    "effect": "Counter 2000"
+  },
+  "log-279": {
+    "player": "Pirate93934",
+    "action": "El Thor",
+    "card_id": "OP05-114",
+    "effect": "Counter 2000"
+  },
+  "log-280": {
+    "player": "Pirate93934",
+    "action": "El Thor",
+    "card_id": "OP05-114",
+    "effect": "Counter 2000"
+  },
+  "log-281": {
+    "player": "Pirate18721",
+    "action": "Attack Fails",
+    "attacker": "Jesus Burgess",
+    "attacker_power": 12000,
+    "defender": "Kalgara",
+    "defender_power": 13000
+  },
+  "log-282": {
+    "player": "Pirate18721",
+    "action": "Attach 2 Don to Marshall D. Teach",
+    "card_id": "OP09-093",
+    "total_don": 2
+  },
+  "log-283": {
+    "player": "Pirate18721",
+    "action": "Attacking",
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-093",
+    "attacker_power": 14000,
+    "defender": "Kalgara",
+    "defender_id": "OP08-098",
+    "defender_power": 5000
+  },
+  "log-284": {
+    "player": "Pirate93934",
+    "action": "Kalgara hit for 1 damage"
+  },
+  "log-285": {
+    "player": "Pirate18721",
+    "action": "Current Hand",
+    "cards": [
+      "OP10-082",
+      "OP09-089",
+      "OP09-099",
+      "EB01-051",
+      "OP09-086",
+      "OP10-086"
+    ]
+  },
+  "log-286": {
+    "player": "Pirate18721",
+    "action": "Current Board",
+    "cards": [
+      "OP09-086",
+      "OP09-093"
+    ]
+  },
+  "log-287": {
+    "player": "Pirate18721",
+    "action": "Current Trash",
+    "cards": [
+      "OP09-096",
+      "OP09-088",
+      "OP10-098",
+      "OP09-083",
+      "OP05-096",
+      "OP09-096",
+      "OP09-099",
+      "OP09-084",
+      "OP09-095",
+      "EB01-051",
+      "OP09-098",
+      "OP09-083",
+      "OP09-086",
+      "OP09-089",
+      "OP09-088",
+      "EB01-051",
+      "OP09-091",
+      "OP09-091",
+      "OP10-082"
+    ]
+  },
+  "log-288": {
+    "player": "Pirate18721",
+    "action": "Current Life",
+    "value": 0
+  },
+  "log-289": {
+    "player": "Pirate93934",
+    "action": "Current Hand",
+    "cards": [
+      "OP08-099",
+      "ST13-011"
+    ]
+  },
+  "log-290": {
+    "player": "Pirate93934",
+    "action": "Current Trash",
+    "cards": [
+      "OP08-115",
+      "OP05-101",
+      "OP06-114",
+      "OP05-105",
+      "OP08-110",
+      "OP06-114",
+      "OP06-102",
+      "OP05-110",
+      "OP05-110",
+      "OP08-110",
+      "OP08-109",
+      "OP05-114",
+      "OP05-114"
+    ]
+  },
+  "log-291": {
+    "player": "Pirate93934",
+    "action": "Current Board",
+    "cards": [
+      "OP06-102",
+      "EB02-052"
+    ]
+  },
+  "log-292": {
+    "player": "Pirate93934",
+    "action": "Current Life",
+    "value": 0
+  },
+  "log-293": {
+    "player": "Pirate18721",
+    "action": "End Turn"
+  },
+  "log-294": {
+    "player": "Pirate93934",
+    "action": "Draw 1 Card"
+  },
+  "log-295": {
+    "player": "Pirate93934",
+    "action": "Drew card from deck",
+    "card": "The Earth Won't Lose!!",
+    "card_id": "OP08-115"
+  },
+  "log-296": {
+    "player": "Pirate93934",
+    "action": "Attach 3 Don to Kalgara",
+    "card_id": "OP08-098",
+    "total_don": 3
+  },
+  "log-297": {
+    "player": "Pirate93934",
+    "action": "Attacking",
+    "attacker": "Kalgara",
+    "attacker_id": "OP08-098",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-298": {
+    "player": "Pirate18721",
+    "action": "Discard Stronger",
+    "card_id": "OP09-089",
+    "effect": "for Counter 2000"
+  },
+  "log-299": {
+    "player": "Pirate18721",
+    "action": "Discard Jesus Burgess",
+    "card_id": "OP09-086",
+    "effect": "for Counter 1000"
+  },
+  "log-300": {
+    "player": "Pirate18721",
+    "action": "Discard Shiryu",
+    "card_id": "OP10-086",
+    "effect": "for Counter 1000"
+  },
+  "log-301": {
+    "player": "Pirate18721",
+    "action": "Attack Fails",
+    "attacker": "Kalgara",
+    "attacker_power": 8000,
+    "defender": "Marshall D. Teach",
+    "defender_power": 9000
+  },
+  "log-302": {
+    "player": "Pirate93934",
+    "action": "Attacking",
+    "attacker": "Enel",
+    "attacker_id": "EB02-052",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
+  },
+  "log-303": {
+    "player": "Pirate93934",
+    "action": "Enel",
+    "card_id": "EB02-052",
+    "effect": "Trash Kalgara",
+    "effect_card_id": "OP08-099"
+  },
+  "log-304": {
+    "player": "Pirate93934",
+    "action": "Enel",
+    "card_id": "EB02-052",
+    "effect": "Add card to top of Life from Deck"
+  },
+  "log-305": {
+    "player": "Pirate93934",
+    "action": "Enel",
+    "card_id": "EB02-052",
+    "effect": "Buff Enel 1000",
+    "effect_card_id": "EB02-052"
+  },
+  "log-306": {
+    "player": "Pirate18721",
+    "action": "Marshall D. Teach hit for 1 damage"
+  },
+  "log-307": {
+    "player": "Pirate18721",
+    "action": "Loses"
+  }
+}

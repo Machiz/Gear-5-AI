@@ -1,0 +1,1700 @@
+{
+  "log-001": {
+    "player": "Game",
+    "action": "Waiting for a Connection with Room ID",
+    "room_id": "HF9RLR"
+  },
+  "log-002": {
+    "player": "Pirate26156",
+    "action": "Has Connected"
+  },
+  "log-003": {
+    "player": "Pirate26156",
+    "action": "Version is",
+    "version": "1.29b"
+  },
+  "log-004": {
+    "player": "Pirate26156",
+    "action": "Leader is Monkey D. Luffy",
+    "card_id": "OP05-060"
+  },
+  "log-005": {
+    "player": "MPirate21",
+    "action": "Has Connected"
+  },
+  "log-006": {
+    "player": "MPirate21",
+    "action": "Version is",
+    "version": "1.29b"
+  },
+  "log-007": {
+    "player": "MPirate21",
+    "action": "Leader is Monkey D. Luffy",
+    "card_id": "ST21-001"
+  },
+  "log-008": {
+    "player": "Pirate26156",
+    "action": "Will select turn order"
+  },
+  "log-009": {
+    "player": "Pirate26156",
+    "action": "Chose to go First"
+  },
+  "log-010": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Charlotte Linlin",
+    "card_id": "OP08-069"
+  },
+  "log-011": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP09-119"
+  },
+  "log-012": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Sangoro",
+    "card_id": "ST18-003"
+  },
+  "log-013": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Luffy-tarou",
+    "card_id": "ST18-005"
+  },
+  "log-014": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Zorojuro",
+    "card_id": "ST18-004"
+  },
+  "log-015": {
+    "player": "Pirate26156",
+    "action": "Hand before Mulligan",
+    "hand": ["OP08-069", "OP09-119", "ST18-003", "ST18-005", "ST18-004"]
+  },
+  "log-016": {
+    "player": "MPirate21",
+    "action": "Drew card from deck",
+    "card": "Makino",
+    "card_id": "OP02-015"
+  },
+  "log-017": {
+    "player": "MPirate21",
+    "action": "Drew card from deck",
+    "card": "Bad Manners Kick Course",
+    "card_id": "OP04-016"
+  },
+  "log-018": {
+    "player": "MPirate21",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "ST21-003"
+  },
+  "log-019": {
+    "player": "MPirate21",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "ST21-003"
+  },
+  "log-020": {
+    "player": "MPirate21",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "ST01-004"
+  },
+  "log-021": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Gamma Knife",
+    "card_id": "OP05-077"
+  },
+  "log-022": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP09-119"
+  },
+  "log-023": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Hitokiri Kamazo",
+    "card_id": "OP06-076"
+  },
+  "log-024": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Hitokiri Kamazo",
+    "card_id": "OP06-076"
+  },
+  "log-025": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Hitokiri Kamazo",
+    "card_id": "OP06-076"
+  },
+  "log-026": {
+    "player": "Pirate26156",
+    "action": "Hand after Mulligan",
+    "hand": ["OP05-077", "OP09-119", "OP06-076", "OP06-076", "OP06-076"]
+  },
+  "log-027": {
+    "player": "Pirate26156",
+    "action": "Mulligan"
+  },
+  "log-028": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["OP05-077", "OP09-119", "OP06-076", "OP06-076", "OP06-076"]
+  },
+  "log-029": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": []
+  },
+  "log-030": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": []
+  },
+  "log-031": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 5
+  },
+  "log-032": {
+    "player": "MPirate21",
+    "action": "Hand",
+    "hand": ["OP02-015", "OP04-016", "ST21-003", "ST21-003", "ST01-004"]
+  },
+  "log-033": {
+    "player": "MPirate21",
+    "action": "Trash",
+    "trash": []
+  },
+  "log-034": {
+    "player": "MPirate21",
+    "action": "Board",
+    "board": []
+  },
+  "log-035": {
+    "player": "MPirate21",
+    "action": "Life",
+    "life": 5
+  },
+  "log-036": {
+    "player": "Pirate26156",
+    "action": "Draw 1 Don"
+  },
+  "log-037": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["OP05-077", "OP09-119", "OP06-076", "OP06-076", "OP06-076"]
+  },
+  "log-038": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": []
+  },
+  "log-039": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": []
+  },
+  "log-040": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 5
+  },
+  "log-041": {
+    "player": "MPirate21",
+    "action": "Hand",
+    "hand": ["OP02-015", "OP04-016", "ST21-003", "ST21-003", "ST01-004"]
+  },
+  "log-042": {
+    "player": "MPirate21",
+    "action": "Trash",
+    "trash": []
+  },
+  "log-043": {
+    "player": "MPirate21",
+    "action": "Board",
+    "board": []
+  },
+  "log-044": {
+    "player": "MPirate21",
+    "action": "Life",
+    "life": 5
+  },
+  "log-045": {
+    "player": "Pirate26156",
+    "action": "End Turn"
+  },
+  "log-046": {
+    "player": "MPirate21",
+    "action": "Draw 1 Card"
+  },
+  "log-047": {
+    "player": "MPirate21",
+    "action": "Drew card from deck",
+    "card": "Tony Tony Chopper",
+    "card_id": "OP10-011"
+  },
+  "log-048": {
+    "player": "MPirate21",
+    "action": "Draw 2 Don"
+  },
+  "log-049": {
+    "player": "MPirate21",
+    "action": "Deploy",
+    "card": "Makino",
+    "card_id": "OP02-015"
+  },
+  "log-050": {
+    "player": "MPirate21",
+    "action": "End Turn"
+  },
+  "log-051": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["OP05-077", "OP09-119", "OP06-076", "OP06-076", "OP06-076"]
+  },
+  "log-052": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": []
+  },
+  "log-053": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": []
+  },
+  "log-054": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 5
+  },
+  "log-055": {
+    "player": "MPirate21",
+    "action": "Hand",
+    "hand": ["OP04-016", "ST21-003", "ST21-003", "ST01-004", "OP10-011"]
+  },
+  "log-056": {
+    "player": "MPirate21",
+    "action": "Trash",
+    "trash": []
+  },
+  "log-057": {
+    "player": "MPirate21",
+    "action": "Board",
+    "board": ["OP02-015"]
+  },
+  "log-058": {
+    "player": "MPirate21",
+    "action": "Life",
+    "life": 5
+  },
+  "log-059": {
+    "player": "Pirate26156",
+    "action": "Draw 1 Card"
+  },
+  "log-060": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Sangoro",
+    "card_id": "ST18-003"
+  },
+  "log-061": {
+    "player": "Pirate26156",
+    "action": "Draw 2 Don"
+  },
+  "log-062": {
+    "player": "Pirate26156",
+    "action": "Loses 1 Life"
+  },
+  "log-063": {
+    "player": "Monkey D. Luffy",
+    "action": "Draw 1 Don",
+    "card_id": "OP05-060"
+  },
+  "log-064": {
+    "player": "Pirate26156",
+    "action": "Attach 4 Don to Monkey D. Luffy",
+    "card_id": "OP05-060",
+    "total_don": 4
+  },
+  "log-065": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
+  },
+  "log-066": {
+    "player": "Combat",
+    "action": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 9000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001",
+    "defender_power": 5000
+  },
+  "log-067": {
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card_id": "ST21-001"
+  },
+  "log-068": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["OP05-077", "OP09-119", "OP06-076", "OP06-076", "OP06-076", "ST18-003", "OP09-065"]
+  },
+  "log-069": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": []
+  },
+  "log-070": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": []
+  },
+  "log-071": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 4
+  },
+  "log-072": {
+    "player": "MPirate21",
+    "action": "Hand",
+    "hand": ["OP04-016", "ST21-003", "ST21-003", "ST01-004", "OP10-011", "OP01-025"]
+  },
+  "log-073": {
+    "player": "MPirate21",
+    "action": "Trash",
+    "trash": []
+  },
+  "log-074": {
+    "player": "MPirate21",
+    "action": "Board",
+    "board": ["OP02-015"]
+  },
+  "log-075": {
+    "player": "MPirate21",
+    "action": "Life",
+    "life": 4
+  },
+  "log-076": {
+    "player": "Pirate26156",
+    "action": "End Turn"
+  },
+  "log-077": {
+    "player": "MPirate21",
+    "action": "Draw 1 Card"
+  },
+  "log-078": {
+    "player": "MPirate21",
+    "action": "Drew card from deck",
+    "card": "Roronoa Zoro",
+    "card_id": "ST21-015"
+  },
+  "log-079": {
+    "player": "MPirate21",
+    "action": "Draw 2 Don"
+  },
+  "log-080": {
+    "player": "MPirate21",
+    "action": "Deploy",
+    "card": "Sanji",
+    "card_id": "ST01-004"
+  },
+  "log-081": {
+    "player": "MPirate21",
+    "action": "Attach 1 Don to Monkey D. Luffy",
+    "card_id": "ST21-001",
+    "total_don": 1
+  },
+  "log-082": {
+    "player": "MPirate21",
+    "action": "Monkey D. Luffy",
+    "card_id": "ST21-001",
+    "ability": "Attach 1 Rested Don to Sanji",
+    "target_id": "ST01-004"
+  },
+  "log-083": {
+    "player": "MPirate21",
+    "action": "Monkey D. Luffy",
+    "card_id": "ST21-001",
+    "ability": "Attach 1 Rested Don to Sanji",
+    "target_id": "ST01-004"
+  },
+  "log-084": {
+    "player": "MPirate21",
+    "action": "Sanji",
+    "card_id": "ST01-004",
+    "action_type": "attacking",
+    "target": "Monkey D. Luffy",
+    "target_id": "OP05-060"
+  },
+  "log-085": {
+    "player": "Pirate26156",
+    "action": "Discard Hitokiri Kamazo",
+    "card_id": "OP06-076",
+    "counter": 2000
+  },
+  "log-086": {
+    "player": "Combat",
+    "action": "Sanji",
+    "attacker_id": "ST01-004",
+    "attacker_power": 6000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 7000
+  },
+  "log-087": {
+    "player": "Combat",
+    "action": "Attack Fails"
+  },
+  "log-088": {
+    "player": "MPirate21",
+    "action": "Attach 1 Don to Monkey D. Luffy",
+    "card_id": "ST21-001",
+    "total_don": 2
+  },
+  "log-089": {
+    "player": "MPirate21",
+    "action": "Monkey D. Luffy",
+    "card_id": "ST21-001",
+    "action_type": "attacking",
+    "target": "Monkey D. Luffy",
+    "target_id": "OP05-060"
+  },
+  "log-090": {
+    "player": "Combat",
+    "action": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "attacker_power": 7000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-091": {
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card_id": "OP05-060"
+  },
+  "log-092": {
+    "player": "MPirate21",
+    "action": "End Turn"
+  },
+  "log-093": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["OP05-077", "OP09-119", "OP06-076", "OP06-076", "ST18-003", "OP09-065", "ST18-003"]
+  },
+  "log-094": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": []
+  },
+  "log-095": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": ["OP06-076"]
+  },
+  "log-096": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 3
+  },
+  "log-097": {
+    "player": "MPirate21",
+    "action": "Hand",
+    "hand": ["OP04-016", "ST21-003", "ST21-003", "OP10-011", "OP01-025", "ST21-015"]
+  },
+  "log-098": {
+    "player": "MPirate21",
+    "action": "Trash",
+    "trash": []
+  },
+  "log-099": {
+    "player": "MPirate21",
+    "action": "Board",
+    "board": ["OP02-015", "ST01-004"]
+  },
+  "log-100": {
+    "player": "MPirate21",
+    "action": "Life",
+    "life": 4
+  },
+  "log-101": {
+    "player": "Pirate26156",
+    "action": "Draw 1 Card"
+  },
+  "log-102": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "OP07-064"
+  },
+  "log-103": {
+    "player": "Pirate26156",
+    "action": "Draw 2 Don"
+  },
+  "log-104": {
+    "player": "Pirate26156",
+    "action": "Loses 1 Life"
+  },
+  "log-105": {
+    "player": "Monkey D. Luffy",
+    "action": "Draw 1 Don",
+    "card_id": "OP05-060"
+  },
+  "log-106": {
+    "player": "Pirate26156",
+    "action": "Deploy",
+    "card": "Sanji",
+    "card_id": "OP09-065"
+  },
+  "log-107": {
+    "player": "Sanji",
+    "action": "Give Sanji Rush",
+    "card_id": "OP09-065"
+  },
+  "log-108": {
+    "player": "Sanji",
+    "action": "Rest Makino",
+    "card_id": "OP09-065",
+    "target": "Makino",
+    "target_id": "OP02-015"
+  },
+  "log-109": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Makino",
+    "defender_id": "OP02-015"
+  },
+  "log-110": {
+    "player": "Combat",
+    "action": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 5000,
+    "defender": "Makino",
+    "defender_id": "OP02-015",
+    "defender_power": 0
+  },
+  "log-111": {
+    "player": "MPirate21",
+    "action": "Makino Destroyed",
+    "card_id": "OP02-015"
+  },
+  "log-112": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Sanji",
+    "attacker_id": "OP09-065",
+    "defender": "Sanji",
+    "defender_id": "ST01-004"
+  },
+  "log-113": {
+    "player": "Combat",
+    "action": "Sanji",
+    "attacker_id": "OP09-065",
+    "attacker_power": 7000,
+    "defender": "Sanji",
+    "defender_id": "ST01-004",
+    "defender_power": 4000
+  },
+  "log-114": {
+    "player": "MPirate21",
+    "action": "Sanji Destroyed",
+    "card_id": "ST01-004"
+  },
+  "log-115": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["OP05-077", "OP09-119", "OP06-076", "OP06-076", "ST18-003", "ST18-003", "OP07-064", "OP09-078"]
+  },
+  "log-116": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": ["OP09-065"]
+  },
+  "log-117": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": ["OP06-076"]
+  },
+  "log-118": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 2
+  },
+  "log-119": {
+    "player": "MPirate21",
+    "action": "Hand",
+    "hand": ["OP04-016", "ST21-003", "ST21-003", "OP10-011", "OP01-025", "ST21-015"]
+  },
+  "log-120": {
+    "player": "MPirate21",
+    "action": "Trash",
+    "trash": ["OP02-015", "ST01-004"]
+  },
+  "log-121": {
+    "player": "MPirate21",
+    "action": "Board",
+    "board": []
+  },
+  "log-122": {
+    "player": "MPirate21",
+    "action": "Life",
+    "life": 4
+  },
+  "log-123": {
+    "player": "Pirate26156",
+    "action": "End Turn"
+  },
+  "log-124": {
+    "player": "MPirate21",
+    "action": "Draw 1 Card"
+  },
+  "log-125": {
+    "player": "MPirate21",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "ST01-004"
+  },
+  "log-126": {
+    "player": "MPirate21",
+    "action": "Draw 2 Don"
+  },
+  "log-127": {
+    "player": "MPirate21",
+    "action": "Deploy",
+    "card": "Roronoa Zoro",
+    "card_id": "ST21-015"
+  },
+  "log-128": {
+    "player": "MPirate21",
+    "action": "Attach 1 Don to Monkey D. Luffy",
+    "card_id": "ST21-001",
+    "total_don": 1
+  },
+  "log-129": {
+    "player": "MPirate21",
+    "action": "Monkey D. Luffy",
+    "card_id": "ST21-001",
+    "ability": "Attach 1 Rested Don to Roronoa Zoro",
+    "target_id": "ST21-015"
+  },
+  "log-130": {
+    "player": "MPirate21",
+    "action": "Monkey D. Luffy",
+    "card_id": "ST21-001",
+    "ability": "Attach 1 Rested Don to Roronoa Zoro",
+    "target_id": "ST21-015"
+  },
+  "log-131": {
+    "player": "MPirate21",
+    "action": "Attach 1 Don to Roronoa Zoro",
+    "card_id": "ST21-015",
+    "total_don": 3
+  },
+  "log-132": {
+    "player": "MPirate21",
+    "action": "attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "ST21-015",
+    "defender": "Sanji",
+    "defender_id": "OP09-065"
+  },
+  "log-133": {
+    "player": "Pirate26156",
+    "action": "Discard Sanji",
+    "card_id": "OP07-064",
+    "counter": 2000
+  },
+  "log-134": {
+    "player": "Combat",
+    "action": "Roronoa Zoro",
+    "attacker_id": "ST21-015",
+    "attacker_power": 8000,
+    "defender": "Sanji",
+    "defender_id": "OP09-065",
+    "defender_power": 9000
+  },
+  "log-135": {
+    "player": "Combat",
+    "action": "Attack Fails"
+  },
+  "log-136": {
+    "player": "MPirate21",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-137": {
+    "player": "Pirate26156",
+    "action": "Discard Hitokiri Kamazo",
+    "card_id": "OP06-076",
+    "counter": 2000
+  },
+  "log-138": {
+    "player": "Combat",
+    "action": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "attacker_power": 6000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 7000
+  },
+  "log-139": {
+    "player": "Combat",
+    "action": "Attack Fails"
+  },
+  "log-140": {
+    "player": "MPirate21",
+    "action": "End Turn"
+  },
+  "log-141": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["OP05-077", "OP09-119", "OP06-076", "ST18-003", "ST18-003", "OP09-078"]
+  },
+  "log-142": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": ["OP09-065"]
+  },
+  "log-143": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": ["OP06-076", "OP07-064", "OP06-076"]
+  },
+  "log-144": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 2
+  },
+  "log-145": {
+    "player": "MPirate21",
+    "action": "Hand",
+    "hand": ["OP04-016", "ST21-003", "ST21-003", "OP10-011", "OP01-025", "ST01-004"]
+  },
+  "log-146": {
+    "player": "MPirate21",
+    "action": "Trash",
+    "trash": ["OP02-015", "ST01-004"]
+  },
+  "log-147": {
+    "player": "MPirate21",
+    "action": "Board",
+    "board": ["ST21-015"]
+  },
+  "log-148": {
+    "player": "MPirate21",
+    "action": "Life",
+    "life": 4
+  },
+  "log-149": {
+    "player": "Pirate26156",
+    "action": "Draw 1 Card"
+  },
+  "log-150": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Hitokiri Kamazo",
+    "card_id": "OP06-076"
+  },
+  "log-151": {
+    "player": "Pirate26156",
+    "action": "Draw 2 Don"
+  },
+  "log-152": {
+    "player": "Pirate26156",
+    "action": "Deploy",
+    "card": "Sangoro",
+    "card_id": "ST18-003"
+  },
+  "log-153": {
+    "player": "Gamma Knife",
+    "action": "Give Roronoa Zoro -5000",
+    "card_id": "OP05-077",
+    "target": "Roronoa Zoro",
+    "target_id": "ST21-015",
+    "power_change": -5000
+  },
+  "log-154": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Roronoa Zoro",
+    "defender_id": "ST21-015"
+  },
+  "log-155": {
+    "player": "Combat",
+    "action": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 5000,
+    "defender": "Roronoa Zoro",
+    "defender_id": "ST21-015",
+    "defender_power": 0
+  },
+  "log-156": {
+    "player": "MPirate21",
+    "action": "Roronoa Zoro Destroyed",
+    "card_id": "ST21-015"
+  },
+  "log-157": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Sanji",
+    "attacker_id": "OP09-065",
+    "defender": "Sanji",
+    "defender_id": "ST01-004"
+  },
+  "log-158": {
+    "player": "MPirate21",
+    "action": "Tony Tony Chopper Blocks",
+    "card_id": "OP10-011"
+  },
+  "log-159": {
+    "player": "MPirate21",
+    "action": "Discard Sanji",
+    "card_id": "ST21-003",
+    "counter": 2000
+  },
+  "log-160": {
+    "player": "Combat",
+    "action": "Sanji",
+    "attacker_id": "OP09-065",
+    "attacker_power": 7000,
+    "defender": "Tony Tony Chopper",
+    "defender_id": "OP10-011",
+    "defender_power": 8000
+  },
+  "log-161": {
+    "player": "Combat",
+    "action": "Attack Fails"
+  },
+  "log-162": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["OP09-119", "OP06-076", "ST18-003", "OP09-078", "OP06-076"]
+  },
+  "log-163": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": ["OP09-065", "ST18-003"]
+  },
+  "log-164": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": ["OP06-076", "OP07-064", "OP06-076", "OP05-077"]
+  },
+  "log-165": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 2
+  },
+  "log-166": {
+    "player": "MPirate21",
+    "action": "Hand",
+    "hand": ["OP04-016", "ST21-003", "OP01-025", "ST01-004"]
+  },
+  "log-167": {
+    "player": "MPirate21",
+    "action": "Trash",
+    "trash": ["OP02-015", "ST01-004", "ST21-015", "ST21-003"]
+  },
+  "log-168": {
+    "player": "MPirate21",
+    "action": "Board",
+    "board": ["OP10-011"]
+  },
+  "log-169": {
+    "player": "MPirate21",
+    "action": "Life",
+    "life": 4
+  },
+  "log-170": {
+    "player": "Pirate26156",
+    "action": "End Turn"
+  },
+  "log-171": {
+    "player": "MPirate21",
+    "action": "Draw 1 Card"
+  },
+  "log-172": {
+    "player": "MPirate21",
+    "action": "Drew card from deck",
+    "card": "Radical Beam!!",
+    "card_id": "OP01-029"
+  },
+  "log-173": {
+    "player": "MPirate21",
+    "action": "Draw 2 Don"
+  },
+  "log-174": {
+    "player": "MPirate21",
+    "action": "Deploy",
+    "card": "Sanji",
+    "card_id": "ST01-004"
+  },
+  "log-175": {
+    "player": "MPirate21",
+    "action": "Attach 1 Don to Monkey D. Luffy",
+    "card_id": "ST21-001",
+    "total_don": 1
+  },
+  "log-176": {
+    "player": "MPirate21",
+    "action": "Monkey D. Luffy",
+    "card_id": "ST21-001",
+    "ability": "Attach 1 Rested Don to Sanji",
+    "target_id": "ST01-004"
+  },
+  "log-177": {
+    "player": "MPirate21",
+    "action": "Monkey D. Luffy",
+    "card_id": "ST21-001",
+    "ability": "Attach 1 Rested Don to Sanji",
+    "target_id": "ST01-004"
+  },
+  "log-178": {
+    "player": "MPirate21",
+    "action": "Deploy",
+    "card": "Roronoa Zoro",
+    "card_id": "OP01-025"
+  },
+  "log-179": {
+    "player": "MPirate21",
+    "action": "Attach 1 Don to Roronoa Zoro",
+    "card_id": "OP01-025",
+    "total_don": 1
+  },
+  "log-180": {
+    "player": "MPirate21",
+    "action": "Attach 1 Don to Roronoa Zoro",
+    "card_id": "OP01-025",
+    "total_don": 2
+  },
+  "log-181": {
+    "player": "MPirate21",
+    "action": "attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-025",
+    "defender": "Sanji",
+    "defender_id": "OP09-065"
+  },
+  "log-182": {
+    "player": "Pirate26156",
+    "action": "Discard Sangoro",
+    "card_id": "ST18-003",
+    "counter": 1000
+  },
+  "log-183": {
+    "player": "Combat",
+    "action": "Roronoa Zoro",
+    "attacker_id": "OP01-025",
+    "attacker_power": 7000,
+    "defender": "Sanji",
+    "defender_id": "OP09-065",
+    "defender_power": 8000
+  },
+  "log-184": {
+    "player": "Combat",
+    "action": "Attack Fails"
+  },
+  "log-185": {
+    "player": "MPirate21",
+    "action": "attacking",
+    "attacker": "Sanji",
+    "attacker_id": "ST01-004",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-186": {
+    "player": "Combat",
+    "action": "Sanji",
+    "attacker_id": "ST01-004",
+    "attacker_power": 6000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-187": {
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card_id": "OP05-060"
+  },
+  "log-188": {
+    "player": "MPirate21",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-189": {
+    "player": "Pirate26156",
+    "action": "Discard Hitokiri Kamazo",
+    "card_id": "OP06-076",
+    "counter": 2000
+  },
+  "log-190": {
+    "player": "Combat",
+    "action": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "attacker_power": 6000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 7000
+  },
+  "log-191": {
+    "player": "Combat",
+    "action": "Attack Fails"
+  },
+  "log-192": {
+    "player": "MPirate21",
+    "action": "End Turn"
+  },
+  "log-193": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["OP09-119", "OP06-076", "OP09-078", "OP05-074"]
+  },
+  "log-194": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": ["OP09-065", "ST18-003"]
+  },
+  "log-195": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": ["OP06-076", "OP07-064", "OP06-076", "OP05-077", "ST18-003", "OP06-076"]
+  },
+  "log-196": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 1
+  },
+  "log-197": {
+    "player": "MPirate21",
+    "action": "Hand",
+    "hand": ["OP04-016", "ST21-003", "OP01-029"]
+  },
+  "log-198": {
+    "player": "MPirate21",
+    "action": "Trash",
+    "trash": ["OP02-015", "ST01-004", "ST21-015", "ST21-003"]
+  },
+  "log-199": {
+    "player": "MPirate21",
+    "action": "Board",
+    "board": ["OP10-011", "ST01-004", "OP01-025"]
+  },
+  "log-200": {
+    "player": "MPirate21",
+    "action": "Life",
+    "life": 4
+  },
+  "log-201": {
+    "player": "Pirate26156",
+    "action": "Draw 1 Card"
+  },
+  "log-202": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Zorojuro",
+    "card_id": "ST18-004"
+  },
+  "log-203": {
+    "player": "Pirate26156",
+    "action": "Draw 2 Don"
+  },
+  "log-204": {
+    "player": "Pirate26156",
+    "action": "Deploy",
+    "card": "Eustass 'Captain' Kid",
+    "card_id": "OP05-074"
+  },
+  "log-205": {
+    "player": "Pirate26156",
+    "action": "Attach 2 Don to Sangoro",
+    "card_id": "ST18-003",
+    "total_don": 2
+  },
+  "log-206": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Sangoro",
+    "attacker_id": "ST18-003",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
+  },
+  "log-207": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Luffy-tarou",
+    "card_id": "ST18-005"
+  },
+  "log-208": {
+    "player": "Sangoro",
+    "action": "Draw 1 Card",
+    "card_id": "ST18-003"
+  },
+  "log-209": {
+    "player": "Combat",
+    "action": "Sangoro",
+    "attacker_id": "ST18-003",
+    "attacker_power": 8000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001",
+    "defender_power": 5000
+  },
+  "log-210": {
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card_id": "ST21-001"
+  },
+  "log-211": {
+    "player": "Pirate26156",
+    "action": "Attach 1 Don to Monkey D. Luffy",
+    "card_id": "OP05-060",
+    "total_don": 1
+  },
+  "log-212": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Sanji",
+    "defender_id": "ST01-004"
+  },
+  "log-213": {
+    "player": "MPirate21",
+    "action": "Tony Tony Chopper Blocks",
+    "card_id": "OP10-011"
+  },
+  "log-214": {
+    "player": "MPirate21",
+    "action": "Discard Sanji",
+    "card_id": "OP10-005",
+    "counter": 1000
+  },
+  "log-215": {
+    "player": "Combat",
+    "action": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 6000,
+    "defender": "Tony Tony Chopper",
+    "defender_id": "OP10-011",
+    "defender_power": 7000
+  },
+  "log-216": {
+    "player": "Combat",
+    "action": "Attack Fails"
+  },
+  "log-217": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Sanji",
+    "attacker_id": "OP09-065",
+    "defender": "Sanji",
+    "defender_id": "ST01-004"
+  },
+  "log-218": {
+    "player": "MPirate21",
+    "action": "Trash Radical Beam!!",
+    "card_id": "OP01-029"
+  },
+  "log-219": {
+    "player": "Bad Manners Kick Course",
+    "action": "Counter 3000",
+    "card_id": "OP04-016"
+  },
+  "log-220": {
+    "player": "MPirate21",
+    "action": "Discard Sanji",
+    "card_id": "ST21-003",
+    "counter": 2000
+  },
+  "log-221": {
+    "player": "Combat",
+    "action": "Sanji",
+    "attacker_id": "OP09-065",
+    "attacker_power": 7000,
+    "defender": "Sanji",
+    "defender_id": "ST01-004",
+    "defender_power": 9000
+  },
+  "log-222": {
+    "player": "Combat",
+    "action": "Attack Fails"
+  },
+  "log-223": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["OP09-119", "OP06-076", "OP09-078", "ST18-004", "ST18-005"]
+  },
+  "log-224": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": ["OP09-065", "ST18-003", "OP05-074"]
+  },
+  "log-225": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": ["OP06-076", "OP07-064", "OP06-076", "OP05-077", "ST18-003", "OP06-076"]
+  },
+  "log-226": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 1
+  },
+  "log-227": {
+    "player": "MPirate21",
+    "action": "Hand",
+    "hand": []
+  },
+  "log-228": {
+    "player": "MPirate21",
+    "action": "Trash",
+    "trash": ["OP02-015", "ST01-004", "ST21-015", "ST21-003", "OP10-005", "OP01-029", "OP04-016", "ST21-003"]
+  },
+  "log-229": {
+    "player": "MPirate21",
+    "action": "Board",
+    "board": ["OP10-011", "ST01-004", "OP01-025"]
+  },
+  "log-230": {
+    "player": "MPirate21",
+    "action": "Life",
+    "life": 3
+  },
+  "log-231": {
+    "player": "Pirate26156",
+    "action": "End Turn"
+  },
+  "log-232": {
+    "player": "MPirate21",
+    "action": "Draw 1 Card"
+  },
+  "log-233": {
+    "player": "MPirate21",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "ST21-003"
+  },
+  "log-234": {
+    "player": "MPirate21",
+    "action": "Draw 2 Don"
+  },
+  "log-235": {
+    "player": "MPirate21",
+    "action": "Attach 1 Don to Roronoa Zoro",
+    "card_id": "OP01-025",
+    "total_don": 1
+  },
+  "log-236": {
+    "player": "MPirate21",
+    "action": "Attach 1 Don to Roronoa Zoro",
+    "card_id": "OP01-025",
+    "total_don": 2
+  },
+  "log-237": {
+    "player": "MPirate21",
+    "action": "Attach 1 Don to Roronoa Zoro",
+    "card_id": "OP01-025",
+    "total_don": 3
+  },
+  "log-238": {
+    "player": "MPirate21",
+    "action": "Attach 1 Don to Roronoa Zoro",
+    "card_id": "OP01-025",
+    "total_don": 4
+  },
+  "log-239": {
+    "player": "MPirate21",
+    "action": "Deploy",
+    "card": "Sanji",
+    "card_id": "ST21-003"
+  },
+  "log-240": {
+    "player": "Sanji",
+    "action": "Grant Unblockable to Roronoa Zoro",
+    "card_id": "ST21-003",
+    "target": "Roronoa Zoro",
+    "target_id": "OP01-025"
+  },
+  "log-241": {
+    "player": "MPirate21",
+    "action": "attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "OP01-025",
+    "defender": "Sangoro",
+    "defender_id": "ST18-003"
+  },
+  "log-242": {
+    "player": "Pirate26156",
+    "action": "Gum Gum Giant",
+    "card_id": "OP09-078",
+    "effect": "Trash Zorojuro",
+    "target": "Zorojuro",
+    "target_id": "ST18-004"
+  },
+  "log-243": {
+    "player": "Pirate26156",
+    "action": "Gum Gum Giant",
+    "card_id": "OP09-078",
+    "effect": "Buff Sangoro",
+    "target": "Sangoro",
+    "target_id": "ST18-003",
+    "power_buff": 4000,
+    "duration": "Combat"
+  },
+  "log-244": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Trafalgar Law",
+    "card_id": "OP09-069"
+  },
+  "log-245": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Sangoro",
+    "card_id": "ST18-003"
+  },
+  "log-246": {
+    "player": "Pirate26156",
+    "action": "Gum Gum Giant",
+    "card_id": "OP09-078",
+    "effect": "Draw 2 Card"
+  },
+  "log-247": {
+    "player": "Combat",
+    "action": "Roronoa Zoro",
+    "attacker_id": "OP01-025",
+    "attacker_power": 9000,
+    "defender": "Sangoro",
+    "defender_id": "ST18-003",
+    "defender_power": 10000
+  },
+  "log-248": {
+    "player": "Combat",
+    "action": "Attack Fails"
+  },
+  "log-249": {
+    "player": "MPirate21",
+    "action": "Attach 1 Don to Monkey D. Luffy",
+    "card_id": "ST21-001",
+    "total_don": 1
+  },
+  "log-250": {
+    "player": "MPirate21",
+    "action": "Monkey D. Luffy",
+    "card_id": "ST21-001",
+    "ability": "Attach 1 Rested Don to Sanji",
+    "target_id": "ST01-004"
+  },
+  "log-251": {
+    "player": "MPirate21",
+    "action": "Monkey D. Luffy",
+    "card_id": "ST21-001",
+    "ability": "Attach 1 Rested Don to Sanji",
+    "target_id": "ST01-004"
+  },
+  "log-252": {
+    "player": "MPirate21",
+    "action": "Attach 1 Don to Sanji",
+    "card_id": "ST01-004",
+    "total_don": 3
+  },
+  "log-253": {
+    "player": "MPirate21",
+    "action": "Attach 1 Don to Sanji",
+    "card_id": "ST01-004",
+    "total_don": 4
+  },
+  "log-254": {
+    "player": "MPirate21",
+    "action": "attacking",
+    "attacker": "Sanji",
+    "attacker_id": "ST01-004",
+    "defender": "Sangoro",
+    "defender_id": "ST18-003"
+  },
+  "log-255": {
+    "player": "Pirate26156",
+    "action": "Discard Hitokiri Kamazo",
+    "card_id": "OP06-076",
+    "counter": 2000
+  },
+  "log-256": {
+    "player": "Pirate26156",
+    "action": "Discard Trafalgar Law",
+    "card_id": "OP09-069",
+    "counter": 1000
+  },
+  "log-257": {
+    "player": "Combat",
+    "action": "Sanji",
+    "attacker_id": "ST01-004",
+    "attacker_power": 8000,
+    "defender": "Sangoro",
+    "defender_id": "ST18-003",
+    "defender_power": 9000
+  },
+  "log-258": {
+    "player": "Combat",
+    "action": "Attack Fails"
+  },
+  "log-259": {
+    "player": "MPirate21",
+    "action": "Attach 1 Don to Monkey D. Luffy",
+    "card_id": "ST21-001",
+    "total_don": 2
+  },
+  "log-260": {
+    "player": "MPirate21",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Sanji",
+    "defender_id": "OP09-065"
+  },
+  "log-261": {
+    "player": "Pirate26156",
+    "action": "Discard Sangoro",
+    "card_id": "ST18-003",
+    "counter": 1000
+  },
+  "log-262": {
+    "player": "Combat",
+    "action": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "attacker_power": 7000,
+    "defender": "Sanji",
+    "defender_id": "OP09-065",
+    "defender_power": 8000
+  },
+  "log-263": {
+    "player": "Combat",
+    "action": "Attack Fails"
+  },
+  "log-264": {
+    "player": "MPirate21",
+    "action": "End Turn"
+  },
+  "log-265": {
+    "player": "Pirate26156",
+    "action": "Hand",
+    "hand": ["OP09-119", "ST18-005"]
+  },
+  "log-266": {
+    "player": "Pirate26156",
+    "action": "Board",
+    "board": ["OP09-065", "ST18-003", "OP05-074"]
+  },
+  "log-267": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "trash": ["OP06-076", "OP07-064", "OP06-076", "OP05-077", "ST18-003", "OP06-076", "OP09-078", "ST18-004", "OP06-076", "OP09-069", "ST18-003"]
+  },
+  "log-268": {
+    "player": "Pirate26156",
+    "action": "Life",
+    "life": 1
+  },
+  "log-269": {
+    "player": "MPirate21",
+    "action": "Hand",
+    "hand": []
+  },
+  "log-270": {
+    "player": "MPirate21",
+    "action": "Trash",
+    "trash": ["OP02-015", "ST01-004", "ST21-015", "ST21-003", "OP10-005", "OP01-029", "OP04-016", "ST21-003"]
+  },
+  "log-271": {
+    "player": "MPirate21",
+    "action": "Board",
+    "board": ["OP10-011", "ST01-004", "OP01-025", "ST21-003"]
+  },
+  "log-272": {
+    "player": "MPirate21",
+    "action": "Life",
+    "life": 3
+  },
+  "log-273": {
+    "player": "Pirate26156",
+    "action": "Draw 1 Card"
+  },
+  "log-274": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "OP07-064"
+  },
+  "log-275": {
+    "player": "Pirate26156",
+    "action": "Draw 2 Don"
+  },
+  "log-276": {
+    "player": "Pirate26156",
+    "action": "Deploy",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP09-119"
+  },
+  "log-277": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Trafalgar Law",
+    "card_id": "OP09-069"
+  },
+  "log-278": {
+    "player": "Monkey D. Luffy",
+    "action": "Draw 1 Card",
+    "card_id": "OP09-119"
+  },
+  "log-279": {
+    "player": "Monkey D. Luffy",
+    "action": "Give Monkey D. Luffy Rush",
+    "card_id": "OP09-119"
+  },
+  "log-280": {
+    "player": "Eustass 'Captain' Kid",
+    "action": "Draw 1 Don",
+    "card_id": "OP05-074"
+  },
+  "log-281": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Sanji",
+    "attacker_id": "OP09-065",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
+  },
+  "log-282": {
+    "player": "Combat",
+    "action": "Sanji",
+    "attacker_id": "OP09-065",
+    "attacker_power": 7000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001",
+    "defender_power": 5000
+  },
+  "log-283": {
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card_id": "ST21-001"
+  },
+  "log-284": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
+  },
+  "log-285": {
+    "player": "MPirate21",
+    "action": "Tony Tony Chopper Blocks",
+    "card_id": "OP10-011"
+  },
+  "log-286": {
+    "player": "Combat",
+    "action": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 5000,
+    "defender": "Tony Tony Chopper",
+    "defender_id": "OP10-011",
+    "defender_power": 6000
+  },
+  "log-287": {
+    "player": "Combat",
+    "action": "Attack Fails"
+  },
+  "log-288": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Sangoro",
+    "attacker_id": "ST18-003",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
+  },
+  "log-289": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Trafalgar Law",
+    "card_id": "ST10-010"
+  },
+  "log-290": {
+    "player": "Sangoro",
+    "action": "Draw 1 Card",
+    "card_id": "ST18-003"
+  },
+  "log-291": {
+    "player": "Combat",
+    "action": "Sangoro",
+    "attacker_id": "ST18-003",
+    "attacker_power": 6000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001",
+    "defender_power": 5000
+  },
+  "log-292": {
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card_id": "ST21-001"
+  },
+  "log-293": {
+    "player": "Pirate26156",
+    "action": "Attach 1 Don to Eustass 'Captain' Kid",
+    "card_id": "OP05-074",
+    "total_don": 1
+  },
+  "log-294": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Eustass 'Captain' Kid",
+    "attacker_id": "OP05-074",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
+  },
+  "log-295": {
+    "player": "Combat",
+    "action": "Eustass 'Captain' Kid",
+    "attacker_id": "OP05-074",
+    "attacker_power": 7000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001",
+    "defender_power": 5000
+  },
+  "log-296": {
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card_id": "ST21-001"
+  },
+  "log-297": {
+    "player": "Pirate26156",
+    "action": "attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP09-119",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
+  },
+  "log-298": {
+    "player": "Pirate26156",
+    "action": "Wins!"
+  }
+}

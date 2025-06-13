@@ -1,0 +1,62 @@
+{
+  "ST27-001": {
+    "name": "Avalo Pizarro ST27-001",
+    "color": "black",
+    "type": "character",
+    "group": "Blackbeard Pirates",
+    "attribute": "Special",
+    "cost": 1,
+    "power": 1000,
+    "counter": 1000,
+    "effect": "[Activate: Main] [Once Per Turn] You may rest 1 of your [Fullalead] cards: If your Leader has the {Blackbeard Pirates} type, this Character gains +4000 power during this turn. [On K.O.] Draw 1 card.",
+    "images": "Images/ST27/ST27-001.png"
+  },
+  "ST27-002": {
+    "name": "Catarina Devon ST27-002",
+    "color": "black",
+    "type": "character",
+    "group": "Blackbeard Pirates",
+    "attribute": "Special",
+    "cost": 1,
+    "power": 1000,
+    "counter": 2000,
+    "effect": "[Activate: Main] You may trash this Character: If your Leader has the {Blackbeard Pirates} type, give up to 1 of your opponent's Characters −1 cost during this turn. [On K.O.] Draw 1 card.",
+    "images": "Images/ST27/ST27-002.png"
+  },
+  "ST27-003": {
+    "name": "Kuzan ST27-003",
+    "color": "black",
+    "type": "character",
+    "group": ["Blackbeard Pirates", "Former Navy"],
+    "attribute": "Special",
+    "cost": 6,
+    "power": 6000,
+    "counter": 1000,
+    "effect": "[Blocker] [On K.O.] Play up to 1 {Blackbeard Pirates} type Character card with a cost of 5 or less from your trash rested.",
+    "images": "Images/ST27/ST27-003.png"
+  },
+  "ST27-004": {
+    "name": "Sanjuan Wolf ST27-004",
+    "color": "black",
+    "type": "character",
+    "group": ["Giant", "Blackbeard Pirates"],
+    "attribute": "Strike",
+    "cost": 4,
+    "power": 6000,
+    "counter": 1000,
+    "effect": "If your Leader has the {Blackbeard Pirates} type, this Character gains [Blocker] and +1 cost for every 4 cards in your trash. [On Play] Trash 1 card from your hand.",
+    "images": "Images/ST27/ST27-004.png"
+  },
+  "ST27-005": {
+    "name": "Marshall D. Teach ST27-005",
+    "color": "black",
+    "type": "character",
+    "group": ["The Four Emperors", "Blackbeard Pirates"],
+    "attribute": "Special",
+    "cost": 7,
+    "power": 8000,
+    "counter": 0,
+    "effect": "[Activate: Main] You may rest this Character: K.O. up to 1 Character with a cost of 3 or less. [On K.O.] Add up to 1 black card from your trash to your hand.",
+    "images": "Images/ST27/ST27-005.png"
+  }
+}
