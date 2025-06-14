@@ -11,17 +11,16 @@ class OnePieceReplayEnv(gym.Env):
     Este entorno reproduce las jugadas secuenciales del log y permite
     al agente aprender de ambas perspectivas (ambos jugadores).
     """
-
-    def __init__(self, log_path):
+    def __init__(self, logs, catalogo_cartas):
+        super().__init__()
+        self.logs = logs
+        self.catalogo = catalogo_cartas
         """
         Inicializa el entorno leyendo el archivo de log JSON.
         - log_path: ruta al archivo de log con la partida.
         """
         super(OnePieceReplayEnv, self).__init__()
 
-        # Carga el log (diccionario de eventos secuenciales)
-        with open(log_path, "r", encoding="utf-8") as f:
-            self.log_data = json.load(f)
 
         # Ordenamos las claves del log (ej: log-001, log-002...)
         self.sorted_keys = sorted(self.log_data.keys())
