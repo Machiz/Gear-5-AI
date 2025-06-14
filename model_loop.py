@@ -1,10 +1,33 @@
 from Training_model import Agent
+import json
+import os
 import numpy as np
 import gym
 import tensorflow as tf
 import matplotlib.pyplot as plt
 import optcg_env
 from optcg_env import OnePieceTCGEnv
+def read_log_files(directory_path):
+    data_list = []
+    for filename in os.listdir(directory_path):
+        if filename.endswith('.json'):
+            file_path = os.path.join(directory_path, filename)
+            with open(file_path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                data_list.append(data)
+    return data_list
+def read_card_files(directory_path):
+    card_list = []
+    for filename in os.listdir(directory_path):
+        if filename.endswith('.json'):
+            file_path = os.path.join(directory_path, filename)
+            with open(file_path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                card_list.append(data)
+    return card_list
+
+catalogo = read_card_files("assets/JSON/Cards")
+logs = read_log_files("assets/JSON/Battle_log")
 
 def plot_learning_curve(x, scores, eps_history, filename):
     fig, ax1 = plt.subplots()
