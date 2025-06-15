@@ -1,0 +1,1513 @@
+{
+  "log-003": {
+    "player": "Subarashi",
+    "action": "Leader is Jewelry Bonney",
+    "card": "Jewelry Bonney",
+    "card_id": "OP07-019"
+  },
+  "log-004": {
+    "player": "Mhcuber",
+    "action": "Player connected"
+  },
+  "log-005": {
+    "player": "System",
+    "action": "Version is 1.30b"
+  },
+  "log-006": {
+    "player": "Mhcuber",
+    "action": "Leader is Monkey D. Luffy",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP05-060"
+  },
+  "log-007": {
+    "player": "Subarashi",
+    "action": "Chose to go First"
+  },
+  "log-008": {
+    "player": "Subarashi",
+    "action": "Drew card from deck",
+    "card": "Whoever Wins This War Becomes Justice!!",
+    "card_id": "OP05-037"
+  },
+  "log-009": {
+    "player": "Subarashi",
+    "action": "Drew card from deck",
+    "card": "Donquixote Rosinante",
+    "card_id": "OP05-030"
+  },
+  "log-010": {
+    "player": "Subarashi",
+    "action": "Drew card from deck",
+    "card": "Cavendish",
+    "card_id": "EB01-012"
+  },
+  "log-011": {
+    "player": "Subarashi",
+    "action": "Drew card from deck",
+    "card": "Hody Jones",
+    "card_id": "OP06-035"
+  },
+  "log-012": {
+    "player": "Subarashi",
+    "action": "Drew card from deck",
+    "card": "Kid & Killer",
+    "card_id": "ST24-002"
+  },
+  "log-013": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Hitokiri Kamazo",
+    "card_id": "OP06-076"
+  },
+  "log-014": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "OP07-064"
+  },
+  "log-015": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Zorojuro",
+    "card_id": "ST18-004"
+  },
+  "log-016": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Gamma Knife",
+    "card_id": "OP05-077"
+  },
+  "log-017": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078"
+  },
+  "log-018": {
+    "player": "Mhcuber",
+    "action": "Hand state before Mulligan",
+    "cards": ["OP06-076", "OP07-064", "ST18-004", "OP05-077", "OP09-078"]
+  },
+  "log-019": {
+    "player": "Subarashi",
+    "action": "Drew card from deck",
+    "card": "Cavendish",
+    "card_id": "EB01-012"
+  },
+  "log-020": {
+    "player": "Subarashi",
+    "action": "Drew card from deck",
+    "card": "Carrot",
+    "card_id": "OP08-023"
+  },
+  "log-021": {
+    "player": "Subarashi",
+    "action": "Drew card from deck",
+    "card": "Tashigi",
+    "card_id": "OP10-032"
+  },
+  "log-022": {
+    "player": "Subarashi",
+    "action": "Drew card from deck",
+    "card": "Donquixote Doflamingo",
+    "card_id": "OP04-031"
+  },
+  "log-023": {
+    "player": "Subarashi",
+    "action": "Drew card from deck",
+    "card": "Donquixote Rosinante",
+    "card_id": "OP05-030"
+  },
+  "log-024": {
+    "player": "Subarashi",
+    "action": "Mulligan"
+  },
+  "log-025": {
+    "player": "Subarashi",
+    "action": "Draw 1 Don"
+  },
+  "log-026": {
+    "player": "Subarashi",
+    "action": "End turn"
+  },
+  "log-027": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": ["OP06-076", "OP07-064", "ST18-004", "OP05-077", "OP09-078"],
+    "board": [],
+    "trash": [],
+    "life": 5
+  },
+  "log-028": {
+    "player": "Subarashi",
+    "action": "Hand state",
+    "cards": ["EB01-012", "OP08-023", "OP10-032", "OP04-031", "OP05-030"],
+    "trash": [],
+    "board": [],
+    "life": 5
+  },
+  "log-029": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "OP09-065"
+  },
+  "log-030": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-031": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-032": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": ["OP06-076", "OP07-064", "ST18-004", "OP05-077", "OP09-078", "OP09-065"],
+    "board": [],
+    "trash": [],
+    "life": 5
+  },
+  "log-033": {
+    "player": "Subarashi",
+    "action": "Hand state",
+    "cards": ["EB01-012", "OP08-023", "OP10-032", "OP04-031", "OP05-030"],
+    "trash": [],
+    "board": [],
+    "life": 5
+  },
+  "log-034": {
+    "player": "Mhcuber",
+    "action": "End turn"
+  },
+  "log-035": {
+    "player": "Subarashi",
+    "action": "Draw 1 Card"
+  },
+  "log-036": {
+    "player": "Subarashi",
+    "action": "Drew card from deck",
+    "card": "Scratchmen Apoo",
+    "card_id": "EB01-015"
+  },
+  "log-037": {
+    "player": "Subarashi",
+    "action": "Draw 2 Don"
+  },
+  "log-038": {
+    "player": "Subarashi",
+    "action": "Attach 2 Don to Jewelry Bonney",
+    "card": "Jewelry Bonney",
+    "card_id": "OP07-019",
+    "total_don": 2
+  },
+  "log-039": {
+    "player": "Subarashi",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-040": {
+    "player": "Subarashi",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 7000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-041": {
+    "player": "Mhcuber",
+    "action": "Damage taken by Monkey D. Luffy",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP05-060",
+    "damage": 1
+  },
+  "log-042": {
+    "player": "Subarashi",
+    "action": "End turn"
+  },
+  "log-043": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": ["OP06-076", "OP07-064", "ST18-004", "OP05-077", "OP09-078", "OP09-065", "ST18-001"],
+    "board": [],
+    "trash": [],
+    "life": 4
+  },
+  "log-044": {
+    "player": "Subarashi",
+    "action": "Hand state",
+    "cards": ["EB01-012", "OP08-023", "OP10-032", "OP04-031", "OP05-030", "EB01-015"],
+    "trash": [],
+    "board": [],
+    "life": 5
+  },
+  "log-045": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "OP07-064"
+  },
+  "log-046": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-047": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-048": {
+    "player": "Mhcuber",
+    "action": "Loses 1 Life"
+  },
+  "log-049": {
+    "player": "Mhcuber",
+    "action": "Leader ability: Draw 1 Don",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP05-060"
+  },
+  "log-050": {
+    "player": "Mhcuber",
+    "action": "Deploy card",
+    "card": "Zorojuro",
+    "card_id": "ST18-004"
+  },
+  "log-051": {
+    "player": "Mhcuber",
+    "action": "Reveal and Draw",
+    "card": "Sanji",
+    "card_id": "OP07-064"
+  },
+  "log-052": {
+    "player": "Mhcuber",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-053": {
+    "player": "Mhcuber",
+    "action": "Attach 1 Don to Monkey D. Luffy",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP05-060",
+    "total_don": 1
+  },
+  "log-054": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-055": {
+    "player": "Subarashi",
+    "action": "Rest card",
+    "card": "Zorojuro",
+    "card_id": "ST18-004"
+  },
+  "log-056": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 6000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-057": {
+    "player": "Subarashi",
+    "action": "Damage taken by Jewelry Bonney",
+    "card": "Jewelry Bonney",
+    "card_id": "OP07-019",
+    "damage": 1
+  },
+  "log-058": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": ["OP06-076", "OP07-064", "OP05-077", "OP09-078", "OP09-065", "ST18-001", "OP07-064", "EB01-039", "OP07-064"],
+    "board": ["ST18-004"],
+    "trash": [],
+    "life": 3
+  },
+  "log-059": {
+    "player": "Subarashi",
+    "action": "Hand state",
+    "cards": ["EB01-012", "OP08-023", "OP10-032", "OP04-031", "OP05-030", "EB01-015", "OP01-033"],
+    "trash": [],
+    "board": [],
+    "life": 4
+  },
+  "log-060": {
+    "player": "Mhcuber",
+    "action": "End turn"
+  },
+  "log-061": {
+    "player": "Subarashi",
+    "action": "Draw 1 Card"
+  },
+  "log-062": {
+    "player": "Subarashi",
+    "action": "Drew card from deck",
+    "card": "Tashigi",
+    "card_id": "OP10-032"
+  },
+  "log-063": {
+    "player": "Subarashi",
+    "action": "Draw 2 Don"
+  },
+  "log-064": {
+    "player": "Subarashi",
+    "action": "Deploy card",
+    "card": "Cavendish",
+    "card_id": "EB01-012"
+  },
+  "log-065": {
+    "player": "Subarashi",
+    "action": "Activate 2 Don",
+    "card": "Cavendish",
+    "card_id": "EB01-012"
+  },
+  "log-066": {
+    "player": "Subarashi",
+    "action": "Attach 1 Don to Jewelry Bonney",
+    "card": "Jewelry Bonney",
+    "card_id": "OP07-019",
+    "total_don": 1
+  },
+  "log-067": {
+    "player": "Subarashi",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Zorojuro",
+    "defender_id": "ST18-004"
+  },
+  "log-068": {
+    "player": "Mhcuber",
+    "action": "Discard card for Counter",
+    "card": "Sanji",
+    "card_id": "OP09-065",
+    "counter_amount": 1000
+  },
+  "log-069": {
+    "player": "Subarashi",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 6000,
+    "defender": "Zorojuro",
+    "defender_id": "ST18-004",
+    "defender_power": 7000
+  },
+  "log-070": {
+    "player": "Subarashi",
+    "action": "Attack Fails"
+  },
+  "log-071": {
+    "player": "Subarashi",
+    "action": "End turn"
+  },
+  "log-072": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": ["OP06-076", "OP07-064", "OP05-077", "OP09-078", "ST18-001", "OP07-064", "EB01-039", "OP07-064"],
+    "board": ["ST18-004"],
+    "trash": ["OP09-065"],
+    "life": 3
+  },
+  "log-073": {
+    "player": "Subarashi",
+    "action": "Hand state",
+    "cards": ["OP08-023", "OP10-032", "OP04-031", "OP05-030", "EB01-015", "OP01-033", "OP10-032"],
+    "trash": [],
+    "board": ["EB01-012"],
+    "life": 4
+  },
+  "log-074": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078"
+  },
+  "log-075": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-076": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-077": {
+    "player": "Mhcuber",
+    "action": "Attach 4 Don to Zorojuro",
+    "card": "Zorojuro",
+    "card_id": "ST18-004",
+    "total_don": 4
+  },
+  "log-078": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Zorojuro",
+    "attacker_id": "ST18-004",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-079": {
+    "player": "Subarashi",
+    "action": "Rest card",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP05-060"
+  },
+  "log-080": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Zorojuro",
+    "attacker_id": "ST18-004",
+    "attacker_power": 10000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-081": {
+    "player": "Subarashi",
+    "action": "Damage taken by Jewelry Bonney",
+    "card": "Jewelry Bonney",
+    "card_id": "OP07-019",
+    "damage": 1
+  },
+  "log-082": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": ["OP06-076", "OP07-064", "OP05-077", "OP09-078", "ST18-001", "OP07-064", "EB01-039", "OP07-064", "OP09-078"],
+    "board": ["ST18-004"],
+    "trash": ["OP09-065"],
+    "life": 3
+  },
+  "log-083": {
+    "player": "Subarashi",
+    "action": "Hand state",
+    "cards": ["OP08-023", "OP10-032", "OP04-031", "OP05-030", "EB01-015", "OP01-033", "OP10-032", "ST24-001"],
+    "trash": [],
+    "board": ["EB01-012"],
+    "life": 3
+  },
+  "log-084": {
+    "player": "Mhcuber",
+    "action": "End turn"
+  },
+  "log-085": {
+    "player": "Subarashi",
+    "action": "Draw 1 Card"
+  },
+  "log-086": {
+    "player": "Subarashi",
+    "action": "Drew card from deck",
+    "card": "Eustass \"Captain\" Kid",
+    "card_id": "OP01-051"
+  },
+  "log-087": {
+    "player": "Subarashi",
+    "action": "Draw 2 Don"
+  },
+  "log-088": {
+    "player": "Subarashi",
+    "action": "Deploy card",
+    "card": "Carrot",
+    "card_id": "OP08-023"
+  },
+  "log-089": {
+    "player": "Subarashi",
+    "action": "Carrot activates: Card will not Activate during next Refresh",
+    "card": "Carrot",
+    "card_id": "OP08-023",
+    "effected_card": "Zorojuro",
+    "effected_card_id": "ST18-004"
+  },
+  "log-090": {
+    "player": "Subarashi",
+    "action": "Attacking",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-091": {
+    "player": "Subarashi",
+    "action": "Activate 2 Don",
+    "card": "Cavendish",
+    "card_id": "EB01-012"
+  },
+  "log-092": {
+    "player": "Mhcuber",
+    "action": "Discard card for Counter",
+    "card": "Sanji",
+    "card_id": "OP07-064",
+    "counter_amount": 2000
+  },
+  "log-093": {
+    "player": "Subarashi",
+    "action": "Attack details",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "attacker_power": 6000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 7000
+  },
+  "log-094": {
+    "player": "Subarashi",
+    "action": "Attack Fails"
+  },
+  "log-095": {
+    "player": "Subarashi",
+    "action": "Attach 1 Don to Jewelry Bonney",
+    "card": "Jewelry Bonney",
+    "card_id": "OP07-019",
+    "total_don": 1
+  },
+  "log-096": {
+    "player": "Subarashi",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-097": {
+    "player": "Mhcuber",
+    "action": "Discard card for Counter",
+    "card": "Sanji",
+    "card_id": "OP07-064",
+    "counter_amount": 2000
+  },
+  "log-098": {
+    "player": "Subarashi",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 6000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 7000
+  },
+  "log-099": {
+    "player": "Subarashi",
+    "action": "Attack Fails"
+  },
+  "log-100": {
+    "player": "Subarashi",
+    "action": "Deploy card",
+    "card": "Donquixote Rosinante",
+    "card_id": "OP05-030"
+  },
+  "log-101": {
+    "player": "Subarashi",
+    "action": "End turn"
+  },
+  "log-102": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": ["OP06-076", "OP07-064", "OP05-077", "OP09-078", "ST18-001", "EB01-039", "OP09-078"],
+    "board": ["ST18-004"],
+    "trash": ["OP09-065", "OP07-064", "OP07-064"],
+    "life": 3
+  },
+  "log-103": {
+    "player": "Subarashi",
+    "action": "Hand state",
+    "cards": ["OP10-032", "OP04-031", "EB01-015", "OP01-033", "OP10-032", "ST24-001", "OP01-051"],
+    "trash": [],
+    "board": ["EB01-012", "OP08-023", "OP05-030"],
+    "life": 3
+  },
+  "log-104": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Zorojuro",
+    "card_id": "ST18-004"
+  },
+  "log-105": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-106": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-107": {
+    "player": "Mhcuber",
+    "action": "Card activates: Destroy card",
+    "card": "Ragnarok",
+    "card_id": "EB01-039",
+    "effected_card": "Carrot",
+    "effected_card_id": "OP08-023"
+  },
+  "log-108": {
+    "player": "Mhcuber",
+    "action": "Deploy card",
+    "card": "Zorojuro",
+    "card_id": "ST18-004"
+  },
+  "log-109": {
+    "player": "Mhcuber",
+    "action": "Reveal and Draw",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-110": {
+    "player": "Mhcuber",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-111": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-112": {
+    "player": "Subarashi",
+    "action": "Rest card",
+    "card": "Zorojuro",
+    "card_id": "ST18-004"
+  },
+  "log-113": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 5000,
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-114": {
+    "player": "Subarashi",
+    "action": "Damage taken by Jewelry Bonney",
+    "card": "Jewelry Bonney",
+    "card_id": "OP07-019",
+    "damage": 1
+  },
+  "log-115": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": ["OP06-076", "OP07-064", "OP05-077", "OP09-078", "ST18-001", "OP09-078", "ST18-001"],
+    "board": ["ST18-004", "ST18-004"],
+    "trash": ["OP09-065", "OP07-064", "OP07-064", "EB01-039"],
+    "life": 3
+  },
+  "log-116": {
+    "player": "Subarashi",
+    "action": "Hand state",
+    "cards": ["OP10-032", "OP04-031", "EB01-015", "OP01-033", "OP10-032", "ST24-001", "OP01-051", "ST24-002"],
+    "trash": ["OP08-023"],
+    "board": ["EB01-012", "OP05-030"],
+    "life": 2
+  },
+  "log-117": {
+    "player": "Mhcuber",
+    "action": "End turn"
+  },
+  "log-118": {
+    "player": "Subarashi",
+    "action": "Draw 1 Card"
+  },
+  "log-119": {
+    "player": "Subarashi",
+    "action": "Drew card from deck",
+    "card": "Kid & Killer",
+    "card_id": "ST24-002"
+  },
+  "log-120": {
+    "player": "Subarashi",
+    "action": "Draw 2 Don"
+  },
+  "log-121": {
+    "player": "Subarashi",
+    "action": "Deploy card",
+    "card": "Eustass \"Captain\" Kid",
+    "card_id": "OP01-051"
+  },
+  "log-122": {
+    "player": "Subarashi",
+    "action": "Attach 1 Don to Eustass \"Captain\" Kid",
+    "card": "Eustass \"Captain\" Kid",
+    "card_id": "OP01-051",
+    "total_don": 1
+  },
+  "log-123": {
+    "player": "Subarashi",
+    "action": "Eustass \"Captain\" Kid activates: Deploy card",
+    "card": "Eustass \"Captain\" Kid",
+    "card_id": "OP01-051",
+    "deployed_card": "Kid & Killer",
+    "deployed_card_id": "ST24-002"
+  },
+  "log-124": {
+    "player": "Subarashi",
+    "action": "Reveal and Draw",
+    "card": "Law & Bepo",
+    "card_id": "ST24-004"
+  },
+  "log-125": {
+    "player": "Subarashi",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-126": {
+    "player": "Subarashi",
+    "action": "Attacking",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "defender": "Zorojuro",
+    "defender_id": "ST18-004"
+  },
+  "log-127": {
+    "player": "Subarashi",
+    "action": "Activate 2 Don",
+    "card": "Cavendish",
+    "card_id": "EB01-012"
+  },
+  "log-128": {
+    "player": "Mhcuber",
+    "action": "Discard card for Counter",
+    "card": "Usohachi",
+    "card_id": "ST18-001",
+    "counter_amount": 2000
+  },
+  "log-129": {
+    "player": "Subarashi",
+    "action": "Attack details",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "attacker_power": 6000,
+    "defender": "Zorojuro",
+    "defender_id": "ST18-004",
+    "defender_power": 8000
+  },
+  "log-130": {
+    "player": "Subarashi",
+    "action": "Attack Fails"
+  },
+  "log-131": {
+    "player": "Subarashi",
+    "action": "Attach 1 Don to Jewelry Bonney",
+    "card": "Jewelry Bonney",
+    "card_id": "OP07-019",
+    "total_don": 1
+  },
+  "log-132": {
+    "player": "Subarashi",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Zorojuro",
+    "defender_id": "ST18-004"
+  },
+  "log-133": {
+    "player": "Mhcuber",
+    "action": "Discard card for Counter",
+    "card": "Usohachi",
+    "card_id": "ST18-001",
+    "counter_amount": 2000
+  },
+  "log-134": {
+    "player": "Subarashi",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 6000,
+    "defender": "Zorojuro",
+    "defender_id": "ST18-004",
+    "defender_power": 8000
+  },
+  "log-135": {
+    "player": "Subarashi",
+    "action": "Attack Fails"
+  },
+  "log-136": {
+    "player": "Subarashi",
+    "action": "End turn"
+  },
+  "log-137": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": ["OP06-076", "OP07-064", "OP05-077", "OP09-078", "OP09-078"],
+    "board": ["ST18-004", "ST18-004"],
+    "trash": ["OP09-065", "OP07-064", "OP07-064", "EB01-039", "ST18-001", "ST18-001"],
+    "life": 3
+  },
+  "log-138": {
+    "player": "Subarashi",
+    "action": "Hand state",
+    "cards": ["OP10-032", "OP04-031", "EB01-015", "OP01-033", "OP10-032", "ST24-001", "ST24-002", "ST24-004"],
+    "trash": ["OP08-023"],
+    "board": ["EB01-012", "OP05-030", "OP01-051", "ST24-002"],
+    "life": 2
+  },
+  "log-139": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Trafalgar Law",
+    "card_id": "ST10-010"
+  },
+  "log-140": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-141": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-142": {
+    "player": "Mhcuber",
+    "action": "Card activates: Give power",
+    "card": "Gamma Knife",
+    "card_id": "OP05-077",
+    "effected_card": "Eustass \"Captain\" Kid",
+    "effected_card_id": "OP01-051",
+    "power_change": -5000
+  },
+  "log-143": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP01-051"
+  },
+  "log-144": {
+    "player": "Subarashi",
+    "action": "Rest card",
+    "card": "Zorojuro",
+    "card_id": "ST18-004"
+  },
+  "log-145": {
+    "player": "Subarashi",
+    "action": "Discard card for Counter",
+    "card": "Scratchmen Apoo",
+    "card_id": "EB01-015",
+    "counter_amount": 2000
+  },
+  "log-146": {
+    "player": "Subarashi",
+    "action": "Discard card for Counter",
+    "card": "Kid & Killer",
+    "card_id": "ST24-002",
+    "counter_amount": 1000
+  },
+  "log-147": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 5000,
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP01-051",
+    "defender_power": 6000
+  },
+  "log-148": {
+    "player": "Mhcuber",
+    "action": "Attack Fails"
+  },
+  "log-149": {
+    "player": "Mhcuber",
+    "action": "Attach 4 Don to Zorojuro",
+    "card": "Zorojuro",
+    "card_id": "ST18-004",
+    "total_don": 4
+  },
+  "log-150": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Zorojuro",
+    "attacker_id": "ST18-004",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP01-051"
+  },
+  "log-151": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Zorojuro",
+    "attacker_id": "ST18-004",
+    "attacker_power": 10000,
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP01-051",
+    "defender_power": 3000
+  },
+  "log-152": {
+    "player": "Subarashi",
+    "action": "Card activates: Trash card",
+    "card": "Donquixote Rosinante",
+    "card_id": "OP05-030",
+    "effected_card": "Donquixote Rosinante",
+    "effected_card_id": "OP05-030"
+  },
+  "log-153": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": ["OP06-076", "OP07-064", "OP09-078", "OP09-078", "ST10-010"],
+    "board": ["ST18-004", "ST18-004"],
+    "trash": ["OP09-065", "OP07-064", "OP07-064", "EB01-039", "ST18-001", "ST18-001", "OP05-077"],
+    "life": 3
+  },
+  "log-154": {
+    "player": "Subarashi",
+    "action": "Hand state",
+    "cards": ["OP10-032", "OP04-031", "OP01-033", "OP10-032", "ST24-001", "ST24-004"],
+    "trash": ["OP08-023", "EB01-015", "ST24-002", "OP05-030"],
+    "board": ["EB01-012", "OP01-051", "ST24-002"],
+    "life": 2
+  },
+  "log-155": {
+    "player": "Mhcuber",
+    "action": "End turn"
+  },
+  "log-156": {
+    "player": "Subarashi",
+    "action": "Draw 1 Card"
+  },
+  "log-157": {
+    "player": "Subarashi",
+    "action": "Drew card from deck",
+    "card": "Scratchmen Apoo",
+    "card_id": "EB01-015"
+  },
+  "log-158": {
+    "player": "Subarashi",
+    "action": "Draw 2 Don"
+  },
+  "log-159": {
+    "player": "Subarashi",
+    "action": "Deploy card",
+    "card": "Donquixote Doflamingo",
+    "card_id": "OP04-031"
+  },
+  "log-160": {
+    "player": "Subarashi",
+    "action": "Donquixote Doflamingo activates: Card will not Activate during next Refresh",
+    "card": "Donquixote Doflamingo",
+    "card_id": "OP04-031",
+    "effected_card": "Monkey D. Luffy",
+    "effected_card_id": "OP05-060"
+  },
+  "log-161": {
+    "player": "Subarashi",
+    "action": "Donquixote Doflamingo activates: Card will not Activate during next Refresh",
+    "card": "Donquixote Doflamingo",
+    "card_id": "OP04-031",
+    "effected_card": "Zorojuro",
+    "effected_card_id": "ST18-004"
+  },
+  "log-162": {
+    "player": "Subarashi",
+    "action": "Donquixote Doflamingo activates: Card will not Activate during next Refresh",
+    "card": "Donquixote Doflamingo",
+    "card_id": "OP04-031",
+    "effected_card": "Zorojuro",
+    "effected_card_id": "ST18-004"
+  },
+  "log-163": {
+    "player": "Subarashi",
+    "action": "Attacking",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-164": {
+    "player": "Subarashi",
+    "action": "Activate 2 Don",
+    "card": "Cavendish",
+    "card_id": "EB01-012"
+  },
+  "log-165": {
+    "player": "Subarashi",
+    "action": "Attack details",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "attacker_power": 6000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-166": {
+    "player": "Mhcuber",
+    "action": "Damage taken by Monkey D. Luffy",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP05-060",
+    "damage": 1
+  },
+  "log-167": {
+    "player": "Subarashi",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-168": {
+    "player": "Mhcuber",
+    "action": "Discard card for Counter",
+    "card": "Trafalgar Law",
+    "card_id": "OP09-069",
+    "counter_amount": 1000
+  },
+  "log-169": {
+    "player": "Subarashi",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 5000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 6000
+  },
+  "log-170": {
+    "player": "Subarashi",
+    "action": "Attack Fails"
+  },
+  "log-171": {
+    "player": "Subarashi",
+    "action": "Attach 1 Don to Eustass \"Captain\" Kid",
+    "card": "Eustass \"Captain\" Kid",
+    "card_id": "OP01-051",
+    "total_don": 1
+  },
+  "log-172": {
+    "player": "Subarashi",
+    "action": "Attacking",
+    "attacker": "Eustass \"Captain\" Kid",
+    "attacker_id": "OP01-051",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-173": {
+    "player": "Subarashi",
+    "action": "Attack details",
+    "attacker": "Eustass \"Captain\" Kid",
+    "attacker_id": "OP01-051",
+    "attacker_power": 9000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-174": {
+    "player": "Mhcuber",
+    "action": "Damage taken by Monkey D. Luffy",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP05-060",
+    "damage": 1
+  },
+  "log-175": {
+    "player": "Subarashi",
+    "action": "End turn"
+  },
+  "log-176": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": ["OP06-076", "OP07-064", "OP09-078", "OP09-078", "ST10-010", "ST18-003"],
+    "board": ["ST18-004", "ST18-004"],
+    "trash": ["OP09-065", "OP07-064", "OP07-064", "EB01-039", "ST18-001", "ST18-001", "OP05-077", "OP09-069"],
+    "life": 1
+  },
+  "log-177": {
+    "player": "Subarashi",
+    "action": "Hand state",
+    "cards": ["OP10-032", "OP01-033", "OP10-032", "ST24-001", "ST24-004", "EB01-015"],
+    "trash": ["OP08-023", "EB01-015", "ST24-002", "OP05-030"],
+    "board": ["EB01-012", "OP01-051", "ST24-002", "OP04-031"],
+    "life": 2
+  },
+  "log-178": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "OP07-064"
+  },
+  "log-179": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-180": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-181": {
+    "player": "Mhcuber",
+    "action": "Deploy card",
+    "card": "Trafalgar Law",
+    "card_id": "ST10-010"
+  },
+  "log-182": {
+    "player": "Mhcuber",
+    "action": "Deploy card",
+    "card": "Sangoro",
+    "card_id": "ST18-003"
+  },
+  "log-183": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": ["OP06-076", "OP07-064", "OP09-078", "OP09-078", "OP07-064"],
+    "board": ["ST18-004", "ST18-004", "ST10-010", "ST18-003"],
+    "trash": ["OP09-065", "OP07-064", "OP07-064", "EB01-039", "ST18-001", "ST18-001", "OP05-077", "OP09-069"],
+    "life": 1
+  },
+  "log-184": {
+    "player": "Subarashi",
+    "action": "Hand state",
+    "cards": ["OP10-032", "OP01-033", "OP10-032", "ST24-001", "ST24-004", "EB01-015"],
+    "trash": ["OP08-023", "EB01-015", "ST24-002", "OP05-030"],
+    "board": ["EB01-012", "OP01-051", "ST24-002", "OP04-031"],
+    "life": 2
+  },
+  "log-185": {
+    "player": "Mhcuber",
+    "action": "End turn"
+  },
+  "log-186": {
+    "player": "Subarashi",
+    "action": "Draw 1 Card"
+  },
+  "log-187": {
+    "player": "Subarashi",
+    "action": "Drew card from deck",
+    "card": "Law & Bepo",
+    "card_id": "ST24-004"
+  },
+  "log-188": {
+    "player": "Subarashi",
+    "action": "Deploy card",
+    "card": "Law & Bepo",
+    "card_id": "ST24-004"
+  },
+  "log-189": {
+    "player": "Subarashi",
+    "action": "Law & Bepo activates: Rest card",
+    "card": "Law & Bepo",
+    "card_id": "ST24-004",
+    "effected_card": "Trafalgar Law",
+    "effected_card_id": "ST10-010"
+  },
+  "log-190": {
+    "player": "Subarashi",
+    "action": "Law & Bepo activates: Card will not Activate during next Refresh",
+    "card": "Law & Bepo",
+    "card_id": "ST24-004",
+    "effected_card": "Trafalgar Law",
+    "effected_card_id": "ST10-010"
+  },
+  "log-191": {
+    "player": "Subarashi",
+    "action": "Law & Bepo activates: Grant power until opponent's next turn end",
+    "card": "Law & Bepo",
+    "card_id": "ST24-004",
+    "effected_card": "Jewelry Bonney",
+    "effected_card_id": "OP07-019",
+    "power_change": 2000
+  },
+  "log-192": {
+    "player": "Subarashi",
+    "action": "Attacking",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-193": {
+    "player": "Subarashi",
+    "action": "Activate 2 Don",
+    "card": "Cavendish",
+    "card_id": "EB01-012"
+  },
+  "log-194": {
+    "player": "Mhcuber",
+    "action": "Discard card for Counter",
+    "card": "Sanji",
+    "card_id": "OP07-064",
+    "counter_amount": 2000
+  },
+  "log-195": {
+    "player": "Subarashi",
+    "action": "Attack details",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "attacker_power": 6000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 7000
+  },
+  "log-196": {
+    "player": "Subarashi",
+    "action": "Attack Fails"
+  },
+  "log-197": {
+    "player": "Subarashi",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-198": {
+    "player": "Mhcuber",
+    "action": "Discard card for Counter",
+    "card": "Sanji",
+    "card_id": "OP07-064",
+    "counter_amount": 2000
+  },
+  "log-199": {
+    "player": "Mhcuber",
+    "action": "Discard card for Counter",
+    "card": "Hitokiri Kamazo",
+    "card_id": "OP06-076",
+    "counter_amount": 2000
+  },
+  "log-200": {
+    "player": "Subarashi",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "attacker_power": 7000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 9000
+  },
+  "log-201": {
+    "player": "Subarashi",
+    "action": "Attack Fails"
+  },
+  "log-202": {
+    "player": "Subarashi",
+    "action": "Attach 1 Don to Eustass \"Captain\" Kid",
+    "card": "Eustass \"Captain\" Kid",
+    "card_id": "OP01-051",
+    "total_don": 1
+  },
+  "log-203": {
+    "player": "Subarashi",
+    "action": "Attacking",
+    "attacker": "Eustass \"Captain\" Kid",
+    "attacker_id": "OP01-051",
+    "defender": "Zorojuro",
+    "defender_id": "ST18-004"
+  },
+  "log-204": {
+    "player": "Subarashi",
+    "action": "Attack details",
+    "attacker": "Eustass \"Captain\" Kid",
+    "attacker_id": "OP01-051",
+    "attacker_power": 9000,
+    "defender": "Zorojuro",
+    "defender_id": "ST18-004",
+    "defender_power": 6000
+  },
+  "log-205": {
+    "player": "Mhcuber",
+    "action": "Card destroyed",
+    "card": "Zorojuro",
+    "card_id": "ST18-004"
+  },
+  "log-206": {
+    "player": "Subarashi",
+    "action": "Attacking",
+    "attacker": "Donquixote Doflamingo",
+    "attacker_id": "OP04-031",
+    "defender": "Zorojuro",
+    "defender_id": "ST18-004"
+  },
+  "log-207": {
+    "player": "Mhcuber",
+    "action": "Card activates: Trash card",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078",
+    "effected_card": "Gum Gum Giant",
+    "effected_card_id": "OP09-078"
+  },
+  "log-208": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078"
+  },
+  "log-209": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Zorojuro",
+    "card_id": "ST18-004"
+  },
+  "log-210": {
+    "player": "Mhcuber",
+    "action": "Card activates: Buff for the Combat",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078",
+    "effected_card": "Zorojuro",
+    "effected_card_id": "ST18-004",
+    "power_change": 4000
+  },
+  "log-211": {
+    "player": "Mhcuber",
+    "action": "Card activates: Draw 2 Card",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078"
+  },
+  "log-212": {
+    "player": "Subarashi",
+    "action": "Attack details",
+    "attacker": "Donquixote Doflamingo",
+    "attacker_id": "OP04-031",
+    "attacker_power": 10000,
+    "defender": "Zorojuro",
+    "defender_id": "ST18-004",
+    "defender_power": 10000
+  },
+  "log-213": {
+    "player": "Mhcuber",
+    "action": "Card destroyed",
+    "card": "Zorojuro",
+    "card_id": "ST18-004"
+  },
+  "log-214": {
+    "player": "Subarashi",
+    "action": "End turn"
+  },
+  "log-215": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": ["OP09-078", "ST18-004"],
+    "board": ["ST10-010", "ST18-003"],
+    "trash": ["OP09-065", "OP07-064", "OP07-064", "EB01-039", "ST18-001", "ST18-001", "OP05-077", "OP09-069", "OP07-064", "OP07-064", "OP06-076", "ST18-004", "OP09-078", "OP09-078", "ST18-004"],
+    "life": 1
+  },
+  "log-216": {
+    "player": "Subarashi",
+    "action": "Hand state",
+    "cards": ["OP10-032", "OP01-033", "OP10-032", "ST24-001", "ST24-004", "EB01-015"],
+    "trash": ["OP08-023", "EB01-015", "ST24-002", "OP05-030"],
+    "board": ["EB01-012", "OP01-051", "ST24-002", "OP04-031", "ST24-004"],
+    "life": 2
+  },
+  "log-217": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Hitokiri Kamazo",
+    "card_id": "OP06-076"
+  },
+  "log-218": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-219": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-220": {
+    "player": "Mhcuber",
+    "action": "Attach 6 Don to Sangoro",
+    "card": "Sangoro",
+    "card_id": "ST18-003",
+    "total_don": 6
+  },
+  "log-221": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Luffy-tarou",
+    "card_id": "ST18-005"
+  },
+  "log-222": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Sangoro",
+    "attacker_id": "ST18-003",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP01-051"
+  },
+  "log-223": {
+    "player": "Mhcuber",
+    "action": "Sangoro activates: Draw 1 Card",
+    "card": "Sangoro",
+    "card_id": "ST18-003"
+  },
+  "log-224": {
+    "player": "Subarashi",
+    "action": "Rest card",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP05-060"
+  },
+  "log-225": {
+    "player": "Subarashi",
+    "action": "Discard card for Counter",
+    "card": "Scratchmen Apoo",
+    "card_id": "EB01-015",
+    "counter_amount": 2000
+  },
+  "log-226": {
+    "player": "Subarashi",
+    "action": "Discard card for Counter",
+    "card": "Izou",
+    "card_id": "OP01-033",
+    "counter_amount": 2000
+  },
+  "log-227": {
+    "player": "Subarashi",
+    "action": "Discard card for Counter",
+    "card": "Capone \"Gang\" Bege",
+    "card_id": "ST24-001",
+    "counter_amount": 1000
+  },
+  "log-228": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Sangoro",
+    "attacker_id": "ST18-003",
+    "attacker_power": 12000,
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP01-051",
+    "defender_power": 13000
+  },
+  "log-229": {
+    "player": "Mhcuber",
+    "action": "Attack Fails"
+  },
+  "log-230": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": ["OP09-078", "ST18-004", "OP06-076", "ST18-005"],
+    "board": ["ST10-010", "ST18-003"],
+    "trash": ["OP09-065", "OP07-064", "OP07-064", "EB01-039", "ST18-001", "ST18-001", "OP05-077", "OP09-069", "OP07-064", "OP07-064", "OP06-076", "ST18-004", "OP09-078", "OP09-078", "ST18-004"],
+    "life": 1
+  },
+  "log-231": {
+    "player": "Subarashi",
+    "action": "Hand state",
+    "cards": ["OP10-032", "OP10-032", "ST24-004"],
+    "trash": ["OP08-023", "EB01-015", "ST24-002", "OP05-030", "EB01-015", "OP01-033", "ST24-001"],
+    "board": ["EB01-012", "OP01-051", "ST24-002", "OP04-031", "ST24-004"],
+    "life": 2
+  },
+  "log-232": {
+    "player": "Mhcuber",
+    "action": "End turn"
+  },
+  "log-233": {
+    "player": "Subarashi",
+    "action": "Draw 1 Card"
+  },
+  "log-234": {
+    "player": "Subarashi",
+    "action": "Drew card from deck",
+    "card": "Tashigi",
+    "card_id": "OP10-032"
+  },
+  "log-235": {
+    "player": "Mhcuber",
+    "action": "Concedes!"
+  },
+  "log-236": {
+    "player": "Subarashi",
+    "action": "Wins!"
+  }
+}

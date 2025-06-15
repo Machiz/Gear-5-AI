@@ -1,0 +1,2496 @@
+{
+  "log-001": {
+    "player": null,
+    "action": "Waiting for Connection",
+    "room_id": "JK888P"
+  },
+  "log-002": {
+    "player": "Mhcuber",
+    "action": "Has Connected"
+  },
+  "log-003": {
+    "player": null,
+    "action": "Version is 1.30b"
+  },
+  "log-004": {
+    "player": "Mhcuber",
+    "action": "Leader is Monkey D. Luffy",
+    "card_id": "OP05-060"
+  },
+  "log-005": {
+    "player": "EDUDD",
+    "action": "Has Connected"
+  },
+  "log-006": {
+    "player": null,
+    "action": "Version is 1.30b"
+  },
+  "log-007": {
+    "player": "EDUDD",
+    "action": "Leader is Buggy",
+    "card_id": "OP09-042"
+  },
+  "log-008": {
+    "player": "EDUDD",
+    "action": "Chose to go First"
+  },
+  "log-009": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Buggy",
+    "card_id": "ST25-004"
+  },
+  "log-010": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Buggy",
+    "card_id": "ST25-004"
+  },
+  "log-011": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Crocodile",
+    "card_id": "OP09-046"
+  },
+  "log-012": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Mohji",
+    "card_id": "ST25-005"
+  },
+  "log-013": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Charlotte Pudding",
+    "card_id": "OP06-047"
+  },
+  "log-014": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Charlotte Katakuri",
+    "card_id": "OP11-067"
+  },
+  "log-015": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Zorojuro",
+    "card_id": "ST18-004"
+  },
+  "log-016": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Sangoro",
+    "card_id": "ST18-003"
+  },
+  "log-017": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Gamma Knife",
+    "card_id": "OP05-077"
+  },
+  "log-018": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Charlotte Katakuri",
+    "card_id": "OP11-067"
+  },
+  "log-019": {
+    "player": "Mhcuber",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "OP11-067",
+      "ST18-004",
+      "ST18-003",
+      "OP05-077",
+      "OP11-067"
+    ]
+  },
+  "log-020": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Buggy",
+    "card_id": "OP09-051"
+  },
+  "log-021": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Mr. 3 (Galdino)",
+    "card_id": "OP09-056"
+  },
+  "log-022": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Alvida",
+    "card_id": "ST25-001"
+  },
+  "log-023": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Sanji's Pilaf",
+    "card_id": "OP03-056"
+  },
+  "log-024": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Mr. 1 (Daz Bonez)",
+    "card_id": "EB01-027"
+  },
+  "log-025": {
+    "player": "EDUDD",
+    "action": "Mulligan"
+  },
+  "log-026": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-027": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Sangoro",
+    "card_id": "ST18-003"
+  },
+  "log-028": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078"
+  },
+  "log-029": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-030": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Sangoro",
+    "card_id": "ST18-003"
+  },
+  "log-031": {
+    "player": "Mhcuber",
+    "action": "Hand after Mulligan",
+    "cards": [
+      "ST18-001",
+      "ST18-003",
+      "OP09-078",
+      "ST18-001",
+      "ST18-003"
+    ]
+  },
+  "log-032": {
+    "player": "Mhcuber",
+    "action": "Mulligan"
+  },
+  "log-033": {
+    "player": "EDUDD",
+    "action": "Draw 1 Don"
+  },
+  "log-034": {
+    "player": "EDUDD",
+    "action": "Deploy",
+    "card": "Mr. 3 (Galdino)",
+    "card_id": "OP09-056"
+  },
+  "log-035": {
+    "player": "EDUDD",
+    "action": "Reveal and Draw",
+    "card": "Crocodile",
+    "card_id": "OP09-046"
+  },
+  "log-036": {
+    "player": "EDUDD",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-037": {
+    "player": "EDUDD",
+    "action": "End Turn"
+  },
+  "log-038": {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "ST18-003",
+      "OP09-078",
+      "ST18-001",
+      "ST18-003"
+    ]
+  },
+  "log-039": {
+    "player": "Mhcuber",
+    "action": "Board",
+    "cards": []
+  },
+  "log-040": {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-041": {
+    "player": "Mhcuber",
+    "action": "Life",
+    "value": 5
+  },
+  "log-042": {
+    "player": "EDUDD",
+    "action": "Hand",
+    "cards": [
+      "OP09-051",
+      "ST25-001",
+      "OP03-056",
+      "EB01-027",
+      "OP09-046"
+    ]
+  },
+  "log-043": {
+    "player": "EDUDD",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-044": {
+    "player": "EDUDD",
+    "action": "Board",
+    "cards": [
+      "OP09-056"
+    ]
+  },
+  "log-045": {
+    "player": "EDUDD",
+    "action": "Life",
+    "value": 5
+  },
+  "log-046": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-047": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Franosuke",
+    "card_id": "OP05-070"
+  },
+  "log-048": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-049": {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "ST18-003",
+      "OP09-078",
+      "ST18-001",
+      "ST18-003",
+      "OP05-070"
+    ]
+  },
+  "log-050": {
+    "player": "Mhcuber",
+    "action": "Board",
+    "cards": []
+  },
+  "log-051": {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-052": {
+    "player": "Mhcuber",
+    "action": "Life",
+    "value": 5
+  },
+  "log-053": {
+    "player": "EDUDD",
+    "action": "Hand",
+    "cards": [
+      "OP09-051",
+      "ST25-001",
+      "OP03-056",
+      "EB01-027",
+      "OP09-046"
+    ]
+  },
+  "log-054": {
+    "player": "EDUDD",
+    "action": "Trash",
+    "cards": []
+  },
+  "log-055": {
+    "player": "EDUDD",
+    "action": "Board",
+    "cards": [
+      "OP09-056"
+    ]
+  },
+  "log-056": {
+    "player": "EDUDD",
+    "action": "Life",
+    "value": 5
+  },
+  "log-057": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-058": {
+    "player": "EDUDD",
+    "action": "Draw 1 Card"
+  },
+  "log-059": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Alvida",
+    "card_id": "ST25-001"
+  },
+  "log-060": {
+    "player": "EDUDD",
+    "action": "Draw 2 Don"
+  },
+  "log-061": {
+    "player": "EDUDD",
+    "action": "Attacking",
+    "attacker": "Buggy",
+    "attacker_id": "OP09-042",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-062": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "Sangoro",
+    "card_id": "ST18-003",
+    "counter_value": 1000
+  },
+  "log-063": {
+    "player": "EDUDD",
+    "action": "Attack details",
+    "attacker": "Buggy",
+    "attacker_id": "OP09-042",
+    "attacker_power": 5000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 6000
+  },
+  "log-064": {
+    "player": null,
+    "action": "Attack Fails"
+  },
+  "log-065": {
+    "player": "EDUDD",
+    "action": "Card Effect",
+    "card": "Sanji's Pilaf",
+    "card_id": "OP03-056",
+    "effect": "Draw 2 Card"
+  },
+  "log-066": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Cabaji",
+    "card_id": "ST25-002"
+  },
+  "log-067": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Alvida",
+    "card_id": "ST25-001"
+  },
+  "log-068": {
+    "player": "EDUDD",
+    "action": "End Turn"
+  },
+  "log-069": {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "ST18-003",
+      "OP09-078",
+      "ST18-001",
+      "OP05-070"
+    ]
+  },
+  "log-070": {
+    "player": "Mhcuber",
+    "action": "Board",
+    "cards": []
+  },
+  "log-071": {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "cards": [
+      "ST18-003"
+    ]
+  },
+  "log-072": {
+    "player": "Mhcuber",
+    "action": "Life",
+    "value": 5
+  },
+  "log-073": {
+    "player": "EDUDD",
+    "action": "Hand",
+    "cards": [
+      "OP09-051",
+      "ST25-001",
+      "EB01-027",
+      "OP09-046",
+      "ST25-001",
+      "ST25-002",
+      "ST25-001"
+    ]
+  },
+  "log-074": {
+    "player": "EDUDD",
+    "action": "Trash",
+    "cards": [
+      "OP03-056"
+    ]
+  },
+  "log-075": {
+    "player": "EDUDD",
+    "action": "Board",
+    "cards": [
+      "OP09-056"
+    ]
+  },
+  "log-076": {
+    "player": "EDUDD",
+    "action": "Life",
+    "value": 5
+  },
+  "log-077": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-078": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Gamma Knife",
+    "card_id": "OP05-077"
+  },
+  "log-079": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-080": {
+    "player": "Mhcuber",
+    "action": "Loses 1 Life"
+  },
+  "log-081": {
+    "player": "Monkey D. Luffy",
+    "action": "Draw 1 Don",
+    "card_id": "OP05-060"
+  },
+  "log-082": {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "Sangoro",
+    "card_id": "ST18-003"
+  },
+  "log-083": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Buggy",
+    "defender_id": "OP09-042"
+  },
+  "log-084": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 5000,
+    "defender": "Buggy",
+    "defender_id": "OP09-042",
+    "defender_power": 5000
+  },
+  "log-085": {
+    "player": "Buggy",
+    "action": "hit for 1 damage",
+    "card_id": "OP09-042"
+  },
+  "log-086": {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "OP09-078",
+      "ST18-001",
+      "OP05-070",
+      "OP05-077",
+      "OP06-076"
+    ]
+  },
+  "log-087": {
+    "player": "Mhcuber",
+    "action": "Board",
+    "cards": [
+      "ST18-003"
+    ]
+  },
+  "log-088": {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "cards": [
+      "ST18-003"
+    ]
+  },
+  "log-089": {
+    "player": "Mhcuber",
+    "action": "Life",
+    "value": 4
+  },
+  "log-090": {
+    "player": "EDUDD",
+    "action": "Hand",
+    "cards": [
+      "OP09-051",
+      "ST25-001",
+      "EB01-027",
+      "OP09-046",
+      "ST25-001",
+      "ST25-002",
+      "ST25-001",
+      "P-084"
+    ]
+  },
+  "log-091": {
+    "player": "EDUDD",
+    "action": "Trash",
+    "cards": [
+      "OP03-056"
+    ]
+  },
+  "log-092": {
+    "player": "EDUDD",
+    "action": "Board",
+    "cards": [
+      "OP09-056"
+    ]
+  },
+  "log-093": {
+    "player": "EDUDD",
+    "action": "Life",
+    "value": 4
+  },
+  "log-094": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-095": {
+    "player": "EDUDD",
+    "action": "Draw 1 Card"
+  },
+  "log-096": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Alvida",
+    "card_id": "ST25-001"
+  },
+  "log-097": {
+    "player": "EDUDD",
+    "action": "Draw 2 Don"
+  },
+  "log-098": {
+    "player": "EDUDD",
+    "action": "Attacking",
+    "attacker": "Buggy",
+    "attacker_id": "OP09-042",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-099": {
+    "player": "EDUDD",
+    "action": "Attack details",
+    "attacker": "Buggy",
+    "attacker_id": "OP09-042",
+    "attacker_power": 5000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-100": {
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card_id": "OP05-060"
+  },
+  "log-101": {
+    "player": "EDUDD",
+    "action": "Card Effect",
+    "card": "Buggy",
+    "card_id": "OP09-042",
+    "effect": "Trash Buggy",
+    "trashed_card_id": "P-084"
+  },
+  "log-102": {
+    "player": "EDUDD",
+    "action": "Card Effect",
+    "card": "Mr. 1 (Daz Bonez)",
+    "card_id": "EB01-027",
+    "effect": "Draw 2 Card"
+  },
+  "log-103": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Cabaji",
+    "card_id": "ST25-002"
+  },
+  "log-104": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Sanji's Pilaf",
+    "card_id": "OP03-056"
+  },
+  "log-105": {
+    "player": "EDUDD",
+    "action": "Trash",
+    "card": "Sanji's Pilaf",
+    "card_id": "OP03-056"
+  },
+  "log-106": {
+    "player": "EDUDD",
+    "action": "End Turn"
+  },
+  "log-107": {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "OP09-078",
+      "ST18-001",
+      "OP05-070",
+      "OP05-077",
+      "OP06-076",
+      "OP09-078"
+    ]
+  },
+  "log-108": {
+    "player": "Mhcuber",
+    "action": "Board",
+    "cards": [
+      "ST18-003"
+    ]
+  },
+  "log-109": {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "cards": [
+      "ST18-003"
+    ]
+  },
+  "log-110": {
+    "player": "Mhcuber",
+    "action": "Life",
+    "value": 3
+  },
+  "log-111": {
+    "player": "EDUDD",
+    "action": "Hand",
+    "cards": [
+      "OP09-051",
+      "ST25-001",
+      "ST25-001",
+      "ST25-002",
+      "ST25-001",
+      "ST25-001",
+      "ST25-002"
+    ]
+  },
+  "log-112": {
+    "player": "EDUDD",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "P-084",
+      "OP03-056"
+    ]
+  },
+  "log-113": {
+    "player": "EDUDD",
+    "action": "Board",
+    "cards": [
+      "OP09-056",
+      "OP09-046",
+      "EB01-027"
+    ]
+  },
+  "log-114": {
+    "player": "EDUDD",
+    "action": "Life",
+    "value": 4
+  },
+  "log-115": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-116": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP09-119"
+  },
+  "log-117": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-118": {
+    "player": "Mhcuber",
+    "action": "Loses 1 Life"
+  },
+  "log-119": {
+    "player": "Monkey D. Luffy",
+    "action": "Draw 1 Don",
+    "card_id": "OP05-060"
+  },
+  "log-120": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Sangoro",
+    "attacker_id": "ST18-003",
+    "defender": "Buggy",
+    "defender_id": "OP09-042"
+  },
+  "log-121": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Mr. 2 Bon Clay (Bentham)",
+    "card_id": "EB01-061"
+  },
+  "log-122": {
+    "player": "Mhcuber",
+    "action": "Card Effect",
+    "card": "Sangoro",
+    "card_id": "ST18-003",
+    "effect": "Draw 1 Card"
+  },
+  "log-123": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Sangoro",
+    "attacker_id": "ST18-003",
+    "attacker_power": 6000,
+    "defender": "Buggy",
+    "defender_id": "OP09-042",
+    "defender_power": 5000
+  },
+  "log-124": {
+    "player": "Buggy",
+    "action": "hit for 1 damage",
+    "card_id": "OP09-042"
+  },
+  "log-125": {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "Mr. 2 Bon Clay (Bentham)",
+    "card_id": "EB01-061"
+  },
+  "log-126": {
+    "player": "Mr. 2 Bon Clay (Bentham)",
+    "action": "Draw 1 Don",
+    "card_id": "EB01-061"
+  },
+  "log-127": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "don_amount": 4,
+    "to_card": "Monkey D. Luffy",
+    "to_card_id": "OP05-060",
+    "total_don": 4
+  },
+  "log-128": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Buggy",
+    "defender_id": "OP09-042"
+  },
+  "log-129": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 9000,
+    "defender": "Buggy",
+    "defender_id": "OP09-042",
+    "defender_power": 5000
+  },
+  "log-130": {
+    "player": "Buggy",
+    "action": "hit for 1 damage",
+    "card_id": "OP09-042"
+  },
+  "log-131": {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "OP09-078",
+      "ST18-001",
+      "OP05-070",
+      "OP05-077",
+      "OP06-076",
+      "OP09-078",
+      "OP09-119",
+      "OP09-078"
+    ]
+  },
+  "log-132": {
+    "player": "Mhcuber",
+    "action": "Board",
+    "cards": [
+      "ST18-003",
+      "EB01-061"
+    ]
+  },
+  "log-133": {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "cards": [
+      "ST18-003"
+    ]
+  },
+  "log-134": {
+    "player": "Mhcuber",
+    "action": "Life",
+    "value": 2
+  },
+  "log-135": {
+    "player": "EDUDD",
+    "action": "Hand",
+    "cards": [
+      "OP09-051",
+      "ST25-001",
+      "ST25-001",
+      "ST25-002",
+      "ST25-001",
+      "ST25-001",
+      "ST25-002",
+      "OP11-059",
+      "ST25-004"
+    ]
+  },
+  "log-136": {
+    "player": "EDUDD",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "P-084",
+      "OP03-056"
+    ]
+  },
+  "log-137": {
+    "player": "EDUDD",
+    "action": "Board",
+    "cards": [
+      "OP09-056",
+      "OP09-046",
+      "EB01-027"
+    ]
+  },
+  "log-138": {
+    "player": "EDUDD",
+    "action": "Life",
+    "value": 2
+  },
+  "log-139": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-140": {
+    "player": "EDUDD",
+    "action": "Draw 1 Card"
+  },
+  "log-141": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Mr. 3 (Galdino)",
+    "card_id": "OP09-056"
+  },
+  "log-142": {
+    "player": "EDUDD",
+    "action": "Draw 2 Don"
+  },
+  "log-143": {
+    "player": "EDUDD",
+    "action": "Deploy",
+    "card": "Mr. 3 (Galdino)",
+    "card_id": "OP09-056"
+  },
+  "log-144": {
+    "player": "EDUDD",
+    "action": "Reveal and Draw",
+    "card": "Mohji",
+    "card_id": "ST25-005"
+  },
+  "log-145": {
+    "player": "EDUDD",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-146": {
+    "player": "EDUDD",
+    "action": "Attacking",
+    "attacker": "Crocodile",
+    "attacker_id": "OP09-046",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-147": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "Franosuke",
+    "card_id": "OP05-070",
+    "counter_value": 2000
+  },
+  "log-148": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "Usohachi",
+    "card_id": "ST18-001",
+    "counter_value": 2000
+  },
+  "log-149": {
+    "player": "EDUDD",
+    "action": "Attack details",
+    "attacker": "Crocodile",
+    "attacker_id": "OP09-046",
+    "attacker_power": 7000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 9000
+  },
+  "log-150": {
+    "player": null,
+    "action": "Attack Fails"
+  },
+  "log-151": {
+    "player": "EDUDD",
+    "action": "Attacking",
+    "attacker": "Buggy",
+    "attacker_id": "OP09-042",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-152": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "Hitokiri Kamazo",
+    "card_id": "OP06-076",
+    "counter_value": 2000
+  },
+  "log-153": {
+    "player": "EDUDD",
+    "action": "Attack details",
+    "attacker": "Buggy",
+    "attacker_id": "OP09-042",
+    "attacker_power": 5000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 7000
+  },
+  "log-154": {
+    "player": null,
+    "action": "Attack Fails"
+  },
+  "log-155": {
+    "player": "EDUDD",
+    "action": "Attach Don",
+    "don_amount": 1,
+    "to_card": "Mr. 1 (Daz Bonez)",
+    "to_card_id": "EB01-027",
+    "total_don": 1
+  },
+  "log-156": {
+    "player": "EDUDD",
+    "action": "Attacking",
+    "attacker": "Mr. 1 (Daz Bonez)",
+    "attacker_id": "EB01-027",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-157": {
+    "player": "Mhcuber",
+    "action": "Card Effect",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078",
+    "effect": "Trash Gum Gum Giant",
+    "trashed_card_id": "OP09-078"
+  },
+  "log-158": {
+    "player": "Mhcuber",
+    "action": "Card Effect",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078",
+    "effect": "Buff Monkey D. Luffy 4000 for the Combat",
+    "buffed_card_id": "OP05-060",
+    "buff_amount": 4000
+  },
+  "log-159": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Usohachi",
+    "card_id": "ST18-001"
+  },
+  "log-160": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Sangoro",
+    "card_id": "ST18-003"
+  },
+  "log-161": {
+    "player": "Mhcuber",
+    "action": "Card Effect",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078",
+    "effect": "Draw 2 Card"
+  },
+  "log-162": {
+    "player": "EDUDD",
+    "action": "Attack details",
+    "attacker": "Mr. 1 (Daz Bonez)",
+    "attacker_id": "EB01-027",
+    "attacker_power": 7000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 9000
+  },
+  "log-163": {
+    "player": null,
+    "action": "Attack Fails"
+  },
+  "log-164": {
+    "player": "EDUDD",
+    "action": "Deploy",
+    "card": "Alvida",
+    "card_id": "ST25-001"
+  },
+  "log-165": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Cabaji",
+    "card_id": "OP09-045"
+  },
+  "log-166": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Sanji's Pilaf",
+    "card_id": "OP03-056"
+  },
+  "log-167": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Cabaji",
+    "card_id": "ST25-002"
+  },
+  "log-168": {
+    "player": "EDUDD",
+    "action": "Card Effect",
+    "card": "Alvida",
+    "card_id": "ST25-001",
+    "effect": "Draw 3 Card"
+  },
+  "log-169": {
+    "player": "EDUDD",
+    "action": "Card Effect",
+    "card": "Alvida",
+    "card_id": "ST25-001",
+    "effect": "Trash Sanji's Pilaf",
+    "trashed_card_id": "OP03-056"
+  },
+  "log-170": {
+    "player": "EDUDD",
+    "action": "Card Effect",
+    "card": "Alvida",
+    "card_id": "ST25-001",
+    "effect": "Trash Buggy",
+    "trashed_card_id": "ST25-004"
+  },
+  "log-171": {
+    "player": "EDUDD",
+    "action": "End Turn"
+  },
+  "log-172": {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "OP05-077",
+      "OP09-078",
+      "OP09-119",
+      "ST18-001",
+      "ST18-003"
+    ]
+  },
+  "log-173": {
+    "player": "Mhcuber",
+    "action": "Board",
+    "cards": [
+      "ST18-003",
+      "EB01-061"
+    ]
+  },
+  "log-174": {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "cards": [
+      "ST18-003",
+      "OP05-070",
+      "ST18-001",
+      "OP06-076",
+      "OP09-078",
+      "OP09-078"
+    ]
+  },
+  "log-175": {
+    "player": "Mhcuber",
+    "action": "Life",
+    "value": 2
+  },
+  "log-176": {
+    "player": "EDUDD",
+    "action": "Hand",
+    "cards": [
+      "OP09-051",
+      "ST25-001",
+      "ST25-001",
+      "ST25-002",
+      "ST25-001",
+      "ST25-002",
+      "OP11-059",
+      "ST25-005",
+      "OP09-045",
+      "ST25-002"
+    ]
+  },
+  "log-177": {
+    "player": "EDUDD",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "P-084",
+      "OP03-056",
+      "OP03-056",
+      "ST25-004"
+    ]
+  },
+  "log-178": {
+    "player": "EDUDD",
+    "action": "Board",
+    "cards": [
+      "OP09-056",
+      "OP09-046",
+      "EB01-027",
+      "OP09-056",
+      "ST25-001"
+    ]
+  },
+  "log-179": {
+    "player": "EDUDD",
+    "action": "Life",
+    "value": 2
+  },
+  "log-180": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-181": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Luffy-tarou",
+    "card_id": "ST18-005"
+  },
+  "log-182": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-183": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Sangoro",
+    "attacker_id": "ST18-003",
+    "defender": "Buggy",
+    "defender_id": "OP09-042"
+  },
+  "log-184": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Sangoro",
+    "card_id": "ST18-003"
+  },
+  "log-185": {
+    "player": "Mhcuber",
+    "action": "Card Effect",
+    "card": "Sangoro",
+    "card_id": "ST18-003",
+    "effect": "Draw 1 Card"
+  },
+  "log-186": {
+    "player": "EDUDD",
+    "action": "Discard for Counter",
+    "card": "Cabaji",
+    "card_id": "OP09-045",
+    "counter_value": 2000
+  },
+  "log-187": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Sangoro",
+    "attacker_id": "ST18-003",
+    "attacker_power": 6000,
+    "defender": "Buggy",
+    "defender_id": "OP09-042",
+    "defender_power": 7000
+  },
+  "log-188": {
+    "player": null,
+    "action": "Attack Fails"
+  },
+  "log-189": {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "Luffy-tarou",
+    "card_id": "ST18-005"
+  },
+  "log-190": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "don_amount": 1,
+    "to_card": "Monkey D. Luffy",
+    "to_card_id": "OP05-060",
+    "total_don": 1
+  },
+  "log-191": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Buggy",
+    "defender_id": "OP09-042"
+  },
+  "log-192": {
+    "player": "EDUDD",
+    "action": "Discard for Counter",
+    "card": "Cabaji",
+    "card_id": "ST25-002",
+    "counter_value": 2000
+  },
+  "log-193": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 6000,
+    "defender": "Buggy",
+    "defender_id": "OP09-042",
+    "defender_power": 7000
+  },
+  "log-194": {
+    "player": null,
+    "action": "Attack Fails"
+  },
+  "log-195": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Mr. 2 Bon Clay (Bentham)",
+    "attacker_id": "EB01-061",
+    "defender": "Mr. 1 (Daz Bonez)",
+    "defender_id": "EB01-027"
+  },
+  "log-196": {
+    "player": "Mhcuber",
+    "action": "Card Effect",
+    "card": "Mr. 2 Bon Clay (Bentham)",
+    "card_id": "EB01-061",
+    "effect": "Buff Self 6000",
+    "buff_amount": 6000
+  },
+  "log-197": {
+    "player": "EDUDD",
+    "action": "Card Effect",
+    "card": "Gum-Gum King Cobra",
+    "card_id": "OP11-059",
+    "effect": "Buff Mr. 1 (Daz Bonez) 2000 for the Combat",
+    "buffed_card_id": "EB01-027",
+    "buff_amount": 2000
+  },
+  "log-198": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Mr. 2 Bon Clay (Bentham)",
+    "attacker_id": "EB01-061",
+    "attacker_power": 7000,
+    "defender": "Mr. 1 (Daz Bonez)",
+    "defender_id": "EB01-027",
+    "defender_power": 8000
+  },
+  "log-199": {
+    "player": null,
+    "action": "Attack Fails"
+  },
+  "log-200": {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "cards": [
+      "ST18-001",
+      "OP05-077",
+      "OP09-078",
+      "OP09-119",
+      "ST18-001",
+      "ST18-003"
+    ]
+  },
+  "log-201": {
+    "player": "Mhcuber",
+    "action": "Board",
+    "cards": [
+      "ST18-003",
+      "EB01-061",
+      "ST18-005",
+      "ST18-003"
+    ]
+  },
+  "log-202": {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "cards": [
+      "ST18-003",
+      "OP05-070",
+      "ST18-001",
+      "OP06-076",
+      "OP09-078",
+      "OP09-078"
+    ]
+  },
+  "log-203": {
+    "player": "Mhcuber",
+    "action": "Life",
+    "value": 2
+  },
+  "log-204": {
+    "player": "EDUDD",
+    "action": "Hand",
+    "cards": [
+      "OP09-051",
+      "ST25-001",
+      "ST25-001",
+      "ST25-002",
+      "ST25-001",
+      "ST25-002",
+      "ST25-005"
+    ]
+  },
+  "log-205": {
+    "player": "EDUDD",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "P-084",
+      "OP03-056",
+      "OP03-056",
+      "ST25-004",
+      "OP09-045",
+      "ST25-002",
+      "OP11-059"
+    ]
+  },
+  "log-206": {
+    "player": "EDUDD",
+    "action": "Board",
+    "cards": [
+      "OP09-056",
+      "OP09-046",
+      "EB01-027",
+      "OP09-056",
+      "ST25-001"
+    ]
+  },
+  "log-207": {
+    "player": "EDUDD",
+    "action": "Life",
+    "value": 2
+  },
+  "log-208": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-209": {
+    "player": "EDUDD",
+    "action": "Draw 1 Card"
+  },
+  "log-210": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Buggy",
+    "card_id": "P-084"
+  },
+  "log-211": {
+    "player": "EDUDD",
+    "action": "Draw 2 Don"
+  },
+  "log-212": {
+    "player": "EDUDD",
+    "action": "Attacking",
+    "attacker": "Mr. 3 (Galdino)",
+    "attacker_id": "OP09-056",
+    "defender": "Mr. 2 Bon Clay (Bentham)",
+    "defender_id": "EB01-061"
+  },
+  "log-213": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "Usohachi",
+    "card_id": "ST18-001",
+    "counter_value": 2000
+  },
+  "log-214": {
+    "player": "EDUDD",
+    "action": "Attack details",
+    "attacker": "Mr. 3 (Galdino)",
+    "attacker_id": "OP09-056",
+    "attacker_power": 2000,
+    "defender": "Mr. 2 Bon Clay (Bentham)",
+    "defender_id": "EB01-061",
+    "defender_power": 3000
+  },
+  "log-215": {
+    "player": null,
+    "action": "Attack Fails"
+  },
+  "log-216": {
+    "player": "EDUDD",
+    "action": "Attacking",
+    "attacker": "Mr. 3 (Galdino)",
+    "attacker_id": "OP09-056",
+    "defender": "Mr. 2 Bon Clay (Bentham)",
+    "defender_id": "EB01-061"
+  },
+  "log-217": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "Usohachi",
+    "card_id": "ST18-001",
+    "counter_value": 2000
+  },
+  "log-218": {
+    "player": "EDUDD",
+    "action": "Attack details",
+    "attacker": "Mr. 3 (Galdino)",
+    "attacker_id": "OP09-056",
+    "attacker_power": 2000,
+    "defender": "Mr. 2 Bon Clay (Bentham)",
+    "defender_id": "EB01-061",
+    "defender_power": 3000
+  },
+  "log-219": {
+    "player": null,
+    "action": "Attack Fails"
+  },
+  "log-220": {
+    "player": "EDUDD",
+    "action": "Attacking",
+    "attacker": "Buggy",
+    "attacker_id": "OP09-042",
+    "defender": "Mr. 2 Bon Clay (Bentham)",
+    "defender_id": "EB01-061"
+  },
+  "log-221": {
+    "player": "EDUDD",
+    "action": "Attack details",
+    "attacker": "Buggy",
+    "attacker_id": "OP09-042",
+    "attacker_power": 5000,
+    "defender": "Mr. 2 Bon Clay (Bentham)",
+    "defender_id": "EB01-061",
+    "defender_power": 1000
+  },
+  "log-222": {
+    "player": "Mhcuber",
+    "action": "Card Destroyed",
+    "card": "Mr. 2 Bon Clay (Bentham)",
+    "card_id": "EB01-061"
+  },
+  "log-223": {
+    "player": "EDUDD",
+    "action": "Attacking",
+    "attacker": "Alvida",
+    "attacker_id": "ST25-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-224": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "Sangoro",
+    "card_id": "ST18-003",
+    "counter_value": 1000
+  },
+  "log-225": {
+    "player": "EDUDD",
+    "action": "Attack details",
+    "attacker": "Alvida",
+    "attacker_id": "ST25-001",
+    "attacker_power": 5000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 6000
+  },
+  "log-226": {
+    "player": null,
+    "action": "Attack Fails"
+  },
+  "log-227": {
+    "player": "EDUDD",
+    "action": "Attacking",
+    "attacker": "Mr. 1 (Daz Bonez)",
+    "attacker_id": "EB01-027",
+    "defender": "Sangoro",
+    "defender_id": "ST18-003"
+  },
+  "log-228": {
+    "player": "EDUDD",
+    "action": "Attack details",
+    "attacker": "Mr. 1 (Daz Bonez)",
+    "attacker_id": "EB01-027",
+    "attacker_power": 6000,
+    "defender": "Sangoro",
+    "defender_id": "ST18-003",
+    "defender_power": 6000
+  },
+  "log-229": {
+    "player": "Mhcuber",
+    "action": "Card Destroyed",
+    "card": "Sangoro",
+    "card_id": "ST18-003"
+  },
+  "log-230": {
+    "player": "EDUDD",
+    "action": "Attacking",
+    "attacker": "Crocodile",
+    "attacker_id": "OP09-046",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-231": {
+    "player": "EDUDD",
+    "action": "Attack details",
+    "attacker": "Crocodile",
+    "attacker_id": "OP09-046",
+    "attacker_power": 7000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-232": {
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card_id": "OP05-060"
+  },
+  "log-233": {
+    "player": "EDUDD",
+    "action": "Trash",
+    "card": "Mr. 3 (Galdino)",
+    "card_id": "OP09-056"
+  },
+  "log-234": {
+    "player": "EDUDD",
+    "action": "Deploy",
+    "card": "Alvida",
+    "card_id": "ST25-001"
+  },
+  "log-235": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Cabaji",
+    "card_id": "ST25-002"
+  },
+  "log-236": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Buggy",
+    "card_id": "ST25-004"
+  },
+  "log-237": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Mr. 3 (Galdino)",
+    "card_id": "OP09-056"
+  },
+  "log-238": {
+    "player": "EDUDD",
+    "action": "Card Effect",
+    "card": "Alvida",
+    "card_id": "ST25-001",
+    "effect": "Draw 3 Card"
+  },
+  "log-239": {
+    "player": "EDUDD",
+    "action": "Card Effect",
+    "card": "Alvida",
+    "card_id": "ST25-001",
+    "effect": "Trash Buggy",
+    "trashed_card_id": "P-084"
+  },
+  "log-240": {
+    "player": "EDUDD",
+    "action": "Card Effect",
+    "card": "Alvida",
+    "card_id": "ST25-001",
+    "effect": "Trash Buggy",
+    "trashed_card_id": "ST25-004"
+  },
+  "log-241": {
+    "player": "EDUDD",
+    "action": "Card Effect",
+    "card": "Buggy",
+    "card_id": "OP09-042",
+    "effect": "Trash Alvida",
+    "trashed_card_id": "ST25-001"
+  },
+  "log-242": {
+    "player": "EDUDD",
+    "action": "Trash",
+    "card": "Mr. 3 (Galdino)",
+    "card_id": "OP09-056"
+  },
+  "log-243": {
+    "player": "EDUDD",
+    "action": "Card Effect",
+    "card": "Buggy",
+    "card_id": "OP09-051",
+    "effect": "Send Luffy-tarou to Deck Bottom",
+    "card_affected_id": "ST18-005"
+  },
+  "log-244": {
+    "player": "EDUDD",
+    "action": "End Turn"
+  },
+  "log-245": {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "cards": [
+      "OP05-077",
+      "OP09-078",
+      "OP09-119",
+      "OP05-070"
+    ]
+  },
+  "log-246": {
+    "player": "Mhcuber",
+    "action": "Board",
+    "cards": [
+      "ST18-003"
+    ]
+  },
+  "log-247": {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "cards": [
+      "ST18-003",
+      "OP05-070",
+      "ST18-001",
+      "OP06-076",
+      "OP09-078",
+      "OP09-078",
+      "ST18-001",
+      "ST18-001",
+      "EB01-061",
+      "ST18-003",
+      "ST18-003"
+    ]
+  },
+  "log-248": {
+    "player": "Mhcuber",
+    "action": "Life",
+    "value": 1
+  },
+  "log-249": {
+    "player": "EDUDD",
+    "action": "Hand",
+    "cards": [
+      "ST25-001",
+      "ST25-002",
+      "ST25-002",
+      "ST25-005",
+      "ST25-002",
+      "OP09-056"
+    ]
+  },
+  "log-250": {
+    "player": "EDUDD",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "P-084",
+      "OP03-056",
+      "OP03-056",
+      "ST25-004",
+      "OP09-045",
+      "ST25-002",
+      "OP11-059",
+      "OP09-056",
+      "P-084",
+      "ST25-004",
+      "ST25-001",
+      "OP09-056"
+    ]
+  },
+  "log-251": {
+    "player": "EDUDD",
+    "action": "Board",
+    "cards": [
+      "OP09-046",
+      "EB01-027",
+      "ST25-001",
+      "ST25-001",
+      "OP09-051"
+    ]
+  },
+  "log-252": {
+    "player": "EDUDD",
+    "action": "Life",
+    "value": 2
+  },
+  "log-253": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-254": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Charlotte Katakuri",
+    "card_id": "OP11-067"
+  },
+  "log-255": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-256": {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "Charlotte Katakuri",
+    "card_id": "OP11-067"
+  },
+  "log-257": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Sangoro",
+    "attacker_id": "ST18-003",
+    "defender": "Alvida",
+    "defender_id": "ST25-001"
+  },
+  "log-258": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Trafalgar Law",
+    "card_id": "ST10-010"
+  },
+  "log-259": {
+    "player": "Mhcuber",
+    "action": "Card Effect",
+    "card": "Sangoro",
+    "card_id": "ST18-003",
+    "effect": "Draw 1 Card"
+  },
+  "log-260": {
+    "player": "EDUDD",
+    "action": "Discard for Counter",
+    "card": "Cabaji",
+    "card_id": "ST25-002",
+    "counter_value": 2000
+  },
+  "log-261": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Sangoro",
+    "attacker_id": "ST18-003",
+    "attacker_power": 6000,
+    "defender": "Alvida",
+    "defender_id": "ST25-001",
+    "defender_power": 7000
+  },
+  "log-262": {
+    "player": null,
+    "action": "Attack Fails"
+  },
+  "log-263": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "don_amount": 1,
+    "to_card": "Monkey D. Luffy",
+    "to_card_id": "OP05-060",
+    "total_don": 1
+  },
+  "log-264": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Alvida",
+    "defender_id": "ST25-001"
+  },
+  "log-265": {
+    "player": "EDUDD",
+    "action": "Discard for Counter",
+    "card": "Cabaji",
+    "card_id": "ST25-002",
+    "counter_value": 2000
+  },
+  "log-266": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 6000,
+    "defender": "Alvida",
+    "defender_id": "ST25-001",
+    "defender_power": 7000
+  },
+  "log-267": {
+    "player": null,
+    "action": "Attack Fails"
+  },
+  "log-268": {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "cards": [
+      "OP05-077",
+      "OP09-078",
+      "OP09-119",
+      "OP05-070",
+      "ST10-010"
+    ]
+  },
+  "log-269": {
+    "player": "Mhcuber",
+    "action": "Board",
+    "cards": [
+      "ST18-003",
+      "OP11-067"
+    ]
+  },
+  "log-270": {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "cards": [
+      "ST18-003",
+      "OP05-070",
+      "ST18-001",
+      "OP06-076",
+      "OP09-078",
+      "OP09-078",
+      "ST18-001",
+      "ST18-001",
+      "EB01-061",
+      "ST18-003",
+      "ST18-003"
+    ]
+  },
+  "log-271": {
+    "player": "Mhcuber",
+    "action": "Life",
+    "value": 1
+  },
+  "log-272": {
+    "player": "EDUDD",
+    "action": "Hand",
+    "cards": [
+      "ST25-001",
+      "ST25-002",
+      "ST25-005",
+      "OP09-056"
+    ]
+  },
+  "log-273": {
+    "player": "EDUDD",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "P-084",
+      "OP03-056",
+      "OP03-056",
+      "ST25-004",
+      "OP09-045",
+      "ST25-002",
+      "OP11-059",
+      "OP09-056",
+      "P-084",
+      "ST25-004",
+      "ST25-001",
+      "OP09-056",
+      "ST25-002",
+      "ST25-002"
+    ]
+  },
+  "log-274": {
+    "player": "EDUDD",
+    "action": "Board",
+    "cards": [
+      "OP09-046",
+      "EB01-027",
+      "ST25-001",
+      "ST25-001",
+      "OP09-051"
+    ]
+  },
+  "log-275": {
+    "player": "EDUDD",
+    "action": "Life",
+    "value": 2
+  },
+  "log-276": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-277": {
+    "player": "EDUDD",
+    "action": "Draw 1 Card"
+  },
+  "log-278": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Buggy",
+    "card_id": "ST25-004"
+  },
+  "log-279": {
+    "player": "EDUDD",
+    "action": "Draw 2 Don"
+  },
+  "log-280": {
+    "player": "EDUDD",
+    "action": "Attacking",
+    "attacker": "Alvida",
+    "attacker_id": "ST25-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-281": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "Trafalgar Law",
+    "card_id": "ST10-010",
+    "counter_value": 1000
+  },
+  "log-282": {
+    "player": "EDUDD",
+    "action": "Attack details",
+    "attacker": "Alvida",
+    "attacker_id": "ST25-001",
+    "attacker_power": 5000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 6000
+  },
+  "log-283": {
+    "player": null,
+    "action": "Attack Fails"
+  },
+  "log-284": {
+    "player": "EDUDD",
+    "action": "Trash",
+    "card": "Alvida",
+    "card_id": "ST25-001"
+  },
+  "log-285": {
+    "player": "EDUDD",
+    "action": "Deploy",
+    "card": "Mr. 3 (Galdino)",
+    "card_id": "OP09-056"
+  },
+  "log-286": {
+    "player": "EDUDD",
+    "action": "Reveal and Draw",
+    "card": "Mohji",
+    "card_id": "ST25-005"
+  },
+  "log-287": {
+    "player": "EDUDD",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-288": {
+    "player": "EDUDD",
+    "action": "Attach Don",
+    "don_amount": 1,
+    "to_card": "Crocodile",
+    "to_card_id": "OP09-046",
+    "total_don": 1
+  },
+  "log-289": {
+    "player": "EDUDD",
+    "action": "Attacking",
+    "attacker": "Crocodile",
+    "attacker_id": "OP09-046",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-290": {
+    "player": "Mhcuber",
+    "action": "Card Effect",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078",
+    "effect": "Trash Gamma Knife",
+    "trashed_card_id": "OP05-077"
+  },
+  "log-291": {
+    "player": "Mhcuber",
+    "action": "Card Effect",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078",
+    "effect": "Buff Monkey D. Luffy 4000 for the Combat",
+    "buffed_card_id": "OP05-060",
+    "buff_amount": 4000
+  },
+  "log-292": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Franosuke",
+    "card_id": "OP05-070"
+  },
+  "log-293": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Franosuke",
+    "card_id": "OP05-070"
+  },
+  "log-294": {
+    "player": "Mhcuber",
+    "action": "Card Effect",
+    "card": "Gum Gum Giant",
+    "card_id": "OP09-078",
+    "effect": "Draw 2 Card"
+  },
+  "log-295": {
+    "player": "EDUDD",
+    "action": "Attack details",
+    "attacker": "Crocodile",
+    "attacker_id": "OP09-046",
+    "attacker_power": 8000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 9000
+  },
+  "log-296": {
+    "player": null,
+    "action": "Attack Fails"
+  },
+  "log-297": {
+    "player": "EDUDD",
+    "action": "Attacking",
+    "attacker": "Buggy",
+    "attacker_id": "OP09-042",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-298": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "Franosuke",
+    "card_id": "OP05-070",
+    "counter_value": 2000
+  },
+  "log-299": {
+    "player": "EDUDD",
+    "action": "Attack details",
+    "attacker": "Buggy",
+    "attacker_id": "OP09-042",
+    "attacker_power": 5000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 7000
+  },
+  "log-300": {
+    "player": null,
+    "action": "Attack Fails"
+  },
+  "log-301": {
+    "player": "EDUDD",
+    "action": "Attacking",
+    "attacker": "Alvida",
+    "attacker_id": "ST25-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
+  },
+  "log-302": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "Franosuke",
+    "card_id": "OP05-070",
+    "counter_value": 2000
+  },
+  "log-303": {
+    "player": "EDUDD",
+    "action": "Attack details",
+    "attacker": "Alvida",
+    "attacker_id": "ST25-001",
+    "attacker_power": 5000,
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060",
+    "defender_power": 7000
+  },
+  "log-304": {
+    "player": null,
+    "action": "Attack Fails"
+  },
+  "log-305": {
+    "player": "EDUDD",
+    "action": "Attacking",
+    "attacker": "Mr. 1 (Daz Bonez)",
+    "attacker_id": "EB01-027",
+    "defender": "Sangoro",
+    "defender_id": "ST18-003"
+  },
+  "log-306": {
+    "player": "Mhcuber",
+    "action": "Blocks",
+    "card": "Charlotte Katakuri",
+    "card_id": "OP11-067"
+  },
+  "log-307": {
+    "player": "EDUDD",
+    "action": "Attack details",
+    "attacker": "Mr. 1 (Daz Bonez)",
+    "attacker_id": "EB01-027",
+    "attacker_power": 6000,
+    "defender": "Charlotte Katakuri",
+    "defender_id": "OP11-067",
+    "defender_power": 8000
+  },
+  "log-308": {
+    "player": null,
+    "action": "Attack Fails"
+  },
+  "log-309": {
+    "player": "EDUDD",
+    "action": "Attacking",
+    "attacker": "Buggy",
+    "attacker_id": "OP09-051",
+    "defender": "Charlotte Katakuri",
+    "defender_id": "OP11-067"
+  },
+  "log-310": {
+    "player": "EDUDD",
+    "action": "Attack details",
+    "attacker": "Buggy",
+    "attacker_id": "OP09-051",
+    "attacker_power": 12000,
+    "defender": "Charlotte Katakuri",
+    "defender_id": "OP11-067",
+    "defender_power": 8000
+  },
+  "log-311": {
+    "player": "Mhcuber",
+    "action": "Card Destroyed",
+    "card": "Charlotte Katakuri",
+    "card_id": "OP11-067"
+  },
+  "log-312": {
+    "player": "EDUDD",
+    "action": "Trash",
+    "card": "Mr. 3 (Galdino)",
+    "card_id": "OP09-056"
+  },
+  "log-313": {
+    "player": "EDUDD",
+    "action": "Deploy",
+    "card": "Mohji",
+    "card_id": "ST25-005"
+  },
+  "log-314": {
+    "player": "EDUDD",
+    "action": "Trash",
+    "card": "Alvida",
+    "card_id": "ST25-001"
+  },
+  "log-315": {
+    "player": "EDUDD",
+    "action": "Deploy",
+    "card": "Mohji",
+    "card_id": "ST25-005"
+  },
+  "log-316": {
+    "player": "EDUDD",
+    "action": "End Turn"
+  },
+  "log-317": {
+    "player": "Mhcuber",
+    "action": "Hand",
+    "cards": [
+      "OP09-119",
+      "OP05-070"
+    ]
+  },
+  "log-318": {
+    "player": "Mhcuber",
+    "action": "Board",
+    "cards": [
+      "ST18-003"
+    ]
+  },
+  "log-319": {
+    "player": "Mhcuber",
+    "action": "Trash",
+    "cards": [
+      "ST18-003",
+      "OP05-070",
+      "ST18-001",
+      "OP06-076",
+      "OP09-078",
+      "OP09-078",
+      "ST18-001",
+      "ST18-001",
+      "EB01-061",
+      "ST18-003",
+      "ST18-003",
+      "ST10-010",
+      "OP09-078",
+      "OP05-077",
+      "OP05-070",
+      "OP05-070",
+      "OP11-067"
+    ]
+  },
+  "log-320": {
+    "player": "Mhcuber",
+    "action": "Life",
+    "value": 1
+  },
+  "log-321": {
+    "player": "EDUDD",
+    "action": "Hand",
+    "cards": [
+      "ST25-001",
+      "ST25-002",
+      "ST25-004"
+    ]
+  },
+  "log-322": {
+    "player": "EDUDD",
+    "action": "Trash",
+    "cards": [
+      "OP03-056",
+      "P-084",
+      "OP03-056",
+      "OP03-056",
+      "ST25-004",
+      "OP09-045",
+      "ST25-002",
+      "OP11-059",
+      "OP09-056",
+      "P-084",
+      "ST25-004",
+      "ST25-001",
+      "OP09-056",
+      "ST25-002",
+      "ST25-002",
+      "ST25-001",
+      "OP09-056",
+      "ST25-001"
+    ]
+  },
+  "log-323": {
+    "player": "EDUDD",
+    "action": "Board",
+    "cards": [
+      "OP09-046",
+      "EB01-027",
+      "OP09-051",
+      "ST25-005",
+      "ST25-005"
+    ]
+  },
+  "log-324": {
+    "player": "EDUDD",
+    "action": "Life",
+    "value": 2
+  },
+  "log-325": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-326": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "OP07-064"
+  },
+  "log-327": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-328": {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "Monkey D. Luffy",
+    "card_id": "OP09-119"
+  },
+  "log-329": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "OP07-064"
+  },
+  "log-330": {
+    "player": "Monkey D. Luffy",
+    "action": "Draw 1 Card",
+    "card_id": "OP09-119"
+  },
+  "log-331": {
+    "player": "Monkey D. Luffy",
+    "action": "Give Rush",
+    "card_id": "OP09-119"
+  },
+  "log-332": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Sangoro",
+    "attacker_id": "ST18-003",
+    "defender": "Buggy",
+    "defender_id": "OP09-042"
+  },
+  "log-333": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "Ragnarok",
+    "card_id": "EB01-039"
+  },
+  "log-334": {
+    "player": "Mhcuber",
+    "action": "Card Effect",
+    "card": "Sangoro",
+    "card_id": "ST18-003",
+    "effect": "Draw 1 Card"
+  },
+  "log-335": {
+    "player": "EDUDD",
+    "action": "Discard for Counter",
+    "card": "Cabaji",
+    "card_id": "ST25-002",
+    "counter_value": 2000
+  },
+  "log-336": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Sangoro",
+    "attacker_id": "ST18-003",
+    "attacker_power": 6000,
+    "defender": "Buggy",
+    "defender_id": "OP09-042",
+    "defender_power": 7000
+  },
+  "log-337": {
+    "player": null,
+    "action": "Attack Fails"
+  },
+  "log-338": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Buggy",
+    "defender_id": "OP09-042"
+  },
+  "log-339": {
+    "player": "EDUDD",
+    "action": "Discard for Counter",
+    "card": "Buggy",
+    "card_id": "ST25-004",
+    "counter_value": 1000
+  },
+  "log-340": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "attacker_power": 5000,
+    "defender": "Buggy",
+    "defender_id": "OP09-042",
+    "defender_power": 6000
+  },
+  "log-341": {
+    "player": null,
+    "action": "Attack Fails"
+  },
+  "log-342": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP09-119",
+    "defender": "Crocodile",
+    "defender_id": "OP09-046"
+  },
+  "log-343": {
+    "player": "EDUDD",
+    "action": "Blocks",
+    "card": "Mohji",
+    "card_id": "ST25-005"
+  },
+  "log-344": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP09-119",
+    "attacker_power": 10000,
+    "defender": "Mohji",
+    "defender_id": "ST25-005",
+    "defender_power": 1000
+  },
+  "log-345": {
+    "player": "EDUDD",
+    "action": "Card Destroyed",
+    "card": "Mohji",
+    "card_id": "ST25-005"
+  },
+  "log-346": {
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "Buggy",
+    "card_id": "OP09-051"
+  },
+  "log-347": {
+    "player": "Mohji",
+    "action": "Draw 1 Card",
+    "card_id": "ST25-005"
+  },
+  "log-348": {
+    "player": "Mhcuber",
+    "action": "Concedes!"
+  },
+  "log-349": {
+    "player": "Mhcuber",
+    "action": "Loses"
+  },
+  "players": {
+    "Mhcuber": {
+      "leader": "Monkey D. Luffy",
+      "leader_id": "OP05-060",
+      "drawn_cards": 25,
+      "discarded_cards": 10,
+      "deployed_cards": 5,
+      "trashed_cards": 11,
+      "destroyed_cards": 3
+    },
+    "EDUDD": {
+      "leader": "Buggy",
+      "leader_id": "OP09-042",
+      "drawn_cards": 26,
+      "discarded_cards": 6,
+      "deployed_cards": 7,
+      "trashed_cards": 17,
+      "destroyed_cards": 1
+    }
+  },
+  "game_outcome": {
+    "winner": {
+      "player_name": "EDUDD",
+      "leader": "Buggy"
+    },
+    "loser": {
+      "player_name": "Mhcuber",
+      "leader": "Monkey D. Luffy"
+    },
+    "how_ended": "Conceded"
+  }
+}
