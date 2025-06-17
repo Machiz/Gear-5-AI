@@ -12,6 +12,7 @@ from collections import defaultdict
 class OnePieceTCGEnv(gym.Env):
     def __init__(self):
         self.action_space = Discrete()
+        self.action_space = Box(low)
         """
         consultar cual usar
         0: loss

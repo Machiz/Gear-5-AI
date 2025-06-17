@@ -1,134 +1,203 @@
 import gym
 from gym import spaces
 import numpy as np
-import json
-import os
+import random
 
-class OnePieceReplayEnv(gym.Env):
+class OnePieceTCGEnv(gym.Env):
     """
-    Entorno Gym personalizado para el juego One Piece Card Game,
-    basado en un archivo de logs JSON con datos reales de partida.
-    Este entorno reproduce las jugadas secuenciales del log y permite
-    al agente aprender de ambas perspectivas (ambos jugadores).
+    Entorno Gym completo para One Piece Card Game, ahora con:
+    - Campo con estado active/rested
+    - Clasificación por tipo (blocker, rush...)
     """
+
     def __init__(self, logs, catalogo_cartas):
-        super().__init__()
+        super(OnePieceTCGEnv, self).__init__()
+
         self.logs = logs
         self.catalogo = catalogo_cartas
-        """
-        Inicializa el entorno leyendo el archivo de log JSON.
-        - log_path: ruta al archivo de log con la partida.
-        """
-        super(OnePieceReplayEnv, self).__init__()
+        self.max_mano = 15
+        self.max_board = 5
 
-
-        # Ordenamos las claves del log (ej: log-001, log-002...)
-        self.sorted_keys = sorted(self.log_data.keys())
-        self.pointer = 0  # Apunta al paso actual del replay
-
-        # Definimos un máximo de 10 cartas en mano, -1 representa un slot vacío
-        self.max_mano = 10
-        self.num_cartas_posibles = 200  # Asumimos 200 cartas distintas (ajustable)
-
-        # Observación: dict con la mano, vida y dones del jugador actual
+        # Espacio de observación extendido
         self.observation_space = spaces.Dict({
-            "mano": spaces.Box(low=-1, high=self.num_cartas_posibles - 1,
-                               shape=(self.max_mano,), dtype=np.int32),
-            "vida": spaces.Discrete(6),
-            "don": spaces.Discrete(11)
+            "mano_coste": spaces.Box(0, 10, (self.max_mano,), dtype=np.int32),
+            "mano_poder": spaces.Box(0, 13000, (self.max_mano,), dtype=np.int32),
+            "mano_counter": spaces.Box(0, 2000, (self.max_mano,), dtype=np.int32),
+            "mano_tipo_blocker": spaces.MultiBinary(self.max_mano),
+            "mano_tipo_rush": spaces.MultiBinary(self.max_mano),
+
+            "board_poder": spaces.Box(0, 13000, (self.max_board,), dtype=np.int32),
+            "board_estado": spaces.MultiBinary(self.max_board),
+            "board_tipo_blocker": spaces.MultiBinary(self.max_board),
+            "board_tipo_rush": spaces.MultiBinary(self.max_board),
+
+            "trash_count": spaces.Discrete(40),
+            "vida": spaces.Discrete(5),
         })
 
-        # Acción: pasar (0), jugar cartas 1-10 (slot de la mano)
-        self.action_space = spaces.Discrete(self.max_mano + 1)
+        self.action_space = spaces.Discrete(self.max_mano + 1 + self.max_board)
 
-        # Estado interno (se inicializa al hacer reset)
-        self.current_obs = None
+        self.pointer = 0
+        self.log_actual = None
+        self.log_keys = []
         self.done = False
+        self.current_obs = None
 
     def reset(self):
-        """
-        Reinicia el entorno al primer paso del log.
-        Devuelve la primera observación.
-        """
+        self.log_actual = random.choice(self.logs)
+        self.log_keys = sorted(self.log_actual.keys())
         self.pointer = 0
         self.done = False
 
-        # Avanza hasta el primer estado válido
-        while self.pointer < len(self.sorted_keys):
-            step_data = self.log_data[self.sorted_keys[self.pointer]]
-            if self._es_paso_de_jugador(step_data):
-                self.current_obs = self._extraer_observacion(step_data)
+        while self.pointer < len(self.log_keys):
+            step = self.log_actual[self.log_keys[self.pointer]]
+            if self._es_estado_completo(step):
+                self.current_obs = self._extraer_observacion(step)
                 return self.current_obs
             self.pointer += 1
 
-        raise Exception("No se encontró un paso de jugador válido en el log.")
+        raise Exception("No se encontró estado inicial válido.")
 
     def step(self, action):
-        """
-        Recibe una acción del agente, y devuelve la tupla:
-        (obs_siguiente, recompensa, done, info)
-        """
-        if self.pointer >= len(self.sorted_keys):
-            self.done = True
-            return self.current_obs, 0.0, self.done, {}
+        reward = 0.0
+        done = False
+        info = {}
+        next_obs = self.current_obs
+        prev_obs = self.current_obs  # snapshot para comparar
 
-        paso_actual = self.log_data[self.sorted_keys[self.pointer]]
-
-        # Asignamos una recompensa según si la acción coincide con la del jugador humano
-        accion_real = self._extraer_accion(paso_actual)
-        reward = 1.0 if action == accion_real else -0.1
-
-        # ¿Terminó la partida? Asumimos que el campo `game_result` marca eso
-        self.done = paso_actual.get("game_result", "") in ["win", "lose"]
-
-        # Avanzamos al siguiente paso que sea de un jugador (ignoramos cosas como draws)
-        self.pointer += 1
-        while self.pointer < len(self.sorted_keys):
-            siguiente = self.log_data[self.sorted_keys[self.pointer]]
-            if self._es_paso_de_jugador(siguiente):
-                self.current_obs = self._extraer_observacion(siguiente)
-                break
+        while self.pointer < len(self.log_keys) - 1:
             self.pointer += 1
+            step = self.log_actual[self.log_keys[self.pointer]]
+            accion_log = step.get("action", "")
 
-        return self.current_obs, reward, self.done, {}
+            vida_actual = step.get("life", prev_obs["vida"])
+
+            # 🎯 Recompensas y castigos intermedios
+            if accion_log == "Played card":
+                if 1 <= action <= self.max_mano:
+                    reward += 1
+                else:
+                    reward -= 1
+
+            elif accion_log == "Attacking":
+                if action >= self.max_mano + 1:
+                    reward += 2
+                else:
+                    reward -= 2
+
+            elif accion_log == "End turn":
+                if action == 0:
+                    reward += 1
+                else:
+                    reward -= 1
+            if accion_log == "Life state" and step.get("life", 1) <= 0:
+                done = True
+                reward = 5.0  
+            # 🔻 Castigo por recibir daño
+            if vida_actual < prev_obs["vida"]:
+                reward -= 3
+
+            # 🔻 Castigo por jugar en slot vacío
+            #if 1 <= action <= self.max_mano:
+            #    idx = action - 1
+            #    if prev_obs["mano_coste"][idx] == 0:
+            #       reward -= 1.0
+
+        # 🔻 Castigo por atacar con carta descansada
+            if action >= self.max_mano + 1:
+                idx = action - (self.max_mano + 1)
+                if prev_obs["board_estado"][idx] == 0:
+                    reward -= 1.0
+
+        # 🔻 Castigo por no actuar cuando debía
+            #if accion_log == "Played card" and action == 0:
+            #    reward -= 0.5
+
+        # ✅ ÚLTIMO: castigo por perder la partida
+            if vida_actual <= 0:
+                reward = 0
+                done = True
+                info["reason"] = "lost"
+                break
+
+        # 🧠 Si encontramos estado jugable, salimos del bucle
+            if self._es_estado_completo(step):
+                next_obs = self._extraer_observacion(step)
+                break
+
+        self.current_obs = next_obs
+        self.done = done
+        return next_obs, reward, done, info
+
+
 
     def render(self, mode="human"):
-        """
-        Representación simple por consola del estado actual.
-        """
-        print("Vida:", self.current_obs["vida"])
-        print("Don:", self.current_obs["don"])
-        print("Mano:", self.current_obs["mano"])
+        print(" VIDA:", self.current_obs["vida"])
+        print(" MANO (coste):", self.current_obs["mano_coste"])
+        print(" BOARD (poder):", self.current_obs["board_poder"])
+        print(" BOARD (activo):", self.current_obs["board_estado"])
+        print(" BLOCKER:", self.current_obs["board_tipo_blocker"])
+        print(" RUSH:", self.current_obs["board_tipo_rush"])
 
-    ### Métodos auxiliares
-
-    def _es_paso_de_jugador(self, paso):
-        """
-        Determina si este paso corresponde a una acción jugable (no shuffle, draw, etc.)
-        """
-        return "mano" in paso and "vida" in paso and "don" in paso
+    def _es_estado_completo(self, paso):
+        return (
+            paso.get("action") in ["Hand state", "Board state", "Life state", "Trash state"]
+            and "cards" in paso and "life" in paso
+        )
 
     def _extraer_observacion(self, paso):
-        """
-        Extrae la observación desde un paso del log.
-        Retorna un diccionario compatible con `observation_space`.
-        """
-        mano = paso.get("mano", [])
-        # Convertimos a array de longitud fija
-        mano_array = np.full((self.max_mano,), -1, dtype=np.int32)
-        for i, carta in enumerate(mano[:self.max_mano]):
-            mano_array[i] = carta
+        mano_ids = paso.get("cards", [])
+        mano_coste = np.zeros(self.max_mano, dtype=np.int32)
+        mano_poder = np.zeros(self.max_mano, dtype=np.int32)
+        mano_counter = np.zeros(self.max_mano, dtype=np.int32)
+        mano_tipo_blocker = np.zeros(self.max_mano, dtype=np.int32)
+        mano_tipo_rush = np.zeros(self.max_mano, dtype=np.int32)
+
+        for i in range(min(len(mano_ids), self.max_mano)):
+            carta = self.catalogo.get(mano_ids[i], {})
+            mano_coste[i] = carta.get("cost", 0)
+            mano_poder[i] = carta.get("power", 0)
+            mano_counter[i] = carta.get("counter", 0)
+
+            efecto = (carta.get("effect", "") or "") + (carta.get("type", "") or "")
+            mano_tipo_blocker[i] = int("Blocker" in efecto)
+            mano_tipo_rush[i] = int("Rush" in efecto)
+
+        board_cards = paso.get("board", [])
+        board_poder = np.zeros(self.max_board, dtype=np.int32)
+        board_estado = np.ones(self.max_board, dtype=np.int32)  # Default: active
+        board_tipo_blocker = np.zeros(self.max_board, dtype=np.int32)
+        board_tipo_rush = np.zeros(self.max_board, dtype=np.int32)
+
+        for i in range(min(len(board_cards), self.max_board)):
+            if isinstance(board_cards[i], dict):
+                card_id = board_cards[i].get("card_id")
+                rested = board_cards[i].get("rested", False)
+            else:
+                card_id = board_cards[i]
+                rested = False  # si no hay estado, asumimos activo
+
+            carta = self.catalogo.get(card_id, {})
+            board_poder[i] = carta.get("power", 0)
+            board_estado[i] = int(not rested)
+
+            efecto = (carta.get("effect", "") or "") + (carta.get("type", "") or "")
+            board_tipo_blocker[i] = int("Blocker" in efecto)
+            board_tipo_rush[i] = int("Rush" in efecto)
+
+        trash = paso.get("trash", [])
+        trash_count = len(trash)
 
         return {
-            "mano": mano_array,
-            "vida": paso.get("vida", 0),
-            "don": paso.get("don", 0)
+            "mano_coste": mano_coste,
+            "mano_poder": mano_poder,
+            "mano_counter": mano_counter,
+            "mano_tipo_blocker": mano_tipo_blocker,
+            "mano_tipo_rush": mano_tipo_rush,
+            "board_poder": board_poder,
+            "board_estado": board_estado,
+            "board_tipo_blocker": board_tipo_blocker,
+            "board_tipo_rush": board_tipo_rush,
+            "trash_count": trash_count,
+            "vida": paso.get("life", 0)
         }
-
-    def _extraer_accion(self, paso):
-        """
-        Extrae la acción jugada en este paso. 
-        Por ahora asumimos que viene como índice (0 = pasar, 1-10 jugar carta i-1).
-        Este método se puede adaptar si tus logs usan nombres o descripciones.
-        """
-        return paso.get("action_id", 0)  # default: pasar

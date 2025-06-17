@@ -5,8 +5,8 @@ import numpy as np
 import gym
 import tensorflow as tf
 import matplotlib.pyplot as plt
-import optcg_env
-from optcg_env import OnePieceTCGEnv
+import gpt_env
+from gpt_env import OnePieceTCGEnv
 def read_log_files(directory_path):
     data_list = []
     for filename in os.listdir(directory_path):
