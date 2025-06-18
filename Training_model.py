@@ -7,9 +7,9 @@ from keras.models import load_model
 class ReplayBuffer():
     def __init__(self, max_size, input_dims):
         self.mem_size = max_size
-        self.mem.cntr = 0
+        self.mem_cntr = 0
 
-        self.state_memory = np.zeoros((self.mem_size, *input_dims), dtype = np.float32)
+        self.state_memory = np.zeros((self.mem_size, *input_dims), dtype = np.float32)
         self.new_state_memory = np.zeros((self.mem_size, *input_dims), dtype=np.float32)
         self.action_memory = np.zeros(self.mem_size, dtype=np.int32)
         self.reward_memory = np.zeros(self.mem_size, dtype=np.int32)
@@ -53,7 +53,7 @@ class Agent():
         self.epsilon = epsilon
         self.eps_dec = epsilon_dec
         self.eps_min = epsion_end
-        self.batch.size = batch_size
+        self.batch_size = batch_size
         self.model_file = fname
         self.memory = ReplayBuffer(mem_size, input_dims)
         self.q_eval = build_dqn(lr, n_actions, input_dims, 256, 256)
@@ -62,7 +62,7 @@ class Agent():
         self.memory.store_transition(state, action, reward, new_state, done)
     
     def choose_action(self, observation):
-        if np.random()< self.epsilon:
+        if np.random.rand()< self.epsilon:
             action = np.random.choice(self.action_space)
         else:
             state = np.array([observation])

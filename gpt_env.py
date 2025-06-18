@@ -32,7 +32,7 @@ class OnePieceTCGEnv(gym.Env):
             "board_tipo_rush": spaces.MultiBinary(self.max_board),
 
             "trash_count": spaces.Discrete(40),
-            "vida": spaces.Discrete(5),
+            "vida": spaces.Discrete(6),
         })
 
         self.action_space = spaces.Discrete(self.max_mano + 1 + self.max_board)
@@ -42,6 +42,14 @@ class OnePieceTCGEnv(gym.Env):
         self.log_keys = []
         self.done = False
         self.current_obs = None
+    def _extraer_observacion_combinada(self, paso_cards, paso_life):
+        """
+        Une dos pasos consecutivos: uno con 'cards' y otro con 'life',
+        útil cuando están separados en el log.
+        """
+        combinado = dict(paso_cards)
+        combinado["life"] = paso_life.get("life", 0)
+        return self._extraer_observacion(combinado)
 
     def reset(self):
         self.log_actual = random.choice(self.logs)
@@ -49,15 +57,37 @@ class OnePieceTCGEnv(gym.Env):
         self.pointer = 0
         self.done = False
 
-        while self.pointer < len(self.log_keys):
-            step = self.log_actual[self.log_keys[self.pointer]]
-            if self._es_estado_completo(step):
-                self.current_obs = self._extraer_observacion(step)
-                return self.current_obs
-            self.pointer += 1
+        # Últimos valores conocidos
+        mano = []
+        board = []
+        trash = []
+        vida = 5  # valor por defecto
 
-        raise Exception("No se encontró estado inicial válido.")
+        for key in self.log_keys:
+            paso = self.log_actual[key]
 
+            if "cards" in paso and paso.get("action") == "Hand state":
+                mano = paso["cards"]
+
+            if "board" in paso and paso.get("action") == "Board state":
+                board = paso["board"]
+
+            if "trash" in paso and paso.get("action") == "Trash state":
+                trash = paso["trash"]
+
+            if "life" in paso and paso.get("action") == "Life state":
+                vida = paso["life"]
+
+    # Construimos el estado manualmente
+        paso_completo = {
+            "cards": mano,
+            "board": board,
+            "trash": trash,
+            "life": vida
+        }
+
+        self.current_obs = self._extraer_observacion(paso_completo)
+        return self.current_obs
     def step(self, action):
         reward = 0.0
         done = False
@@ -128,8 +158,6 @@ class OnePieceTCGEnv(gym.Env):
         self.current_obs = next_obs
         self.done = done
         return next_obs, reward, done, info
-
-
 
     def render(self, mode="human"):
         print(" VIDA:", self.current_obs["vida"])

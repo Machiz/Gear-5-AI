@@ -1,33 +1,12 @@
 from Training_model import Agent
-import json
-import os
 import numpy as np
+import env_registry
+from gym.spaces.utils import flatten
+from gym.spaces.utils import flatten_space
 import gym
 import tensorflow as tf
 import matplotlib.pyplot as plt
 import gpt_env
-from gpt_env import OnePieceTCGEnv
-def read_log_files(directory_path):
-    data_list = []
-    for filename in os.listdir(directory_path):
-        if filename.endswith('.json'):
-            file_path = os.path.join(directory_path, filename)
-            with open(file_path, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-                data_list.append(data)
-    return data_list
-def read_card_files(directory_path):
-    card_list = []
-    for filename in os.listdir(directory_path):
-        if filename.endswith('.json'):
-            file_path = os.path.join(directory_path, filename)
-            with open(file_path, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-                card_list.append(data)
-    return card_list
-
-catalogo = read_card_files("assets/JSON/Cards")
-logs = read_log_files("assets/JSON/Battle_log")
 
 def plot_learning_curve(x, scores, eps_history, filename):
     fig, ax1 = plt.subplots()
@@ -56,11 +35,12 @@ def plot_learning_curve(x, scores, eps_history, filename):
         plt.show()
 
 if __name__ == '__main__':
+    iteracion =[]
     tf.compat.v1.disable_eager_execution()
-    env = OnePieceTCGEnv(game_logs_path='assets/JSON/Battle_log', cards_path='assets/JSON/Cards')#need explanation and correction
-    lr = 0.001
-    n_games = 2000
-    agent = Agent(gamma = 0.99, epsilon = 1.0, lr = lr, input_dims = env.observation_space.shape, n_actions = env.action_space.n, mem_size = 1000000, batch_size = 64, epsilon_end = 0.01)
+    env = gym.make("OnePieceTCG-v0")
+    lr = 0.00005
+    n_games = 5000
+    agent = Agent(gamma = 0.99, epsilon = 1.0, lr = lr, input_dims = flatten_space(env.observation_space).shape, n_actions = env.action_space.n, mem_size = 10000, batch_size = 64)
     scores = []
     eps_history = []
     for i in range(n_games):
@@ -69,10 +49,12 @@ if __name__ == '__main__':
         observation = env.reset()
         while not done:
             action = agent.choose_action(observation)
-            observation_, reward, done, info =  env.step(action)
+            obs_, reward, done, info =  env.step(action)
+            obs = flatten(env.observation_space, observation)
+            obs_ = flatten(env.observation_space, obs_)
             score += reward
-            agent.store_transition(observation, action, reward, observation_, done)
-            observation = observation_
+            agent.store_transition(obs, action, reward, obs_, done)
+            obs = obs_
             agent.learn()
         eps_history.append(agent.epsilon)
         scores.append(score)
