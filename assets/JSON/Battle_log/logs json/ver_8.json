@@ -1,0 +1,1670 @@
+{
+  "log-001": {
+    "player": "System",
+    "action": "Attempting to connect to Q9HMKG"
+  },
+  "log-002": {
+    "player": "System",
+    "action": "Version is 1.29b"
+  },
+  "log-003": {
+    "player": "JaramishoTCG",
+    "action": "Leader is Rob Lucci",
+    "card": "OP07-079"
+  },
+  "log-004": {
+    "player": "rintosh1",
+    "action": "Player connected"
+  },
+  "log-005": {
+    "player": "System",
+    "action": "Version is 1.29b"
+  },
+  "log-006": {
+    "player": "rintosh1",
+    "action": "Leader is Shanks",
+    "card": "OP09-001"
+  },
+  "log-007": {
+    "player": "JaramishoTCG",
+    "action": "Chose to go Second"
+  },
+  "log-008": {
+    "player": "JaramishoTCG",
+    "action": "Drew card from deck",
+    "card": "EB01-048"
+  },
+  "log-009": {
+    "player": "JaramishoTCG",
+    "action": "Drew card from deck",
+    "card": "OP05-081"
+  },
+  "log-010": {
+    "player": "JaramishoTCG",
+    "action": "Drew card from deck",
+    "card": "OP04-089"
+  },
+  "log-011": {
+    "player": "JaramishoTCG",
+    "action": "Drew card from deck",
+    "card": "OP02-106"
+  },
+  "log-012": {
+    "player": "JaramishoTCG",
+    "action": "Drew card from deck",
+    "card": "EB01-048"
+  },
+  "log-013": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-015"
+  },
+  "log-014": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP01-006"
+  },
+  "log-015": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP07-015"
+  },
+  "log-016": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP07-015"
+  },
+  "log-017": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-009"
+  },
+  "log-018": {
+    "player": "rintosh1",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "OP09-015",
+      "OP01-006",
+      "OP07-015",
+      "OP07-015",
+      "OP09-009"
+    ]
+  },
+  "log-019": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-014"
+  },
+  "log-020": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-009"
+  },
+  "log-021": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP03-013"
+  },
+  "log-022": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP08-118"
+  },
+  "log-023": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP08-118"
+  },
+  "log-024": {
+    "player": "rintosh1",
+    "action": "Hand after Mulligan",
+    "cards": [
+      "OP09-014",
+      "OP09-009",
+      "OP03-013",
+      "OP08-118",
+      "OP08-118"
+    ]
+  },
+  "log-025": {
+    "player": "rintosh1",
+    "action": "Mulligan"
+  },
+  "log-026": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-014",
+      "OP09-009",
+      "OP03-013",
+      "OP08-118",
+      "OP08-118"
+    ]
+  },
+  "log-027": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-028": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-029": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-030": {
+    "player": "JaramishoTCG",
+    "action": "Hand state",
+    "cards": [
+      "EB01-048",
+      "OP05-081",
+      "OP04-089",
+      "OP02-106",
+      "EB01-048"
+    ]
+  },
+  "log-031": {
+    "player": "JaramishoTCG",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-032": {
+    "player": "JaramishoTCG",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-033": {
+    "player": "JaramishoTCG",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-034": {
+    "player": "rintosh1",
+    "action": "Draw 1 Don"
+  },
+  "log-035": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-014",
+      "OP09-009",
+      "OP03-013",
+      "OP08-118",
+      "OP08-118"
+    ]
+  },
+  "log-036": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-037": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-038": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-039": {
+    "player": "JaramishoTCG",
+    "action": "Hand state",
+    "cards": [
+      "EB01-048",
+      "OP05-081",
+      "OP04-089",
+      "OP02-106",
+      "EB01-048"
+    ]
+  },
+  "log-040": {
+    "player": "JaramishoTCG",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-041": {
+    "player": "JaramishoTCG",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-042": {
+    "player": "JaramishoTCG",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-043": {
+    "player": "rintosh1",
+    "action": "End Turn"
+  },
+  "log-044": {
+    "player": "JaramishoTCG",
+    "action": "Draw 1 Card"
+  },
+  "log-045": {
+    "player": "JaramishoTCG",
+    "action": "Drew card from deck",
+    "card": "OP05-081"
+  },
+  "log-046": {
+    "player": "JaramishoTCG",
+    "action": "Draw 2 Don"
+  },
+  "log-047": {
+    "player": "JaramishoTCG",
+    "action": "Deploy One-Legged Soldier",
+    "card": "OP05-081"
+  },
+  "log-048": {
+    "player": "JaramishoTCG",
+    "action": "End Turn"
+  },
+  "log-049": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-014",
+      "OP09-009",
+      "OP03-013",
+      "OP08-118",
+      "OP08-118"
+    ]
+  },
+  "log-050": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-051": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-052": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-053": {
+    "player": "JaramishoTCG",
+    "action": "Hand state",
+    "cards": [
+      "EB01-048",
+      "OP04-089",
+      "OP02-106",
+      "EB01-048",
+      "OP05-081"
+    ]
+  },
+  "log-054": {
+    "player": "JaramishoTCG",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-055": {
+    "player": "JaramishoTCG",
+    "action": "Board state",
+    "cards": [
+      "OP05-081"
+    ]
+  },
+  "log-056": {
+    "player": "JaramishoTCG",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-057": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-011"
+  },
+  "log-058": {
+    "player": "rintosh1",
+    "action": "Draw 1 Card"
+  },
+  "log-059": {
+    "player": "rintosh1",
+    "action": "Draw 2 Don"
+  },
+  "log-060": {
+    "player": "rintosh1",
+    "action": "Attach Don",
+    "card": "OP09-001",
+    "total": 3
+  },
+  "log-061": {
+    "player": "rintosh1",
+    "action": "Shanks attacking Rob Lucci",
+    "source_card": "OP09-001",
+    "target_card": "OP07-079"
+  },
+  "log-062": {
+    "player": "JaramishoTCG",
+    "action": "Discard for Counter",
+    "card": "OP04-089",
+    "counter_amount": 2000
+  },
+  "log-063": {
+    "player": "JaramishoTCG",
+    "action": "Discard for Counter",
+    "card": "OP05-081",
+    "counter_amount": 2000
+  },
+  "log-064": {
+    "player": "System",
+    "action": "Attack",
+    "attacker": "OP09-001",
+    "attacker_power": 8000,
+    "defender": "OP07-079",
+    "defender_power": 9000
+  },
+  "log-065": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-066": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-014",
+      "OP09-009",
+      "OP03-013",
+      "OP08-118",
+      "OP08-118",
+      "OP09-011"
+    ]
+  },
+  "log-067": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-068": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-069": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-070": {
+    "player": "JaramishoTCG",
+    "action": "Hand state",
+    "cards": [
+      "EB01-048",
+      "OP02-106",
+      "EB01-048"
+    ]
+  },
+  "log-071": {
+    "player": "JaramishoTCG",
+    "action": "Trash state",
+    "cards": [
+      "OP04-089",
+      "OP05-081"
+    ]
+  },
+  "log-072": {
+    "player": "JaramishoTCG",
+    "action": "Board state",
+    "cards": [
+      "OP05-081"
+    ]
+  },
+  "log-073": {
+    "player": "JaramishoTCG",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-074": {
+    "player": "rintosh1",
+    "action": "End Turn"
+  },
+  "log-075": {
+    "player": "JaramishoTCG",
+    "action": "Draw 1 Card"
+  },
+  "log-076": {
+    "player": "JaramishoTCG",
+    "action": "Drew card from deck",
+    "card": "OP02-106"
+  },
+  "log-077": {
+    "player": "JaramishoTCG",
+    "action": "Draw 2 Don"
+  },
+  "log-078": {
+    "player": "JaramishoTCG",
+    "action": "Deploy Laboon",
+    "card": "EB01-048"
+  },
+  "log-079": {
+    "player": "JaramishoTCG",
+    "action": "Rob Lucci attacking Shanks",
+    "source_card": "OP07-079",
+    "target_card": "OP09-001"
+  },
+  "log-080": {
+    "player": "JaramishoTCG",
+    "action": "Trash 2 Cards from Deck",
+    "source_card": "OP07-079"
+  },
+  "log-081": {
+    "player": "rintosh1",
+    "action": "Buff Rob Lucci",
+    "source_card": "OP09-001",
+    "target_card": "OP07-079",
+    "buff_amount": -1000
+  },
+  "log-082": {
+    "player": "System",
+    "action": "Attack",
+    "attacker": "OP07-079",
+    "attacker_power": 4000,
+    "defender": "OP09-001",
+    "defender_power": 5000
+  },
+  "log-083": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-084": {
+    "player": "JaramishoTCG",
+    "action": "End Turn"
+  },
+  "log-085": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-014",
+      "OP09-009",
+      "OP03-013",
+      "OP08-118",
+      "OP08-118",
+      "OP09-011"
+    ]
+  },
+  "log-086": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-087": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-088": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-089": {
+    "player": "JaramishoTCG",
+    "action": "Hand state",
+    "cards": [
+      "OP02-106",
+      "EB01-048",
+      "OP02-106"
+    ]
+  },
+  "log-090": {
+    "player": "JaramishoTCG",
+    "action": "Trash state",
+    "cards": [
+      "OP04-089",
+      "OP05-081",
+      "OP08-084",
+      "OP05-093"
+    ]
+  },
+  "log-091": {
+    "player": "JaramishoTCG",
+    "action": "Board state",
+    "cards": [
+      "OP05-081",
+      "EB01-048"
+    ]
+  },
+  "log-092": {
+    "player": "JaramishoTCG",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-093": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP04-016"
+  },
+  "log-094": {
+    "player": "rintosh1",
+    "action": "Draw 1 Card"
+  },
+  "log-095": {
+    "player": "rintosh1",
+    "action": "Draw 2 Don"
+  },
+  "log-096": {
+    "player": "rintosh1",
+    "action": "Deploy Marco",
+    "card": "OP03-013"
+  },
+  "log-097": {
+    "player": "rintosh1",
+    "action": "Destroy One-Legged Soldier",
+    "source_card": "OP03-013",
+    "target_card": "OP05-081"
+  },
+  "log-098": {
+    "player": "rintosh1",
+    "action": "Shanks attacking Rob Lucci",
+    "source_card": "OP09-001",
+    "target_card": "OP07-079"
+  },
+  "log-099": {
+    "player": "System",
+    "action": "Attack",
+    "attacker": "OP09-001",
+    "attacker_power": 5000,
+    "defender": "OP07-079",
+    "defender_power": 5000
+  },
+  "log-100": {
+    "player": "System",
+    "action": "Damage",
+    "card": "OP07-079",
+    "damage_amount": 1
+  },
+  "log-101": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-014",
+      "OP09-009",
+      "OP08-118",
+      "OP08-118",
+      "OP09-011",
+      "OP04-016"
+    ]
+  },
+  "log-102": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP03-013"
+    ]
+  },
+  "log-103": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-104": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-105": {
+    "player": "JaramishoTCG",
+    "action": "Hand state",
+    "cards": [
+      "OP02-106",
+      "EB01-048",
+      "OP02-106",
+      "OP02-121"
+    ]
+  },
+  "log-106": {
+    "player": "JaramishoTCG",
+    "action": "Trash state",
+    "cards": [
+      "OP04-089",
+      "OP05-081",
+      "OP08-084",
+      "OP05-093",
+      "OP05-081"
+    ]
+  },
+  "log-107": {
+    "player": "JaramishoTCG",
+    "action": "Board state",
+    "cards": [
+      "EB01-048"
+    ]
+  },
+  "log-108": {
+    "player": "JaramishoTCG",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-109": {
+    "player": "rintosh1",
+    "action": "End Turn"
+  },
+  "log-110": {
+    "player": "JaramishoTCG",
+    "action": "Draw 1 Card"
+  },
+  "log-111": {
+    "player": "JaramishoTCG",
+    "action": "Drew card from deck",
+    "card": "OP05-081"
+  },
+  "log-112": {
+    "player": "JaramishoTCG",
+    "action": "Draw 2 Don"
+  },
+  "log-113": {
+    "player": "JaramishoTCG",
+    "action": "Deploy Laboon",
+    "card": "EB01-048"
+  },
+  "log-114": {
+    "player": "JaramishoTCG",
+    "action": "Attach Don",
+    "card": "OP07-079",
+    "total": 1
+  },
+  "log-115": {
+    "player": "JaramishoTCG",
+    "action": "Attach Don",
+    "card": "OP07-079",
+    "total": 2
+  },
+  "log-116": {
+    "player": "JaramishoTCG",
+    "action": "Rob Lucci attacking Shanks",
+    "source_card": "OP07-079",
+    "target_card": "OP09-001"
+  },
+  "log-117": {
+    "player": "JaramishoTCG",
+    "action": "Trash 2 Cards from Deck",
+    "source_card": "OP07-079"
+  },
+  "log-118": {
+    "player": "JaramishoTCG",
+    "action": "Marco Cost -1",
+    "source_card": "OP07-079",
+    "target_card": "OP03-013"
+  },
+  "log-119": {
+    "player": "rintosh1",
+    "action": "Buff Rob Lucci",
+    "source_card": "OP09-001",
+    "target_card": "OP07-079",
+    "buff_amount": -1000
+  },
+  "log-120": {
+    "player": "rintosh1",
+    "action": "Discard for Counter",
+    "card": "OP09-011",
+    "counter_amount": 2000
+  },
+  "log-121": {
+    "player": "System",
+    "action": "Attack",
+    "attacker": "OP07-079",
+    "attacker_power": 6000,
+    "defender": "OP09-001",
+    "defender_power": 7000
+  },
+  "log-122": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-123": {
+    "player": "System",
+    "action": "Marco cost restored",
+    "card": "OP03-013"
+  },
+  "log-124": {
+    "player": "JaramishoTCG",
+    "action": "End Turn"
+  },
+  "log-125": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-014",
+      "OP09-009",
+      "OP08-118",
+      "OP08-118",
+      "OP04-016"
+    ]
+  },
+  "log-126": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP03-013"
+    ]
+  },
+  "log-127": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": [
+      "OP09-011"
+    ]
+  },
+  "log-128": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-129": {
+    "player": "JaramishoTCG",
+    "action": "Hand state",
+    "cards": [
+      "OP02-106",
+      "OP02-106",
+      "OP02-121",
+      "OP05-081"
+    ]
+  },
+  "log-130": {
+    "player": "JaramishoTCG",
+    "action": "Trash state",
+    "cards": [
+      "OP04-089",
+      "OP05-081",
+      "OP08-084",
+      "OP05-093",
+      "OP05-081",
+      "EB01-048",
+      "OP02-121"
+    ]
+  },
+  "log-131": {
+    "player": "JaramishoTCG",
+    "action": "Board state",
+    "cards": [
+      "EB01-048",
+      "EB01-048"
+    ]
+  },
+  "log-132": {
+    "player": "JaramishoTCG",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-133": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-008"
+  },
+  "log-134": {
+    "player": "rintosh1",
+    "action": "Draw 1 Card"
+  },
+  "log-135": {
+    "player": "rintosh1",
+    "action": "Draw 2 Don"
+  },
+  "log-136": {
+    "player": "rintosh1",
+    "action": "Deploy Benn Beckman",
+    "card": "OP09-009"
+  },
+  "log-137": {
+    "player": "rintosh1",
+    "action": "Trash Laboon",
+    "source_card": "OP09-009",
+    "target_card": "EB01-048"
+  },
+  "log-138": {
+    "player": "rintosh1",
+    "action": "Marco attacking Rob Lucci",
+    "source_card": "OP03-013",
+    "target_card": "OP07-079"
+  },
+  "log-139": {
+    "player": "JaramishoTCG",
+    "action": "Discard for Counter",
+    "card": "OP05-081",
+    "counter_amount": 2000
+  },
+  "log-140": {
+    "player": "System",
+    "action": "Attack",
+    "attacker": "OP03-013",
+    "attacker_power": 6000,
+    "defender": "OP07-079",
+    "defender_power": 7000
+  },
+  "log-141": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-142": {
+    "player": "rintosh1",
+    "action": "Shanks attacking Rob Lucci",
+    "source_card": "OP09-001",
+    "target_card": "OP07-079"
+  },
+  "log-143": {
+    "player": "System",
+    "action": "Attack",
+    "attacker": "OP09-001",
+    "attacker_power": 5000,
+    "defender": "OP07-079",
+    "defender_power": 5000
+  },
+  "log-144": {
+    "player": "System",
+    "action": "Damage",
+    "card": "OP07-079",
+    "damage_amount": 1
+  },
+  "log-145": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-014",
+      "OP08-118",
+      "OP08-118",
+      "OP04-016",
+      "OP09-008"
+    ]
+  },
+  "log-146": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP03-013",
+      "OP09-009"
+    ]
+  },
+  "log-147": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": [
+      "OP09-011"
+    ]
+  },
+  "log-148": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-149": {
+    "player": "JaramishoTCG",
+    "action": "Hand state",
+    "cards": [
+      "OP02-106",
+      "OP02-106",
+      "OP02-121",
+      "OP08-084"
+    ]
+  },
+  "log-150": {
+    "player": "JaramishoTCG",
+    "action": "Trash state",
+    "cards": [
+      "OP04-089",
+      "OP05-081",
+      "OP08-084",
+      "OP05-093",
+      "OP05-081",
+      "EB01-048",
+      "OP02-121",
+      "EB01-048",
+      "OP05-081"
+    ]
+  },
+  "log-151": {
+    "player": "JaramishoTCG",
+    "action": "Board state",
+    "cards": [
+      "EB01-048"
+    ]
+  },
+  "log-152": {
+    "player": "JaramishoTCG",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-153": {
+    "player": "rintosh1",
+    "action": "End Turn"
+  },
+  "log-154": {
+    "player": "JaramishoTCG",
+    "action": "Draw 1 Card"
+  },
+  "log-155": {
+    "player": "JaramishoTCG",
+    "action": "Drew card from deck",
+    "card": "OP02-121"
+  },
+  "log-156": {
+    "player": "JaramishoTCG",
+    "action": "Draw 2 Don"
+  },
+  "log-157": {
+    "player": "JaramishoTCG",
+    "action": "Deploy Jack",
+    "card": "OP08-084"
+  },
+  "log-158": {
+    "player": "JaramishoTCG",
+    "action": "Attach Don",
+    "card": "OP07-079",
+    "total": 1
+  },
+  "log-159": {
+    "player": "JaramishoTCG",
+    "action": "Rob Lucci attacking Marco",
+    "source_card": "OP07-079",
+    "target_card": "OP03-013"
+  },
+  "log-160": {
+    "player": "JaramishoTCG",
+    "action": "Trash 2 Cards from Deck",
+    "source_card": "OP07-079"
+  },
+  "log-161": {
+    "player": "JaramishoTCG",
+    "action": "Benn Beckman Cost -1",
+    "source_card": "OP07-079",
+    "target_card": "OP09-009"
+  },
+  "log-162": {
+    "player": "rintosh1",
+    "action": "Buff Rob Lucci",
+    "source_card": "OP09-001",
+    "target_card": "OP07-079",
+    "buff_amount": -1000
+  },
+  "log-163": {
+    "player": "System",
+    "action": "Attack",
+    "attacker": "OP07-079",
+    "attacker_power": 5000,
+    "defender": "OP03-013",
+    "defender_power": 6000
+  },
+  "log-164": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-165": {
+    "player": "JaramishoTCG",
+    "action": "Benn Beckman Cost -4",
+    "source_card": "EB01-048",
+    "target_card": "OP09-009"
+  },
+  "log-166": {
+    "player": "JaramishoTCG",
+    "action": "Drew card from deck",
+    "card": "OP05-081"
+  },
+  "log-167": {
+    "player": "JaramishoTCG",
+    "action": "Draw 1 Card",
+    "source_card": "OP08-084"
+  },
+  "log-168": {
+    "player": "JaramishoTCG",
+    "action": "Rest Jack",
+    "source_card": "OP08-084",
+    "target_card": "OP08-084"
+  },
+  "log-169": {
+    "player": "JaramishoTCG",
+    "action": "Trash One-Legged Soldier",
+    "source_card": "OP08-084",
+    "target_card": "OP05-081"
+  },
+  "log-170": {
+    "player": "JaramishoTCG",
+    "action": "Destroy Benn Beckman",
+    "source_card": "OP08-084",
+    "target_card": "OP09-009"
+  },
+  "log-171": {
+    "player": "JaramishoTCG",
+    "action": "End Turn"
+  },
+  "log-172": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-014",
+      "OP08-118",
+      "OP08-118",
+      "OP04-016",
+      "OP09-008"
+    ]
+  },
+  "log-173": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP03-013"
+    ]
+  },
+  "log-174": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": [
+      "OP09-011",
+      "OP09-009"
+    ]
+  },
+  "log-175": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-176": {
+    "player": "JaramishoTCG",
+    "action": "Hand state",
+    "cards": [
+      "OP02-106",
+      "OP02-106",
+      "OP02-121",
+      "OP02-121"
+    ]
+  },
+  "log-177": {
+    "player": "JaramishoTCG",
+    "action": "Trash state",
+    "cards": [
+      "OP04-089",
+      "OP05-081",
+      "OP08-084",
+      "OP05-093",
+      "OP05-081",
+      "EB01-048",
+      "OP02-121",
+      "EB01-048",
+      "OP05-081",
+      "OP07-085",
+      "OP05-091",
+      "OP05-081"
+    ]
+  },
+  "log-178": {
+    "player": "JaramishoTCG",
+    "action": "Board state",
+    "cards": [
+      "EB01-048",
+      "OP08-084"
+    ]
+  },
+  "log-179": {
+    "player": "JaramishoTCG",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-180": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP07-015"
+  },
+  "log-181": {
+    "player": "rintosh1",
+    "action": "Draw 1 Card"
+  },
+  "log-182": {
+    "player": "rintosh1",
+    "action": "Draw 2 Don"
+  },
+  "log-183": {
+    "player": "rintosh1",
+    "action": "Deploy Building Snake",
+    "card": "OP09-008"
+  },
+  "log-184": {
+    "player": "rintosh1",
+    "action": "Return Building Snake to Deck Bottom",
+    "source_card": "OP09-008",
+    "target_card": "OP09-008"
+  },
+  "log-185": {
+    "player": "rintosh1",
+    "action": "Buff Jack",
+    "source_card": "OP09-008",
+    "target_card": "OP08-084",
+    "buff_amount": -3000
+  },
+  "log-186": {
+    "player": "rintosh1",
+    "action": "Deploy Silvers Rayleigh",
+    "card": "OP08-118"
+  },
+  "log-187": {
+    "player": "rintosh1",
+    "action": "Grant Jack -3000 until next turn end",
+    "source_card": "OP08-118",
+    "target_card": "OP08-084",
+    "buff_amount": -3000
+  },
+  "log-188": {
+    "player": "rintosh1",
+    "action": "Grant Laboon -2000 until next turn end",
+    "source_card": "OP08-118",
+    "target_card": "EB01-048",
+    "buff_amount": -2000
+  },
+  "log-189": {
+    "player": "rintosh1",
+    "action": "Destroy Jack",
+    "source_card": "OP08-118",
+    "target_card": "OP08-084"
+  },
+  "log-190": {
+    "player": "rintosh1",
+    "action": "Marco attacking Rob Lucci",
+    "source_card": "OP03-013",
+    "target_card": "OP07-079"
+  },
+  "log-191": {
+    "player": "System",
+    "action": "Attack",
+    "attacker": "OP03-013",
+    "attacker_power": 6000,
+    "defender": "OP07-079",
+    "defender_power": 5000
+  },
+  "log-192": {
+    "player": "System",
+    "action": "Damage",
+    "card": "OP07-079",
+    "damage_amount": 1
+  },
+  "log-193": {
+    "player": "rintosh1",
+    "action": "Shanks attacking Rob Lucci",
+    "source_card": "OP09-001",
+    "target_card": "OP07-079"
+  },
+  "log-194": {
+    "player": "System",
+    "action": "Attack",
+    "attacker": "OP09-001",
+    "attacker_power": 5000,
+    "defender": "OP07-079",
+    "defender_power": 5000
+  },
+  "log-195": {
+    "player": "System",
+    "action": "Damage",
+    "card": "OP07-079",
+    "damage_amount": 1
+  },
+  "log-196": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-014",
+      "OP08-118",
+      "OP04-016",
+      "OP07-015"
+    ]
+  },
+  "log-197": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP03-013",
+      "OP08-118"
+    ]
+  },
+  "log-198": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": [
+      "OP09-011",
+      "OP09-009"
+    ]
+  },
+  "log-199": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-200": {
+    "player": "JaramishoTCG",
+    "action": "Hand state",
+    "cards": [
+      "OP02-106",
+      "OP02-106",
+      "OP02-121",
+      "OP02-121",
+      "OP02-096",
+      "OP05-091"
+    ]
+  },
+  "log-201": {
+    "player": "JaramishoTCG",
+    "action": "Trash state",
+    "cards": [
+      "OP04-089",
+      "OP05-081",
+      "OP08-084",
+      "OP05-093",
+      "OP05-081",
+      "EB01-048",
+      "OP02-121",
+      "EB01-048",
+      "OP05-081",
+      "OP07-085",
+      "OP05-091",
+      "OP05-081",
+      "OP08-084"
+    ]
+  },
+  "log-202": {
+    "player": "JaramishoTCG",
+    "action": "Board state",
+    "cards": [
+      "EB01-048"
+    ]
+  },
+  "log-203": {
+    "player": "JaramishoTCG",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-204": {
+    "player": "rintosh1",
+    "action": "End Turn"
+  },
+  "log-205": {
+    "player": "JaramishoTCG",
+    "action": "Draw 1 Card"
+  },
+  "log-206": {
+    "player": "JaramishoTCG",
+    "action": "Drew card from deck",
+    "card": "EB01-048"
+  },
+  "log-207": {
+    "player": "JaramishoTCG",
+    "action": "Draw 2 Don"
+  },
+  "log-208": {
+    "player": "JaramishoTCG",
+    "action": "Deploy Kuzan",
+    "card": "OP02-121"
+  },
+  "log-209": {
+    "player": "JaramishoTCG",
+    "action": "Destroy Marco",
+    "source_card": "OP02-121",
+    "target_card": "OP03-013"
+  },
+  "log-210": {
+    "player": "JaramishoTCG",
+    "action": "End Turn"
+  },
+  "log-211": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-014",
+      "OP08-118",
+      "OP04-016",
+      "OP07-015"
+    ]
+  },
+  "log-212": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP08-118"
+    ]
+  },
+  "log-213": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": [
+      "OP09-011",
+      "OP09-009",
+      "OP03-013"
+    ]
+  },
+  "log-214": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-215": {
+    "player": "JaramishoTCG",
+    "action": "Hand state",
+    "cards": [
+      "OP02-106",
+      "OP02-106",
+      "OP02-121",
+      "OP02-096",
+      "OP05-091",
+      "EB01-048"
+    ]
+  },
+  "log-216": {
+    "player": "JaramishoTCG",
+    "action": "Trash state",
+    "cards": [
+      "OP04-089",
+      "OP05-081",
+      "OP08-084",
+      "OP05-093",
+      "OP05-081",
+      "EB01-048",
+      "OP02-121",
+      "EB01-048",
+      "OP05-081",
+      "OP07-085",
+      "OP05-091",
+      "OP05-081",
+      "OP08-084"
+    ]
+  },
+  "log-217": {
+    "player": "JaramishoTCG",
+    "action": "Board state",
+    "cards": [
+      "EB01-048",
+      "OP02-121"
+    ]
+  },
+  "log-218": {
+    "player": "JaramishoTCG",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-219": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-015"
+  },
+  "log-220": {
+    "player": "rintosh1",
+    "action": "Draw 1 Card"
+  },
+  "log-221": {
+    "player": "rintosh1",
+    "action": "Draw 2 Don"
+  },
+  "log-222": {
+    "player": "rintosh1",
+    "action": "Deploy Lucky Roux",
+    "card": "OP09-015"
+  },
+  "log-223": {
+    "player": "rintosh1",
+    "action": "Attach Don",
+    "card": "OP09-001",
+    "total": 3
+  },
+  "log-224": {
+    "player": "rintosh1",
+    "action": "Attach Don",
+    "card": "OP08-118",
+    "total": 2
+  },
+  "log-225": {
+    "player": "rintosh1",
+    "action": "Attach Don",
+    "card": "OP09-001",
+    "total": 4
+  },
+  "log-226": {
+    "player": "rintosh1",
+    "action": "Shanks attacking Rob Lucci",
+    "source_card": "OP09-001",
+    "target_card": "OP07-079"
+  },
+  "log-227": {
+    "player": "JaramishoTCG",
+    "action": "Discard for Counter",
+    "card": "OP02-106",
+    "counter_amount": 2000
+  },
+  "log-228": {
+    "player": "JaramishoTCG",
+    "action": "Discard for Counter",
+    "card": "OP02-106",
+    "counter_amount": 2000
+  },
+  "log-229": {
+    "player": "JaramishoTCG",
+    "action": "Discard for Counter",
+    "card": "EB01-048",
+    "counter_amount": 1000
+  },
+  "log-230": {
+    "player": "System",
+    "action": "Attack",
+    "attacker": "OP09-001",
+    "attacker_power": 9000,
+    "defender": "OP07-079",
+    "defender_power": 10000
+  },
+  "log-231": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-232": {
+    "player": "rintosh1",
+    "action": "Silvers Rayleigh attacking Rob Lucci",
+    "source_card": "OP08-118",
+    "target_card": "OP07-079"
+  },
+  "log-233": {
+    "player": "System",
+    "action": "Attack",
+    "attacker": "OP08-118",
+    "attacker_power": 10000,
+    "defender": "OP07-079",
+    "defender_power": 5000
+  },
+  "log-234": {
+    "player": "System",
+    "action": "Damage",
+    "card": "OP07-079",
+    "damage_amount": 1
+  },
+  "log-235": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-014",
+      "OP08-118",
+      "OP04-016",
+      "OP07-015"
+    ]
+  },
+  "log-236": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP08-118",
+      "OP09-015"
+    ]
+  },
+  "log-237": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": [
+      "OP09-011",
+      "OP09-009",
+      "OP03-013"
+    ]
+  },
+  "log-238": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-239": {
+    "player": "JaramishoTCG",
+    "action": "Hand state",
+    "cards": [
+      "OP02-121",
+      "OP02-096",
+      "OP05-091",
+      "OP07-096"
+    ]
+  },
+  "log-240": {
+    "player": "JaramishoTCG",
+    "action": "Trash state",
+    "cards": [
+      "OP04-089",
+      "OP05-081",
+      "OP08-084",
+      "OP05-093",
+      "OP05-081",
+      "EB01-048",
+      "OP02-121",
+      "EB01-048",
+      "OP05-081",
+      "OP07-085",
+      "OP05-091",
+      "OP05-081",
+      "OP08-084",
+      "OP02-106",
+      "OP02-106",
+      "EB01-048"
+    ]
+  },
+  "log-241": {
+    "player": "JaramishoTCG",
+    "action": "Board state",
+    "cards": [
+      "EB01-048",
+      "OP02-121"
+    ]
+  },
+  "log-242": {
+    "player": "JaramishoTCG",
+    "action": "Life state",
+    "life": 0
+  },
+  "log-243": {
+    "player": "rintosh1",
+    "action": "End Turn"
+  },
+  "log-244": {
+    "player": "JaramishoTCG",
+    "action": "Draw 1 Card"
+  },
+  "log-245": {
+    "player": "JaramishoTCG",
+    "action": "Drew card from deck",
+    "card": "OP04-089"
+  },
+  "log-246": {
+    "player": "JaramishoTCG",
+    "action": "Kuzan attacking Silvers Rayleigh",
+    "source_card": "OP02-121",
+    "target_card": "OP08-118"
+  },
+  "log-247": {
+    "player": "rintosh1",
+    "action": "Buff Kuzan",
+    "source_card": "OP09-001",
+    "target_card": "OP02-121",
+    "buff_amount": -1000
+  },
+  "log-248": {
+    "player": "rintosh1",
+    "action": "Discard for Counter",
+    "card": "OP09-014",
+    "counter_amount": 2000
+  },
+  "log-249": {
+    "player": "System",
+    "action": "Attack",
+    "attacker": "OP02-121",
+    "attacker_power": 9000,
+    "defender": "OP08-118",
+    "defender_power": 10000
+  },
+  "log-250": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-251": {
+    "player": "JaramishoTCG",
+    "action": "Deploy Bartolomeo",
+    "card": "OP04-089"
+  },
+  "log-252": {
+    "player": "JaramishoTCG",
+    "action": "Deploy Rebecca",
+    "card": "OP05-091"
+  },
+  "log-253": {
+    "player": "JaramishoTCG",
+    "action": "Draw Bartolomeo from Trash",
+    "card": "OP04-089"
+  },
+  "log-254": {
+    "player": "JaramishoTCG",
+    "action": "Attach Don",
+    "card": "OP07-079",
+    "total": 1
+  },
+  "log-255": {
+    "player": "JaramishoTCG",
+    "action": "Attach Don",
+    "card": "OP07-079",
+    "total": 2
+  },
+  "log-256": {
+    "player": "JaramishoTCG",
+    "action": "Attach Don",
+    "card": "OP07-079",
+    "total": 3
+  },
+  "log-257": {
+    "player": "JaramishoTCG",
+    "action": "Rob Lucci attacking Silvers Rayleigh",
+    "source_card": "OP07-079",
+    "target_card": "OP08-118"
+  },
+  "log-258": {
+    "player": "System",
+    "action": "Attack",
+    "attacker": "OP07-079",
+    "attacker_power": 8000,
+    "defender": "OP08-118",
+    "defender_power": 8000
+  },
+  "log-259": {
+    "player": "rintosh1",
+    "action": "Destroyed",
+    "card": "OP08-118"
+  },
+  "log-260": {
+    "player": "JaramishoTCG",
+    "action": "Concedes"
+  },
+  "log-261": {
+    "player": "JaramishoTCG",
+    "action": "Loses"
+  },
+  "log-262": {
+    "player": "rintosh1",
+    "action": "Wins"
+  },
+  "log-263": {
+    "player": "JaramishoTCG",
+    "action": "Quits"
+  },
+  "log-264": {
+    "player": "System",
+    "action": "Opponent Has Disconnected"
+  }
+}
