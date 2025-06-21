@@ -1,0 +1,116 @@
+{
+  "log-001": {
+    "player": "System",
+    "action": "Waiting for a Connection",
+    "room_id": "QKTHKL"
+  },
+  "log-002": {
+    "player": "Pirate26156",
+    "action": "Has Connected"
+  },
+  "log-003": {
+    "player": "System",
+    "action": "Version is 1.29b"
+  },
+  "log-004": {
+    "player": "Pirate26156",
+    "action": "Leader is Shanks",
+    "card_id": "OP09-001"
+  },
+  "log-005": {
+    "player": "Pirate38504",
+    "action": "Has Connected"
+  },
+  "log-006": {
+    "player": "System",
+    "action": "Version is 1.29b"
+  },
+  "log-007": {
+    "player": "Pirate38504",
+    "action": "Leader is Belo Betty",
+    "card_id": "OP05-002"
+  },
+  "log-008": {
+    "player": "Pirate38504",
+    "action": "Chose to go First"
+  },
+  "log-009": {
+    "player": "Pirate38504",
+    "action": "Drew card from deck",
+    "card": "Belo Betty",
+    "card_id": "OP05-015"
+  },
+  "log-010": {
+    "player": "Pirate38504",
+    "action": "Drew card from deck",
+    "card": "Karasu",
+    "card_id": "OP05-005"
+  },
+  "log-011": {
+    "player": "Pirate38504",
+    "action": "Drew card from deck",
+    "card": "Emporio Tension Hormone",
+    "card_id": "OP05-018"
+  },
+  "log-012": {
+    "player": "Pirate38504",
+    "action": "Drew card from deck",
+    "card": "Inazuma",
+    "card_id": "OP05-003"
+  },
+  "log-013": {
+    "player": "Pirate38504",
+    "action": "Drew card from deck",
+    "card": "Lindberg",
+    "card_id": "OP05-017"
+  },
+  "log-014": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Monkey D. Luffy",
+    "card_id": "ST21-014"
+  },
+  "log-015": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Sanji",
+    "card_id": "OP10-005"
+  },
+  "log-016": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Divine Departure",
+    "card_id": "OP10-019"
+  },
+  "log-017": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Hongo",
+    "card_id": "OP09-011"
+  },
+  "log-018": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "Shanks",
+    "card_id": "OP09-004"
+  },
+  "log-019": {
+    "player": "Pirate26156",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "ST21-014",
+      "OP10-005",
+      "OP10-019",
+      "OP09-011",
+      "OP09-004"
+    ]
+  },
+  "log-020": {
+    "player": "Pirate26156",
+    "action": "Concedes"
+  },
+  "log-021": {
+    "player": "Pirate26156",
+    "action": "Loses"
+  }
+}

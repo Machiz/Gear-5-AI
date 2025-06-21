@@ -1,4 +1,5 @@
 from Training_model import Agent
+#from train_model_pytorch import Agent
 import numpy as np
 import env_registry
 from gym.spaces.utils import flatten
@@ -39,8 +40,8 @@ if __name__ == '__main__':
     tf.compat.v1.disable_eager_execution()
     env = gym.make("OnePieceTCG-v0")
     lr = 0.00005
-    n_games = 5000
-    agent = Agent(gamma = 0.99, epsilon = 1.0, lr = lr, input_dims = flatten_space(env.observation_space).shape, n_actions = env.action_space.n, mem_size = 10000, batch_size = 64)
+    n_games = 2000
+    agent = Agent(gamma = 0.99, epsilon = 1.0, lr = lr, input_dims = flatten_space(env.observation_space).shape, n_actions = env.action_space.n, mem_size = 2000, batch_size = 64)
     scores = []
     eps_history = []
     for i in range(n_games):

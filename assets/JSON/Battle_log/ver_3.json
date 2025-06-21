@@ -1,0 +1,1785 @@
+{
+  "log-001": {
+    "player": "System",
+    "action": "Attempting to connect to CPRDCF"
+  },
+  "log-002": {
+    "player": "System",
+    "action": "Version is 1.29b"
+  },
+  "log-003": {
+    "player": "DalphaI",
+    "action": "Leader is Rob Lucci",
+    "card": "OP07-079"
+  },
+  "log-004": {
+    "player": "You",
+    "action": "Will select turn order"
+  },
+  "log-005": {
+    "player": "Pirate26156",
+    "action": "Player connected"
+  },
+  "log-006": {
+    "player": "System",
+    "action": "Version is 1.29b"
+  },
+  "log-007": {
+    "player": "Pirate26156",
+    "action": "Leader is Shanks",
+    "card": "OP09-001"
+  },
+  "log-008": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "OP09-015"
+  },
+  "log-009": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "OP01-006"
+  },
+  "log-010": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "OP08-118"
+  },
+  "log-011": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "OP01-006"
+  },
+  "log-012": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "OP09-009"
+  },
+  "log-013": {
+    "player": "Pirate26156",
+    "action": "Hand before Mulligan",
+    "cards": ["OP09-015", "OP01-006", "OP08-118", "OP01-006", "OP09-009"]
+  },
+  "log-014": {
+    "player": "Pirate26156",
+    "action": "Chose to go First"
+  },
+  "log-015": {
+    "player": "DalphaI",
+    "action": "Drew card from deck",
+    "card": "OP07-096"
+  },
+  "log-016": {
+    "player": "DalphaI",
+    "action": "Drew card from deck",
+    "card": "EB01-051"
+  },
+  "log-017": {
+    "player": "DalphaI",
+    "action": "Drew card from deck",
+    "card": "OP08-084"
+  },
+  "log-018": {
+    "player": "DalphaI",
+    "action": "Drew card from deck",
+    "card": "OP05-081"
+  },
+  "log-019": {
+    "player": "DalphaI",
+    "action": "Drew card from deck",
+    "card": "OP05-093"
+  },
+  "log-020": {
+    "player": "DalphaI",
+    "action": "Drew card from deck",
+    "card": "OP07-096"
+  },
+  "log-021": {
+    "player": "DalphaI",
+    "action": "Drew card from deck",
+    "card": "OP05-081"
+  },
+  "log-022": {
+    "player": "DalphaI",
+    "action": "Drew card from deck",
+    "card": "OP05-091"
+  },
+  "log-023": {
+    "player": "DalphaI",
+    "action": "Drew card from deck",
+    "card": "EB01-048"
+  },
+  "log-024": {
+    "player": "DalphaI",
+    "action": "Drew card from deck",
+    "card": "EB01-046"
+  },
+  "log-025": {
+    "player": "DalphaI",
+    "action": "Mulligan"
+  },
+  "log-026": {
+    "player": "Pirate26156",
+    "action": "Hand state",
+    "cards": ["OP09-015", "OP01-006", "OP08-118", "OP01-006", "OP09-009"]
+  },
+  "log-027": {
+    "player": "Pirate26156",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-028": {
+    "player": "Pirate26156",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-029": {
+    "player": "Pirate26156",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-030": {
+    "player": "DalphaI",
+    "action": "Hand state",
+    "cards": ["OP07-096", "OP05-081", "OP05-091", "EB01-048", "EB01-046"]
+  },
+  "log-031": {
+    "player": "DalphaI",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-032": {
+    "player": "DalphaI",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-033": {
+    "player": "DalphaI",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-034": {
+    "player": "Pirate26156",
+    "action": "Draw 1 Don"
+  },
+  "log-035": {
+    "player": "Pirate26156",
+    "action": "Hand state",
+    "cards": ["OP09-015", "OP01-006", "OP08-118", "OP01-006", "OP09-009"]
+  },
+  "log-036": {
+    "player": "Pirate26156",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-037": {
+    "player": "Pirate26156",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-038": {
+    "player": "Pirate26156",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-039": {
+    "player": "DalphaI",
+    "action": "Hand state",
+    "cards": ["OP07-096", "OP05-081", "OP05-091", "EB01-048", "EB01-046"]
+  },
+  "log-040": {
+    "player": "DalphaI",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-041": {
+    "player": "DalphaI",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-042": {
+    "player": "DalphaI",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-043": {
+    "player": "Pirate26156",
+    "action": "End Turn"
+  },
+  "log-044": {
+    "player": "DalphaI",
+    "action": "Draw 1 Card"
+  },
+  "log-045": {
+    "player": "DalphaI",
+    "action": "Drew card from deck",
+    "card": "OP02-096"
+  },
+  "log-046": {
+    "player": "DalphaI",
+    "action": "Draw 2 Don"
+  },
+  "log-047": {
+    "player": "DalphaI",
+    "action": "End Turn"
+  },
+  "log-048": {
+    "player": "Pirate26156",
+    "action": "Hand state",
+    "cards": ["OP09-015", "OP01-006", "OP08-118", "OP01-006", "OP09-009"]
+  },
+  "log-049": {
+    "player": "Pirate26156",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-050": {
+    "player": "Pirate26156",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-051": {
+    "player": "Pirate26156",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-052": {
+    "player": "DalphaI",
+    "action": "Hand state",
+    "cards": ["OP07-096", "OP05-081", "OP05-091", "EB01-048", "EB01-046", "OP02-096"]
+  },
+  "log-053": {
+    "player": "DalphaI",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-054": {
+    "player": "DalphaI",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-055": {
+    "player": "DalphaI",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-056": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "OP04-016"
+  },
+  "log-057": {
+    "player": "Pirate26156",
+    "action": "Draw 1 Card"
+  },
+  "log-058": {
+    "player": "Pirate26156",
+    "action": "Draw 2 Don"
+  },
+  "log-059": {
+    "player": "Pirate26156",
+    "action": "Attach 3 Don to Shanks",
+    "card": "OP09-001",
+    "total_don": 3
+  },
+  "log-060": {
+    "player": "Pirate26156",
+    "action": "Shanks attacking Rob Lucci",
+    "attacker": "OP09-001",
+    "defender": "OP07-079"
+  },
+  "log-061": {
+    "player": "System",
+    "action": "Battle",
+    "attacker_card": "Shanks",
+    "attacker_id": "OP09-001",
+    "attacker_power": 8000,
+    "defender_card": "Rob Lucci",
+    "defender_id": "OP07-079",
+    "defender_power": 5000
+  },
+  "log-062": {
+    "player": "Rob Lucci",
+    "action": "hit for 1 damage",
+    "card": "OP07-079"
+  },
+  "log-063": {
+    "player": "Pirate26156",
+    "action": "Hand state",
+    "cards": ["OP09-015", "OP01-006", "OP08-118", "OP01-006", "OP09-009", "OP04-016"]
+  },
+  "log-064": {
+    "player": "Pirate26156",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-065": {
+    "player": "Pirate26156",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-066": {
+    "player": "Pirate26156",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-067": {
+    "player": "DalphaI",
+    "action": "Hand state",
+    "cards": ["OP07-096", "OP05-081", "OP05-091", "EB01-048", "EB01-046", "OP02-096", "OP07-096"]
+  },
+  "log-068": {
+    "player": "DalphaI",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-069": {
+    "player": "DalphaI",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-070": {
+    "player": "DalphaI",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-071": {
+    "player": "Pirate26156",
+    "action": "End Turn"
+  },
+  "log-072": {
+    "player": "DalphaI",
+    "action": "Draw 1 Card"
+  },
+  "log-073": {
+    "player": "DalphaI",
+    "action": "Drew card from deck",
+    "card": "ST08-002"
+  },
+  "log-074": {
+    "player": "DalphaI",
+    "action": "Draw 2 Don"
+  },
+  "log-075": {
+    "player": "DalphaI",
+    "action": "Rob Lucci attacking Shanks",
+    "attacker": "OP07-079",
+    "defender": "OP09-001"
+  },
+  "log-076": {
+    "player": "DalphaI",
+    "action": "Rob Lucci effect",
+    "card": "OP07-079",
+    "effect": "Trash 2 Cards from Deck"
+  },
+  "log-077": {
+    "player": "Pirate26156",
+    "action": "Shanks effect",
+    "card": "OP09-001",
+    "effect": "Buff Rob Lucci -1000",
+    "target_card": "OP07-079"
+  },
+  "log-078": {
+    "player": "System",
+    "action": "Battle",
+    "attacker_card": "Rob Lucci",
+    "attacker_id": "OP07-079",
+    "attacker_power": 4000,
+    "defender_card": "Shanks",
+    "defender_id": "OP09-001",
+    "defender_power": 5000
+  },
+  "log-079": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-080": {
+    "player": "DalphaI",
+    "action": "Deploy",
+    "card": "OP02-096"
+  },
+  "log-081": {
+    "player": "DalphaI",
+    "action": "Drew card from deck",
+    "card": "OP05-091"
+  },
+  "log-082": {
+    "player": "DalphaI",
+    "action": "Kuzan effect",
+    "card": "OP02-096",
+    "effect": "Draw 1 Card"
+  },
+  "log-083": {
+    "player": "DalphaI",
+    "action": "End Turn"
+  },
+  "log-084": {
+    "player": "Pirate26156",
+    "action": "Hand state",
+    "cards": ["OP09-015", "OP01-006", "OP08-118", "OP01-006", "OP09-009", "OP04-016"]
+  },
+  "log-085": {
+    "player": "Pirate26156",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-086": {
+    "player": "Pirate26156",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-087": {
+    "player": "Pirate26156",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-088": {
+    "player": "DalphaI",
+    "action": "Hand state",
+    "cards": ["OP07-096", "OP05-081", "OP05-091", "EB01-048", "EB01-046", "OP07-096", "ST08-002", "OP05-091"]
+  },
+  "log-089": {
+    "player": "DalphaI",
+    "action": "Trash state",
+    "cards": ["OP02-121", "OP08-084"]
+  },
+  "log-090": {
+    "player": "DalphaI",
+    "action": "Board state",
+    "cards": ["OP02-096"]
+  },
+  "log-091": {
+    "player": "DalphaI",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-092": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "OP01-006"
+  },
+  "log-093": {
+    "player": "Pirate26156",
+    "action": "Draw 1 Card"
+  },
+  "log-094": {
+    "player": "Pirate26156",
+    "action": "Draw 2 Don"
+  },
+  "log-095": {
+    "player": "Pirate26156",
+    "action": "Deploy",
+    "card": "OP09-015"
+  },
+  "log-096": {
+    "player": "Pirate26156",
+    "action": "Attach 1 Don to Shanks",
+    "card": "OP09-001",
+    "total_don": 1
+  },
+  "log-097": {
+    "player": "Pirate26156",
+    "action": "Shanks attacking Rob Lucci",
+    "attacker": "OP09-001",
+    "defender": "OP07-079"
+  },
+  "log-098": {
+    "player": "DalphaI",
+    "action": "Discard for Counter 2000",
+    "card": "OP05-081"
+  },
+  "log-099": {
+    "player": "System",
+    "action": "Battle",
+    "attacker_card": "Shanks",
+    "attacker_id": "OP09-001",
+    "attacker_power": 6000,
+    "defender_card": "Rob Lucci",
+    "defender_id": "OP07-079",
+    "defender_power": 7000
+  },
+  "log-100": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-101": {
+    "player": "Pirate26156",
+    "action": "Hand state",
+    "cards": ["OP01-006", "OP08-118", "OP01-006", "OP09-009", "OP04-016", "OP01-006"]
+  },
+  "log-102": {
+    "player": "Pirate26156",
+    "action": "Board state",
+    "cards": ["OP09-015"]
+  },
+  "log-103": {
+    "player": "Pirate26156",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-104": {
+    "player": "Pirate26156",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-105": {
+    "player": "DalphaI",
+    "action": "Hand state",
+    "cards": ["OP07-096", "OP05-091", "EB01-048", "EB01-046", "OP07-096", "ST08-002", "OP05-091"]
+  },
+  "log-106": {
+    "player": "DalphaI",
+    "action": "Trash state",
+    "cards": ["OP02-121", "OP08-084", "OP05-081"]
+  },
+  "log-107": {
+    "player": "DalphaI",
+    "action": "Board state",
+    "cards": ["OP02-096"]
+  },
+  "log-108": {
+    "player": "DalphaI",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-109": {
+    "player": "Pirate26156",
+    "action": "End Turn"
+  },
+  "log-110": {
+    "player": "DalphaI",
+    "action": "Draw 1 Card"
+  },
+  "log-111": {
+    "player": "DalphaI",
+    "action": "Drew card from deck",
+    "card": "EB01-043"
+  },
+  "log-112": {
+    "player": "DalphaI",
+    "action": "Draw 2 Don"
+  },
+  "log-113": {
+    "player": "DalphaI",
+    "action": "Kuzan attacking Shanks",
+    "attacker": "OP02-096",
+    "defender": "OP09-001"
+  },
+  "log-114": {
+    "player": "DalphaI",
+    "action": "Kuzan effect",
+    "card": "OP02-096",
+    "effect": "Lucky Roux Cost -4",
+    "target_card": "OP09-015"
+  },
+  "log-115": {
+    "player": "Pirate26156",
+    "action": "Shanks effect",
+    "card": "OP09-001",
+    "effect": "Buff Kuzan -1000",
+    "target_card": "OP02-096"
+  },
+  "log-116": {
+    "player": "System",
+    "action": "Battle",
+    "attacker_card": "Kuzan",
+    "attacker_id": "OP02-096",
+    "attacker_power": 4000,
+    "defender_card": "Shanks",
+    "defender_id": "OP09-001",
+    "defender_power": 5000
+  },
+  "log-117": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-118": {
+    "player": "DalphaI",
+    "action": "Rob Lucci attacking Shanks",
+    "attacker": "OP07-079",
+    "defender": "OP09-001"
+  },
+  "log-119": {
+    "player": "DalphaI",
+    "action": "Rob Lucci effect",
+    "card": "OP07-079",
+    "effect": "Trash 2 Cards from Deck"
+  },
+  "log-120": {
+    "player": "DalphaI",
+    "action": "Rob Lucci effect",
+    "card": "OP07-079",
+    "effect": "Lucky Roux Cost -1",
+    "target_card": "OP09-015"
+  },
+  "log-121": {
+    "player": "System",
+    "action": "Battle",
+    "attacker_card": "Rob Lucci",
+    "attacker_id": "OP07-079",
+    "attacker_power": 5000,
+    "defender_card": "Shanks",
+    "defender_id": "OP09-001",
+    "defender_power": 5000
+  },
+  "log-122": {
+    "player": "Shanks",
+    "action": "hit for 1 damage",
+    "card": "OP09-001"
+  },
+  "log-123": {
+    "player": "DalphaI",
+    "action": "Deploy",
+    "card": "EB01-046"
+  },
+  "log-124": {
+    "player": "DalphaI",
+    "action": "Brook effect",
+    "card": "EB01-046",
+    "effect": "Lucky Roux Cost -1",
+    "target_card": "OP09-015"
+  },
+  "log-125": {
+    "player": "DalphaI",
+    "action": "Brook effect",
+    "card": "EB01-046",
+    "effect": "Destroy Lucky Roux",
+    "target_card": "OP09-015"
+  },
+  "log-126": {
+    "player": "Pirate26156",
+    "action": "Lucky Roux effect",
+    "card": "OP09-015",
+    "effect": "Destroy Kuzan",
+    "target_card": "OP02-096"
+  },
+  "log-127": {
+    "player": "DalphaI",
+    "action": "Deploy",
+    "card": "ST08-002"
+  },
+  "log-128": {
+    "player": "DalphaI",
+    "action": "End Turn"
+  },
+  "log-129": {
+    "player": "Pirate26156",
+    "action": "Hand state",
+    "cards": ["OP01-006", "OP08-118", "OP01-006", "OP09-009", "OP04-016", "OP01-006", "OP10-005"]
+  },
+  "log-130": {
+    "player": "Pirate26156",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-131": {
+    "player": "Pirate26156",
+    "action": "Trash state",
+    "cards": ["OP09-015"]
+  },
+  "log-132": {
+    "player": "Pirate26156",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-133": {
+    "player": "DalphaI",
+    "action": "Hand state",
+    "cards": ["OP07-096", "OP05-091", "EB01-048", "OP07-096", "OP05-091", "EB01-043"]
+  },
+  "log-134": {
+    "player": "DalphaI",
+    "action": "Trash state",
+    "cards": ["OP02-121", "OP08-084", "OP05-081", "OP08-091", "OP05-093", "OP02-096"]
+  },
+  "log-135": {
+    "player": "DalphaI",
+    "action": "Board state",
+    "cards": ["EB01-046", "ST08-002"]
+  },
+  "log-136": {
+    "player": "DalphaI",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-137": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "OP09-011"
+  },
+  "log-138": {
+    "player": "Pirate26156",
+    "action": "Draw 1 Card"
+  },
+  "log-139": {
+    "player": "Pirate26156",
+    "action": "Draw 2 Don"
+  },
+  "log-140": {
+    "player": "Pirate26156",
+    "action": "Deploy",
+    "card": "OP09-009"
+  },
+  "log-141": {
+    "player": "Pirate26156",
+    "action": "Benn Beckman effect",
+    "card": "OP09-009",
+    "effect": "Trash Brook",
+    "target_card": "EB01-046"
+  },
+  "log-142": {
+    "player": "Pirate26156",
+    "action": "Shanks attacking Rob Lucci",
+    "attacker": "OP09-001",
+    "defender": "OP07-079"
+  },
+  "log-143": {
+    "player": "DalphaI",
+    "action": "Discard for Counter 1000",
+    "card": "EB01-043"
+  },
+  "log-144": {
+    "player": "System",
+    "action": "Battle",
+    "attacker_card": "Shanks",
+    "attacker_id": "OP09-001",
+    "attacker_power": 5000,
+    "defender_card": "Rob Lucci",
+    "defender_id": "OP07-079",
+    "defender_power": 6000
+  },
+  "log-145": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-146": {
+    "player": "Pirate26156",
+    "action": "Hand state",
+    "cards": ["OP01-006", "OP08-118", "OP01-006", "OP04-016", "OP01-006", "OP10-005", "OP09-011"]
+  },
+  "log-147": {
+    "player": "Pirate26156",
+    "action": "Board state",
+    "cards": ["OP09-009"]
+  },
+  "log-148": {
+    "player": "Pirate26156",
+    "action": "Trash state",
+    "cards": ["OP09-015"]
+  },
+  "log-149": {
+    "player": "Pirate26156",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-150": {
+    "player": "DalphaI",
+    "action": "Hand state",
+    "cards": ["OP07-096", "OP05-091", "EB01-048", "OP07-096", "OP05-091"]
+  },
+  "log-151": {
+    "player": "DalphaI",
+    "action": "Trash state",
+    "cards": ["OP02-121", "OP08-084", "OP05-081", "OP08-091", "OP05-093", "OP02-096", "EB01-046", "EB01-043"]
+  },
+  "log-152": {
+    "player": "DalphaI",
+    "action": "Board state",
+    "cards": ["ST08-002"]
+  },
+  "log-153": {
+    "player": "DalphaI",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-154": {
+    "player": "Pirate26156",
+    "action": "End Turn"
+  },
+  "log-155": {
+    "player": "DalphaI",
+    "action": "Draw 1 Card"
+  },
+  "log-156": {
+    "player": "DalphaI",
+    "action": "Drew card from deck",
+    "card": "OP02-106"
+  },
+  "log-157": {
+    "player": "DalphaI",
+    "action": "Draw 2 Don"
+  },
+  "log-158": {
+    "player": "DalphaI",
+    "action": "Rob Lucci attacking Shanks",
+    "attacker": "OP07-079",
+    "defender": "OP09-001"
+  },
+  "log-159": {
+    "player": "DalphaI",
+    "action": "Rob Lucci effect",
+    "card": "OP07-079",
+    "effect": "Trash 2 Cards from Deck"
+  },
+  "log-160": {
+    "player": "DalphaI",
+    "action": "Rob Lucci effect",
+    "card": "OP07-079",
+    "effect": "Benn Beckman Cost -1",
+    "target_card": "OP09-009"
+  },
+  "log-161": {
+    "player": "Pirate26156",
+    "action": "Shanks effect",
+    "card": "OP09-001",
+    "effect": "Buff Rob Lucci -1000",
+    "target_card": "OP07-079"
+  },
+  "log-162": {
+    "player": "System",
+    "action": "Battle",
+    "attacker_card": "Rob Lucci",
+    "attacker_id": "OP07-079",
+    "attacker_power": 4000,
+    "defender_card": "Shanks",
+    "defender_id": "OP09-001",
+    "defender_power": 5000
+  },
+  "log-163": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-164": {
+    "player": "DalphaI",
+    "action": "Deploy",
+    "card": "EB01-048"
+  },
+  "log-165": {
+    "player": "DalphaI",
+    "action": "Laboon effect",
+    "card": "EB01-048",
+    "effect": "Benn Beckman Cost -4",
+    "target_card": "OP09-009"
+  },
+  "log-166": {
+    "player": "DalphaI",
+    "action": "Uta effect",
+    "card": "ST08-002",
+    "effect": "Benn Beckman Cost -2",
+    "target_card": "OP09-009"
+  },
+  "log-167": {
+    "player": "DalphaI",
+    "action": "Deploy",
+    "card": "OP05-091"
+  },
+  "log-168": {
+    "player": "DalphaI",
+    "action": "Draw from Trash",
+    "card": "EB01-046"
+  },
+  "log-169": {
+    "player": "DalphaI",
+    "action": "Brook effect",
+    "card": "EB01-046",
+    "effect": "Benn Beckman Cost -1",
+    "target_card": "OP09-009"
+  },
+  "log-170": {
+    "player": "DalphaI",
+    "action": "Brook effect",
+    "card": "EB01-046",
+    "effect": "Destroy Benn Beckman",
+    "target_card": "OP09-009"
+  },
+  "log-171": {
+    "player": "DalphaI",
+    "action": "End Turn"
+  },
+  "log-172": {
+    "player": "Pirate26156",
+    "action": "Hand state",
+    "cards": ["OP01-006", "OP08-118", "OP01-006", "OP04-016", "OP01-006", "OP10-005", "OP09-011"]
+  },
+  "log-173": {
+    "player": "Pirate26156",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-174": {
+    "player": "Pirate26156",
+    "action": "Trash state",
+    "cards": ["OP09-015", "OP09-009"]
+  },
+  "log-175": {
+    "player": "Pirate26156",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-176": {
+    "player": "DalphaI",
+    "action": "Hand state",
+    "cards": ["OP07-096", "OP05-091", "OP07-096", "OP02-106"]
+  },
+  "log-177": {
+    "player": "DalphaI",
+    "action": "Trash state",
+    "cards": ["OP02-121", "OP08-084", "OP05-081", "OP08-091", "OP05-093", "OP02-096", "EB01-043", "OP08-084", "ST08-002"]
+  },
+  "log-178": {
+    "player": "DalphaI",
+    "action": "Board state",
+    "cards": ["ST08-002", "EB01-048", "OP05-091", "EB01-046"]
+  },
+  "log-179": {
+    "player": "DalphaI",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-180": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "OP09-008"
+  },
+  "log-181": {
+    "player": "Pirate26156",
+    "action": "Draw 1 Card"
+  },
+  "log-182": {
+    "player": "Pirate26156",
+    "action": "Draw 2 Don"
+  },
+  "log-183": {
+    "player": "Pirate26156",
+    "action": "Deploy",
+    "card": "OP08-118"
+  },
+  "log-184": {
+    "player": "Pirate26156",
+    "action": "Silvers Rayleigh effect",
+    "card": "OP08-118",
+    "effect": "Grant Brook -3000 until next turn end",
+    "target_card": "EB01-046"
+  },
+  "log-185": {
+    "player": "Pirate26156",
+    "action": "Silvers Rayleigh effect",
+    "card": "OP08-118",
+    "effect": "Grant Laboon -2000 until next turn end",
+    "target_card": "EB01-048"
+  },
+  "log-186": {
+    "player": "Pirate26156",
+    "action": "Silvers Rayleigh effect",
+    "card": "OP08-118",
+    "effect": "Destroy Brook",
+    "target_card": "EB01-046"
+  },
+  "log-187": {
+    "player": "Pirate26156",
+    "action": "Attach 1 Don to Shanks",
+    "card": "OP09-001",
+    "total_don": 1
+  },
+  "log-188": {
+    "player": "Pirate26156",
+    "action": "Shanks attacking Rob Lucci",
+    "attacker": "OP09-001",
+    "defender": "OP07-079"
+  },
+  "log-189": {
+    "player": "DalphaI",
+    "action": "Discard for Counter 2000",
+    "card": "OP02-106"
+  },
+  "log-190": {
+    "player": "System",
+    "action": "Battle",
+    "attacker_card": "Shanks",
+    "attacker_id": "OP09-001",
+    "attacker_power": 6000,
+    "defender_card": "Rob Lucci",
+    "defender_id": "OP07-079",
+    "defender_power": 7000
+  },
+  "log-191": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-192": {
+    "player": "Pirate26156",
+    "action": "Hand state",
+    "cards": ["OP01-006", "OP01-006", "OP04-016", "OP10-005", "OP09-011", "OP09-008"]
+  },
+  "log-193": {
+    "player": "Pirate26156",
+    "action": "Board state",
+    "cards": ["OP08-118"]
+  },
+  "log-194": {
+    "player": "Pirate26156",
+    "action": "Trash state",
+    "cards": ["OP09-015", "OP09-009"]
+  },
+  "log-195": {
+    "player": "Pirate26156",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-196": {
+    "player": "DalphaI",
+    "action": "Hand state",
+    "cards": ["OP07-096", "OP05-091", "OP07-096"]
+  },
+  "log-197": {
+    "player": "DalphaI",
+    "action": "Trash state",
+    "cards": ["OP02-121", "OP08-084", "OP05-081", "OP08-091", "OP05-093", "OP02-096", "EB01-043", "OP08-084", "ST08-002", "EB01-046", "OP02-106"]
+  },
+  "log-198": {
+    "player": "DalphaI",
+    "action": "Board state",
+    "cards": ["ST08-002", "EB01-048", "OP05-091"]
+  },
+  "log-199": {
+    "player": "DalphaI",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-200": {
+    "player": "Pirate26156",
+    "action": "End Turn"
+  },
+  "log-201": {
+    "player": "DalphaI",
+    "action": "Draw 1 Card"
+  },
+  "log-202": {
+    "player": "DalphaI",
+    "action": "Drew card from deck",
+    "card": "OP02-096"
+  },
+  "log-203": {
+    "player": "DalphaI",
+    "action": "Draw 2 Don"
+  },
+  "log-204": {
+    "player": "DalphaI",
+    "action": "Laboon effect",
+    "card": "EB01-048",
+    "effect": "Silvers Rayleigh Cost -4",
+    "target_card": "OP08-118"
+  },
+  "log-205": {
+    "player": "DalphaI",
+    "action": "Deploy",
+    "card": "OP02-096"
+  },
+  "log-206": {
+    "player": "DalphaI",
+    "action": "Uta effect",
+    "card": "ST08-002",
+    "effect": "Silvers Rayleigh Cost -2",
+    "target_card": "OP08-118"
+  },
+  "log-207": {
+    "player": "DalphaI",
+    "action": "Attach 2 Don to Rob Lucci",
+    "card": "OP07-079",
+    "total_don": 2
+  },
+  "log-208": {
+    "player": "DalphaI",
+    "action": "Rob Lucci attacking Shanks",
+    "attacker": "OP07-079",
+    "defender": "OP09-001"
+  },
+  "log-209": {
+    "player": "DalphaI",
+    "action": "Rob Lucci effect",
+    "card": "OP07-079",
+    "effect": "Trash 2 Cards from Deck"
+  },
+  "log-210": {
+    "player": "DalphaI",
+    "action": "Rob Lucci effect",
+    "card": "OP07-079",
+    "effect": "Silvers Rayleigh Cost -1",
+    "target_card": "OP08-118"
+  },
+  "log-211": {
+    "player": "Pirate26156",
+    "action": "Shanks effect",
+    "card": "OP09-001",
+    "effect": "Buff Rob Lucci -1000",
+    "target_card": "OP07-079"
+  },
+  "log-212": {
+    "player": "Pirate26156",
+    "action": "Discard for Counter 2000",
+    "card": "OP01-006"
+  },
+  "log-213": {
+    "player": "System",
+    "action": "Battle",
+    "attacker_card": "Rob Lucci",
+    "attacker_id": "OP07-079",
+    "attacker_power": 6000,
+    "defender_card": "Shanks",
+    "defender_id": "OP09-001",
+    "defender_power": 7000
+  },
+  "log-214": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-215": {
+    "player": "DalphaI",
+    "action": "Deploy",
+    "card": "OP02-096"
+  },
+  "log-216": {
+    "player": "DalphaI",
+    "action": "Drew card from deck",
+    "card": "OP05-081"
+  },
+  "log-217": {
+    "player": "DalphaI",
+    "action": "Kuzan effect",
+    "card": "OP02-096",
+    "effect": "Draw 1 Card"
+  },
+  "log-218": {
+    "player": "DalphaI",
+    "action": "Deploy",
+    "card": "OP05-091"
+  },
+  "log-219": {
+    "player": "DalphaI",
+    "action": "Draw from Trash",
+    "card": "EB01-046"
+  },
+  "log-220": {
+    "player": "DalphaI",
+    "action": "Trash",
+    "card": "ST08-002"
+  },
+  "log-221": {
+    "player": "DalphaI",
+    "action": "Brook effect",
+    "card": "EB01-046",
+    "effect": "Silvers Rayleigh Cost -1",
+    "target_card": "OP08-118"
+  },
+  "log-222": {
+    "player": "DalphaI",
+    "action": "Brook effect",
+    "card": "EB01-046",
+    "effect": "Destroy Silvers Rayleigh",
+    "target_card": "OP08-118"
+  },
+  "log-223": {
+    "player": "DalphaI",
+    "action": "End Turn"
+  },
+  "log-224": {
+    "player": "Pirate26156",
+    "action": "Hand state",
+    "cards": ["OP01-006", "OP01-006", "OP04-016", "OP10-005", "OP09-011", "OP09-008"]
+  },
+  "log-225": {
+    "player": "Pirate26156",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-226": {
+    "player": "Pirate26156",
+    "action": "Trash state",
+    "cards": ["OP09-015", "OP09-009", "OP01-006", "OP08-118"]
+  },
+  "log-227": {
+    "player": "Pirate26156",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-228": {
+    "player": "DalphaI",
+    "action": "Hand state",
+    "cards": ["OP07-096", "OP07-096", "OP05-081"]
+  },
+  "log-229": {
+    "player": "DalphaI",
+    "action": "Trash state",
+    "cards": ["OP02-121", "OP08-084", "OP05-081", "OP08-091", "OP05-093", "OP02-096", "EB01-043", "OP08-084", "ST08-002", "OP02-106", "OP03-081", "OP02-106", "ST08-002"]
+  },
+  "log-230": {
+    "player": "DalphaI",
+    "action": "Board state",
+    "cards": ["EB01-048", "OP05-091", "OP02-096", "OP05-091", "EB01-046"]
+  },
+  "log-231": {
+    "player": "DalphaI",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-232": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "OP08-118"
+  },
+  "log-233": {
+    "player": "Pirate26156",
+    "action": "Draw 1 Card"
+  },
+  "log-234": {
+    "player": "Pirate26156",
+    "action": "Draw 2 Don"
+  },
+  "log-235": {
+    "player": "Pirate26156",
+    "action": "Deploy",
+    "card": "OP08-118"
+  },
+  "log-236": {
+    "player": "Pirate26156",
+    "action": "Silvers Rayleigh effect",
+    "card": "OP08-118",
+    "effect": "Grant Laboon -3000 until next turn end",
+    "target_card": "EB01-048"
+  },
+  "log-237": {
+    "player": "Pirate26156",
+    "action": "Silvers Rayleigh effect",
+    "card": "OP08-118",
+    "effect": "Grant Brook -2000 until next turn end",
+    "target_card": "EB01-046"
+  },
+  "log-238": {
+    "player": "Pirate26156",
+    "action": "Silvers Rayleigh effect",
+    "card": "OP08-118",
+    "effect": "Destroy Rebecca",
+    "target_card": "OP05-091"
+  },
+  "log-239": {
+    "player": "Pirate26156",
+    "action": "Attach 2 Don to Shanks",
+    "card": "OP09-001",
+    "total_don": 2
+  },
+  "log-240": {
+    "player": "Pirate26156",
+    "action": "Shanks attacking Rob Lucci",
+    "attacker": "OP09-001",
+    "defender": "OP07-079"
+  },
+  "log-241": {
+    "player": "System",
+    "action": "Battle",
+    "attacker_card": "Shanks",
+    "attacker_id": "OP09-001",
+    "attacker_power": 7000,
+    "defender_card": "Rob Lucci",
+    "defender_id": "OP07-079",
+    "defender_power": 5000
+  },
+  "log-242": {
+    "player": "Rob Lucci",
+    "action": "hit for 1 damage",
+    "card": "OP07-079"
+  },
+  "log-243": {
+    "player": "Pirate26156",
+    "action": "Hand state",
+    "cards": ["OP01-006", "OP01-006", "OP04-016", "OP10-005", "OP09-011", "OP09-008"]
+  },
+  "log-244": {
+    "player": "Pirate26156",
+    "action": "Board state",
+    "cards": ["OP08-118"]
+  },
+  "log-245": {
+    "player": "Pirate26156",
+    "action": "Trash state",
+    "cards": ["OP09-015", "OP09-009", "OP01-006", "OP08-118"]
+  },
+  "log-246": {
+    "player": "Pirate26156",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-247": {
+    "player": "DalphaI",
+    "action": "Hand state",
+    "cards": ["OP07-096", "OP07-096", "OP05-081", "OP07-096"]
+  },
+  "log-248": {
+    "player": "DalphaI",
+    "action": "Trash state",
+    "cards": ["OP02-121", "OP08-084", "OP05-081", "OP08-091", "OP05-093", "OP02-096", "EB01-043", "OP08-084", "ST08-002", "OP02-106", "OP03-081", "OP02-106", "ST08-002", "OP05-091"]
+  },
+  "log-249": {
+    "player": "DalphaI",
+    "action": "Board state",
+    "cards": ["EB01-048", "OP05-091", "OP02-096", "EB01-046"]
+  },
+  "log-250": {
+    "player": "DalphaI",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-251": {
+    "player": "Pirate26156",
+    "action": "End Turn"
+  },
+  "log-252": {
+    "player": "DalphaI",
+    "action": "Draw 1 Card"
+  },
+  "log-253": {
+    "player": "DalphaI",
+    "action": "Drew card from deck",
+    "card": "OP02-121"
+  },
+  "log-254": {
+    "player": "DalphaI",
+    "action": "Laboon effect",
+    "card": "EB01-048",
+    "effect": "Silvers Rayleigh Cost -4",
+    "target_card": "OP08-118"
+  },
+  "log-255": {
+    "player": "DalphaI",
+    "action": "Deploy",
+    "card": "OP02-121"
+  },
+  "log-256": {
+    "player": "DalphaI",
+    "action": "Kuzan effect",
+    "card": "OP02-121",
+    "effect": "Destroy Silvers Rayleigh",
+    "target_card": "OP08-118"
+  },
+  "log-257": {
+    "player": "DalphaI",
+    "action": "Rob Lucci attacking Shanks",
+    "attacker": "OP07-079",
+    "defender": "OP09-001"
+  },
+  "log-258": {
+    "player": "DalphaI",
+    "action": "Rob Lucci effect",
+    "card": "OP07-079",
+    "effect": "Trash 2 Cards from Deck"
+  },
+  "log-259": {
+    "player": "Pirate26156",
+    "action": "Shanks effect",
+    "card": "OP09-001",
+    "effect": "Buff Kuzan -1000",
+    "target_card": "OP02-096"
+  },
+  "log-260": {
+    "player": "System",
+    "action": "Battle",
+    "attacker_card": "Rob Lucci",
+    "attacker_id": "OP07-079",
+    "attacker_power": 5000,
+    "defender_card": "Shanks",
+    "defender_id": "OP09-001",
+    "defender_power": 5000
+  },
+  "log-261": {
+    "player": "Shanks",
+    "action": "hit for 1 damage",
+    "card": "OP09-001"
+  },
+  "log-262": {
+    "player": "DalphaI",
+    "action": "End Turn"
+  },
+  "log-263": {
+    "player": "Pirate26156",
+    "action": "Hand state",
+    "cards": ["OP01-006", "OP01-006", "OP04-016", "OP10-005", "OP09-011", "OP09-008", "OP09-009"]
+  },
+  "log-264": {
+    "player": "Pirate26156",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-265": {
+    "player": "Pirate26156",
+    "action": "Trash state",
+    "cards": ["OP09-015", "OP09-009", "OP01-006", "OP08-118", "OP08-118"]
+  },
+  "log-266": {
+    "player": "Pirate26156",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-267": {
+    "player": "DalphaI",
+    "action": "Hand state",
+    "cards": ["OP07-096", "OP07-096", "OP05-081", "OP07-096"]
+  },
+  "log-268": {
+    "player": "DalphaI",
+    "action": "Trash state",
+    "cards": ["OP02-121", "OP08-084", "OP05-081", "OP08-091", "OP05-093", "OP02-096", "EB01-043", "OP08-084", "ST08-002", "OP02-106", "OP03-081", "OP02-106", "ST08-002", "OP05-091", "OP05-093", "OP02-096"]
+  },
+  "log-269": {
+    "player": "DalphaI",
+    "action": "Board state",
+    "cards": ["EB01-048", "OP05-091", "OP02-096", "EB01-046", "OP02-121"]
+  },
+  "log-270": {
+    "player": "DalphaI",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-271": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "OP10-005"
+  },
+  "log-272": {
+    "player": "Pirate26156",
+    "action": "Draw 1 Card"
+  },
+  "log-273": {
+    "player": "Pirate26156",
+    "action": "Deploy",
+    "card": "OP09-009"
+  },
+  "log-274": {
+    "player": "Pirate26156",
+    "action": "Benn Beckman effect",
+    "card": "OP09-009",
+    "effect": "Trash Kuzan",
+    "target_card": "OP02-096"
+  },
+  "log-275": {
+    "player": "Pirate26156",
+    "action": "Deploy",
+    "card": "OP10-005"
+  },
+  "log-276": {
+    "player": "Pirate26156",
+    "action": "Shanks attacking Laboon",
+    "attacker": "OP09-001",
+    "defender": "EB01-048"
+  },
+  "log-277": {
+    "player": "System",
+    "action": "Battle",
+    "attacker_card": "Shanks",
+    "attacker_id": "OP09-001",
+    "attacker_power": 5000,
+    "defender_card": "Laboon",
+    "defender_id": "EB01-048",
+    "defender_power": 5000
+  },
+  "log-278": {
+    "player": "DalphaI",
+    "action": "Laboon Destroyed",
+    "card": "EB01-048"
+  },
+  "log-279": {
+    "player": "Pirate26156",
+    "action": "Hand state",
+    "cards": ["OP01-006", "OP01-006", "OP04-016", "OP10-005", "OP09-011", "OP09-008"]
+  },
+  "log-280": {
+    "player": "Pirate26156",
+    "action": "Board state",
+    "cards": ["OP09-009", "OP10-005"]
+  },
+  "log-281": {
+    "player": "Pirate26156",
+    "action": "Trash state",
+    "cards": ["OP09-015", "OP09-009", "OP01-006", "OP08-118", "OP08-118"]
+  },
+  "log-282": {
+    "player": "Pirate26156",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-283": {
+    "player": "DalphaI",
+    "action": "Hand state",
+    "cards": ["OP07-096", "OP07-096", "OP05-081", "OP07-096"]
+  },
+  "log-284": {
+    "player": "DalphaI",
+    "action": "Trash state",
+    "cards": ["OP02-121", "OP08-084", "OP05-081", "OP08-091", "OP05-093", "OP02-096", "EB01-043", "OP08-084", "ST08-002", "OP02-106", "OP03-081", "OP02-106", "ST08-002", "OP05-091", "OP05-093", "OP02-096", "OP02-096", "EB01-048"]
+  },
+  "log-285": {
+    "player": "DalphaI",
+    "action": "Board state",
+    "cards": ["OP05-091", "EB01-046", "OP02-121"]
+  },
+  "log-286": {
+    "player": "DalphaI",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-287": {
+    "player": "Pirate26156",
+    "action": "End Turn"
+  },
+  "log-288": {
+    "player": "DalphaI",
+    "action": "Draw 1 Card"
+  },
+  "log-289": {
+    "player": "DalphaI",
+    "action": "Drew card from deck",
+    "card": "EB01-051"
+  },
+  "log-290": {
+    "player": "DalphaI",
+    "action": "Drew card from deck",
+    "card": "EB01-046"
+  },
+  "log-291": {
+    "player": "DalphaI",
+    "action": "Tempest Kick effect",
+    "card": "OP07-096",
+    "effect": "Draw 1 Card"
+  },
+  "log-292": {
+    "player": "DalphaI",
+    "action": "Tempest Kick effect",
+    "card": "OP07-096",
+    "effect": "Benn Beckman Cost -3",
+    "target_card": "OP09-009"
+  },
+  "log-293": {
+    "player": "DalphaI",
+    "action": "Deploy",
+    "card": "EB01-046"
+  },
+  "log-294": {
+    "player": "DalphaI",
+    "action": "Brook effect",
+    "card": "EB01-046",
+    "effect": "Benn Beckman Cost -1",
+    "target_card": "OP09-009"
+  },
+  "log-295": {
+    "player": "DalphaI",
+    "action": "Brook effect",
+    "card": "EB01-046",
+    "effect": "Destroy Benn Beckman",
+    "target_card": "OP09-009"
+  },
+  "log-296": {
+    "player": "DalphaI",
+    "action": "Attach 2 Don to Brook",
+    "card": "EB01-046",
+    "total_don": 2
+  },
+  "log-297": {
+    "player": "DalphaI",
+    "action": "Brook attacking Shanks",
+    "attacker": "EB01-046",
+    "defender": "OP09-001"
+  },
+  "log-298": {
+    "player": "DalphaI",
+    "action": "Brook effect",
+    "card": "EB01-046",
+    "effect": "Sanji Cost -1",
+    "target_card": "OP10-005"
+  },
+  "log-299": {
+    "player": "DalphaI",
+    "action": "Brook effect",
+    "card": "EB01-046",
+    "effect": "Destroy Sanji",
+    "target_card": "OP10-005"
+  },
+  "log-300": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "OP09-011"
+  },
+  "log-301": {
+    "player": "Pirate26156",
+    "action": "Shanks effect",
+    "card": "OP09-001",
+    "effect": "Buff Brook -1000",
+    "target_card": "EB01-046"
+  },
+  "log-302": {
+    "player": "Pirate26156",
+    "action": "Sanji effect",
+    "card": "OP10-005",
+    "effect": "Draw 1 Card"
+  },
+  "log-303": {
+    "player": "Pirate26156",
+    "action": "Discard for Counter 1000",
+    "card": "OP10-005"
+  },
+  "log-304": {
+    "player": "System",
+    "action": "Battle",
+    "attacker_card": "Brook",
+    "attacker_id": "EB01-046",
+    "attacker_power": 5000,
+    "defender_card": "Shanks",
+    "defender_id": "OP09-001",
+    "defender_power": 6000
+  },
+  "log-305": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-306": {
+    "player": "DalphaI",
+    "action": "Attach 2 Don to Rob Lucci",
+    "card": "OP07-079",
+    "total_don": 2
+  },
+  "log-307": {
+    "player": "DalphaI",
+    "action": "Attach 2 Don to Rob Lucci",
+    "card": "OP07-079",
+    "total_don": 4
+  },
+  "log-308": {
+    "player": "DalphaI",
+    "action": "Rob Lucci attacking Shanks",
+    "attacker": "OP07-079",
+    "defender": "OP09-001"
+  },
+  "log-309": {
+    "player": "DalphaI",
+    "action": "Rob Lucci effect",
+    "card": "OP07-079",
+    "effect": "Trash 2 Cards from Deck"
+  },
+  "log-310": {
+    "player": "Pirate26156",
+    "action": "Trash",
+    "card": "OP09-008"
+  },
+  "log-311": {
+    "player": "Pirate26156",
+    "action": "Bad Manners Kick Course",
+    "card": "OP04-016",
+    "effect": "Counter 3000"
+  },
+  "log-312": {
+    "player": "Pirate26156",
+    "action": "Discard for Counter 2000",
+    "card": "OP09-011"
+  },
+  "log-313": {
+    "player": "System",
+    "action": "Battle",
+    "attacker_card": "Rob Lucci",
+    "attacker_id": "OP07-079",
+    "attacker_power": 9000,
+    "defender_card": "Shanks",
+    "defender_id": "OP09-001",
+    "defender_power": 10000
+  },
+  "log-314": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-315": {
+    "player": "DalphaI",
+    "action": "Kuzan attacking Shanks",
+    "attacker": "OP02-121",
+    "defender": "OP09-001"
+  },
+  "log-316": {
+    "player": "Pirate26156",
+    "action": "Shanks effect",
+    "card": "OP09-001",
+    "effect": "Buff Kuzan -1000",
+    "target_card": "OP02-121"
+  },
+  "log-317": {
+    "player": "Pirate26156",
+    "action": "Bad Manners Kick Course",
+    "card": "OP04-016",
+    "effect": "Counter 3000"
+  },
+  "log-318": {
+    "player": "System",
+    "action": "Battle",
+    "attacker_card": "Kuzan",
+    "attacker_id": "OP02-121",
+    "attacker_power": 9000,
+    "defender_card": "Shanks",
+    "defender_id": "OP09-001",
+    "defender_power": 9000
+  },
+  "log-319": {
+    "player": "Pirate26156",
+    "action": "Shanks Destroyed",
+    "card": "OP09-001"
+  },
+  "log-320": {
+    "player": "DalphaI",
+    "action": "End Turn"
+  },
+  "log-321": {
+    "player": "Pirate26156",
+    "action": "Hand state",
+    "cards": ["OP01-006", "OP01-006", "OP10-005"]
+  },
+  "log-322": {
+    "player": "Pirate26156",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-323": {
+    "player": "Pirate26156",
+    "action": "Trash state",
+    "cards": ["OP09-015", "OP09-009", "OP01-006", "OP08-118", "OP08-118", "OP09-008", "OP04-016", "OP09-011", "OP04-016", "OP09-001"]
+  },
+  "log-324": {
+    "player": "Pirate26156",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-325": {
+    "player": "DalphaI",
+    "action": "Hand state",
+    "cards": ["OP07-096", "OP07-096", "OP05-081", "OP07-096", "EB01-051", "EB01-046", "OP07-096"]
+  },
+  "log-326": {
+    "player": "DalphaI",
+    "action": "Trash state",
+    "cards": ["OP02-121", "OP08-084", "OP05-081", "OP08-091", "OP05-093", "OP02-096", "EB01-043", "OP08-084", "ST08-002", "OP02-106", "OP03-081", "OP02-106", "ST08-002", "OP05-091", "OP05-093", "OP02-096", "OP02-096", "EB01-048", "OP08-091", "OP05-070", "OP05-070", "OP09-078"]
+  },
+  "log-327": {
+    "player": "DalphaI",
+    "action": "Board state",
+    "cards": ["OP05-091", "EB01-046", "OP02-121"]
+  },
+  "log-328": {
+    "player": "DalphaI",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-329": {
+    "player": "Pirate26156",
+    "action": "Draw 1 Card"
+  },
+  "log-330": {
+    "player": "Pirate26156",
+    "action": "Drew card from deck",
+    "card": "OP09-011"
+  },
+  "log-331": {
+    "player": "Pirate26156",
+    "action": "Pirate26156 conceded"
+  }
+}
