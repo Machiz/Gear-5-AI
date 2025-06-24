@@ -47,7 +47,7 @@ def build_dqn(lr, n_actions, input_dims, fc1_dims, fc2_dims):
         keras.layers.Dense(fc2_dims, activation = 'relu'),
         keras.layers.Dense(n_actions, activation = None)])
     model.compile(optimizer = Adam(learning_rate = lr), loss = 'mean_squared_error')
-
+    model.summary()
     return model
 
 class Agent():
@@ -77,21 +77,22 @@ class Agent():
             states = np.array(list(states))
             action = self.q_eval.predict(state)
         return action
-    
+    #@tf.function
     def learn(self):
-        tf.config.run_functions_eagerly(True)
+        
+        #tf.config.run_functions_eagerly(True)
         if self.memory.mem_cntr< self.batch_size:
             return
         states, actions, rewards, states_, dones = \
             self.memory.sample_buffer(self.batch_size)
-        #states = np.array(list(states))
-        #states_ = np.array(list(states))
+        states= np.array(list(states))
+        states_ = np.array(list(states))
         print("🧪 Tipo de states:", type(states))
         print("🧪 Shape de states:", np.shape(states))
         print("🧪 Ejemplo de estado:", states[0])
-        q_eval = self.q_eval.predict(states, batch_size=self.batch_size)
-        q_next = self.q_eval.predict(states_, batch_size=self.batch_size)
-
+        q_eval = self.q_eval.predict(states)
+        q_next = self.q_eval.predict(states_)
+        print(q_eval, q_next)
         q_target = np.copy(q_eval)
         batch_index = np.arrange(self.batch_size, dtype = np.int32)
 
