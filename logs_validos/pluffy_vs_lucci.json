@@ -1,0 +1,1868 @@
+{
+  "log-003": {
+    "player": "Askeel",
+    "action": "Leader is Rob Lucci",
+    "card": "OP07-079"
+  },
+  "log-004": {
+    "player": "You",
+    "action": "Will select turn order"
+  },
+  "log-005": {
+    "player": "Mhcuber",
+    "action": "Player connected"
+  },
+  "log-007": {
+    "player": "Mhcuber",
+    "action": "Leader is Monkey D. Luffy",
+    "card": "OP05-060"
+  },
+  "log-008": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP06-076"
+  },
+  "log-009": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "EB01-061"
+  },
+  "log-010": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP05-070"
+  },
+  "log-011": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP09-069"
+  },
+  "log-012": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP09-078"
+  },
+  "log-013": {
+    "player": "Mhcuber",
+    "action": "Hand state before Mulligan",
+    "cards": [
+      "OP06-076",
+      "EB01-061",
+      "OP05-070",
+      "OP09-069",
+      "OP09-078"
+    ]
+  },
+  "log-014": {
+    "player": "Mhcuber",
+    "action": "Chose to go First"
+  },
+  "log-015": {
+    "player": "Askeel",
+    "action": "Drew card from deck",
+    "card": "OP03-086"
+  },
+  "log-016": {
+    "player": "Askeel",
+    "action": "Drew card from deck",
+    "card": "OP05-093"
+  },
+  "log-017": {
+    "player": "Askeel",
+    "action": "Drew card from deck",
+    "card": "OP03-081"
+  },
+  "log-018": {
+    "player": "Askeel",
+    "action": "Drew card from deck",
+    "card": "OP05-091"
+  },
+  "log-019": {
+    "player": "Askeel",
+    "action": "Drew card from deck",
+    "card": "OP05-093"
+  },
+  "log-020": {
+    "player": "Askeel",
+    "action": "Drew card from deck",
+    "card": "ST06-008"
+  },
+  "log-021": {
+    "player": "Askeel",
+    "action": "Drew card from deck",
+    "card": "OP05-081"
+  },
+  "log-022": {
+    "player": "Askeel",
+    "action": "Drew card from deck",
+    "card": "OP05-093"
+  },
+  "log-023": {
+    "player": "Askeel",
+    "action": "Drew card from deck",
+    "card": "OP03-086"
+  },
+  "log-024": {
+    "player": "Askeel",
+    "action": "Drew card from deck",
+    "card": "ST08-004"
+  },
+  "log-025": {
+    "player": "Askeel",
+    "action": "Mulligan"
+  },
+  "log-026": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP06-076",
+      "EB01-061",
+      "OP05-070",
+      "OP09-069",
+      "OP09-078"
+    ]
+  },
+  "log-027": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-028": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-029": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-030": {
+    "player": "Askeel",
+    "action": "Hand state",
+    "cards": [
+      "ST06-008",
+      "OP05-081",
+      "OP05-093",
+      "OP03-086",
+      "ST08-004"
+    ]
+  },
+  "log-031": {
+    "player": "Askeel",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-032": {
+    "player": "Askeel",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-033": {
+    "player": "Askeel",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-034": {
+    "player": "Mhcuber",
+    "action": "Draw Don",
+    "don": 1
+  },
+  "log-035": {
+    "player": "Mhcuber",
+    "action": "Deploy card",
+    "card": "OP09-069"
+  },
+  "log-036": {
+    "player": "Mhcuber",
+    "action": "Reveal and Draw",
+    "card": "OP07-064"
+  },
+  "log-037": {
+    "player": "Mhcuber",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-038": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP06-076",
+      "EB01-061",
+      "OP05-070",
+      "OP09-078",
+      "OP07-064"
+    ]
+  },
+  "log-039": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP09-069"
+    ]
+  },
+  "log-040": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-041": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-042": {
+    "player": "Askeel",
+    "action": "Hand state",
+    "cards": [
+      "ST06-008",
+      "OP05-081",
+      "OP05-093",
+      "OP03-086",
+      "ST08-004"
+    ]
+  },
+  "log-043": {
+    "player": "Askeel",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-044": {
+    "player": "Askeel",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-045": {
+    "player": "Askeel",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-046": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-047": {
+    "player": "Askeel",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-048": {
+    "player": "Askeel",
+    "action": "Drew card from deck",
+    "card": "OP02-106"
+  },
+  "log-049": {
+    "player": "Askeel",
+    "action": "Draw Don",
+    "don": 2
+  },
+  "log-050": {
+    "player": "Askeel",
+    "action": "Deploy card",
+    "card": "OP03-086"
+  },
+  "log-051": {
+    "player": "Askeel",
+    "action": "Reveal and Draw",
+    "card": "OP07-085"
+  },
+  "log-052": {
+    "player": "Askeel",
+    "action": "Card effect: Trash",
+    "card": "OP03-086",
+    "effect": "Trash 2 Remaining Cards"
+  },
+  "log-053": {
+    "player": "Askeel",
+    "action": "End Turn"
+  },
+  "log-054": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP06-076",
+      "EB01-061",
+      "OP05-070",
+      "OP09-078",
+      "OP07-064"
+    ]
+  },
+  "log-055": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP09-069"
+    ]
+  },
+  "log-056": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-057": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-058": {
+    "player": "Askeel",
+    "action": "Hand state",
+    "cards": [
+      "ST06-008",
+      "OP05-081",
+      "OP05-093",
+      "ST08-004",
+      "OP02-106",
+      "OP07-085"
+    ]
+  },
+  "log-059": {
+    "player": "Askeel",
+    "action": "Trash state",
+    "cards": [
+      "OP05-094",
+      "OP07-085"
+    ]
+  },
+  "log-060": {
+    "player": "Askeel",
+    "action": "Board state",
+    "cards": [
+      "OP03-086"
+    ]
+  },
+  "log-061": {
+    "player": "Askeel",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-062": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-004"
+  },
+  "log-063": {
+    "player": "Mhcuber",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-064": {
+    "player": "Mhcuber",
+    "action": "Draw Don",
+    "don": 2
+  },
+  "log-065": {
+    "player": "Mhcuber",
+    "action": "Loses 1 Life"
+  },
+  "log-066": {
+    "player": "Monkey D. Luffy",
+    "action": "Draw 1 Don",
+    "card": "OP05-060"
+  },
+  "log-067": {
+    "player": "Mhcuber",
+    "action": "Deploy card",
+    "card": "EB01-061"
+  },
+  "log-068": {
+    "player": "Mr. 2 Bon Clay (Bentham)",
+    "action": "Draw 1 Don",
+    "card": "EB01-061"
+  },
+  "log-069": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "don_attached": 1,
+    "card": "OP05-060",
+    "total_don": 1
+  },
+  "log-070": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "OP05-060",
+    "defender": "OP07-079"
+  },
+  "log-071": {
+    "player": "Askeel",
+    "action": "Discard for Counter",
+    "card": "OP02-106",
+    "counter_amount": 2000
+  },
+  "log-072": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "OP05-060",
+    "attacker_power": 6000,
+    "defender": "OP07-079",
+    "defender_power": 7000
+  },
+  "log-073": {
+    "player": "Mhcuber",
+    "action": "Attack Fails"
+  },
+  "log-074": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP06-076",
+      "OP05-070",
+      "OP09-078",
+      "OP07-064",
+      "ST18-004",
+      "OP09-065"
+    ]
+  },
+  "log-075": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP09-069",
+      "EB01-061"
+    ]
+  },
+  "log-076": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-077": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-078": {
+    "player": "Askeel",
+    "action": "Hand state",
+    "cards": [
+      "ST06-008",
+      "OP05-081",
+      "OP05-093",
+      "ST08-004",
+      "OP07-085"
+    ]
+  },
+  "log-079": {
+    "player": "Askeel",
+    "action": "Trash state",
+    "cards": [
+      "OP05-094",
+      "OP07-085",
+      "OP02-106"
+    ]
+  },
+  "log-080": {
+    "player": "Askeel",
+    "action": "Board state",
+    "cards": [
+      "OP03-086"
+    ]
+  },
+  "log-081": {
+    "player": "Askeel",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-082": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-083": {
+    "player": "Askeel",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-084": {
+    "player": "Askeel",
+    "action": "Drew card from deck",
+    "card": "ST08-004"
+  },
+  "log-085": {
+    "player": "Askeel",
+    "action": "Draw 2 Don",
+    "don": 2
+  },
+  "log-086": {
+    "player": "Askeel",
+    "action": "Attach Don",
+    "don_attached": 3,
+    "card": "OP03-086",
+    "total_don": 3
+  },
+  "log-087": {
+    "player": "Askeel",
+    "action": "Attacking",
+    "attacker": "OP03-086",
+    "defender": "OP05-060"
+  },
+  "log-088": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP09-065",
+    "counter_amount": 1000
+  },
+  "log-089": {
+    "player": "Askeel",
+    "action": "Attack details",
+    "attacker": "OP03-086",
+    "attacker_power": 5000,
+    "defender": "OP05-060",
+    "defender_power": 6000
+  },
+  "log-090": {
+    "player": "Askeel",
+    "action": "Attack Fails"
+  },
+  "log-091": {
+    "player": "Askeel",
+    "action": "Attach Don",
+    "don_attached": 1,
+    "card": "OP07-079",
+    "total_don": 1
+  },
+  "log-092": {
+    "player": "Askeel",
+    "action": "Attacking",
+    "attacker": "OP07-079",
+    "defender": "OP05-060"
+  },
+  "log-093": {
+    "player": "Rob Lucci",
+    "action": "Trash 2 Cards from Deck",
+    "card": "OP07-079"
+  },
+  "log-094": {
+    "player": "Rob Lucci",
+    "action": "Cost -1",
+    "card": "OP07-079",
+    "target_card": "EB01-061"
+  },
+  "log-095": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP07-064",
+    "counter_amount": 2000
+  },
+  "log-096": {
+    "player": "Askeel",
+    "action": "Attack details",
+    "attacker": "OP07-079",
+    "attacker_power": 6000,
+    "defender": "OP05-060",
+    "defender_power": 7000
+  },
+  "log-097": {
+    "player": "Askeel",
+    "action": "Attack Fails"
+  },
+  "log-098": {
+    "player": "Mr. 2 Bon Clay (Bentham)",
+    "action": "Cost restored",
+    "card": "EB01-061"
+  },
+  "log-099": {
+    "player": "Askeel",
+    "action": "End Turn"
+  },
+  "log-100": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP06-076",
+      "OP05-070",
+      "OP09-078",
+      "ST18-004"
+    ]
+  },
+  "log-101": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP09-069",
+      "EB01-061"
+    ]
+  },
+  "log-102": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP09-065",
+      "OP07-064"
+    ]
+  },
+  "log-103": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-104": {
+    "player": "Askeel",
+    "action": "Hand state",
+    "cards": [
+      "ST06-008",
+      "OP05-081",
+      "OP05-093",
+      "ST08-004",
+      "OP07-085",
+      "ST08-004"
+    ]
+  },
+  "log-105": {
+    "player": "Askeel",
+    "action": "Trash state",
+    "cards": [
+      "OP05-094",
+      "OP07-085",
+      "OP02-106",
+      "EB01-043",
+      "OP05-094"
+    ]
+  },
+  "log-106": {
+    "player": "Askeel",
+    "action": "Board state",
+    "cards": [
+      "OP03-086"
+    ]
+  },
+  "log-107": {
+    "player": "Askeel",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-108": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST10-010"
+  },
+  "log-109": {
+    "player": "Mhcuber",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-110": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don",
+    "don": 2
+  },
+  "log-111": {
+    "player": "Mhcuber",
+    "action": "Loses 1 Life"
+  },
+  "log-112": {
+    "player": "Monkey D. Luffy",
+    "action": "Draw 1 Don",
+    "card": "OP05-060"
+  },
+  "log-113": {
+    "player": "Mhcuber",
+    "action": "Deploy card",
+    "card": "OP11-067"
+  },
+  "log-114": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "OP05-060",
+    "defender": "OP07-079"
+  },
+  "log-115": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "OP05-060",
+    "attacker_power": 5000,
+    "defender": "OP07-079",
+    "defender_power": 5000
+  },
+  "log-116": {
+    "player": "Rob Lucci",
+    "action": "hit for 1 damage",
+    "card": "OP07-079"
+  },
+  "log-117": {
+    "player": "Askeel",
+    "action": "Card effect: Trash 2 Cards from Deck",
+    "card": "EB01-051"
+  },
+  "log-118": {
+    "player": "Askeel",
+    "action": "Card effect: Destroy",
+    "card": "EB01-051",
+    "effect": "Destroy Mr. 2 Bon Clay (Bentham)",
+    "target_card": "EB01-061"
+  },
+  "log-119": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "OP09-069",
+    "defender": "OP03-086"
+  },
+  "log-120": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "OP09-069",
+    "attacker_power": 2000,
+    "defender": "OP03-086",
+    "defender_power": 2000
+  },
+  "log-121": {
+    "player": "Askeel",
+    "action": "Card Destroyed",
+    "card": "OP03-086"
+  },
+  "log-122": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP06-076",
+      "OP05-070",
+      "OP09-078",
+      "ST18-004",
+      "ST10-010"
+    ]
+  },
+  "log-123": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP09-069",
+      "OP11-067"
+    ]
+  },
+  "log-124": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP09-065",
+      "OP07-064",
+      "EB01-061"
+    ]
+  },
+  "log-125": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-126": {
+    "player": "Askeel",
+    "action": "Hand state",
+    "cards": [
+      "ST06-008",
+      "OP05-081",
+      "OP05-093",
+      "ST08-004",
+      "OP07-085",
+      "ST08-004"
+    ]
+  },
+  "log-127": {
+    "player": "Askeel",
+    "action": "Trash state",
+    "cards": [
+      "OP05-094",
+      "OP07-085",
+      "OP02-106",
+      "EB01-043",
+      "OP05-094",
+      "EB01-051",
+      "OP02-106",
+      "EB01-051",
+      "OP03-086"
+    ]
+  },
+  "log-128": {
+    "player": "Askeel",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-129": {
+    "player": "Askeel",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-130": {
+    "player": "Charlotte Katakuri",
+    "action": "Draw 1 Rested Don",
+    "card": "OP11-067"
+  },
+  "log-131": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-132": {
+    "player": "Askeel",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-133": {
+    "player": "Askeel",
+    "action": "Drew card from deck",
+    "card": "OP03-097"
+  },
+  "log-134": {
+    "player": "Askeel",
+    "action": "Draw 2 Don",
+    "don": 2
+  },
+  "log-135": {
+    "player": "Askeel",
+    "action": "Deploy card",
+    "card": "ST08-004"
+  },
+  "log-136": {
+    "player": "Koby",
+    "action": "Rest Koby",
+    "card": "ST08-004"
+  },
+  "log-137": {
+    "player": "Koby",
+    "action": "Destroy Trafalgar Law",
+    "card": "ST08-004",
+    "target_card": "OP09-069"
+  },
+  "log-138": {
+    "player": "Askeel",
+    "action": "Attach Don",
+    "don_attached": 2,
+    "card": "OP07-079",
+    "total_don": 2
+  },
+  "log-139": {
+    "player": "Askeel",
+    "action": "Attacking",
+    "attacker": "OP07-079",
+    "defender": "OP05-060"
+  },
+  "log-140": {
+    "player": "Mhcuber",
+    "action": "Block",
+    "card": "OP11-067"
+  },
+  "log-141": {
+    "player": "Askeel",
+    "action": "Attack details",
+    "attacker": "OP07-079",
+    "attacker_power": 7000,
+    "defender": "OP11-067",
+    "defender_power": 8000
+  },
+  "log-142": {
+    "player": "Askeel",
+    "action": "Attack Fails"
+  },
+  "log-143": {
+    "player": "Askeel",
+    "action": "End Turn"
+  },
+  "log-144": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP06-076",
+      "OP05-070",
+      "OP09-078",
+      "ST18-004",
+      "ST10-010"
+    ]
+  },
+  "log-145": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP11-067"
+    ]
+  },
+  "log-146": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP09-065",
+      "OP07-064",
+      "EB01-061",
+      "OP09-069"
+    ]
+  },
+  "log-147": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-148": {
+    "player": "Askeel",
+    "action": "Hand state",
+    "cards": [
+      "ST06-008",
+      "OP05-081",
+      "OP05-093",
+      "ST08-004",
+      "OP07-085",
+      "OP03-097"
+    ]
+  },
+  "log-149": {
+    "player": "Askeel",
+    "action": "Trash state",
+    "cards": [
+      "OP05-094",
+      "OP07-085",
+      "OP02-106",
+      "EB01-043",
+      "OP05-094",
+      "EB01-051",
+      "OP02-106",
+      "EB01-051",
+      "OP03-086"
+    ]
+  },
+  "log-150": {
+    "player": "Askeel",
+    "action": "Board state",
+    "cards": [
+      "ST08-004"
+    ]
+  },
+  "log-151": {
+    "player": "Askeel",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-152": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP05-077"
+  },
+  "log-153": {
+    "player": "Mhcuber",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-154": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don",
+    "don": 2
+  },
+  "log-155": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "don_attached": 1,
+    "card": "OP11-067",
+    "total_don": 1
+  },
+  "log-156": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "OP11-067",
+    "defender": "OP07-079"
+  },
+  "log-157": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "OP11-067",
+    "attacker_power": 9000,
+    "defender": "OP07-079",
+    "defender_power": 5000
+  },
+  "log-158": {
+    "player": "Rob Lucci",
+    "action": "hit for 1 damage",
+    "card": "OP07-079"
+  },
+  "log-159": {
+    "player": "Askeel",
+    "action": "Draw 2 Card",
+    "card": "OP05-094"
+  },
+  "log-160": {
+    "player": "Askeel",
+    "action": "Drew card from deck",
+    "card": "ST06-008"
+  },
+  "log-161": {
+    "player": "Askeel",
+    "action": "Drew card from deck",
+    "card": "OP02-106"
+  },
+  "log-162": {
+    "player": "Askeel",
+    "action": "Trash card",
+    "card": "ST06-008"
+  },
+  "log-163": {
+    "player": "Mhcuber",
+    "action": "Deploy card",
+    "card": "ST10-010"
+  },
+  "log-164": {
+    "player": "Mhcuber",
+    "action": "Card effect: Randomly send to Trash from Hand",
+    "card": "ST10-010",
+    "effect": "send One-Legged Soldier to Trash from Hand",
+    "target_card": "OP05-081"
+  },
+  "log-165": {
+    "player": "Mhcuber",
+    "action": "Card effect: Randomly send to Trash from Hand",
+    "card": "ST10-010",
+    "effect": "send Stussy to Trash from Hand",
+    "target_card": "OP07-085"
+  },
+  "log-166": {
+    "player": "Mhcuber",
+    "action": "Deploy card",
+    "card": "ST18-004"
+  },
+  "log-167": {
+    "player": "Mhcuber",
+    "action": "Reveal and Draw",
+    "card": "ST18-003"
+  },
+  "log-168": {
+    "player": "Mhcuber",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-169": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "OP05-060",
+    "defender": "ST08-004"
+  },
+  "log-170": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "OP05-060",
+    "attacker_power": 5000,
+    "defender": "ST08-004",
+    "defender_power": 1000
+  },
+  "log-171": {
+    "player": "Askeel",
+    "action": "Card Destroyed",
+    "card": "ST08-004"
+  },
+  "log-172": {
+    "player": "Charlotte Katakuri",
+    "action": "Set Charlotte Katakuri to Active",
+    "card": "OP11-067"
+  },
+  "log-173": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP06-076",
+      "OP05-070",
+      "OP09-078",
+      "OP05-077",
+      "ST18-003"
+    ]
+  },
+  "log-174": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP11-067",
+      "ST10-010",
+      "ST18-004"
+    ]
+  },
+  "log-175": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP09-065",
+      "OP07-064",
+      "EB01-061",
+      "OP09-069"
+    ]
+  },
+  "log-176": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-177": {
+    "player": "Askeel",
+    "action": "Hand state",
+    "cards": [
+      "ST06-008",
+      "OP05-093",
+      "ST08-004",
+      "OP03-097",
+      "OP02-106"
+    ]
+  },
+  "log-178": {
+    "player": "Askeel",
+    "action": "Trash state",
+    "cards": [
+      "OP05-094",
+      "OP07-085",
+      "OP02-106",
+      "EB01-043",
+      "OP05-094",
+      "EB01-051",
+      "OP02-106",
+      "EB01-051",
+      "OP03-086",
+      "ST06-008",
+      "OP05-094",
+      "OP05-081",
+      "OP07-085",
+      "ST08-004"
+    ]
+  },
+  "log-179": {
+    "player": "Askeel",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-180": {
+    "player": "Askeel",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-181": {
+    "player": "Charlotte Katakuri",
+    "action": "Draw 1 Rested Don",
+    "card": "OP11-067"
+  },
+  "log-182": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-183": {
+    "player": "Askeel",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-184": {
+    "player": "Askeel",
+    "action": "Drew card from deck",
+    "card": "OP02-106"
+  },
+  "log-185": {
+    "player": "Askeel",
+    "action": "Draw 2 Don",
+    "don": 2
+  },
+  "log-186": {
+    "player": "Askeel",
+    "action": "Attach Don",
+    "don_attached": 3,
+    "card": "OP07-079",
+    "total_don": 3
+  },
+  "log-187": {
+    "player": "Askeel",
+    "action": "Attacking",
+    "attacker": "OP07-079",
+    "defender": "OP05-060"
+  },
+  "log-188": {
+    "player": "Rob Lucci",
+    "action": "Trash 2 Cards from Deck",
+    "card": "OP07-079"
+  },
+  "log-189": {
+    "player": "Rob Lucci",
+    "action": "Cost -1",
+    "card": "OP07-079",
+    "target_card": "ST10-010"
+  },
+  "log-190": {
+    "player": "Mhcuber",
+    "action": "Block",
+    "card": "OP11-067"
+  },
+  "log-191": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "ST18-003",
+    "counter_amount": 1000
+  },
+  "log-192": {
+    "player": "Askeel",
+    "action": "Attack details",
+    "attacker": "OP07-079",
+    "attacker_power": 8000,
+    "defender": "OP11-067",
+    "defender_power": 9000
+  },
+  "log-193": {
+    "player": "Askeel",
+    "action": "Attack Fails"
+  },
+  "log-194": {
+    "player": "Askeel",
+    "action": "Deploy card",
+    "card": "OP02-106"
+  },
+  "log-195": {
+    "player": "Tsuru",
+    "action": "Cost -2",
+    "card": "OP02-106",
+    "target_card": "ST10-010"
+  },
+  "log-196": {
+    "player": "Askeel",
+    "action": "Deploy card",
+    "card": "ST08-004"
+  },
+  "log-197": {
+    "player": "Koby",
+    "action": "Rest Koby",
+    "card": "ST08-004"
+  },
+  "log-198": {
+    "player": "Koby",
+    "action": "Destroy Trafalgar Law",
+    "card": "ST08-004",
+    "target_card": "ST10-010"
+  },
+  "log-199": {
+    "player": "Askeel",
+    "action": "End Turn"
+  },
+  "log-200": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP06-076",
+      "OP05-070",
+      "OP09-078",
+      "OP05-077"
+    ]
+  },
+  "log-201": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP11-067",
+      "ST18-004"
+    ]
+  },
+  "log-202": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP09-065",
+      "OP07-064",
+      "EB01-061",
+      "OP09-069",
+      "ST18-003",
+      "ST10-010"
+    ]
+  },
+  "log-203": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-204": {
+    "player": "Askeel",
+    "action": "Hand state",
+    "cards": [
+      "ST06-008",
+      "OP05-093",
+      "OP03-097",
+      "OP02-106"
+    ]
+  },
+  "log-205": {
+    "player": "Askeel",
+    "action": "Trash state",
+    "cards": [
+      "OP05-094",
+      "OP07-085",
+      "OP02-106",
+      "EB01-043",
+      "OP05-094",
+      "EB01-051",
+      "OP02-106",
+      "EB01-051",
+      "OP03-086",
+      "ST06-008",
+      "OP05-094",
+      "OP05-081",
+      "OP07-085",
+      "ST08-004",
+      "OP05-081",
+      "OP03-081"
+    ]
+  },
+  "log-206": {
+    "player": "Askeel",
+    "action": "Board state",
+    "cards": [
+      "OP02-106",
+      "ST08-004"
+    ]
+  },
+  "log-207": {
+    "player": "Askeel",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-208": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP09-078"
+  },
+  "log-209": {
+    "player": "Mhcuber",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-210": {
+    "player": "Monkey D. Luffy",
+    "action": "Attacking",
+    "attacker": "OP05-060",
+    "defender": "ST08-004"
+  },
+  "log-211": {
+    "player": "Monkey D. Luffy",
+    "action": "Attack details",
+    "attacker": "OP05-060",
+    "attacker_power": 5000,
+    "defender": "ST08-004",
+    "defender_power": 1000
+  },
+  "log-212": {
+    "player": "Askeel",
+    "action": "Card Destroyed",
+    "card": "ST08-004"
+  },
+  "log-213": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "don_attached": 3,
+    "card": "OP11-067",
+    "total_don": 3
+  },
+  "log-214": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "OP11-067",
+    "defender": "OP07-079"
+  },
+  "log-215": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "OP11-067",
+    "attacker_power": 11000,
+    "defender": "OP07-079",
+    "defender_power": 5000
+  },
+  "log-216": {
+    "player": "Rob Lucci",
+    "action": "hit for 1 damage",
+    "card": "OP07-079"
+  },
+  "log-217": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "don_attached": 6,
+    "card": "ST18-004",
+    "total_don": 6
+  },
+  "log-218": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "ST18-004",
+    "defender": "OP07-079"
+  },
+  "log-219": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "ST18-004",
+    "attacker_power": 12000,
+    "defender": "OP07-079",
+    "defender_power": 5000
+  },
+  "log-220": {
+    "player": "Rob Lucci",
+    "action": "hit for 1 damage",
+    "card": "OP07-079"
+  },
+  "log-221": {
+    "player": "Charlotte Katakuri",
+    "action": "Set Charlotte Katakuri to Active",
+    "card": "OP11-067"
+  },
+  "log-222": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP06-076",
+      "OP05-070",
+      "OP09-078",
+      "OP05-077",
+      "OP09-078"
+    ]
+  },
+  "log-223": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP11-067",
+      "ST18-004"
+    ]
+  },
+  "log-224": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP09-065",
+      "OP07-064",
+      "EB01-061",
+      "OP09-069",
+      "ST18-003",
+      "ST10-010"
+    ]
+  },
+  "log-225": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-226": {
+    "player": "Askeel",
+    "action": "Hand state",
+    "cards": [
+      "ST06-008",
+      "OP05-093",
+      "OP03-097",
+      "OP02-106",
+      "ST06-006",
+      "EB01-051"
+    ]
+  },
+  "log-227": {
+    "player": "Askeel",
+    "action": "Trash state",
+    "cards": [
+      "OP05-094",
+      "OP07-085",
+      "OP02-106",
+      "EB01-043",
+      "OP05-094",
+      "EB01-051",
+      "OP02-106",
+      "EB01-051",
+      "OP03-086",
+      "ST06-008",
+      "OP05-094",
+      "OP05-081",
+      "OP07-085",
+      "ST08-004",
+      "OP05-081",
+      "OP03-081",
+      "ST08-004"
+    ]
+  },
+  "log-228": {
+    "player": "Askeel",
+    "action": "Board state",
+    "cards": [
+      "OP02-106"
+    ]
+  },
+  "log-229": {
+    "player": "Askeel",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-230": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-231": {
+    "player": "Askeel",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-232": {
+    "player": "Askeel",
+    "action": "Drew card from deck",
+    "card": "OP03-086"
+  },
+  "log-233": {
+    "player": "Askeel",
+    "action": "Draw 2 Don",
+    "don": 2
+  },
+  "log-234": {
+    "player": "Askeel",
+    "action": "Deploy card",
+    "card": "ST06-008"
+  },
+  "log-235": {
+    "player": "Hina",
+    "action": "Cost -4",
+    "card": "ST06-008",
+    "target_card": "OP11-067"
+  },
+  "log-236": {
+    "player": "Askeel",
+    "action": "Card effect: Trash 2 Cards from Deck",
+    "card": "EB01-051"
+  },
+  "log-237": {
+    "player": "Askeel",
+    "action": "Card effect: Destroy",
+    "card": "EB01-051",
+    "effect": "Destroy Charlotte Katakuri",
+    "target_card": "OP11-067"
+  },
+  "log-238": {
+    "player": "Askeel",
+    "action": "Attach Don",
+    "don_attached": 3,
+    "card": "OP07-079",
+    "total_don": 3
+  },
+  "log-239": {
+    "player": "Askeel",
+    "action": "Attacking",
+    "attacker": "OP07-079",
+    "defender": "ST18-004"
+  },
+  "log-240": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP05-070",
+    "counter_amount": 2000
+  },
+  "log-241": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP06-076",
+    "counter_amount": 2000
+  },
+  "log-242": {
+    "player": "Askeel",
+    "action": "Attack details",
+    "attacker": "OP07-079",
+    "attacker_power": 8000,
+    "defender": "ST18-004",
+    "defender_power": 10000
+  },
+  "log-243": {
+    "player": "Askeel",
+    "action": "Attack Fails"
+  },
+  "log-244": {
+    "player": "Askeel",
+    "action": "End Turn"
+  },
+  "log-245": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP09-078",
+      "OP05-077",
+      "OP09-078"
+    ]
+  },
+  "log-246": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-004"
+    ]
+  },
+  "log-247": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP09-065",
+      "OP07-064",
+      "EB01-061",
+      "OP09-069",
+      "ST18-003",
+      "ST10-010",
+      "OP11-067",
+      "OP05-070",
+      "OP06-076"
+    ]
+  },
+  "log-248": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-249": {
+    "player": "Askeel",
+    "action": "Hand state",
+    "cards": [
+      "OP05-093",
+      "OP03-097",
+      "OP02-106",
+      "ST06-006",
+      "OP03-086"
+    ]
+  },
+  "log-250": {
+    "player": "Askeel",
+    "action": "Trash state",
+    "cards": [
+      "OP05-094",
+      "OP07-085",
+      "OP02-106",
+      "EB01-043",
+      "OP05-094",
+      "EB01-051",
+      "OP02-106",
+      "EB01-051",
+      "OP03-086",
+      "ST06-008",
+      "OP05-094",
+      "OP05-081",
+      "OP07-085",
+      "ST08-004",
+      "OP05-081",
+      "OP03-081",
+      "ST08-004",
+      "EB01-051",
+      "OP03-081",
+      "OP05-093"
+    ]
+  },
+  "log-251": {
+    "player": "Askeel",
+    "action": "Board state",
+    "cards": [
+      "OP02-106",
+      "ST06-008"
+    ]
+  },
+  "log-252": {
+    "player": "Askeel",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-253": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "EB01-039"
+  },
+  "log-254": {
+    "player": "Mhcuber",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-255": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "don_attached": 5,
+    "card": "ST18-004",
+    "total_don": 5
+  },
+  "log-256": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "ST18-004",
+    "defender": "OP07-079"
+  },
+  "log-257": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "ST18-004",
+    "attacker_power": 11000,
+    "defender": "OP07-079",
+    "defender_power": 5000
+  },
+  "log-258": {
+    "player": "Rob Lucci",
+    "action": "hit for 1 damage",
+    "card": "OP07-079"
+  },
+  "log-259": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "don_attached": 4,
+    "card": "OP05-060",
+    "total_don": 4
+  },
+  "log-260": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "OP05-060",
+    "defender": "OP07-079"
+  },
+  "log-261": {
+    "player": "Askeel",
+    "action": "Trash card",
+    "card": "OP03-086"
+  },
+  "log-262": {
+    "player": "Askeel",
+    "action": "Counter 3000",
+    "card": "OP03-097"
+  },
+  "log-263": {
+    "player": "Askeel",
+    "action": "Discard for Counter",
+    "card": "OP02-106",
+    "counter_amount": 2000
+  },
+  "log-264": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "OP05-060",
+    "attacker_power": 9000,
+    "defender": "OP07-079",
+    "defender_power": 10000
+  },
+  "log-265": {
+    "player": "Mhcuber",
+    "action": "Attack Fails"
+  },
+  "log-266": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP09-078",
+      "OP05-077",
+      "OP09-078",
+      "EB01-039"
+    ]
+  },
+  "log-267": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-004"
+    ]
+  },
+  "log-268": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP09-065",
+      "OP07-064",
+      "EB01-061",
+      "OP09-069",
+      "ST18-003",
+      "ST10-010",
+      "OP11-067",
+      "OP05-070",
+      "OP06-076"
+    ]
+  },
+  "log-269": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-270": {
+    "player": "Askeel",
+    "action": "Hand state",
+    "cards": [
+      "OP05-093",
+      "ST06-006",
+      "OP03-088"
+    ]
+  },
+  "log-271": {
+    "player": "Askeel",
+    "action": "Trash state",
+    "cards": [
+      "OP05-094",
+      "OP07-085",
+      "OP02-106",
+      "EB01-043",
+      "OP05-094",
+      "EB01-051",
+      "OP02-106",
+      "EB01-051",
+      "OP03-086",
+      "ST06-008",
+      "OP05-094",
+      "OP05-081",
+      "OP07-085",
+      "ST08-004",
+      "OP05-081",
+      "OP03-081",
+      "ST08-004",
+      "EB01-051",
+      "OP03-081",
+      "OP05-093",
+      "OP03-086",
+      "OP03-097",
+      "OP02-106"
+    ]
+  },
+  "log-272": {
+    "player": "Askeel",
+    "action": "Board state",
+    "cards": [
+      "OP02-106",
+      "ST06-008"
+    ]
+  },
+  "log-273": {
+    "player": "Askeel",
+    "action": "Life state",
+    "life": 0
+  },
+  "log-274": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-275": {
+    "player": "Askeel",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-276": {
+    "player": "Askeel",
+    "action": "Drew card from deck",
+    "card": "OP05-091"
+  },
+  "log-277": {
+    "player": "Askeel",
+    "action": "Deploy card",
+    "card": "ST06-006"
+  },
+  "log-278": {
+    "player": "Tashigi",
+    "action": "Rest Tashigi",
+    "card": "ST06-006"
+  },
+  "log-279": {
+    "player": "Tashigi",
+    "action": "Cost -2",
+    "card": "ST06-006",
+    "target_card": "ST18-004"
+  },
+  "log-280": {
+    "player": "Askeel",
+    "action": "Deploy card",
+    "card": "OP05-091"
+  },
+  "log-281": {
+    "player": "Askeel",
+    "action": "Draw from Trash",
+    "card": "EB01-043"
+  },
+  "log-282": {
+    "player": "Spandine",
+    "action": "Sent to Deck Bottom from Trash",
+    "card": "EB01-043",
+    "target_card": "EB01-051"
+  },
+  "log-283": {
+    "player": "Spandine",
+    "action": "Sent to Deck Bottom from Trash",
+    "card": "EB01-043",
+    "target_card": "EB01-051"
+  },
+  "log-284": {
+    "player": "Spandine",
+    "action": "Sent to Deck Bottom from Trash",
+    "card": "EB01-043",
+    "target_card": "OP03-081"
+  },
+  "log-285": {
+    "player": "Opponent",
+    "action": "Disconnected"
+  }
+}

@@ -4,12 +4,12 @@ import json
 from gpt_env import OnePieceTCGEnv
 from gym.envs.registration import register
 import gym
-def read_log_files(directory_path):
+def read_log_files(directory_path):#, max_files = 30):
     """Lee todos los logs de partidas desde una carpeta y los devuelve en una lista."""
     data_list = []
     #count =0
     for filename in os.listdir(directory_path):
-        if filename.endswith('.json'):
+        if filename.endswith('.json') :
             file_path = os.path.join(directory_path, filename)
             try:
                 with open(file_path, 'r', encoding='utf-8') as f:
@@ -21,7 +21,7 @@ def read_log_files(directory_path):
                         print(f"⚠️ {filename} ignorado: no es un diccionario.")
                 #count +=1
                 #if count >=max_files:
-                    #break
+                   # break
             except json.JSONDecodeError as e:
                 print(f"❌ Error leyendo {file_path}: {e}")
     print(f"✅ logs cargados: {len(data_list)}")

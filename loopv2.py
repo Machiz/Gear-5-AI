@@ -64,4 +64,5 @@ for i in range(n_games):
     print('episode', i ,'score %.2f' %score, 'average score%.2f'%avg_score, 'epsilon %.2f' % agent.epsilon )
 x = [i+1 for i in range(n_games)]
 filename = 'tcg_Test.png'
-plot_learning_curve(x, scores, eps_history, filename)
+filename1= 'tcg_test1.png'
+plot_learning_curve(x, scores, eps_history, filename)   

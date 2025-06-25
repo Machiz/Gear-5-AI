@@ -1,0 +1,1964 @@
+{
+  "log-002": {
+    "player": "Mhcuber",
+    "action": "Player connected"
+  },
+  "log-004": {
+    "player": "Mhcuber",
+    "action": "Leader is Monkey D. Luffy",
+    "card": "OP05-060"
+  },
+  "log-005": {
+    "player": "19598",
+    "action": "Player connected"
+  },
+  "log-007": {
+    "player": "19598",
+    "action": "Leader is Shanks",
+    "card": "OP09-001"
+  },
+  "log-008": {
+    "player": "19598",
+    "action": "Chose to go First"
+  },
+  "log-009": {
+    "player": "19598",
+    "action": "Drew card from deck",
+    "card": "ST23-002"
+  },
+  "log-010": {
+    "player": "19598",
+    "action": "Drew card from deck",
+    "card": "OP09-002"
+  },
+  "log-011": {
+    "player": "19598",
+    "action": "Drew card from deck",
+    "card": "OP03-013"
+  },
+  "log-012": {
+    "player": "19598",
+    "action": "Drew card from deck",
+    "card": "OP04-016"
+  },
+  "log-013": {
+    "player": "19598",
+    "action": "Drew card from deck",
+    "card": "OP10-011"
+  },
+  "log-014": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-001"
+  },
+  "log-015": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP05-070"
+  },
+  "log-016": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP09-078"
+  },
+  "log-017": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-005"
+  },
+  "log-018": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP09-069"
+  },
+  "log-019": {
+    "player": "Mhcuber",
+    "action": "Hand state before Mulligan",
+    "cards": [
+      "ST18-001",
+      "OP05-070",
+      "OP09-078",
+      "ST18-005",
+      "OP09-069"
+    ]
+  },
+  "log-020": {
+    "player": "19598",
+    "action": "Draw Don",
+    "don": 1
+  },
+  "log-021": {
+    "player": "19598",
+    "action": "Deploy card",
+    "card": "OP09-002"
+  },
+  "log-022": {
+    "player": "19598",
+    "action": "Reveal and Draw",
+    "card": "ST23-002"
+  },
+  "log-023": {
+    "player": "19598",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-024": {
+    "player": "19598",
+    "action": "End Turn"
+  },
+  "log-025": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "ST18-001",
+      "OP05-070",
+      "OP09-078",
+      "ST18-005",
+      "OP09-069"
+    ]
+  },
+  "log-026": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-027": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-028": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-029": {
+    "player": "19598",
+    "action": "Hand state",
+    "cards": [
+      "ST23-002",
+      "OP03-013",
+      "OP04-016",
+      "OP10-011",
+      "ST23-002"
+    ]
+  },
+  "log-030": {
+    "player": "19598",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-031": {
+    "player": "19598",
+    "action": "Board state",
+    "cards": [
+      "OP09-002"
+    ]
+  },
+  "log-032": {
+    "player": "19598",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-033": {
+    "player": "Mhcuber",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-034": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP09-078"
+  },
+  "log-035": {
+    "player": "Mhcuber",
+    "action": "Draw Don",
+    "don": 2
+  },
+  "log-036": {
+    "player": "Mhcuber",
+    "action": "Deploy card",
+    "card": "OP09-069"
+  },
+  "log-037": {
+    "player": "Mhcuber",
+    "action": "Reveal and Draw",
+    "card": "OP05-070"
+  },
+  "log-038": {
+    "player": "Mhcuber",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-039": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "ST18-001",
+      "OP05-070",
+      "OP09-078",
+      "ST18-005",
+      "OP09-078",
+      "OP05-070"
+    ]
+  },
+  "log-040": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP09-069"
+    ]
+  },
+  "log-041": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-042": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-043": {
+    "player": "19598",
+    "action": "Hand state",
+    "cards": [
+      "ST23-002",
+      "OP03-013",
+      "OP04-016",
+      "OP10-011",
+      "ST23-002"
+    ]
+  },
+  "log-044": {
+    "player": "19598",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-045": {
+    "player": "19598",
+    "action": "Board state",
+    "cards": [
+      "OP09-002"
+    ]
+  },
+  "log-046": {
+    "player": "19598",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-047": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-048": {
+    "player": "19598",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-049": {
+    "player": "19598",
+    "action": "Drew card from deck",
+    "card": "ST23-001"
+  },
+  "log-050": {
+    "player": "19598",
+    "action": "Draw Don",
+    "don": 2
+  },
+  "log-051": {
+    "player": "19598",
+    "action": "Attach Don",
+    "don_attached": 3,
+    "card": "OP09-001",
+    "total_don": 3
+  },
+  "log-052": {
+    "player": "19598",
+    "action": "Attacking",
+    "attacker": "OP09-001",
+    "defender": "OP05-060"
+  },
+  "log-053": {
+    "player": "19598",
+    "action": "Attack details",
+    "attacker": "OP09-001",
+    "attacker_power": 8000,
+    "defender": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-054": {
+    "player": "Mhcuber",
+    "action": "Life hit",
+    "damage": 1
+  },
+  "log-055": {
+    "player": "19598",
+    "action": "End Turn"
+  },
+  "log-056": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "ST18-001",
+      "OP05-070",
+      "OP09-078",
+      "ST18-005",
+      "OP09-078",
+      "OP05-070",
+      "OP09-078"
+    ]
+  },
+  "log-057": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP09-069"
+    ]
+  },
+  "log-058": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-059": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-060": {
+    "player": "19598",
+    "action": "Hand state",
+    "cards": [
+      "ST23-002",
+      "OP03-013",
+      "OP04-016",
+      "OP10-011",
+      "ST23-002",
+      "ST23-001"
+    ]
+  },
+  "log-061": {
+    "player": "19598",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-062": {
+    "player": "19598",
+    "action": "Board state",
+    "cards": [
+      "OP09-002"
+    ]
+  },
+  "log-063": {
+    "player": "19598",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-064": {
+    "player": "Mhcuber",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-065": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP07-064"
+  },
+  "log-066": {
+    "player": "Mhcuber",
+    "action": "Draw Don",
+    "don": 2
+  },
+  "log-067": {
+    "player": "Mhcuber",
+    "action": "Loses Life",
+    "life_lost": 1
+  },
+  "log-068": {
+    "player": "Mhcuber",
+    "action": "Leader ability: Draw 1 Don",
+    "card": "OP05-060"
+  },
+  "log-069": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "don_attached": 3,
+    "card": "OP09-069",
+    "total_don": 3
+  },
+  "log-070": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "OP09-069",
+    "defender": "OP09-001"
+  },
+  "log-071": {
+    "player": "19598",
+    "action": "Card effect: Buff",
+    "card": "OP09-001",
+    "effect": "Buff Trafalgar Law -1000"
+  },
+  "log-072": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "OP09-069",
+    "attacker_power": 4000,
+    "defender": "OP09-001",
+    "defender_power": 5000
+  },
+  "log-073": {
+    "player": "Mhcuber",
+    "action": "Attack Fails"
+  },
+  "log-074": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "don_attached": 2,
+    "card": "OP05-060",
+    "total_don": 2
+  },
+  "log-075": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "OP05-060",
+    "defender": "OP09-001"
+  },
+  "log-076": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "OP05-060",
+    "attacker_power": 7000,
+    "defender": "OP09-001",
+    "defender_power": 5000
+  },
+  "log-077": {
+    "player": "19598",
+    "action": "Life hit",
+    "damage": 1
+  },
+  "log-078": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "ST18-001",
+      "OP05-070",
+      "OP09-078",
+      "ST18-005",
+      "OP09-078",
+      "OP05-070",
+      "OP09-078",
+      "OP07-064",
+      "ST18-005"
+    ]
+  },
+  "log-079": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP09-069"
+    ]
+  },
+  "log-080": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-081": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-082": {
+    "player": "19598",
+    "action": "Hand state",
+    "cards": [
+      "ST23-002",
+      "OP03-013",
+      "OP04-016",
+      "OP10-011",
+      "ST23-002",
+      "ST23-001",
+      "OP09-004"
+    ]
+  },
+  "log-083": {
+    "player": "19598",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-084": {
+    "player": "19598",
+    "action": "Board state",
+    "cards": [
+      "OP09-002"
+    ]
+  },
+  "log-085": {
+    "player": "19598",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-086": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-087": {
+    "player": "19598",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-088": {
+    "player": "19598",
+    "action": "Drew card from deck",
+    "card": "OP09-013"
+  },
+  "log-089": {
+    "player": "19598",
+    "action": "Draw Don",
+    "don": 2
+  },
+  "log-090": {
+    "player": "19598",
+    "action": "Deploy card",
+    "card": "OP09-013"
+  },
+  "log-091": {
+    "player": "19598",
+    "action": "Card effect: Grant",
+    "card": "OP09-013",
+    "effect": "Grant Shanks 1000 until opponent's next turn end",
+    "target_card": "OP09-001"
+  },
+  "log-092": {
+    "player": "19598",
+    "action": "Attacking",
+    "attacker": "OP09-001",
+    "defender": "OP05-060"
+  },
+  "log-093": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP07-064",
+    "counter_amount": 2000
+  },
+  "log-094": {
+    "player": "19598",
+    "action": "Attack details",
+    "attacker": "OP09-001",
+    "attacker_power": 6000,
+    "defender": "OP05-060",
+    "defender_power": 7000
+  },
+  "log-095": {
+    "player": "19598",
+    "action": "Attack Fails"
+  },
+  "log-096": {
+    "player": "19598",
+    "action": "End Turn"
+  },
+  "log-097": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "ST18-001",
+      "OP05-070",
+      "OP09-078",
+      "ST18-005",
+      "OP09-078",
+      "OP05-070",
+      "OP09-078",
+      "ST18-005"
+    ]
+  },
+  "log-098": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP09-069"
+    ]
+  },
+  "log-099": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP07-064"
+    ]
+  },
+  "log-100": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-101": {
+    "player": "19598",
+    "action": "Hand state",
+    "cards": [
+      "ST23-002",
+      "OP03-013",
+      "OP04-016",
+      "OP10-011",
+      "ST23-002",
+      "ST23-001",
+      "OP09-004"
+    ]
+  },
+  "log-102": {
+    "player": "19598",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-103": {
+    "player": "19598",
+    "action": "Board state",
+    "cards": [
+      "OP09-002",
+      "OP09-013"
+    ]
+  },
+  "log-104": {
+    "player": "19598",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-105": {
+    "player": "Mhcuber",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-106": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-004"
+  },
+  "log-107": {
+    "player": "Mhcuber",
+    "action": "Draw Don",
+    "don": 2
+  },
+  "log-108": {
+    "player": "Mhcuber",
+    "action": "Loses Life",
+    "life_lost": 1
+  },
+  "log-109": {
+    "player": "Mhcuber",
+    "action": "Leader ability: Draw 1 Don",
+    "card": "OP05-060"
+  },
+  "log-110": {
+    "player": "Mhcuber",
+    "action": "Deploy card",
+    "card": "ST18-005"
+  },
+  "log-111": {
+    "player": "Mhcuber",
+    "action": "Picked no cards to Draw"
+  },
+  "log-112": {
+    "player": "Mhcuber",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-113": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "don_attached": 1,
+    "card": "OP05-060",
+    "total_don": 1
+  },
+  "log-114": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "OP05-060",
+    "defender": "OP09-001"
+  },
+  "log-115": {
+    "player": "19598",
+    "action": "Card effect: Buff",
+    "card": "OP09-001",
+    "effect": "Buff Monkey D. Luffy -1000"
+  },
+  "log-116": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "OP05-060",
+    "attacker_power": 5000,
+    "defender": "OP09-001",
+    "defender_power": 6000
+  },
+  "log-117": {
+    "player": "Mhcuber",
+    "action": "Attack Fails"
+  },
+  "log-118": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "ST18-001",
+      "OP05-070",
+      "OP09-078",
+      "ST18-005",
+      "OP09-078",
+      "OP05-070",
+      "OP09-078",
+      "OP05-077"
+    ]
+  },
+  "log-119": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP09-069",
+      "ST18-005",
+      "ST18-004"
+    ]
+  },
+  "log-120": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP07-064"
+    ]
+  },
+  "log-121": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-122": {
+    "player": "19598",
+    "action": "Hand state",
+    "cards": [
+      "ST23-002",
+      "OP03-013",
+      "OP04-016",
+      "OP10-011",
+      "ST23-002",
+      "ST23-001",
+      "OP09-004"
+    ]
+  },
+  "log-123": {
+    "player": "19598",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-124": {
+    "player": "19598",
+    "action": "Board state",
+    "cards": [
+      "OP09-002",
+      "OP09-013"
+    ]
+  },
+  "log-125": {
+    "player": "19598",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-126": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-127": {
+    "player": "19598",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-128": {
+    "player": "19598",
+    "action": "Drew card from deck",
+    "card": "OP09-011"
+  },
+  "log-129": {
+    "player": "19598",
+    "action": "Draw Don",
+    "don": 2
+  },
+  "log-130": {
+    "player": "19598",
+    "action": "Deploy card",
+    "card": "ST23-002"
+  },
+  "log-131": {
+    "player": "19598",
+    "action": "Card effect: Grant",
+    "card": "ST23-002",
+    "effect": "Grant Shanks 2000 until opponent's next turn end",
+    "target_card": "OP09-001"
+  },
+  "log-132": {
+    "player": "19598",
+    "action": "Attach Don",
+    "don_attached": 1,
+    "card": "OP09-013",
+    "total_don": 1
+  },
+  "log-133": {
+    "player": "19598",
+    "action": "Attacking",
+    "attacker": "OP09-013",
+    "defender": "OP05-060"
+  },
+  "log-134": {
+    "player": "19598",
+    "action": "Card effect: Buff",
+    "card": "OP09-013",
+    "effect": "Buff Luffy-tarou -1000",
+    "target_card": "ST18-005"
+  },
+  "log-135": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP05-070",
+    "counter_amount": 2000
+  },
+  "log-136": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "ST18-001",
+    "counter_amount": 2000
+  },
+  "log-137": {
+    "player": "19598",
+    "action": "Attack details",
+    "attacker": "OP09-013",
+    "attacker_power": 7000,
+    "defender": "OP05-060",
+    "defender_power": 9000
+  },
+  "log-138": {
+    "player": "19598",
+    "action": "Attack Fails"
+  },
+  "log-139": {
+    "player": "19598",
+    "action": "Attacking",
+    "attacker": "OP09-001",
+    "defender": "OP05-060"
+  },
+  "log-140": {
+    "player": "19598",
+    "action": "Attack details",
+    "attacker": "OP09-001",
+    "attacker_power": 7000,
+    "defender": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-141": {
+    "player": "Mhcuber",
+    "action": "Life hit",
+    "damage": 1
+  },
+  "log-142": {
+    "player": "19598",
+    "action": "End Turn"
+  },
+  "log-143": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP05-070",
+      "OP09-078",
+      "ST18-005",
+      "OP09-078",
+      "OP09-078",
+      "OP05-077",
+      "ST18-003"
+    ]
+  },
+  "log-144": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP09-069",
+      "ST18-005",
+      "ST18-004"
+    ]
+  },
+  "log-145": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP07-064",
+      "OP05-070",
+      "ST18-001"
+    ]
+  },
+  "log-146": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-147": {
+    "player": "19598",
+    "action": "Hand state",
+    "cards": [
+      "ST23-002",
+      "OP03-013",
+      "OP04-016",
+      "OP10-011",
+      "ST23-001",
+      "OP09-004",
+      "OP09-011"
+    ]
+  },
+  "log-148": {
+    "player": "19598",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-149": {
+    "player": "19598",
+    "action": "Board state",
+    "cards": [
+      "OP09-002",
+      "OP09-013",
+      "ST23-002"
+    ]
+  },
+  "log-150": {
+    "player": "19598",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-151": {
+    "player": "Mhcuber",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-152": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP09-119"
+  },
+  "log-153": {
+    "player": "Mhcuber",
+    "action": "Draw Don",
+    "don": 2
+  },
+  "log-154": {
+    "player": "Mhcuber",
+    "action": "Card effect: Give",
+    "card": "OP05-077",
+    "effect": "Give Yasopp -5000",
+    "target_card": "OP09-013"
+  },
+  "log-155": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "OP09-069",
+    "defender": "OP09-013"
+  },
+  "log-156": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "OP09-069",
+    "attacker_power": 2000,
+    "defender": "OP09-013",
+    "defender_power": 1000
+  },
+  "log-157": {
+    "player": "19598",
+    "action": "Card Destroyed",
+    "card": "OP09-013"
+  },
+  "log-158": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "don_attached": 3,
+    "card": "OP05-060",
+    "total_don": 3
+  },
+  "log-159": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "don_attached": 1,
+    "card": "OP05-060",
+    "total_don": 4
+  },
+  "log-160": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "OP05-060",
+    "defender": "OP09-001"
+  },
+  "log-161": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "OP05-060",
+    "attacker_power": 9000,
+    "defender": "OP09-001",
+    "defender_power": 7000
+  },
+  "log-162": {
+    "player": "19598",
+    "action": "Life hit",
+    "damage": 1
+  },
+  "log-163": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "don_attached": 2,
+    "card": "ST18-004",
+    "total_don": 2
+  },
+  "log-164": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "ST18-004",
+    "defender": "OP09-001"
+  },
+  "log-165": {
+    "player": "19598",
+    "action": "Discard for Counter",
+    "card": "ST23-001",
+    "counter_amount": 2000
+  },
+  "log-166": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "ST18-004",
+    "attacker_power": 8000,
+    "defender": "OP09-001",
+    "defender_power": 9000
+  },
+  "log-167": {
+    "player": "Mhcuber",
+    "action": "Attack Fails"
+  },
+  "log-168": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "ST18-005",
+    "defender": "OP09-001"
+  },
+  "log-169": {
+    "player": "19598",
+    "action": "Card effect: Buff",
+    "card": "OP09-001",
+    "effect": "Buff Luffy-tarou -1000",
+    "target_card": "ST18-005"
+  },
+  "log-170": {
+    "player": "19598",
+    "action": "Discard for Counter",
+    "card": "OP03-013",
+    "counter_amount": 1000
+  },
+  "log-171": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "ST18-005",
+    "attacker_power": 7000,
+    "defender": "OP09-001",
+    "defender_power": 8000
+  },
+  "log-172": {
+    "player": "Mhcuber",
+    "action": "Attack Fails"
+  },
+  "log-173": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP05-070",
+      "OP09-078",
+      "ST18-005",
+      "OP09-078",
+      "OP09-078",
+      "ST18-003",
+      "OP09-119"
+    ]
+  },
+  "log-174": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP09-069",
+      "ST18-005",
+      "ST18-004"
+    ]
+  },
+  "log-175": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP07-064",
+      "OP05-070",
+      "ST18-001",
+      "OP05-077"
+    ]
+  },
+  "log-176": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-177": {
+    "player": "19598",
+    "action": "Hand state",
+    "cards": [
+      "ST23-002",
+      "OP04-016",
+      "OP10-011",
+      "ST23-001",
+      "OP09-004",
+      "OP09-011"
+    ]
+  },
+  "log-178": {
+    "player": "19598",
+    "action": "Trash state",
+    "cards": [
+      "OP09-013",
+      "ST23-001",
+      "OP03-013"
+    ]
+  },
+  "log-179": {
+    "player": "19598",
+    "action": "Board state",
+    "cards": [
+      "OP09-002",
+      "ST23-002"
+    ]
+  },
+  "log-180": {
+    "player": "19598",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-181": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-182": {
+    "player": "19598",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-183": {
+    "player": "19598",
+    "action": "Drew card from deck",
+    "card": "OP09-002"
+  },
+  "log-184": {
+    "player": "19598",
+    "action": "Draw Don",
+    "don": 2
+  },
+  "log-185": {
+    "player": "19598",
+    "action": "Attacking",
+    "attacker": "ST23-002",
+    "defender": "ST18-005"
+  },
+  "log-186": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP05-070",
+    "counter_amount": 2000
+  },
+  "log-187": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "ST18-003",
+    "counter_amount": 1000
+  },
+  "log-188": {
+    "player": "19598",
+    "action": "Attack details",
+    "attacker": "ST23-002",
+    "attacker_power": 10000,
+    "defender": "ST18-005",
+    "defender_power": 11000
+  },
+  "log-189": {
+    "player": "19598",
+    "action": "Attack Fails"
+  },
+  "log-190": {
+    "player": "19598",
+    "action": "Attacking",
+    "attacker": "OP09-002",
+    "defender": "OP09-069"
+  },
+  "log-191": {
+    "player": "19598",
+    "action": "Attack details",
+    "attacker": "OP09-002",
+    "attacker_power": 2000,
+    "defender": "OP09-069",
+    "defender_power": 2000
+  },
+  "log-192": {
+    "player": "Mhcuber",
+    "action": "Card Destroyed",
+    "card": "OP09-069"
+  },
+  "log-193": {
+    "player": "19598",
+    "action": "Deploy card",
+    "card": "ST23-002"
+  },
+  "log-194": {
+    "player": "19598",
+    "action": "Card effect: Grant",
+    "card": "ST23-002",
+    "effect": "Grant Shanks 2000 until opponent's next turn end",
+    "target_card": "OP09-001"
+  },
+  "log-195": {
+    "player": "19598",
+    "action": "Attach Don",
+    "don_attached": 1,
+    "card": "OP09-001",
+    "total_don": 1
+  },
+  "log-196": {
+    "player": "19598",
+    "action": "Attacking",
+    "attacker": "OP09-001",
+    "defender": "ST18-004"
+  },
+  "log-197": {
+    "player": "Mhcuber",
+    "action": "Card effect: Trash",
+    "card": "OP09-078",
+    "effect": "Trash Gum Gum Giant"
+  },
+  "log-198": {
+    "player": "Mhcuber",
+    "action": "Card effect: Buff",
+    "card": "OP09-078",
+    "effect": "Buff Zorojuro 4000 for the Combat",
+    "target_card": "ST18-004"
+  },
+  "log-199": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-001"
+  },
+  "log-200": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP07-064"
+  },
+  "log-201": {
+    "player": "Mhcuber",
+    "action": "Card effect: Draw",
+    "card": "OP09-078",
+    "effect": "Draw 2 Card"
+  },
+  "log-202": {
+    "player": "19598",
+    "action": "Attack details",
+    "attacker": "OP09-001",
+    "attacker_power": 8000,
+    "defender": "ST18-004",
+    "defender_power": 10000
+  },
+  "log-203": {
+    "player": "19598",
+    "action": "Attack Fails"
+  },
+  "log-204": {
+    "player": "19598",
+    "action": "Deploy card",
+    "card": "ST23-001"
+  },
+  "log-205": {
+    "player": "19598",
+    "action": "End Turn"
+  },
+  "log-206": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "ST18-005",
+      "OP09-078",
+      "OP09-119",
+      "ST18-001",
+      "OP07-064"
+    ]
+  },
+  "log-207": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-005",
+      "ST18-004"
+    ]
+  },
+  "log-208": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP07-064",
+      "OP05-070",
+      "ST18-001",
+      "OP05-077",
+      "OP05-070",
+      "ST18-003",
+      "OP09-069",
+      "OP09-078",
+      "OP09-078"
+    ]
+  },
+  "log-209": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-210": {
+    "player": "19598",
+    "action": "Hand state",
+    "cards": [
+      "OP04-016",
+      "OP10-011",
+      "OP09-004",
+      "OP09-011",
+      "OP09-002"
+    ]
+  },
+  "log-211": {
+    "player": "19598",
+    "action": "Trash state",
+    "cards": [
+      "OP09-013",
+      "ST23-001",
+      "OP03-013"
+    ]
+  },
+  "log-212": {
+    "player": "19598",
+    "action": "Board state",
+    "cards": [
+      "OP09-002",
+      "ST23-002",
+      "ST23-002",
+      "ST23-001"
+    ]
+  },
+  "log-213": {
+    "player": "19598",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-214": {
+    "player": "Mhcuber",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-215": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-003"
+  },
+  "log-216": {
+    "player": "Mhcuber",
+    "action": "Draw Don",
+    "don": 2
+  },
+  "log-217": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "don_attached": 5,
+    "card": "ST18-005",
+    "total_don": 5
+  },
+  "log-218": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "ST18-005",
+    "defender": "ST23-002"
+  },
+  "log-219": {
+    "player": "19598",
+    "action": "Card effect: Buff",
+    "card": "OP09-001",
+    "effect": "Buff Luffy-tarou -1000",
+    "target_card": "ST18-005"
+  },
+  "log-220": {
+    "player": "19598",
+    "action": "Trash card",
+    "card": "OP09-002"
+  },
+  "log-221": {
+    "player": "19598",
+    "action": "Counter",
+    "card": "OP04-016",
+    "counter_amount": 3000
+  },
+  "log-222": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "ST18-005",
+    "attacker_power": 12000,
+    "defender": "ST23-002",
+    "defender_power": 13000
+  },
+  "log-223": {
+    "player": "Mhcuber",
+    "action": "Attack Fails"
+  },
+  "log-224": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "don_attached": 2,
+    "card": "ST18-004",
+    "total_don": 2
+  },
+  "log-225": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "ST18-004",
+    "defender": "OP09-001"
+  },
+  "log-226": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "ST18-004",
+    "attacker_power": 8000,
+    "defender": "OP09-001",
+    "defender_power": 7000
+  },
+  "log-227": {
+    "player": "19598",
+    "action": "Life hit",
+    "damage": 1
+  },
+  "log-228": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "OP05-060",
+    "defender": "OP09-002"
+  },
+  "log-229": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "OP05-060",
+    "attacker_power": 5000,
+    "defender": "OP09-002",
+    "defender_power": 2000
+  },
+  "log-230": {
+    "player": "19598",
+    "action": "Card Destroyed",
+    "card": "OP09-002"
+  },
+  "log-231": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "ST18-005",
+      "OP09-078",
+      "OP09-119",
+      "ST18-001",
+      "OP07-064",
+      "ST18-003"
+    ]
+  },
+  "log-232": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-005",
+      "ST18-004"
+    ]
+  },
+  "log-233": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP07-064",
+      "OP05-070",
+      "ST18-001",
+      "OP05-077",
+      "OP05-070",
+      "ST18-003",
+      "OP09-069",
+      "OP09-078",
+      "OP09-078"
+    ]
+  },
+  "log-234": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-235": {
+    "player": "19598",
+    "action": "Hand state",
+    "cards": [
+      "OP10-011",
+      "OP09-004",
+      "OP09-011",
+      "OP04-016"
+    ]
+  },
+  "log-236": {
+    "player": "19598",
+    "action": "Trash state",
+    "cards": [
+      "OP09-013",
+      "ST23-001",
+      "OP03-013",
+      "OP09-002",
+      "OP04-016",
+      "OP09-002"
+    ]
+  },
+  "log-237": {
+    "player": "19598",
+    "action": "Board state",
+    "cards": [
+      "ST23-002",
+      "ST23-002",
+      "ST23-001"
+    ]
+  },
+  "log-238": {
+    "player": "19598",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-239": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-240": {
+    "player": "19598",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-241": {
+    "player": "19598",
+    "action": "Drew card from deck",
+    "card": "OP09-008"
+  },
+  "log-242": {
+    "player": "19598",
+    "action": "Draw Don",
+    "don": 2
+  },
+  "log-243": {
+    "player": "19598",
+    "action": "Deploy card",
+    "card": "OP09-004"
+  },
+  "log-244": {
+    "player": "19598",
+    "action": "Attacking",
+    "attacker": "OP09-001",
+    "defender": "ST18-004"
+  },
+  "log-245": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "ST18-003",
+    "counter_amount": 1000
+  },
+  "log-246": {
+    "player": "19598",
+    "action": "Attack details",
+    "attacker": "OP09-001",
+    "attacker_power": 5000,
+    "defender": "ST18-004",
+    "defender_power": 6000
+  },
+  "log-247": {
+    "player": "19598",
+    "action": "Attack Fails"
+  },
+  "log-248": {
+    "player": "19598",
+    "action": "Attacking",
+    "attacker": "ST23-002",
+    "defender": "ST18-004"
+  },
+  "log-249": {
+    "player": "19598",
+    "action": "Attack details",
+    "attacker": "ST23-002",
+    "attacker_power": 10000,
+    "defender": "ST18-004",
+    "defender_power": 5000
+  },
+  "log-250": {
+    "player": "Mhcuber",
+    "action": "Card Destroyed",
+    "card": "ST18-004"
+  },
+  "log-251": {
+    "player": "19598",
+    "action": "Attacking",
+    "attacker": "ST23-002",
+    "defender": "ST18-005"
+  },
+  "log-252": {
+    "player": "Mhcuber",
+    "action": "Card effect: Trash",
+    "card": "OP09-078",
+    "effect": "Trash Luffy-tarou"
+  },
+  "log-253": {
+    "player": "Mhcuber",
+    "action": "Card effect: Buff",
+    "card": "OP09-078",
+    "effect": "Buff Luffy-tarou 4000 for the Combat",
+    "target_card": "ST18-005"
+  },
+  "log-254": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-005"
+  },
+  "log-255": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP06-076"
+  },
+  "log-256": {
+    "player": "Mhcuber",
+    "action": "Card effect: Draw",
+    "card": "OP09-078",
+    "effect": "Draw 2 Card"
+  },
+  "log-257": {
+    "player": "19598",
+    "action": "Attack details",
+    "attacker": "ST23-002",
+    "attacker_power": 10000,
+    "defender": "ST18-005",
+    "defender_power": 11000
+  },
+  "log-258": {
+    "player": "19598",
+    "action": "Attack Fails"
+  },
+  "log-259": {
+    "player": "19598",
+    "action": "Attacking",
+    "attacker": "OP09-004",
+    "defender": "OP05-060"
+  },
+  "log-260": {
+    "player": "19598",
+    "action": "Attack details",
+    "attacker": "OP09-004",
+    "attacker_power": 12000,
+    "defender": "OP05-060",
+    "defender_power": 5000
+  },
+  "log-261": {
+    "player": "Mhcuber",
+    "action": "Life hit",
+    "damage": 1
+  },
+  "log-262": {
+    "player": "19598",
+    "action": "End Turn"
+  },
+  "log-263": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP09-119",
+      "ST18-001",
+      "OP07-064",
+      "ST18-005",
+      "OP06-076",
+      "ST10-010"
+    ]
+  },
+  "log-264": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-005"
+    ]
+  },
+  "log-265": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP07-064",
+      "OP05-070",
+      "ST18-001",
+      "OP05-077",
+      "OP05-070",
+      "ST18-003",
+      "OP09-069",
+      "OP09-078",
+      "OP09-078",
+      "ST18-003",
+      "ST18-004",
+      "OP09-078",
+      "ST18-005"
+    ]
+  },
+  "log-266": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 0
+  },
+  "log-267": {
+    "player": "19598",
+    "action": "Hand state",
+    "cards": [
+      "OP10-011",
+      "OP09-011",
+      "OP04-016",
+      "OP09-008"
+    ]
+  },
+  "log-268": {
+    "player": "19598",
+    "action": "Trash state",
+    "cards": [
+      "OP09-013",
+      "ST23-001",
+      "OP03-013",
+      "OP09-002",
+      "OP04-016",
+      "OP09-002"
+    ]
+  },
+  "log-269": {
+    "player": "19598",
+    "action": "Board state",
+    "cards": [
+      "ST23-002",
+      "ST23-002",
+      "ST23-001",
+      "OP09-004"
+    ]
+  },
+  "log-270": {
+    "player": "19598",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-271": {
+    "player": "Mhcuber",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-272": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP07-064"
+  },
+  "log-273": {
+    "player": "Mhcuber",
+    "action": "Draw Don",
+    "don": 2
+  },
+  "log-274": {
+    "player": "Mhcuber",
+    "action": "Deploy card",
+    "card": "OP07-064"
+  },
+  "log-275": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "don_attached": 3,
+    "card": "OP05-060",
+    "total_don": 3
+  },
+  "log-276": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "OP05-060",
+    "defender": "OP09-001"
+  },
+  "log-277": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "OP05-060",
+    "attacker_power": 8000,
+    "defender": "OP09-001",
+    "defender_power": 5000
+  },
+  "log-278": {
+    "player": "19598",
+    "action": "Life hit",
+    "damage": 1
+  },
+  "log-279": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "don_attached": 2,
+    "card": "ST18-005",
+    "total_don": 2
+  },
+  "log-280": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "ST18-005",
+    "defender": "OP09-001"
+  },
+  "log-281": {
+    "player": "19598",
+    "action": "Block",
+    "card": "ST23-001"
+  },
+  "log-282": {
+    "player": "Mhcuber",
+    "action": "Attack details",
+    "attacker": "ST18-005",
+    "attacker_power": 9000,
+    "defender": "ST23-001",
+    "defender_power": 4000
+  },
+  "log-283": {
+    "player": "19598",
+    "action": "Card Destroyed",
+    "card": "ST23-001"
+  },
+  "log-284": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP09-119",
+      "ST18-001",
+      "OP07-064",
+      "ST18-005",
+      "OP06-076",
+      "ST10-010"
+    ]
+  },
+  "log-285": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-005",
+      "OP07-064"
+    ]
+  },
+  "log-286": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP07-064",
+      "OP05-070",
+      "ST18-001",
+      "OP05-077",
+      "OP05-070",
+      "ST18-003",
+      "OP09-069",
+      "OP09-078",
+      "OP09-078",
+      "ST18-003",
+      "ST18-004",
+      "OP09-078",
+      "ST18-005"
+    ]
+  },
+  "log-287": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 0
+  },
+  "log-288": {
+    "player": "19598",
+    "action": "Hand state",
+    "cards": [
+      "OP10-011",
+      "OP09-011",
+      "OP04-016",
+      "OP09-008",
+      "OP09-002"
+    ]
+  },
+  "log-289": {
+    "player": "19598",
+    "action": "Trash state",
+    "cards": [
+      "OP09-013",
+      "ST23-001",
+      "OP03-013",
+      "OP09-002",
+      "OP04-016",
+      "OP09-002",
+      "ST23-001"
+    ]
+  },
+  "log-290": {
+    "player": "19598",
+    "action": "Board state",
+    "cards": [
+      "ST23-002",
+      "ST23-002",
+      "OP09-004"
+    ]
+  },
+  "log-291": {
+    "player": "19598",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-292": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-293": {
+    "player": "19598",
+    "action": "Draw card",
+    "cards_drawn": 1
+  },
+  "log-294": {
+    "player": "19598",
+    "action": "Drew card from deck",
+    "card": "OP09-015"
+  },
+  "log-295": {
+    "player": "19598",
+    "action": "Attacking",
+    "attacker": "OP09-004",
+    "defender": "OP05-060"
+  },
+  "log-296": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP06-076",
+    "counter_amount": 2000
+  },
+  "log-297": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP07-064",
+    "counter_amount": 2000
+  },
+  "log-298": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "ST18-001",
+    "counter_amount": 2000
+  },
+  "log-299": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "ST10-010",
+    "counter_amount": 1000
+  },
+  "log-300": {
+    "player": "19598",
+    "action": "Attack details",
+    "attacker": "OP09-004",
+    "attacker_power": 12000,
+    "defender": "OP05-060",
+    "defender_power": 12000
+  },
+  "log-301": {
+    "player": "Mhcuber",
+    "action": "Life hit",
+    "damage": 1
+  },
+  "log-302": {
+    "player": "Mhcuber",
+    "action": "Loses"
+  }
+}

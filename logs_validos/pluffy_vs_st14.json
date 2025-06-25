@@ -1,0 +1,1827 @@
+{
+  "log-001": {
+    "player": "System",
+    "action": "Attempting to connect to KWNJNT"
+  },
+  "log-002": {
+    "player": "System",
+    "action": "Version is 1.30b"
+  },
+  "log-003": {
+    "player": "Pirate48394",
+    "action": "Leader is Monkey D. Luffy",
+    "card": "ST14-001"
+  },
+  "log-004": {
+    "player": "Mhcuber",
+    "action": "Player connected"
+  },
+  "log-005": {
+    "player": "System",
+    "action": "Version is 1.30b"
+  },
+  "log-006": {
+    "player": "Mhcuber",
+    "action": "Leader is Monkey D. Luffy",
+    "card": "OP05-060"
+  },
+  "log-007": {
+    "player": "Pirate48394",
+    "action": "Chose to go First"
+  },
+  "log-008": {
+    "player": "Pirate48394",
+    "action": "Drew card from deck",
+    "card": "EB02-044"
+  },
+  "log-009": {
+    "player": "Pirate48394",
+    "action": "Drew card from deck",
+    "card": "ST14-003"
+  },
+  "log-010": {
+    "player": "Pirate48394",
+    "action": "Drew card from deck",
+    "card": "OP03-089"
+  },
+  "log-011": {
+    "player": "Pirate48394",
+    "action": "Drew card from deck",
+    "card": "OP11-095"
+  },
+  "log-012": {
+    "player": "Pirate48394",
+    "action": "Drew card from deck",
+    "card": "OP02-121"
+  },
+  "log-013": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP07-064"
+  },
+  "log-014": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP09-078"
+  },
+  "log-015": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP05-070"
+  },
+  "log-016": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP09-069"
+  },
+  "log-017": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "EB01-061"
+  },
+  "log-018": {
+    "player": "Mhcuber",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "OP07-064",
+      "OP09-078",
+      "OP05-070",
+      "OP09-069",
+      "EB01-061"
+    ]
+  },
+  "log-019": {
+    "player": "Pirate48394",
+    "action": "Draw 1 Don"
+  },
+  "log-020": {
+    "player": "Pirate48394",
+    "action": "End Turn"
+  },
+  "log-021": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP07-064",
+      "OP09-078",
+      "OP05-070",
+      "OP09-069",
+      "EB01-061"
+    ]
+  },
+  "log-022": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-023": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-024": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-025": {
+    "player": "Pirate48394",
+    "action": "Hand state",
+    "cards": [
+      "EB02-044",
+      "ST14-003",
+      "OP03-089",
+      "OP11-095",
+      "OP02-121"
+    ]
+  },
+  "log-026": {
+    "player": "Pirate48394",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-027": {
+    "player": "Pirate48394",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-028": {
+    "player": "Pirate48394",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-029": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-005"
+  },
+  "log-030": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-031": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-032": {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "OP09-069"
+  },
+  "log-033": {
+    "player": "Mhcuber",
+    "action": "Reveal and Draw",
+    "card": "ST18-003"
+  },
+  "log-034": {
+    "player": "Mhcuber",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-035": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP07-064",
+      "OP09-078",
+      "OP05-070",
+      "EB01-061",
+      "ST18-005",
+      "ST18-003"
+    ]
+  },
+  "log-036": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP09-069"
+    ]
+  },
+  "log-037": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-038": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-039": {
+    "player": "Pirate48394",
+    "action": "Hand state",
+    "cards": [
+      "EB02-044",
+      "ST14-003",
+      "OP03-089",
+      "OP11-095",
+      "OP02-121"
+    ]
+  },
+  "log-040": {
+    "player": "Pirate48394",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-041": {
+    "player": "Pirate48394",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-042": {
+    "player": "Pirate48394",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-043": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-044": {
+    "player": "Pirate48394",
+    "action": "Draw 1 Card"
+  },
+  "log-045": {
+    "player": "Pirate48394",
+    "action": "Drew card from deck",
+    "card": "OP03-089"
+  },
+  "log-046": {
+    "player": "Pirate48394",
+    "action": "Draw 2 Don"
+  },
+  "log-047": {
+    "player": "Pirate48394",
+    "action": "Deploy",
+    "card": "OP03-089"
+  },
+  "log-048": {
+    "player": "Pirate48394",
+    "action": "Reveal and Draw",
+    "card": "OP02-114"
+  },
+  "log-049": {
+    "player": "Pirate48394",
+    "action": "Card Effect",
+    "card_effect": "Brannew",
+    "card": "OP03-089",
+    "effect_description": "Trash 2 Remaining Cards"
+  },
+  "log-050": {
+    "player": "Pirate48394",
+    "action": "Attach Don",
+    "card": "ST14-001",
+    "don_attached": 1
+  },
+  "log-051": {
+    "player": "Pirate48394",
+    "action": "Attacking",
+    "attacker": "ST14-001",
+    "defender": "OP05-060"
+  },
+  "log-052": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP05-070",
+    "value": 2000
+  },
+  "log-053": {
+    "player": "System",
+    "action": "Attack Result",
+    "attacker": "ST14-001",
+    "attacker_power": 6000,
+    "defender": "OP05-060",
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log-054": {
+    "player": "Pirate48394",
+    "action": "End Turn"
+  },
+  "log-055": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP07-064",
+      "OP09-078",
+      "EB01-061",
+      "ST18-005",
+      "ST18-003"
+    ]
+  },
+  "log-056": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP09-069"
+    ]
+  },
+  "log-057": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP05-070"
+    ]
+  },
+  "log-058": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-059": {
+    "player": "Pirate48394",
+    "action": "Hand state",
+    "cards": [
+      "EB02-044",
+      "ST14-003",
+      "OP03-089",
+      "OP11-095",
+      "OP02-121",
+      "OP02-114"
+    ]
+  },
+  "log-060": {
+    "player": "Pirate48394",
+    "action": "Trash state",
+    "cards": [
+      "ST06-006",
+      "OP11-099"
+    ]
+  },
+  "log-061": {
+    "player": "Pirate48394",
+    "action": "Board state",
+    "cards": [
+      "OP03-089"
+    ]
+  },
+  "log-062": {
+    "player": "Pirate48394",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-063": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP07-064"
+  },
+  "log-064": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-065": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-066": {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "EB01-061"
+  },
+  "log-067": {
+    "player": "Mhcuber",
+    "action": "Card Effect",
+    "card_effect": "Mr. 2 Bon Clay (Bentham)",
+    "card": "EB01-061",
+    "effect_description": "Draw 1 Don"
+  },
+  "log-068": {
+    "player": "Mhcuber",
+    "action": "Loses 1 Life"
+  },
+  "log-069": {
+    "player": "Mhcuber",
+    "action": "Card Effect",
+    "card_effect": "Monkey D. Luffy",
+    "card": "OP05-060",
+    "effect_description": "Draw 1 Don"
+  },
+  "log-070": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "card": "OP05-060",
+    "don_attached": 2
+  },
+  "log-071": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "OP05-060",
+    "defender": "ST14-001"
+  },
+  "log-072": {
+    "player": "System",
+    "action": "Attack Result",
+    "attacker": "OP05-060",
+    "attacker_power": 7000,
+    "defender": "ST14-001",
+    "defender_power": 5000,
+    "result": "Hit for 1 damage"
+  },
+  "log-073": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP07-064",
+      "OP09-078",
+      "ST18-005",
+      "ST18-003",
+      "OP07-064",
+      "OP05-070"
+    ]
+  },
+  "log-074": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP09-069",
+      "EB01-061"
+    ]
+  },
+  "log-075": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP05-070"
+    ]
+  },
+  "log-076": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-077": {
+    "player": "Pirate48394",
+    "action": "Hand state",
+    "cards": [
+      "EB02-044",
+      "ST14-003",
+      "OP03-089",
+      "OP11-095",
+      "OP02-121",
+      "OP02-114",
+      "OP11-095"
+    ]
+  },
+  "log-078": {
+    "player": "Pirate48394",
+    "action": "Trash state",
+    "cards": [
+      "ST06-006",
+      "OP11-099"
+    ]
+  },
+  "log-079": {
+    "player": "Pirate48394",
+    "action": "Board state",
+    "cards": [
+      "OP03-089"
+    ]
+  },
+  "log-080": {
+    "player": "Pirate48394",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-081": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-082": {
+    "player": "Pirate48394",
+    "action": "Draw 1 Card"
+  },
+  "log-083": {
+    "player": "Pirate48394",
+    "action": "Drew card from deck",
+    "card": "OP11-099"
+  },
+  "log-084": {
+    "player": "Pirate48394",
+    "action": "Draw 2 Don"
+  },
+  "log-085": {
+    "player": "Pirate48394",
+    "action": "Reveal and Draw",
+    "card": "OP02-096"
+  },
+  "log-086": {
+    "player": "Pirate48394",
+    "action": "Card Effect",
+    "card_effect": "I Am The Man Who Will Become A Navy Officer!",
+    "card": "OP11-099",
+    "effect_description": "Trash 2 Remaining Cards"
+  },
+  "log-087": {
+    "player": "Pirate48394",
+    "action": "Deploy",
+    "card": "OP02-096"
+  },
+  "log-088": {
+    "player": "Pirate48394",
+    "action": "Drew card from deck",
+    "card": "OP03-097"
+  },
+  "log-089": {
+    "player": "Pirate48394",
+    "action": "Card Effect",
+    "card_effect": "Kuzan",
+    "card": "OP02-096",
+    "effect_description": "Draw 1 Card"
+  },
+  "log-090": {
+    "player": "Pirate48394",
+    "action": "Attacking",
+    "attacker": "ST14-001",
+    "defender": "OP05-060"
+  },
+  "log-091": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "ST18-003",
+    "value": 1000
+  },
+  "log-092": {
+    "player": "System",
+    "action": "Attack Result",
+    "attacker": "ST14-001",
+    "attacker_power": 5000,
+    "defender": "OP05-060",
+    "defender_power": 6000,
+    "result": "Attack Fails"
+  },
+  "log-093": {
+    "player": "Pirate48394",
+    "action": "End Turn"
+  },
+  "log-094": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP07-064",
+      "OP09-078",
+      "ST18-005",
+      "OP07-064",
+      "OP05-070"
+    ]
+  },
+  "log-095": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP09-069",
+      "EB01-061"
+    ]
+  },
+  "log-096": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP05-070",
+      "ST18-003"
+    ]
+  },
+  "log-097": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-098": {
+    "player": "Pirate48394",
+    "action": "Hand state",
+    "cards": [
+      "EB02-044",
+      "ST14-003",
+      "OP03-089",
+      "OP11-095",
+      "OP02-121",
+      "OP02-114",
+      "OP11-095",
+      "OP03-097"
+    ]
+  },
+  "log-099": {
+    "player": "Pirate48394",
+    "action": "Trash state",
+    "cards": [
+      "ST06-006",
+      "OP11-099",
+      "OP11-099",
+      "OP03-089",
+      "OP02-106"
+    ]
+  },
+  "log-100": {
+    "player": "Pirate48394",
+    "action": "Board state",
+    "cards": [
+      "OP03-089",
+      "OP02-096"
+    ]
+  },
+  "log-101": {
+    "player": "Pirate48394",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-102": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP06-076"
+  },
+  "log-103": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-104": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-105": {
+    "player": "Mhcuber",
+    "action": "Loses 1 Life"
+  },
+  "log-106": {
+    "player": "Mhcuber",
+    "action": "Card Effect",
+    "card_effect": "Monkey D. Luffy",
+    "card": "OP05-060",
+    "effect_description": "Draw 1 Don"
+  },
+  "log-107": {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "ST18-005"
+  },
+  "log-108": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "card": "OP05-060",
+    "don_attached": 1
+  },
+  "log-109": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "OP05-060",
+    "defender": "ST14-001"
+  },
+  "log-110": {
+    "player": "System",
+    "action": "Attack Result",
+    "attacker": "OP05-060",
+    "attacker_power": 6000,
+    "defender": "ST14-001",
+    "defender_power": 5000,
+    "result": "Hit for 1 damage"
+  },
+  "log-111": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "card": "EB01-061",
+    "don_attached": 1
+  },
+  "log-112": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "EB01-061",
+    "defender": "ST14-001"
+  },
+  "log-113": {
+    "player": "Mhcuber",
+    "action": "Card Effect",
+    "card_effect": "Mr. 2 Bon Clay (Bentham)",
+    "card": "EB01-061",
+    "effect_description": "Buff Self 4000"
+  },
+  "log-114": {
+    "player": "Pirate48394",
+    "action": "Discard for Counter",
+    "card": "OP02-114",
+    "value": 1000
+  },
+  "log-115": {
+    "player": "Pirate48394",
+    "action": "Discard for Counter",
+    "card": "OP03-089",
+    "value": 1000
+  },
+  "log-116": {
+    "player": "System",
+    "action": "Attack Result",
+    "attacker": "EB01-061",
+    "attacker_power": 6000,
+    "defender": "ST14-001",
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log-117": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP07-064",
+      "OP09-078",
+      "ST18-005",
+      "OP07-064",
+      "OP05-070",
+      "OP06-076"
+    ]
+  },
+  "log-118": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP09-069",
+      "EB01-061",
+      "ST18-005"
+    ]
+  },
+  "log-119": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP05-070",
+      "ST18-003"
+    ]
+  },
+  "log-120": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-121": {
+    "player": "Pirate48394",
+    "action": "Hand state",
+    "cards": [
+      "EB02-044",
+      "ST14-003",
+      "OP11-095",
+      "OP02-121",
+      "OP11-095",
+      "OP03-097",
+      "OP11-095"
+    ]
+  },
+  "log-122": {
+    "player": "Pirate48394",
+    "action": "Trash state",
+    "cards": [
+      "ST06-006",
+      "OP11-099",
+      "OP11-099",
+      "OP03-089",
+      "OP02-106",
+      "OP02-114",
+      "OP03-089"
+    ]
+  },
+  "log-123": {
+    "player": "Pirate48394",
+    "action": "Board state",
+    "cards": [
+      "OP03-089",
+      "OP02-096"
+    ]
+  },
+  "log-124": {
+    "player": "Pirate48394",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-125": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-126": {
+    "player": "Pirate48394",
+    "action": "Draw 1 Card"
+  },
+  "log-127": {
+    "player": "Pirate48394",
+    "action": "Drew card from deck",
+    "card": "OP02-096"
+  },
+  "log-128": {
+    "player": "Pirate48394",
+    "action": "Draw 2 Don"
+  },
+  "log-129": {
+    "player": "Pirate48394",
+    "action": "Attacking",
+    "attacker": "OP03-089",
+    "defender": "EB01-061"
+  },
+  "log-130": {
+    "player": "System",
+    "action": "Attack Result",
+    "attacker": "OP03-089",
+    "attacker_power": 3000,
+    "defender": "EB01-061",
+    "defender_power": 1000,
+    "result": "Destroyed"
+  },
+  "log-131": {
+    "player": "Mhcuber",
+    "action": "Card Destroyed",
+    "card": "EB01-061"
+  },
+  "log-132": {
+    "player": "Pirate48394",
+    "action": "Attacking",
+    "attacker": "OP02-096",
+    "defender": "OP05-060"
+  },
+  "log-133": {
+    "player": "Pirate48394",
+    "action": "Card Effect",
+    "card_effect": "Kuzan",
+    "card": "OP02-096",
+    "effect_description": "Luffy-tarou ST18-005 Cost -4"
+  },
+  "log-134": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP06-076",
+    "value": 2000
+  },
+  "log-135": {
+    "player": "System",
+    "action": "Attack Result",
+    "attacker": "OP02-096",
+    "attacker_power": 5000,
+    "defender": "OP05-060",
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log-136": {
+    "player": "Pirate48394",
+    "action": "Attach Don",
+    "card": "ST14-001",
+    "don_attached": 1
+  },
+  "log-137": {
+    "player": "Pirate48394",
+    "action": "Deploy",
+    "card": "ST14-003"
+  },
+  "log-138": {
+    "player": "Pirate48394",
+    "action": "Card Effect",
+    "card_effect": "Sanji",
+    "card": "ST14-003",
+    "effect_description": "Destroy Luffy-tarou ST18-005"
+  },
+  "log-139": {
+    "player": "Pirate48394",
+    "action": "Attach Don",
+    "card": "ST14-001",
+    "don_attached": 2
+  },
+  "log-140": {
+    "player": "Pirate48394",
+    "action": "Attacking",
+    "attacker": "ST14-001",
+    "defender": "OP05-060"
+  },
+  "log-141": {
+    "player": "System",
+    "action": "Attack Result",
+    "attacker": "ST14-001",
+    "attacker_power": 7000,
+    "defender": "OP05-060",
+    "defender_power": 5000,
+    "result": "Hit for 1 damage"
+  },
+  "log-142": {
+    "player": "Pirate48394",
+    "action": "End Turn"
+  },
+  "log-143": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP07-064",
+      "OP09-078",
+      "ST18-005",
+      "OP07-064",
+      "OP05-070",
+      "EB01-061"
+    ]
+  },
+  "log-144": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP09-069"
+    ]
+  },
+  "log-145": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP05-070",
+      "ST18-003",
+      "EB01-061",
+      "OP06-076",
+      "ST18-005"
+    ]
+  },
+  "log-146": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-147": {
+    "player": "Pirate48394",
+    "action": "Hand state",
+    "cards": [
+      "EB02-044",
+      "OP11-095",
+      "OP02-121",
+      "OP11-095",
+      "OP03-097",
+      "OP11-095",
+      "OP02-096"
+    ]
+  },
+  "log-148": {
+    "player": "Pirate48394",
+    "action": "Trash state",
+    "cards": [
+      "ST06-006",
+      "OP11-099",
+      "OP11-099",
+      "OP03-089",
+      "OP02-106",
+      "OP02-114",
+      "OP03-089"
+    ]
+  },
+  "log-149": {
+    "player": "Pirate48394",
+    "action": "Board state",
+    "cards": [
+      "OP03-089",
+      "OP02-096",
+      "ST14-003"
+    ]
+  },
+  "log-150": {
+    "player": "Pirate48394",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-151": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-004"
+  },
+  "log-152": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-153": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-154": {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "ST18-005"
+  },
+  "log-155": {
+    "player": "Mhcuber",
+    "action": "Reveal and Draw",
+    "card": "OP05-070"
+  },
+  "log-156": {
+    "player": "Mhcuber",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-157": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "card": "OP05-060",
+    "don_attached": 2
+  },
+  "log-158": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "OP05-060",
+    "defender": "OP02-096"
+  },
+  "log-159": {
+    "player": "Pirate48394",
+    "action": "Trash",
+    "card": "OP02-096"
+  },
+  "log-160": {
+    "player": "Pirate48394",
+    "action": "Counter",
+    "card": "OP03-097",
+    "value": 3000
+  },
+  "log-161": {
+    "player": "System",
+    "action": "Attack Result",
+    "attacker": "OP05-060",
+    "attacker_power": 7000,
+    "defender": "OP02-096",
+    "defender_power": 8000,
+    "result": "Attack Fails"
+  },
+  "log-162": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP07-064",
+      "OP09-078",
+      "OP07-064",
+      "OP05-070",
+      "EB01-061",
+      "OP05-070"
+    ]
+  },
+  "log-163": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP09-069",
+      "ST18-005",
+      "ST18-004"
+    ]
+  },
+  "log-164": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP05-070",
+      "ST18-003",
+      "EB01-061",
+      "OP06-076",
+      "ST18-005"
+    ]
+  },
+  "log-165": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-166": {
+    "player": "Pirate48394",
+    "action": "Hand state",
+    "cards": [
+      "EB02-044",
+      "OP11-095",
+      "OP02-121",
+      "OP11-095",
+      "OP11-095"
+    ]
+  },
+  "log-167": {
+    "player": "Pirate48394",
+    "action": "Trash state",
+    "cards": [
+      "ST06-006",
+      "OP11-099",
+      "OP11-099",
+      "OP03-089",
+      "OP02-106",
+      "OP02-114",
+      "OP03-089",
+      "OP02-096",
+      "OP03-097"
+    ]
+  },
+  "log-168": {
+    "player": "Pirate48394",
+    "action": "Board state",
+    "cards": [
+      "OP03-089",
+      "OP02-096",
+      "ST14-003"
+    ]
+  },
+  "log-169": {
+    "player": "Pirate48394",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-170": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-171": {
+    "player": "Pirate48394",
+    "action": "Draw 1 Card"
+  },
+  "log-172": {
+    "player": "Pirate48394",
+    "action": "Drew card from deck",
+    "card": "EB01-049"
+  },
+  "log-173": {
+    "player": "Pirate48394",
+    "action": "Draw 2 Don"
+  },
+  "log-174": {
+    "player": "Pirate48394",
+    "action": "Deploy",
+    "card": "OP11-095"
+  },
+  "log-175": {
+    "player": "Pirate48394",
+    "action": "Card Effect",
+    "card_effect": "Monkey D. Garp",
+    "card": "OP11-095",
+    "effect_description": "Sent I Am The Man Who Will Become A Navy Officer! OP11-099 to Deck Bottom from Trash"
+  },
+  "log-176": {
+    "player": "Pirate48394",
+    "action": "Card Effect",
+    "card_effect": "Monkey D. Garp",
+    "card": "OP11-095",
+    "effect_description": "Sent I Am The Man Who Will Become A Navy Officer! OP11-099 to Deck Bottom from Trash"
+  },
+  "log-177": {
+    "player": "Pirate48394",
+    "action": "Card Effect",
+    "card_effect": "Monkey D. Garp",
+    "card": "OP11-095",
+    "effect_description": "Sent Brannew OP03-089 to Deck Bottom from Trash"
+  },
+  "log-178": {
+    "player": "Pirate48394",
+    "action": "Card Effect",
+    "card_effect": "Monkey D. Garp",
+    "card": "OP11-095",
+    "effect_description": "Attach 1 Rested Don to Monkey D. Luffy ST14-001"
+  },
+  "log-179": {
+    "player": "Pirate48394",
+    "action": "Card Effect",
+    "card_effect": "Monkey D. Garp",
+    "card": "OP11-095",
+    "effect_description": "Destroy Luffy-tarou ST18-005"
+  },
+  "log-180": {
+    "player": "Pirate48394",
+    "action": "Attacking",
+    "attacker": "ST14-001",
+    "defender": "OP05-060"
+  },
+  "log-181": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP05-070",
+    "value": 2000
+  },
+  "log-182": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP05-070",
+    "value": 2000
+  },
+  "log-183": {
+    "player": "System",
+    "action": "Attack Result",
+    "attacker": "ST14-001",
+    "attacker_power": 7000,
+    "defender": "OP05-060",
+    "defender_power": 9000,
+    "result": "Attack Fails"
+  },
+  "log-184": {
+    "player": "Pirate48394",
+    "action": "Attach Don",
+    "card": "ST14-003",
+    "don_attached": 1
+  },
+  "log-185": {
+    "player": "Pirate48394",
+    "action": "Attacking",
+    "attacker": "ST14-003",
+    "defender": "OP05-060"
+  },
+  "log-186": {
+    "player": "System",
+    "action": "Attack Result",
+    "attacker": "ST14-003",
+    "attacker_power": 7000,
+    "defender": "OP05-060",
+    "defender_power": 5000,
+    "result": "Hit for 1 damage"
+  },
+  "log-187": {
+    "player": "Pirate48394",
+    "action": "End Turn"
+  },
+  "log-188": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP07-064",
+      "OP09-078",
+      "OP07-064",
+      "EB01-061",
+      "OP06-076"
+    ]
+  },
+  "log-189": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP09-069",
+      "ST18-004"
+    ]
+  },
+  "log-190": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP05-070",
+      "ST18-003",
+      "EB01-061",
+      "OP06-076",
+      "ST18-005",
+      "ST18-005",
+      "OP05-070",
+      "OP05-070"
+    ]
+  },
+  "log-191": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-192": {
+    "player": "Pirate48394",
+    "action": "Hand state",
+    "cards": [
+      "EB02-044",
+      "OP11-095",
+      "OP02-121",
+      "OP11-095",
+      "EB01-049"
+    ]
+  },
+  "log-193": {
+    "player": "Pirate48394",
+    "action": "Trash state",
+    "cards": [
+      "ST06-006",
+      "OP02-106",
+      "OP02-114",
+      "OP03-089",
+      "OP02-096",
+      "OP03-097"
+    ]
+  },
+  "log-194": {
+    "player": "Pirate48394",
+    "action": "Board state",
+    "cards": [
+      "OP03-089",
+      "OP02-096",
+      "ST14-003",
+      "OP11-095"
+    ]
+  },
+  "log-195": {
+    "player": "Pirate48394",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-196": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP05-070"
+  },
+  "log-197": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-198": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-199": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "card": "ST18-004",
+    "don_attached": 3
+  },
+  "log-200": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "ST18-004",
+    "defender": "ST14-003"
+  },
+  "log-201": {
+    "player": "System",
+    "action": "Attack Result",
+    "attacker": "ST18-004",
+    "attacker_power": 9000,
+    "defender": "ST14-003",
+    "defender_power": 6000,
+    "result": "Destroyed"
+  },
+  "log-202": {
+    "player": "Pirate48394",
+    "action": "Card Destroyed",
+    "card": "ST14-003"
+  },
+  "log-203": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "card": "OP09-069",
+    "don_attached": 3
+  },
+  "log-204": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "OP09-069",
+    "defender": "ST14-001"
+  },
+  "log-205": {
+    "player": "System",
+    "action": "Attack Result",
+    "attacker": "OP09-069",
+    "attacker_power": 5000,
+    "defender": "ST14-001",
+    "defender_power": 6000,
+    "result": "Attack Fails"
+  },
+  "log-206": {
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "card": "OP05-060",
+    "don_attached": 3
+  },
+  "log-207": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "OP05-060",
+    "defender": "ST14-001"
+  },
+  "log-208": {
+    "player": "System",
+    "action": "Attack Result",
+    "attacker": "OP05-060",
+    "attacker_power": 8000,
+    "defender": "ST14-001",
+    "defender_power": 6000,
+    "result": "Hit for 1 damage"
+  },
+  "log-209": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP07-064",
+      "OP09-078",
+      "OP07-064",
+      "EB01-061",
+      "OP06-076",
+      "OP05-070"
+    ]
+  },
+  "log-210": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "OP09-069",
+      "ST18-004"
+    ]
+  },
+  "log-211": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP05-070",
+      "ST18-003",
+      "EB01-061",
+      "OP06-076",
+      "ST18-005",
+      "ST18-005",
+      "OP05-070",
+      "OP05-070"
+    ]
+  },
+  "log-212": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-213": {
+    "player": "Pirate48394",
+    "action": "Hand state",
+    "cards": [
+      "EB02-044",
+      "OP11-095",
+      "OP02-121",
+      "OP11-095",
+      "EB01-049",
+      "OP07-118"
+    ]
+  },
+  "log-214": {
+    "player": "Pirate48394",
+    "action": "Trash state",
+    "cards": [
+      "ST06-006",
+      "OP02-106",
+      "OP02-114",
+      "OP03-089",
+      "OP02-096",
+      "OP03-097",
+      "ST14-003"
+    ]
+  },
+  "log-215": {
+    "player": "Pirate48394",
+    "action": "Board state",
+    "cards": [
+      "OP03-089",
+      "OP02-096",
+      "OP11-095"
+    ]
+  },
+  "log-216": {
+    "player": "Pirate48394",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-217": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-218": {
+    "player": "Pirate48394",
+    "action": "Draw 1 Card"
+  },
+  "log-219": {
+    "player": "Pirate48394",
+    "action": "Drew card from deck",
+    "card": "OP03-089"
+  },
+  "log-220": {
+    "player": "Pirate48394",
+    "action": "Draw 2 Don"
+  },
+  "log-221": {
+    "player": "Pirate48394",
+    "action": "Deploy",
+    "card": "OP02-121"
+  },
+  "log-222": {
+    "player": "Pirate48394",
+    "action": "Card Effect",
+    "card_effect": "Kuzan",
+    "card": "OP02-121",
+    "effect_description": "Destroy Zorojuro ST18-004"
+  },
+  "log-223": {
+    "player": "Pirate48394",
+    "action": "Attacking",
+    "attacker": "OP03-089",
+    "defender": "OP09-069"
+  },
+  "log-224": {
+    "player": "System",
+    "action": "Attack Result",
+    "attacker": "OP03-089",
+    "attacker_power": 3000,
+    "defender": "OP09-069",
+    "defender_power": 2000,
+    "result": "Destroyed"
+  },
+  "log-225": {
+    "player": "Mhcuber",
+    "action": "Card Destroyed",
+    "card": "OP09-069"
+  },
+  "log-226": {
+    "player": "Pirate48394",
+    "action": "Attacking",
+    "attacker": "OP02-096",
+    "defender": "OP05-060"
+  },
+  "log-227": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "EB01-061",
+    "value": 1000
+  },
+  "log-228": {
+    "player": "System",
+    "action": "Attack Result",
+    "attacker": "OP02-096",
+    "attacker_power": 5000,
+    "defender": "OP05-060",
+    "defender_power": 6000,
+    "result": "Attack Fails"
+  },
+  "log-229": {
+    "player": "Pirate48394",
+    "action": "Attacking",
+    "attacker": "ST14-001",
+    "defender": "OP05-060"
+  },
+  "log-230": {
+    "player": "Mhcuber",
+    "action": "Discard for Counter",
+    "card": "OP05-070",
+    "value": 2000
+  },
+  "log-231": {
+    "player": "System",
+    "action": "Attack Result",
+    "attacker": "ST14-001",
+    "attacker_power": 5000,
+    "defender": "OP05-060",
+    "defender_power": 7000,
+    "result": "Attack Fails"
+  },
+  "log-232": {
+    "player": "Pirate48394",
+    "action": "Attacking",
+    "attacker": "OP11-095",
+    "defender": "OP05-060"
+  },
+  "log-233": {
+    "player": "Mhcuber",
+    "action": "Card Effect",
+    "card_effect": "Gum Gum Giant",
+    "card": "OP09-078",
+    "effect_description": "Trash Sanji OP07-064"
+  },
+  "log-234": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-004"
+  },
+  "log-235": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "EB01-039"
+  },
+  "log-236": {
+    "player": "Mhcuber",
+    "action": "Card Effect",
+    "card_effect": "Gum Gum Giant",
+    "card": "OP09-078",
+    "effect_description": "Buff Monkey D. Luffy OP05-060 4000 for the Combat"
+  },
+  "log-237": {
+    "player": "Mhcuber",
+    "action": "Card Effect",
+    "card_effect": "Gum Gum Giant",
+    "card": "OP09-078",
+    "effect_description": "Draw 2 Card"
+  },
+  "log-238": {
+    "player": "System",
+    "action": "Attack Result",
+    "attacker": "OP11-095",
+    "attacker_power": 8000,
+    "defender": "OP05-060",
+    "defender_power": 9000,
+    "result": "Attack Fails"
+  },
+  "log-239": {
+    "player": "Pirate48394",
+    "action": "End Turn"
+  },
+  "log-240": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP07-064",
+      "OP06-076",
+      "ST18-004",
+      "EB01-039"
+    ]
+  },
+  "log-241": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-242": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP05-070",
+      "ST18-003",
+      "EB01-061",
+      "OP06-076",
+      "ST18-005",
+      "ST18-005",
+      "OP05-070",
+      "OP05-070",
+      "ST18-004",
+      "OP09-069",
+      "EB01-061",
+      "OP05-070",
+      "OP09-078",
+      "OP07-064"
+    ]
+  },
+  "log-243": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-244": {
+    "player": "Pirate48394",
+    "action": "Hand state",
+    "cards": [
+      "EB02-044",
+      "OP11-095",
+      "OP11-095",
+      "EB01-049",
+      "OP07-118",
+      "OP03-089"
+    ]
+  },
+  "log-245": {
+    "player": "Pirate48394",
+    "action": "Trash state",
+    "cards": [
+      "ST06-006",
+      "OP02-106",
+      "OP02-114",
+      "OP03-089",
+      "OP02-096",
+      "OP03-097",
+      "ST14-003"
+    ]
+  },
+  "log-246": {
+    "player": "Pirate48394",
+    "action": "Board state",
+    "cards": [
+      "OP03-089",
+      "OP02-096",
+      "OP11-095",
+      "OP02-121"
+    ]
+  },
+  "log-247": {
+    "player": "Pirate48394",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-248": {
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP05-077"
+  },
+  "log-249": {
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-250": {
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-251": {
+    "player": "Mhcuber",
+    "action": "Card Effect",
+    "card_effect": "Ragnarok",
+    "card": "EB01-039",
+    "effect_description": "Destroy Monkey D. Garp OP11-095"
+  },
+  "log-252": {
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "ST18-004"
+  },
+  "log-253": {
+    "player": "Mhcuber",
+    "action": "Reveal and Draw",
+    "card": "OP09-078"
+  },
+  "log-254": {
+    "player": "Mhcuber",
+    "action": "Placing Cards on Bottom of Deck"
+  },
+  "log-255": {
+    "player": "Mhcuber",
+    "action": "Attacking",
+    "attacker": "OP05-060",
+    "defender": "OP02-096"
+  },
+  "log-256": {
+    "player": "Pirate48394",
+    "action": "Discard for Counter",
+    "card": "OP03-089",
+    "value": 1000
+  },
+  "log-257": {
+    "player": "System",
+    "action": "Attack Result",
+    "attacker": "OP05-060",
+    "attacker_power": 5000,
+    "defender": "OP02-096",
+    "defender_power": 6000,
+    "result": "Attack Fails"
+  },
+  "log-258": {
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP07-064",
+      "OP06-076",
+      "OP05-077",
+      "OP09-078"
+    ]
+  },
+  "log-259": {
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-004"
+    ]
+  },
+  "log-260": {
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP05-070",
+      "ST18-003",
+      "EB01-061",
+      "OP06-076",
+      "ST18-005",
+      "ST18-005",
+      "OP05-070",
+      "OP05-070",
+      "ST18-004",
+      "OP09-069",
+      "EB01-061",
+      "OP05-070",
+      "OP09-078",
+      "OP07-064",
+      "EB01-039"
+    ]
+  },
+  "log-261": {
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-262": {
+    "player": "Pirate48394",
+    "action": "Hand state",
+    "cards": [
+      "EB02-044",
+      "OP11-095",
+      "OP11-095",
+      "EB01-049",
+      "OP07-118"
+    ]
+  },
+  "log-263": {
+    "player": "Pirate48394",
+    "action": "Trash state",
+    "cards": [
+      "ST06-006",
+      "OP02-106",
+      "OP02-114",
+      "OP03-089",
+      "OP02-096",
+      "OP03-097",
+      "ST14-003",
+      "OP11-095",
+      "OP03-089"
+    ]
+  },
+  "log-264": {
+    "player": "Pirate48394",
+    "action": "Board state",
+    "cards": [
+      "OP03-089",
+      "OP02-096",
+      "OP02-121"
+    ]
+  },
+  "log-265": {
+    "player": "Pirate48394",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-266": {
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-267": {
+    "player": "Pirate48394",
+    "action": "Draw 1 Card"
+  },
+  "log-268": {
+    "player": "Pirate48394",
+    "action": "Drew card from deck",
+    "card": "ST06-006"
+  },
+  "log-269": {
+    "player": "Mhcuber",
+    "action": "Concedes"
+  }
+}
