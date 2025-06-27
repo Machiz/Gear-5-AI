@@ -351,10 +351,10 @@
   "log-065": {
     "player": "DalphaI",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-066": {
     "player": "Pirate26156",
@@ -457,10 +457,10 @@
   "log-082": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
   },
   "log-083": {
     "player": "DalphaI",
@@ -626,10 +626,10 @@
   "log-110": {
     "player": "DalphaI",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-111": {
     "player": "Pirate26156",
@@ -745,10 +745,10 @@
   "log-127": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
   },
   "log-128": {
     "player": "DalphaI",
@@ -904,10 +904,10 @@
   "log-152": {
     "player": "DalphaI",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-153": {
     "player": "Pirate26156",
@@ -1033,10 +1033,10 @@
   "log-170": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
   },
   "log-171": {
     "player": "Pirate26156",
@@ -1052,10 +1052,10 @@
   "log-173": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
   },
   "log-174": {
     "player": "DalphaI",
@@ -1074,10 +1074,10 @@
   "log-177": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
   },
   "log-178": {
     "player": "DalphaI",
@@ -1193,10 +1193,10 @@
   "log-193": {
     "player": "DalphaI",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-194": {
     "player": "Pirate26156",
@@ -1298,10 +1298,10 @@
   "log-212": {
     "player": "DalphaI",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-213": {
     "player": "Pirate26156",
@@ -1431,10 +1431,10 @@
   "log-230": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
   },
   "log-231": {
     "player": "Pirate26156",
@@ -1454,10 +1454,10 @@
   "log-234": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
   },
   "log-235": {
     "player": "DalphaI",
@@ -1476,10 +1476,10 @@
   "log-238": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
   },
   "log-239": {
     "player": "DalphaI",
@@ -1489,10 +1489,10 @@
   "log-240": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
   },
   "log-241": {
     "player": "DalphaI",
@@ -1659,10 +1659,10 @@
   "log-264": {
     "player": "DalphaI",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-265": {
     "player": "Pirate26156",
@@ -1672,10 +1672,10 @@
   "log-266": {
     "player": "DalphaI",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-267": {
     "player": "Pirate26156",
@@ -1695,10 +1695,10 @@
   "log-270": {
     "player": "DalphaI",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-271": {
     "player": "Pirate26156",
@@ -1708,10 +1708,10 @@
   "log-272": {
     "player": "DalphaI",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-273": {
     "player": "Pirate26156",
@@ -1846,10 +1846,10 @@
   "log-290": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
   },
   "log-291": {
     "player": "DalphaI",
@@ -1951,10 +1951,10 @@
   "log-301": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Marshall D. Teach",
+    "defender_id": "OP09-081"
   },
   "log-302": {
     "player": "Pirate26156",
@@ -2037,10 +2037,10 @@
   "log-317": {
     "player": "DalphaI",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-318": {
     "player": "System",
@@ -2050,10 +2050,10 @@
   "log-319": {
     "player": "DalphaI",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-320": {
     "player": "Pirate26156",
@@ -2068,10 +2068,10 @@
   "log-322": {
     "player": "DalphaI",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-323": {
     "player": "Pirate26156",
@@ -2086,10 +2086,10 @@
   "log-325": {
     "player": "DalphaI",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Marshall D. Teach",
+    "attacker_id": "OP09-081",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-326": {
     "player": "System",

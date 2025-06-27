@@ -275,10 +275,10 @@
   "log-052": {
     "player": "Pirate4156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-053": {
     "player": "Pirate26156",
@@ -382,10 +382,10 @@
   "log-070": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
   },
   "log-071": {
     "player": "Pirate4156",
@@ -471,10 +471,10 @@
   "log-084": {
     "player": "Pirate4156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-085": {
     "player": "Pirate26156",
@@ -583,5 +583,21 @@
   "log-102": {
     "player": "Pirate4156",
     "action": "Concedes!"
+  },
+  "log-103": {
+    "player": "Pirate4156",
+    "action": "Loses"
+  },
+  "log-104": {
+    "player": "Pirate26156",
+    "action": "Wins!"
+  },
+  "log-105": {
+    "player": "Pirate4156",
+    "action": "Quits!"
+  },
+  "log-106": {
+    "player": "Opponent",
+    "action": "Has Disconnected!"
   }
 }

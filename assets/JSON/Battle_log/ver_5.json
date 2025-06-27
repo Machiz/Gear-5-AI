@@ -339,10 +339,10 @@
   "log-062": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "OP09-001",
-    "attacker_id": "",
-    "defender": "OP10-099",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-063": {
     "player": "System",
@@ -474,10 +474,10 @@
   "log-083": {
     "player": "Pirate73357",
     "action": "Attacking",
-    "attacker": "OP10-099",
-    "attacker_id": "",
-    "defender": "OP09-001",
-    "defender_id": ""
+    "attacker": "Eustass \"Captain\" Kid",
+    "attacker_id": "OP10-099",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-084": {
     "player": "System",
@@ -579,10 +579,10 @@
   "log-099": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "ST21-014",
-    "attacker_id": "",
-    "defender": "OP10-099",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-100": {
     "player": "Pirate26156",
@@ -611,10 +611,10 @@
   "log-104": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "OP09-001",
-    "attacker_id": "",
-    "defender": "OP10-099",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-105": {
     "player": "System",
@@ -738,10 +738,10 @@
   "log-123": {
     "player": "Pirate73357",
     "action": "Attacking",
-    "attacker": "OP10-099",
-    "attacker_id": "",
-    "defender": "OP09-001",
-    "defender_id": ""
+    "attacker": "Eustass \"Captain\" Kid",
+    "attacker_id": "OP10-099",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-124": {
     "player": "Pirate26156",
@@ -864,10 +864,10 @@
   "log-142": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "OP09-001",
-    "attacker_id": "",
-    "defender": "OP10-099",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-143": {
     "player": "System",
@@ -1000,10 +1000,10 @@
   "log-162": {
     "player": "Pirate73357",
     "action": "Attacking",
-    "attacker": "OP10-099",
-    "attacker_id": "",
-    "defender": "OP09-001",
-    "defender_id": ""
+    "attacker": "Eustass \"Captain\" Kid",
+    "attacker_id": "OP10-099",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-163": {
     "player": "System",
@@ -1182,10 +1182,10 @@
   "log-189": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "OP09-009",
-    "attacker_id": "",
-    "defender": "OP10-099",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-190": {
     "player": "System",
@@ -1203,10 +1203,10 @@
   "log-192": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "OP09-001",
-    "attacker_id": "",
-    "defender": "OP10-099",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-193": {
     "player": "System",
@@ -1311,10 +1311,10 @@
   "log-207": {
     "player": "Pirate73357",
     "action": "Attacking",
-    "attacker": "OP10-099",
-    "attacker_id": "",
-    "defender": "OP09-001",
-    "defender_id": ""
+    "attacker": "Eustass \"Captain\" Kid",
+    "attacker_id": "OP10-099",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-208": {
     "player": "Pirate26156",
@@ -1356,10 +1356,10 @@
   "log-214": {
     "player": "Pirate73357",
     "action": "Attacking",
-    "attacker": "OP07-119",
-    "attacker_id": "",
-    "defender": "OP09-009",
-    "defender_id": ""
+    "attacker": "Eustass \"Captain\" Kid",
+    "attacker_id": "OP10-099",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-215": {
     "player": "Pirate26156",
@@ -1522,10 +1522,10 @@
   "log-239": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "OP09-009",
-    "attacker_id": "",
-    "defender": "OP07-119",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-240": {
     "player": "Pirate73357",
@@ -1557,10 +1557,10 @@
   "log-245": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "OP09-001",
-    "attacker_id": "",
-    "defender": "OP10-099",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-246": {
     "player": "Pirate73357",
@@ -1682,10 +1682,10 @@
   "log-263": {
     "player": "Pirate73357",
     "action": "Attacking",
-    "attacker": "OP07-119",
-    "attacker_id": "",
-    "defender": "OP09-009",
-    "defender_id": ""
+    "attacker": "Eustass \"Captain\" Kid",
+    "attacker_id": "OP10-099",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-264": {
     "player": "System",
@@ -1727,10 +1727,10 @@
   "log-270": {
     "player": "Pirate73357",
     "action": "Attacking",
-    "attacker": "OP10-099",
-    "attacker_id": "",
-    "defender": "OP09-001",
-    "defender_id": ""
+    "attacker": "Eustass \"Captain\" Kid",
+    "attacker_id": "OP10-099",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-271": {
     "player": "System",
@@ -1867,10 +1867,10 @@
   "log-289": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "OP03-013",
-    "attacker_id": "",
-    "defender": "OP07-119",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-290": {
     "player": "Pirate73357",
@@ -1892,10 +1892,10 @@
   "log-293": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "OP09-001",
-    "attacker_id": "",
-    "defender": "OP10-099",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-294": {
     "player": "System",
@@ -2008,10 +2008,10 @@
   "log-308": {
     "player": "Pirate73357",
     "action": "Attacking",
-    "attacker": "OP10-099",
-    "attacker_id": "",
-    "defender": "OP03-013",
-    "defender_id": ""
+    "attacker": "Eustass \"Captain\" Kid",
+    "attacker_id": "OP10-099",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-309": {
     "player": "System",
@@ -2213,10 +2213,10 @@
   "log-337": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "OP09-001",
-    "attacker_id": "",
-    "defender": "OP10-099",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-338": {
     "player": "Pirate73357",
@@ -2238,10 +2238,10 @@
   "log-341": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "OP08-118",
-    "attacker_id": "",
-    "defender": "OP10-099",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-342": {
     "player": "System",
@@ -2259,10 +2259,10 @@
   "log-344": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "OP07-015",
-    "attacker_id": "",
-    "defender": "OP10-099",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-345": {
     "player": "System",

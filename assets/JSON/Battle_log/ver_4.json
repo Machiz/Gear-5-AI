@@ -265,10 +265,10 @@
   "log-049": {
     "player": "Red360",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Boa Hancock",
+    "attacker_id": "OP07-038",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-050": {
     "player": "Shanks",
@@ -362,10 +362,10 @@
   "log-065": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Boa Hancock",
+    "defender_id": "OP07-038"
   },
   "log-066": {
     "player": "Boa Hancock",
@@ -496,10 +496,10 @@
   "log-088": {
     "player": "Red360",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Boa Hancock",
+    "attacker_id": "OP07-038",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-089": {
     "player": "Pirate26156",
@@ -603,10 +603,10 @@
   "log-105": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Boa Hancock",
+    "defender_id": "OP07-038"
   },
   "log-106": {
     "player": "Boa Hancock",
@@ -723,10 +723,10 @@
   "log-124": {
     "player": "Red360",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Boa Hancock",
+    "attacker_id": "OP07-038",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-125": {
     "player": "Pirate26156",
@@ -851,10 +851,10 @@
   "log-144": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Boa Hancock",
+    "defender_id": "OP07-038"
   },
   "log-145": {
     "player": "Red360",
@@ -981,10 +981,10 @@
   "log-164": {
     "player": "Red360",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Boa Hancock",
+    "attacker_id": "OP07-038",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-165": {
     "player": "Pirate26156",
@@ -1117,10 +1117,10 @@
   "log-185": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Boa Hancock",
+    "defender_id": "OP07-038"
   },
   "log-186": {
     "player": "Red360",
@@ -1138,10 +1138,10 @@
   "log-188": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Boa Hancock",
+    "defender_id": "OP07-038"
   },
   "log-189": {
     "player": "Boa Hancock",
@@ -1217,10 +1217,10 @@
   "log-198": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Boa Hancock",
+    "defender_id": "OP07-038"
   },
   "log-199": {
     "player": "Pirate26156",
@@ -1272,10 +1272,10 @@
   "log-208": {
     "player": "Red360",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Boa Hancock",
+    "attacker_id": "OP07-038",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-209": {
     "player": "Pirate26156",
@@ -1293,10 +1293,10 @@
   "log-211": {
     "player": "Red360",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Boa Hancock",
+    "attacker_id": "OP07-038",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-212": {
     "player": "Pirate26156",
@@ -1402,10 +1402,10 @@
   "log-227": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Boa Hancock",
+    "defender_id": "OP07-038"
   },
   "log-228": {
     "player": "Red360",
@@ -1423,10 +1423,10 @@
   "log-230": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Boa Hancock",
+    "defender_id": "OP07-038"
   },
   "log-231": {
     "player": "Boa Hancock",
@@ -1436,10 +1436,10 @@
   "log-232": {
     "player": "Pirate26156",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Boa Hancock",
+    "defender_id": "OP07-038"
   },
   "log-233": {
     "player": "Boa Hancock",
@@ -1562,10 +1562,10 @@
   "log-250": {
     "player": "Red360",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Boa Hancock",
+    "attacker_id": "OP07-038",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-251": {
     "player": "Pirate26156",
@@ -1589,10 +1589,10 @@
   "log-254": {
     "player": "Red360",
     "action": "Attacking",
-    "attacker": "",
-    "attacker_id": "",
-    "defender": "",
-    "defender_id": ""
+    "attacker": "Boa Hancock",
+    "attacker_id": "OP07-038",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-255": {
     "player": "Shanks",
