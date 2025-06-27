@@ -40,7 +40,7 @@
   },
   "log-009": {
     "player": "keni",
-    "action": "Hand state state before Mulligan",
+    "action": "Hand before Mulligan",
     "cards": [
       "EB01-015",
       "OP08-023",
@@ -130,7 +130,7 @@
   },
   "log-026": {
     "player": "keni",
-    "action": "Hand state state",
+    "action": "Hand after Mulligan",
     "cards": [
       "OP05-030",
       "OP10-032",
@@ -270,13 +270,12 @@
   },
   "log-049": {
     "player": "Pirate1280",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP07-046"
   },
   "log-050": {
     "player": "Pirate1280",
-    "action": "Reveal and Draw",
-    "card": "ST17-004"
+    "action": "Reveal and Draw"
   },
   "log-051": {
     "player": "Pirate1280",
@@ -284,7 +283,7 @@
   },
   "log-052": {
     "player": "Pirate1280",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "ST03-008"
   },
   "log-053": {
@@ -361,12 +360,12 @@
   },
   "log-065": {
     "player": "keni",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP05-030"
   },
   "log-066": {
     "player": "keni",
-    "action": "Attacking Leader",
+    "action": "Attacking",
     "attacker": "Jewelry Bonney",
     "attacker_id": "OP07-019",
     "defender": "Donquixote Doflamingo",
@@ -469,7 +468,7 @@
   },
   "log-082": {
     "player": "Pirate1280",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "ST17-002"
   },
   "log-083": {
@@ -488,7 +487,7 @@
   },
   "log-085": {
     "player": "Pirate1280",
-    "action": "Attacking Leader",
+    "action": "Attacking",
     "attacker": "Donquixote Doflamingo",
     "attacker_id": "OP01-060",
     "defender": "Jewelry Bonney",
@@ -599,7 +598,7 @@
   },
   "log-102": {
     "player": "keni",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP08-023"
   },
   "log-103": {
@@ -611,7 +610,7 @@
   },
   "log-104": {
     "player": "keni",
-    "action": "Attacking Leader",
+    "action": "Attacking",
     "attacker": "Jewelry Bonney",
     "attacker_id": "OP07-019",
     "defender": "Donquixote Doflamingo",
@@ -629,7 +628,7 @@
   },
   "log-106": {
     "player": "Pirate1280",
-    "action": "Damage taken by Leader",
+    "action": "Leader took 1 damage",
     "card": "OP01-060"
   },
   "log-107": {
@@ -713,7 +712,7 @@
   },
   "log-119": {
     "player": "Pirate1280",
-    "action": "Attacking Leader",
+    "action": "Attacking",
     "attacker": "Donquixote Doflamingo",
     "attacker_id": "OP01-060",
     "defender": "Jewelry Bonney",
@@ -741,7 +740,7 @@
   },
   "log-123": {
     "player": "Pirate1280",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP08-047"
   },
   "log-124": {
@@ -839,12 +838,12 @@
   },
   "log-138": {
     "player": "keni",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP07-029"
   },
   "log-139": {
     "player": "keni",
-    "action": "Attacking Leader",
+    "action": "Attacking",
     "attacker": "Jewelry Bonney",
     "attacker_id": "OP07-019",
     "defender": "Donquixote Doflamingo",
@@ -862,7 +861,7 @@
   },
   "log-141": {
     "player": "Pirate1280",
-    "action": "Damage taken by Leader",
+    "action": "Leader took 1 damage",
     "card": "OP01-060"
   },
   "log-142": {
@@ -949,7 +948,7 @@
   },
   "log-154": {
     "player": "Pirate1280",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "ST17-005"
   },
   "log-155": {
@@ -972,7 +971,7 @@
   },
   "log-158": {
     "player": "Pirate1280",
-    "action": "Attacking Leader",
+    "action": "Attacking",
     "attacker": "Donquixote Doflamingo",
     "attacker_id": "OP01-060",
     "defender": "Jewelry Bonney",
@@ -985,7 +984,7 @@
   },
   "log-160": {
     "player": "Pirate1280",
-    "action": "Played cardfrom Deck",
+    "action": "Played card",
     "card": "ST17-004"
   },
   "log-161": {
@@ -1018,18 +1017,17 @@
   },
   "log-165": {
     "player": "keni",
-    "action": "Damage taken by Leader",
+    "action": "Leader took 1 damage",
     "card": "OP07-019"
   },
   "log-166": {
     "player": "Pirate1280",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP07-046"
   },
   "log-167": {
     "player": "Pirate1280",
-    "action": "Reveal and Draw",
-    "card": "ST03-008"
+    "action": "Reveal and Draw"
   },
   "log-168": {
     "player": "Pirate1280",
@@ -1037,7 +1035,7 @@
   },
   "log-169": {
     "player": "Pirate1280",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "ST17-002"
   },
   "log-170": {
@@ -1134,7 +1132,7 @@
   },
   "log-183": {
     "player": "keni",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "ST16-004"
   },
   "log-184": {
@@ -1146,7 +1144,7 @@
   },
   "log-185": {
     "player": "keni",
-    "action": "Attacking Leader",
+    "action": "Attacking",
     "attacker": "Jewelry Bonney",
     "attacker_id": "OP07-019",
     "defender": "Donquixote Doflamingo",
@@ -1174,7 +1172,7 @@
   },
   "log-189": {
     "player": "keni",
-    "action": "Attacking Character",
+    "action": "Attacking",
     "attacker": "Basil Hawkins",
     "attacker_id": "OP07-029",
     "defender": "Jozu",
@@ -1295,7 +1293,7 @@
   },
   "log-206": {
     "player": "Pirate1280",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP01-077"
   },
   "log-207": {
@@ -1304,14 +1302,13 @@
   },
   "log-208": {
     "player": "Pirate1280",
-    "action": "Attached 2 Don",
-    "target": "OP01-060",
-    "total_don": 2,
-    "card": ""
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-209": {
     "player": "Pirate1280",
-    "action": "Attacking Leader",
+    "action": "Attacking",
     "attacker": "Donquixote Doflamingo",
     "attacker_id": "OP01-060",
     "defender": "Jewelry Bonney",
@@ -1324,7 +1321,7 @@
   },
   "log-211": {
     "player": "Pirate1280",
-    "action": "Played cardfrom Deck",
+    "action": "Played card",
     "card": "ST03-004"
   },
   "log-212": {
@@ -1351,7 +1348,7 @@
   },
   "log-215": {
     "player": "keni",
-    "action": "Damage taken by Leader",
+    "action": "Leader took 1 damage",
     "card": "OP07-019"
   },
   "log-216": {
@@ -1363,7 +1360,7 @@
   },
   "log-217": {
     "player": "Pirate1280",
-    "action": "Attacking Leader",
+    "action": "Attacking",
     "attacker": "Jozu",
     "attacker_id": "OP08-047",
     "defender": "Jewelry Bonney",
@@ -1381,7 +1378,7 @@
   },
   "log-219": {
     "player": "keni",
-    "action": "Damage taken by Leader",
+    "action": "Leader took 1 damage",
     "card": "OP07-019"
   },
   "log-220": {
@@ -1475,12 +1472,12 @@
   },
   "log-232": {
     "player": "keni",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP07-021"
   },
   "log-233": {
     "player": "keni",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP08-023"
   },
   "log-234": {
@@ -1492,12 +1489,12 @@
   },
   "log-235": {
     "player": "keni",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "ST02-007"
   },
   "log-236": {
     "player": "keni",
-    "action": "Attacking Character",
+    "action": "Attacking",
     "attacker": "Jewelry Bonney",
     "attacker_id": "OP07-019",
     "defender": "Trafalgar Law",
@@ -1626,14 +1623,13 @@
   },
   "log-253": {
     "player": "Pirate1280",
-    "action": "Attached 2 Don",
-    "target": "OP01-060",
-    "total_don": 2,
-    "card": ""
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-254": {
     "player": "Pirate1280",
-    "action": "Attacking Leader",
+    "action": "Attacking",
     "attacker": "Donquixote Doflamingo",
     "attacker_id": "OP01-060",
     "defender": "Jewelry Bonney",
@@ -1646,7 +1642,7 @@
   },
   "log-256": {
     "player": "Pirate1280",
-    "action": "Played cardfrom Deck",
+    "action": "Played card",
     "card": "ST03-005"
   },
   "log-257": {
@@ -1701,7 +1697,7 @@
   },
   "log-265": {
     "player": "Pirate1280",
-    "action": "Attacking Leader",
+    "action": "Attacking",
     "attacker": "Marshall D. Teach",
     "attacker_id": "ST17-005",
     "defender": "Jewelry Bonney",
@@ -1814,24 +1810,23 @@
   },
   "log-280": {
     "player": "keni",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP08-030"
   },
   "log-281": {
     "player": "keni",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP05-030"
   },
   "log-282": {
     "player": "keni",
-    "action": "Attached 3 Don",
-    "target": "OP07-029",
-    "total_don": 3,
-    "card": ""
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-283": {
     "player": "keni",
-    "action": "Attacking Character",
+    "action": "Attacking",
     "attacker": "Basil Hawkins",
     "attacker_id": "OP07-029",
     "defender": "Jozu",
@@ -1854,7 +1849,7 @@
   },
   "log-286": {
     "player": "keni",
-    "action": "Attacking Character",
+    "action": "Attacking",
     "attacker": "Jewelry Bonney",
     "attacker_id": "OP07-019",
     "defender": "Marshall D. Teach",
@@ -1963,7 +1958,7 @@
   },
   "log-300": {
     "player": "Pirate1280",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "ST03-004"
   },
   "log-301": {
@@ -1973,14 +1968,13 @@
   },
   "log-302": {
     "player": "Pirate1280",
-    "action": "Attached 1 Don",
-    "target": "ST03-005",
-    "total_don": 1,
-    "card": ""
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-303": {
     "player": "Pirate1280",
-    "action": "Attacking Leader",
+    "action": "Attacking",
     "attacker": "Dracule Mihawk",
     "attacker_id": "ST03-005",
     "defender": "Jewelry Bonney",
@@ -2035,12 +2029,12 @@
   },
   "log-311": {
     "player": "keni",
-    "action": "Damage taken by Leader",
+    "action": "Leader took 1 damage",
     "card": "OP07-019"
   },
   "log-312": {
     "player": "Pirate1280",
-    "action": "Attacking Leader",
+    "action": "Attacking",
     "attacker": "Gecko Moria",
     "attacker_id": "ST03-004",
     "defender": "Jewelry Bonney",
@@ -2068,14 +2062,13 @@
   },
   "log-316": {
     "player": "Pirate1280",
-    "action": "Attached 1 Don",
-    "target": "OP01-060",
-    "total_don": 1,
-    "card": ""
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-317": {
     "player": "Pirate1280",
-    "action": "Attacking Leader",
+    "action": "Attacking",
     "attacker": "Donquixote Doflamingo",
     "attacker_id": "OP01-060",
     "defender": "Jewelry Bonney",
@@ -2103,7 +2096,7 @@
   },
   "log-321": {
     "player": "Pirate1280",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "ST17-004"
   },
   "log-322": {
@@ -2218,8 +2211,7 @@
   },
   "log-336": {
     "player": "keni",
-    "action": "Reveal and Draw",
-    "card": "OP01-039"
+    "action": "Reveal and Draw"
   },
   "log-337": {
     "player": "keni",
@@ -2227,7 +2219,7 @@
   },
   "log-338": {
     "player": "keni",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "EB01-012"
   },
   "log-339": {
@@ -2238,19 +2230,18 @@
   },
   "log-340": {
     "player": "keni",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP01-039"
   },
   "log-341": {
     "player": "keni",
-    "action": "Attached 1 Don",
-    "target": "OP08-030",
-    "total_don": 1,
-    "card": ""
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-342": {
     "player": "keni",
-    "action": "Attacking Character",
+    "action": "Attacking",
     "attacker": "Pedro",
     "attacker_id": "OP08-030",
     "defender": "Dracule Mihawk",
@@ -2273,14 +2264,13 @@
   },
   "log-345": {
     "player": "keni",
-    "action": "Attached 2 Don",
-    "target": "OP07-019",
-    "total_don": 2,
-    "card": ""
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-346": {
     "player": "keni",
-    "action": "Attacking Character",
+    "action": "Attacking",
     "attacker": "Jewelry Bonney",
     "attacker_id": "OP07-019",
     "defender": "Gecko Moria",
@@ -2395,13 +2385,12 @@
   },
   "log-360": {
     "player": "Pirate1280",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP07-046"
   },
   "log-361": {
     "player": "Pirate1280",
-    "action": "Reveal and Draw",
-    "card": "ST17-002"
+    "action": "Reveal and Draw"
   },
   "log-362": {
     "player": "Pirate1280",
@@ -2409,7 +2398,7 @@
   },
   "log-363": {
     "player": "Pirate1280",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "ST17-002"
   },
   "log-364": {
@@ -2428,7 +2417,7 @@
   },
   "log-366": {
     "player": "Pirate1280",
-    "action": "Attacking Character",
+    "action": "Attacking",
     "attacker": "Perona",
     "attacker_id": "OP01-077",
     "defender": "Jewelry Bonney",
@@ -2458,14 +2447,13 @@
   },
   "log-370": {
     "player": "Pirate1280",
-    "action": "Attached 2 Don",
-    "target": "ST03-004",
-    "total_don": 2,
-    "card": ""
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-371": {
     "player": "Pirate1280",
-    "action": "Attacking Leader",
+    "action": "Attacking",
     "attacker": "Gecko Moria",
     "attacker_id": "ST03-004",
     "defender": "Jewelry Bonney",
@@ -2498,14 +2486,13 @@
   },
   "log-376": {
     "player": "Pirate1280",
-    "action": "Attached 2 Don",
-    "target": "OP01-060",
-    "total_don": 2,
-    "card": ""
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-377": {
     "player": "Pirate1280",
-    "action": "Attacking Leader",
+    "action": "Attacking",
     "attacker": "Donquixote Doflamingo",
     "attacker_id": "OP01-060",
     "defender": "Jewelry Bonney",
@@ -2518,7 +2505,7 @@
   },
   "log-379": {
     "player": "Pirate1280",
-    "action": "Played cardfrom Deck",
+    "action": "Played card",
     "card": "EB01-023"
   },
   "log-380": {
@@ -2544,7 +2531,7 @@
   },
   "log-383": {
     "player": "keni",
-    "action": "Damage taken by Leader",
+    "action": "Leader took 1 damage",
     "card": "OP07-019"
   },
   "log-384": {
@@ -2646,7 +2633,7 @@
   },
   "log-395": {
     "player": "keni",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "ST16-004"
   },
   "log-396": {
@@ -2658,7 +2645,7 @@
   },
   "log-397": {
     "player": "keni",
-    "action": "Attacking Character",
+    "action": "Attacking",
     "attacker": "Cavendish",
     "attacker_id": "EB01-012",
     "defender": "Gecko Moria",
@@ -2790,7 +2777,7 @@
   },
   "log-413": {
     "player": "Pirate1280",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP08-047"
   },
   "log-414": {
@@ -2809,14 +2796,13 @@
   },
   "log-416": {
     "player": "Pirate1280",
-    "action": "Attached 1 Don",
-    "target": "EB01-023",
-    "total_don": 1,
-    "card": ""
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-417": {
     "player": "Pirate1280",
-    "action": "Attacking Leader",
+    "action": "Attacking",
     "attacker": "Edward Weevil",
     "attacker_id": "EB01-023",
     "defender": "Jewelry Bonney",
@@ -2856,7 +2842,7 @@
   },
   "log-423": {
     "player": "Pirate1280",
-    "action": "Attacking Leader",
+    "action": "Attacking",
     "attacker": "Gecko Moria",
     "attacker_id": "ST03-004",
     "defender": "Jewelry Bonney",
@@ -2884,7 +2870,7 @@
   },
   "log-427": {
     "player": "Pirate1280",
-    "action": "Attacking Leader",
+    "action": "Attacking",
     "attacker": "Trafalgar Law",
     "attacker_id": "ST17-002",
     "defender": "Jewelry Bonney",

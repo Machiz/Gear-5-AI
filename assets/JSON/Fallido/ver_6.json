@@ -1,0 +1,595 @@
+{
+  "log-001": {
+    "player": "System",
+    "action": "Attempting to connect to TFD86C"
+  },
+  "log-002": {
+    "player": "System",
+    "action": "Version is 1.29b"
+  },
+  "log-003": {
+    "player": "Ochi",
+    "action": "Leader is Monkey D. Luffy",
+    "card": "ST21-001"
+  },
+  "log-004": {
+    "player": "You",
+    "action": "Will select turn order"
+  },
+  "log-005": {
+    "player": "rintosh1",
+    "action": "Player connected"
+  },
+  "log-006": {
+    "player": "System",
+    "action": "Version is 1.29b"
+  },
+  "log-007": {
+    "player": "rintosh1",
+    "action": "Leader is Shanks",
+    "card": "OP09-001"
+  },
+  "log-008": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-008"
+  },
+  "log-009": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP07-015"
+  },
+  "log-010": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-004"
+  },
+  "log-011": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-004"
+  },
+  "log-012": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP08-118"
+  },
+  "log-013": {
+    "player": "rintosh1",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "OP09-008",
+      "OP07-015",
+      "OP09-004",
+      "OP09-004",
+      "OP08-118"
+    ]
+  },
+  "log-014": {
+    "player": "rintosh1",
+    "action": "Chose to go First"
+  },
+  "log-015": {
+    "player": "Ochi",
+    "action": "Drew card from deck",
+    "card": "ST21-003"
+  },
+  "log-016": {
+    "player": "Ochi",
+    "action": "Drew card from deck",
+    "card": "ST01-007"
+  },
+  "log-017": {
+    "player": "Ochi",
+    "action": "Drew card from deck",
+    "card": "OP01-025"
+  },
+  "log-018": {
+    "player": "Ochi",
+    "action": "Drew card from deck",
+    "card": "OP02-015"
+  },
+  "log-019": {
+    "player": "Ochi",
+    "action": "Drew card from deck",
+    "card": "ST21-017"
+  },
+  "log-020": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-008",
+      "OP07-015",
+      "OP09-004",
+      "OP09-004",
+      "OP08-118"
+    ]
+  },
+  "log-021": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-022": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-023": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-024": {
+    "player": "Ochi",
+    "action": "Hand state",
+    "cards": [
+      "ST21-003",
+      "ST01-007",
+      "OP01-025",
+      "OP02-015",
+      "ST21-017"
+    ]
+  },
+  "log-025": {
+    "player": "Ochi",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-026": {
+    "player": "Ochi",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-027": {
+    "player": "Ochi",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-028": {
+    "player": "rintosh1",
+    "action": "Draw 1 Don"
+  },
+  "log-029": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-008",
+      "OP07-015",
+      "OP09-004",
+      "OP09-004",
+      "OP08-118"
+    ]
+  },
+  "log-030": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-031": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-032": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-033": {
+    "player": "Ochi",
+    "action": "Hand state",
+    "cards": [
+      "ST21-003",
+      "ST01-007",
+      "OP01-025",
+      "OP02-015",
+      "ST21-017"
+    ]
+  },
+  "log-034": {
+    "player": "Ochi",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-035": {
+    "player": "Ochi",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-036": {
+    "player": "Ochi",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-037": {
+    "player": "rintosh1",
+    "action": "End turn"
+  },
+  "log-038": {
+    "player": "Ochi",
+    "action": "Draw 1 card"
+  },
+  "log-039": {
+    "player": "Ochi",
+    "action": "Drew card from deck",
+    "card": "OP10-011"
+  },
+  "log-040": {
+    "player": "Ochi",
+    "action": "Draw 2 Don"
+  },
+  "log-041": {
+    "player": "Ochi",
+    "action": "Played card",
+    "card": "ST01-007"
+  },
+  "log-042": {
+    "player": "Ochi",
+    "action": "Played card",
+    "card": "OP02-015"
+  },
+  "log-043": {
+    "player": "Ochi",
+    "action": "End turn"
+  },
+  "log-044": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-008",
+      "OP07-015",
+      "OP09-004",
+      "OP09-004",
+      "OP08-118"
+    ]
+  },
+  "log-045": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-046": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-047": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-048": {
+    "player": "Ochi",
+    "action": "Hand state",
+    "cards": [
+      "ST21-003",
+      "OP01-025",
+      "ST21-017",
+      "OP10-011"
+    ]
+  },
+  "log-049": {
+    "player": "Ochi",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-050": {
+    "player": "Ochi",
+    "action": "Board state",
+    "cards": [
+      "ST01-007",
+      "OP02-015"
+    ]
+  },
+  "log-051": {
+    "player": "Ochi",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-052": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-011"
+  },
+  "log-053": {
+    "player": "rintosh1",
+    "action": "Draw 1 card"
+  },
+  "log-054": {
+    "player": "rintosh1",
+    "action": "Draw 2 Don"
+  },
+  "log-055": {
+    "player": "rintosh1",
+    "action": "Played card",
+    "card": "OP09-008"
+  },
+  "log-056": {
+    "player": "rintosh1",
+    "action": "Attached 0 Don to OP09-001",
+    "card": "OP09-001",
+    "total_don": 0
+  },
+  "log-057": {
+    "player": "rintosh1",
+    "action": "Attached 0 Don to OP09-001",
+    "card": "OP09-001",
+    "total_don": 0
+  },
+  "log-058": {
+    "player": "rintosh1",
+    "action": "Attacking",
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
+  },
+  "log-059": {
+    "player": "System",
+    "action": "Battle",
+    "attacker": "OP09-001",
+    "attacker_power": 7000,
+    "defender": "ST21-001",
+    "defender_power": 5000
+  },
+  "log-060": {
+    "player": "System",
+    "action": "Damage",
+    "target_card": "ST21-001",
+    "damage_amount": 1
+  },
+  "log-061": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP07-015",
+      "OP09-004",
+      "OP09-004",
+      "OP08-118",
+      "OP09-011"
+    ]
+  },
+  "log-062": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP09-008"
+    ]
+  },
+  "log-063": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-064": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-065": {
+    "player": "Ochi",
+    "action": "Hand state",
+    "cards": [
+      "ST21-003",
+      "OP01-025",
+      "ST21-017",
+      "OP10-011",
+      "OP01-013"
+    ]
+  },
+  "log-066": {
+    "player": "Ochi",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-067": {
+    "player": "Ochi",
+    "action": "Board state",
+    "cards": [
+      "ST01-007",
+      "OP02-015"
+    ]
+  },
+  "log-068": {
+    "player": "Ochi",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-069": {
+    "player": "rintosh1",
+    "action": "End turn"
+  },
+  "log-070": {
+    "player": "Ochi",
+    "action": "Draw 1 card"
+  },
+  "log-071": {
+    "player": "Ochi",
+    "action": "Drew card from deck",
+    "card": "ST21-014"
+  },
+  "log-072": {
+    "player": "Ochi",
+    "action": "Draw 2 Don"
+  },
+  "log-073": {
+    "player": "Ochi",
+    "action": "Played card",
+    "card": "OP01-025"
+  },
+  "log-074": {
+    "player": "Ochi",
+    "action": "Nami: Attach 1 Rested Don to Monkey D. Luffy",
+    "source_card": "ST01-007",
+    "target_card": "ST21-001"
+  },
+  "log-075": {
+    "player": "Ochi",
+    "action": "Monkey D. Luffy: Attach 1 Rested Don to Roronoa Zoro",
+    "source_card": "ST21-001",
+    "target_card": "OP01-025"
+  },
+  "log-076": {
+    "player": "Ochi",
+    "action": "Monkey D. Luffy: Attach 1 Rested Don to Roronoa Zoro",
+    "source_card": "ST21-001",
+    "target_card": "OP01-025"
+  },
+  "log-077": {
+    "player": "Ochi",
+    "action": "Attacking",
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
+  },
+  "log-078": {
+    "player": "rintosh1",
+    "action": "Discard Hongo for Counter 2000",
+    "card": "OP09-011",
+    "counter_amount": 2000
+  },
+  "log-079": {
+    "player": "System",
+    "action": "Battle",
+    "attacker": "ST21-001",
+    "attacker_power": 6000,
+    "defender": "OP09-001",
+    "defender_power": 7000
+  },
+  "log-080": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-081": {
+    "player": "Ochi",
+    "action": "Attacking",
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
+  },
+  "log-082": {
+    "player": "System",
+    "action": "Battle",
+    "attacker": "OP01-025",
+    "attacker_power": 7000,
+    "defender": "OP09-001",
+    "defender_power": 5000
+  },
+  "log-083": {
+    "player": "System",
+    "action": "Damage",
+    "target_card": "OP09-001",
+    "damage_amount": 1
+  },
+  "log-084": {
+    "player": "Ochi",
+    "action": "Makino: Buff Nami 3000",
+    "source_card": "OP02-015",
+    "target_card": "ST01-007",
+    "buff_amount": 3000
+  },
+  "log-085": {
+    "player": "Ochi",
+    "action": "Attached 0 Don to ST01-007",
+    "card": "ST01-007",
+    "total_don": 0
+  },
+  "log-086": {
+    "player": "Ochi",
+    "action": "Attacking",
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
+  },
+  "log-087": {
+    "player": "rintosh1",
+    "action": "Shanks: Buff Nami -1000",
+    "source_card": "OP09-001",
+    "target_card": "ST01-007",
+    "buff_amount": -1000
+  },
+  "log-088": {
+    "player": "System",
+    "action": "Battle",
+    "attacker": "ST01-007",
+    "attacker_power": 4000,
+    "defender": "OP09-001",
+    "defender_power": 5000
+  },
+  "log-089": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-090": {
+    "player": "Ochi",
+    "action": "End turn"
+  },
+  "log-091": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP07-015",
+      "OP09-004",
+      "OP09-004",
+      "OP08-118",
+      "OP10-011"
+    ]
+  },
+  "log-092": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP09-008"
+    ]
+  },
+  "log-093": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": [
+      "OP09-011"
+    ]
+  },
+  "log-094": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-095": {
+    "player": "Ochi",
+    "action": "Hand state",
+    "cards": [
+      "ST21-003",
+      "ST21-017",
+      "OP10-011",
+      "OP01-013",
+      "ST21-014"
+    ]
+  },
+  "log-096": {
+    "player": "Ochi",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-097": {
+    "player": "Ochi",
+    "action": "Board state",
+    "cards": [
+      "ST01-007",
+      "OP02-015",
+      "OP01-025"
+    ]
+  },
+  "log-098": {
+    "player": "Ochi",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-099": {
+    "player": "Ochi",
+    "action": "Concedes!"
+  }
+}

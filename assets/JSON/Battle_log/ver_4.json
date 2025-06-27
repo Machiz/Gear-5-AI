@@ -32,37 +32,38 @@
   "log-008": {
     "player": "Pirate26156",
     "action": "Drew card from deck",
-    "card": "Benn Beckman",
-    "card_id": "OP09-009"
+    "card": "Benn Beckman"
   },
   "log-009": {
     "player": "Pirate26156",
     "action": "Drew card from deck",
-    "card": "Lucky Roux",
-    "card_id": "OP09-015"
+    "card": "Lucky Roux"
   },
   "log-010": {
     "player": "Pirate26156",
     "action": "Drew card from deck",
-    "card": "Hongo",
-    "card_id": "OP09-011"
+    "card": "Hongo"
   },
   "log-011": {
     "player": "Pirate26156",
     "action": "Drew card from deck",
-    "card": "Lucky Roux",
-    "card_id": "OP09-015"
+    "card": "Lucky Roux"
   },
   "log-012": {
     "player": "Pirate26156",
     "action": "Drew card from deck",
-    "card": "Monkey D. Luffy",
-    "card_id": "ST21-014"
+    "card": "Monkey D. Luffy"
   },
   "log-013": {
     "player": "Pirate26156",
     "action": "Hand before Mulligan",
-    "cards": ["OP09-009", "OP09-015", "OP09-011", "OP09-015", "ST21-014"]
+    "cards": [
+      "OP09-009",
+      "OP09-015",
+      "OP09-011",
+      "OP09-015",
+      "ST21-014"
+    ]
   },
   "log-014": {
     "player": "Pirate26156",
@@ -71,32 +72,27 @@
   "log-015": {
     "player": "Red360",
     "action": "Drew card from deck",
-    "card": "Sengoku",
-    "card_id": "OP07-046"
+    "card": "Sengoku"
   },
   "log-016": {
     "player": "Red360",
     "action": "Drew card from deck",
-    "card": "Gravity Blade Raging Tiger",
-    "card_id": "OP06-058"
+    "card": "Gravity Blade Raging Tiger"
   },
   "log-017": {
     "player": "Red360",
     "action": "Drew card from deck",
-    "card": "Trafalgar Law",
-    "card_id": "ST03-008"
+    "card": "Trafalgar Law"
   },
   "log-018": {
     "player": "Red360",
     "action": "Drew card from deck",
-    "card": "Jozu",
-    "card_id": "OP08-047"
+    "card": "Jozu"
   },
   "log-019": {
     "player": "Red360",
     "action": "Drew card from deck",
-    "card": "Shakuyaku",
-    "card_id": "OP08-046"
+    "card": "Shakuyaku"
   },
   "log-020": {
     "player": "Red360",
@@ -104,17 +100,23 @@
   },
   "log-021": {
     "player": "Red360",
-    "action": "Deploy Trafalgar Law",
+    "action": "Played card",
     "card": "ST03-008"
   },
   "log-022": {
     "player": "Red360",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-023": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP09-009", "OP09-015", "OP09-011", "OP09-015", "ST21-014"]
+    "cards": [
+      "OP09-009",
+      "OP09-015",
+      "OP09-011",
+      "OP09-015",
+      "ST21-014"
+    ]
   },
   "log-024": {
     "player": "Pirate26156",
@@ -134,7 +136,12 @@
   "log-027": {
     "player": "Red360",
     "action": "Hand state",
-    "cards": ["OP07-046", "OP06-058", "OP08-047", "OP08-046"]
+    "cards": [
+      "OP07-046",
+      "OP06-058",
+      "OP08-047",
+      "OP08-046"
+    ]
   },
   "log-028": {
     "player": "Red360",
@@ -144,7 +151,9 @@
   "log-029": {
     "player": "Red360",
     "action": "Board state",
-    "cards": ["ST03-008"]
+    "cards": [
+      "ST03-008"
+    ]
   },
   "log-030": {
     "player": "Red360",
@@ -154,12 +163,11 @@
   "log-031": {
     "player": "Pirate26156",
     "action": "Drew card from deck",
-    "card": "Sanji",
-    "card_id": "OP10-005"
+    "card": "Sanji"
   },
   "log-032": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-033": {
     "player": "Pirate26156",
@@ -168,7 +176,14 @@
   "log-034": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP09-009", "OP09-015", "OP09-011", "OP09-015", "ST21-014", "OP10-005"]
+    "cards": [
+      "OP09-009",
+      "OP09-015",
+      "OP09-011",
+      "OP09-015",
+      "ST21-014",
+      "OP10-005"
+    ]
   },
   "log-035": {
     "player": "Pirate26156",
@@ -188,7 +203,12 @@
   "log-038": {
     "player": "Red360",
     "action": "Hand state",
-    "cards": ["OP07-046", "OP06-058", "OP08-047", "OP08-046"]
+    "cards": [
+      "OP07-046",
+      "OP06-058",
+      "OP08-047",
+      "OP08-046"
+    ]
   },
   "log-039": {
     "player": "Red360",
@@ -198,7 +218,9 @@
   "log-040": {
     "player": "Red360",
     "action": "Board state",
-    "cards": ["ST03-008"]
+    "cards": [
+      "ST03-008"
+    ]
   },
   "log-041": {
     "player": "Red360",
@@ -207,17 +229,16 @@
   },
   "log-042": {
     "player": "Pirate26156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-043": {
     "player": "Red360",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-044": {
     "player": "Red360",
     "action": "Drew card from deck",
-    "card": "Jozu",
-    "card_id": "OP08-047"
+    "card": "Jozu"
   },
   "log-045": {
     "player": "Red360",
@@ -225,43 +246,51 @@
   },
   "log-046": {
     "player": "Red360",
-    "action": "Attach 1 Don to Boa Hancock",
+    "action": "Attached 0 Don to OP07-038",
     "card": "OP07-038",
-    "total_don": 1
+    "total_don": 0
   },
   "log-047": {
     "player": "Red360",
-    "action": "Attach 1 Don to Boa Hancock",
+    "action": "Attached 0 Don to OP07-038",
     "card": "OP07-038",
-    "total_don": 2
+    "total_don": 0
   },
   "log-048": {
     "player": "Red360",
-    "action": "Attach 1 Don to Boa Hancock",
+    "action": "Attached 0 Don to OP07-038",
     "card": "OP07-038",
-    "total_don": 3
+    "total_don": 0
   },
   "log-049": {
     "player": "Red360",
-    "action": "Boa Hancock attacking Shanks",
-    "attacker_card": "OP07-038",
-    "attacker_power": 8000,
-    "defender_card": "OP09-001",
-    "defender_power": 5000
+    "action": "Attacking",
+    "attacker": "Boa Hancock",
+    "attacker_id": "OP07-038",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-050": {
     "player": "Shanks",
-    "action": "Hit for 1 damage",
-    "card": "OP09-001"
+    "action": "Damage taken by Shanks",
+    "damage": 1
   },
   "log-051": {
     "player": "Red360",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-052": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP09-009", "OP09-015", "OP09-011", "OP09-015", "ST21-014", "OP10-005", "OP09-011"]
+    "cards": [
+      "OP09-009",
+      "OP09-015",
+      "OP09-011",
+      "OP09-015",
+      "ST21-014",
+      "OP10-005",
+      "OP09-011"
+    ]
   },
   "log-053": {
     "player": "Pirate26156",
@@ -281,7 +310,13 @@
   "log-056": {
     "player": "Red360",
     "action": "Hand state",
-    "cards": ["OP07-046", "OP06-058", "OP08-047", "OP08-046", "OP08-047"]
+    "cards": [
+      "OP07-046",
+      "OP06-058",
+      "OP08-047",
+      "OP08-046",
+      "OP08-047"
+    ]
   },
   "log-057": {
     "player": "Red360",
@@ -291,7 +326,9 @@
   "log-058": {
     "player": "Red360",
     "action": "Board state",
-    "cards": ["ST03-008"]
+    "cards": [
+      "ST03-008"
+    ]
   },
   "log-059": {
     "player": "Red360",
@@ -301,12 +338,11 @@
   "log-060": {
     "player": "Pirate26156",
     "action": "Drew card from deck",
-    "card": "Lucky Roux",
-    "card_id": "OP09-015"
+    "card": "Lucky Roux"
   },
   "log-061": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-062": {
     "player": "Pirate26156",
@@ -314,27 +350,27 @@
   },
   "log-063": {
     "player": "Pirate26156",
-    "action": "Deploy Sanji",
+    "action": "Played card",
     "card": "OP10-005"
   },
   "log-064": {
     "player": "Pirate26156",
-    "action": "Attach 1 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total_don": 1
+    "total_don": 0
   },
   "log-065": {
     "player": "Pirate26156",
-    "action": "Shanks attacking Boa Hancock",
-    "attacker_card": "OP09-001",
-    "attacker_power": 6000,
-    "defender_card": "OP07-038",
-    "defender_power": 5000
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Boa Hancock",
+    "defender_id": "OP07-038"
   },
   "log-066": {
     "player": "Boa Hancock",
-    "action": "Hit for 1 damage",
-    "card": "OP07-038"
+    "action": "Damage taken by Boa Hancock",
+    "damage": 1
   },
   "log-067": {
     "player": "Red360",
@@ -345,7 +381,15 @@
   "log-068": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP09-009", "OP09-015", "OP09-011", "OP09-015", "ST21-014", "OP09-011", "OP09-015"]
+    "cards": [
+      "OP09-009",
+      "OP09-015",
+      "OP09-011",
+      "OP09-015",
+      "ST21-014",
+      "OP09-011",
+      "OP09-015"
+    ]
   },
   "log-069": {
     "player": "Pirate26156",
@@ -365,17 +409,27 @@
   "log-072": {
     "player": "Red360",
     "action": "Hand state",
-    "cards": ["OP07-046", "OP06-058", "OP08-047", "OP08-046", "OP08-047"]
+    "cards": [
+      "OP07-046",
+      "OP06-058",
+      "OP08-047",
+      "OP08-046",
+      "OP08-047"
+    ]
   },
   "log-073": {
     "player": "Red360",
     "action": "Trash state",
-    "cards": ["OP04-056"]
+    "cards": [
+      "OP04-056"
+    ]
   },
   "log-074": {
     "player": "Red360",
     "action": "Board state",
-    "cards": ["ST03-008"]
+    "cards": [
+      "ST03-008"
+    ]
   },
   "log-075": {
     "player": "Red360",
@@ -384,17 +438,16 @@
   },
   "log-076": {
     "player": "Pirate26156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-077": {
     "player": "Red360",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-078": {
     "player": "Red360",
     "action": "Drew card from deck",
-    "card": "Charlotte Pudding",
-    "card_id": "OP06-047"
+    "card": "Charlotte Pudding"
   },
   "log-079": {
     "player": "Red360",
@@ -402,7 +455,7 @@
   },
   "log-080": {
     "player": "Red360",
-    "action": "Deploy Charlotte Pudding",
+    "action": "Played card",
     "card": "OP06-047"
   },
   "log-081": {
@@ -412,44 +465,41 @@
   "log-082": {
     "player": "Pirate26156",
     "action": "Drew card from deck",
-    "card": "Tony Tony Chopper",
-    "card_id": "OP10-011"
+    "card": "Tony Tony Chopper"
   },
   "log-083": {
     "player": "Pirate26156",
     "action": "Drew card from deck",
-    "card": "Monkey D. Dragon",
-    "card_id": "OP07-015"
+    "card": "Monkey D. Dragon"
   },
   "log-084": {
     "player": "Pirate26156",
     "action": "Drew card from deck",
-    "card": "Hongo",
-    "card_id": "OP09-011"
+    "card": "Hongo"
   },
   "log-085": {
     "player": "Pirate26156",
     "action": "Drew card from deck",
-    "card": "Lucky Roux",
-    "card_id": "OP09-015"
+    "card": "Lucky Roux"
   },
   "log-086": {
     "player": "Pirate26156",
     "action": "Drew card from deck",
-    "card": "Silvers Rayleigh",
-    "card_id": "OP08-118"
+    "card": "Silvers Rayleigh"
   },
   "log-087": {
     "player": "Red360",
-    "action": "Attach 1 Don to Boa Hancock",
+    "action": "Attached 0 Don to OP07-038",
     "card": "OP07-038",
-    "total_don": 1
+    "total_don": 0
   },
   "log-088": {
     "player": "Red360",
-    "action": "Boa Hancock attacking Shanks",
-    "attacker_card": "OP07-038",
-    "defender_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Boa Hancock",
+    "attacker_id": "OP07-038",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-089": {
     "player": "Pirate26156",
@@ -466,12 +516,17 @@
   },
   "log-091": {
     "player": "Red360",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-092": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP10-011", "OP07-015", "OP09-015", "OP08-118"]
+    "cards": [
+      "OP10-011",
+      "OP07-015",
+      "OP09-015",
+      "OP08-118"
+    ]
   },
   "log-093": {
     "player": "Pirate26156",
@@ -481,7 +536,9 @@
   "log-094": {
     "player": "Pirate26156",
     "action": "Trash state",
-    "cards": ["OP09-011"]
+    "cards": [
+      "OP09-011"
+    ]
   },
   "log-095": {
     "player": "Pirate26156",
@@ -491,17 +548,28 @@
   "log-096": {
     "player": "Red360",
     "action": "Hand state",
-    "cards": ["OP07-046", "OP06-058", "OP08-047", "OP08-046", "OP08-047"]
+    "cards": [
+      "OP07-046",
+      "OP06-058",
+      "OP08-047",
+      "OP08-046",
+      "OP08-047"
+    ]
   },
   "log-097": {
     "player": "Red360",
     "action": "Trash state",
-    "cards": ["OP04-056"]
+    "cards": [
+      "OP04-056"
+    ]
   },
   "log-098": {
     "player": "Red360",
     "action": "Board state",
-    "cards": ["ST03-008", "OP06-047"]
+    "cards": [
+      "ST03-008",
+      "OP06-047"
+    ]
   },
   "log-099": {
     "player": "Red360",
@@ -511,12 +579,11 @@
   "log-100": {
     "player": "Pirate26156",
     "action": "Drew card from deck",
-    "card": "Hongo",
-    "card_id": "OP09-011"
+    "card": "Hongo"
   },
   "log-101": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-102": {
     "player": "Pirate26156",
@@ -524,42 +591,51 @@
   },
   "log-103": {
     "player": "Pirate26156",
-    "action": "Deploy Lucky Roux",
+    "action": "Played card",
     "card": "OP09-015"
   },
   "log-104": {
     "player": "Pirate26156",
-    "action": "Attach 2 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total_don": 2
+    "total_don": 0
   },
   "log-105": {
     "player": "Pirate26156",
-    "action": "Shanks attacking Boa Hancock",
-    "attacker_card": "OP09-001",
-    "attacker_power": 7000,
-    "defender_card": "OP07-038",
-    "defender_power": 5000
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Boa Hancock",
+    "defender_id": "OP07-038"
   },
   "log-106": {
     "player": "Boa Hancock",
-    "action": "Hit for 1 damage",
-    "card": "OP07-038"
+    "action": "Damage taken by Boa Hancock",
+    "damage": 1
   },
   "log-107": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP10-011", "OP07-015", "OP08-118", "OP09-011"]
+    "cards": [
+      "OP10-011",
+      "OP07-015",
+      "OP08-118",
+      "OP09-011"
+    ]
   },
   "log-108": {
     "player": "Pirate26156",
     "action": "Board state",
-    "cards": ["OP09-015"]
+    "cards": [
+      "OP09-015"
+    ]
   },
   "log-109": {
     "player": "Pirate26156",
     "action": "Trash state",
-    "cards": ["OP09-011"]
+    "cards": [
+      "OP09-011"
+    ]
   },
   "log-110": {
     "player": "Pirate26156",
@@ -569,17 +645,29 @@
   "log-111": {
     "player": "Red360",
     "action": "Hand state",
-    "cards": ["OP07-046", "OP06-058", "OP08-047", "OP08-046", "OP08-047", "OP07-040"]
+    "cards": [
+      "OP07-046",
+      "OP06-058",
+      "OP08-047",
+      "OP08-046",
+      "OP08-047",
+      "OP07-040"
+    ]
   },
   "log-112": {
     "player": "Red360",
     "action": "Trash state",
-    "cards": ["OP04-056"]
+    "cards": [
+      "OP04-056"
+    ]
   },
   "log-113": {
     "player": "Red360",
     "action": "Board state",
-    "cards": ["ST03-008", "OP06-047"]
+    "cards": [
+      "ST03-008",
+      "OP06-047"
+    ]
   },
   "log-114": {
     "player": "Red360",
@@ -588,17 +676,16 @@
   },
   "log-115": {
     "player": "Pirate26156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-116": {
     "player": "Red360",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-117": {
     "player": "Red360",
     "action": "Drew card from deck",
-    "card": "Trafalgar Law",
-    "card_id": "ST17-002"
+    "card": "Trafalgar Law"
   },
   "log-118": {
     "player": "Red360",
@@ -606,7 +693,7 @@
   },
   "log-119": {
     "player": "Red360",
-    "action": "Deploy Trafalgar Law",
+    "action": "Played card",
     "card": "ST17-002"
   },
   "log-120": {
@@ -623,21 +710,23 @@
   },
   "log-122": {
     "player": "Red360",
-    "action": "Attach 1 Don to Boa Hancock",
+    "action": "Attached 0 Don to OP07-038",
     "card": "OP07-038",
-    "total_don": 1
+    "total_don": 0
   },
   "log-123": {
     "player": "Red360",
-    "action": "Attach 1 Don to Charlotte Pudding",
+    "action": "Attached 0 Don to OP06-047",
     "card": "OP06-047",
-    "total_don": 1
+    "total_don": 0
   },
   "log-124": {
     "player": "Red360",
-    "action": "Charlotte Pudding attacking Shanks",
-    "attacker_card": "OP06-047",
-    "defender_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Boa Hancock",
+    "attacker_id": "OP07-038",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-125": {
     "player": "Pirate26156",
@@ -655,17 +744,23 @@
   },
   "log-127": {
     "player": "Red360",
-    "action": "Deploy Trafalgar Law",
+    "action": "Played card",
     "card": "ST03-008"
   },
   "log-128": {
     "player": "Red360",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-129": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP10-011", "OP07-015", "OP08-118", "OP09-011", "OP09-015"]
+    "cards": [
+      "OP10-011",
+      "OP07-015",
+      "OP08-118",
+      "OP09-011",
+      "OP09-015"
+    ]
   },
   "log-130": {
     "player": "Pirate26156",
@@ -675,7 +770,9 @@
   "log-131": {
     "player": "Pirate26156",
     "action": "Trash state",
-    "cards": ["OP09-011"]
+    "cards": [
+      "OP09-011"
+    ]
   },
   "log-132": {
     "player": "Pirate26156",
@@ -685,17 +782,30 @@
   "log-133": {
     "player": "Red360",
     "action": "Hand state",
-    "cards": ["OP07-046", "OP06-058", "OP08-047", "OP08-046", "OP08-047", "OP07-040"]
+    "cards": [
+      "OP07-046",
+      "OP06-058",
+      "OP08-047",
+      "OP08-046",
+      "OP08-047",
+      "OP07-040"
+    ]
   },
   "log-134": {
     "player": "Red360",
     "action": "Trash state",
-    "cards": ["OP04-056"]
+    "cards": [
+      "OP04-056"
+    ]
   },
   "log-135": {
     "player": "Red360",
     "action": "Board state",
-    "cards": ["OP06-047", "ST17-002", "ST03-008"]
+    "cards": [
+      "OP06-047",
+      "ST17-002",
+      "ST03-008"
+    ]
   },
   "log-136": {
     "player": "Red360",
@@ -705,12 +815,11 @@
   "log-137": {
     "player": "Pirate26156",
     "action": "Drew card from deck",
-    "card": "Shanks",
-    "card_id": "OP09-004"
+    "card": "Shanks"
   },
   "log-138": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-139": {
     "player": "Pirate26156",
@@ -718,7 +827,7 @@
   },
   "log-140": {
     "player": "Pirate26156",
-    "action": "Deploy Silvers Rayleigh",
+    "action": "Played card",
     "card": "OP08-118"
   },
   "log-141": {
@@ -741,9 +850,11 @@
   },
   "log-144": {
     "player": "Pirate26156",
-    "action": "Shanks attacking Boa Hancock",
-    "attacker_card": "OP09-001",
-    "defender_card": "OP07-038"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Boa Hancock",
+    "defender_id": "OP07-038"
   },
   "log-145": {
     "player": "Red360",
@@ -761,17 +872,27 @@
   "log-147": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP10-011", "OP07-015", "OP09-011", "OP09-015", "OP09-004"]
+    "cards": [
+      "OP10-011",
+      "OP07-015",
+      "OP09-011",
+      "OP09-015",
+      "OP09-004"
+    ]
   },
   "log-148": {
     "player": "Pirate26156",
     "action": "Board state",
-    "cards": ["OP08-118"]
+    "cards": [
+      "OP08-118"
+    ]
   },
   "log-149": {
     "player": "Pirate26156",
     "action": "Trash state",
-    "cards": ["OP09-011"]
+    "cards": [
+      "OP09-011"
+    ]
   },
   "log-150": {
     "player": "Pirate26156",
@@ -781,17 +902,30 @@
   "log-151": {
     "player": "Red360",
     "action": "Hand state",
-    "cards": ["OP06-058", "OP08-047", "OP08-046", "OP08-047", "OP07-040"]
+    "cards": [
+      "OP06-058",
+      "OP08-047",
+      "OP08-046",
+      "OP08-047",
+      "OP07-040"
+    ]
   },
   "log-152": {
     "player": "Red360",
     "action": "Trash state",
-    "cards": ["OP04-056", "ST17-002", "OP07-046"]
+    "cards": [
+      "OP04-056",
+      "ST17-002",
+      "OP07-046"
+    ]
   },
   "log-153": {
     "player": "Red360",
     "action": "Board state",
-    "cards": ["OP06-047", "ST03-008"]
+    "cards": [
+      "OP06-047",
+      "ST03-008"
+    ]
   },
   "log-154": {
     "player": "Red360",
@@ -800,17 +934,16 @@
   },
   "log-155": {
     "player": "Pirate26156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-156": {
     "player": "Red360",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-157": {
     "player": "Red360",
     "action": "Drew card from deck",
-    "card": "Boa Hancock",
-    "card_id": "OP07-051"
+    "card": "Boa Hancock"
   },
   "log-158": {
     "player": "Red360",
@@ -818,7 +951,7 @@
   },
   "log-159": {
     "player": "Red360",
-    "action": "Deploy Boa Hancock",
+    "action": "Played card",
     "card": "OP07-051"
   },
   "log-160": {
@@ -829,27 +962,29 @@
   },
   "log-161": {
     "player": "Red360",
-    "action": "Attach 1 Don to Boa Hancock",
+    "action": "Attached 0 Don to OP07-038",
     "card": "OP07-038",
-    "total_don": 1
+    "total_don": 0
   },
   "log-162": {
     "player": "Red360",
-    "action": "Attach 1 Don to Boa Hancock",
+    "action": "Attached 0 Don to OP07-038",
     "card": "OP07-038",
-    "total_don": 2
+    "total_don": 0
   },
   "log-163": {
     "player": "Red360",
-    "action": "Attach 1 Don to Boa Hancock",
+    "action": "Attached 0 Don to OP07-038",
     "card": "OP07-038",
-    "total_don": 3
+    "total_don": 0
   },
   "log-164": {
     "player": "Red360",
-    "action": "Boa Hancock attacking Shanks",
-    "attacker_card": "OP07-038",
-    "defender_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Boa Hancock",
+    "attacker_id": "OP07-038",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-165": {
     "player": "Pirate26156",
@@ -877,22 +1012,32 @@
   },
   "log-169": {
     "player": "Red360",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-170": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP07-015", "OP09-015", "OP09-004"]
+    "cards": [
+      "OP07-015",
+      "OP09-015",
+      "OP09-004"
+    ]
   },
   "log-171": {
     "player": "Pirate26156",
     "action": "Board state",
-    "cards": ["OP08-118"]
+    "cards": [
+      "OP08-118"
+    ]
   },
   "log-172": {
     "player": "Pirate26156",
     "action": "Trash state",
-    "cards": ["OP09-011", "OP10-011", "OP09-011"]
+    "cards": [
+      "OP09-011",
+      "OP10-011",
+      "OP09-011"
+    ]
   },
   "log-173": {
     "player": "Pirate26156",
@@ -902,17 +1047,31 @@
   "log-174": {
     "player": "Red360",
     "action": "Hand state",
-    "cards": ["OP06-058", "OP08-047", "OP08-046", "OP08-047", "OP07-040"]
+    "cards": [
+      "OP06-058",
+      "OP08-047",
+      "OP08-046",
+      "OP08-047",
+      "OP07-040"
+    ]
   },
   "log-175": {
     "player": "Red360",
     "action": "Trash state",
-    "cards": ["OP04-056", "ST17-002", "OP07-046"]
+    "cards": [
+      "OP04-056",
+      "ST17-002",
+      "OP07-046"
+    ]
   },
   "log-176": {
     "player": "Red360",
     "action": "Board state",
-    "cards": ["OP06-047", "ST03-008", "OP07-051"]
+    "cards": [
+      "OP06-047",
+      "ST03-008",
+      "OP07-051"
+    ]
   },
   "log-177": {
     "player": "Red360",
@@ -922,12 +1081,11 @@
   "log-178": {
     "player": "Pirate26156",
     "action": "Drew card from deck",
-    "card": "Tony Tony Chopper",
-    "card_id": "OP10-011"
+    "card": "Tony Tony Chopper"
   },
   "log-179": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-180": {
     "player": "Pirate26156",
@@ -935,7 +1093,7 @@
   },
   "log-181": {
     "player": "Pirate26156",
-    "action": "Deploy Monkey D. Dragon",
+    "action": "Played card",
     "card": "OP07-015"
   },
   "log-182": {
@@ -952,15 +1110,17 @@
   },
   "log-184": {
     "player": "Pirate26156",
-    "action": "Attach 2 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total_don": 4
+    "total_don": 0
   },
   "log-185": {
     "player": "Pirate26156",
-    "action": "Shanks attacking Boa Hancock",
-    "attacker_card": "OP09-001",
-    "defender_card": "OP07-038"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Boa Hancock",
+    "defender_id": "OP07-038"
   },
   "log-186": {
     "player": "Red360",
@@ -977,31 +1137,42 @@
   },
   "log-188": {
     "player": "Pirate26156",
-    "action": "Monkey D. Dragon attacking Boa Hancock",
-    "attacker_card": "OP07-015",
-    "attacker_power": 9000,
-    "defender_card": "OP07-038",
-    "defender_power": 5000
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Boa Hancock",
+    "defender_id": "OP07-038"
   },
   "log-189": {
     "player": "Boa Hancock",
-    "action": "Hit for 1 damage",
-    "card": "OP07-038"
+    "action": "Damage taken by Boa Hancock",
+    "damage": 1
   },
   "log-190": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP09-015", "OP09-004", "OP10-011"]
+    "cards": [
+      "OP09-015",
+      "OP09-004",
+      "OP10-011"
+    ]
   },
   "log-191": {
     "player": "Pirate26156",
     "action": "Board state",
-    "cards": ["OP08-118", "OP07-015"]
+    "cards": [
+      "OP08-118",
+      "OP07-015"
+    ]
   },
   "log-192": {
     "player": "Pirate26156",
     "action": "Trash state",
-    "cards": ["OP09-011", "OP10-011", "OP09-011"]
+    "cards": [
+      "OP09-011",
+      "OP10-011",
+      "OP09-011"
+    ]
   },
   "log-193": {
     "player": "Pirate26156",
@@ -1011,17 +1182,32 @@
   "log-194": {
     "player": "Red360",
     "action": "Hand state",
-    "cards": ["OP06-058", "OP08-047", "OP08-046", "OP08-047", "OP07-040", "OP07-051"]
+    "cards": [
+      "OP06-058",
+      "OP08-047",
+      "OP08-046",
+      "OP08-047",
+      "OP07-040",
+      "OP07-051"
+    ]
   },
   "log-195": {
     "player": "Red360",
     "action": "Trash state",
-    "cards": ["OP04-056", "ST17-002", "OP07-046", "ST03-008"]
+    "cards": [
+      "OP04-056",
+      "ST17-002",
+      "OP07-046",
+      "ST03-008"
+    ]
   },
   "log-196": {
     "player": "Red360",
     "action": "Board state",
-    "cards": ["OP06-047", "OP07-051"]
+    "cards": [
+      "OP06-047",
+      "OP07-051"
+    ]
   },
   "log-197": {
     "player": "Red360",
@@ -1030,22 +1216,24 @@
   },
   "log-198": {
     "player": "Pirate26156",
-    "action": "Silvers Rayleigh is no longer blocked from attacking",
-    "card": "OP08-118"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Boa Hancock",
+    "defender_id": "OP07-038"
   },
   "log-199": {
     "player": "Pirate26156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-200": {
     "player": "Red360",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-201": {
     "player": "Red360",
     "action": "Drew card from deck",
-    "card": "Gum-Gum Red Roc",
-    "card_id": "OP04-056"
+    "card": "Gum-Gum Red Roc"
   },
   "log-202": {
     "player": "Red360",
@@ -1059,33 +1247,35 @@
   },
   "log-204": {
     "player": "Red360",
-    "action": "Attach 1 Don to Boa Hancock",
+    "action": "Attached 0 Don to OP07-038",
     "card": "OP07-038",
-    "total_don": 1
+    "total_don": 0
   },
   "log-205": {
     "player": "Red360",
-    "action": "Attach 1 Don to Charlotte Pudding",
+    "action": "Attached 0 Don to OP06-047",
     "card": "OP06-047",
-    "total_don": 1
+    "total_don": 0
   },
   "log-206": {
     "player": "Red360",
-    "action": "Attach 1 Don to Charlotte Pudding",
+    "action": "Attached 0 Don to OP06-047",
     "card": "OP06-047",
-    "total_don": 2
+    "total_don": 0
   },
   "log-207": {
     "player": "Red360",
-    "action": "Attach 1 Don to Boa Hancock",
+    "action": "Attached 0 Don to OP07-038",
     "card": "OP07-038",
-    "total_don": 2
+    "total_don": 0
   },
   "log-208": {
     "player": "Red360",
-    "action": "Charlotte Pudding attacking Shanks",
-    "attacker_card": "OP06-047",
-    "defender_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Boa Hancock",
+    "attacker_id": "OP07-038",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-209": {
     "player": "Pirate26156",
@@ -1102,9 +1292,11 @@
   },
   "log-211": {
     "player": "Red360",
-    "action": "Boa Hancock attacking Shanks",
-    "attacker_card": "OP07-038",
-    "defender_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Boa Hancock",
+    "attacker_id": "OP07-038",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-212": {
     "player": "Pirate26156",
@@ -1119,27 +1311,38 @@
   },
   "log-214": {
     "player": "Shanks",
-    "action": "Hit for 1 damage",
-    "card": "OP09-001"
+    "action": "Damage taken by Shanks",
+    "damage": 1
   },
   "log-215": {
     "player": "Red360",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-216": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP09-004", "OP10-005"]
+    "cards": [
+      "OP09-004",
+      "OP10-005"
+    ]
   },
   "log-217": {
     "player": "Pirate26156",
     "action": "Board state",
-    "cards": ["OP07-015"]
+    "cards": [
+      "OP07-015"
+    ]
   },
   "log-218": {
     "player": "Pirate26156",
     "action": "Trash state",
-    "cards": ["OP09-011", "OP10-011", "OP09-011", "OP10-011", "OP09-015"]
+    "cards": [
+      "OP09-011",
+      "OP10-011",
+      "OP09-011",
+      "OP10-011",
+      "OP09-015"
+    ]
   },
   "log-219": {
     "player": "Pirate26156",
@@ -1149,17 +1352,33 @@
   "log-220": {
     "player": "Red360",
     "action": "Hand state",
-    "cards": ["OP06-058", "OP08-047", "OP08-046", "OP08-047", "OP07-040", "OP07-051"]
+    "cards": [
+      "OP06-058",
+      "OP08-047",
+      "OP08-046",
+      "OP08-047",
+      "OP07-040",
+      "OP07-051"
+    ]
   },
   "log-221": {
     "player": "Red360",
     "action": "Trash state",
-    "cards": ["OP04-056", "ST17-002", "OP07-046", "ST03-008", "OP04-056"]
+    "cards": [
+      "OP04-056",
+      "ST17-002",
+      "OP07-046",
+      "ST03-008",
+      "OP04-056"
+    ]
   },
   "log-222": {
     "player": "Red360",
     "action": "Board state",
-    "cards": ["OP06-047", "OP07-051"]
+    "cards": [
+      "OP06-047",
+      "OP07-051"
+    ]
   },
   "log-223": {
     "player": "Red360",
@@ -1169,23 +1388,24 @@
   "log-224": {
     "player": "Pirate26156",
     "action": "Drew card from deck",
-    "card": "Limejuice",
-    "card_id": "OP09-014"
+    "card": "Limejuice"
   },
   "log-225": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-226": {
     "player": "Pirate26156",
-    "action": "Deploy Shanks",
+    "action": "Played card",
     "card": "OP09-004"
   },
   "log-227": {
     "player": "Pirate26156",
-    "action": "Shanks attacking Boa Hancock",
-    "attacker_card": "OP09-001",
-    "defender_card": "OP07-038"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Boa Hancock",
+    "defender_id": "OP07-038"
   },
   "log-228": {
     "player": "Red360",
@@ -1202,44 +1422,56 @@
   },
   "log-230": {
     "player": "Pirate26156",
-    "action": "Monkey D. Dragon attacking Boa Hancock",
-    "attacker_card": "OP07-015",
-    "attacker_power": 9000,
-    "defender_card": "OP07-038",
-    "defender_power": 5000
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Boa Hancock",
+    "defender_id": "OP07-038"
   },
   "log-231": {
     "player": "Boa Hancock",
-    "action": "Hit for 1 damage",
-    "card": "OP07-038"
+    "action": "Damage taken by Boa Hancock",
+    "damage": 1
   },
   "log-232": {
     "player": "Pirate26156",
-    "action": "Shanks attacking Boa Hancock",
-    "attacker_card": "OP09-004",
-    "attacker_power": 12000,
-    "defender_card": "OP07-038",
-    "defender_power": 5000
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Boa Hancock",
+    "defender_id": "OP07-038"
   },
   "log-233": {
     "player": "Boa Hancock",
-    "action": "Hit for 1 damage",
-    "card": "OP07-038"
+    "action": "Damage taken by Boa Hancock",
+    "damage": 1
   },
   "log-234": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP10-005", "OP09-014"]
+    "cards": [
+      "OP10-005",
+      "OP09-014"
+    ]
   },
   "log-235": {
     "player": "Pirate26156",
     "action": "Board state",
-    "cards": ["OP07-015", "OP09-004"]
+    "cards": [
+      "OP07-015",
+      "OP09-004"
+    ]
   },
   "log-236": {
     "player": "Pirate26156",
     "action": "Trash state",
-    "cards": ["OP09-011", "OP10-011", "OP09-011", "OP10-011", "OP09-015"]
+    "cards": [
+      "OP09-011",
+      "OP10-011",
+      "OP09-011",
+      "OP10-011",
+      "OP09-015"
+    ]
   },
   "log-237": {
     "player": "Pirate26156",
@@ -1249,17 +1481,35 @@
   "log-238": {
     "player": "Red360",
     "action": "Hand state",
-    "cards": ["OP06-058", "OP08-047", "OP08-046", "OP07-040", "OP07-051", "OP06-058", "OP04-056"]
+    "cards": [
+      "OP06-058",
+      "OP08-047",
+      "OP08-046",
+      "OP07-040",
+      "OP07-051",
+      "OP06-058",
+      "OP04-056"
+    ]
   },
   "log-239": {
     "player": "Red360",
     "action": "Trash state",
-    "cards": ["OP04-056", "ST17-002", "OP07-046", "ST03-008", "OP04-056", "OP08-047"]
+    "cards": [
+      "OP04-056",
+      "ST17-002",
+      "OP07-046",
+      "ST03-008",
+      "OP04-056",
+      "OP08-047"
+    ]
   },
   "log-240": {
     "player": "Red360",
     "action": "Board state",
-    "cards": ["OP06-047", "OP07-051"]
+    "cards": [
+      "OP06-047",
+      "OP07-051"
+    ]
   },
   "log-241": {
     "player": "Red360",
@@ -1268,17 +1518,16 @@
   },
   "log-242": {
     "player": "Pirate26156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-243": {
     "player": "Red360",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-244": {
     "player": "Red360",
     "action": "Drew card from deck",
-    "card": "Donquixote Doflamingo",
-    "card_id": "ST03-009"
+    "card": "Donquixote Doflamingo"
   },
   "log-245": {
     "player": "Red360",
@@ -1288,33 +1537,35 @@
   },
   "log-246": {
     "player": "Red360",
-    "action": "Attach 1 Don to Boa Hancock",
+    "action": "Attached 0 Don to OP07-051",
     "card": "OP07-051",
-    "total_don": 1
+    "total_don": 0
   },
   "log-247": {
     "player": "Red360",
-    "action": "Attach 1 Don to Boa Hancock",
+    "action": "Attached 0 Don to OP07-051",
     "card": "OP07-051",
-    "total_don": 2
+    "total_don": 0
   },
   "log-248": {
     "player": "Red360",
-    "action": "Attach 1 Don to Boa Hancock",
+    "action": "Attached 0 Don to OP07-051",
     "card": "OP07-051",
-    "total_don": 3
+    "total_don": 0
   },
   "log-249": {
     "player": "Red360",
-    "action": "Attach 1 Don to Boa Hancock",
+    "action": "Attached 0 Don to OP07-038",
     "card": "OP07-038",
-    "total_don": 1
+    "total_don": 0
   },
   "log-250": {
     "player": "Red360",
-    "action": "Boa Hancock attacking Monkey D. Dragon",
-    "attacker_card": "OP07-051",
-    "defender_card": "OP07-015"
+    "action": "Attacking",
+    "attacker": "Boa Hancock",
+    "attacker_id": "OP07-038",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-251": {
     "player": "Pirate26156",
@@ -1337,35 +1588,47 @@
   },
   "log-254": {
     "player": "Red360",
-    "action": "Boa Hancock attacking Shanks",
-    "attacker_card": "OP07-038",
-    "attacker_power": 6000,
-    "defender_card": "OP09-001",
-    "defender_power": 5000
+    "action": "Attacking",
+    "attacker": "Boa Hancock",
+    "attacker_id": "OP07-038",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-255": {
     "player": "Shanks",
-    "action": "Hit for 1 damage",
-    "card": "OP09-001"
+    "action": "Damage taken by Shanks",
+    "damage": 1
   },
   "log-256": {
     "player": "Red360",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-257": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP10-005", "OP09-008"]
+    "cards": [
+      "OP10-005",
+      "OP09-008"
+    ]
   },
   "log-258": {
     "player": "Pirate26156",
     "action": "Board state",
-    "cards": ["OP07-015"]
+    "cards": [
+      "OP07-015"
+    ]
   },
   "log-259": {
     "player": "Pirate26156",
     "action": "Trash state",
-    "cards": ["OP09-011", "OP10-011", "OP09-011", "OP10-011", "OP09-015", "OP09-014"]
+    "cards": [
+      "OP09-011",
+      "OP10-011",
+      "OP09-011",
+      "OP10-011",
+      "OP09-015",
+      "OP09-014"
+    ]
   },
   "log-260": {
     "player": "Pirate26156",
@@ -1375,17 +1638,36 @@
   "log-261": {
     "player": "Red360",
     "action": "Hand state",
-    "cards": ["OP06-058", "OP08-047", "OP08-046", "OP07-040", "OP07-051", "OP06-058", "ST03-009"]
+    "cards": [
+      "OP06-058",
+      "OP08-047",
+      "OP08-046",
+      "OP07-040",
+      "OP07-051",
+      "OP06-058",
+      "ST03-009"
+    ]
   },
   "log-262": {
     "player": "Red360",
     "action": "Trash state",
-    "cards": ["OP04-056", "ST17-002", "OP07-046", "ST03-008", "OP04-056", "OP08-047", "OP04-056"]
+    "cards": [
+      "OP04-056",
+      "ST17-002",
+      "OP07-046",
+      "ST03-008",
+      "OP04-056",
+      "OP08-047",
+      "OP04-056"
+    ]
   },
   "log-263": {
     "player": "Red360",
     "action": "Board state",
-    "cards": ["OP06-047", "OP07-051"]
+    "cards": [
+      "OP06-047",
+      "OP07-051"
+    ]
   },
   "log-264": {
     "player": "Red360",
@@ -1395,52 +1677,51 @@
   "log-265": {
     "player": "Pirate26156",
     "action": "Drew card from deck",
-    "card": "Marco",
-    "card_id": "OP03-013"
+    "card": "Marco"
   },
   "log-266": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-267": {
     "player": "Pirate26156",
-    "action": "Attach 2 Don to Monkey D. Dragon",
+    "action": "Attached 0 Don to OP07-015",
     "card": "OP07-015",
-    "total_don": 2
+    "total_don": 0
   },
   "log-268": {
     "player": "Pirate26156",
-    "action": "Attach 1 Don to Monkey D. Dragon",
+    "action": "Attached 0 Don to OP07-015",
     "card": "OP07-015",
-    "total_don": 3
+    "total_don": 0
   },
   "log-269": {
     "player": "Pirate26156",
-    "action": "Attach 1 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total_don": 1
+    "total_don": 0
   },
   "log-270": {
     "player": "Pirate26156",
-    "action": "Attach 1 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total_don": 2
+    "total_don": 0
   },
   "log-271": {
     "player": "Pirate26156",
-    "action": "Attach 1 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total_don": 3
+    "total_don": 0
   },
   "log-272": {
     "player": "Pirate26156",
-    "action": "Attach 1 Don to Monkey D. Dragon",
+    "action": "Attached 0 Don to OP07-015",
     "card": "OP07-015",
-    "total_don": 4
+    "total_don": 0
   },
   "log-273": {
     "player": "Pirate26156",
-    "action": "Deploy Sanji",
+    "action": "Played card",
     "card": "OP10-005"
   },
   "log-274": {

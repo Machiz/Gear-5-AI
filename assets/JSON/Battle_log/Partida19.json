@@ -124,11 +124,11 @@
   },
   "log-024": {
     "player": "Marveze",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-025": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-032",
       "ST16-004",
@@ -139,22 +139,22 @@
   },
   "log-026": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-027": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-028": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-029": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP06-059",
       "OP03-050",
@@ -165,18 +165,18 @@
   },
   "log-030": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-031": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-032": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-033": {
     "player": "Pirate65394",
@@ -185,7 +185,7 @@
   },
   "log-034": {
     "player": "Pirate65394",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-035": {
     "player": "Pirate65394",
@@ -193,7 +193,7 @@
   },
   "log-036": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-032",
       "ST16-004",
@@ -205,22 +205,22 @@
   },
   "log-037": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-038": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-039": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-040": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP06-059",
       "OP03-050",
@@ -231,26 +231,26 @@
   },
   "log-041": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-042": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-043": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-044": {
     "player": "Pirate65394",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-045": {
     "player": "Marveze",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-046": {
     "player": "Marveze",
@@ -263,16 +263,16 @@
   },
   "log-048": {
     "player": "Marveze",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP03-050"
   },
   "log-049": {
     "player": "Marveze",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-050": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-032",
       "ST16-004",
@@ -284,22 +284,22 @@
   },
   "log-051": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-052": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-053": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-054": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP06-059",
       "OP03-056",
@@ -310,20 +310,20 @@
   },
   "log-055": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-056": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP03-050"
     ]
   },
   "log-057": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-058": {
     "player": "Pirate65394",
@@ -332,7 +332,7 @@
   },
   "log-059": {
     "player": "Pirate65394",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-060": {
     "player": "Pirate65394",
@@ -340,7 +340,7 @@
   },
   "log-061": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-032",
       "ST16-004",
@@ -353,22 +353,22 @@
   },
   "log-062": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-063": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-064": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-065": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP06-059",
       "OP03-056",
@@ -379,28 +379,28 @@
   },
   "log-066": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-067": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP03-050"
     ]
   },
   "log-068": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-069": {
     "player": "Pirate65394",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-070": {
     "player": "Marveze",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-071": {
     "player": "Marveze",
@@ -429,11 +429,11 @@
   },
   "log-076": {
     "player": "Marveze",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-077": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-032",
       "ST16-004",
@@ -446,22 +446,22 @@
   },
   "log-078": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-079": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-080": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-081": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP06-059",
       "OP07-055",
@@ -474,22 +474,22 @@
   },
   "log-082": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP03-056"
     ]
   },
   "log-083": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP03-050"
     ]
   },
   "log-084": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-085": {
     "player": "Pirate65394",
@@ -498,7 +498,7 @@
   },
   "log-086": {
     "player": "Pirate65394",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-087": {
     "player": "Pirate65394",
@@ -506,12 +506,12 @@
   },
   "log-088": {
     "player": "Pirate65394",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP08-030"
   },
   "log-089": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-032",
       "ST16-004",
@@ -524,24 +524,24 @@
   },
   "log-090": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-030"
     ]
   },
   "log-091": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-092": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-093": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP06-059",
       "OP07-055",
@@ -554,30 +554,30 @@
   },
   "log-094": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP03-056"
     ]
   },
   "log-095": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP03-050"
     ]
   },
   "log-096": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-097": {
     "player": "Pirate65394",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-098": {
     "player": "Marveze",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-099": {
     "player": "Marveze",
@@ -590,11 +590,11 @@
   },
   "log-101": {
     "player": "Marveze",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-102": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-032",
       "ST16-004",
@@ -607,24 +607,24 @@
   },
   "log-103": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-030"
     ]
   },
   "log-104": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-105": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-106": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP06-059",
       "OP07-055",
@@ -638,22 +638,22 @@
   },
   "log-107": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP03-056"
     ]
   },
   "log-108": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP03-050"
     ]
   },
   "log-109": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-110": {
     "player": "Pirate65394",
@@ -662,7 +662,7 @@
   },
   "log-111": {
     "player": "Pirate65394",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-112": {
     "player": "Pirate65394",
@@ -670,7 +670,7 @@
   },
   "log-113": {
     "player": "Pirate65394",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "EB01-012"
   },
   "log-114": {
@@ -681,13 +681,13 @@
   },
   "log-115": {
     "player": "Pirate65394",
-    "action": "Attach 1 Don to Jewelry Bonney",
+    "action": "Attached 1 Don to OP07-019",
     "card": "OP07-019",
-    "value": 1
+    "total_don": 1
   },
   "log-116": {
     "player": "Pirate65394",
-    "action": "Jewelry Bonney attacking Nami",
+    "action": "Attacking",
     "attacker": "Jewelry Bonney",
     "attacker_id": "OP07-019",
     "defender": "Nami",
@@ -724,13 +724,13 @@
   },
   "log-122": {
     "player": "Pirate65394",
-    "action": "Attach 1 Don to Jewelry Bonney",
+    "action": "Attached 2 Don to OP07-019",
     "card": "OP07-019",
-    "value": 2
+    "total_don": 2
   },
   "log-123": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-032",
       "ST16-004",
@@ -743,7 +743,7 @@
   },
   "log-124": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-030",
       "EB01-012"
@@ -751,17 +751,17 @@
   },
   "log-125": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-126": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-127": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-055",
       "OP02-063",
@@ -774,7 +774,7 @@
   },
   "log-128": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP03-056",
       "OP06-059",
@@ -783,23 +783,23 @@
   },
   "log-129": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP03-050"
     ]
   },
   "log-130": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-131": {
     "player": "Pirate65394",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-132": {
     "player": "Marveze",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-133": {
     "player": "Marveze",
@@ -812,7 +812,7 @@
   },
   "log-135": {
     "player": "Marveze",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP03-044"
   },
   "log-136": {
@@ -833,21 +833,25 @@
   },
   "log-139": {
     "player": "Marveze",
-    "action": "Trash",
-    "card": "OP03-054"
+    "action": "Trash state",
+    "cards": [
+      "OP03-054"
+    ]
   },
   "log-140": {
     "player": "Marveze",
-    "action": "Trash",
-    "card": "OP02-063"
+    "action": "Trash state",
+    "cards": [
+      "OP02-063"
+    ]
   },
   "log-141": {
     "player": "Marveze",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-142": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-032",
       "ST16-004",
@@ -860,7 +864,7 @@
   },
   "log-143": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-030",
       "EB01-012"
@@ -868,17 +872,17 @@
   },
   "log-144": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-145": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-146": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-055",
       "OP03-054",
@@ -891,7 +895,7 @@
   },
   "log-147": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP03-056",
       "OP06-059",
@@ -902,7 +906,7 @@
   },
   "log-148": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP03-050",
       "OP03-044"
@@ -910,8 +914,8 @@
   },
   "log-149": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-150": {
     "player": "Pirate65394",
@@ -920,7 +924,7 @@
   },
   "log-151": {
     "player": "Pirate65394",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-152": {
     "player": "Pirate65394",
@@ -928,12 +932,12 @@
   },
   "log-153": {
     "player": "Pirate65394",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "ST16-004"
   },
   "log-154": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-032",
       "OP10-030",
@@ -946,7 +950,7 @@
   },
   "log-155": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-030",
       "EB01-012",
@@ -955,17 +959,17 @@
   },
   "log-156": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-157": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-158": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-055",
       "OP03-054",
@@ -978,7 +982,7 @@
   },
   "log-159": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP03-056",
       "OP06-059",
@@ -989,7 +993,7 @@
   },
   "log-160": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP03-050",
       "OP03-044"
@@ -997,16 +1001,16 @@
   },
   "log-161": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-162": {
     "player": "Pirate65394",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-163": {
     "player": "Marveze",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-164": {
     "player": "Marveze",
@@ -1035,7 +1039,7 @@
   },
   "log-169": {
     "player": "Marveze",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP03-044"
   },
   "log-170": {
@@ -1056,21 +1060,25 @@
   },
   "log-173": {
     "player": "Marveze",
-    "action": "Trash",
-    "card": "OP06-059"
+    "action": "Trash state",
+    "cards": [
+      "OP06-059"
+    ]
   },
   "log-174": {
     "player": "Marveze",
-    "action": "Trash",
-    "card": "OP03-054"
+    "action": "Trash state",
+    "cards": [
+      "OP03-054"
+    ]
   },
   "log-175": {
     "player": "Marveze",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-176": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-032",
       "OP10-030",
@@ -1083,7 +1091,7 @@
   },
   "log-177": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-030",
       "EB01-012",
@@ -1092,17 +1100,17 @@
   },
   "log-178": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-179": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-180": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-055",
       "ST03-017",
@@ -1116,7 +1124,7 @@
   },
   "log-181": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP03-056",
       "OP06-059",
@@ -1130,7 +1138,7 @@
   },
   "log-182": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP03-050",
       "OP03-044",
@@ -1139,8 +1147,8 @@
   },
   "log-183": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-184": {
     "player": "Pirate65394",
@@ -1149,22 +1157,22 @@
   },
   "log-185": {
     "player": "Pirate65394",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-186": {
     "player": "Pirate65394",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP10-032"
   },
   "log-187": {
     "player": "Pirate65394",
-    "action": "Attach 1 Don to Tashigi",
+    "action": "Attached 1 Don to OP10-032",
     "card": "OP10-032",
-    "value": 1
+    "total_don": 1
   },
   "log-188": {
     "player": "Pirate65394",
-    "action": "Shanks attacking Nami",
+    "action": "Attacking",
     "attacker": "Shanks",
     "attacker_id": "ST16-004",
     "defender": "Nami",
@@ -1172,12 +1180,12 @@
   },
   "log-189": {
     "player": "Pirate65394",
-    "action": "Nami hit for 1 damage",
-    "target": "OP03-040"
+    "action": "Damage taken by Pirate65394",
+    "damage": 1
   },
   "log-190": {
     "player": "Pirate65394",
-    "action": "Cavendish attacking Nami",
+    "action": "Attacking",
     "attacker": "Cavendish",
     "attacker_id": "EB01-012",
     "defender": "Nami",
@@ -1208,7 +1216,7 @@
   },
   "log-195": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-030",
       "OP10-030",
@@ -1221,7 +1229,7 @@
   },
   "log-196": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-030",
       "EB01-012",
@@ -1231,17 +1239,17 @@
   },
   "log-197": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-198": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-199": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-055",
       "ST03-017",
@@ -1255,7 +1263,7 @@
   },
   "log-200": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP03-056",
       "OP06-059",
@@ -1270,7 +1278,7 @@
   },
   "log-201": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP03-050",
       "OP03-044",
@@ -1279,16 +1287,16 @@
   },
   "log-202": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-203": {
     "player": "Pirate65394",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-204": {
     "player": "Marveze",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-205": {
     "player": "Marveze",
@@ -1297,11 +1305,11 @@
   },
   "log-206": {
     "player": "Marveze",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-207": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-030",
       "OP10-030",
@@ -1314,7 +1322,7 @@
   },
   "log-208": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-030",
       "EB01-012",
@@ -1324,17 +1332,17 @@
   },
   "log-209": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-210": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-211": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-055",
       "ST03-017",
@@ -1349,7 +1357,7 @@
   },
   "log-212": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP03-056",
       "OP06-059",
@@ -1364,7 +1372,7 @@
   },
   "log-213": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP03-050",
       "OP03-044",
@@ -1373,8 +1381,8 @@
   },
   "log-214": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-215": {
     "player": "Pirate65394",
@@ -1383,17 +1391,17 @@
   },
   "log-216": {
     "player": "Pirate65394",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-217": {
     "player": "Pirate65394",
-    "action": "Attach 4 Don to Cavendish",
+    "action": "Attached 4 Don to EB01-012",
     "card": "EB01-012",
-    "value": 4
+    "total_don": 4
   },
   "log-218": {
     "player": "Pirate65394",
-    "action": "Cavendish attacking Nami",
+    "action": "Attacking",
     "attacker": "Cavendish",
     "attacker_id": "EB01-012",
     "defender": "Nami",
@@ -1452,7 +1460,7 @@
   },
   "log-226": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-030",
       "OP10-030",
@@ -1466,7 +1474,7 @@
   },
   "log-227": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-030",
       "EB01-012",
@@ -1476,17 +1484,17 @@
   },
   "log-228": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-229": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-230": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-055",
       "OP03-055",
@@ -1498,7 +1506,7 @@
   },
   "log-231": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP03-056",
       "OP06-059",
@@ -1519,7 +1527,7 @@
   },
   "log-232": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP03-050",
       "OP03-044"
@@ -1527,16 +1535,16 @@
   },
   "log-233": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-234": {
     "player": "Pirate65394",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-235": {
     "player": "Marveze",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-236": {
     "player": "Marveze",
@@ -1545,12 +1553,12 @@
   },
   "log-237": {
     "player": "Marveze",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP09-050"
   },
   "log-238": {
     "player": "Marveze",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP03-044"
   },
   "log-239": {
@@ -1571,17 +1579,21 @@
   },
   "log-242": {
     "player": "Marveze",
-    "action": "Trash",
-    "card": "OP03-044"
+    "action": "Trash state",
+    "cards": [
+      "OP03-044"
+    ]
   },
   "log-243": {
     "player": "Marveze",
-    "action": "Trash",
-    "card": "OP03-055"
+    "action": "Trash state",
+    "cards": [
+      "OP03-055"
+    ]
   },
   "log-244": {
     "player": "Marveze",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP07-054"
   },
   "log-245": {
@@ -1597,11 +1609,11 @@
   },
   "log-247": {
     "player": "Marveze",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-248": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-030",
       "OP10-030",
@@ -1615,7 +1627,7 @@
   },
   "log-249": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-030",
       "EB01-012",
@@ -1625,17 +1637,17 @@
   },
   "log-250": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-251": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-252": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-055",
       "OP03-055",
@@ -1646,7 +1658,7 @@
   },
   "log-253": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP03-056",
       "OP06-059",
@@ -1669,7 +1681,7 @@
   },
   "log-254": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP03-050",
       "OP03-044",
@@ -1680,8 +1692,8 @@
   },
   "log-255": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-256": {
     "player": "Pirate65394",
@@ -1690,17 +1702,17 @@
   },
   "log-257": {
     "player": "Pirate65394",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-258": {
     "player": "Pirate65394",
-    "action": "Attach 6 Don to Shanks",
+    "action": "Attached 6 Don to ST16-004",
     "card": "ST16-004",
-    "value": 6
+    "total_don": 6
   },
   "log-259": {
     "player": "Pirate65394",
-    "action": "Shanks attacking Nami",
+    "action": "Attacking",
     "attacker": "Shanks",
     "attacker_id": "ST16-004",
     "defender": "Nami",
@@ -1708,8 +1720,8 @@
   },
   "log-260": {
     "player": "Pirate65394",
-    "action": "Nami hit for 1 damage",
-    "target": "OP03-040"
+    "action": "Damage taken by Pirate65394",
+    "damage": 1
   },
   "log-261": {
     "player": "Marveze",
@@ -1734,7 +1746,7 @@
   },
   "log-264": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-030",
       "OP10-030",
@@ -1749,7 +1761,7 @@
   },
   "log-265": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-030",
       "EB01-012",
@@ -1759,17 +1771,17 @@
   },
   "log-266": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-267": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-268": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-055",
       "OP03-055",
@@ -1781,7 +1793,7 @@
   },
   "log-269": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP03-056",
       "OP06-059",
@@ -1805,7 +1817,7 @@
   },
   "log-270": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP03-050",
       "OP09-050",
@@ -1815,16 +1827,16 @@
   },
   "log-271": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 3
+    "action": "Life state",
+    "life": 3
   },
   "log-272": {
     "player": "Pirate65394",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-273": {
     "player": "Marveze",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-274": {
     "player": "Marveze",
@@ -1833,7 +1845,7 @@
   },
   "log-275": {
     "player": "Marveze",
-    "action": "Nami attacking Jewelry Bonney",
+    "action": "Attacking",
     "attacker": "Nami",
     "attacker_id": "OP09-050",
     "defender": "Jewelry Bonney",
@@ -1841,8 +1853,7 @@
   },
   "log-276": {
     "player": "Marveze",
-    "action": "Reveal and Draw",
-    "card": "OP01-088"
+    "action": "Reveal and Draw"
   },
   "log-277": {
     "player": "Marveze",
@@ -1861,11 +1872,11 @@
   },
   "log-280": {
     "player": "Marveze",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-281": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-030",
       "OP10-030",
@@ -1880,7 +1891,7 @@
   },
   "log-282": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-030",
       "EB01-012",
@@ -1890,17 +1901,17 @@
   },
   "log-283": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-284": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-285": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-055",
       "OP03-055",
@@ -1914,7 +1925,7 @@
   },
   "log-286": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP03-056",
       "OP06-059",
@@ -1938,7 +1949,7 @@
   },
   "log-287": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP03-050",
       "OP09-050",
@@ -1948,8 +1959,8 @@
   },
   "log-288": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 3
+    "action": "Life state",
+    "life": 3
   },
   "log-289": {
     "player": "Pirate65394",
@@ -1958,16 +1969,16 @@
   },
   "log-290": {
     "player": "Pirate65394",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-291": {
     "player": "Pirate65394",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP04-031"
   },
   "log-292": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-030",
       "OP10-030",
@@ -1982,7 +1993,7 @@
   },
   "log-293": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-030",
       "EB01-012",
@@ -1993,17 +2004,17 @@
   },
   "log-294": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-295": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-296": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-055",
       "OP03-055",
@@ -2017,7 +2028,7 @@
   },
   "log-297": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP03-056",
       "OP06-059",
@@ -2041,7 +2052,7 @@
   },
   "log-298": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP03-050",
       "OP09-050",
@@ -2051,16 +2062,16 @@
   },
   "log-299": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 3
+    "action": "Life state",
+    "life": 3
   },
   "log-300": {
     "player": "Pirate65394",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-301": {
     "player": "Marveze",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-302": {
     "player": "Marveze",
@@ -2069,11 +2080,11 @@
   },
   "log-303": {
     "player": "Marveze",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-304": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-030",
       "OP10-030",
@@ -2088,7 +2099,7 @@
   },
   "log-305": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-030",
       "EB01-012",
@@ -2099,17 +2110,17 @@
   },
   "log-306": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-307": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-308": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-055",
       "OP03-055",
@@ -2124,7 +2135,7 @@
   },
   "log-309": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP03-056",
       "OP06-059",
@@ -2148,7 +2159,7 @@
   },
   "log-310": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP03-050",
       "OP09-050",
@@ -2158,8 +2169,8 @@
   },
   "log-311": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 3
+    "action": "Life state",
+    "life": 3
   },
   "log-312": {
     "player": "Pirate65394",
@@ -2168,17 +2179,17 @@
   },
   "log-313": {
     "player": "Pirate65394",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-314": {
     "player": "Pirate65394",
-    "action": "Attach 5 Don to Shanks",
+    "action": "Attached 5 Don to ST16-004",
     "card": "ST16-004",
-    "value": 5
+    "total_don": 5
   },
   "log-315": {
     "player": "Pirate65394",
-    "action": "Shanks attacking Nami",
+    "action": "Attacking",
     "attacker": "Shanks",
     "attacker_id": "ST16-004",
     "defender": "Nami",
@@ -2186,12 +2197,12 @@
   },
   "log-316": {
     "player": "Pirate65394",
-    "action": "Nami hit for 1 damage",
-    "target": "OP03-040"
+    "action": "Damage taken by Pirate65394",
+    "damage": 1
   },
   "log-317": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-030",
       "OP10-030",
@@ -2207,7 +2218,7 @@
   },
   "log-318": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-030",
       "EB01-012",
@@ -2218,17 +2229,17 @@
   },
   "log-319": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-320": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-321": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-055",
       "OP03-055",
@@ -2246,7 +2257,7 @@
   },
   "log-322": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP03-056",
       "OP06-059",
@@ -2270,7 +2281,7 @@
   },
   "log-323": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP03-050",
       "OP09-050",
@@ -2280,16 +2291,16 @@
   },
   "log-324": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 2
+    "action": "Life state",
+    "life": 2
   },
   "log-325": {
     "player": "Pirate65394",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-326": {
     "player": "Marveze",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-327": {
     "player": "Marveze",
@@ -2298,7 +2309,7 @@
   },
   "log-328": {
     "player": "Marveze",
-    "action": "Nami attacking Jewelry Bonney",
+    "action": "Attacking",
     "attacker": "Nami",
     "attacker_id": "OP09-050",
     "defender": "Jewelry Bonney",
@@ -2306,8 +2317,7 @@
   },
   "log-329": {
     "player": "Marveze",
-    "action": "Reveal and Draw",
-    "card": "OP01-088"
+    "action": "Reveal and Draw"
   },
   "log-330": {
     "player": "Marveze",
@@ -2319,11 +2329,11 @@
   },
   "log-332": {
     "player": "Marveze",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-333": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-030",
       "OP10-030",
@@ -2339,7 +2349,7 @@
   },
   "log-334": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-030",
       "EB01-012",
@@ -2350,17 +2360,17 @@
   },
   "log-335": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-336": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-337": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-055",
       "OP03-055",
@@ -2378,7 +2388,7 @@
   },
   "log-338": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP03-056",
       "OP06-059",
@@ -2402,7 +2412,7 @@
   },
   "log-339": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP03-050",
       "OP09-050",
@@ -2412,8 +2422,8 @@
   },
   "log-340": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 2
+    "action": "Life state",
+    "life": 2
   },
   "log-341": {
     "player": "Pirate65394",
@@ -2422,17 +2432,17 @@
   },
   "log-342": {
     "player": "Pirate65394",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-343": {
     "player": "Pirate65394",
-    "action": "Attach 6 Don to Shanks",
+    "action": "Attached 6 Don to ST16-004",
     "card": "ST16-004",
-    "value": 6
+    "total_don": 6
   },
   "log-344": {
     "player": "Pirate65394",
-    "action": "Shanks attacking Nami",
+    "action": "Attacking",
     "attacker": "Shanks",
     "attacker_id": "ST16-004",
     "defender": "Nami",
@@ -2456,12 +2466,12 @@
   },
   "log-347": {
     "player": "Pirate65394",
-    "action": "Nami hit for 1 damage",
-    "target": "OP03-040"
+    "action": "Damage taken by Pirate65394",
+    "damage": 1
   },
   "log-348": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-030",
       "OP10-030",
@@ -2478,7 +2488,7 @@
   },
   "log-349": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-030",
       "EB01-012",
@@ -2489,17 +2499,17 @@
   },
   "log-350": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-351": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-352": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-055",
       "OP03-055",
@@ -2518,7 +2528,7 @@
   },
   "log-353": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP03-056",
       "OP06-059",
@@ -2543,7 +2553,7 @@
   },
   "log-354": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP03-050",
       "OP09-050",
@@ -2552,16 +2562,16 @@
   },
   "log-355": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 1
+    "action": "Life state",
+    "life": 1
   },
   "log-356": {
     "player": "Pirate65394",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-357": {
     "player": "Marveze",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-358": {
     "player": "Marveze",
@@ -2570,7 +2580,7 @@
   },
   "log-359": {
     "player": "Marveze",
-    "action": "Nami attacking Jewelry Bonney",
+    "action": "Attacking",
     "attacker": "Nami",
     "attacker_id": "OP09-050",
     "defender": "Jewelry Bonney",
@@ -2578,8 +2588,7 @@
   },
   "log-360": {
     "player": "Marveze",
-    "action": "Reveal and Draw",
-    "card": "OP03-056"
+    "action": "Reveal and Draw"
   },
   "log-361": {
     "player": "Marveze",
@@ -2607,11 +2616,11 @@
   },
   "log-366": {
     "player": "Marveze",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-367": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-030",
       "OP10-030",
@@ -2628,7 +2637,7 @@
   },
   "log-368": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-030",
       "EB01-012",
@@ -2639,17 +2648,17 @@
   },
   "log-369": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-370": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-371": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-055",
       "OP03-055",
@@ -2671,7 +2680,7 @@
   },
   "log-372": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP03-056",
       "OP06-059",
@@ -2697,7 +2706,7 @@
   },
   "log-373": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP03-050",
       "OP09-050",
@@ -2706,8 +2715,8 @@
   },
   "log-374": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 1
+    "action": "Life state",
+    "life": 1
   },
   "log-375": {
     "player": "Pirate65394",
@@ -2716,17 +2725,17 @@
   },
   "log-376": {
     "player": "Pirate65394",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-377": {
     "player": "Pirate65394",
-    "action": "Attach 5 Don to Shanks",
+    "action": "Attached 5 Don to ST16-004",
     "card": "ST16-004",
-    "value": 5
+    "total_don": 5
   },
   "log-378": {
     "player": "Pirate65394",
-    "action": "Shanks attacking Nami",
+    "action": "Attacking",
     "attacker": "Shanks",
     "attacker_id": "ST16-004",
     "defender": "Nami",
@@ -2788,7 +2797,7 @@
   },
   "log-387": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP10-030",
       "OP10-030",
@@ -2806,7 +2815,7 @@
   },
   "log-388": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-030",
       "EB01-012",
@@ -2817,17 +2826,17 @@
   },
   "log-389": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-390": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-391": {
     "player": "Marveze",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-055",
       "OP02-069",
@@ -2844,7 +2853,7 @@
   },
   "log-392": {
     "player": "Marveze",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP03-056",
       "OP06-059",
@@ -2877,7 +2886,7 @@
   },
   "log-393": {
     "player": "Marveze",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP03-050",
       "OP09-050",
@@ -2886,16 +2895,16 @@
   },
   "log-394": {
     "player": "Marveze",
-    "action": "Life",
-    "value": 1
+    "action": "Life state",
+    "life": 1
   },
   "log-395": {
     "player": "Pirate65394",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-396": {
     "player": "Marveze",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-397": {
     "player": "Marveze",
@@ -2904,7 +2913,7 @@
   },
   "log-398": {
     "player": "Marveze",
-    "action": "Nami attacking Jewelry Bonney",
+    "action": "Attacking",
     "attacker": "Nami",
     "attacker_id": "OP09-050",
     "defender": "Jewelry Bonney",
@@ -2912,8 +2921,7 @@
   },
   "log-399": {
     "player": "Marveze",
-    "action": "Reveal and Draw",
-    "card": "OP03-055"
+    "action": "Reveal and Draw"
   },
   "log-400": {
     "player": "Marveze",
@@ -2925,7 +2933,7 @@
   },
   "log-402": {
     "player": "Marveze",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP03-044"
   },
   "log-403": {
@@ -2946,17 +2954,21 @@
   },
   "log-406": {
     "player": "Marveze",
-    "action": "Trash",
-    "card": "OP01-088"
+    "action": "Trash state",
+    "cards": [
+      "OP01-088"
+    ]
   },
   "log-407": {
     "player": "Marveze",
-    "action": "Trash",
-    "card": "OP03-054"
+    "action": "Trash state",
+    "cards": [
+      "OP03-054"
+    ]
   },
   "log-408": {
     "player": "Marveze",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP03-044"
   },
   "log-409": {
@@ -2977,22 +2989,28 @@
   },
   "log-412": {
     "player": "Marveze",
-    "action": "Trash",
-    "card": "OP07-054"
+    "action": "Trash state",
+    "cards": [
+      "OP07-054"
+    ]
   },
   "log-413": {
     "player": "Marveze",
-    "action": "Trash",
-    "card": "OP09-050"
+    "action": "Trash state",
+    "cards": [
+      "OP09-050"
+    ]
   },
   "log-414": {
     "player": "Marveze",
-    "action": "Trash",
-    "card": "OP07-054"
+    "action": "Trash state",
+    "cards": [
+      "OP07-054"
+    ]
   },
   "log-415": {
     "player": "Marveze",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP03-044"
   },
   "log-416": {

@@ -1,0 +1,1844 @@
+{
+  "log-001": {
+    "id": "log-001",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Connected"
+  },
+  "log-002": {
+    "id": "log-002",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Leader is",
+    "card": "OP08-021"
+  },
+  "log-003": {
+    "id": "log-003",
+    "player": "Mhcuber",
+    "action": "Connected"
+  },
+  "log-004": {
+    "id": "log-004",
+    "player": "Mhcuber",
+    "action": "Leader is",
+    "card": "OP05-060"
+  },
+  "log-005": {
+    "id": "log-005",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP09-069"
+  },
+  "log-006": {
+    "id": "log-006",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP07-064"
+  },
+  "log-007": {
+    "id": "log-007",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "EB01-039"
+  },
+  "log-008": {
+    "id": "log-008",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP09-065"
+  },
+  "log-009": {
+    "id": "log-009",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP09-078"
+  },
+  "log-010": {
+    "id": "log-010",
+    "player": "Mhcuber",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "OP09-069",
+      "OP07-064",
+      "EB01-039",
+      "OP09-065",
+      "OP09-078"
+    ]
+  },
+  "log-011": {
+    "id": "log-011",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-005"
+  },
+  "log-012": {
+    "id": "log-012",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP06-076"
+  },
+  "log-013": {
+    "id": "log-013",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP07-064"
+  },
+  "log-014": {
+    "id": "log-014",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "ST18-001"
+  },
+  "log-015": {
+    "id": "log-015",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP05-070"
+  },
+  "log-016": {
+    "id": "log-016",
+    "player": "Mhcuber",
+    "action": "Hand after Mulligan",
+    "cards": [
+      "ST18-005",
+      "OP06-076",
+      "OP07-064",
+      "ST18-001",
+      "OP05-070"
+    ]
+  },
+  "log-017": {
+    "id": "log-017",
+    "player": "Mhcuber",
+    "action": "Mulligan"
+  },
+  "log-018": {
+    "id": "log-018",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Drew card from deck",
+    "card": "OP05-074"
+  },
+  "log-019": {
+    "id": "log-019",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Drew card from deck",
+    "card": "ST18-004"
+  },
+  "log-020": {
+    "id": "log-020",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Drew card from deck",
+    "card": "OP09-078"
+  },
+  "log-021": {
+    "id": "log-021",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Drew card from deck",
+    "card": "OP11-067"
+  },
+  "log-022": {
+    "id": "log-022",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Drew card from deck",
+    "card": "OP11-067"
+  },
+  "log-023": {
+    "id": "log-023",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Mulligan"
+  },
+  "log-024": {
+    "id": "log-024",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Drew card from deck",
+    "card": "ST26-003"
+  },
+  "log-025": {
+    "id": "log-025",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Drew card from deck",
+    "card": "ST10-008"
+  },
+  "log-026": {
+    "id": "log-026",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Drew card from deck",
+    "card": "OP08-017"
+  },
+  "log-027": {
+    "id": "log-027",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Drew card from deck",
+    "card": "OP05-074"
+  },
+  "log-028": {
+    "id": "log-028",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Drew card from deck",
+    "card": "OP06-007"
+  },
+  "log-029": {
+    "id": "log-029",
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "ST18-005",
+      "OP06-076",
+      "OP07-064",
+      "ST18-001",
+      "OP05-070"
+    ]
+  },
+  "log-030": {
+    "id": "log-030",
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-031": {
+    "id": "log-031",
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP09-069",
+      "OP07-064",
+      "EB01-039",
+      "OP09-065",
+      "OP09-078"
+    ]
+  },
+  "log-032": {
+    "id": "log-032",
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-033": {
+    "id": "log-033",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Hand state",
+    "cards": [
+      "OP05-074",
+      "ST18-004",
+      "OP09-078",
+      "OP11-067",
+      "OP11-067",
+      "ST26-003",
+      "ST10-008",
+      "OP08-017",
+      "OP05-074",
+      "OP06-007"
+    ]
+  },
+  "log-034": {
+    "id": "log-034",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-035": {
+    "id": "log-035",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-036": {
+    "id": "log-036",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-037": {
+    "id": "log-037",
+    "player": "Mhcuber",
+    "action": "Draw 1 Don"
+  },
+  "log-038": {
+    "id": "log-038",
+    "player": "Mhcuber",
+    "action": "Deploy Luffy-tarou",
+    "card": "ST18-005"
+  },
+  "log-039": {
+    "id": "log-039",
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-040": {
+    "id": "log-040",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Draw 1 Card"
+  },
+  "log-041": {
+    "id": "log-041",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Drew card from deck",
+    "card": "OP05-074"
+  },
+  "log-042": {
+    "id": "log-042",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Draw 2 Don"
+  },
+  "log-043": {
+    "id": "log-043",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Deploy Charlotte Katakuri",
+    "card": "OP11-067"
+  },
+  "log-044": {
+    "id": "log-044",
+    "player": "YoidoreshirazuKanaria",
+    "action": "End Turn"
+  },
+  "log-045": {
+    "id": "log-045",
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP06-076",
+      "OP07-064",
+      "ST18-001",
+      "OP05-070"
+    ]
+  },
+  "log-046": {
+    "id": "log-046",
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-005"
+    ]
+  },
+  "log-047": {
+    "id": "log-047",
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP09-069",
+      "OP07-064",
+      "EB01-039",
+      "OP09-065",
+      "OP09-078"
+    ]
+  },
+  "log-048": {
+    "id": "log-048",
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-049": {
+    "id": "log-049",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Hand state",
+    "cards": [
+      "OP05-074",
+      "ST18-004",
+      "OP09-078",
+      "OP11-067",
+      "ST26-003",
+      "ST10-008",
+      "OP08-017",
+      "OP05-074",
+      "OP06-007",
+      "OP05-074"
+    ]
+  },
+  "log-050": {
+    "id": "log-050",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Board state",
+    "cards": [
+      "OP11-067"
+    ]
+  },
+  "log-051": {
+    "id": "log-051",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-052": {
+    "id": "log-052",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-053": {
+    "id": "log-053",
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-054": {
+    "id": "log-054",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP09-119"
+  },
+  "log-055": {
+    "id": "log-055",
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-056": {
+    "id": "log-056",
+    "player": "Mhcuber",
+    "action": "Luffy-tarou attacking Carrot"
+  },
+  "log-057": {
+    "id": "log-057",
+    "player": "Luffy-tarou",
+    "action": "vs Carrot",
+    "card": "ST18-005"
+  },
+  "log-058": {
+    "id": "log-058",
+    "player": "Carrot",
+    "action": "hit for 1 damage",
+    "card": "OP08-021"
+  },
+  "log-059": {
+    "id": "log-059",
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy attacking Carrot"
+  },
+  "log-060": {
+    "id": "log-060",
+    "player": "Monkey D. Luffy",
+    "action": "vs Carrot",
+    "card": "OP05-060"
+  },
+  "log-061": {
+    "id": "log-061",
+    "player": "Carrot",
+    "action": "hit for 1 damage",
+    "card": "OP08-021"
+  },
+  "log-062": {
+    "id": "log-062",
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP06-076",
+      "OP07-064",
+      "ST18-001",
+      "OP05-070",
+      "OP09-119"
+    ]
+  },
+  "log-063": {
+    "id": "log-063",
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-005"
+    ]
+  },
+  "log-064": {
+    "id": "log-064",
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP09-069",
+      "OP07-064",
+      "EB01-039",
+      "OP09-065",
+      "OP09-078"
+    ]
+  },
+  "log-065": {
+    "id": "log-065",
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-066": {
+    "id": "log-066",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Hand state",
+    "cards": [
+      "OP05-074",
+      "ST18-004",
+      "OP09-078",
+      "OP11-067",
+      "ST26-003",
+      "ST10-008",
+      "OP08-017",
+      "OP05-074",
+      "OP06-007",
+      "OP05-074"
+    ]
+  },
+  "log-067": {
+    "id": "log-067",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Board state",
+    "cards": [
+      "OP11-067"
+    ]
+  },
+  "log-068": {
+    "id": "log-068",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-069": {
+    "id": "log-069",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-070": {
+    "id": "log-070",
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-071": {
+    "id": "log-071",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Draw 1 Card"
+  },
+  "log-072": {
+    "id": "log-072",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Drew card from deck",
+    "card": "ST10-010"
+  },
+  "log-073": {
+    "id": "log-073",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Draw 2 Don"
+  },
+  "log-074": {
+    "id": "log-074",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Charlotte Katakuri attacking Luffy-tarou"
+  },
+  "log-075": {
+    "id": "log-075",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Charlotte Katakuri Buff Charlotte Katakuri 1000 for the Combat",
+    "card": "OP11-067"
+  },
+  "log-076": {
+    "id": "log-076",
+    "player": "Mhcuber",
+    "action": "Discard Gum Gum Giant for Counter 1000",
+    "card": "OP09-078"
+  },
+  "log-077": {
+    "id": "log-077",
+    "player": "Mhcuber",
+    "action": "Discard Sanji for Counter 2000",
+    "card": "OP07-064"
+  },
+  "log-078": {
+    "id": "log-078",
+    "player": "Charlotte Katakuri",
+    "action": "vs Luffy-tarou",
+    "card": "OP11-067"
+  },
+  "log-079": {
+    "id": "log-079",
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-080": {
+    "id": "log-080",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Carrot attacking Monkey D. Luffy"
+  },
+  "log-081": {
+    "id": "log-081",
+    "player": "Carrot",
+    "action": "vs Monkey D. Luffy",
+    "card": "OP08-021"
+  },
+  "log-082": {
+    "id": "log-082",
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card": "OP05-060"
+  },
+  "log-083": {
+    "id": "log-083",
+    "player": "YoidoreshirazuKanaria",
+    "action": "End Turn"
+  },
+  "log-084": {
+    "id": "log-084",
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP06-076",
+      "ST18-001",
+      "OP05-070",
+      "OP09-119"
+    ]
+  },
+  "log-085": {
+    "id": "log-085",
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-005"
+    ]
+  },
+  "log-086": {
+    "id": "log-086",
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP09-069",
+      "OP07-064",
+      "EB01-039",
+      "OP09-065",
+      "OP09-078",
+      "OP07-064"
+    ]
+  },
+  "log-087": {
+    "id": "log-087",
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-088": {
+    "id": "log-088",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Hand state",
+    "cards": [
+      "OP05-074",
+      "ST18-004",
+      "OP09-078",
+      "OP11-067",
+      "ST26-003",
+      "ST10-008",
+      "OP08-017",
+      "OP05-074",
+      "OP06-007",
+      "OP05-074",
+      "ST10-010"
+    ]
+  },
+  "log-089": {
+    "id": "log-089",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Board state",
+    "cards": [
+      "OP11-067"
+    ]
+  },
+  "log-090": {
+    "id": "log-090",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-091": {
+    "id": "log-091",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-092": {
+    "id": "log-092",
+    "player": "Mhcuber",
+    "action": "Draw 1 Card",
+    "card": "OP09-119"
+  },
+  "log-093": {
+    "id": "log-093",
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-094": {
+    "id": "log-094",
+    "player": "Mhcuber",
+    "action": "Deploy Monkey D. Luffy",
+    "card": "OP09-119"
+  },
+  "log-095": {
+    "id": "log-095",
+    "player": "Mhcuber",
+    "action": "Luffy-tarou attacking Charlotte Katakuri"
+  },
+  "log-096": {
+    "id": "log-096",
+    "player": "Luffy-tarou",
+    "action": "vs Charlotte Katakuri",
+    "card": "ST18-005"
+  },
+  "log-097": {
+    "id": "log-097",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Discard Charlotte Katakuri for Counter 1000",
+    "card": "OP11-067"
+  },
+  "log-098": {
+    "id": "log-098",
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-099": {
+    "id": "log-099",
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy attacking Charlotte Katakuri"
+  },
+  "log-100": {
+    "id": "log-100",
+    "player": "Monkey D. Luffy",
+    "action": "vs Charlotte Katakuri",
+    "card": "OP09-119"
+  },
+  "log-101": {
+    "id": "log-101",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Discard ST26-003 for Counter 1000",
+    "card": "ST26-003"
+  },
+  "log-102": {
+    "id": "log-102",
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-103": {
+    "id": "log-103",
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy attacking Carrot"
+  },
+  "log-104": {
+    "id": "log-104",
+    "player": "Monkey D. Luffy",
+    "action": "vs Carrot",
+    "card": "OP05-060"
+  },
+  "log-105": {
+    "id": "log-105",
+    "player": "Carrot",
+    "action": "hit for 1 damage",
+    "card": "OP08-021"
+  },
+  "log-106": {
+    "id": "log-106",
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP06-076",
+      "ST18-001",
+      "OP05-070"
+    ]
+  },
+  "log-107": {
+    "id": "log-107",
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-005",
+      "OP09-119"
+    ]
+  },
+  "log-108": {
+    "id": "log-108",
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP09-069",
+      "OP07-064",
+      "EB01-039",
+      "OP09-065",
+      "OP09-078",
+      "OP07-064"
+    ]
+  },
+  "log-109": {
+    "id": "log-109",
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-110": {
+    "id": "log-110",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Hand state",
+    "cards": [
+      "OP05-074",
+      "ST18-004",
+      "OP09-078",
+      "OP11-067",
+      "ST10-008",
+      "OP08-017",
+      "OP05-074",
+      "OP06-007",
+      "OP05-074",
+      "ST10-010"
+    ]
+  },
+  "log-111": {
+    "id": "log-111",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Board state",
+    "cards": [
+      "OP11-067"
+    ]
+  },
+  "log-112": {
+    "id": "log-112",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Trash state",
+    "cards": [
+      "OP11-067",
+      "ST26-003"
+    ]
+  },
+  "log-113": {
+    "id": "log-113",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-114": {
+    "id": "log-114",
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-115": {
+    "id": "log-115",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Draw 1 Card"
+  },
+  "log-116": {
+    "id": "log-116",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Drew card from deck",
+    "card": "OP08-021"
+  },
+  "log-117": {
+    "id": "log-117",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Draw 2 Don"
+  },
+  "log-118": {
+    "id": "log-118",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Deploy Charlotte Katakuri",
+    "card": "OP11-067"
+  },
+  "log-119": {
+    "id": "log-119",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Charlotte Katakuri Buff Charlotte Katakuri 1000 for the Combat",
+    "card": "OP11-067"
+  },
+  "log-120": {
+    "id": "log-120",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Carrot attacking Luffy-tarou"
+  },
+  "log-121": {
+    "id": "log-121",
+    "player": "Carrot",
+    "action": "vs Luffy-tarou",
+    "card": "OP08-021"
+  },
+  "log-122": {
+    "id": "log-122",
+    "player": "Luffy-tarou",
+    "action": "hit for 1 damage",
+    "card": "ST18-005"
+  },
+  "log-123": {
+    "id": "log-123",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Charlotte Katakuri attacking Monkey D. Luffy"
+  },
+  "log-124": {
+    "id": "log-124",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Charlotte Katakuri Buff Charlotte Katakuri 1000 for the Combat",
+    "card": "OP11-067"
+  },
+  "log-125": {
+    "id": "log-125",
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card": "OP05-060"
+  },
+  "log-126": {
+    "id": "log-126",
+    "player": "YoidoreshirazuKanaria",
+    "action": "End Turn"
+  },
+  "log-127": {
+    "id": "log-127",
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP06-076",
+      "ST18-001",
+      "OP05-070"
+    ]
+  },
+  "log-128": {
+    "id": "log-128",
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-005",
+      "OP09-119"
+    ]
+  },
+  "log-129": {
+    "id": "log-129",
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP09-069",
+      "OP07-064",
+      "EB01-039",
+      "OP09-065",
+      "OP09-078",
+      "OP07-064"
+    ]
+  },
+  "log-130": {
+    "id": "log-130",
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-131": {
+    "id": "log-131",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Hand state",
+    "cards": [
+      "OP05-074",
+      "ST18-004",
+      "OP09-078",
+      "ST10-008",
+      "OP08-017",
+      "OP05-074",
+      "OP06-007",
+      "OP05-074",
+      "ST10-010",
+      "OP08-021"
+    ]
+  },
+  "log-132": {
+    "id": "log-132",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Board state",
+    "cards": [
+      "OP11-067",
+      "OP11-067"
+    ]
+  },
+  "log-133": {
+    "id": "log-133",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Trash state",
+    "cards": [
+      "OP11-067",
+      "ST26-003"
+    ]
+  },
+  "log-134": {
+    "id": "log-134",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Life state",
+    "life": 0
+  },
+  "log-135": {
+    "id": "log-135",
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-136": {
+    "id": "log-136",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "EB01-061"
+  },
+  "log-137": {
+    "id": "log-137",
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-138": {
+    "id": "log-138",
+    "player": "Mhcuber",
+    "action": "Deploy Monkey D. Luffy",
+    "card": "OP09-119"
+  },
+  "log-139": {
+    "id": "log-139",
+    "player": "Mhcuber",
+    "action": "Luffy-tarou attacking Charlotte Katakuri"
+  },
+  "log-140": {
+    "id": "log-140",
+    "player": "Luffy-tarou",
+    "action": "vs Charlotte Katakuri",
+    "card": "ST18-005"
+  },
+  "log-141": {
+    "id": "log-141",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Discard Charlotte Katakuri for Counter 1000",
+    "card": "OP11-067"
+  },
+  "log-142": {
+    "id": "log-142",
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-143": {
+    "id": "log-143",
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy attacking Charlotte Katakuri"
+  },
+  "log-144": {
+    "id": "log-144",
+    "player": "Monkey D. Luffy",
+    "action": "vs Charlotte Katakuri",
+    "card": "OP09-119"
+  },
+  "log-145": {
+    "id": "log-145",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Discard Gum Gum Giant for Counter 1000",
+    "card": "OP09-078"
+  },
+  "log-146": {
+    "id": "log-146",
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-147": {
+    "id": "log-147",
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy attacking Charlotte Katakuri"
+  },
+  "log-148": {
+    "id": "log-148",
+    "player": "Monkey D. Luffy",
+    "action": "vs Charlotte Katakuri",
+    "card": "OP05-060"
+  },
+  "log-149": {
+    "id": "log-149",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Discard Charlotte Linlin for Counter 2000",
+    "card": "ST10-008"
+  },
+  "log-150": {
+    "id": "log-150",
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-151": {
+    "id": "log-151",
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP06-076",
+      "ST18-001",
+      "OP05-070",
+      "EB01-061"
+    ]
+  },
+  "log-152": {
+    "id": "log-152",
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-005",
+      "OP09-119",
+      "OP09-119"
+    ]
+  },
+  "log-153": {
+    "id": "log-153",
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP09-069",
+      "OP07-064",
+      "EB01-039",
+      "OP09-065",
+      "OP09-078",
+      "OP07-064"
+    ]
+  },
+  "log-154": {
+    "id": "log-154",
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-155": {
+    "id": "log-155",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Hand state",
+    "cards": [
+      "OP05-074",
+      "ST18-004",
+      "ST10-008",
+      "OP08-017",
+      "OP05-074",
+      "OP06-007",
+      "OP05-074",
+      "ST10-010",
+      "OP08-021"
+    ]
+  },
+  "log-156": {
+    "id": "log-156",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Board state",
+    "cards": [
+      "OP11-067",
+      "OP11-067"
+    ]
+  },
+  "log-157": {
+    "id": "log-157",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Trash state",
+    "cards": [
+      "OP11-067",
+      "ST26-003",
+      "OP11-067",
+      "OP09-078",
+      "ST10-008"
+    ]
+  },
+  "log-158": {
+    "id": "log-158",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Life state",
+    "life": 0
+  },
+  "log-159": {
+    "id": "log-159",
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-160": {
+    "id": "log-160",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Draw 1 Card"
+  },
+  "log-161": {
+    "id": "log-161",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Drew card from deck",
+    "card": "OP05-074"
+  },
+  "log-162": {
+    "id": "log-162",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Carrot attacking Monkey D. Luffy"
+  },
+  "log-163": {
+    "id": "log-163",
+    "player": "Carrot",
+    "action": "vs Monkey D. Luffy",
+    "card": "OP08-021"
+  },
+  "log-164": {
+    "id": "log-164",
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card": "OP05-060"
+  },
+  "log-165": {
+    "id": "log-165",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Charlotte Katakuri attacking Monkey D. Luffy"
+  },
+  "log-166": {
+    "id": "log-166",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Charlotte Katakuri Buff Charlotte Katakuri 1000 for the Combat",
+    "card": "OP11-067"
+  },
+  "log-167": {
+    "id": "log-167",
+    "player": "Mhcuber",
+    "action": "Discard Usohachi for Counter 1000",
+    "card": "ST18-001"
+  },
+  "log-168": {
+    "id": "log-168",
+    "player": "Mhcuber",
+    "action": "Discard Franosuke for Counter 2000",
+    "card": "OP05-070"
+  },
+  "log-169": {
+    "id": "log-169",
+    "player": "Charlotte Katakuri",
+    "action": "vs Monkey D. Luffy",
+    "card": "OP11-067"
+  },
+  "log-170": {
+    "id": "log-170",
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-171": {
+    "id": "log-171",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Charlotte Katakuri attacking Luffy-tarou"
+  },
+  "log-172": {
+    "id": "log-172",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Charlotte Katakuri Buff Charlotte Katakuri 1000 for the Combat",
+    "card": "OP11-067"
+  },
+  "log-173": {
+    "id": "log-173",
+    "player": "Charlotte Katakuri",
+    "action": "vs Luffy-tarou",
+    "card": "OP11-067"
+  },
+  "log-174": {
+    "id": "log-174",
+    "player": "Luffy-tarou",
+    "action": "hit for 1 damage",
+    "card": "ST18-005"
+  },
+  "log-175": {
+    "id": "log-175",
+    "player": "YoidoreshirazuKanaria",
+    "action": "End Turn"
+  },
+  "log-176": {
+    "id": "log-176",
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "EB01-061",
+      "OP09-119"
+    ]
+  },
+  "log-177": {
+    "id": "log-177",
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-005",
+      "OP09-119",
+      "OP09-119"
+    ]
+  },
+  "log-178": {
+    "id": "log-178",
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP09-069",
+      "OP07-064",
+      "EB01-039",
+      "OP09-065",
+      "OP09-078",
+      "OP07-064",
+      "ST18-001",
+      "OP05-070"
+    ]
+  },
+  "log-179": {
+    "id": "log-179",
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-180": {
+    "id": "log-180",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Hand state",
+    "cards": [
+      "OP05-074",
+      "ST18-004",
+      "ST10-008",
+      "OP08-017",
+      "OP05-074",
+      "OP06-007",
+      "OP05-074",
+      "ST10-010",
+      "OP08-021"
+    ]
+  },
+  "log-181": {
+    "id": "log-181",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Board state",
+    "cards": [
+      "OP11-067",
+      "OP11-067"
+    ]
+  },
+  "log-182": {
+    "id": "log-182",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Trash state",
+    "cards": [
+      "OP11-067",
+      "ST26-003",
+      "OP11-067",
+      "OP09-078",
+      "ST10-008"
+    ]
+  },
+  "log-183": {
+    "id": "log-183",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Life state",
+    "life": 0
+  },
+  "log-184": {
+    "id": "log-184",
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-185": {
+    "id": "log-185",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "OP09-119"
+  },
+  "log-186": {
+    "id": "log-186",
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-187": {
+    "id": "log-187",
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy attacking Carrot"
+  },
+  "log-188": {
+    "id": "log-188",
+    "player": "Monkey D. Luffy",
+    "action": "vs Carrot",
+    "card": "OP05-060"
+  },
+  "log-189": {
+    "id": "log-189",
+    "player": "Carrot",
+    "action": "hit for 1 damage",
+    "card": "OP08-021"
+  },
+  "log-190": {
+    "id": "log-190",
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy attacking Carrot"
+  },
+  "log-191": {
+    "id": "log-191",
+    "player": "Monkey D. Luffy",
+    "action": "vs Carrot",
+    "card": "OP09-119"
+  },
+  "log-192": {
+    "id": "log-192",
+    "player": "Carrot",
+    "action": "hit for 1 damage",
+    "card": "OP08-021"
+  },
+  "log-193": {
+    "id": "log-193",
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy attacking Charlotte Katakuri"
+  },
+  "log-194": {
+    "id": "log-194",
+    "player": "Monkey D. Luffy",
+    "action": "vs Charlotte Katakuri",
+    "card": "OP09-119"
+  },
+  "log-195": {
+    "id": "log-195",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Discard Charlotte Linlin for Counter 2000",
+    "card": "ST10-008"
+  },
+  "log-196": {
+    "id": "log-196",
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-197": {
+    "id": "log-197",
+    "player": "Mhcuber",
+    "action": "Luffy-tarou attacking Charlotte Katakuri"
+  },
+  "log-198": {
+    "id": "log-198",
+    "player": "Luffy-tarou",
+    "action": "vs Charlotte Katakuri",
+    "card": "ST18-005"
+  },
+  "log-199": {
+    "id": "log-199",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Discard Op05-074 for Counter 1000",
+    "card": "OP05-074"
+  },
+  "log-200": {
+    "id": "log-200",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Discard OP06-007 for Counter 1000",
+    "card": "OP06-007"
+  },
+  "log-201": {
+    "id": "log-201",
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-202": {
+    "id": "log-202",
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "EB01-061"
+    ]
+  },
+  "log-203": {
+    "id": "log-203",
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-005",
+      "OP09-119",
+      "OP09-119"
+    ]
+  },
+  "log-204": {
+    "id": "log-204",
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP09-069",
+      "OP07-064",
+      "EB01-039",
+      "OP09-065",
+      "OP09-078",
+      "OP07-064",
+      "ST18-001",
+      "OP05-070"
+    ]
+  },
+  "log-205": {
+    "id": "log-205",
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-206": {
+    "id": "log-206",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Hand state",
+    "cards": [
+      "ST18-004",
+      "OP08-017",
+      "OP08-021",
+      "OP05-074"
+    ]
+  },
+  "log-207": {
+    "id": "log-207",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Board state",
+    "cards": [
+      "OP11-067",
+      "OP11-067"
+    ]
+  },
+  "log-208": {
+    "id": "log-208",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Trash state",
+    "cards": [
+      "OP11-067",
+      "ST26-003",
+      "OP11-067",
+      "OP09-078",
+      "ST10-008",
+      "OP05-074",
+      "OP06-007",
+      "ST10-008",
+      "ST10-010"
+    ]
+  },
+  "log-209": {
+    "id": "log-209",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Life state",
+    "life": 0
+  },
+  "log-210": {
+    "id": "log-210",
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-211": {
+    "id": "log-211",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Draw 1 Card"
+  },
+  "log-212": {
+    "id": "log-212",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Drew card from deck",
+    "card": "OP05-074"
+  },
+  "log-213": {
+    "id": "log-213",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Charlotte Katakuri attacking Monkey D. Luffy"
+  },
+  "log-214": {
+    "id": "log-214",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Charlotte Katakuri Buff Charlotte Katakuri 1000 for the Combat",
+    "card": "OP11-067"
+  },
+  "log-215": {
+    "id": "log-215",
+    "player": "Mhcuber",
+    "action": "Discard Gum Gum Giant for Counter 1000",
+    "card": "OP09-078"
+  },
+  "log-216": {
+    "id": "log-216",
+    "player": "Mhcuber",
+    "action": "Discard Hitokiri Kamazo for Counter 2000",
+    "card": "OP06-076"
+  },
+  "log-217": {
+    "id": "log-217",
+    "player": "Charlotte Katakuri",
+    "action": "vs Monkey D. Luffy",
+    "card": "OP11-067"
+  },
+  "log-218": {
+    "id": "log-218",
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-219": {
+    "id": "log-219",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Charlotte Katakuri attacking Luffy-tarou"
+  },
+  "log-220": {
+    "id": "log-220",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Charlotte Katakuri Buff Charlotte Katakuri 1000 for the Combat",
+    "card": "OP11-067"
+  },
+  "log-221": {
+    "id": "log-221",
+    "player": "Charlotte Katakuri",
+    "action": "vs Luffy-tarou",
+    "card": "OP11-067"
+  },
+  "log-222": {
+    "id": "log-222",
+    "player": "Luffy-tarou",
+    "action": "hit for 1 damage",
+    "card": "ST18-005"
+  },
+  "log-223": {
+    "id": "log-223",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Carrot attacking Monkey D. Luffy"
+  },
+  "log-224": {
+    "id": "log-224",
+    "player": "Carrot",
+    "action": "vs Monkey D. Luffy",
+    "card": "OP08-021"
+  },
+  "log-225": {
+    "id": "log-225",
+    "player": "Monkey D. Luffy",
+    "action": "hit for 1 damage",
+    "card": "OP05-060"
+  },
+  "log-226": {
+    "id": "log-226",
+    "player": "YoidoreshirazuKanaria",
+    "action": "End Turn"
+  },
+  "log-227": {
+    "id": "log-227",
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "EB01-061",
+      "OP09-119"
+    ]
+  },
+  "log-228": {
+    "id": "log-228",
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-005",
+      "OP09-119",
+      "OP09-119"
+    ]
+  },
+  "log-229": {
+    "id": "log-229",
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP09-069",
+      "OP07-064",
+      "EB01-039",
+      "OP09-065",
+      "OP09-078",
+      "OP07-064",
+      "ST18-001",
+      "OP05-070",
+      "OP09-078",
+      "OP06-076"
+    ]
+  },
+  "log-230": {
+    "id": "log-230",
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 0
+  },
+  "log-231": {
+    "id": "log-231",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Hand state",
+    "cards": [
+      "ST18-004",
+      "OP08-017",
+      "OP08-021",
+      "OP05-074"
+    ]
+  },
+  "log-232": {
+    "id": "log-232",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Board state",
+    "cards": [
+      "OP11-067",
+      "OP11-067"
+    ]
+  },
+  "log-233": {
+    "id": "log-233",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Trash state",
+    "cards": [
+      "OP11-067",
+      "ST26-003",
+      "OP11-067",
+      "OP09-078",
+      "ST10-008",
+      "OP05-074",
+      "OP06-007",
+      "ST10-008",
+      "ST10-010",
+      "OP05-074"
+    ]
+  },
+  "log-234": {
+    "id": "log-234",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Life state",
+    "life": 0
+  },
+  "log-235": {
+    "id": "log-235",
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-236": {
+    "id": "log-236",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "EB01-061"
+  },
+  "log-237": {
+    "id": "log-237",
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-238": {
+    "id": "log-238",
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy attacking Charlotte Katakuri"
+  },
+  "log-239": {
+    "id": "log-239",
+    "player": "Monkey D. Luffy",
+    "action": "vs Charlotte Katakuri",
+    "card": "OP05-060"
+  },
+  "log-240": {
+    "id": "log-240",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Discard Charlotte Linlin for Counter 2000",
+    "card": "ST10-008"
+  },
+  "log-241": {
+    "id": "log-241",
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-242": {
+    "id": "log-242",
+    "player": "Mhcuber",
+    "action": "Monkey D. Luffy attacking Charlotte Katakuri"
+  },
+  "log-243": {
+    "id": "log-243",
+    "player": "Monkey D. Luffy",
+    "action": "vs Charlotte Katakuri",
+    "card": "OP09-119"
+  },
+  "log-244": {
+    "id": "log-244",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Discard Charlotte Linlin for Counter 2000",
+    "card": "ST10-010"
+  },
+  "log-245": {
+    "id": "log-245",
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-246": {
+    "id": "log-246",
+    "player": "Mhcuber",
+    "action": "Luffy-tarou attacking Charlotte Katakuri"
+  },
+  "log-247": {
+    "id": "log-247",
+    "player": "Luffy-tarou",
+    "action": "vs Charlotte Katakuri",
+    "card": "ST18-005"
+  },
+  "log-248": {
+    "id": "log-248",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Discard Charlotte Linlin for Counter 2000",
+    "card": "ST10-008"
+  },
+  "log-249": {
+    "id": "log-249",
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-250": {
+    "id": "log-250",
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "EB01-061",
+      "OP09-119"
+    ]
+  },
+  "log-251": {
+    "id": "log-251",
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-005",
+      "OP09-119",
+      "OP09-119"
+    ]
+  },
+  "log-252": {
+    "id": "log-252",
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "OP09-069",
+      "OP07-064",
+      "EB01-039",
+      "OP09-065",
+      "OP09-078",
+      "OP07-064",
+      "ST18-001",
+      "OP05-070",
+      "OP09-078",
+      "OP06-076"
+    ]
+  },
+  "log-253": {
+    "id": "log-253",
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 0
+  },
+  "log-254": {
+    "id": "log-254",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Hand state",
+    "cards": [
+      "ST18-004",
+      "OP08-017",
+      "OP08-021",
+      "OP05-074"
+    ]
+  },
+  "log-255": {
+    "id": "log-255",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Board state",
+    "cards": [
+      "OP11-067",
+      "OP11-067"
+    ]
+  },
+  "log-256": {
+    "id": "log-256",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Trash state",
+    "cards": [
+      "OP11-067",
+      "ST26-003",
+      "OP11-067",
+      "OP09-078",
+      "ST10-008",
+      "OP05-074",
+      "OP06-007",
+      "ST10-008",
+      "ST10-010",
+      "OP05-074",
+      "ST10-008"
+    ]
+  },
+  "log-257": {
+    "id": "log-257",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Life state",
+    "life": 0
+  },
+  "log-258": {
+    "id": "log-258",
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-259": {
+    "id": "log-259",
+    "player": "YoidoreshirazuKanaria",
+    "action": "Loses"
+  },
+  "log-260": {
+    "id": "log-260",
+    "player": "Mhcuber",
+    "action": "Wins!"
+  }
+}

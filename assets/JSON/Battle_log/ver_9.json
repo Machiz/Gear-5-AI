@@ -169,11 +169,11 @@
   },
   "log-034": {
     "player": "Pirate75409",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-035": {
     "player": "rintosh1",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-009",
       "ST21-014",
@@ -184,22 +184,22 @@
   },
   "log-036": {
     "player": "rintosh1",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-037": {
     "player": "rintosh1",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-038": {
     "player": "rintosh1",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-039": {
     "player": "Pirate75409",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST21-014",
       "ST21-017",
@@ -210,18 +210,18 @@
   },
   "log-040": {
     "player": "Pirate75409",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-041": {
     "player": "Pirate75409",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-042": {
     "player": "Pirate75409",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-043": {
     "player": "rintosh1",
@@ -230,7 +230,7 @@
   },
   "log-044": {
     "player": "rintosh1",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-009",
       "ST21-014",
@@ -242,22 +242,22 @@
   },
   "log-045": {
     "player": "rintosh1",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-046": {
     "player": "rintosh1",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-047": {
     "player": "rintosh1",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-048": {
     "player": "Pirate75409",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST21-014",
       "ST21-017",
@@ -268,22 +268,22 @@
   },
   "log-049": {
     "player": "Pirate75409",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-050": {
     "player": "Pirate75409",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-051": {
     "player": "Pirate75409",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-052": {
     "player": "rintosh1",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-053": {
     "player": "rintosh1",
@@ -291,11 +291,11 @@
   },
   "log-054": {
     "player": "rintosh1",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-055": {
     "player": "Pirate75409",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-056": {
     "player": "Pirate75409",
@@ -308,16 +308,16 @@
   },
   "log-058": {
     "player": "Pirate75409",
-    "action": "Deploy Brook",
+    "action": "Played card",
     "card": "ST21-012"
   },
   "log-059": {
     "player": "Pirate75409",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-060": {
     "player": "rintosh1",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-009",
       "ST21-014",
@@ -329,22 +329,22 @@
   },
   "log-061": {
     "player": "rintosh1",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-062": {
     "player": "rintosh1",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-063": {
     "player": "rintosh1",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-064": {
     "player": "Pirate75409",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST21-014",
       "ST21-017",
@@ -355,20 +355,20 @@
   },
   "log-065": {
     "player": "Pirate75409",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-066": {
     "player": "Pirate75409",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST21-012"
     ]
   },
   "log-067": {
     "player": "Pirate75409",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-068": {
     "player": "rintosh1",
@@ -377,7 +377,7 @@
   },
   "log-069": {
     "player": "rintosh1",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-070": {
     "player": "rintosh1",
@@ -385,15 +385,17 @@
   },
   "log-071": {
     "player": "rintosh1",
-    "action": "Attach 4 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total": 4
+    "total_don": 0
   },
   "log-072": {
     "player": "rintosh1",
-    "action": "Shanks attacking Monkey D. Luffy",
-    "source_card": "OP09-001",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-073": {
     "player": "System",
@@ -415,7 +417,7 @@
   },
   "log-076": {
     "player": "rintosh1",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-009",
       "ST21-014",
@@ -428,22 +430,22 @@
   },
   "log-077": {
     "player": "rintosh1",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-078": {
     "player": "rintosh1",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-079": {
     "player": "rintosh1",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-080": {
     "player": "Pirate75409",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST21-014",
       "ST21-017",
@@ -455,28 +457,28 @@
   },
   "log-081": {
     "player": "Pirate75409",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-082": {
     "player": "Pirate75409",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST21-012"
     ]
   },
   "log-083": {
     "player": "Pirate75409",
-    "action": "Life",
-    "life": 4
+    "action": "Life state",
+    "life": 0
   },
   "log-084": {
     "player": "rintosh1",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-085": {
     "player": "Pirate75409",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-086": {
     "player": "Pirate75409",
@@ -489,14 +491,16 @@
   },
   "log-088": {
     "player": "Pirate75409",
-    "action": "Deploy Monkey D. Luffy",
+    "action": "Played card",
     "card": "ST21-014"
   },
   "log-089": {
     "player": "Pirate75409",
-    "action": "Brook attacking Shanks",
-    "source_card": "ST21-012",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Brook",
+    "attacker_id": "ST21-012",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-090": {
     "player": "Pirate75409",
@@ -530,9 +534,11 @@
   },
   "log-095": {
     "player": "Pirate75409",
-    "action": "Monkey D. Luffy attacking Shanks",
-    "source_card": "ST21-014",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-014",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-096": {
     "player": "Pirate75409",
@@ -573,9 +579,11 @@
   },
   "log-102": {
     "player": "Pirate75409",
-    "action": "Monkey D. Luffy attacking Shanks",
-    "source_card": "ST21-001",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-103": {
     "player": "rintosh1",
@@ -607,11 +615,11 @@
   },
   "log-108": {
     "player": "Pirate75409",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-109": {
     "player": "rintosh1",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-009",
       "ST21-014",
@@ -621,12 +629,12 @@
   },
   "log-110": {
     "player": "rintosh1",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-111": {
     "player": "rintosh1",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP09-011",
       "OP09-014",
@@ -635,12 +643,12 @@
   },
   "log-112": {
     "player": "rintosh1",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-113": {
     "player": "Pirate75409",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST21-017",
       "ST21-006",
@@ -652,12 +660,12 @@
   },
   "log-114": {
     "player": "Pirate75409",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-115": {
     "player": "Pirate75409",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST21-012",
       "ST21-014"
@@ -665,8 +673,8 @@
   },
   "log-116": {
     "player": "Pirate75409",
-    "action": "Life",
-    "life": 4
+    "action": "Life state",
+    "life": 0
   },
   "log-117": {
     "player": "rintosh1",
@@ -675,7 +683,7 @@
   },
   "log-118": {
     "player": "rintosh1",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-119": {
     "player": "rintosh1",
@@ -683,14 +691,16 @@
   },
   "log-120": {
     "player": "rintosh1",
-    "action": "Deploy Monkey D. Luffy",
+    "action": "Played card",
     "card": "ST21-014"
   },
   "log-121": {
     "player": "rintosh1",
-    "action": "Monkey D. Luffy attacking Monkey D. Luffy",
-    "source_card": "ST21-014",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-014",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-122": {
     "player": "rintosh1",
@@ -729,15 +739,17 @@
   },
   "log-128": {
     "player": "rintosh1",
-    "action": "Attach 1 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total": 2
+    "total_don": 0
   },
   "log-129": {
     "player": "rintosh1",
-    "action": "Shanks attacking Monkey D. Luffy",
-    "source_card": "OP09-001",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-130": {
     "player": "System",
@@ -759,7 +771,7 @@
   },
   "log-133": {
     "player": "rintosh1",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-009",
       "OP09-011",
@@ -769,14 +781,14 @@
   },
   "log-134": {
     "player": "rintosh1",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST21-014"
     ]
   },
   "log-135": {
     "player": "rintosh1",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP09-011",
       "OP09-014",
@@ -785,12 +797,12 @@
   },
   "log-136": {
     "player": "rintosh1",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-137": {
     "player": "Pirate75409",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST21-017",
       "ST21-006",
@@ -801,7 +813,7 @@
   },
   "log-138": {
     "player": "Pirate75409",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "ST21-005",
       "ST21-013"
@@ -809,7 +821,7 @@
   },
   "log-139": {
     "player": "Pirate75409",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST21-012",
       "ST21-014"
@@ -817,16 +829,16 @@
   },
   "log-140": {
     "player": "Pirate75409",
-    "action": "Life",
-    "life": 3
+    "action": "Life state",
+    "life": 0
   },
   "log-141": {
     "player": "rintosh1",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-142": {
     "player": "Pirate75409",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-143": {
     "player": "Pirate75409",
@@ -839,14 +851,16 @@
   },
   "log-145": {
     "player": "Pirate75409",
-    "action": "Deploy Roronoa Zoro",
+    "action": "Played card",
     "card": "ST21-015"
   },
   "log-146": {
     "player": "Pirate75409",
-    "action": "Monkey D. Luffy attacking Monkey D. Luffy",
-    "source_card": "ST21-014",
-    "target_card": "ST21-014"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-014",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-014"
   },
   "log-147": {
     "player": "Pirate75409",
@@ -881,14 +895,16 @@
   },
   "log-152": {
     "player": "Pirate75409",
-    "action": "Deploy Stussy",
+    "action": "Played card",
     "card": "ST21-006"
   },
   "log-153": {
     "player": "Pirate75409",
-    "action": "Brook attacking Shanks",
-    "source_card": "ST21-012",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Brook",
+    "attacker_id": "ST21-012",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-154": {
     "player": "Pirate75409",
@@ -922,9 +938,11 @@
   },
   "log-159": {
     "player": "Pirate75409",
-    "action": "Roronoa Zoro attacking Shanks",
-    "source_card": "ST21-015",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "ST21-015",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-160": {
     "player": "System",
@@ -946,9 +964,11 @@
   },
   "log-163": {
     "player": "Pirate75409",
-    "action": "Monkey D. Luffy attacking Monkey D. Luffy",
-    "source_card": "ST21-001",
-    "target_card": "ST21-014"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-014"
   },
   "log-164": {
     "player": "System",
@@ -968,11 +988,11 @@
   },
   "log-167": {
     "player": "Pirate75409",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-168": {
     "player": "rintosh1",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-009",
       "OP09-011",
@@ -983,14 +1003,14 @@
   },
   "log-169": {
     "player": "rintosh1",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST21-014"
     ]
   },
   "log-170": {
     "player": "rintosh1",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP09-011",
       "OP09-014",
@@ -999,12 +1019,12 @@
   },
   "log-171": {
     "player": "rintosh1",
-    "action": "Life",
-    "life": 4
+    "action": "Life state",
+    "life": 0
   },
   "log-172": {
     "player": "Pirate75409",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST21-017",
       "ST21-010",
@@ -1014,7 +1034,7 @@
   },
   "log-173": {
     "player": "Pirate75409",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "ST21-005",
       "ST21-013"
@@ -1022,7 +1042,7 @@
   },
   "log-174": {
     "player": "Pirate75409",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST21-012",
       "ST21-014",
@@ -1032,8 +1052,8 @@
   },
   "log-175": {
     "player": "Pirate75409",
-    "action": "Life",
-    "life": 3
+    "action": "Life state",
+    "life": 0
   },
   "log-176": {
     "player": "rintosh1",
@@ -1042,7 +1062,7 @@
   },
   "log-177": {
     "player": "rintosh1",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-178": {
     "player": "rintosh1",
@@ -1050,7 +1070,7 @@
   },
   "log-179": {
     "player": "rintosh1",
-    "action": "Deploy Silvers Rayleigh",
+    "action": "Played card",
     "card": "OP08-118"
   },
   "log-180": {
@@ -1080,9 +1100,11 @@
   },
   "log-183": {
     "player": "rintosh1",
-    "action": "Monkey D. Luffy attacking Roronoa Zoro",
-    "source_card": "ST21-014",
-    "target_card": "ST21-015"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-014",
+    "defender": "Roronoa Zoro",
+    "defender_id": "ST21-015"
   },
   "log-184": {
     "player": "rintosh1",
@@ -1123,9 +1145,11 @@
   },
   "log-190": {
     "player": "rintosh1",
-    "action": "Shanks attacking Monkey D. Luffy",
-    "source_card": "OP09-001",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-191": {
     "player": "System",
@@ -1147,7 +1171,7 @@
   },
   "log-193": {
     "player": "rintosh1",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-009",
       "OP09-011",
@@ -1158,7 +1182,7 @@
   },
   "log-194": {
     "player": "rintosh1",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST21-014",
       "OP08-118"
@@ -1166,7 +1190,7 @@
   },
   "log-195": {
     "player": "rintosh1",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP09-011",
       "OP09-014",
@@ -1175,12 +1199,12 @@
   },
   "log-196": {
     "player": "rintosh1",
-    "action": "Life",
-    "life": 4
+    "action": "Life state",
+    "life": 0
   },
   "log-197": {
     "player": "Pirate75409",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST21-017",
       "ST21-008",
@@ -1189,7 +1213,7 @@
   },
   "log-198": {
     "player": "Pirate75409",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "ST21-005",
       "ST21-013",
@@ -1201,7 +1225,7 @@
   },
   "log-199": {
     "player": "Pirate75409",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST21-012",
       "ST21-006"
@@ -1209,16 +1233,16 @@
   },
   "log-200": {
     "player": "Pirate75409",
-    "action": "Life",
-    "life": 2
+    "action": "Life state",
+    "life": 0
   },
   "log-201": {
     "player": "rintosh1",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-202": {
     "player": "Pirate75409",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-203": {
     "player": "Pirate75409",
@@ -1239,9 +1263,11 @@
   },
   "log-206": {
     "player": "Pirate75409",
-    "action": "Brook attacking Shanks",
-    "source_card": "ST21-012",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Brook",
+    "attacker_id": "ST21-012",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-207": {
     "player": "Pirate75409",
@@ -1275,7 +1301,7 @@
   },
   "log-212": {
     "player": "Pirate75409",
-    "action": "Deploy Roronoa Zoro",
+    "action": "Played card",
     "card": "ST21-015"
   },
   "log-213": {
@@ -1294,9 +1320,11 @@
   },
   "log-215": {
     "player": "Pirate75409",
-    "action": "Roronoa Zoro attacking Monkey D. Luffy",
-    "source_card": "ST21-015",
-    "target_card": "ST21-014"
+    "action": "Attacking",
+    "attacker": "Roronoa Zoro",
+    "attacker_id": "ST21-015",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-014"
   },
   "log-216": {
     "player": "rintosh1",
@@ -1322,9 +1350,11 @@
   },
   "log-220": {
     "player": "Pirate75409",
-    "action": "Monkey D. Luffy attacking Monkey D. Luffy",
-    "source_card": "ST21-001",
-    "target_card": "ST21-014"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-014"
   },
   "log-221": {
     "player": "rintosh1",
@@ -1358,15 +1388,17 @@
   },
   "log-226": {
     "player": "Pirate75409",
-    "action": "Attach 1 Don to Stussy",
+    "action": "Attached 0 Don to ST21-006",
     "card": "ST21-006",
-    "total": 1
+    "total_don": 0
   },
   "log-227": {
     "player": "Pirate75409",
-    "action": "Stussy attacking Monkey D. Luffy",
-    "source_card": "ST21-006",
-    "target_card": "ST21-014"
+    "action": "Attacking",
+    "attacker": "Stussy",
+    "attacker_id": "ST21-006",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-014"
   },
   "log-228": {
     "player": "rintosh1",
@@ -1392,11 +1424,11 @@
   },
   "log-232": {
     "player": "Pirate75409",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-233": {
     "player": "rintosh1",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-009",
       "OP09-004"
@@ -1404,7 +1436,7 @@
   },
   "log-234": {
     "player": "rintosh1",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST21-014",
       "OP08-118"
@@ -1412,7 +1444,7 @@
   },
   "log-235": {
     "player": "rintosh1",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP09-011",
       "OP09-014",
@@ -1424,12 +1456,12 @@
   },
   "log-236": {
     "player": "rintosh1",
-    "action": "Life",
-    "life": 4
+    "action": "Life state",
+    "life": 0
   },
   "log-237": {
     "player": "Pirate75409",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST21-008",
       "ST21-009"
@@ -1437,7 +1469,7 @@
   },
   "log-238": {
     "player": "Pirate75409",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "ST21-005",
       "ST21-013",
@@ -1450,7 +1482,7 @@
   },
   "log-239": {
     "player": "Pirate75409",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST21-012",
       "ST21-006",
@@ -1459,8 +1491,8 @@
   },
   "log-240": {
     "player": "Pirate75409",
-    "action": "Life",
-    "life": 2
+    "action": "Life state",
+    "life": 0
   },
   "log-241": {
     "player": "rintosh1",
@@ -1469,7 +1501,7 @@
   },
   "log-242": {
     "player": "rintosh1",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-243": {
     "player": "rintosh1",
@@ -1477,14 +1509,16 @@
   },
   "log-244": {
     "player": "rintosh1",
-    "action": "Deploy Shanks",
+    "action": "Played card",
     "card": "OP09-004"
   },
   "log-245": {
     "player": "rintosh1",
-    "action": "Shanks attacking Monkey D. Luffy",
-    "source_card": "OP09-004",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-246": {
     "player": "Pirate75409",

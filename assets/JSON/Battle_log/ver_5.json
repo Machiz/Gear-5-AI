@@ -57,7 +57,13 @@
   "log-013": {
     "player": "Pirate26156",
     "action": "Hand before Mulligan",
-    "cards": ["OP03-013", "OP09-008", "OP10-005", "OP09-014", "ST21-014"]
+    "cards": [
+      "OP03-013",
+      "OP09-008",
+      "OP10-005",
+      "OP09-014",
+      "ST21-014"
+    ]
   },
   "log-014": {
     "player": "Pirate26156",
@@ -120,7 +126,13 @@
   "log-026": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP03-013", "OP09-008", "OP10-005", "OP09-014", "ST21-014"]
+    "cards": [
+      "OP03-013",
+      "OP09-008",
+      "OP10-005",
+      "OP09-014",
+      "ST21-014"
+    ]
   },
   "log-027": {
     "player": "Pirate26156",
@@ -140,7 +152,13 @@
   "log-030": {
     "player": "Pirate73357",
     "action": "Hand state",
-    "cards": ["OP05-105", "OP08-106", "OP10-119", "OP07-107", "OP06-115"]
+    "cards": [
+      "OP05-105",
+      "OP08-106",
+      "OP10-119",
+      "OP07-107",
+      "OP06-115"
+    ]
   },
   "log-031": {
     "player": "Pirate73357",
@@ -163,18 +181,25 @@
   },
   "log-035": {
     "player": "Pirate26156",
-    "action": "Deploy Building Snake",
+    "action": "Played card",
     "card": "OP09-008"
   },
   "log-036": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP03-013", "OP10-005", "OP09-014", "ST21-014"]
+    "cards": [
+      "OP03-013",
+      "OP10-005",
+      "OP09-014",
+      "ST21-014"
+    ]
   },
   "log-037": {
     "player": "Pirate26156",
     "action": "Board state",
-    "cards": ["OP09-008"]
+    "cards": [
+      "OP09-008"
+    ]
   },
   "log-038": {
     "player": "Pirate26156",
@@ -189,7 +214,13 @@
   "log-040": {
     "player": "Pirate73357",
     "action": "Hand state",
-    "cards": ["OP05-105", "OP08-106", "OP10-119", "OP07-107", "OP06-115"]
+    "cards": [
+      "OP05-105",
+      "OP08-106",
+      "OP10-119",
+      "OP07-107",
+      "OP06-115"
+    ]
   },
   "log-041": {
     "player": "Pirate73357",
@@ -208,11 +239,11 @@
   },
   "log-044": {
     "player": "Pirate26156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-045": {
     "player": "Pirate73357",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-046": {
     "player": "Pirate73357",
@@ -225,22 +256,29 @@
   },
   "log-048": {
     "player": "Pirate73357",
-    "action": "Deploy Scratchmen Apoo",
+    "action": "Played card",
     "card": "OP10-108"
   },
   "log-049": {
     "player": "Pirate73357",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-050": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP03-013", "OP10-005", "OP09-014", "ST21-014"]
+    "cards": [
+      "OP03-013",
+      "OP10-005",
+      "OP09-014",
+      "ST21-014"
+    ]
   },
   "log-051": {
     "player": "Pirate26156",
     "action": "Board state",
-    "cards": ["OP09-008"]
+    "cards": [
+      "OP09-008"
+    ]
   },
   "log-052": {
     "player": "Pirate26156",
@@ -255,7 +293,13 @@
   "log-054": {
     "player": "Pirate73357",
     "action": "Hand state",
-    "cards": ["OP05-105", "OP08-106", "OP10-119", "OP07-107", "OP06-115"]
+    "cards": [
+      "OP05-105",
+      "OP08-106",
+      "OP10-119",
+      "OP07-107",
+      "OP06-115"
+    ]
   },
   "log-055": {
     "player": "Pirate73357",
@@ -265,7 +309,9 @@
   "log-056": {
     "player": "Pirate73357",
     "action": "Board state",
-    "cards": ["OP10-108"]
+    "cards": [
+      "OP10-108"
+    ]
   },
   "log-057": {
     "player": "Pirate73357",
@@ -279,7 +325,7 @@
   },
   "log-059": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-060": {
     "player": "Pirate26156",
@@ -287,14 +333,16 @@
   },
   "log-061": {
     "player": "Pirate26156",
-    "action": "Deploy Sanji",
+    "action": "Played card",
     "card": "OP10-005"
   },
   "log-062": {
     "player": "Pirate26156",
-    "action": "Shanks attacking Eustass \"Captain\" Kid",
-    "attacker": "OP09-001",
-    "defender": "OP10-099"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-063": {
     "player": "System",
@@ -306,8 +354,8 @@
   },
   "log-064": {
     "player": "Pirate73357",
-    "action": "Eustass \"Captain\" Kid hit for 1 damage",
-    "card": "OP10-099"
+    "action": "Damage taken by Pirate73357",
+    "damage": 1
   },
   "log-065": {
     "player": "Pirate73357",
@@ -337,17 +385,27 @@
   "log-069": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP03-013", "OP10-005", "OP09-014", "ST21-014", "OP09-009"]
+    "cards": [
+      "OP03-013",
+      "OP10-005",
+      "OP09-014",
+      "ST21-014",
+      "OP09-009"
+    ]
   },
   "log-070": {
     "player": "Pirate26156",
     "action": "Board state",
-    "cards": ["OP09-008"]
+    "cards": [
+      "OP09-008"
+    ]
   },
   "log-071": {
     "player": "Pirate26156",
     "action": "Trash state",
-    "cards": ["OP10-005"]
+    "cards": [
+      "OP10-005"
+    ]
   },
   "log-072": {
     "player": "Pirate26156",
@@ -357,17 +415,27 @@
   "log-073": {
     "player": "Pirate73357",
     "action": "Hand state",
-    "cards": ["OP05-105", "OP08-106", "OP10-119", "OP07-107"]
+    "cards": [
+      "OP05-105",
+      "OP08-106",
+      "OP10-119",
+      "OP07-107"
+    ]
   },
   "log-074": {
     "player": "Pirate73357",
     "action": "Trash state",
-    "cards": ["OP08-106", "OP06-115"]
+    "cards": [
+      "OP08-106",
+      "OP06-115"
+    ]
   },
   "log-075": {
     "player": "Pirate73357",
     "action": "Board state",
-    "cards": ["OP10-108"]
+    "cards": [
+      "OP10-108"
+    ]
   },
   "log-076": {
     "player": "Pirate73357",
@@ -376,11 +444,11 @@
   },
   "log-077": {
     "player": "Pirate26156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-078": {
     "player": "Pirate73357",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-079": {
     "player": "Pirate73357",
@@ -393,21 +461,23 @@
   },
   "log-081": {
     "player": "Pirate73357",
-    "action": "Attach 2 Don to Eustass \"Captain\" Kid",
+    "action": "Attached 0 Don to OP10-099",
     "card": "OP10-099",
-    "total_don": 2
+    "total_don": 0
   },
   "log-082": {
     "player": "Pirate73357",
-    "action": "Attach 2 Don to Eustass \"Captain\" Kid",
+    "action": "Attached 0 Don to OP10-099",
     "card": "OP10-099",
-    "total_don": 4
+    "total_don": 0
   },
   "log-083": {
     "player": "Pirate73357",
-    "action": "Eustass \"Captain\" Kid attacking Shanks",
-    "attacker": "OP10-099",
-    "defender": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Eustass \"Captain\" Kid",
+    "attacker_id": "OP10-099",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-084": {
     "player": "System",
@@ -419,27 +489,38 @@
   },
   "log-085": {
     "player": "Pirate26156",
-    "action": "Shanks hit for 1 damage",
-    "card": "OP09-001"
+    "action": "Damage taken by Pirate26156",
+    "damage": 1
   },
   "log-086": {
     "player": "Pirate73357",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-087": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP03-013", "OP10-005", "OP09-014", "ST21-014", "OP09-009", "OP03-013"]
+    "cards": [
+      "OP03-013",
+      "OP10-005",
+      "OP09-014",
+      "ST21-014",
+      "OP09-009",
+      "OP03-013"
+    ]
   },
   "log-088": {
     "player": "Pirate26156",
     "action": "Board state",
-    "cards": ["OP09-008"]
+    "cards": [
+      "OP09-008"
+    ]
   },
   "log-089": {
     "player": "Pirate26156",
     "action": "Trash state",
-    "cards": ["OP10-005"]
+    "cards": [
+      "OP10-005"
+    ]
   },
   "log-090": {
     "player": "Pirate26156",
@@ -449,17 +530,28 @@
   "log-091": {
     "player": "Pirate73357",
     "action": "Hand state",
-    "cards": ["OP05-105", "OP08-106", "OP10-119", "OP07-107", "OP07-107"]
+    "cards": [
+      "OP05-105",
+      "OP08-106",
+      "OP10-119",
+      "OP07-107",
+      "OP07-107"
+    ]
   },
   "log-092": {
     "player": "Pirate73357",
     "action": "Trash state",
-    "cards": ["OP08-106", "OP06-115"]
+    "cards": [
+      "OP08-106",
+      "OP06-115"
+    ]
   },
   "log-093": {
     "player": "Pirate73357",
     "action": "Board state",
-    "cards": ["OP10-108"]
+    "cards": [
+      "OP10-108"
+    ]
   },
   "log-094": {
     "player": "Pirate73357",
@@ -473,7 +565,7 @@
   },
   "log-096": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-097": {
     "player": "Pirate26156",
@@ -481,14 +573,16 @@
   },
   "log-098": {
     "player": "Pirate26156",
-    "action": "Deploy Monkey D. Luffy",
+    "action": "Played card",
     "card": "ST21-014"
   },
   "log-099": {
     "player": "Pirate26156",
-    "action": "Monkey D. Luffy attacking Eustass \"Captain\" Kid",
-    "attacker": "ST21-014",
-    "defender": "OP10-099"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-100": {
     "player": "Pirate26156",
@@ -516,9 +610,11 @@
   },
   "log-104": {
     "player": "Pirate26156",
-    "action": "Shanks attacking Eustass \"Captain\" Kid",
-    "attacker": "OP09-001",
-    "defender": "OP10-099"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-105": {
     "player": "System",
@@ -530,23 +626,35 @@
   },
   "log-106": {
     "player": "Pirate73357",
-    "action": "Eustass \"Captain\" Kid hit for 1 damage",
-    "card": "OP10-099"
+    "action": "Damage taken by Pirate73357",
+    "damage": 1
   },
   "log-107": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP03-013", "OP10-005", "OP09-014", "OP09-009", "OP03-013", "OP01-006"]
+    "cards": [
+      "OP03-013",
+      "OP10-005",
+      "OP09-014",
+      "OP09-009",
+      "OP03-013",
+      "OP01-006"
+    ]
   },
   "log-108": {
     "player": "Pirate26156",
     "action": "Board state",
-    "cards": ["OP09-008", "ST21-014"]
+    "cards": [
+      "OP09-008",
+      "ST21-014"
+    ]
   },
   "log-109": {
     "player": "Pirate26156",
     "action": "Trash state",
-    "cards": ["OP10-005"]
+    "cards": [
+      "OP10-005"
+    ]
   },
   "log-110": {
     "player": "Pirate26156",
@@ -556,17 +664,29 @@
   "log-111": {
     "player": "Pirate73357",
     "action": "Hand state",
-    "cards": ["OP05-105", "OP08-106", "OP10-119", "OP07-107", "OP08-106"]
+    "cards": [
+      "OP05-105",
+      "OP08-106",
+      "OP10-119",
+      "OP07-107",
+      "OP08-106"
+    ]
   },
   "log-112": {
     "player": "Pirate73357",
     "action": "Trash state",
-    "cards": ["OP08-106", "OP06-115", "OP07-107"]
+    "cards": [
+      "OP08-106",
+      "OP06-115",
+      "OP07-107"
+    ]
   },
   "log-113": {
     "player": "Pirate73357",
     "action": "Board state",
-    "cards": ["OP10-108"]
+    "cards": [
+      "OP10-108"
+    ]
   },
   "log-114": {
     "player": "Pirate73357",
@@ -575,11 +695,11 @@
   },
   "log-115": {
     "player": "Pirate26156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-116": {
     "player": "Pirate73357",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-117": {
     "player": "Pirate73357",
@@ -592,7 +712,7 @@
   },
   "log-119": {
     "player": "Pirate73357",
-    "action": "Deploy Nami",
+    "action": "Played card",
     "card": "OP08-106"
   },
   "log-120": {
@@ -611,15 +731,17 @@
   },
   "log-122": {
     "player": "Pirate73357",
-    "action": "Attach 1 Don to Eustass \"Captain\" Kid",
+    "action": "Attached 0 Don to OP10-099",
     "card": "OP10-099",
-    "total_don": 1
+    "total_don": 0
   },
   "log-123": {
     "player": "Pirate73357",
-    "action": "Eustass \"Captain\" Kid attacking Shanks",
-    "attacker": "OP10-099",
-    "defender": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Eustass \"Captain\" Kid",
+    "attacker_id": "OP10-099",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-124": {
     "player": "Pirate26156",
@@ -647,22 +769,34 @@
   },
   "log-128": {
     "player": "Pirate73357",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-129": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP10-005", "OP09-014", "OP09-009", "OP03-013", "OP01-006"]
+    "cards": [
+      "OP10-005",
+      "OP09-014",
+      "OP09-009",
+      "OP03-013",
+      "OP01-006"
+    ]
   },
   "log-130": {
     "player": "Pirate26156",
     "action": "Board state",
-    "cards": ["OP09-008"]
+    "cards": [
+      "OP09-008"
+    ]
   },
   "log-131": {
     "player": "Pirate26156",
     "action": "Trash state",
-    "cards": ["OP10-005", "ST21-014", "OP03-013"]
+    "cards": [
+      "OP10-005",
+      "ST21-014",
+      "OP03-013"
+    ]
   },
   "log-132": {
     "player": "Pirate26156",
@@ -672,17 +806,30 @@
   "log-133": {
     "player": "Pirate73357",
     "action": "Hand state",
-    "cards": ["OP05-105", "OP10-119", "OP07-107", "OP07-107"]
+    "cards": [
+      "OP05-105",
+      "OP10-119",
+      "OP07-107",
+      "OP07-107"
+    ]
   },
   "log-134": {
     "player": "Pirate73357",
     "action": "Trash state",
-    "cards": ["OP08-106", "OP06-115", "OP07-107", "OP08-106"]
+    "cards": [
+      "OP08-106",
+      "OP06-115",
+      "OP07-107",
+      "OP08-106"
+    ]
   },
   "log-135": {
     "player": "Pirate73357",
     "action": "Board state",
-    "cards": ["OP10-108", "OP08-106"]
+    "cards": [
+      "OP10-108",
+      "OP08-106"
+    ]
   },
   "log-136": {
     "player": "Pirate73357",
@@ -696,7 +843,7 @@
   },
   "log-138": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-139": {
     "player": "Pirate26156",
@@ -704,7 +851,7 @@
   },
   "log-140": {
     "player": "Pirate26156",
-    "action": "Deploy Benn Beckman",
+    "action": "Played card",
     "card": "OP09-009"
   },
   "log-141": {
@@ -716,9 +863,11 @@
   },
   "log-142": {
     "player": "Pirate26156",
-    "action": "Shanks attacking Eustass \"Captain\" Kid",
-    "attacker": "OP09-001",
-    "defender": "OP10-099"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-143": {
     "player": "System",
@@ -730,23 +879,36 @@
   },
   "log-144": {
     "player": "Pirate73357",
-    "action": "Eustass \"Captain\" Kid hit for 1 damage",
-    "card": "OP10-099"
+    "action": "Damage taken by Pirate73357",
+    "damage": 1
   },
   "log-145": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP10-005", "OP09-014", "OP03-013", "OP01-006", "OP01-006"]
+    "cards": [
+      "OP10-005",
+      "OP09-014",
+      "OP03-013",
+      "OP01-006",
+      "OP01-006"
+    ]
   },
   "log-146": {
     "player": "Pirate26156",
     "action": "Board state",
-    "cards": ["OP09-008", "OP09-009"]
+    "cards": [
+      "OP09-008",
+      "OP09-009"
+    ]
   },
   "log-147": {
     "player": "Pirate26156",
     "action": "Trash state",
-    "cards": ["OP10-005", "ST21-014", "OP03-013"]
+    "cards": [
+      "OP10-005",
+      "ST21-014",
+      "OP03-013"
+    ]
   },
   "log-148": {
     "player": "Pirate26156",
@@ -756,17 +918,31 @@
   "log-149": {
     "player": "Pirate73357",
     "action": "Hand state",
-    "cards": ["OP05-105", "OP10-119", "OP07-107", "OP07-107", "OP10-111"]
+    "cards": [
+      "OP05-105",
+      "OP10-119",
+      "OP07-107",
+      "OP07-107",
+      "OP10-111"
+    ]
   },
   "log-150": {
     "player": "Pirate73357",
     "action": "Trash state",
-    "cards": ["OP08-106", "OP06-115", "OP07-107", "OP08-106", "OP08-106"]
+    "cards": [
+      "OP08-106",
+      "OP06-115",
+      "OP07-107",
+      "OP08-106",
+      "OP08-106"
+    ]
   },
   "log-151": {
     "player": "Pirate73357",
     "action": "Board state",
-    "cards": ["OP10-108"]
+    "cards": [
+      "OP10-108"
+    ]
   },
   "log-152": {
     "player": "Pirate73357",
@@ -775,11 +951,11 @@
   },
   "log-153": {
     "player": "Pirate26156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-154": {
     "player": "Pirate73357",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-155": {
     "player": "Pirate73357",
@@ -792,7 +968,7 @@
   },
   "log-157": {
     "player": "Pirate73357",
-    "action": "Deploy Trafalgar Law",
+    "action": "Played card",
     "card": "OP10-119"
   },
   "log-158": {
@@ -817,15 +993,17 @@
   },
   "log-161": {
     "player": "Pirate73357",
-    "action": "Attach 1 Don to Eustass \"Captain\" Kid",
+    "action": "Attached 0 Don to OP10-099",
     "card": "OP10-099",
-    "total_don": 2
+    "total_don": 0
   },
   "log-162": {
     "player": "Pirate73357",
-    "action": "Eustass \"Captain\" Kid attacking Shanks",
-    "attacker": "OP10-099",
-    "defender": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Eustass \"Captain\" Kid",
+    "attacker_id": "OP10-099",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-163": {
     "player": "System",
@@ -837,8 +1015,8 @@
   },
   "log-164": {
     "player": "Pirate26156",
-    "action": "Shanks hit for 1 damage",
-    "card": "OP09-001"
+    "action": "Damage taken by Pirate26156",
+    "damage": 1
   },
   "log-165": {
     "player": "Pirate73357",
@@ -862,22 +1040,36 @@
   },
   "log-168": {
     "player": "Pirate73357",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-169": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP10-005", "OP09-014", "OP03-013", "OP01-006", "OP01-006", "OP01-006"]
+    "cards": [
+      "OP10-005",
+      "OP09-014",
+      "OP03-013",
+      "OP01-006",
+      "OP01-006",
+      "OP01-006"
+    ]
   },
   "log-170": {
     "player": "Pirate26156",
     "action": "Board state",
-    "cards": ["OP09-008", "OP09-009"]
+    "cards": [
+      "OP09-008",
+      "OP09-009"
+    ]
   },
   "log-171": {
     "player": "Pirate26156",
     "action": "Trash state",
-    "cards": ["OP10-005", "ST21-014", "OP03-013"]
+    "cards": [
+      "OP10-005",
+      "ST21-014",
+      "OP03-013"
+    ]
   },
   "log-172": {
     "player": "Pirate26156",
@@ -887,17 +1079,31 @@
   "log-173": {
     "player": "Pirate73357",
     "action": "Hand state",
-    "cards": ["OP05-105", "OP07-107", "OP07-107", "OP07-119"]
+    "cards": [
+      "OP05-105",
+      "OP07-107",
+      "OP07-107",
+      "OP07-119"
+    ]
   },
   "log-174": {
     "player": "Pirate73357",
     "action": "Trash state",
-    "cards": ["OP08-106", "OP06-115", "OP07-107", "OP08-106", "OP08-106"]
+    "cards": [
+      "OP08-106",
+      "OP06-115",
+      "OP07-107",
+      "OP08-106",
+      "OP08-106"
+    ]
   },
   "log-175": {
     "player": "Pirate73357",
     "action": "Board state",
-    "cards": ["OP10-108", "OP10-119"]
+    "cards": [
+      "OP10-108",
+      "OP10-119"
+    ]
   },
   "log-176": {
     "player": "Pirate73357",
@@ -911,7 +1117,7 @@
   },
   "log-178": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-179": {
     "player": "Pirate26156",
@@ -919,7 +1125,7 @@
   },
   "log-180": {
     "player": "Pirate26156",
-    "action": "Deploy Otama",
+    "action": "Played card",
     "card": "OP01-006"
   },
   "log-181": {
@@ -931,7 +1137,7 @@
   },
   "log-182": {
     "player": "Pirate26156",
-    "action": "Deploy Otama",
+    "action": "Played card",
     "card": "OP01-006"
   },
   "log-183": {
@@ -957,7 +1163,7 @@
   },
   "log-186": {
     "player": "Pirate26156",
-    "action": "Deploy Marco",
+    "action": "Played card",
     "card": "OP03-013"
   },
   "log-187": {
@@ -969,15 +1175,17 @@
   },
   "log-188": {
     "player": "Pirate26156",
-    "action": "Attach 2 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total_don": 2
+    "total_don": 0
   },
   "log-189": {
     "player": "Pirate26156",
-    "action": "Benn Beckman attacking Eustass \"Captain\" Kid",
-    "attacker": "OP09-009",
-    "defender": "OP10-099"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-190": {
     "player": "System",
@@ -989,14 +1197,16 @@
   },
   "log-191": {
     "player": "Pirate73357",
-    "action": "Eustass \"Captain\" Kid hit for 1 damage",
-    "card": "OP10-099"
+    "action": "Damage taken by Pirate73357",
+    "damage": 1
   },
   "log-192": {
     "player": "Pirate26156",
-    "action": "Shanks attacking Eustass \"Captain\" Kid",
-    "attacker": "OP09-001",
-    "defender": "OP10-099"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-193": {
     "player": "System",
@@ -1008,23 +1218,37 @@
   },
   "log-194": {
     "player": "Pirate73357",
-    "action": "Eustass \"Captain\" Kid hit for 1 damage",
-    "card": "OP10-099"
+    "action": "Damage taken by Pirate73357",
+    "damage": 1
   },
   "log-195": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP10-005", "OP09-014", "OP01-006", "OP09-015"]
+    "cards": [
+      "OP10-005",
+      "OP09-014",
+      "OP01-006",
+      "OP09-015"
+    ]
   },
   "log-196": {
     "player": "Pirate26156",
     "action": "Board state",
-    "cards": ["OP09-009", "OP01-006", "OP01-006", "OP03-013"]
+    "cards": [
+      "OP09-009",
+      "OP01-006",
+      "OP01-006",
+      "OP03-013"
+    ]
   },
   "log-197": {
     "player": "Pirate26156",
     "action": "Trash state",
-    "cards": ["OP10-005", "ST21-014", "OP03-013"]
+    "cards": [
+      "OP10-005",
+      "ST21-014",
+      "OP03-013"
+    ]
   },
   "log-198": {
     "player": "Pirate26156",
@@ -1034,17 +1258,33 @@
   "log-199": {
     "player": "Pirate73357",
     "action": "Hand state",
-    "cards": ["OP05-105", "OP07-107", "OP07-107", "OP07-119", "OP10-111", "EB01-057"]
+    "cards": [
+      "OP05-105",
+      "OP07-107",
+      "OP07-107",
+      "OP07-119",
+      "OP10-111",
+      "EB01-057"
+    ]
   },
   "log-200": {
     "player": "Pirate73357",
     "action": "Trash state",
-    "cards": ["OP08-106", "OP06-115", "OP07-107", "OP08-106", "OP08-106", "OP10-119"]
+    "cards": [
+      "OP08-106",
+      "OP06-115",
+      "OP07-107",
+      "OP08-106",
+      "OP08-106",
+      "OP10-119"
+    ]
   },
   "log-201": {
     "player": "Pirate73357",
     "action": "Board state",
-    "cards": ["OP10-108"]
+    "cards": [
+      "OP10-108"
+    ]
   },
   "log-202": {
     "player": "Pirate73357",
@@ -1053,11 +1293,11 @@
   },
   "log-203": {
     "player": "Pirate26156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-204": {
     "player": "Pirate73357",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-205": {
     "player": "Pirate73357",
@@ -1070,9 +1310,11 @@
   },
   "log-207": {
     "player": "Pirate73357",
-    "action": "Eustass \"Captain\" Kid attacking Shanks",
-    "attacker": "OP10-099",
-    "defender": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Eustass \"Captain\" Kid",
+    "attacker_id": "OP10-099",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-208": {
     "player": "Pirate26156",
@@ -1095,7 +1337,7 @@
   },
   "log-211": {
     "player": "Pirate73357",
-    "action": "Deploy Portgas D. Ace",
+    "action": "Played card",
     "card": "OP07-119"
   },
   "log-212": {
@@ -1113,9 +1355,11 @@
   },
   "log-214": {
     "player": "Pirate73357",
-    "action": "Portgas D. Ace attacking Benn Beckman",
-    "attacker": "OP07-119",
-    "defender": "OP09-009"
+    "action": "Attacking",
+    "attacker": "Eustass \"Captain\" Kid",
+    "attacker_id": "OP10-099",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-215": {
     "player": "Pirate26156",
@@ -1141,22 +1385,36 @@
   },
   "log-219": {
     "player": "Pirate73357",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-220": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP10-005", "OP09-015"]
+    "cards": [
+      "OP10-005",
+      "OP09-015"
+    ]
   },
   "log-221": {
     "player": "Pirate26156",
     "action": "Board state",
-    "cards": ["OP09-009", "OP01-006", "OP01-006", "OP03-013"]
+    "cards": [
+      "OP09-009",
+      "OP01-006",
+      "OP01-006",
+      "OP03-013"
+    ]
   },
   "log-222": {
     "player": "Pirate26156",
     "action": "Trash state",
-    "cards": ["OP10-005", "ST21-014", "OP03-013", "OP09-014", "OP01-006"]
+    "cards": [
+      "OP10-005",
+      "ST21-014",
+      "OP03-013",
+      "OP09-014",
+      "OP01-006"
+    ]
   },
   "log-223": {
     "player": "Pirate26156",
@@ -1166,17 +1424,34 @@
   "log-224": {
     "player": "Pirate73357",
     "action": "Hand state",
-    "cards": ["OP05-105", "OP07-107", "OP07-107", "OP10-111", "EB01-057", "OP10-108"]
+    "cards": [
+      "OP05-105",
+      "OP07-107",
+      "OP07-107",
+      "OP10-111",
+      "EB01-057",
+      "OP10-108"
+    ]
   },
   "log-225": {
     "player": "Pirate73357",
     "action": "Trash state",
-    "cards": ["OP08-106", "OP06-115", "OP07-107", "OP08-106", "OP08-106", "OP10-119"]
+    "cards": [
+      "OP08-106",
+      "OP06-115",
+      "OP07-107",
+      "OP08-106",
+      "OP08-106",
+      "OP10-119"
+    ]
   },
   "log-226": {
     "player": "Pirate73357",
     "action": "Board state",
-    "cards": ["OP10-108", "OP07-119"]
+    "cards": [
+      "OP10-108",
+      "OP07-119"
+    ]
   },
   "log-227": {
     "player": "Pirate73357",
@@ -1190,7 +1465,7 @@
   },
   "log-229": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-230": {
     "player": "Pirate26156",
@@ -1198,57 +1473,59 @@
   },
   "log-231": {
     "player": "Pirate26156",
-    "action": "Attach 2 Don to Benn Beckman",
+    "action": "Attached 0 Don to OP09-009",
     "card": "OP09-009",
-    "total_don": 2
+    "total_don": 0
   },
   "log-232": {
     "player": "Pirate26156",
-    "action": "Attach 2 Don to Benn Beckman",
+    "action": "Attached 0 Don to OP09-009",
     "card": "OP09-009",
-    "total_don": 4
+    "total_don": 0
   },
   "log-233": {
     "player": "Pirate26156",
-    "action": "Attach 1 Don to Benn Beckman",
+    "action": "Attached 0 Don to OP09-009",
     "card": "OP09-009",
-    "total_don": 5
+    "total_don": 0
   },
   "log-234": {
     "player": "Pirate26156",
-    "action": "Attach 1 Don to Benn Beckman",
+    "action": "Attached 0 Don to OP09-009",
     "card": "OP09-009",
-    "total_don": 6
+    "total_don": 0
   },
   "log-235": {
     "player": "Pirate26156",
-    "action": "Attach 1 Don to Benn Beckman",
+    "action": "Attached 0 Don to OP09-009",
     "card": "OP09-009",
-    "total_don": 7
+    "total_don": 0
   },
   "log-236": {
     "player": "Pirate26156",
-    "action": "Attach 1 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total_don": 1
+    "total_don": 0
   },
   "log-237": {
     "player": "Pirate26156",
-    "action": "Attach 1 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total_don": 2
+    "total_don": 0
   },
   "log-238": {
     "player": "Pirate26156",
-    "action": "Attach 1 Don to Benn Beckman",
+    "action": "Attached 0 Don to OP09-009",
     "card": "OP09-009",
-    "total_don": 8
+    "total_don": 0
   },
   "log-239": {
     "player": "Pirate26156",
-    "action": "Benn Beckman attacking Portgas D. Ace",
-    "attacker": "OP09-009",
-    "defender": "OP07-119"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-240": {
     "player": "Pirate73357",
@@ -1279,9 +1556,11 @@
   },
   "log-245": {
     "player": "Pirate26156",
-    "action": "Shanks attacking Eustass \"Captain\" Kid",
-    "attacker": "OP09-001",
-    "defender": "OP10-099"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-246": {
     "player": "Pirate73357",
@@ -1313,17 +1592,32 @@
   "log-251": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP10-005", "OP09-015", "OP08-118"]
+    "cards": [
+      "OP10-005",
+      "OP09-015",
+      "OP08-118"
+    ]
   },
   "log-252": {
     "player": "Pirate26156",
     "action": "Board state",
-    "cards": ["OP09-009", "OP01-006", "OP01-006", "OP03-013"]
+    "cards": [
+      "OP09-009",
+      "OP01-006",
+      "OP01-006",
+      "OP03-013"
+    ]
   },
   "log-253": {
     "player": "Pirate26156",
     "action": "Trash state",
-    "cards": ["OP10-005", "ST21-014", "OP03-013", "OP09-014", "OP01-006"]
+    "cards": [
+      "OP10-005",
+      "ST21-014",
+      "OP03-013",
+      "OP09-014",
+      "OP01-006"
+    ]
   },
   "log-254": {
     "player": "Pirate26156",
@@ -1338,12 +1632,28 @@
   "log-256": {
     "player": "Pirate73357",
     "action": "Trash state",
-    "cards": ["OP08-106", "OP06-115", "OP07-107", "OP08-106", "OP08-106", "OP10-119", "OP05-105", "OP07-107", "OP07-107", "OP10-111", "EB01-057", "OP10-108"]
+    "cards": [
+      "OP08-106",
+      "OP06-115",
+      "OP07-107",
+      "OP08-106",
+      "OP08-106",
+      "OP10-119",
+      "OP05-105",
+      "OP07-107",
+      "OP07-107",
+      "OP10-111",
+      "EB01-057",
+      "OP10-108"
+    ]
   },
   "log-257": {
     "player": "Pirate73357",
     "action": "Board state",
-    "cards": ["OP10-108", "OP07-119"]
+    "cards": [
+      "OP10-108",
+      "OP07-119"
+    ]
   },
   "log-258": {
     "player": "Pirate73357",
@@ -1352,11 +1662,11 @@
   },
   "log-259": {
     "player": "Pirate26156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-260": {
     "player": "Pirate73357",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-261": {
     "player": "Pirate73357",
@@ -1365,15 +1675,17 @@
   },
   "log-262": {
     "player": "Pirate73357",
-    "action": "Attach 3 Don to Portgas D. Ace",
+    "action": "Attached 0 Don to OP07-119",
     "card": "OP07-119",
-    "total_don": 3
+    "total_don": 0
   },
   "log-263": {
     "player": "Pirate73357",
-    "action": "Portgas D. Ace attacking Benn Beckman",
-    "attacker": "OP07-119",
-    "defender": "OP09-009"
+    "action": "Attacking",
+    "attacker": "Eustass \"Captain\" Kid",
+    "attacker_id": "OP10-099",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-264": {
     "player": "System",
@@ -1390,33 +1702,35 @@
   },
   "log-266": {
     "player": "Pirate73357",
-    "action": "Attach 3 Don to Eustass \"Captain\" Kid",
+    "action": "Attached 0 Don to OP10-099",
     "card": "OP10-099",
-    "total_don": 3
+    "total_don": 0
   },
   "log-267": {
     "player": "Pirate73357",
-    "action": "Attach 2 Don to Eustass \"Captain\" Kid",
+    "action": "Attached 0 Don to OP10-099",
     "card": "OP10-099",
-    "total_don": 5
+    "total_don": 0
   },
   "log-268": {
     "player": "Pirate73357",
-    "action": "Attach 1 Don to Eustass \"Captain\" Kid",
+    "action": "Attached 0 Don to OP10-099",
     "card": "OP10-099",
-    "total_don": 6
+    "total_don": 0
   },
   "log-269": {
     "player": "Pirate73357",
-    "action": "Attach 1 Don to Eustass \"Captain\" Kid",
+    "action": "Attached 0 Don to OP10-099",
     "card": "OP10-099",
-    "total_don": 7
+    "total_don": 0
   },
   "log-270": {
     "player": "Pirate73357",
-    "action": "Eustass \"Captain\" Kid attacking Shanks",
-    "attacker": "OP10-099",
-    "defender": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Eustass \"Captain\" Kid",
+    "attacker_id": "OP10-099",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-271": {
     "player": "System",
@@ -1428,27 +1742,43 @@
   },
   "log-272": {
     "player": "Pirate26156",
-    "action": "Shanks hit for 1 damage",
-    "card": "OP09-001"
+    "action": "Damage taken by Pirate26156",
+    "damage": 1
   },
   "log-273": {
     "player": "Pirate73357",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-274": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP10-005", "OP09-015", "OP08-118", "OP09-011"]
+    "cards": [
+      "OP10-005",
+      "OP09-015",
+      "OP08-118",
+      "OP09-011"
+    ]
   },
   "log-275": {
     "player": "Pirate26156",
     "action": "Board state",
-    "cards": ["OP01-006", "OP01-006", "OP03-013"]
+    "cards": [
+      "OP01-006",
+      "OP01-006",
+      "OP03-013"
+    ]
   },
   "log-276": {
     "player": "Pirate26156",
     "action": "Trash state",
-    "cards": ["OP10-005", "ST21-014", "OP03-013", "OP09-014", "OP01-006", "OP09-009"]
+    "cards": [
+      "OP10-005",
+      "ST21-014",
+      "OP03-013",
+      "OP09-014",
+      "OP01-006",
+      "OP09-009"
+    ]
   },
   "log-277": {
     "player": "Pirate26156",
@@ -1458,17 +1788,35 @@
   "log-278": {
     "player": "Pirate73357",
     "action": "Hand state",
-    "cards": ["OP10-114"]
+    "cards": [
+      "OP10-114"
+    ]
   },
   "log-279": {
     "player": "Pirate73357",
     "action": "Trash state",
-    "cards": ["OP08-106", "OP06-115", "OP07-107", "OP08-106", "OP08-106", "OP10-119", "OP05-105", "OP07-107", "OP07-107", "OP10-111", "EB01-057", "OP10-108"]
+    "cards": [
+      "OP08-106",
+      "OP06-115",
+      "OP07-107",
+      "OP08-106",
+      "OP08-106",
+      "OP10-119",
+      "OP05-105",
+      "OP07-107",
+      "OP07-107",
+      "OP10-111",
+      "EB01-057",
+      "OP10-108"
+    ]
   },
   "log-280": {
     "player": "Pirate73357",
     "action": "Board state",
-    "cards": ["OP10-108", "OP07-119"]
+    "cards": [
+      "OP10-108",
+      "OP07-119"
+    ]
   },
   "log-281": {
     "player": "Pirate73357",
@@ -1482,11 +1830,11 @@
   },
   "log-283": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-284": {
     "player": "Pirate26156",
-    "action": "Deploy Silvers Rayleigh",
+    "action": "Played card",
     "card": "OP08-118"
   },
   "log-285": {
@@ -1512,15 +1860,17 @@
   },
   "log-288": {
     "player": "Pirate26156",
-    "action": "Attach 2 Don to Marco",
+    "action": "Attached 0 Don to OP03-013",
     "card": "OP03-013",
-    "total_don": 2
+    "total_don": 0
   },
   "log-289": {
     "player": "Pirate26156",
-    "action": "Marco attacking Portgas D. Ace",
-    "attacker": "OP03-013",
-    "defender": "OP07-119"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-290": {
     "player": "Pirate73357",
@@ -1541,9 +1891,11 @@
   },
   "log-293": {
     "player": "Pirate26156",
-    "action": "Shanks attacking Eustass \"Captain\" Kid",
-    "attacker": "OP09-001",
-    "defender": "OP10-099"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-294": {
     "player": "System",
@@ -1555,23 +1907,40 @@
   },
   "log-295": {
     "player": "Pirate73357",
-    "action": "Eustass \"Captain\" Kid hit for 1 damage",
-    "card": "OP10-099"
+    "action": "Damage taken by Pirate73357",
+    "damage": 1
   },
   "log-296": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP10-005", "OP09-015", "OP09-011", "OP08-118"]
+    "cards": [
+      "OP10-005",
+      "OP09-015",
+      "OP09-011",
+      "OP08-118"
+    ]
   },
   "log-297": {
     "player": "Pirate26156",
     "action": "Board state",
-    "cards": ["OP01-006", "OP01-006", "OP03-013", "OP08-118"]
+    "cards": [
+      "OP01-006",
+      "OP01-006",
+      "OP03-013",
+      "OP08-118"
+    ]
   },
   "log-298": {
     "player": "Pirate26156",
     "action": "Trash state",
-    "cards": ["OP10-005", "ST21-014", "OP03-013", "OP09-014", "OP01-006", "OP09-009"]
+    "cards": [
+      "OP10-005",
+      "ST21-014",
+      "OP03-013",
+      "OP09-014",
+      "OP01-006",
+      "OP09-009"
+    ]
   },
   "log-299": {
     "player": "Pirate26156",
@@ -1581,17 +1950,36 @@
   "log-300": {
     "player": "Pirate73357",
     "action": "Hand state",
-    "cards": ["OP10-112"]
+    "cards": [
+      "OP10-112"
+    ]
   },
   "log-301": {
     "player": "Pirate73357",
     "action": "Trash state",
-    "cards": ["OP08-106", "OP06-115", "OP07-107", "OP08-106", "OP08-106", "OP10-119", "OP05-105", "OP07-107", "OP07-107", "OP10-111", "EB01-057", "OP10-108", "OP10-108", "OP10-114"]
+    "cards": [
+      "OP08-106",
+      "OP06-115",
+      "OP07-107",
+      "OP08-106",
+      "OP08-106",
+      "OP10-119",
+      "OP05-105",
+      "OP07-107",
+      "OP07-107",
+      "OP10-111",
+      "EB01-057",
+      "OP10-108",
+      "OP10-108",
+      "OP10-114"
+    ]
   },
   "log-302": {
     "player": "Pirate73357",
     "action": "Board state",
-    "cards": ["OP07-119"]
+    "cards": [
+      "OP07-119"
+    ]
   },
   "log-303": {
     "player": "Pirate73357",
@@ -1600,11 +1988,11 @@
   },
   "log-304": {
     "player": "Pirate26156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-305": {
     "player": "Pirate73357",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-306": {
     "player": "Pirate73357",
@@ -1613,15 +2001,17 @@
   },
   "log-307": {
     "player": "Pirate73357",
-    "action": "Attach 2 Don to Eustass \"Captain\" Kid",
+    "action": "Attached 0 Don to OP10-099",
     "card": "OP10-099",
-    "total_don": 2
+    "total_don": 0
   },
   "log-308": {
     "player": "Pirate73357",
-    "action": "Eustass \"Captain\" Kid attacking Marco",
-    "attacker": "OP10-099",
-    "defender": "OP03-013"
+    "action": "Attacking",
+    "attacker": "Eustass \"Captain\" Kid",
+    "attacker_id": "OP10-099",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-309": {
     "player": "System",
@@ -1638,7 +2028,7 @@
   },
   "log-311": {
     "player": "Pirate73357",
-    "action": "Deploy Eustass \"Captain\" Kid",
+    "action": "Played card",
     "card": "OP10-112"
   },
   "log-312": {
@@ -1699,22 +2089,40 @@
   },
   "log-321": {
     "player": "Pirate73357",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-322": {
     "player": "Pirate26156",
     "action": "Hand state",
-    "cards": ["OP10-005", "OP09-015", "OP09-011", "OP08-118"]
+    "cards": [
+      "OP10-005",
+      "OP09-015",
+      "OP09-011",
+      "OP08-118"
+    ]
   },
   "log-323": {
     "player": "Pirate26156",
     "action": "Board state",
-    "cards": ["OP01-006", "OP01-006", "OP08-118"]
+    "cards": [
+      "OP01-006",
+      "OP01-006",
+      "OP08-118"
+    ]
   },
   "log-324": {
     "player": "Pirate26156",
     "action": "Trash state",
-    "cards": ["OP10-005", "ST21-014", "OP03-013", "OP09-014", "OP01-006", "OP09-009", "OP03-013", "OP03-013"]
+    "cards": [
+      "OP10-005",
+      "ST21-014",
+      "OP03-013",
+      "OP09-014",
+      "OP01-006",
+      "OP09-009",
+      "OP03-013",
+      "OP03-013"
+    ]
   },
   "log-325": {
     "player": "Pirate26156",
@@ -1724,17 +2132,38 @@
   "log-326": {
     "player": "Pirate73357",
     "action": "Hand state",
-    "cards": ["OP08-106"]
+    "cards": [
+      "OP08-106"
+    ]
   },
   "log-327": {
     "player": "Pirate73357",
     "action": "Trash state",
-    "cards": ["OP08-106", "OP06-115", "OP07-107", "OP08-106", "OP08-106", "OP10-119", "OP05-105", "OP07-107", "OP07-107", "OP10-111", "EB01-057", "OP10-108", "OP10-108", "OP10-114", "OP10-108"]
+    "cards": [
+      "OP08-106",
+      "OP06-115",
+      "OP07-107",
+      "OP08-106",
+      "OP08-106",
+      "OP10-119",
+      "OP05-105",
+      "OP07-107",
+      "OP07-107",
+      "OP10-111",
+      "EB01-057",
+      "OP10-108",
+      "OP10-108",
+      "OP10-114",
+      "OP10-108"
+    ]
   },
   "log-328": {
     "player": "Pirate73357",
     "action": "Board state",
-    "cards": ["OP07-119", "OP10-112"]
+    "cards": [
+      "OP07-119",
+      "OP10-112"
+    ]
   },
   "log-329": {
     "player": "Pirate73357",
@@ -1748,11 +2177,11 @@
   },
   "log-331": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-332": {
     "player": "Pirate26156",
-    "action": "Deploy Monkey D. Dragon",
+    "action": "Played card",
     "card": "OP07-015"
   },
   "log-333": {
@@ -1771,21 +2200,23 @@
   },
   "log-335": {
     "player": "Pirate26156",
-    "action": "Attach 1 Don to Silvers Rayleigh",
+    "action": "Attached 0 Don to OP08-118",
     "card": "OP08-118",
-    "total_don": 1
+    "total_don": 0
   },
   "log-336": {
     "player": "Pirate26156",
-    "action": "Attach 1 Don to Monkey D. Dragon",
+    "action": "Attached 0 Don to OP07-015",
     "card": "OP07-015",
-    "total_don": 1
+    "total_don": 0
   },
   "log-337": {
     "player": "Pirate26156",
-    "action": "Shanks attacking Eustass \"Captain\" Kid",
-    "attacker": "OP09-001",
-    "defender": "OP10-099"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-338": {
     "player": "Pirate73357",
@@ -1806,9 +2237,11 @@
   },
   "log-341": {
     "player": "Pirate26156",
-    "action": "Silvers Rayleigh attacking Eustass \"Captain\" Kid",
-    "attacker": "OP08-118",
-    "defender": "OP10-099"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-342": {
     "player": "System",
@@ -1820,14 +2253,16 @@
   },
   "log-343": {
     "player": "Pirate73357",
-    "action": "Eustass \"Captain\" Kid hit for 1 damage",
-    "card": "OP10-099"
+    "action": "Damage taken by Pirate73357",
+    "damage": 1
   },
   "log-344": {
     "player": "Pirate26156",
-    "action": "Monkey D. Dragon attacking Eustass \"Captain\" Kid",
-    "attacker": "OP07-015",
-    "defender": "OP10-099"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Eustass \"Captain\" Kid",
+    "defender_id": "OP10-099"
   },
   "log-345": {
     "player": "System",
@@ -1839,8 +2274,8 @@
   },
   "log-346": {
     "player": "Pirate73357",
-    "action": "Eustass \"Captain\" Kid hit for 1 damage",
-    "card": "OP10-099"
+    "action": "Damage taken by Pirate73357",
+    "damage": 1
   },
   "log-347": {
     "player": "Pirate73357",

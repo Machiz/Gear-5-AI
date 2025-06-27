@@ -116,7 +116,7 @@
   },
   "log-022": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP06-035",
       "EB01-012",
@@ -127,22 +127,22 @@
   },
   "log-023": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-024": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-025": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-026": {
     "player": "Practice",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-006",
       "OP01-016",
@@ -153,18 +153,18 @@
   },
   "log-027": {
     "player": "Practice",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-028": {
     "player": "Practice",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-029": {
     "player": "Practice",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-030": {
     "player": "Pirate65394",
@@ -172,11 +172,11 @@
   },
   "log-031": {
     "player": "Pirate65394",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-032": {
     "player": "Practice",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-033": {
     "player": "Practice",
@@ -189,31 +189,29 @@
   },
   "log-035": {
     "player": "Practice",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP01-016"
   },
   "log-036": {
     "player": "Practice",
-    "action": "Reveal and Draw",
-    "card": "ST21-017"
+    "action": "Reveal and Draw"
   },
   "log-037": {
     "player": "Practice",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP01-016"
   },
   "log-038": {
     "player": "Practice",
-    "action": "Reveal and Draw",
-    "card": "ST21-014"
+    "action": "Reveal and Draw"
   },
   "log-039": {
     "player": "Practice",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-040": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP06-035",
       "EB01-012",
@@ -224,22 +222,22 @@
   },
   "log-041": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-042": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-043": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-044": {
     "player": "Practice",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-006",
       "ST01-006",
@@ -251,12 +249,12 @@
   },
   "log-045": {
     "player": "Practice",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-046": {
     "player": "Practice",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP01-016",
       "OP01-016"
@@ -264,8 +262,8 @@
   },
   "log-047": {
     "player": "Practice",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-048": {
     "player": "Pirate65394",
@@ -274,7 +272,7 @@
   },
   "log-049": {
     "player": "Pirate65394",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-050": {
     "player": "Pirate65394",
@@ -282,12 +280,12 @@
   },
   "log-051": {
     "player": "Pirate65394",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP01-039"
   },
   "log-052": {
     "player": "Pirate65394",
-    "action": "Leader attacking",
+    "action": "Attacking",
     "attacker": "Jewelry Bonney",
     "attacker_id": "OP07-019",
     "defender": "Roronoa Zoro",
@@ -305,7 +303,7 @@
   },
   "log-055": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP06-035",
       "EB01-012",
@@ -316,24 +314,24 @@
   },
   "log-056": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP01-039"
     ]
   },
   "log-057": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-058": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-059": {
     "player": "Practice",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-006",
       "ST01-006",
@@ -344,14 +342,14 @@
   },
   "log-060": {
     "player": "Practice",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP04-009"
     ]
   },
   "log-061": {
     "player": "Practice",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP01-016",
       "OP01-016"
@@ -359,16 +357,16 @@
   },
   "log-062": {
     "player": "Practice",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-063": {
     "player": "Pirate65394",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-064": {
     "player": "Practice",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-065": {
     "player": "Practice",
@@ -381,13 +379,13 @@
   },
   "log-067": {
     "player": "Practice",
-    "action": "Attach 1 Don to",
+    "action": "Attached 0 Don to OP01-001",
     "card": "OP01-001",
-    "total_don": 1
+    "total_don": 0
   },
   "log-068": {
     "player": "Practice",
-    "action": "Leader attacking",
+    "action": "Attacking",
     "attacker": "Roronoa Zoro",
     "attacker_id": "OP01-001",
     "defender": "Jewelry Bonney",
@@ -418,7 +416,7 @@
   },
   "log-073": {
     "player": "Practice",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP08-007"
   },
   "log-074": {
@@ -427,11 +425,11 @@
   },
   "log-075": {
     "player": "Practice",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-076": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP06-035",
       "OP05-030",
@@ -440,14 +438,14 @@
   },
   "log-077": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP01-039"
     ]
   },
   "log-078": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "EB01-012",
       "ST02-008"
@@ -455,12 +453,12 @@
   },
   "log-079": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-080": {
     "player": "Practice",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-006",
       "ST01-006",
@@ -471,14 +469,14 @@
   },
   "log-081": {
     "player": "Practice",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP04-009"
     ]
   },
   "log-082": {
     "player": "Practice",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP01-016",
       "OP01-016",
@@ -488,8 +486,8 @@
   },
   "log-083": {
     "player": "Practice",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-084": {
     "player": "Pirate65394",
@@ -498,7 +496,7 @@
   },
   "log-085": {
     "player": "Pirate65394",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-086": {
     "player": "Pirate65394",
@@ -506,7 +504,7 @@
   },
   "log-087": {
     "player": "Pirate65394",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "EB01-015"
   },
   "log-088": {
@@ -518,12 +516,12 @@
   },
   "log-089": {
     "player": "Pirate65394",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP05-030"
   },
   "log-090": {
     "player": "Pirate65394",
-    "action": "Leader attacking",
+    "action": "Attacking",
     "attacker": "Jewelry Bonney",
     "attacker_id": "OP07-019",
     "defender": "Roronoa Zoro",
@@ -531,11 +529,12 @@
   },
   "log-091": {
     "player": "Pirate65394",
-    "action": "Roronoa Zoro hit for 1 damage"
+    "action": "Damage taken by Pirate65394",
+    "damage": 1
   },
   "log-092": {
     "player": "Pirate65394",
-    "action": "Character attacking",
+    "action": "Attacking",
     "attacker": "Killer",
     "attacker_id": "OP01-039",
     "defender": "Nami",
@@ -548,7 +547,7 @@
   },
   "log-094": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP06-035",
       "EB01-012"
@@ -556,7 +555,7 @@
   },
   "log-095": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP01-039",
       "EB01-015",
@@ -565,7 +564,7 @@
   },
   "log-096": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "EB01-012",
       "ST02-008"
@@ -573,12 +572,12 @@
   },
   "log-097": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-098": {
     "player": "Practice",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-006",
       "ST01-006",
@@ -590,7 +589,7 @@
   },
   "log-099": {
     "player": "Practice",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP04-009",
       "OP01-016"
@@ -598,7 +597,7 @@
   },
   "log-100": {
     "player": "Practice",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP01-016",
       "OP08-007",
@@ -607,16 +606,16 @@
   },
   "log-101": {
     "player": "Practice",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-102": {
     "player": "Pirate65394",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-103": {
     "player": "Practice",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-104": {
     "player": "Practice",
@@ -629,7 +628,7 @@
   },
   "log-106": {
     "player": "Practice",
-    "action": "Character attacking",
+    "action": "Attacking",
     "attacker": "Tony Tony Chopper",
     "attacker_id": "OP08-007",
     "defender": "Killer",
@@ -654,7 +653,7 @@
   },
   "log-110": {
     "player": "Practice",
-    "action": "Character attacking",
+    "action": "Attacking",
     "attacker": "Nami",
     "attacker_id": "OP01-016",
     "defender": "Killer",
@@ -672,12 +671,12 @@
   },
   "log-113": {
     "player": "Practice",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "ST21-014"
   },
   "log-114": {
     "player": "Practice",
-    "action": "Character attacking",
+    "action": "Attacking",
     "attacker": "Monkey D. Luffy",
     "attacker_id": "ST21-014",
     "defender": "Jewelry Bonney",
@@ -692,12 +691,12 @@
   },
   "log-116": {
     "player": "Pirate65394",
-    "action": "Jewelry Bonney hit for 1 damage",
-    "card": "OP07-019"
+    "action": "Damage taken by Pirate65394",
+    "damage": 1
   },
   "log-117": {
     "player": "Practice",
-    "action": "Leader attacking",
+    "action": "Attacking",
     "attacker": "Roronoa Zoro",
     "attacker_id": "OP01-001",
     "defender": "Killer",
@@ -710,18 +709,19 @@
   },
   "log-119": {
     "player": "Practice",
-    "action": "Trash",
-    "card": "OP01-016"
+    "action": "Trash state",
+    "cards": [
+      "OP01-016"
+    ]
   },
   "log-120": {
     "player": "Practice",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP08-015"
   },
   "log-121": {
     "player": "Practice",
-    "action": "Reveal and Draw",
-    "card": "EB01-009"
+    "action": "Reveal and Draw"
   },
   "log-122": {
     "player": "Practice",
@@ -729,11 +729,11 @@
   },
   "log-123": {
     "player": "Practice",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-124": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP06-035",
       "OP05-030"
@@ -741,14 +741,14 @@
   },
   "log-125": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "EB01-015"
     ]
   },
   "log-126": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "EB01-012",
       "ST02-008",
@@ -759,12 +759,12 @@
   },
   "log-127": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-128": {
     "player": "Practice",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-006",
       "ST01-006",
@@ -776,7 +776,7 @@
   },
   "log-129": {
     "player": "Practice",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP04-009",
       "OP01-016",
@@ -785,7 +785,7 @@
   },
   "log-130": {
     "player": "Practice",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-007",
       "OP08-013",
@@ -796,8 +796,8 @@
   },
   "log-131": {
     "player": "Practice",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-132": {
     "player": "Pirate65394",
@@ -806,7 +806,7 @@
   },
   "log-133": {
     "player": "Pirate65394",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-134": {
     "player": "Pirate65394",
@@ -814,12 +814,12 @@
   },
   "log-135": {
     "player": "Pirate65394",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP05-030"
   },
   "log-136": {
     "player": "Pirate65394",
-    "action": "Leader attacking",
+    "action": "Attacking",
     "attacker": "Jewelry Bonney",
     "attacker_id": "OP07-019",
     "defender": "Tony Tony Chopper",
@@ -837,19 +837,19 @@
   },
   "log-139": {
     "player": "Pirate65394",
-    "action": "Attach 1 Don to",
+    "action": "Attached 0 Don to EB01-015",
     "card": "EB01-015",
-    "total_don": 1
+    "total_don": 0
   },
   "log-140": {
     "player": "Pirate65394",
-    "action": "Attach 4 Don to",
+    "action": "Attached 0 Don to EB01-015",
     "card": "EB01-015",
-    "total_don": 5
+    "total_don": 0
   },
   "log-141": {
     "player": "Pirate65394",
-    "action": "Character attacking",
+    "action": "Attacking",
     "attacker": "Scratchmen Apoo",
     "attacker_id": "EB01-015",
     "defender": "Roronoa Zoro",
@@ -867,7 +867,7 @@
   },
   "log-144": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP06-035",
       "EB01-015"
@@ -875,7 +875,7 @@
   },
   "log-145": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "EB01-015",
       "OP05-030"
@@ -883,7 +883,7 @@
   },
   "log-146": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "EB01-012",
       "ST02-008",
@@ -894,12 +894,12 @@
   },
   "log-147": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-148": {
     "player": "Practice",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-006",
       "ST01-006",
@@ -909,7 +909,7 @@
   },
   "log-149": {
     "player": "Practice",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP04-009",
       "OP01-016",
@@ -920,7 +920,7 @@
   },
   "log-150": {
     "player": "Practice",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-007",
       "OP08-013",
@@ -931,16 +931,16 @@
   },
   "log-151": {
     "player": "Practice",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-152": {
     "player": "Pirate65394",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-153": {
     "player": "Practice",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-154": {
     "player": "Practice",
@@ -953,7 +953,7 @@
   },
   "log-156": {
     "player": "Practice",
-    "action": "Character attacking",
+    "action": "Attacking",
     "attacker": "Tony Tony Chopper",
     "attacker_id": "OP08-007",
     "defender": "Scratchmen Apoo",
@@ -961,8 +961,10 @@
   },
   "log-157": {
     "player": "Practice",
-    "action": "Trash",
-    "card": "OP08-015"
+    "action": "Trash state",
+    "cards": [
+      "OP08-015"
+    ]
   },
   "log-158": {
     "player": "Practice",
@@ -980,13 +982,13 @@
   },
   "log-161": {
     "player": "Practice",
-    "action": "Attach 1 Don to",
+    "action": "Attached 0 Don to OP01-001",
     "card": "OP01-001",
-    "total_don": 1
+    "total_don": 0
   },
   "log-162": {
     "player": "Practice",
-    "action": "Character attacking",
+    "action": "Attacking",
     "attacker": "Robson",
     "attacker_id": "OP08-013",
     "defender": "Scratchmen Apoo",
@@ -999,17 +1001,19 @@
   },
   "log-164": {
     "player": "Practice",
-    "action": "Trash",
-    "card": "EB02-003"
+    "action": "Trash state",
+    "cards": [
+      "EB02-003"
+    ]
   },
   "log-165": {
     "player": "Practice",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "EB01-006"
   },
   "log-166": {
     "player": "Practice",
-    "action": "Character attacking",
+    "action": "Attacking",
     "attacker": "Monkey D. Luffy",
     "attacker_id": "ST21-014",
     "defender": "Jewelry Bonney",
@@ -1024,18 +1028,18 @@
   },
   "log-168": {
     "player": "Pirate65394",
-    "action": "Jewelry Bonney hit for 1 damage",
-    "card": "OP07-019"
+    "action": "Damage taken by Pirate65394",
+    "damage": 1
   },
   "log-169": {
     "player": "Practice",
-    "action": "Attach 2 Don to",
+    "action": "Attached 0 Don to EB01-006",
     "card": "EB01-006",
-    "total_don": 2
+    "total_don": 0
   },
   "log-170": {
     "player": "Practice",
-    "action": "Character attacking",
+    "action": "Attacking",
     "attacker": "Tony Tony Chopper",
     "attacker_id": "EB01-006",
     "defender": "Jewelry Bonney",
@@ -1043,18 +1047,18 @@
   },
   "log-171": {
     "player": "Pirate65394",
-    "action": "Jewelry Bonney hit for 1 damage",
-    "card": "OP07-019"
+    "action": "Damage taken by Pirate65394",
+    "damage": 1
   },
   "log-172": {
     "player": "Practice",
-    "action": "Attach 2 Don to",
+    "action": "Attached 0 Don to OP01-001",
     "card": "OP01-001",
-    "total_don": 4
+    "total_don": 0
   },
   "log-173": {
     "player": "Practice",
-    "action": "Leader attacking",
+    "action": "Attacking",
     "attacker": "Roronoa Zoro",
     "attacker_id": "OP01-001",
     "defender": "Jewelry Bonney",
@@ -1062,16 +1066,16 @@
   },
   "log-174": {
     "player": "Pirate65394",
-    "action": "Jewelry Bonney hit for 1 damage",
-    "card": "OP07-019"
+    "action": "Damage taken by Pirate65394",
+    "damage": 1
   },
   "log-175": {
     "player": "Practice",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-176": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP06-035",
       "EB01-015",
@@ -1082,12 +1086,12 @@
   },
   "log-177": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-178": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "EB01-012",
       "ST02-008",
@@ -1100,12 +1104,12 @@
   },
   "log-179": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 1
+    "action": "Life state",
+    "life": 1
   },
   "log-180": {
     "player": "Practice",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST01-006",
       "ST21-017",
@@ -1115,7 +1119,7 @@
   },
   "log-181": {
     "player": "Practice",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP04-009",
       "OP01-016",
@@ -1128,7 +1132,7 @@
   },
   "log-182": {
     "player": "Practice",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-007",
       "OP08-013",
@@ -1139,8 +1143,8 @@
   },
   "log-183": {
     "player": "Practice",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-184": {
     "player": "Pirate65394",
@@ -1149,7 +1153,7 @@
   },
   "log-185": {
     "player": "Pirate65394",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-186": {
     "player": "Pirate65394",
@@ -1157,7 +1161,7 @@
   },
   "log-187": {
     "player": "Pirate65394",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "EB01-015"
   },
   "log-188": {

@@ -1,0 +1,2630 @@
+{
+  "log-001": {
+    "id": "log-001",
+    "player": "System",
+    "action": "System message",
+    "text": "Waiting for a Connection with Room ID:JK888P"
+  },
+  "log-002": {
+    "id": "log-002",
+    "player": "Mhcuber",
+    "action": "Connected"
+  },
+  "log-003": {
+    "id": "log-003",
+    "player": "System",
+    "action": "Version is 1.30b"
+  },
+  "log-004": {
+    "id": "log-004",
+    "player": "Mhcuber",
+    "action": "Leader is",
+    "card": "<mark><link=\"OP05-060\">OP05-060</link></mark>"
+  },
+  "log-005": {
+    "id": "log-005",
+    "player": "EDUDD",
+    "action": "Connected"
+  },
+  "log-006": {
+    "id": "log-006",
+    "player": "System",
+    "action": "Version is 1.30b"
+  },
+  "log-007": {
+    "id": "log-007",
+    "player": "EDUDD",
+    "action": "Leader is",
+    "card": "<mark><link=\"OP09-042\">OP09-042</link></mark>"
+  },
+  "log-008": {
+    "id": "log-008",
+    "player": "EDUDD",
+    "action": "Chose to go First"
+  },
+  "log-009": {
+    "id": "log-009",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST25-004\">ST25-004</link></mark>"
+  },
+  "log-010": {
+    "id": "log-010",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST25-004\">ST25-004</link></mark>"
+  },
+  "log-011": {
+    "id": "log-011",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP09-046\">OP09-046</link></mark>"
+  },
+  "log-012": {
+    "id": "log-012",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST25-005\">ST25-005</link></mark>"
+  },
+  "log-013": {
+    "id": "log-013",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP06-047\">OP06-047</link></mark>"
+  },
+  "log-014": {
+    "id": "log-014",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP11-067\">OP11-067</link></mark>"
+  },
+  "log-015": {
+    "id": "log-015",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST18-004\">ST18-004</link></mark>"
+  },
+  "log-016": {
+    "id": "log-016",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST18-003\">ST18-003</link></mark>"
+  },
+  "log-017": {
+    "id": "log-017",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP05-077\">OP05-077</link></mark>"
+  },
+  "log-018": {
+    "id": "log-018",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP11-067\">OP11-067</link></mark>"
+  },
+  "log-019": {
+    "id": "log-019",
+    "player": "System",
+    "action": "System message",
+    "text": "[Mhcuber] Hand before Mulligan: [OP11-067,ST18-004,ST18-003,OP05-077,OP11-067]"
+  },
+  "log-020": {
+    "id": "log-020",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP09-051\">OP09-051</link></mark>"
+  },
+  "log-021": {
+    "id": "log-021",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP09-056\">OP09-056</link></mark>"
+  },
+  "log-022": {
+    "id": "log-022",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST25-001\">ST25-001</link></mark>"
+  },
+  "log-023": {
+    "id": "log-023",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP03-056\">OP03-056</link></mark>"
+  },
+  "log-024": {
+    "id": "log-024",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"EB01-027\">EB01-027</link></mark>"
+  },
+  "log-025": {
+    "id": "log-025",
+    "player": "EDUDD",
+    "action": "Mulligan"
+  },
+  "log-026": {
+    "id": "log-026",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST18-001\">ST18-001</link></mark>"
+  },
+  "log-027": {
+    "id": "log-027",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST18-003\">ST18-003</link></mark>"
+  },
+  "log-028": {
+    "id": "log-028",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP09-078\">OP09-078</link></mark>"
+  },
+  "log-029": {
+    "id": "log-029",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST18-001\">ST18-001</link></mark>"
+  },
+  "log-030": {
+    "id": "log-030",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST18-003\">ST18-003</link></mark>"
+  },
+  "log-031": {
+    "id": "log-031",
+    "player": "System",
+    "action": "System message",
+    "text": "[Mhcuber] Hand after Mulligan: [ST18-001,ST18-003,OP09-078,ST18-001,ST18-003]"
+  },
+  "log-032": {
+    "id": "log-032",
+    "player": "Mhcuber",
+    "action": "Mulligan"
+  },
+  "log-033": {
+    "id": "log-033",
+    "player": "EDUDD",
+    "action": "Draw 1 Don"
+  },
+  "log-034": {
+    "id": "log-034",
+    "player": "EDUDD",
+    "action": "Deploy",
+    "card": "OP09-056"
+  },
+  "log-035": {
+    "id": "log-035",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] <b>Reveal and Draw Crocodile [<mark><link=\"OP09-046\">OP09-046</link></mark>]</b>"
+  },
+  "log-036": {
+    "id": "log-036",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Placing Cards on Bottom of Deck"
+  },
+  "log-037": {
+    "id": "log-037",
+    "player": "EDUDD",
+    "action": "End Turn"
+  },
+  "log-038": {
+    "id": "log-038",
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "ST18-001",
+      "ST18-003",
+      "OP09-078",
+      "ST18-001",
+      "ST18-003"
+    ]
+  },
+  "log-039": {
+    "id": "log-039",
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-040": {
+    "id": "log-040",
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-041": {
+    "id": "log-041",
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-042": {
+    "id": "log-042",
+    "player": "EDUDD",
+    "action": "Hand state",
+    "cards": [
+      "OP09-051",
+      "ST25-001",
+      "OP03-056",
+      "EB01-027",
+      "OP09-046"
+    ]
+  },
+  "log-043": {
+    "id": "log-043",
+    "player": "EDUDD",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-044": {
+    "id": "log-044",
+    "player": "EDUDD",
+    "action": "Board state",
+    "cards": [
+      "OP09-056"
+    ]
+  },
+  "log-045": {
+    "id": "log-045",
+    "player": "EDUDD",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-046": {
+    "id": "log-046",
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-047": {
+    "id": "log-047",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP05-070\">OP05-070</link></mark>"
+  },
+  "log-048": {
+    "id": "log-048",
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-049": {
+    "id": "log-049",
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "ST18-001",
+      "ST18-003",
+      "OP09-078",
+      "ST18-001",
+      "ST18-003",
+      "OP05-070"
+    ]
+  },
+  "log-050": {
+    "id": "log-050",
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-051": {
+    "id": "log-051",
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-052": {
+    "id": "log-052",
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-053": {
+    "id": "log-053",
+    "player": "EDUDD",
+    "action": "Hand state",
+    "cards": [
+      "OP09-051",
+      "ST25-001",
+      "OP03-056",
+      "EB01-027",
+      "OP09-046"
+    ]
+  },
+  "log-054": {
+    "id": "log-054",
+    "player": "EDUDD",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-055": {
+    "id": "log-055",
+    "player": "EDUDD",
+    "action": "Board state",
+    "cards": [
+      "OP09-056"
+    ]
+  },
+  "log-056": {
+    "id": "log-056",
+    "player": "EDUDD",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-057": {
+    "id": "log-057",
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-058": {
+    "id": "log-058",
+    "player": "EDUDD",
+    "action": "Draw 1 Card"
+  },
+  "log-059": {
+    "id": "log-059",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST25-001\">ST25-001</link></mark>"
+  },
+  "log-060": {
+    "id": "log-060",
+    "player": "EDUDD",
+    "action": "Draw 2 Don"
+  },
+  "log-061": {
+    "id": "log-061",
+    "player": "EDUDD",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Buggy",
+      "card": "OP09-042"
+    },
+    "target": {
+      "name": "Monkey D. Luffy",
+      "card": "OP05-060"
+    }
+  },
+  "log-062": {
+    "id": "log-062",
+    "player": "Mhcuber",
+    "action": "Discard for counter",
+    "card": "ST18-003",
+    "value": 1000
+  },
+  "log-063": {
+    "id": "log-063",
+    "player": "System",
+    "action": "System message",
+    "text": "Buggy [<mark><link=\"OP09-042\">OP09-042</link></mark>][5000] vs Monkey D. Luffy [<mark><link=\"OP05-060\">OP05-060</link></mark>][6000]"
+  },
+  "log-064": {
+    "id": "log-064",
+    "player": "System",
+    "action": "System message",
+    "text": "Attack Fails"
+  },
+  "log-065": {
+    "id": "log-065",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Sanji's Pilaf [<mark><link=\"OP03-056\">OP03-056</link></mark>]: Draw 2 Card"
+  },
+  "log-066": {
+    "id": "log-066",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST25-002\">ST25-002</link></mark>"
+  },
+  "log-067": {
+    "id": "log-067",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST25-001\">ST25-001</link></mark>"
+  },
+  "log-068": {
+    "id": "log-068",
+    "player": "EDUDD",
+    "action": "End Turn"
+  },
+  "log-069": {
+    "id": "log-069",
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "ST18-001",
+      "ST18-003",
+      "OP09-078",
+      "ST18-001",
+      "OP05-070"
+    ]
+  },
+  "log-070": {
+    "id": "log-070",
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-071": {
+    "id": "log-071",
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "ST18-003"
+    ]
+  },
+  "log-072": {
+    "id": "log-072",
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-073": {
+    "id": "log-073",
+    "player": "EDUDD",
+    "action": "Hand state",
+    "cards": [
+      "OP09-051",
+      "ST25-001",
+      "EB01-027",
+      "OP09-046",
+      "ST25-001",
+      "ST25-002",
+      "ST25-001"
+    ]
+  },
+  "log-074": {
+    "id": "log-074",
+    "player": "EDUDD",
+    "action": "Trash state",
+    "cards": [
+      "OP03-056"
+    ]
+  },
+  "log-075": {
+    "id": "log-075",
+    "player": "EDUDD",
+    "action": "Board state",
+    "cards": [
+      "OP09-056"
+    ]
+  },
+  "log-076": {
+    "id": "log-076",
+    "player": "EDUDD",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-077": {
+    "id": "log-077",
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-078": {
+    "id": "log-078",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP05-077\">OP05-077</link></mark>"
+  },
+  "log-079": {
+    "id": "log-079",
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-080": {
+    "id": "log-080",
+    "player": "Mhcuber",
+    "action": "Loses 1 Life"
+  },
+  "log-081": {
+    "id": "log-081",
+    "player": "System",
+    "action": "System message",
+    "text": "Monkey D. Luffy [<mark><link=\"OP05-060\">OP05-060</link></mark>]: Draw 1 Don"
+  },
+  "log-082": {
+    "id": "log-082",
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "ST18-003"
+  },
+  "log-083": {
+    "id": "log-083",
+    "player": "Mhcuber",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Monkey D. Luffy",
+      "card": "OP05-060"
+    },
+    "target": {
+      "name": "Buggy",
+      "card": "OP09-042"
+    }
+  },
+  "log-084": {
+    "id": "log-084",
+    "player": "System",
+    "action": "System message",
+    "text": "Monkey D. Luffy [<mark><link=\"OP05-060\">OP05-060</link></mark>][5000] vs Buggy [<mark><link=\"OP09-042\">OP09-042</link></mark>][5000]"
+  },
+  "log-085": {
+    "id": "log-085",
+    "player": "System",
+    "action": "Damage dealt",
+    "card": "OP09-042"
+  },
+  "log-086": {
+    "id": "log-086",
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "ST18-001",
+      "OP09-078",
+      "ST18-001",
+      "OP05-070",
+      "OP05-077",
+      "OP06-076"
+    ]
+  },
+  "log-087": {
+    "id": "log-087",
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-003"
+    ]
+  },
+  "log-088": {
+    "id": "log-088",
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "ST18-003"
+    ]
+  },
+  "log-089": {
+    "id": "log-089",
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-090": {
+    "id": "log-090",
+    "player": "EDUDD",
+    "action": "Hand state",
+    "cards": [
+      "OP09-051",
+      "ST25-001",
+      "EB01-027",
+      "OP09-046",
+      "ST25-001",
+      "ST25-002",
+      "ST25-001",
+      "P-084"
+    ]
+  },
+  "log-091": {
+    "id": "log-091",
+    "player": "EDUDD",
+    "action": "Trash state",
+    "cards": [
+      "OP03-056"
+    ]
+  },
+  "log-092": {
+    "id": "log-092",
+    "player": "EDUDD",
+    "action": "Board state",
+    "cards": [
+      "OP09-056"
+    ]
+  },
+  "log-093": {
+    "id": "log-093",
+    "player": "EDUDD",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-094": {
+    "id": "log-094",
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-095": {
+    "id": "log-095",
+    "player": "EDUDD",
+    "action": "Draw 1 Card"
+  },
+  "log-096": {
+    "id": "log-096",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST25-001\">ST25-001</link></mark>"
+  },
+  "log-097": {
+    "id": "log-097",
+    "player": "EDUDD",
+    "action": "Draw 2 Don"
+  },
+  "log-098": {
+    "id": "log-098",
+    "player": "EDUDD",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Buggy",
+      "card": "OP09-042"
+    },
+    "target": {
+      "name": "Monkey D. Luffy",
+      "card": "OP05-060"
+    }
+  },
+  "log-099": {
+    "id": "log-099",
+    "player": "System",
+    "action": "System message",
+    "text": "Buggy [<mark><link=\"OP09-042\">OP09-042</link></mark>][5000] vs Monkey D. Luffy [<mark><link=\"OP05-060\">OP05-060</link></mark>][5000]"
+  },
+  "log-100": {
+    "id": "log-100",
+    "player": "System",
+    "action": "Damage dealt",
+    "card": "OP05-060"
+  },
+  "log-101": {
+    "id": "log-101",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Buggy [<mark><link=\"OP09-042\">OP09-042</link></mark>]: Trash Buggy [<mark><link=\"P-084\">P-084</link></mark>]"
+  },
+  "log-102": {
+    "id": "log-102",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Mr. 1 (Daz Bonez) [<mark><link=\"EB01-027\">EB01-027</link></mark>]: Draw 2 Card"
+  },
+  "log-103": {
+    "id": "log-103",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST25-002\">ST25-002</link></mark>"
+  },
+  "log-104": {
+    "id": "log-104",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP03-056\">OP03-056</link></mark>"
+  },
+  "log-105": {
+    "id": "log-105",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Trash Sanji's Pilaf [<mark><link=\"OP03-056\">OP03-056</link></mark>]"
+  },
+  "log-106": {
+    "id": "log-106",
+    "player": "EDUDD",
+    "action": "End Turn"
+  },
+  "log-107": {
+    "id": "log-107",
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "ST18-001",
+      "OP09-078",
+      "ST18-001",
+      "OP05-070",
+      "OP05-077",
+      "OP06-076",
+      "OP09-078"
+    ]
+  },
+  "log-108": {
+    "id": "log-108",
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-003"
+    ]
+  },
+  "log-109": {
+    "id": "log-109",
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "ST18-003"
+    ]
+  },
+  "log-110": {
+    "id": "log-110",
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-111": {
+    "id": "log-111",
+    "player": "EDUDD",
+    "action": "Hand state",
+    "cards": [
+      "OP09-051",
+      "ST25-001",
+      "ST25-001",
+      "ST25-002",
+      "ST25-001",
+      "ST25-001",
+      "ST25-002"
+    ]
+  },
+  "log-112": {
+    "id": "log-112",
+    "player": "EDUDD",
+    "action": "Trash state",
+    "cards": [
+      "OP03-056",
+      "P-084",
+      "OP03-056"
+    ]
+  },
+  "log-113": {
+    "id": "log-113",
+    "player": "EDUDD",
+    "action": "Board state",
+    "cards": [
+      "OP09-056",
+      "OP09-046",
+      "EB01-027"
+    ]
+  },
+  "log-114": {
+    "id": "log-114",
+    "player": "EDUDD",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-115": {
+    "id": "log-115",
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-116": {
+    "id": "log-116",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP09-119\">OP09-119</link></mark>"
+  },
+  "log-117": {
+    "id": "log-117",
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-118": {
+    "id": "log-118",
+    "player": "Mhcuber",
+    "action": "Loses 1 Life"
+  },
+  "log-119": {
+    "id": "log-119",
+    "player": "System",
+    "action": "System message",
+    "text": "Monkey D. Luffy [<mark><link=\"OP05-060\">OP05-060</link></mark>]: Draw 1 Don"
+  },
+  "log-120": {
+    "id": "log-120",
+    "player": "Mhcuber",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Sangoro",
+      "card": "ST18-003"
+    },
+    "target": {
+      "name": "Buggy",
+      "card": "OP09-042"
+    }
+  },
+  "log-121": {
+    "id": "log-121",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"EB01-061\">EB01-061</link></mark>"
+  },
+  "log-122": {
+    "id": "log-122",
+    "player": "System",
+    "action": "System message",
+    "text": "[Mhcuber] Sangoro [<mark><link=\"ST18-003\">ST18-003</link></mark>]: Draw 1 Card"
+  },
+  "log-123": {
+    "id": "log-123",
+    "player": "System",
+    "action": "System message",
+    "text": "Sangoro [<mark><link=\"ST18-003\">ST18-003</link></mark>][6000] vs Buggy [<mark><link=\"OP09-042\">OP09-042</link></mark>][5000]"
+  },
+  "log-124": {
+    "id": "log-124",
+    "player": "System",
+    "action": "Damage dealt",
+    "card": "OP09-042"
+  },
+  "log-125": {
+    "id": "log-125",
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "EB01-061"
+  },
+  "log-126": {
+    "id": "log-126",
+    "player": "System",
+    "action": "System message",
+    "text": "Mr. 2 Bon Clay (Bentham) [<mark><link=\"EB01-061\">EB01-061</link></mark>]: Draw 1 Don"
+  },
+  "log-127": {
+    "id": "log-127",
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "card": "OP05-060",
+    "amount": 4
+  },
+  "log-128": {
+    "id": "log-128",
+    "player": "Mhcuber",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Monkey D. Luffy",
+      "card": "OP05-060"
+    },
+    "target": {
+      "name": "Buggy",
+      "card": "OP09-042"
+    }
+  },
+  "log-129": {
+    "id": "log-129",
+    "player": "System",
+    "action": "System message",
+    "text": "Monkey D. Luffy [<mark><link=\"OP05-060\">OP05-060</link></mark>][9000] vs Buggy [<mark><link=\"OP09-042\">OP09-042</link></mark>][5000]"
+  },
+  "log-130": {
+    "id": "log-130",
+    "player": "System",
+    "action": "Damage dealt",
+    "card": "OP09-042"
+  },
+  "log-131": {
+    "id": "log-131",
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "ST18-001",
+      "OP09-078",
+      "ST18-001",
+      "OP05-070",
+      "OP05-077",
+      "OP06-076",
+      "OP09-078",
+      "OP09-119",
+      "OP09-078"
+    ]
+  },
+  "log-132": {
+    "id": "log-132",
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-003",
+      "EB01-061"
+    ]
+  },
+  "log-133": {
+    "id": "log-133",
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "ST18-003"
+    ]
+  },
+  "log-134": {
+    "id": "log-134",
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-135": {
+    "id": "log-135",
+    "player": "EDUDD",
+    "action": "Hand state",
+    "cards": [
+      "OP09-051",
+      "ST25-001",
+      "ST25-001",
+      "ST25-002",
+      "ST25-001",
+      "ST25-001",
+      "ST25-002",
+      "OP11-059",
+      "ST25-004"
+    ]
+  },
+  "log-136": {
+    "id": "log-136",
+    "player": "EDUDD",
+    "action": "Trash state",
+    "cards": [
+      "OP03-056",
+      "P-084",
+      "OP03-056"
+    ]
+  },
+  "log-137": {
+    "id": "log-137",
+    "player": "EDUDD",
+    "action": "Board state",
+    "cards": [
+      "OP09-056",
+      "OP09-046",
+      "EB01-027"
+    ]
+  },
+  "log-138": {
+    "id": "log-138",
+    "player": "EDUDD",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-139": {
+    "id": "log-139",
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-140": {
+    "id": "log-140",
+    "player": "EDUDD",
+    "action": "Draw 1 Card"
+  },
+  "log-141": {
+    "id": "log-141",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP09-056\">OP09-056</link></mark>"
+  },
+  "log-142": {
+    "id": "log-142",
+    "player": "EDUDD",
+    "action": "Draw 2 Don"
+  },
+  "log-143": {
+    "id": "log-143",
+    "player": "EDUDD",
+    "action": "Deploy",
+    "card": "OP09-056"
+  },
+  "log-144": {
+    "id": "log-144",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] <b>Reveal and Draw Mohji [<mark><link=\"ST25-005\">ST25-005</link></mark>]</b>"
+  },
+  "log-145": {
+    "id": "log-145",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Placing Cards on Bottom of Deck"
+  },
+  "log-146": {
+    "id": "log-146",
+    "player": "EDUDD",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Crocodile",
+      "card": "OP09-046"
+    },
+    "target": {
+      "name": "Monkey D. Luffy",
+      "card": "OP05-060"
+    }
+  },
+  "log-147": {
+    "id": "log-147",
+    "player": "Mhcuber",
+    "action": "Discard for counter",
+    "card": "OP05-070",
+    "value": 2000
+  },
+  "log-148": {
+    "id": "log-148",
+    "player": "Mhcuber",
+    "action": "Discard for counter",
+    "card": "ST18-001",
+    "value": 2000
+  },
+  "log-149": {
+    "id": "log-149",
+    "player": "System",
+    "action": "System message",
+    "text": "Crocodile [<mark><link=\"OP09-046\">OP09-046</link></mark>][7000] vs Monkey D. Luffy [<mark><link=\"OP05-060\">OP05-060</link></mark>][9000]"
+  },
+  "log-150": {
+    "id": "log-150",
+    "player": "System",
+    "action": "System message",
+    "text": "Attack Fails"
+  },
+  "log-151": {
+    "id": "log-151",
+    "player": "EDUDD",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Buggy",
+      "card": "OP09-042"
+    },
+    "target": {
+      "name": "Monkey D. Luffy",
+      "card": "OP05-060"
+    }
+  },
+  "log-152": {
+    "id": "log-152",
+    "player": "Mhcuber",
+    "action": "Discard for counter",
+    "card": "OP06-076",
+    "value": 2000
+  },
+  "log-153": {
+    "id": "log-153",
+    "player": "System",
+    "action": "System message",
+    "text": "Buggy [<mark><link=\"OP09-042\">OP09-042</link></mark>][5000] vs Monkey D. Luffy [<mark><link=\"OP05-060\">OP05-060</link></mark>][7000]"
+  },
+  "log-154": {
+    "id": "log-154",
+    "player": "System",
+    "action": "System message",
+    "text": "Attack Fails"
+  },
+  "log-155": {
+    "id": "log-155",
+    "player": "EDUDD",
+    "action": "Attach Don",
+    "card": "EB01-027",
+    "amount": 1
+  },
+  "log-156": {
+    "id": "log-156",
+    "player": "EDUDD",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Mr. 1 (Daz Bonez)",
+      "card": "EB01-027"
+    },
+    "target": {
+      "name": "Monkey D. Luffy",
+      "card": "OP05-060"
+    }
+  },
+  "log-157": {
+    "id": "log-157",
+    "player": "System",
+    "action": "System message",
+    "text": "[Mhcuber] Gum Gum Giant [<mark><link=\"OP09-078\">OP09-078</link></mark>]: Trash Gum Gum Giant [<mark><link=\"OP09-078\">OP09-078</link></mark>]"
+  },
+  "log-158": {
+    "id": "log-158",
+    "player": "System",
+    "action": "System message",
+    "text": "[Mhcuber] Gum Gum Giant [<mark><link=\"OP09-078\">OP09-078</link></mark>]: Buff Monkey D. Luffy [<mark><link=\"OP05-060\">OP05-060</link></mark>] 4000 for the Combat"
+  },
+  "log-159": {
+    "id": "log-159",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST18-001\">ST18-001</link></mark>"
+  },
+  "log-160": {
+    "id": "log-160",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST18-003\">ST18-003</link></mark>"
+  },
+  "log-161": {
+    "id": "log-161",
+    "player": "System",
+    "action": "System message",
+    "text": "[Mhcuber] Gum Gum Giant [<mark><link=\"OP09-078\">OP09-078</link></mark>]: Draw 2 Card"
+  },
+  "log-162": {
+    "id": "log-162",
+    "player": "System",
+    "action": "System message",
+    "text": "Mr. 1 (Daz Bonez) [<mark><link=\"EB01-027\">EB01-027</link></mark>][7000] vs Monkey D. Luffy [<mark><link=\"OP05-060\">OP05-060</link></mark>][9000]"
+  },
+  "log-163": {
+    "id": "log-163",
+    "player": "System",
+    "action": "System message",
+    "text": "Attack Fails"
+  },
+  "log-164": {
+    "id": "log-164",
+    "player": "EDUDD",
+    "action": "Deploy",
+    "card": "ST25-001"
+  },
+  "log-165": {
+    "id": "log-165",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP09-045\">OP09-045</link></mark>"
+  },
+  "log-166": {
+    "id": "log-166",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP03-056\">OP03-056</link></mark>"
+  },
+  "log-167": {
+    "id": "log-167",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST25-002\">ST25-002</link></mark>"
+  },
+  "log-168": {
+    "id": "log-168",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Alvida [<mark><link=\"ST25-001\">ST25-001</link></mark>]: Draw 3 Card"
+  },
+  "log-169": {
+    "id": "log-169",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Alvida [<mark><link=\"ST25-001\">ST25-001</link></mark>]: Trash Sanji's Pilaf [<mark><link=\"OP03-056\">OP03-056</link></mark>]"
+  },
+  "log-170": {
+    "id": "log-170",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Alvida [<mark><link=\"ST25-001\">ST25-001</link></mark>]: Trash Buggy [<mark><link=\"ST25-004\">ST25-004</link></mark>]"
+  },
+  "log-171": {
+    "id": "log-171",
+    "player": "EDUDD",
+    "action": "End Turn"
+  },
+  "log-172": {
+    "id": "log-172",
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "ST18-001",
+      "OP05-077",
+      "OP09-078",
+      "OP09-119",
+      "ST18-001",
+      "ST18-003"
+    ]
+  },
+  "log-173": {
+    "id": "log-173",
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-003",
+      "EB01-061"
+    ]
+  },
+  "log-174": {
+    "id": "log-174",
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "ST18-003",
+      "OP05-070",
+      "ST18-001",
+      "OP06-076",
+      "OP09-078",
+      "OP09-078"
+    ]
+  },
+  "log-175": {
+    "id": "log-175",
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-176": {
+    "id": "log-176",
+    "player": "EDUDD",
+    "action": "Hand state",
+    "cards": [
+      "OP09-051",
+      "ST25-001",
+      "ST25-001",
+      "ST25-002",
+      "ST25-001",
+      "ST25-002",
+      "OP11-059",
+      "ST25-005",
+      "OP09-045",
+      "ST25-002"
+    ]
+  },
+  "log-177": {
+    "id": "log-177",
+    "player": "EDUDD",
+    "action": "Trash state",
+    "cards": [
+      "OP03-056",
+      "P-084",
+      "OP03-056",
+      "OP03-056",
+      "ST25-004"
+    ]
+  },
+  "log-178": {
+    "id": "log-178",
+    "player": "EDUDD",
+    "action": "Board state",
+    "cards": [
+      "OP09-056",
+      "OP09-046",
+      "EB01-027",
+      "OP09-056",
+      "ST25-001"
+    ]
+  },
+  "log-179": {
+    "id": "log-179",
+    "player": "EDUDD",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-180": {
+    "id": "log-180",
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-181": {
+    "id": "log-181",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST18-005\">ST18-005</link></mark>"
+  },
+  "log-182": {
+    "id": "log-182",
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-183": {
+    "id": "log-183",
+    "player": "Mhcuber",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Sangoro",
+      "card": "ST18-003"
+    },
+    "target": {
+      "name": "Buggy",
+      "card": "OP09-042"
+    }
+  },
+  "log-184": {
+    "id": "log-184",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST18-003\">ST18-003</link></mark>"
+  },
+  "log-185": {
+    "id": "log-185",
+    "player": "System",
+    "action": "System message",
+    "text": "[Mhcuber] Sangoro [<mark><link=\"ST18-003\">ST18-003</link></mark>]: Draw 1 Card"
+  },
+  "log-186": {
+    "id": "log-186",
+    "player": "EDUDD",
+    "action": "Discard for counter",
+    "card": "OP09-045",
+    "value": 2000
+  },
+  "log-187": {
+    "id": "log-187",
+    "player": "System",
+    "action": "System message",
+    "text": "Sangoro [<mark><link=\"ST18-003\">ST18-003</link></mark>][6000] vs Buggy [<mark><link=\"OP09-042\">OP09-042</link></mark>][7000]"
+  },
+  "log-188": {
+    "id": "log-188",
+    "player": "System",
+    "action": "System message",
+    "text": "Attack Fails"
+  },
+  "log-189": {
+    "id": "log-189",
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "ST18-005"
+  },
+  "log-190": {
+    "id": "log-190",
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "card": "OP05-060",
+    "amount": 1
+  },
+  "log-191": {
+    "id": "log-191",
+    "player": "Mhcuber",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Monkey D. Luffy",
+      "card": "OP05-060"
+    },
+    "target": {
+      "name": "Buggy",
+      "card": "OP09-042"
+    }
+  },
+  "log-192": {
+    "id": "log-192",
+    "player": "EDUDD",
+    "action": "Discard for counter",
+    "card": "ST25-002",
+    "value": 2000
+  },
+  "log-193": {
+    "id": "log-193",
+    "player": "System",
+    "action": "System message",
+    "text": "Monkey D. Luffy [<mark><link=\"OP05-060\">OP05-060</link></mark>][6000] vs Buggy [<mark><link=\"OP09-042\">OP09-042</link></mark>][7000]"
+  },
+  "log-194": {
+    "id": "log-194",
+    "player": "System",
+    "action": "System message",
+    "text": "Attack Fails"
+  },
+  "log-195": {
+    "id": "log-195",
+    "player": "Mhcuber",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Mr. 2 Bon Clay (Bentham)",
+      "card": "EB01-061"
+    },
+    "target": {
+      "name": "Mr. 1 (Daz Bonez)",
+      "card": "EB01-027"
+    }
+  },
+  "log-196": {
+    "id": "log-196",
+    "player": "System",
+    "action": "System message",
+    "text": "[Mhcuber] Mr. 2 Bon Clay (Bentham) [<mark><link=\"EB01-061\">EB01-061</link></mark>]: Buff Self 6000"
+  },
+  "log-197": {
+    "id": "log-197",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Gum-Gum King Cobra [<mark><link=\"OP11-059\">OP11-059</link></mark>]: Buff Mr. 1 (Daz Bonez) [<mark><link=\"EB01-027\">EB01-027</link></mark>] 2000 for the Combat"
+  },
+  "log-198": {
+    "id": "log-198",
+    "player": "System",
+    "action": "System message",
+    "text": "Mr. 2 Bon Clay (Bentham) [<mark><link=\"EB01-061\">EB01-061</link></mark>][7000] vs Mr. 1 (Daz Bonez) [<mark><link=\"EB01-027\">EB01-027</link></mark>][8000]"
+  },
+  "log-199": {
+    "id": "log-199",
+    "player": "System",
+    "action": "System message",
+    "text": "Attack Fails"
+  },
+  "log-200": {
+    "id": "log-200",
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "ST18-001",
+      "OP05-077",
+      "OP09-078",
+      "OP09-119",
+      "ST18-001",
+      "ST18-003"
+    ]
+  },
+  "log-201": {
+    "id": "log-201",
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-003",
+      "EB01-061",
+      "ST18-005",
+      "ST18-003"
+    ]
+  },
+  "log-202": {
+    "id": "log-202",
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "ST18-003",
+      "OP05-070",
+      "ST18-001",
+      "OP06-076",
+      "OP09-078",
+      "OP09-078"
+    ]
+  },
+  "log-203": {
+    "id": "log-203",
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-204": {
+    "id": "log-204",
+    "player": "EDUDD",
+    "action": "Hand state",
+    "cards": [
+      "OP09-051",
+      "ST25-001",
+      "ST25-001",
+      "ST25-002",
+      "ST25-001",
+      "ST25-002",
+      "ST25-005"
+    ]
+  },
+  "log-205": {
+    "id": "log-205",
+    "player": "EDUDD",
+    "action": "Trash state",
+    "cards": [
+      "OP03-056",
+      "P-084",
+      "OP03-056",
+      "OP03-056",
+      "ST25-004",
+      "OP09-045",
+      "ST25-002",
+      "OP11-059"
+    ]
+  },
+  "log-206": {
+    "id": "log-206",
+    "player": "EDUDD",
+    "action": "Board state",
+    "cards": [
+      "OP09-056",
+      "OP09-046",
+      "EB01-027",
+      "OP09-056",
+      "ST25-001"
+    ]
+  },
+  "log-207": {
+    "id": "log-207",
+    "player": "EDUDD",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-208": {
+    "id": "log-208",
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-209": {
+    "id": "log-209",
+    "player": "EDUDD",
+    "action": "Draw 1 Card"
+  },
+  "log-210": {
+    "id": "log-210",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"P-084\">P-084</link></mark>"
+  },
+  "log-211": {
+    "id": "log-211",
+    "player": "EDUDD",
+    "action": "Draw 2 Don"
+  },
+  "log-212": {
+    "id": "log-212",
+    "player": "EDUDD",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Mr. 3 (Galdino)",
+      "card": "OP09-056"
+    },
+    "target": {
+      "name": "Mr. 2 Bon Clay (Bentham)",
+      "card": "EB01-061"
+    }
+  },
+  "log-213": {
+    "id": "log-213",
+    "player": "Mhcuber",
+    "action": "Discard for counter",
+    "card": "ST18-001",
+    "value": 2000
+  },
+  "log-214": {
+    "id": "log-214",
+    "player": "System",
+    "action": "System message",
+    "text": "Mr. 3 (Galdino) [<mark><link=\"OP09-056\">OP09-056</link></mark>][2000] vs Mr. 2 Bon Clay (Bentham) [<mark><link=\"EB01-061\">EB01-061</link></mark>][3000]"
+  },
+  "log-215": {
+    "id": "log-215",
+    "player": "System",
+    "action": "System message",
+    "text": "Attack Fails"
+  },
+  "log-216": {
+    "id": "log-216",
+    "player": "EDUDD",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Mr. 3 (Galdino)",
+      "card": "OP09-056"
+    },
+    "target": {
+      "name": "Mr. 2 Bon Clay (Bentham)",
+      "card": "EB01-061"
+    }
+  },
+  "log-217": {
+    "id": "log-217",
+    "player": "Mhcuber",
+    "action": "Discard for counter",
+    "card": "ST18-001",
+    "value": 2000
+  },
+  "log-218": {
+    "id": "log-218",
+    "player": "System",
+    "action": "System message",
+    "text": "Mr. 3 (Galdino) [<mark><link=\"OP09-056\">OP09-056</link></mark>][2000] vs Mr. 2 Bon Clay (Bentham) [<mark><link=\"EB01-061\">EB01-061</link></mark>][3000]"
+  },
+  "log-219": {
+    "id": "log-219",
+    "player": "System",
+    "action": "System message",
+    "text": "Attack Fails"
+  },
+  "log-220": {
+    "id": "log-220",
+    "player": "EDUDD",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Buggy",
+      "card": "OP09-042"
+    },
+    "target": {
+      "name": "Mr. 2 Bon Clay (Bentham)",
+      "card": "EB01-061"
+    }
+  },
+  "log-221": {
+    "id": "log-221",
+    "player": "System",
+    "action": "System message",
+    "text": "Buggy [<mark><link=\"OP09-042\">OP09-042</link></mark>][5000] vs Mr. 2 Bon Clay (Bentham) [<mark><link=\"EB01-061\">EB01-061</link></mark>][1000]"
+  },
+  "log-222": {
+    "id": "log-222",
+    "player": "System",
+    "action": "Card destroyed",
+    "card": "EB01-061"
+  },
+  "log-223": {
+    "id": "log-223",
+    "player": "EDUDD",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Alvida",
+      "card": "ST25-001"
+    },
+    "target": {
+      "name": "Monkey D. Luffy",
+      "card": "OP05-060"
+    }
+  },
+  "log-224": {
+    "id": "log-224",
+    "player": "Mhcuber",
+    "action": "Discard for counter",
+    "card": "ST18-003",
+    "value": 1000
+  },
+  "log-225": {
+    "id": "log-225",
+    "player": "System",
+    "action": "System message",
+    "text": "Alvida [<mark><link=\"ST25-001\">ST25-001</link></mark>][5000] vs Monkey D. Luffy [<mark><link=\"OP05-060\">OP05-060</link></mark>][6000]"
+  },
+  "log-226": {
+    "id": "log-226",
+    "player": "System",
+    "action": "System message",
+    "text": "Attack Fails"
+  },
+  "log-227": {
+    "id": "log-227",
+    "player": "EDUDD",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Mr. 1 (Daz Bonez)",
+      "card": "EB01-027"
+    },
+    "target": {
+      "name": "Sangoro",
+      "card": "ST18-003"
+    }
+  },
+  "log-228": {
+    "id": "log-228",
+    "player": "System",
+    "action": "System message",
+    "text": "Mr. 1 (Daz Bonez) [<mark><link=\"EB01-027\">EB01-027</link></mark>][6000] vs Sangoro [<mark><link=\"ST18-003\">ST18-003</link></mark>][6000]"
+  },
+  "log-229": {
+    "id": "log-229",
+    "player": "System",
+    "action": "Card destroyed",
+    "card": "ST18-003"
+  },
+  "log-230": {
+    "id": "log-230",
+    "player": "EDUDD",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Crocodile",
+      "card": "OP09-046"
+    },
+    "target": {
+      "name": "Monkey D. Luffy",
+      "card": "OP05-060"
+    }
+  },
+  "log-231": {
+    "id": "log-231",
+    "player": "System",
+    "action": "System message",
+    "text": "Crocodile [<mark><link=\"OP09-046\">OP09-046</link></mark>][7000] vs Monkey D. Luffy [<mark><link=\"OP05-060\">OP05-060</link></mark>][5000]"
+  },
+  "log-232": {
+    "id": "log-232",
+    "player": "System",
+    "action": "Damage dealt",
+    "card": "OP05-060"
+  },
+  "log-233": {
+    "id": "log-233",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Trash Mr. 3 (Galdino) [<mark><link=\"OP09-056\">OP09-056</link></mark>]"
+  },
+  "log-234": {
+    "id": "log-234",
+    "player": "EDUDD",
+    "action": "Deploy",
+    "card": "ST25-001"
+  },
+  "log-235": {
+    "id": "log-235",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST25-002\">ST25-002</link></mark>"
+  },
+  "log-236": {
+    "id": "log-236",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST25-004\">ST25-004</link></mark>"
+  },
+  "log-237": {
+    "id": "log-237",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP09-056\">OP09-056</link></mark>"
+  },
+  "log-238": {
+    "id": "log-238",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Alvida [<mark><link=\"ST25-001\">ST25-001</link></mark>]: Draw 3 Card"
+  },
+  "log-239": {
+    "id": "log-239",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Alvida [<mark><link=\"ST25-001\">ST25-001</link></mark>]: Trash Buggy [<mark><link=\"P-084\">P-084</link></mark>]"
+  },
+  "log-240": {
+    "id": "log-240",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Alvida [<mark><link=\"ST25-001\">ST25-001</link></mark>]: Trash Buggy [<mark><link=\"ST25-004\">ST25-004</link></mark>]"
+  },
+  "log-241": {
+    "id": "log-241",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Buggy [<mark><link=\"OP09-042\">OP09-042</link></mark>]: Trash Alvida [<mark><link=\"ST25-001\">ST25-001</link></mark>]"
+  },
+  "log-242": {
+    "id": "log-242",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Trash Mr. 3 (Galdino) [<mark><link=\"OP09-056\">OP09-056</link></mark>]"
+  },
+  "log-243": {
+    "id": "log-243",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Buggy [<mark><link=\"OP09-051\">OP09-051</link></mark>]: Send Luffy-tarou [<mark><link=\"ST18-005\">ST18-005</link></mark>] to Deck Bottom"
+  },
+  "log-244": {
+    "id": "log-244",
+    "player": "EDUDD",
+    "action": "End Turn"
+  },
+  "log-245": {
+    "id": "log-245",
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP05-077",
+      "OP09-078",
+      "OP09-119",
+      "OP05-070"
+    ]
+  },
+  "log-246": {
+    "id": "log-246",
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-003"
+    ]
+  },
+  "log-247": {
+    "id": "log-247",
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "ST18-003",
+      "OP05-070",
+      "ST18-001",
+      "OP06-076",
+      "OP09-078",
+      "OP09-078",
+      "ST18-001",
+      "ST18-001",
+      "EB01-061",
+      "ST18-003",
+      "ST18-003"
+    ]
+  },
+  "log-248": {
+    "id": "log-248",
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-249": {
+    "id": "log-249",
+    "player": "EDUDD",
+    "action": "Hand state",
+    "cards": [
+      "ST25-001",
+      "ST25-002",
+      "ST25-002",
+      "ST25-005",
+      "ST25-002",
+      "OP09-056"
+    ]
+  },
+  "log-250": {
+    "id": "log-250",
+    "player": "EDUDD",
+    "action": "Trash state",
+    "cards": [
+      "OP03-056",
+      "P-084",
+      "OP03-056",
+      "OP03-056",
+      "ST25-004",
+      "OP09-045",
+      "ST25-002",
+      "OP11-059",
+      "OP09-056",
+      "P-084",
+      "ST25-004",
+      "ST25-001",
+      "OP09-056"
+    ]
+  },
+  "log-251": {
+    "id": "log-251",
+    "player": "EDUDD",
+    "action": "Board state",
+    "cards": [
+      "OP09-046",
+      "EB01-027",
+      "ST25-001",
+      "ST25-001",
+      "OP09-051"
+    ]
+  },
+  "log-252": {
+    "id": "log-252",
+    "player": "EDUDD",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-253": {
+    "id": "log-253",
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-254": {
+    "id": "log-254",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP11-067\">OP11-067</link></mark>"
+  },
+  "log-255": {
+    "id": "log-255",
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-256": {
+    "id": "log-256",
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "OP11-067"
+  },
+  "log-257": {
+    "id": "log-257",
+    "player": "Mhcuber",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Sangoro",
+      "card": "ST18-003"
+    },
+    "target": {
+      "name": "Alvida",
+      "card": "ST25-001"
+    }
+  },
+  "log-258": {
+    "id": "log-258",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST10-010\">ST10-010</link></mark>"
+  },
+  "log-259": {
+    "id": "log-259",
+    "player": "System",
+    "action": "System message",
+    "text": "[Mhcuber] Sangoro [<mark><link=\"ST18-003\">ST18-003</link></mark>]: Draw 1 Card"
+  },
+  "log-260": {
+    "id": "log-260",
+    "player": "EDUDD",
+    "action": "Discard for counter",
+    "card": "ST25-002",
+    "value": 2000
+  },
+  "log-261": {
+    "id": "log-261",
+    "player": "System",
+    "action": "System message",
+    "text": "Sangoro [<mark><link=\"ST18-003\">ST18-003</link></mark>][6000] vs Alvida [<mark><link=\"ST25-001\">ST25-001</link></mark>][7000]"
+  },
+  "log-262": {
+    "id": "log-262",
+    "player": "System",
+    "action": "System message",
+    "text": "Attack Fails"
+  },
+  "log-263": {
+    "id": "log-263",
+    "player": "Mhcuber",
+    "action": "Attach Don",
+    "card": "OP05-060",
+    "amount": 1
+  },
+  "log-264": {
+    "id": "log-264",
+    "player": "Mhcuber",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Monkey D. Luffy",
+      "card": "OP05-060"
+    },
+    "target": {
+      "name": "Alvida",
+      "card": "ST25-001"
+    }
+  },
+  "log-265": {
+    "id": "log-265",
+    "player": "EDUDD",
+    "action": "Discard for counter",
+    "card": "ST25-002",
+    "value": 2000
+  },
+  "log-266": {
+    "id": "log-266",
+    "player": "System",
+    "action": "System message",
+    "text": "Monkey D. Luffy [<mark><link=\"OP05-060\">OP05-060</link></mark>][6000] vs Alvida [<mark><link=\"ST25-001\">ST25-001</link></mark>][7000]"
+  },
+  "log-267": {
+    "id": "log-267",
+    "player": "System",
+    "action": "System message",
+    "text": "Attack Fails"
+  },
+  "log-268": {
+    "id": "log-268",
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP05-077",
+      "OP09-078",
+      "OP09-119",
+      "OP05-070",
+      "ST10-010"
+    ]
+  },
+  "log-269": {
+    "id": "log-269",
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-003",
+      "OP11-067"
+    ]
+  },
+  "log-270": {
+    "id": "log-270",
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "ST18-003",
+      "OP05-070",
+      "ST18-001",
+      "OP06-076",
+      "OP09-078",
+      "OP09-078",
+      "ST18-001",
+      "ST18-001",
+      "EB01-061",
+      "ST18-003",
+      "ST18-003"
+    ]
+  },
+  "log-271": {
+    "id": "log-271",
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-272": {
+    "id": "log-272",
+    "player": "EDUDD",
+    "action": "Hand state",
+    "cards": [
+      "ST25-001",
+      "ST25-002",
+      "ST25-005",
+      "OP09-056"
+    ]
+  },
+  "log-273": {
+    "id": "log-273",
+    "player": "EDUDD",
+    "action": "Trash state",
+    "cards": [
+      "OP03-056",
+      "P-084",
+      "OP03-056",
+      "OP03-056",
+      "ST25-004",
+      "OP09-045",
+      "ST25-002",
+      "OP11-059",
+      "OP09-056",
+      "P-084",
+      "ST25-004",
+      "ST25-001",
+      "OP09-056",
+      "ST25-002",
+      "ST25-002"
+    ]
+  },
+  "log-274": {
+    "id": "log-274",
+    "player": "EDUDD",
+    "action": "Board state",
+    "cards": [
+      "OP09-046",
+      "EB01-027",
+      "ST25-001",
+      "ST25-001",
+      "OP09-051"
+    ]
+  },
+  "log-275": {
+    "id": "log-275",
+    "player": "EDUDD",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-276": {
+    "id": "log-276",
+    "player": "Mhcuber",
+    "action": "End Turn"
+  },
+  "log-277": {
+    "id": "log-277",
+    "player": "EDUDD",
+    "action": "Draw 1 Card"
+  },
+  "log-278": {
+    "id": "log-278",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"ST25-004\">ST25-004</link></mark>"
+  },
+  "log-279": {
+    "id": "log-279",
+    "player": "EDUDD",
+    "action": "Draw 2 Don"
+  },
+  "log-280": {
+    "id": "log-280",
+    "player": "EDUDD",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Alvida",
+      "card": "ST25-001"
+    },
+    "target": {
+      "name": "Monkey D. Luffy",
+      "card": "OP05-060"
+    }
+  },
+  "log-281": {
+    "id": "log-281",
+    "player": "Mhcuber",
+    "action": "Discard for counter",
+    "card": "ST10-010",
+    "value": 1000
+  },
+  "log-282": {
+    "id": "log-282",
+    "player": "System",
+    "action": "System message",
+    "text": "Alvida [<mark><link=\"ST25-001\">ST25-001</link></mark>][5000] vs Monkey D. Luffy [<mark><link=\"OP05-060\">OP05-060</link></mark>][6000]"
+  },
+  "log-283": {
+    "id": "log-283",
+    "player": "System",
+    "action": "System message",
+    "text": "Attack Fails"
+  },
+  "log-284": {
+    "id": "log-284",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Trash Alvida [<mark><link=\"ST25-001\">ST25-001</link></mark>]"
+  },
+  "log-285": {
+    "id": "log-285",
+    "player": "EDUDD",
+    "action": "Deploy",
+    "card": "OP09-056"
+  },
+  "log-286": {
+    "id": "log-286",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] <b>Reveal and Draw Mohji [<mark><link=\"ST25-005\">ST25-005</link></mark>]</b>"
+  },
+  "log-287": {
+    "id": "log-287",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Placing Cards on Bottom of Deck"
+  },
+  "log-288": {
+    "id": "log-288",
+    "player": "EDUDD",
+    "action": "Attach Don",
+    "card": "OP09-046",
+    "amount": 1
+  },
+  "log-289": {
+    "id": "log-289",
+    "player": "EDUDD",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Crocodile",
+      "card": "OP09-046"
+    },
+    "target": {
+      "name": "Monkey D. Luffy",
+      "card": "OP05-060"
+    }
+  },
+  "log-290": {
+    "id": "log-290",
+    "player": "System",
+    "action": "System message",
+    "text": "[Mhcuber] Gum Gum Giant [<mark><link=\"OP09-078\">OP09-078</link></mark>]: Trash Gamma Knife [<mark><link=\"OP05-077\">OP05-077</link></mark>]"
+  },
+  "log-291": {
+    "id": "log-291",
+    "player": "System",
+    "action": "System message",
+    "text": "[Mhcuber] Gum Gum Giant [<mark><link=\"OP09-078\">OP09-078</link></mark>]: Buff Monkey D. Luffy [<mark><link=\"OP05-060\">OP05-060</link></mark>] 4000 for the Combat"
+  },
+  "log-292": {
+    "id": "log-292",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP05-070\">OP05-070</link></mark>"
+  },
+  "log-293": {
+    "id": "log-293",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP05-070\">OP05-070</link></mark>"
+  },
+  "log-294": {
+    "id": "log-294",
+    "player": "System",
+    "action": "System message",
+    "text": "[Mhcuber] Gum Gum Giant [<mark><link=\"OP09-078\">OP09-078</link></mark>]: Draw 2 Card"
+  },
+  "log-295": {
+    "id": "log-295",
+    "player": "System",
+    "action": "System message",
+    "text": "Crocodile [<mark><link=\"OP09-046\">OP09-046</link></mark>][8000] vs Monkey D. Luffy [<mark><link=\"OP05-060\">OP05-060</link></mark>][9000]"
+  },
+  "log-296": {
+    "id": "log-296",
+    "player": "System",
+    "action": "System message",
+    "text": "Attack Fails"
+  },
+  "log-297": {
+    "id": "log-297",
+    "player": "EDUDD",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Buggy",
+      "card": "OP09-042"
+    },
+    "target": {
+      "name": "Monkey D. Luffy",
+      "card": "OP05-060"
+    }
+  },
+  "log-298": {
+    "id": "log-298",
+    "player": "Mhcuber",
+    "action": "Discard for counter",
+    "card": "OP05-070",
+    "value": 2000
+  },
+  "log-299": {
+    "id": "log-299",
+    "player": "System",
+    "action": "System message",
+    "text": "Buggy [<mark><link=\"OP09-042\">OP09-042</link></mark>][5000] vs Monkey D. Luffy [<mark><link=\"OP05-060\">OP05-060</link></mark>][7000]"
+  },
+  "log-300": {
+    "id": "log-300",
+    "player": "System",
+    "action": "System message",
+    "text": "Attack Fails"
+  },
+  "log-301": {
+    "id": "log-301",
+    "player": "EDUDD",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Alvida",
+      "card": "ST25-001"
+    },
+    "target": {
+      "name": "Monkey D. Luffy",
+      "card": "OP05-060"
+    }
+  },
+  "log-302": {
+    "id": "log-302",
+    "player": "Mhcuber",
+    "action": "Discard for counter",
+    "card": "OP05-070",
+    "value": 2000
+  },
+  "log-303": {
+    "id": "log-303",
+    "player": "System",
+    "action": "System message",
+    "text": "Alvida [<mark><link=\"ST25-001\">ST25-001</link></mark>][5000] vs Monkey D. Luffy [<mark><link=\"OP05-060\">OP05-060</link></mark>][7000]"
+  },
+  "log-304": {
+    "id": "log-304",
+    "player": "System",
+    "action": "System message",
+    "text": "Attack Fails"
+  },
+  "log-305": {
+    "id": "log-305",
+    "player": "EDUDD",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Mr. 1 (Daz Bonez)",
+      "card": "EB01-027"
+    },
+    "target": {
+      "name": "Sangoro",
+      "card": "ST18-003"
+    }
+  },
+  "log-306": {
+    "id": "log-306",
+    "player": "System",
+    "action": "System message",
+    "text": "[Mhcuber] Charlotte Katakuri [<mark><link=\"OP11-067\">OP11-067</link></mark>] Blocks"
+  },
+  "log-307": {
+    "id": "log-307",
+    "player": "System",
+    "action": "System message",
+    "text": "Mr. 1 (Daz Bonez) [<mark><link=\"EB01-027\">EB01-027</link></mark>][6000] vs Charlotte Katakuri [<mark><link=\"OP11-067\">OP11-067</link></mark>][8000]"
+  },
+  "log-308": {
+    "id": "log-308",
+    "player": "System",
+    "action": "System message",
+    "text": "Attack Fails"
+  },
+  "log-309": {
+    "id": "log-309",
+    "player": "EDUDD",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Buggy",
+      "card": "OP09-051"
+    },
+    "target": {
+      "name": "Charlotte Katakuri",
+      "card": "OP11-067"
+    }
+  },
+  "log-310": {
+    "id": "log-310",
+    "player": "System",
+    "action": "System message",
+    "text": "Buggy [<mark><link=\"OP09-051\">OP09-051</link></mark>][12000] vs Charlotte Katakuri [<mark><link=\"OP11-067\">OP11-067</link></mark>][8000]"
+  },
+  "log-311": {
+    "id": "log-311",
+    "player": "System",
+    "action": "Card destroyed",
+    "card": "OP11-067"
+  },
+  "log-312": {
+    "id": "log-312",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Trash Mr. 3 (Galdino) [<mark><link=\"OP09-056\">OP09-056</link></mark>]"
+  },
+  "log-313": {
+    "id": "log-313",
+    "player": "EDUDD",
+    "action": "Deploy",
+    "card": "ST25-005"
+  },
+  "log-314": {
+    "id": "log-314",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Trash Alvida [<mark><link=\"ST25-001\">ST25-001</link></mark>]"
+  },
+  "log-315": {
+    "id": "log-315",
+    "player": "EDUDD",
+    "action": "Deploy",
+    "card": "ST25-005"
+  },
+  "log-316": {
+    "id": "log-316",
+    "player": "EDUDD",
+    "action": "End Turn"
+  },
+  "log-317": {
+    "id": "log-317",
+    "player": "Mhcuber",
+    "action": "Hand state",
+    "cards": [
+      "OP09-119",
+      "OP05-070"
+    ]
+  },
+  "log-318": {
+    "id": "log-318",
+    "player": "Mhcuber",
+    "action": "Board state",
+    "cards": [
+      "ST18-003"
+    ]
+  },
+  "log-319": {
+    "id": "log-319",
+    "player": "Mhcuber",
+    "action": "Trash state",
+    "cards": [
+      "ST18-003",
+      "OP05-070",
+      "ST18-001",
+      "OP06-076",
+      "OP09-078",
+      "OP09-078",
+      "ST18-001",
+      "ST18-001",
+      "EB01-061",
+      "ST18-003",
+      "ST18-003",
+      "ST10-010",
+      "OP09-078",
+      "OP05-077",
+      "OP05-070",
+      "OP05-070",
+      "OP11-067"
+    ]
+  },
+  "log-320": {
+    "id": "log-320",
+    "player": "Mhcuber",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-321": {
+    "id": "log-321",
+    "player": "EDUDD",
+    "action": "Hand state",
+    "cards": [
+      "ST25-001",
+      "ST25-002",
+      "ST25-004"
+    ]
+  },
+  "log-322": {
+    "id": "log-322",
+    "player": "EDUDD",
+    "action": "Trash state",
+    "cards": [
+      "OP03-056",
+      "P-084",
+      "OP03-056",
+      "OP03-056",
+      "ST25-004",
+      "OP09-045",
+      "ST25-002",
+      "OP11-059",
+      "OP09-056",
+      "P-084",
+      "ST25-004",
+      "ST25-001",
+      "OP09-056",
+      "ST25-002",
+      "ST25-002",
+      "ST25-001",
+      "OP09-056",
+      "ST25-001"
+    ]
+  },
+  "log-323": {
+    "id": "log-323",
+    "player": "EDUDD",
+    "action": "Board state",
+    "cards": [
+      "OP09-046",
+      "EB01-027",
+      "OP09-051",
+      "ST25-005",
+      "ST25-005"
+    ]
+  },
+  "log-324": {
+    "id": "log-324",
+    "player": "EDUDD",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-325": {
+    "id": "log-325",
+    "player": "Mhcuber",
+    "action": "Draw 1 Card"
+  },
+  "log-326": {
+    "id": "log-326",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP07-064\">OP07-064</link></mark>"
+  },
+  "log-327": {
+    "id": "log-327",
+    "player": "Mhcuber",
+    "action": "Draw 2 Don"
+  },
+  "log-328": {
+    "id": "log-328",
+    "player": "Mhcuber",
+    "action": "Deploy",
+    "card": "OP09-119"
+  },
+  "log-329": {
+    "id": "log-329",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP07-064\">OP07-064</link></mark>"
+  },
+  "log-330": {
+    "id": "log-330",
+    "player": "System",
+    "action": "System message",
+    "text": "[Mhcuber] Monkey D. Luffy [<mark><link=\"OP09-119\">OP09-119</link></mark>]: Draw 1 Card"
+  },
+  "log-331": {
+    "id": "log-331",
+    "player": "System",
+    "action": "System message",
+    "text": "[Mhcuber] Monkey D. Luffy [<mark><link=\"OP09-119\">OP09-119</link></mark>]: Give Monkey D. Luffy [<mark><link=\"OP09-119\">OP09-119</link></mark>] Rush"
+  },
+  "log-332": {
+    "id": "log-332",
+    "player": "Mhcuber",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Sangoro",
+      "card": "ST18-003"
+    },
+    "target": {
+      "name": "Buggy",
+      "card": "OP09-042"
+    }
+  },
+  "log-333": {
+    "id": "log-333",
+    "player": "Mhcuber",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"EB01-039\">EB01-039</link></mark>"
+  },
+  "log-334": {
+    "id": "log-334",
+    "player": "System",
+    "action": "System message",
+    "text": "[Mhcuber] Sangoro [<mark><link=\"ST18-003\">ST18-003</link></mark>]: Draw 1 Card"
+  },
+  "log-335": {
+    "id": "log-335",
+    "player": "EDUDD",
+    "action": "Discard for counter",
+    "card": "ST25-002",
+    "value": 2000
+  },
+  "log-336": {
+    "id": "log-336",
+    "player": "System",
+    "action": "System message",
+    "text": "Sangoro [<mark><link=\"ST18-003\">ST18-003</link></mark>][6000] vs Buggy [<mark><link=\"OP09-042\">OP09-042</link></mark>][7000]"
+  },
+  "log-337": {
+    "id": "log-337",
+    "player": "System",
+    "action": "System message",
+    "text": "Attack Fails"
+  },
+  "log-338": {
+    "id": "log-338",
+    "player": "Mhcuber",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Monkey D. Luffy",
+      "card": "OP05-060"
+    },
+    "target": {
+      "name": "Buggy",
+      "card": "OP09-042"
+    }
+  },
+  "log-339": {
+    "id": "log-339",
+    "player": "EDUDD",
+    "action": "Discard for counter",
+    "card": "ST25-004",
+    "value": 1000
+  },
+  "log-340": {
+    "id": "log-340",
+    "player": "System",
+    "action": "System message",
+    "text": "Monkey D. Luffy [<mark><link=\"OP05-060\">OP05-060</link></mark>][5000] vs Buggy [<mark><link=\"OP09-042\">OP09-042</link></mark>][6000]"
+  },
+  "log-341": {
+    "id": "log-341",
+    "player": "System",
+    "action": "System message",
+    "text": "Attack Fails"
+  },
+  "log-342": {
+    "id": "log-342",
+    "player": "Mhcuber",
+    "action": "Attack declared",
+    "attacker": {
+      "name": "Monkey D. Luffy",
+      "card": "OP09-119"
+    },
+    "target": {
+      "name": "Crocodile",
+      "card": "OP09-046"
+    }
+  },
+  "log-343": {
+    "id": "log-343",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Mohji [<mark><link=\"ST25-005\">ST25-005</link></mark>] Blocks"
+  },
+  "log-344": {
+    "id": "log-344",
+    "player": "System",
+    "action": "System message",
+    "text": "Monkey D. Luffy [<mark><link=\"OP09-119\">OP09-119</link></mark>][10000] vs Mohji [<mark><link=\"ST25-005\">ST25-005</link></mark>][1000]"
+  },
+  "log-345": {
+    "id": "log-345",
+    "player": "System",
+    "action": "Card destroyed",
+    "card": "ST25-005"
+  },
+  "log-346": {
+    "id": "log-346",
+    "player": "EDUDD",
+    "action": "Drew card from deck",
+    "card": "<mark><link=\"OP09-051\">OP09-051</link></mark>"
+  },
+  "log-347": {
+    "id": "log-347",
+    "player": "System",
+    "action": "System message",
+    "text": "[EDUDD] Mohji [<mark><link=\"ST25-005\">ST25-005</link></mark>]: Draw 1 Card"
+  },
+  "log-348": {
+    "id": "log-348",
+    "player": "Mhcuber",
+    "action": "Concedes!"
+  },
+  "log-349": {
+    "id": "log-349",
+    "player": "Mhcuber",
+    "action": "Loses"
+  }
+}

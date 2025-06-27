@@ -105,7 +105,7 @@
   },
   "log-021": {
     "player": "keni",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-015",
       "OP07-021",
@@ -116,22 +116,22 @@
   },
   "log-022": {
     "player": "keni",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-023": {
     "player": "keni",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-024": {
     "player": "keni",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-025": {
     "player": "Jarballz",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP08-022",
       "OP08-036",
@@ -142,18 +142,18 @@
   },
   "log-026": {
     "player": "Jarballz",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-027": {
     "player": "Jarballz",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-028": {
     "player": "Jarballz",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-029": {
     "player": "keni",
@@ -161,12 +161,12 @@
   },
   "log-030": {
     "player": "keni",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "ST02-007"
   },
   "log-031": {
     "player": "keni",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-015",
       "OP07-021",
@@ -176,24 +176,24 @@
   },
   "log-032": {
     "player": "keni",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST02-007"
     ]
   },
   "log-033": {
     "player": "keni",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-034": {
     "player": "keni",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-035": {
     "player": "Jarballz",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP08-022",
       "OP08-036",
@@ -204,26 +204,26 @@
   },
   "log-036": {
     "player": "Jarballz",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-037": {
     "player": "Jarballz",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-038": {
     "player": "Jarballz",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-039": {
     "player": "keni",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-040": {
     "player": "Jarballz",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-041": {
     "player": "Jarballz",
@@ -236,13 +236,12 @@
   },
   "log-043": {
     "player": "Jarballz",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP08-034"
   },
   "log-044": {
     "player": "Jarballz",
-    "action": "Reveal and Draw",
-    "card": "OP08-023"
+    "action": "Reveal and Draw"
   },
   "log-045": {
     "player": "Jarballz",
@@ -256,13 +255,12 @@
   },
   "log-047": {
     "player": "Jarballz",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP08-034"
   },
   "log-048": {
     "player": "Jarballz",
-    "action": "Reveal and Draw",
-    "card": "OP02-032"
+    "action": "Reveal and Draw"
   },
   "log-049": {
     "player": "Jarballz",
@@ -270,11 +268,11 @@
   },
   "log-050": {
     "player": "Jarballz",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-051": {
     "player": "keni",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-015",
       "OP07-021",
@@ -284,24 +282,24 @@
   },
   "log-052": {
     "player": "keni",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST02-007"
     ]
   },
   "log-053": {
     "player": "keni",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-054": {
     "player": "keni",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-055": {
     "player": "Jarballz",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP08-022",
       "OP08-036",
@@ -313,12 +311,12 @@
   },
   "log-056": {
     "player": "Jarballz",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-057": {
     "player": "Jarballz",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-034",
       "OP08-034"
@@ -326,8 +324,8 @@
   },
   "log-058": {
     "player": "Jarballz",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-059": {
     "player": "keni",
@@ -336,7 +334,7 @@
   },
   "log-060": {
     "player": "keni",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-061": {
     "player": "keni",
@@ -344,7 +342,7 @@
   },
   "log-062": {
     "player": "keni",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP05-030"
   },
   "log-063": {
@@ -355,8 +353,7 @@
   },
   "log-064": {
     "player": "keni",
-    "action": "Reveal and Draw",
-    "card": "EB01-012"
+    "action": "Reveal and Draw"
   },
   "log-065": {
     "player": "keni",
@@ -364,7 +361,7 @@
   },
   "log-066": {
     "player": "keni",
-    "action": "Leader attacking",
+    "action": "Attacking",
     "attacker": "Jewelry Bonney",
     "attacker_id": "OP07-019",
     "defender": "Carrot",
@@ -382,12 +379,12 @@
   },
   "log-068": {
     "player": "Jarballz",
-    "action": "Carrot hit for 1 damage",
-    "card": "OP08-021"
+    "action": "Damage taken by Jarballz",
+    "damage": 1
   },
   "log-069": {
     "player": "keni",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-015",
       "OP07-021",
@@ -398,7 +395,7 @@
   },
   "log-070": {
     "player": "keni",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST02-007",
       "OP05-030"
@@ -406,17 +403,17 @@
   },
   "log-071": {
     "player": "keni",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-072": {
     "player": "keni",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-073": {
     "player": "Jarballz",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP08-022",
       "OP08-036",
@@ -429,12 +426,12 @@
   },
   "log-074": {
     "player": "Jarballz",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-075": {
     "player": "Jarballz",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-034",
       "OP08-034"
@@ -442,16 +439,16 @@
   },
   "log-076": {
     "player": "Jarballz",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-077": {
     "player": "keni",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-078": {
     "player": "Jarballz",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-079": {
     "player": "Jarballz",
@@ -511,13 +508,12 @@
   },
   "log-087": {
     "player": "Jarballz",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "EB02-013"
   },
   "log-088": {
     "player": "Jarballz",
-    "action": "Reveal and Draw",
-    "card": "OP08-039"
+    "action": "Reveal and Draw"
   },
   "log-089": {
     "player": "Jarballz",
@@ -525,7 +521,7 @@
   },
   "log-090": {
     "player": "Jarballz",
-    "action": "Leader attacking",
+    "action": "Attacking",
     "attacker": "Carrot",
     "attacker_id": "OP08-021",
     "defender": "Jewelry Bonney",
@@ -562,7 +558,7 @@
   },
   "log-096": {
     "player": "Jarballz",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP08-030"
   },
   "log-097": {
@@ -573,11 +569,11 @@
   },
   "log-098": {
     "player": "Jarballz",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-099": {
     "player": "keni",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-015",
       "OP06-035",
@@ -587,12 +583,12 @@
   },
   "log-100": {
     "player": "keni",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-101": {
     "player": "keni",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "ST02-007",
       "OP05-030",
@@ -601,12 +597,12 @@
   },
   "log-102": {
     "player": "keni",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-103": {
     "player": "Jarballz",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP08-022",
       "OP08-036",
@@ -618,12 +614,12 @@
   },
   "log-104": {
     "player": "Jarballz",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-105": {
     "player": "Jarballz",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-034",
       "OP08-034",
@@ -633,8 +629,8 @@
   },
   "log-106": {
     "player": "Jarballz",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-107": {
     "player": "keni",
@@ -643,7 +639,7 @@
   },
   "log-108": {
     "player": "keni",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-109": {
     "player": "keni",
@@ -651,7 +647,7 @@
   },
   "log-110": {
     "player": "keni",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "EB01-012"
   },
   "log-111": {
@@ -661,12 +657,12 @@
   },
   "log-112": {
     "player": "keni",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP01-039"
   },
   "log-113": {
     "player": "keni",
-    "action": "Leader attacking",
+    "action": "Attacking",
     "attacker": "Jewelry Bonney",
     "attacker_id": "OP07-019",
     "defender": "Wanda",
@@ -689,7 +685,7 @@
   },
   "log-116": {
     "player": "keni",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-015",
       "OP06-035",
@@ -698,7 +694,7 @@
   },
   "log-117": {
     "player": "keni",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "EB01-012",
       "OP01-039"
@@ -706,7 +702,7 @@
   },
   "log-118": {
     "player": "keni",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "ST02-007",
       "OP05-030",
@@ -715,12 +711,12 @@
   },
   "log-119": {
     "player": "keni",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-120": {
     "player": "Jarballz",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP08-022",
       "OP08-036",
@@ -732,14 +728,14 @@
   },
   "log-121": {
     "player": "Jarballz",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP08-034"
     ]
   },
   "log-122": {
     "player": "Jarballz",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-034",
       "EB02-013",
@@ -748,16 +744,16 @@
   },
   "log-123": {
     "player": "Jarballz",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-124": {
     "player": "keni",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-125": {
     "player": "Jarballz",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-126": {
     "player": "Jarballz",
@@ -776,7 +772,7 @@
   },
   "log-129": {
     "player": "Jarballz",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP08-023"
   },
   "log-130": {
@@ -814,13 +810,13 @@
   },
   "log-135": {
     "player": "Jarballz",
-    "action": "Attach 1 Don to",
+    "action": "Attached 0 Don to OP08-021",
     "card": "OP08-021",
-    "total_don": 1
+    "total_don": 0
   },
   "log-136": {
     "player": "Jarballz",
-    "action": "Leader attacking",
+    "action": "Attacking",
     "attacker": "Carrot",
     "attacker_id": "OP08-021",
     "defender": "Jewelry Bonney",
@@ -857,13 +853,12 @@
   },
   "log-142": {
     "player": "Jarballz",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP08-034"
   },
   "log-143": {
     "player": "Jarballz",
-    "action": "Reveal and Draw",
-    "card": "OP08-023"
+    "action": "Reveal and Draw"
   },
   "log-144": {
     "player": "Jarballz",
@@ -877,18 +872,18 @@
   },
   "log-146": {
     "player": "Jarballz",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-147": {
     "player": "keni",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP06-035"
     ]
   },
   "log-148": {
     "player": "keni",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "EB01-012",
       "OP01-039"
@@ -896,7 +891,7 @@
   },
   "log-149": {
     "player": "keni",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "ST02-007",
       "OP05-030",
@@ -907,12 +902,12 @@
   },
   "log-150": {
     "player": "keni",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-151": {
     "player": "Jarballz",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP08-022",
       "OP08-036",
@@ -924,14 +919,14 @@
   },
   "log-152": {
     "player": "Jarballz",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP08-034"
     ]
   },
   "log-153": {
     "player": "Jarballz",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-034",
       "EB02-013",
@@ -942,8 +937,8 @@
   },
   "log-154": {
     "player": "Jarballz",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-155": {
     "player": "keni",
@@ -952,7 +947,7 @@
   },
   "log-156": {
     "player": "keni",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-157": {
     "player": "keni",
@@ -960,7 +955,7 @@
   },
   "log-158": {
     "player": "keni",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP06-035"
   },
   "log-159": {
@@ -1020,7 +1015,7 @@
   },
   "log-168": {
     "player": "keni",
-    "action": "Leader attacking",
+    "action": "Attacking",
     "attacker": "Jewelry Bonney",
     "attacker_id": "OP07-019",
     "defender": "Wanda",
@@ -1043,7 +1038,7 @@
   },
   "log-171": {
     "player": "keni",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-029",
       "ST02-007"
@@ -1051,7 +1046,7 @@
   },
   "log-172": {
     "player": "keni",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP01-039",
       "OP06-035"
@@ -1059,7 +1054,7 @@
   },
   "log-173": {
     "player": "keni",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "ST02-007",
       "OP05-030",
@@ -1071,12 +1066,12 @@
   },
   "log-174": {
     "player": "keni",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-175": {
     "player": "Jarballz",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP08-022",
       "OP08-036",
@@ -1088,7 +1083,7 @@
   },
   "log-176": {
     "player": "Jarballz",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP08-034",
       "OP08-030",
@@ -1097,7 +1092,7 @@
   },
   "log-177": {
     "player": "Jarballz",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "EB02-013",
       "OP08-023",
@@ -1106,16 +1101,16 @@
   },
   "log-178": {
     "player": "Jarballz",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-179": {
     "player": "keni",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-180": {
     "player": "Jarballz",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-181": {
     "player": "Jarballz",
@@ -1185,12 +1180,12 @@
   },
   "log-191": {
     "player": "Jarballz",
-    "action": "Jewelry Bonney hit for 1 damage",
-    "card": "OP07-019"
+    "action": "Damage taken by Jarballz",
+    "damage": 1
   },
   "log-192": {
     "player": "Jarballz",
-    "action": "Leader attacking",
+    "action": "Attacking",
     "attacker": "Carrot",
     "attacker_id": "OP08-021",
     "defender": "Jewelry Bonney",
@@ -1208,12 +1203,12 @@
   },
   "log-194": {
     "player": "Jarballz",
-    "action": "Jewelry Bonney hit for 1 damage",
-    "card": "OP07-019"
+    "action": "Damage taken by Jarballz",
+    "damage": 1
   },
   "log-195": {
     "player": "Jarballz",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP02-032"
   },
   "log-196": {
@@ -1267,7 +1262,7 @@
   },
   "log-204": {
     "player": "Jarballz",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP08-023"
   },
   "log-205": {
@@ -1284,11 +1279,11 @@
   },
   "log-207": {
     "player": "Jarballz",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-208": {
     "player": "keni",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-029",
       "ST16-004"
@@ -1296,7 +1291,7 @@
   },
   "log-209": {
     "player": "keni",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP01-039",
       "OP06-035"
@@ -1304,7 +1299,7 @@
   },
   "log-210": {
     "player": "keni",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "ST02-007",
       "OP05-030",
@@ -1318,12 +1313,12 @@
   },
   "log-211": {
     "player": "keni",
-    "action": "Life",
-    "value": 2
+    "action": "Life state",
+    "life": 2
   },
   "log-212": {
     "player": "Jarballz",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP08-022",
       "OP08-036",
@@ -1334,7 +1329,7 @@
   },
   "log-213": {
     "player": "Jarballz",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP08-034",
       "OP08-030",
@@ -1343,7 +1338,7 @@
   },
   "log-214": {
     "player": "Jarballz",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "EB02-013",
       "OP08-023",
@@ -1354,8 +1349,8 @@
   },
   "log-215": {
     "player": "Jarballz",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-216": {
     "player": "keni",
@@ -1364,7 +1359,7 @@
   },
   "log-217": {
     "player": "keni",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-218": {
     "player": "keni",
@@ -1372,7 +1367,7 @@
   },
   "log-219": {
     "player": "keni",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP06-035"
   },
   "log-220": {
@@ -1416,13 +1411,13 @@
   },
   "log-226": {
     "player": "keni",
-    "action": "Attach 1 Don to",
+    "action": "Attached 0 Don to OP07-019",
     "card": "OP07-019",
-    "total_don": 1
+    "total_don": 0
   },
   "log-227": {
     "player": "keni",
-    "action": "Leader attacking",
+    "action": "Attacking",
     "attacker": "Jewelry Bonney",
     "attacker_id": "OP07-019",
     "defender": "Carrot",
@@ -1449,7 +1444,7 @@
   },
   "log-231": {
     "player": "keni",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-029",
       "ST16-004",
@@ -1458,7 +1453,7 @@
   },
   "log-232": {
     "player": "keni",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP01-039",
       "OP06-035",
@@ -1467,7 +1462,7 @@
   },
   "log-233": {
     "player": "keni",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "ST02-007",
       "OP05-030",
@@ -1481,12 +1476,12 @@
   },
   "log-234": {
     "player": "keni",
-    "action": "Life",
-    "value": 1
+    "action": "Life state",
+    "life": 1
   },
   "log-235": {
     "player": "Jarballz",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP08-022",
       "OP08-036",
@@ -1496,7 +1491,7 @@
   },
   "log-236": {
     "player": "Jarballz",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP08-034",
       "OP08-030",
@@ -1507,7 +1502,7 @@
   },
   "log-237": {
     "player": "Jarballz",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "EB02-013",
       "OP08-034",
@@ -1517,16 +1512,16 @@
   },
   "log-238": {
     "player": "Jarballz",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-239": {
     "player": "keni",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-240": {
     "player": "Jarballz",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-241": {
     "player": "Jarballz",
@@ -1539,7 +1534,7 @@
   },
   "log-243": {
     "player": "Jarballz",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP06-035"
   },
   "log-244": {
@@ -1553,7 +1548,7 @@
   },
   "log-246": {
     "player": "Jarballz",
-    "action": "Leader attacking",
+    "action": "Attacking",
     "attacker": "Carrot",
     "attacker_id": "OP08-021",
     "defender": "Jewelry Bonney",
@@ -1571,14 +1566,14 @@
   },
   "log-248": {
     "player": "Jarballz",
-    "action": "Jewelry Bonney hit for 1 damage",
-    "card": "OP07-019"
+    "action": "Damage taken by Jarballz",
+    "damage": 1
   },
   "log-249": {
     "player": "Jarballz",
-    "action": "Attach 1 Don to",
+    "action": "Attached 0 Don to OP08-023",
     "card": "OP08-023",
-    "total_don": 1
+    "total_don": 0
   },
   "log-250": {
     "player": "Jarballz",

@@ -129,11 +129,11 @@
   },
   "log-027": {
     "player": "Pirate4156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-028": {
     "player": "Pirate26156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP03-013",
       "OP09-015",
@@ -144,22 +144,22 @@
   },
   "log-029": {
     "player": "Pirate26156",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-030": {
     "player": "Pirate26156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-031": {
     "player": "Pirate26156",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-032": {
     "player": "Pirate4156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-015",
       "EB01-015",
@@ -170,18 +170,18 @@
   },
   "log-033": {
     "player": "Pirate4156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-034": {
     "player": "Pirate4156",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-035": {
     "player": "Pirate4156",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-036": {
     "player": "Pirate26156",
@@ -190,7 +190,7 @@
   },
   "log-037": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-038": {
     "player": "Pirate26156",
@@ -198,7 +198,7 @@
   },
   "log-039": {
     "player": "Pirate26156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP03-013",
       "OP09-015",
@@ -210,22 +210,22 @@
   },
   "log-040": {
     "player": "Pirate26156",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-041": {
     "player": "Pirate26156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-042": {
     "player": "Pirate26156",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-043": {
     "player": "Pirate4156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-015",
       "EB01-015",
@@ -236,26 +236,26 @@
   },
   "log-044": {
     "player": "Pirate4156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-045": {
     "player": "Pirate4156",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-046": {
     "player": "Pirate4156",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-047": {
     "player": "Pirate26156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-048": {
     "player": "Pirate4156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-049": {
     "player": "Pirate4156",
@@ -268,15 +268,17 @@
   },
   "log-051": {
     "player": "Pirate4156",
-    "action": "Attach 1 Don to Jewelry Bonney",
+    "action": "Attached 1 Don to OP07-019",
     "card": "OP07-019",
-    "value": 1
+    "total_don": 1
   },
   "log-052": {
     "player": "Pirate4156",
-    "action": "Jewelry Bonney attacking Shanks",
-    "source_card": "OP07-019",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-053": {
     "player": "Pirate26156",
@@ -296,16 +298,16 @@
   },
   "log-056": {
     "player": "Pirate4156",
-    "action": "Deploy Donquixote Rosinante",
+    "action": "Played card",
     "card": "OP05-030"
   },
   "log-057": {
     "player": "Pirate4156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-058": {
     "player": "Pirate26156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP03-013",
       "OP09-015",
@@ -316,24 +318,24 @@
   },
   "log-059": {
     "player": "Pirate26156",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-060": {
     "player": "Pirate26156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP10-005"
     ]
   },
   "log-061": {
     "player": "Pirate26156",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-062": {
     "player": "Pirate4156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-015",
       "EB01-015",
@@ -344,20 +346,20 @@
   },
   "log-063": {
     "player": "Pirate4156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-064": {
     "player": "Pirate4156",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP05-030"
     ]
   },
   "log-065": {
     "player": "Pirate4156",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-066": {
     "player": "Pirate26156",
@@ -366,7 +368,7 @@
   },
   "log-067": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-068": {
     "player": "Pirate26156",
@@ -374,23 +376,25 @@
   },
   "log-069": {
     "player": "Pirate26156",
-    "action": "Deploy Lucky Roux",
+    "action": "Played card",
     "card": "OP09-015"
   },
   "log-070": {
     "player": "Pirate26156",
-    "action": "Shanks attacking Jewelry Bonney",
-    "source_card": "OP09-001",
-    "target_card": "OP07-019"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
   },
   "log-071": {
     "player": "Pirate4156",
-    "action": "Jewelry Bonney hit for 1 damage",
-    "card": "OP07-019"
+    "action": "Damage taken by Pirate4156",
+    "damage": 1
   },
   "log-072": {
     "player": "Pirate26156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP03-013",
       "OP01-006",
@@ -401,26 +405,26 @@
   },
   "log-073": {
     "player": "Pirate26156",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP09-015"
     ]
   },
   "log-074": {
     "player": "Pirate26156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP10-005"
     ]
   },
   "log-075": {
     "player": "Pirate26156",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-076": {
     "player": "Pirate4156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-015",
       "EB01-015",
@@ -432,28 +436,28 @@
   },
   "log-077": {
     "player": "Pirate4156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-078": {
     "player": "Pirate4156",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP05-030"
     ]
   },
   "log-079": {
     "player": "Pirate4156",
-    "action": "Life",
-    "life": 4
+    "action": "Life state",
+    "life": 0
   },
   "log-080": {
     "player": "Pirate26156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-081": {
     "player": "Pirate4156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-082": {
     "player": "Pirate4156",
@@ -466,9 +470,11 @@
   },
   "log-084": {
     "player": "Pirate4156",
-    "action": "Jewelry Bonney attacking Shanks",
-    "source_card": "OP07-019",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-085": {
     "player": "Pirate26156",
@@ -483,16 +489,16 @@
   },
   "log-087": {
     "player": "Pirate4156",
-    "action": "Deploy Carrot",
+    "action": "Played card",
     "card": "OP08-023"
   },
   "log-088": {
     "player": "Pirate4156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-089": {
     "player": "Pirate26156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP03-013",
       "OP01-006",
@@ -503,26 +509,26 @@
   },
   "log-090": {
     "player": "Pirate26156",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP09-015"
     ]
   },
   "log-091": {
     "player": "Pirate26156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP10-005"
     ]
   },
   "log-092": {
     "player": "Pirate26156",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-093": {
     "player": "Pirate4156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-015",
       "EB01-015",
@@ -534,12 +540,12 @@
   },
   "log-094": {
     "player": "Pirate4156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-095": {
     "player": "Pirate4156",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP05-030",
       "OP08-023"
@@ -547,8 +553,8 @@
   },
   "log-096": {
     "player": "Pirate4156",
-    "action": "Life",
-    "life": 4
+    "action": "Life state",
+    "life": 0
   },
   "log-097": {
     "player": "Pirate26156",
@@ -557,7 +563,7 @@
   },
   "log-098": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-099": {
     "player": "Pirate26156",
@@ -565,7 +571,7 @@
   },
   "log-100": {
     "player": "Pirate26156",
-    "action": "Deploy Marco",
+    "action": "Played card",
     "card": "OP03-013"
   },
   "log-101": {

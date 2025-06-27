@@ -379,10 +379,10 @@
   "log-069": {
     "player": "rintosh1",
     "action": "Attacking",
-    "attacker": "Shanks",
-    "attacker_id": "OP09-001",
-    "defender": "Monkey D. Luffy",
-    "defender_id": "ST21-001"
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
   },
   "log-070": {
     "player": "System",
@@ -491,10 +491,10 @@
   "log-086": {
     "player": "bigmac",
     "action": "Attacking",
-    "attacker": "Monkey D. Luffy",
-    "attacker_id": "ST21-001",
-    "defender": "Shanks",
-    "defender_id": "OP09-001"
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
   },
   "log-087": {
     "player": "rintosh1",
@@ -630,10 +630,10 @@
   "log-107": {
     "player": "rintosh1",
     "action": "Attacking",
-    "attacker": "Shanks",
-    "attacker_id": "OP09-001",
-    "defender": "Monkey D. Luffy",
-    "defender_id": "ST21-001"
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
   },
   "log-108": {
     "player": "System",
@@ -657,10 +657,10 @@
   "log-110": {
     "player": "rintosh1",
     "action": "Attacking",
-    "attacker": "Sanji",
-    "attacker_id": "OP10-005",
-    "defender": "Monkey D. Luffy",
-    "defender_id": "ST21-001"
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
   },
   "log-111": {
     "player": "System",
@@ -793,10 +793,10 @@
   "log-130": {
     "player": "bigmac",
     "action": "Attacking",
-    "attacker": "Nico Robin",
-    "attacker_id": "OP11-009",
-    "defender": "Shanks",
-    "defender_id": "OP09-001"
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
   },
   "log-131": {
     "player": "bigmac",
@@ -846,10 +846,10 @@
   "log-137": {
     "player": "bigmac",
     "action": "Attacking",
-    "attacker": "Monkey D. Luffy",
-    "attacker_id": "ST21-001",
-    "defender": "Sanji",
-    "defender_id": "OP10-005"
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
   },
   "log-138": {
     "player": "rintosh1",
@@ -982,10 +982,10 @@
   "log-157": {
     "player": "rintosh1",
     "action": "Attacking",
-    "attacker": "Shanks",
-    "attacker_id": "OP09-001",
-    "defender": "Monkey D. Luffy",
-    "defender_id": "ST21-001"
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
   },
   "log-158": {
     "player": "bigmac",
@@ -1139,10 +1139,10 @@
   "log-180": {
     "player": "bigmac",
     "action": "Attacking",
-    "attacker": "Monkey D. Luffy",
-    "attacker_id": "ST21-001",
-    "defender": "Shanks",
-    "defender_id": "OP09-001"
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
   },
   "log-181": {
     "player": "rintosh1",
@@ -1185,10 +1185,10 @@
   "log-186": {
     "player": "bigmac",
     "action": "Attacking",
-    "attacker": "Nico Robin",
-    "attacker_id": "OP11-009",
-    "defender": "Shanks",
-    "defender_id": "OP09-001"
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
   },
   "log-187": {
     "player": "bigmac",
@@ -1329,10 +1329,10 @@
   "log-206": {
     "player": "rintosh1",
     "action": "Attacking",
-    "attacker": "Shanks",
-    "attacker_id": "OP09-001",
-    "defender": "Monkey D. Luffy",
-    "defender_id": "ST21-001"
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
   },
   "log-207": {
     "player": "System",
@@ -1356,10 +1356,10 @@
   "log-209": {
     "player": "rintosh1",
     "action": "Attacking",
-    "attacker": "Benn Beckman",
-    "attacker_id": "OP09-009",
-    "defender": "Monkey D. Luffy",
-    "defender_id": "ST21-001"
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
   },
   "log-210": {
     "player": "bigmac",
@@ -1506,10 +1506,10 @@
   "log-230": {
     "player": "bigmac",
     "action": "Attacking",
-    "attacker": "Monkey D. Luffy",
-    "attacker_id": "ST10-006",
-    "defender": "Benn Beckman",
-    "defender_id": "OP09-009"
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
   },
   "log-231": {
     "player": "System",
@@ -1545,10 +1545,10 @@
   "log-235": {
     "player": "bigmac",
     "action": "Attacking",
-    "attacker": "Monkey D. Luffy",
-    "attacker_id": "ST21-001",
-    "defender": "Shanks",
-    "defender_id": "OP09-001"
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
   },
   "log-236": {
     "player": "rintosh1",
@@ -1684,10 +1684,10 @@
   "log-254": {
     "player": "rintosh1",
     "action": "Attacking",
-    "attacker": "Monkey D. Luffy",
-    "attacker_id": "ST21-014",
-    "defender": "Monkey D. Luffy",
-    "defender_id": "ST21-001"
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
   },
   "log-255": {
     "player": "rintosh1",
@@ -1723,10 +1723,10 @@
   "log-259": {
     "player": "rintosh1",
     "action": "Attacking",
-    "attacker": "Shanks",
-    "attacker_id": "OP09-001",
-    "defender": "Tony Tony Chopper",
-    "defender_id": "OP10-011"
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
   },
   "log-260": {
     "player": "bigmac",
@@ -1755,10 +1755,10 @@
   "log-263": {
     "player": "rintosh1",
     "action": "Attacking",
-    "attacker": "Benn Beckman",
-    "attacker_id": "OP09-009",
-    "defender": "Monkey D. Luffy",
-    "defender_id": "ST21-001"
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
   },
   "log-264": {
     "player": "bigmac",

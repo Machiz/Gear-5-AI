@@ -1,9 +1,8 @@
 {
   "log-001": {
     "player": "6ixAtLead",
-    "action": "Leader selected",
-    "card": "OP07-019",
-    "card_id": "OP07-019"
+    "action": "Leader is Jewelry Bonney",
+    "card": "OP07-019"
   },
   "log-002": {
     "player": "keni",
@@ -11,62 +10,61 @@
   },
   "log-003": {
     "player": "keni",
-    "action": "Leader selected",
-    "card": "OP07-019",
-    "card_id": "OP07-019"
+    "action": "Leader is Jewelry Bonney",
+    "card": "OP07-019"
   },
   "log-004": {
     "player": "6ixAtLead",
-    "action": "Chose to go first"
+    "action": "Chose to go First"
   },
   "log-005": {
     "player": "6ixAtLead",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "EB01-012"
   },
   "log-006": {
     "player": "6ixAtLead",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "EB01-015"
   },
   "log-007": {
     "player": "6ixAtLead",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "OP05-030"
   },
   "log-008": {
     "player": "6ixAtLead",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "OP08-030"
   },
   "log-009": {
     "player": "6ixAtLead",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "ST16-004"
   },
   "log-010": {
     "player": "keni",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "EB01-015"
   },
   "log-011": {
     "player": "keni",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "OP08-030"
   },
   "log-012": {
     "player": "keni",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "OP05-030"
   },
   "log-013": {
     "player": "keni",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "OP07-029"
   },
   "log-014": {
     "player": "keni",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "OP07-021"
   },
   "log-015": {
@@ -82,27 +80,27 @@
   },
   "log-016": {
     "player": "keni",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "ST02-007"
   },
   "log-017": {
     "player": "keni",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "OP10-030"
   },
   "log-018": {
     "player": "keni",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "OP10-030"
   },
   "log-019": {
     "player": "keni",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "ST16-004"
   },
   "log-020": {
     "player": "keni",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "OP06-035"
   },
   "log-021": {
@@ -122,7 +120,7 @@
   },
   "log-023": {
     "player": "6ixAtLead",
-    "action": "Draw Don"
+    "action": "Draw 1 Don"
   },
   "log-024": {
     "player": "6ixAtLead",
@@ -152,7 +150,7 @@
   "log-028": {
     "player": "keni",
     "action": "Life state",
-    "value": 5
+    "life": 5
   },
   "log-029": {
     "player": "6ixAtLead",
@@ -178,20 +176,20 @@
   "log-032": {
     "player": "6ixAtLead",
     "action": "Life state",
-    "value": 5
+    "life": 5
   },
   "log-033": {
     "player": "keni",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "ST02-007"
   },
   "log-034": {
     "player": "keni",
-    "action": "Draw card"
+    "action": "Draw 1 card"
   },
   "log-035": {
     "player": "keni",
-    "action": "Draw Don"
+    "action": "Draw 2 Don"
   },
   "log-036": {
     "player": "keni",
@@ -200,13 +198,12 @@
   },
   "log-037": {
     "player": "keni",
-    "action": "Rest",
+    "action": "ST02-007: Rest",
     "card": "ST02-007"
   },
   "log-038": {
     "player": "keni",
-    "action": "Reveal and Draw",
-    "card": "OP07-021"
+    "action": "Reveal and Draw"
   },
   "log-039": {
     "player": "keni",
@@ -239,7 +236,7 @@
   "log-043": {
     "player": "keni",
     "action": "Life state",
-    "value": 5
+    "life": 5
   },
   "log-044": {
     "player": "6ixAtLead",
@@ -265,7 +262,7 @@
   "log-047": {
     "player": "6ixAtLead",
     "action": "Life state",
-    "value": 5
+    "life": 5
   },
   "log-048": {
     "player": "keni",
@@ -273,16 +270,16 @@
   },
   "log-049": {
     "player": "6ixAtLead",
-    "action": "Draw card"
+    "action": "Draw 1 card"
   },
   "log-050": {
     "player": "6ixAtLead",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "OP08-030"
   },
   "log-051": {
     "player": "6ixAtLead",
-    "action": "Draw Don"
+    "action": "Draw 2 Don"
   },
   "log-052": {
     "player": "6ixAtLead",
@@ -343,7 +340,7 @@
   "log-060": {
     "player": "keni",
     "action": "Life state",
-    "value": 5
+    "life": 5
   },
   "log-061": {
     "player": "6ixAtLead",
@@ -371,20 +368,20 @@
   "log-064": {
     "player": "6ixAtLead",
     "action": "Life state",
-    "value": 5
+    "life": 5
   },
   "log-065": {
     "player": "keni",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "EB01-015"
   },
   "log-066": {
     "player": "keni",
-    "action": "Draw card"
+    "action": "Draw 1 card"
   },
   "log-067": {
     "player": "keni",
-    "action": "Draw Don"
+    "action": "Draw 2 Don"
   },
   "log-068": {
     "player": "keni",
@@ -393,13 +390,12 @@
   },
   "log-069": {
     "player": "keni",
-    "action": "Rest",
+    "action": "ST02-007: Rest",
     "card": "ST02-007"
   },
   "log-070": {
     "player": "keni",
-    "action": "Reveal and Draw",
-    "card": "OP01-039"
+    "action": "Reveal and Draw"
   },
   "log-071": {
     "player": "keni",
@@ -420,8 +416,8 @@
   },
   "log-074": {
     "player": "6ixAtLead",
-    "action": "Rest",
-    "card": "OP07-019"
+    "action": "OP07-019: Rest",
+    "card": "OP01-039"
   },
   "log-075": {
     "player": "keni",
@@ -435,7 +431,8 @@
   },
   "log-076": {
     "player": "keni",
-    "action": "Jewelry Bonney hit for 1 damage"
+    "action": "Damage taken by keni",
+    "damage": 1
   },
   "log-077": {
     "player": "keni",
@@ -467,7 +464,7 @@
   "log-080": {
     "player": "keni",
     "action": "Life state",
-    "value": 5
+    "life": 5
   },
   "log-081": {
     "player": "6ixAtLead",
@@ -496,7 +493,7 @@
   "log-084": {
     "player": "6ixAtLead",
     "action": "Life state",
-    "value": 4
+    "life": 4
   },
   "log-085": {
     "player": "keni",
@@ -504,16 +501,16 @@
   },
   "log-086": {
     "player": "6ixAtLead",
-    "action": "Draw card"
+    "action": "Draw 1 card"
   },
   "log-087": {
     "player": "6ixAtLead",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "ST16-004"
   },
   "log-088": {
     "player": "6ixAtLead",
-    "action": "Draw Don"
+    "action": "Draw 2 Don"
   },
   "log-089": {
     "player": "6ixAtLead",
@@ -545,8 +542,7 @@
   },
   "log-093": {
     "player": "6ixAtLead",
-    "action": "Activate 2 Don",
-    "card": "EB01-012"
+    "action": "EB01-012: Activate 2 Don"
   },
   "log-094": {
     "player": "6ixAtLead",
@@ -582,7 +578,7 @@
   "log-098": {
     "player": "keni",
     "action": "Life state",
-    "value": 5
+    "life": 5
   },
   "log-099": {
     "player": "6ixAtLead",
@@ -612,20 +608,20 @@
   "log-102": {
     "player": "6ixAtLead",
     "action": "Life state",
-    "value": 4
+    "life": 4
   },
   "log-103": {
     "player": "keni",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "ST02-007"
   },
   "log-104": {
     "player": "keni",
-    "action": "Draw card"
+    "action": "Draw 1 card"
   },
   "log-105": {
     "player": "keni",
-    "action": "Draw Don"
+    "action": "Draw 2 Don"
   },
   "log-106": {
     "player": "keni",
@@ -639,8 +635,8 @@
   },
   "log-108": {
     "player": "keni",
-    "action": "Rest",
-    "card": "EB01-015"
+    "action": "EB01-015: Rest",
+    "card": "OP05-030"
   },
   "log-109": {
     "player": "keni",
@@ -657,7 +653,7 @@
   },
   "log-111": {
     "player": "6ixAtLead",
-    "action": "Rest",
+    "action": "OP07-019: Rest",
     "card": "OP07-019"
   },
   "log-112": {
@@ -706,7 +702,7 @@
   "log-117": {
     "player": "keni",
     "action": "Life state",
-    "value": 5
+    "life": 5
   },
   "log-118": {
     "player": "6ixAtLead",
@@ -737,12 +733,11 @@
   "log-121": {
     "player": "6ixAtLead",
     "action": "Life state",
-    "value": 4
+    "life": 4
   },
   "log-122": {
     "player": "keni",
-    "action": "Activate 1 Don",
-    "card": "OP07-021"
+    "action": "OP07-021: Activate 1 Don"
   },
   "log-123": {
     "player": "keni",
@@ -750,16 +745,16 @@
   },
   "log-124": {
     "player": "6ixAtLead",
-    "action": "Draw card"
+    "action": "Draw 1 card"
   },
   "log-125": {
     "player": "6ixAtLead",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "OP01-051"
   },
   "log-126": {
     "player": "6ixAtLead",
-    "action": "Draw Don"
+    "action": "Draw 2 Don"
   },
   "log-127": {
     "player": "6ixAtLead",
@@ -776,13 +771,12 @@
   },
   "log-129": {
     "player": "6ixAtLead",
-    "action": "Activate 2 Don",
-    "card": "EB01-012"
+    "action": "EB01-012: Activate 2 Don"
   },
   "log-130": {
     "player": "keni",
-    "action": "Rest",
-    "card": "OP07-019"
+    "action": "OP07-019: Rest",
+    "card": "OP08-030"
   },
   "log-131": {
     "player": "keni",
@@ -796,7 +790,8 @@
   },
   "log-132": {
     "player": "keni",
-    "action": "Jewelry Bonney hit for 1 damage"
+    "action": "Damage taken by keni",
+    "damage": 1
   },
   "log-133": {
     "player": "6ixAtLead",
@@ -863,7 +858,7 @@
   "log-141": {
     "player": "keni",
     "action": "Life state",
-    "value": 4
+    "life": 4
   },
   "log-142": {
     "player": "6ixAtLead",
@@ -895,38 +890,38 @@
   "log-145": {
     "player": "6ixAtLead",
     "action": "Life state",
-    "value": 4
+    "life": 4
   },
   "log-146": {
     "player": "keni",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "OP05-030"
   },
   "log-147": {
     "player": "keni",
-    "action": "Draw card"
+    "action": "Draw 1 card"
   },
   "log-148": {
     "player": "keni",
-    "action": "Draw Don"
+    "action": "Draw 2 Don"
   },
   "log-149": {
     "player": "keni",
-    "action": "Attached 1 Don to",
+    "action": "Attached 0 Don to OP07-021",
     "card": "OP07-021",
-    "total_don": 1
+    "total_don": 0
   },
   "log-150": {
     "player": "keni",
-    "action": "Attached 1 Don to",
+    "action": "Attached 0 Don to OP07-021",
     "card": "OP07-021",
-    "total_don": 2
+    "total_don": 0
   },
   "log-151": {
     "player": "keni",
-    "action": "Attached 1 Don to",
+    "action": "Attached 0 Don to OP07-021",
     "card": "OP07-021",
-    "total_don": 3
+    "total_don": 0
   },
   "log-152": {
     "player": "keni",
@@ -938,7 +933,7 @@
   },
   "log-153": {
     "player": "6ixAtLead",
-    "action": "Rest",
+    "action": "OP07-019: Rest",
     "card": "OP07-019"
   },
   "log-154": {
@@ -963,8 +958,8 @@
   },
   "log-157": {
     "player": "6ixAtLead",
-    "action": "Destroy",
-    "card": "OP08-030"
+    "action": "OP08-030: Destroy",
+    "card": "OP07-021"
   },
   "log-158": {
     "player": "keni",
@@ -973,9 +968,9 @@
   },
   "log-159": {
     "player": "keni",
-    "action": "Attached 2 Don to",
+    "action": "Attached 0 Don to OP07-019",
     "card": "OP07-019",
-    "total_don": 2
+    "total_don": 0
   },
   "log-160": {
     "player": "keni",
@@ -1010,7 +1005,7 @@
   "log-163": {
     "player": "keni",
     "action": "Life state",
-    "value": 4
+    "life": 4
   },
   "log-164": {
     "player": "6ixAtLead",
@@ -1042,7 +1037,7 @@
   "log-167": {
     "player": "6ixAtLead",
     "action": "Life state",
-    "value": 4
+    "life": 4
   },
   "log-168": {
     "player": "keni",
@@ -1050,16 +1045,16 @@
   },
   "log-169": {
     "player": "6ixAtLead",
-    "action": "Draw card"
+    "action": "Draw 1 card"
   },
   "log-170": {
     "player": "6ixAtLead",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "ST16-004"
   },
   "log-171": {
     "player": "6ixAtLead",
-    "action": "Draw Don"
+    "action": "Draw 2 Don"
   },
   "log-172": {
     "player": "6ixAtLead",
@@ -1076,13 +1071,12 @@
   },
   "log-174": {
     "player": "6ixAtLead",
-    "action": "Activate 2 Don",
-    "card": "EB01-012"
+    "action": "EB01-012: Activate 2 Don"
   },
   "log-175": {
     "player": "keni",
-    "action": "Rest",
-    "card": "OP07-019"
+    "action": "OP07-019: Rest",
+    "card": "OP01-051"
   },
   "log-176": {
     "player": "keni",
@@ -1096,7 +1090,8 @@
   },
   "log-177": {
     "player": "keni",
-    "action": "Jewelry Bonney hit for 1 damage"
+    "action": "Damage taken by keni",
+    "damage": 1
   },
   "log-178": {
     "player": "6ixAtLead",
@@ -1132,9 +1127,9 @@
   },
   "log-183": {
     "player": "6ixAtLead",
-    "action": "Attached 1 Don to",
+    "action": "Attached 0 Don to OP01-051",
     "card": "OP01-051",
-    "total_don": 1
+    "total_don": 0
   },
   "log-184": {
     "player": "6ixAtLead",
@@ -1174,7 +1169,7 @@
   "log-188": {
     "player": "keni",
     "action": "Life state",
-    "value": 3
+    "life": 3
   },
   "log-189": {
     "player": "6ixAtLead",
@@ -1207,20 +1202,20 @@
   "log-192": {
     "player": "6ixAtLead",
     "action": "Life state",
-    "value": 4
+    "life": 4
   },
   "log-193": {
     "player": "keni",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "OP08-023"
   },
   "log-194": {
     "player": "keni",
-    "action": "Draw card"
+    "action": "Draw 1 card"
   },
   "log-195": {
     "player": "keni",
-    "action": "Draw Don"
+    "action": "Draw 2 Don"
   },
   "log-196": {
     "player": "keni",
@@ -1229,12 +1224,12 @@
   },
   "log-197": {
     "player": "keni",
-    "action": "Destroy",
-    "card": "ST16-004"
+    "action": "ST16-004: Destroy",
+    "card": "OP01-051"
   },
   "log-198": {
     "player": "6ixAtLead",
-    "action": "Trash",
+    "action": "OP05-030: Trash",
     "card": "OP05-030"
   },
   "log-199": {
@@ -1272,7 +1267,7 @@
   "log-202": {
     "player": "keni",
     "action": "Life state",
-    "value": 3
+    "life": 3
   },
   "log-203": {
     "player": "6ixAtLead",
@@ -1305,7 +1300,7 @@
   "log-206": {
     "player": "6ixAtLead",
     "action": "Life state",
-    "value": 4
+    "life": 4
   },
   "log-207": {
     "player": "keni",
@@ -1313,22 +1308,22 @@
   },
   "log-208": {
     "player": "6ixAtLead",
-    "action": "Draw card"
+    "action": "Draw 1 card"
   },
   "log-209": {
     "player": "6ixAtLead",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "EB01-012"
   },
   "log-210": {
     "player": "6ixAtLead",
-    "action": "Draw Don"
+    "action": "Draw 2 Don"
   },
   "log-211": {
     "player": "6ixAtLead",
-    "action": "Attached 1 Don to",
+    "action": "Attached 0 Don to OP01-051",
     "card": "OP01-051",
-    "total_don": 1
+    "total_don": 0
   },
   "log-212": {
     "player": "6ixAtLead",
@@ -1340,8 +1335,8 @@
   },
   "log-213": {
     "player": "keni",
-    "action": "Rest",
-    "card": "OP07-019"
+    "action": "OP07-019: Rest",
+    "card": "EB01-012"
   },
   "log-214": {
     "player": "keni",
@@ -1365,9 +1360,9 @@
   },
   "log-217": {
     "player": "6ixAtLead",
-    "action": "Attached 6 Don to",
+    "action": "Attached 0 Don to OP07-019",
     "card": "OP07-019",
-    "total_don": 6
+    "total_don": 0
   },
   "log-218": {
     "player": "6ixAtLead",
@@ -1389,7 +1384,8 @@
   },
   "log-220": {
     "player": "6ixAtLead",
-    "action": "Jewelry Bonney hit for 1 damage"
+    "action": "Damage taken by 6ixAtLead",
+    "damage": 1
   },
   "log-221": {
     "player": "6ixAtLead",
@@ -1431,7 +1427,7 @@
   "log-225": {
     "player": "keni",
     "action": "Life state",
-    "value": 2
+    "life": 2
   },
   "log-226": {
     "player": "6ixAtLead",
@@ -1465,16 +1461,16 @@
   "log-229": {
     "player": "6ixAtLead",
     "action": "Life state",
-    "value": 4
+    "life": 4
   },
   "log-230": {
     "player": "keni",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "OP01-039"
   },
   "log-231": {
     "player": "keni",
-    "action": "Draw card"
+    "action": "Draw 1 card"
   },
   "log-232": {
     "player": "keni",
@@ -1483,8 +1479,7 @@
   },
   "log-233": {
     "player": "keni",
-    "action": "EB01-012 will not Activate during next Refresh",
-    "card": "OP08-023"
+    "action": "OP08-023: EB01-012 will not Activate during next Refresh"
   },
   "log-234": {
     "player": "keni",
@@ -1496,8 +1491,8 @@
   },
   "log-235": {
     "player": "6ixAtLead",
-    "action": "Rest",
-    "card": "OP07-019"
+    "action": "OP07-019: Rest",
+    "card": "OP08-023"
   },
   "log-236": {
     "player": "6ixAtLead",
@@ -1521,8 +1516,8 @@
   },
   "log-239": {
     "player": "6ixAtLead",
-    "action": "Destroy",
-    "card": "OP08-030"
+    "action": "OP08-030: Destroy",
+    "card": "OP08-023"
   },
   "log-240": {
     "player": "keni",
@@ -1566,7 +1561,7 @@
   "log-244": {
     "player": "keni",
     "action": "Life state",
-    "value": 2
+    "life": 2
   },
   "log-245": {
     "player": "6ixAtLead",
@@ -1600,7 +1595,7 @@
   "log-248": {
     "player": "6ixAtLead",
     "action": "Life state",
-    "value": 4
+    "life": 4
   },
   "log-249": {
     "player": "keni",
@@ -1608,11 +1603,11 @@
   },
   "log-250": {
     "player": "6ixAtLead",
-    "action": "Draw card"
+    "action": "Draw 1 card"
   },
   "log-251": {
     "player": "6ixAtLead",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "OP08-023"
   },
   "log-252": {
@@ -1622,14 +1617,14 @@
   },
   "log-253": {
     "player": "6ixAtLead",
-    "action": "Destroy",
+    "action": "ST16-004: Destroy",
     "card": "ST16-004"
   },
   "log-254": {
     "player": "6ixAtLead",
-    "action": "Attached 1 Don to",
+    "action": "Attached 0 Don to OP01-051",
     "card": "OP01-051",
-    "total_don": 1
+    "total_don": 0
   },
   "log-255": {
     "player": "6ixAtLead",
@@ -1641,7 +1636,7 @@
   },
   "log-256": {
     "player": "keni",
-    "action": "Rest",
+    "action": "OP07-019: Rest",
     "card": "OP07-019"
   },
   "log-257": {
@@ -1656,7 +1651,8 @@
   },
   "log-258": {
     "player": "keni",
-    "action": "Jewelry Bonney hit for 1 damage"
+    "action": "Damage taken by keni",
+    "damage": 1
   },
   "log-259": {
     "player": "6ixAtLead",
@@ -1700,7 +1696,7 @@
   "log-263": {
     "player": "keni",
     "action": "Life state",
-    "value": 1
+    "life": 1
   },
   "log-264": {
     "player": "6ixAtLead",
@@ -1735,16 +1731,16 @@
   "log-267": {
     "player": "6ixAtLead",
     "action": "Life state",
-    "value": 4
+    "life": 4
   },
   "log-268": {
     "player": "keni",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "OP10-032"
   },
   "log-269": {
     "player": "keni",
-    "action": "Draw card"
+    "action": "Draw 1 card"
   },
   "log-270": {
     "player": "keni",
@@ -1753,14 +1749,14 @@
   },
   "log-271": {
     "player": "keni",
-    "action": "Destroy",
-    "card": "ST16-004"
+    "action": "ST16-004: Destroy",
+    "card": "OP01-051"
   },
   "log-272": {
     "player": "keni",
-    "action": "Attached 1 Don to",
+    "action": "Attached 0 Don to OP07-019",
     "card": "OP07-019",
-    "total_don": 1
+    "total_don": 0
   },
   "log-273": {
     "player": "keni",
@@ -1828,7 +1824,7 @@
   "log-280": {
     "player": "keni",
     "action": "Life state",
-    "value": 1
+    "life": 1
   },
   "log-281": {
     "player": "6ixAtLead",
@@ -1863,7 +1859,7 @@
   "log-284": {
     "player": "6ixAtLead",
     "action": "Life state",
-    "value": 4
+    "life": 4
   },
   "log-285": {
     "player": "keni",
@@ -1871,11 +1867,11 @@
   },
   "log-286": {
     "player": "6ixAtLead",
-    "action": "Draw card"
+    "action": "Draw 1 card"
   },
   "log-287": {
     "player": "6ixAtLead",
-    "action": "Drew card",
+    "action": "Drew card from deck",
     "card": "OP06-035"
   },
   "log-288": {
@@ -1885,13 +1881,13 @@
   },
   "log-289": {
     "player": "6ixAtLead",
-    "action": "Rest",
-    "card": "OP06-035"
+    "action": "OP06-035: Rest",
+    "card": "OP08-030"
   },
   "log-290": {
     "player": "6ixAtLead",
-    "action": "Rest",
-    "card": "OP06-035"
+    "action": "OP06-035: Rest",
+    "card": "ST02-007"
   },
   "log-291": {
     "player": "6ixAtLead",
@@ -1899,9 +1895,9 @@
   },
   "log-292": {
     "player": "6ixAtLead",
-    "action": "Attached 1 Don to",
+    "action": "Attached 0 Don to EB01-012",
     "card": "EB01-012",
-    "total_don": 1
+    "total_don": 0
   },
   "log-293": {
     "player": "6ixAtLead",
@@ -1913,8 +1909,7 @@
   },
   "log-294": {
     "player": "6ixAtLead",
-    "action": "Activate 2 Don",
-    "card": "EB01-012"
+    "action": "EB01-012: Activate 2 Don"
   },
   "log-295": {
     "player": "keni",
@@ -1928,13 +1923,14 @@
   },
   "log-296": {
     "player": "keni",
-    "action": "Jewelry Bonney hit for 1 damage"
+    "action": "Damage taken by keni",
+    "damage": 1
   },
   "log-297": {
     "player": "6ixAtLead",
-    "action": "Attached 2 Don to",
+    "action": "Attached 0 Don to OP07-019",
     "card": "OP07-019",
-    "total_don": 2
+    "total_don": 0
   },
   "log-298": {
     "player": "6ixAtLead",
@@ -1970,9 +1966,9 @@
   },
   "log-303": {
     "player": "6ixAtLead",
-    "action": "Attached 1 Don to",
+    "action": "Attached 0 Don to OP06-035",
     "card": "OP06-035",
-    "total_don": 1
+    "total_don": 0
   },
   "log-304": {
     "player": "6ixAtLead",

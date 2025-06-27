@@ -221,7 +221,7 @@
   },
   "log-042": {
     "player": "rintosh1",
-    "action": "Deploy Building Snake",
+    "action": "Played card",
     "card": "OP09-008"
   },
   "log-043": {
@@ -279,11 +279,11 @@
   },
   "log-051": {
     "player": "rintosh1",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-052": {
     "player": "Pirate40239",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-053": {
     "player": "Pirate40239",
@@ -296,7 +296,7 @@
   },
   "log-055": {
     "player": "Pirate40239",
-    "action": "Deploy Nami",
+    "action": "Played card",
     "card": "OP01-016"
   },
   "log-056": {
@@ -306,7 +306,7 @@
   },
   "log-057": {
     "player": "Pirate40239",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-058": {
     "player": "rintosh1",
@@ -371,7 +371,7 @@
   },
   "log-067": {
     "player": "rintosh1",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-068": {
     "player": "rintosh1",
@@ -379,28 +379,32 @@
   },
   "log-069": {
     "player": "rintosh1",
-    "action": "Attach 3 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total": 3
+    "total_don": 0
   },
   "log-070": {
     "player": "rintosh1",
-    "action": "Shanks attacking Monkey D. Luffy",
-    "source_card": "OP09-001",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-071": {
     "player": "Shanks",
+    "action": "",
     "power": 8000
   },
   "log-072": {
     "player": "Monkey D. Luffy",
+    "action": "",
     "power": 5000
   },
   "log-073": {
     "player": "Monkey D. Luffy",
-    "action": "hit for 1 damage",
-    "card": "ST21-001"
+    "action": "Damage taken by Monkey D. Luffy",
+    "damage": 1
   },
   "log-074": {
     "player": "rintosh1",
@@ -462,11 +466,11 @@
   },
   "log-082": {
     "player": "rintosh1",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-083": {
     "player": "Pirate40239",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-084": {
     "player": "Pirate40239",
@@ -479,15 +483,17 @@
   },
   "log-086": {
     "player": "Pirate40239",
-    "action": "Attach 1 Don to Monkey D. Luffy",
+    "action": "Attached 0 Don to ST21-001",
     "card": "ST21-001",
-    "total": 1
+    "total_don": 0
   },
   "log-087": {
     "player": "Pirate40239",
-    "action": "Monkey D. Luffy attacking Shanks",
-    "source_card": "ST21-001",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-088": {
     "player": "rintosh1",
@@ -497,10 +503,12 @@
   },
   "log-089": {
     "player": "Monkey D. Luffy",
+    "action": "",
     "power": 6000
   },
   "log-090": {
     "player": "Shanks",
+    "action": "",
     "power": 7000
   },
   "log-091": {
@@ -509,12 +517,12 @@
   },
   "log-092": {
     "player": "Pirate40239",
-    "action": "Deploy Sanji",
+    "action": "Played card",
     "card": "OP10-005"
   },
   "log-093": {
     "player": "Pirate40239",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-094": {
     "player": "rintosh1",
@@ -583,7 +591,7 @@
   },
   "log-103": {
     "player": "rintosh1",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-104": {
     "player": "rintosh1",
@@ -591,7 +599,7 @@
   },
   "log-105": {
     "player": "rintosh1",
-    "action": "Deploy Marco",
+    "action": "Played card",
     "card": "OP03-013"
   },
   "log-106": {
@@ -612,22 +620,26 @@
   },
   "log-109": {
     "player": "rintosh1",
-    "action": "Shanks attacking Monkey D. Luffy",
-    "source_card": "OP09-001",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-110": {
     "player": "Shanks",
+    "action": "",
     "power": 5000
   },
   "log-111": {
     "player": "Monkey D. Luffy",
+    "action": "",
     "power": 5000
   },
   "log-112": {
     "player": "Monkey D. Luffy",
-    "action": "hit for 1 damage",
-    "card": "ST21-001"
+    "action": "Damage taken by Monkey D. Luffy",
+    "damage": 1
   },
   "log-113": {
     "player": "rintosh1",
@@ -695,11 +707,11 @@
   },
   "log-121": {
     "player": "rintosh1",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-122": {
     "player": "Pirate40239",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-123": {
     "player": "Pirate40239",
@@ -712,33 +724,37 @@
   },
   "log-125": {
     "player": "Pirate40239",
-    "action": "Deploy Sanji",
+    "action": "Played card",
     "card": "OP10-005"
   },
   "log-126": {
     "player": "Pirate40239",
-    "action": "Attach 1 Don to Monkey D. Luffy",
+    "action": "Attached 0 Don to ST21-001",
     "card": "ST21-001",
-    "total": 1
+    "total_don": 0
   },
   "log-127": {
     "player": "Pirate40239",
-    "action": "Monkey D. Luffy attacking Shanks",
-    "source_card": "ST21-001",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-128": {
     "player": "Monkey D. Luffy",
+    "action": "",
     "power": 6000
   },
   "log-129": {
     "player": "Shanks",
+    "action": "",
     "power": 5000
   },
   "log-130": {
     "player": "Shanks",
-    "action": "hit for 1 damage",
-    "card": "OP09-001"
+    "action": "Damage taken by Shanks",
+    "damage": 1
   },
   "log-131": {
     "player": "Pirate40239",
@@ -754,15 +770,17 @@
   },
   "log-133": {
     "player": "Pirate40239",
-    "action": "Attach 2 Don to Nami",
+    "action": "Attached 0 Don to OP01-016",
     "card": "OP01-016",
-    "total": 4
+    "total_don": 0
   },
   "log-134": {
     "player": "Pirate40239",
-    "action": "Nami attacking Shanks",
-    "source_card": "OP01-016",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-135": {
     "player": "rintosh1",
@@ -779,10 +797,12 @@
   },
   "log-137": {
     "player": "Nami",
+    "action": "",
     "power": 5000
   },
   "log-138": {
     "player": "Shanks",
+    "action": "",
     "power": 6000
   },
   "log-139": {
@@ -791,7 +811,7 @@
   },
   "log-140": {
     "player": "Pirate40239",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-141": {
     "player": "rintosh1",
@@ -866,7 +886,7 @@
   },
   "log-150": {
     "player": "rintosh1",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-151": {
     "player": "rintosh1",
@@ -874,14 +894,16 @@
   },
   "log-152": {
     "player": "rintosh1",
-    "action": "Deploy Monkey D. Luffy",
+    "action": "Played card",
     "card": "ST21-014"
   },
   "log-153": {
     "player": "rintosh1",
-    "action": "Monkey D. Luffy attacking Monkey D. Luffy",
-    "source_card": "ST21-014",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-154": {
     "player": "rintosh1",
@@ -897,10 +919,12 @@
   },
   "log-156": {
     "player": "Monkey D. Luffy",
+    "action": "",
     "power": 6000
   },
   "log-157": {
     "player": "Monkey D. Luffy",
+    "action": "",
     "power": 7000
   },
   "log-158": {
@@ -909,40 +933,46 @@
   },
   "log-159": {
     "player": "rintosh1",
-    "action": "Attach 1 Don to Marco",
+    "action": "Attached 0 Don to OP03-013",
     "card": "OP03-013",
-    "total": 2
+    "total_don": 0
   },
   "log-160": {
     "player": "rintosh1",
-    "action": "Attach 1 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total": 1
+    "total_don": 0
   },
   "log-161": {
     "player": "rintosh1",
-    "action": "Shanks attacking Monkey D. Luffy",
-    "source_card": "OP09-001",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-162": {
     "player": "Shanks",
+    "action": "",
     "power": 6000
   },
   "log-163": {
     "player": "Monkey D. Luffy",
+    "action": "",
     "power": 5000
   },
   "log-164": {
     "player": "Monkey D. Luffy",
-    "action": "hit for 1 damage",
-    "card": "ST21-001"
+    "action": "Damage taken by Monkey D. Luffy",
+    "damage": 1
   },
   "log-165": {
     "player": "rintosh1",
-    "action": "Marco attacking Monkey D. Luffy",
-    "source_card": "OP03-013",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-166": {
     "player": "Pirate40239",
@@ -963,10 +993,12 @@
   },
   "log-169": {
     "player": "Marco",
+    "action": "",
     "power": 8000
   },
   "log-170": {
     "player": "Monkey D. Luffy",
+    "action": "",
     "power": 9000
   },
   "log-171": {
@@ -1043,11 +1075,11 @@
   },
   "log-180": {
     "player": "rintosh1",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-181": {
     "player": "Pirate40239",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-182": {
     "player": "Pirate40239",
@@ -1060,13 +1092,13 @@
   },
   "log-184": {
     "player": "Pirate40239",
-    "action": "Attach 1 Don to Monkey D. Luffy",
+    "action": "Attached 0 Don to ST21-001",
     "card": "ST21-001",
-    "total": 1
+    "total_don": 0
   },
   "log-185": {
     "player": "Pirate40239",
-    "action": "Deploy Roronoa Zoro",
+    "action": "Played card",
     "card": "ST21-015"
   },
   "log-186": {
@@ -1083,22 +1115,26 @@
   },
   "log-188": {
     "player": "Pirate40239",
-    "action": "Attach 1 Don to Roronoa Zoro",
+    "action": "Attached 0 Don to ST21-015",
     "card": "ST21-015",
-    "total": 3
+    "total_don": 0
   },
   "log-189": {
     "player": "Pirate40239",
-    "action": "Roronoa Zoro attacking Monkey D. Luffy",
-    "source_card": "ST21-015",
-    "target_card": "ST21-014"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-190": {
     "player": "Roronoa Zoro",
+    "action": "",
     "power": 8000
   },
   "log-191": {
     "player": "Monkey D. Luffy",
+    "action": "",
     "power": 6000
   },
   "log-192": {
@@ -1108,22 +1144,26 @@
   },
   "log-193": {
     "player": "Pirate40239",
-    "action": "Attach 1 Don to Monkey D. Luffy",
+    "action": "Attached 0 Don to ST21-001",
     "card": "ST21-001",
-    "total": 2
+    "total_don": 0
   },
   "log-194": {
     "player": "Pirate40239",
-    "action": "Monkey D. Luffy attacking Marco",
-    "source_card": "ST21-001",
-    "target_card": "OP03-013"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-195": {
     "player": "Monkey D. Luffy",
+    "action": "",
     "power": 7000
   },
   "log-196": {
     "player": "Marco",
+    "action": "",
     "power": 6000
   },
   "log-197": {
@@ -1133,32 +1173,36 @@
   },
   "log-198": {
     "player": "Pirate40239",
-    "action": "Attach 1 Don to Sanji",
+    "action": "Attached 0 Don to OP10-005",
     "card": "OP10-005",
-    "total": 1
+    "total_don": 0
   },
   "log-199": {
     "player": "Pirate40239",
-    "action": "Sanji attacking Shanks",
-    "source_card": "OP10-005",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-200": {
     "player": "Sanji",
+    "action": "",
     "power": 7000
   },
   "log-201": {
     "player": "Shanks",
+    "action": "",
     "power": 5000
   },
   "log-202": {
     "player": "Shanks",
-    "action": "hit for 1 damage",
-    "card": "OP09-001"
+    "action": "Damage taken by Shanks",
+    "damage": 1
   },
   "log-203": {
     "player": "Pirate40239",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-204": {
     "player": "rintosh1",
@@ -1237,7 +1281,7 @@
   },
   "log-213": {
     "player": "rintosh1",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-214": {
     "player": "rintosh1",
@@ -1245,7 +1289,7 @@
   },
   "log-215": {
     "player": "rintosh1",
-    "action": "Deploy Benn Beckman",
+    "action": "Played card",
     "card": "OP09-009"
   },
   "log-216": {
@@ -1256,15 +1300,17 @@
   },
   "log-217": {
     "player": "rintosh1",
-    "action": "Attach 2 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total": 2
+    "total_don": 0
   },
   "log-218": {
     "player": "rintosh1",
-    "action": "Shanks attacking Monkey D. Luffy",
-    "source_card": "OP09-001",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-219": {
     "player": "Pirate40239",
@@ -1279,10 +1325,12 @@
   },
   "log-221": {
     "player": "Shanks",
+    "action": "",
     "power": 7000
   },
   "log-222": {
     "player": "Monkey D. Luffy",
+    "action": "",
     "power": 8000
   },
   "log-223": {
@@ -1362,11 +1410,11 @@
   },
   "log-232": {
     "player": "rintosh1",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-233": {
     "player": "Pirate40239",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-234": {
     "player": "Pirate40239",
@@ -1379,14 +1427,14 @@
   },
   "log-236": {
     "player": "Pirate40239",
-    "action": "Deploy Roronoa Zoro",
+    "action": "Played card",
     "card": "ST21-015"
   },
   "log-237": {
     "player": "Pirate40239",
-    "action": "Attach 1 Don to Monkey D. Luffy",
+    "action": "Attached 0 Don to ST21-001",
     "card": "ST21-001",
-    "total": 1
+    "total_don": 0
   },
   "log-238": {
     "player": "Pirate40239",
@@ -1402,9 +1450,11 @@
   },
   "log-240": {
     "player": "Pirate40239",
-    "action": "Roronoa Zoro attacking Shanks",
-    "source_card": "ST21-015",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-241": {
     "player": "rintosh1",
@@ -1421,10 +1471,12 @@
   },
   "log-243": {
     "player": "Roronoa Zoro",
+    "action": "",
     "power": 6000
   },
   "log-244": {
     "player": "Shanks",
+    "action": "",
     "power": 7000
   },
   "log-245": {
@@ -1433,9 +1485,11 @@
   },
   "log-246": {
     "player": "Pirate40239",
-    "action": "Sanji attacking Shanks",
-    "source_card": "OP10-005",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-247": {
     "player": "rintosh1",
@@ -1445,10 +1499,12 @@
   },
   "log-248": {
     "player": "Sanji",
+    "action": "",
     "power": 6000
   },
   "log-249": {
     "player": "Shanks",
+    "action": "",
     "power": 7000
   },
   "log-250": {
@@ -1457,33 +1513,39 @@
   },
   "log-251": {
     "player": "Pirate40239",
-    "action": "Monkey D. Luffy attacking Shanks",
-    "source_card": "ST21-001",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-252": {
     "player": "Monkey D. Luffy",
+    "action": "",
     "power": 6000
   },
   "log-253": {
     "player": "Shanks",
+    "action": "",
     "power": 5000
   },
   "log-254": {
     "player": "Shanks",
-    "action": "hit for 1 damage",
-    "card": "OP09-001"
+    "action": "Damage taken by Shanks",
+    "damage": 1
   },
   "log-255": {
     "player": "Pirate40239",
-    "action": "Deploy Monkey D. Luffy",
+    "action": "Played card",
     "card": "ST21-014"
   },
   "log-256": {
     "player": "Pirate40239",
-    "action": "Monkey D. Luffy attacking Shanks",
-    "source_card": "ST21-014",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-257": {
     "player": "Pirate40239",
@@ -1493,20 +1555,22 @@
   },
   "log-258": {
     "player": "Monkey D. Luffy",
+    "action": "",
     "power": 7000
   },
   "log-259": {
     "player": "Shanks",
+    "action": "",
     "power": 5000
   },
   "log-260": {
     "player": "Shanks",
-    "action": "hit for 1 damage",
-    "card": "OP09-001"
+    "action": "Damage taken by Shanks",
+    "damage": 1
   },
   "log-261": {
     "player": "Pirate40239",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-262": {
     "player": "rintosh1",
@@ -1589,7 +1653,7 @@
   },
   "log-271": {
     "player": "rintosh1",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-272": {
     "player": "rintosh1",
@@ -1609,7 +1673,7 @@
   },
   "log-275": {
     "player": "rintosh1",
-    "action": "Deploy Marco",
+    "action": "Played card",
     "card": "OP03-013"
   },
   "log-276": {
@@ -1620,39 +1684,45 @@
   },
   "log-277": {
     "player": "rintosh1",
-    "action": "Deploy Lucky Roux",
+    "action": "Played card",
     "card": "OP09-015"
   },
   "log-278": {
     "player": "rintosh1",
-    "action": "Attach 1 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total": 1
+    "total_don": 0
   },
   "log-279": {
     "player": "rintosh1",
-    "action": "Shanks attacking Monkey D. Luffy",
-    "source_card": "OP09-001",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-280": {
     "player": "Shanks",
+    "action": "",
     "power": 6000
   },
   "log-281": {
     "player": "Monkey D. Luffy",
+    "action": "",
     "power": 5000
   },
   "log-282": {
     "player": "Monkey D. Luffy",
-    "action": "hit for 1 damage",
-    "card": "ST21-001"
+    "action": "Damage taken by Monkey D. Luffy",
+    "damage": 1
   },
   "log-283": {
     "player": "rintosh1",
-    "action": "Benn Beckman attacking Monkey D. Luffy",
-    "source_card": "OP09-009",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-284": {
     "player": "Pirate40239",
@@ -1668,10 +1738,12 @@
   },
   "log-286": {
     "player": "Benn Beckman",
+    "action": "",
     "power": 7000
   },
   "log-287": {
     "player": "Monkey D. Luffy",
+    "action": "",
     "power": 8000
   },
   "log-288": {
@@ -1755,11 +1827,11 @@
   },
   "log-297": {
     "player": "rintosh1",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-298": {
     "player": "Pirate40239",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-299": {
     "player": "Pirate40239",
@@ -1768,7 +1840,7 @@
   },
   "log-300": {
     "player": "Pirate40239",
-    "action": "Deploy Monet",
+    "action": "Played card",
     "card": "OP10-016"
   },
   "log-301": {
@@ -1797,15 +1869,17 @@
   },
   "log-305": {
     "player": "Pirate40239",
-    "action": "Attach 1 Don to Sanji",
+    "action": "Attached 0 Don to OP10-005",
     "card": "OP10-005",
-    "total": 3
+    "total_don": 0
   },
   "log-306": {
     "player": "Pirate40239",
-    "action": "Sanji attacking Shanks",
-    "source_card": "OP10-005",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-307": {
     "player": "rintosh1",
@@ -1814,10 +1888,12 @@
   },
   "log-308": {
     "player": "Sanji",
+    "action": "",
     "power": 9000
   },
   "log-309": {
     "player": "Lucky Roux",
+    "action": "",
     "power": 5000
   },
   "log-310": {
@@ -1833,40 +1909,46 @@
   },
   "log-312": {
     "player": "Pirate40239",
-    "action": "Attach 2 Don to Monkey D. Luffy",
+    "action": "Attached 0 Don to ST01-012",
     "card": "ST01-012",
-    "total": 2
+    "total_don": 0
   },
   "log-313": {
     "player": "Pirate40239",
-    "action": "Monkey D. Luffy attacking Shanks",
-    "source_card": "ST01-012",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-314": {
     "player": "Monkey D. Luffy",
+    "action": "",
     "power": 8000
   },
   "log-315": {
     "player": "Shanks",
+    "action": "",
     "power": 5000
   },
   "log-316": {
     "player": "Shanks",
-    "action": "hit for 1 damage",
-    "card": "OP09-001"
+    "action": "Damage taken by Shanks",
+    "damage": 1
   },
   "log-317": {
     "player": "Pirate40239",
-    "action": "Attach 5 Don to Monkey D. Luffy",
+    "action": "Attached 0 Don to ST21-001",
     "card": "ST21-001",
-    "total": 5
+    "total_don": 0
   },
   "log-318": {
     "player": "Pirate40239",
-    "action": "Monkey D. Luffy attacking Shanks",
-    "source_card": "ST21-001",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-319": {
     "player": "rintosh1",
@@ -1899,10 +1981,12 @@
   },
   "log-324": {
     "player": "Monkey D. Luffy",
+    "action": "",
     "power": 9000
   },
   "log-325": {
     "player": "Shanks",
+    "action": "",
     "power": 11000
   },
   "log-326": {
@@ -1911,7 +1995,7 @@
   },
   "log-327": {
     "player": "Pirate40239",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-328": {
     "player": "rintosh1",
@@ -1997,75 +2081,83 @@
   },
   "log-337": {
     "player": "rintosh1",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-338": {
     "player": "rintosh1",
-    "action": "Attach 2 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total": 2
+    "total_don": 0
   },
   "log-339": {
     "player": "rintosh1",
-    "action": "Attach 1 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total": 3
+    "total_don": 0
   },
   "log-340": {
     "player": "rintosh1",
-    "action": "Attach 3 Don to Marco",
+    "action": "Attached 0 Don to OP03-013",
     "card": "OP03-013",
-    "total": 3
+    "total_don": 0
   },
   "log-341": {
     "player": "rintosh1",
-    "action": "Attach 3 Don to Benn Beckman",
+    "action": "Attached 0 Don to OP09-009",
     "card": "OP09-009",
-    "total": 3
+    "total_don": 0
   },
   "log-342": {
     "player": "rintosh1",
-    "action": "Attach 1 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total": 4
+    "total_don": 0
   },
   "log-343": {
     "player": "rintosh1",
-    "action": "Benn Beckman attacking Monkey D. Luffy",
-    "source_card": "OP09-009",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-344": {
     "player": "Benn Beckman",
+    "action": "",
     "power": 10000
   },
   "log-345": {
     "player": "Monkey D. Luffy",
+    "action": "",
     "power": 5000
   },
   "log-346": {
     "player": "Monkey D. Luffy",
-    "action": "hit for 1 damage",
-    "card": "ST21-001"
+    "action": "Damage taken by Monkey D. Luffy",
+    "damage": 1
   },
   "log-347": {
     "player": "rintosh1",
-    "action": "Marco attacking Monkey D. Luffy",
-    "source_card": "OP03-013",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-348": {
     "player": "Marco",
+    "action": "",
     "power": 9000
   },
   "log-349": {
     "player": "Monkey D. Luffy",
+    "action": "",
     "power": 5000
   },
   "log-350": {
     "player": "Monkey D. Luffy",
-    "action": "hit for 1 damage",
-    "card": "ST21-001"
+    "action": "Damage taken by Monkey D. Luffy",
+    "damage": 1
   },
   "log-351": {
     "player": "Pirate40239",

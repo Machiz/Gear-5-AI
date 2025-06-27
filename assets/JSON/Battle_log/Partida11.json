@@ -153,16 +153,16 @@
   },
   "log-030": {
     "player": "MIKENATHANS",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "ST01-007"
   },
   "log-031": {
     "player": "MIKENATHANS",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-032": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-021",
       "ST02-007",
@@ -173,22 +173,22 @@
   },
   "log-033": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-034": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-035": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-036": {
     "player": "MIKENATHANS",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-003",
       "EB01-003",
@@ -198,20 +198,20 @@
   },
   "log-037": {
     "player": "MIKENATHANS",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-038": {
     "player": "MIKENATHANS",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST01-007"
     ]
   },
   "log-039": {
     "player": "MIKENATHANS",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-040": {
     "player": "Pirate65394",
@@ -220,7 +220,7 @@
   },
   "log-041": {
     "player": "Pirate65394",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-042": {
     "player": "Pirate65394",
@@ -228,12 +228,12 @@
   },
   "log-043": {
     "player": "Pirate65394",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP05-030"
   },
   "log-044": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-021",
       "ST02-007",
@@ -244,24 +244,24 @@
   },
   "log-045": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP05-030"
     ]
   },
   "log-046": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-047": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-048": {
     "player": "MIKENATHANS",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-003",
       "EB01-003",
@@ -271,28 +271,28 @@
   },
   "log-049": {
     "player": "MIKENATHANS",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-050": {
     "player": "MIKENATHANS",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST01-007"
     ]
   },
   "log-051": {
     "player": "MIKENATHANS",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-052": {
     "player": "Pirate65394",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-053": {
     "player": "MIKENATHANS",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-054": {
     "player": "MIKENATHANS",
@@ -305,7 +305,7 @@
   },
   "log-056": {
     "player": "MIKENATHANS",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP10-016"
   },
   "log-057": {
@@ -315,12 +315,13 @@
   },
   "log-058": {
     "player": "MIKENATHANS",
-    "action": "Attach 1 Don to PRB01-001",
-    "total_don": 2
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-059": {
     "player": "MIKENATHANS",
-    "action": "PRB01-001 attacking OP07-019",
+    "action": "Attacking",
     "attacker": "Sanji",
     "attacker_id": "PRB01-001",
     "defender": "Jewelry Bonney",
@@ -338,16 +339,16 @@
   },
   "log-061": {
     "player": "Pirate65394",
-    "action": "OP07-019 hit for 1 damage",
+    "action": "Damage taken by Pirate65394",
     "damage": 1
   },
   "log-062": {
     "player": "MIKENATHANS",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-063": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP07-021",
       "ST02-007",
@@ -359,24 +360,24 @@
   },
   "log-064": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP05-030"
     ]
   },
   "log-065": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-066": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-067": {
     "player": "MIKENATHANS",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-003",
       "EB01-003",
@@ -386,12 +387,12 @@
   },
   "log-068": {
     "player": "MIKENATHANS",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-069": {
     "player": "MIKENATHANS",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST01-007",
       "OP10-016"
@@ -399,8 +400,8 @@
   },
   "log-070": {
     "player": "MIKENATHANS",
-    "action": "Life",
-    "value": 5
+    "action": "Life state",
+    "life": 5
   },
   "log-071": {
     "player": "Pirate65394",
@@ -409,7 +410,7 @@
   },
   "log-072": {
     "player": "Pirate65394",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-073": {
     "player": "Pirate65394",
@@ -417,12 +418,12 @@
   },
   "log-074": {
     "player": "Pirate65394",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP07-021"
   },
   "log-075": {
     "player": "Pirate65394",
-    "action": "OP07-019 attacking PRB01-001",
+    "action": "Attacking",
     "attacker": "Jewelry Bonney",
     "attacker_id": "OP07-019",
     "defender": "Sanji",
@@ -440,12 +441,12 @@
   },
   "log-077": {
     "player": "MIKENATHANS",
-    "action": "PRB01-001 hit for 1 damage",
+    "action": "Damage taken by MIKENATHANS",
     "damage": 1
   },
   "log-078": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST02-007",
       "ST16-004",
@@ -457,7 +458,7 @@
   },
   "log-079": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP05-030",
       "OP07-021"
@@ -465,17 +466,17 @@
   },
   "log-080": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-081": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-082": {
     "player": "MIKENATHANS",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-003",
       "EB01-003",
@@ -486,12 +487,12 @@
   },
   "log-083": {
     "player": "MIKENATHANS",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-084": {
     "player": "MIKENATHANS",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST01-007",
       "OP10-016"
@@ -499,16 +500,16 @@
   },
   "log-085": {
     "player": "MIKENATHANS",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-086": {
     "player": "Pirate65394",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-087": {
     "player": "MIKENATHANS",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-088": {
     "player": "MIKENATHANS",
@@ -521,7 +522,7 @@
   },
   "log-090": {
     "player": "MIKENATHANS",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "ST21-015"
   },
   "log-091": {
@@ -546,7 +547,7 @@
   },
   "log-095": {
     "player": "MIKENATHANS",
-    "action": "ST21-015 attacking OP07-019",
+    "action": "Attacking",
     "attacker": "Roronoa Zoro",
     "attacker_id": "ST21-015",
     "defender": "Jewelry Bonney",
@@ -581,12 +582,13 @@
   },
   "log-100": {
     "player": "MIKENATHANS",
-    "action": "Attach 1 Don to PRB01-001",
-    "total_don": 2
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-101": {
     "player": "MIKENATHANS",
-    "action": "PRB01-001 attacking OP07-019",
+    "action": "Attacking",
     "attacker": "Sanji",
     "attacker_id": "PRB01-001",
     "defender": "Jewelry Bonney",
@@ -604,16 +606,16 @@
   },
   "log-103": {
     "player": "Pirate65394",
-    "action": "OP07-019 hit for 1 damage",
+    "action": "Damage taken by Pirate65394",
     "damage": 1
   },
   "log-104": {
     "player": "MIKENATHANS",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-105": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST02-007",
       "ST16-004",
@@ -626,26 +628,26 @@
   },
   "log-106": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP07-021"
     ]
   },
   "log-107": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP05-030"
     ]
   },
   "log-108": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 3
+    "action": "Life state",
+    "life": 3
   },
   "log-109": {
     "player": "MIKENATHANS",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-003",
       "EB01-003",
@@ -656,12 +658,12 @@
   },
   "log-110": {
     "player": "MIKENATHANS",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-111": {
     "player": "MIKENATHANS",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST01-007",
       "OP10-016",
@@ -670,8 +672,8 @@
   },
   "log-112": {
     "player": "MIKENATHANS",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-113": {
     "player": "Pirate65394",
@@ -680,7 +682,7 @@
   },
   "log-114": {
     "player": "Pirate65394",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-115": {
     "player": "Pirate65394",
@@ -688,7 +690,7 @@
   },
   "log-116": {
     "player": "Pirate65394",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP08-023"
   },
   "log-117": {
@@ -698,7 +700,7 @@
   },
   "log-118": {
     "player": "Pirate65394",
-    "action": "OP07-021 attacking OP10-016",
+    "action": "Attacking",
     "attacker": "Uroge",
     "attacker_id": "OP07-021",
     "defender": "Monet",
@@ -722,7 +724,7 @@
   },
   "log-121": {
     "player": "Pirate65394",
-    "action": "OP07-019 attacking PRB01-001",
+    "action": "Attacking",
     "attacker": "Jewelry Bonney",
     "attacker_id": "OP07-019",
     "defender": "Sanji",
@@ -751,7 +753,7 @@
   },
   "log-125": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST02-007",
       "ST16-004",
@@ -764,7 +766,7 @@
   },
   "log-126": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP07-021",
       "OP08-023"
@@ -772,19 +774,19 @@
   },
   "log-127": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP05-030"
     ]
   },
   "log-128": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 3
+    "action": "Life state",
+    "life": 3
   },
   "log-129": {
     "player": "MIKENATHANS",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-003",
       "EB01-003",
@@ -794,7 +796,7 @@
   },
   "log-130": {
     "player": "MIKENATHANS",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP10-016",
       "OP01-013"
@@ -802,7 +804,7 @@
   },
   "log-131": {
     "player": "MIKENATHANS",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST01-007",
       "ST21-015"
@@ -810,8 +812,8 @@
   },
   "log-132": {
     "player": "MIKENATHANS",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-133": {
     "player": "Pirate65394",
@@ -820,11 +822,11 @@
   },
   "log-134": {
     "player": "Pirate65394",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-135": {
     "player": "MIKENATHANS",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-136": {
     "player": "MIKENATHANS",
@@ -837,13 +839,14 @@
   },
   "log-138": {
     "player": "MIKENATHANS",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP08-014"
   },
   "log-139": {
     "player": "MIKENATHANS",
-    "action": "Attach 1 Don to OP08-014",
-    "total_don": 1
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-140": {
     "player": "MIKENATHANS",
@@ -852,7 +855,7 @@
   },
   "log-141": {
     "player": "MIKENATHANS",
-    "action": "OP08-014 attacking OP07-021",
+    "action": "Attacking",
     "attacker": "Wapol",
     "attacker_id": "OP08-014",
     "defender": "Uroge",
@@ -891,7 +894,7 @@
   },
   "log-147": {
     "player": "MIKENATHANS",
-    "action": "PRB01-001 attacking OP07-019",
+    "action": "Attacking",
     "attacker": "Sanji",
     "attacker_id": "PRB01-001",
     "defender": "Jewelry Bonney",
@@ -920,11 +923,11 @@
   },
   "log-151": {
     "player": "MIKENATHANS",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-152": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST16-004",
       "OP04-031",
@@ -936,14 +939,14 @@
   },
   "log-153": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-023"
     ]
   },
   "log-154": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP05-030",
       "OP07-021",
@@ -952,12 +955,12 @@
   },
   "log-155": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 3
+    "action": "Life state",
+    "life": 3
   },
   "log-156": {
     "player": "MIKENATHANS",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-003",
       "EB01-003",
@@ -967,7 +970,7 @@
   },
   "log-157": {
     "player": "MIKENATHANS",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP10-016",
       "OP01-013"
@@ -975,7 +978,7 @@
   },
   "log-158": {
     "player": "MIKENATHANS",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST01-007",
       "ST21-015",
@@ -984,8 +987,8 @@
   },
   "log-159": {
     "player": "MIKENATHANS",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-160": {
     "player": "Pirate65394",
@@ -994,7 +997,7 @@
   },
   "log-161": {
     "player": "Pirate65394",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-162": {
     "player": "Pirate65394",
@@ -1002,7 +1005,7 @@
   },
   "log-163": {
     "player": "Pirate65394",
-    "action": "OP08-023 attacking ST21-015",
+    "action": "Attacking",
     "attacker": "Carrot",
     "attacker_id": "OP08-023",
     "defender": "Roronoa Zoro",
@@ -1031,7 +1034,7 @@
   },
   "log-167": {
     "player": "Pirate65394",
-    "action": "OP07-019 attacking PRB01-001",
+    "action": "Attacking",
     "attacker": "Jewelry Bonney",
     "attacker_id": "OP07-019",
     "defender": "Sanji",
@@ -1060,12 +1063,12 @@
   },
   "log-171": {
     "player": "Pirate65394",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP01-051"
   },
   "log-172": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST16-004",
       "OP04-031",
@@ -1077,7 +1080,7 @@
   },
   "log-173": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-023",
       "OP01-051"
@@ -1085,7 +1088,7 @@
   },
   "log-174": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP05-030",
       "OP07-021",
@@ -1094,12 +1097,12 @@
   },
   "log-175": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 3
+    "action": "Life state",
+    "life": 3
   },
   "log-176": {
     "player": "MIKENATHANS",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-003",
       "OP10-019"
@@ -1107,7 +1110,7 @@
   },
   "log-177": {
     "player": "MIKENATHANS",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP10-016",
       "OP01-013",
@@ -1117,7 +1120,7 @@
   },
   "log-178": {
     "player": "MIKENATHANS",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST01-007",
       "OP08-014",
@@ -1126,16 +1129,16 @@
   },
   "log-179": {
     "player": "MIKENATHANS",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-180": {
     "player": "Pirate65394",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-181": {
     "player": "MIKENATHANS",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-182": {
     "player": "MIKENATHANS",
@@ -1148,22 +1151,25 @@
   },
   "log-184": {
     "player": "MIKENATHANS",
-    "action": "Attach 1 Don to PRB01-001",
-    "total_don": 1
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-185": {
     "player": "MIKENATHANS",
-    "action": "Attach 1 Don to PRB01-001",
-    "total_don": 2
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-186": {
     "player": "MIKENATHANS",
-    "action": "Attach 1 Don to PRB01-001",
-    "total_don": 3
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-187": {
     "player": "MIKENATHANS",
-    "action": "PRB01-001 attacking OP07-019",
+    "action": "Attacking",
     "attacker": "Sanji",
     "attacker_id": "PRB01-001",
     "defender": "Jewelry Bonney",
@@ -1211,7 +1217,7 @@
   },
   "log-194": {
     "player": "MIKENATHANS",
-    "action": "EB01-003 attacking OP07-019",
+    "action": "Attacking",
     "attacker": "Kid and Killer",
     "attacker_id": "EB01-003",
     "defender": "Jewelry Bonney",
@@ -1229,16 +1235,16 @@
   },
   "log-196": {
     "player": "Pirate65394",
-    "action": "OP07-019 hit for 1 damage",
+    "action": "Damage taken by Pirate65394",
     "damage": 1
   },
   "log-197": {
     "player": "MIKENATHANS",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-198": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST16-004",
       "OP04-031",
@@ -1249,14 +1255,14 @@
   },
   "log-199": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-023"
     ]
   },
   "log-200": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP05-030",
       "OP07-021",
@@ -1268,12 +1274,12 @@
   },
   "log-201": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 2
+    "action": "Life state",
+    "life": 2
   },
   "log-202": {
     "player": "MIKENATHANS",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-003",
       "EB01-003"
@@ -1281,7 +1287,7 @@
   },
   "log-203": {
     "player": "MIKENATHANS",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP10-016",
       "OP01-013",
@@ -1292,7 +1298,7 @@
   },
   "log-204": {
     "player": "MIKENATHANS",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST01-007",
       "OP08-014",
@@ -1301,8 +1307,8 @@
   },
   "log-205": {
     "player": "MIKENATHANS",
-    "action": "Life",
-    "value": 4
+    "action": "Life state",
+    "life": 4
   },
   "log-206": {
     "player": "Pirate65394",
@@ -1311,7 +1317,7 @@
   },
   "log-207": {
     "player": "Pirate65394",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-208": {
     "player": "Pirate65394",
@@ -1319,7 +1325,7 @@
   },
   "log-209": {
     "player": "Pirate65394",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "ST16-004"
   },
   "log-210": {
@@ -1331,7 +1337,7 @@
   },
   "log-211": {
     "player": "Pirate65394",
-    "action": "OP08-023 attacking EB01-003",
+    "action": "Attacking",
     "attacker": "Carrot",
     "attacker_id": "OP08-023",
     "defender": "Kid and Killer",
@@ -1355,7 +1361,7 @@
   },
   "log-214": {
     "player": "Pirate65394",
-    "action": "OP07-019 attacking PRB01-001",
+    "action": "Attacking",
     "attacker": "Jewelry Bonney",
     "attacker_id": "OP07-019",
     "defender": "Sanji",
@@ -1373,12 +1379,12 @@
   },
   "log-216": {
     "player": "MIKENATHANS",
-    "action": "PRB01-001 hit for 1 damage",
+    "action": "Damage taken by MIKENATHANS",
     "damage": 1
   },
   "log-217": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP04-031",
       "OP07-029",
@@ -1389,7 +1395,7 @@
   },
   "log-218": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-023",
       "ST16-004"
@@ -1397,7 +1403,7 @@
   },
   "log-219": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP05-030",
       "OP07-021",
@@ -1409,12 +1415,12 @@
   },
   "log-220": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 2
+    "action": "Life state",
+    "life": 2
   },
   "log-221": {
     "player": "MIKENATHANS",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "EB01-003",
       "EB01-003",
@@ -1423,7 +1429,7 @@
   },
   "log-222": {
     "player": "MIKENATHANS",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP10-016",
       "OP01-013",
@@ -1436,23 +1442,23 @@
   },
   "log-223": {
     "player": "MIKENATHANS",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST01-007"
     ]
   },
   "log-224": {
     "player": "MIKENATHANS",
-    "action": "Life",
-    "value": 3
+    "action": "Life state",
+    "life": 3
   },
   "log-225": {
     "player": "Pirate65394",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-226": {
     "player": "MIKENATHANS",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-227": {
     "player": "MIKENATHANS",
@@ -1465,7 +1471,7 @@
   },
   "log-229": {
     "player": "MIKENATHANS",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "EB01-003"
   },
   "log-230": {
@@ -1475,7 +1481,7 @@
   },
   "log-231": {
     "player": "MIKENATHANS",
-    "action": "EB01-003 attacking OP07-019",
+    "action": "Attacking",
     "attacker": "Kid and Killer",
     "attacker_id": "EB01-003",
     "defender": "Jewelry Bonney",
@@ -1498,22 +1504,24 @@
   },
   "log-234": {
     "player": "Pirate65394",
-    "action": "OP07-019 hit for 1 damage",
+    "action": "Damage taken by Pirate65394",
     "damage": 1
   },
   "log-235": {
     "player": "MIKENATHANS",
-    "action": "Attach 1 Don to PRB01-001",
-    "total_don": 1
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-236": {
     "player": "MIKENATHANS",
-    "action": "Attach 1 Don to PRB01-001",
-    "total_don": 2
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-237": {
     "player": "MIKENATHANS",
-    "action": "PRB01-001 attacking OP07-019",
+    "action": "Attacking",
     "attacker": "Sanji",
     "attacker_id": "PRB01-001",
     "defender": "Jewelry Bonney",
@@ -1554,12 +1562,12 @@
   },
   "log-243": {
     "player": "MIKENATHANS",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "EB01-003"
   },
   "log-244": {
     "player": "MIKENATHANS",
-    "action": "EB01-003 attacking OP07-019",
+    "action": "Attacking",
     "attacker": "Kid and Killer",
     "attacker_id": "EB01-003",
     "defender": "Jewelry Bonney",
@@ -1582,16 +1590,16 @@
   },
   "log-247": {
     "player": "Pirate65394",
-    "action": "OP07-019 hit for 1 damage",
+    "action": "Damage taken by Pirate65394",
     "damage": 1
   },
   "log-248": {
     "player": "MIKENATHANS",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-249": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP04-031",
       "OP07-029",
@@ -1602,7 +1610,7 @@
   },
   "log-250": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-023",
       "ST16-004"
@@ -1610,7 +1618,7 @@
   },
   "log-251": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP05-030",
       "OP07-021",
@@ -1624,12 +1632,12 @@
   },
   "log-252": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 0
+    "action": "Life state",
+    "life": 0
   },
   "log-253": {
     "player": "MIKENATHANS",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST21-015",
       "P-069"
@@ -1637,7 +1645,7 @@
   },
   "log-254": {
     "player": "MIKENATHANS",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP10-016",
       "OP01-013",
@@ -1650,7 +1658,7 @@
   },
   "log-255": {
     "player": "MIKENATHANS",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST01-007",
       "EB01-003",
@@ -1659,8 +1667,8 @@
   },
   "log-256": {
     "player": "MIKENATHANS",
-    "action": "Life",
-    "value": 3
+    "action": "Life state",
+    "life": 3
   },
   "log-257": {
     "player": "Pirate65394",
@@ -1669,21 +1677,22 @@
   },
   "log-258": {
     "player": "Pirate65394",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-259": {
     "player": "Pirate65394",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP05-030"
   },
   "log-260": {
     "player": "Pirate65394",
-    "action": "Attach 1 Don to OP08-023",
-    "total_don": 1
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-261": {
     "player": "Pirate65394",
-    "action": "OP07-019 attacking PRB01-001",
+    "action": "Attacking",
     "attacker": "Jewelry Bonney",
     "attacker_id": "OP07-019",
     "defender": "Sanji",
@@ -1712,7 +1721,7 @@
   },
   "log-265": {
     "player": "Pirate65394",
-    "action": "OP08-023 attacking PRB01-001",
+    "action": "Attacking",
     "attacker": "Carrot",
     "attacker_id": "OP08-023",
     "defender": "Sanji",
@@ -1735,12 +1744,12 @@
   },
   "log-268": {
     "player": "MIKENATHANS",
-    "action": "PRB01-001 hit for 1 damage",
+    "action": "Damage taken by MIKENATHANS",
     "damage": 1
   },
   "log-269": {
     "player": "Pirate65394",
-    "action": "ST16-004 attacking EB01-003",
+    "action": "Attacking",
     "attacker": "Shanks",
     "attacker_id": "ST16-004",
     "defender": "Kid and Killer",
@@ -1764,12 +1773,12 @@
   },
   "log-272": {
     "player": "Pirate65394",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "OP06-035"
   },
   "log-273": {
     "player": "Pirate65394",
-    "action": "OP06-035 attacking PRB01-001",
+    "action": "Attacking",
     "attacker": "Hody Jones",
     "attacker_id": "OP06-035",
     "defender": "Sanji",
@@ -1787,12 +1796,12 @@
   },
   "log-275": {
     "player": "MIKENATHANS",
-    "action": "PRB01-001 hit for 1 damage",
+    "action": "Damage taken by MIKENATHANS",
     "damage": 1
   },
   "log-276": {
     "player": "Pirate65394",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP04-031",
       "OP07-029",
@@ -1802,7 +1811,7 @@
   },
   "log-277": {
     "player": "Pirate65394",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP08-023",
       "ST16-004",
@@ -1812,7 +1821,7 @@
   },
   "log-278": {
     "player": "Pirate65394",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP05-030",
       "OP07-021",
@@ -1826,12 +1835,12 @@
   },
   "log-279": {
     "player": "Pirate65394",
-    "action": "Life",
-    "value": 0
+    "action": "Life state",
+    "life": 0
   },
   "log-280": {
     "player": "MIKENATHANS",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST21-015",
       "ST01-007",
@@ -1840,7 +1849,7 @@
   },
   "log-281": {
     "player": "MIKENATHANS",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP10-016",
       "OP01-013",
@@ -1855,7 +1864,7 @@
   },
   "log-282": {
     "player": "MIKENATHANS",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "ST01-007",
       "EB01-003"
@@ -1863,16 +1872,16 @@
   },
   "log-283": {
     "player": "MIKENATHANS",
-    "action": "Life",
-    "value": 1
+    "action": "Life state",
+    "life": 1
   },
   "log-284": {
     "player": "Pirate65394",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-285": {
     "player": "MIKENATHANS",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-286": {
     "player": "MIKENATHANS",
@@ -1881,7 +1890,7 @@
   },
   "log-287": {
     "player": "MIKENATHANS",
-    "action": "Deploy",
+    "action": "Played card",
     "card": "ST21-015"
   },
   "log-288": {
@@ -1891,22 +1900,25 @@
   },
   "log-289": {
     "player": "MIKENATHANS",
-    "action": "Attach 1 Don to ST21-015",
-    "total_don": 1
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-290": {
     "player": "MIKENATHANS",
-    "action": "Attach 1 Don to ST21-015",
-    "total_don": 2
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-291": {
     "player": "MIKENATHANS",
-    "action": "Attach 1 Don to ST21-015",
-    "total_don": 3
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-292": {
     "player": "MIKENATHANS",
-    "action": "ST21-015 attacking OP07-019",
+    "action": "Attacking",
     "attacker": "Roronoa Zoro",
     "attacker_id": "ST21-015",
     "defender": "Jewelry Bonney",
@@ -1941,22 +1953,25 @@
   },
   "log-297": {
     "player": "MIKENATHANS",
-    "action": "Attach 1 Don to PRB01-001",
-    "total_don": 2
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-298": {
     "player": "MIKENATHANS",
-    "action": "Attach 1 Don to PRB01-001",
-    "total_don": 3
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-299": {
     "player": "MIKENATHANS",
-    "action": "Attach 1 Don to PRB01-001",
-    "total_don": 4
+    "action": "Attached 0 Don to ",
+    "card": "",
+    "total_don": 0
   },
   "log-300": {
     "player": "MIKENATHANS",
-    "action": "PRB01-001 attacking OP07-019",
+    "action": "Attacking",
     "attacker": "Sanji",
     "attacker_id": "PRB01-001",
     "defender": "Jewelry Bonney",

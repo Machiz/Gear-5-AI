@@ -221,7 +221,7 @@
   },
   "log-042": {
     "player": "rintosh1",
-    "action": "Deploy Building Snake",
+    "action": "Played card",
     "card": "OP09-008"
   },
   "log-043": {
@@ -279,11 +279,11 @@
   },
   "log-051": {
     "player": "rintosh1",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-052": {
     "player": "bigmac",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-053": {
     "player": "bigmac",
@@ -296,12 +296,12 @@
   },
   "log-055": {
     "player": "bigmac",
-    "action": "Deploy Thousand Sunny",
+    "action": "Played card",
     "card": "EB02-009"
   },
   "log-056": {
     "player": "bigmac",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-057": {
     "player": "rintosh1",
@@ -365,7 +365,7 @@
   },
   "log-066": {
     "player": "rintosh1",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-067": {
     "player": "rintosh1",
@@ -373,14 +373,16 @@
   },
   "log-068": {
     "player": "rintosh1",
-    "action": "Deploy Sanji",
+    "action": "Played card",
     "card": "OP10-005"
   },
   "log-069": {
     "player": "rintosh1",
-    "action": "Shanks attacking Monkey D. Luffy",
-    "source_card": "OP09-001",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-070": {
     "player": "System",
@@ -398,8 +400,8 @@
   },
   "log-071": {
     "player": "Monkey D. Luffy",
-    "action": "hit for 1 damage",
-    "card": "ST21-001"
+    "action": "Damage taken by Monkey D. Luffy",
+    "damage": 1
   },
   "log-072": {
     "player": "rintosh1",
@@ -460,11 +462,11 @@
   },
   "log-080": {
     "player": "rintosh1",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-081": {
     "player": "bigmac",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-082": {
     "player": "bigmac",
@@ -477,20 +479,22 @@
   },
   "log-084": {
     "player": "bigmac",
-    "action": "Deploy Nico Robin",
+    "action": "Played card",
     "card": "OP11-009"
   },
   "log-085": {
     "player": "bigmac",
-    "action": "Attach 1 Don to Monkey D. Luffy",
+    "action": "Attached 0 Don to ST21-001",
     "card": "ST21-001",
-    "total_don": 1
+    "total_don": 0
   },
   "log-086": {
     "player": "bigmac",
-    "action": "Monkey D. Luffy attacking Shanks",
-    "source_card": "ST21-001",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-087": {
     "player": "rintosh1",
@@ -525,7 +529,7 @@
   },
   "log-091": {
     "player": "bigmac",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-092": {
     "player": "rintosh1",
@@ -593,7 +597,7 @@
   },
   "log-101": {
     "player": "rintosh1",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-102": {
     "player": "rintosh1",
@@ -601,33 +605,35 @@
   },
   "log-103": {
     "player": "rintosh1",
-    "action": "Attach 2 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total_don": 2
+    "total_don": 0
   },
   "log-104": {
     "player": "rintosh1",
-    "action": "Attach 1 Don to Sanji",
+    "action": "Attached 0 Don to OP10-005",
     "card": "OP10-005",
-    "total_don": 1
+    "total_don": 0
   },
   "log-105": {
     "player": "rintosh1",
-    "action": "Attach 1 Don to Sanji",
+    "action": "Attached 0 Don to OP10-005",
     "card": "OP10-005",
-    "total_don": 2
+    "total_don": 0
   },
   "log-106": {
     "player": "rintosh1",
-    "action": "Attach 1 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total_don": 3
+    "total_don": 0
   },
   "log-107": {
     "player": "rintosh1",
-    "action": "Shanks attacking Monkey D. Luffy",
-    "source_card": "OP09-001",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-108": {
     "player": "System",
@@ -645,14 +651,16 @@
   },
   "log-109": {
     "player": "Monkey D. Luffy",
-    "action": "hit for 1 damage",
-    "card": "ST21-001"
+    "action": "Damage taken by Monkey D. Luffy",
+    "damage": 1
   },
   "log-110": {
     "player": "rintosh1",
-    "action": "Sanji attacking Monkey D. Luffy",
-    "source_card": "OP10-005",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Sanji",
+    "attacker_id": "OP10-005",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-111": {
     "player": "System",
@@ -670,8 +678,8 @@
   },
   "log-112": {
     "player": "Monkey D. Luffy",
-    "action": "hit for 1 damage",
-    "card": "ST21-001"
+    "action": "Damage taken by Monkey D. Luffy",
+    "damage": 1
   },
   "log-113": {
     "player": "bigmac",
@@ -744,11 +752,11 @@
   },
   "log-122": {
     "player": "rintosh1",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-123": {
     "player": "bigmac",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-124": {
     "player": "bigmac",
@@ -761,7 +769,7 @@
   },
   "log-126": {
     "player": "bigmac",
-    "action": "Deploy Roronoa Zoro",
+    "action": "Played card",
     "card": "OP11-016"
   },
   "log-127": {
@@ -784,9 +792,11 @@
   },
   "log-130": {
     "player": "bigmac",
-    "action": "Nico Robin attacking Shanks",
-    "source_card": "OP11-009",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Nico Robin",
+    "attacker_id": "OP11-009",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-131": {
     "player": "bigmac",
@@ -812,14 +822,14 @@
   },
   "log-133": {
     "player": "Shanks",
-    "action": "hit for 1 damage",
-    "card": "OP09-001"
+    "action": "Damage taken by Shanks",
+    "damage": 1
   },
   "log-134": {
     "player": "bigmac",
-    "action": "Attach 1 Don to Monkey D. Luffy",
+    "action": "Attached 0 Don to ST21-001",
     "card": "ST21-001",
-    "total_don": 2
+    "total_don": 0
   },
   "log-135": {
     "player": "bigmac",
@@ -835,9 +845,11 @@
   },
   "log-137": {
     "player": "bigmac",
-    "action": "Monkey D. Luffy attacking Sanji",
-    "source_card": "ST21-001",
-    "target_card": "OP10-005"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Sanji",
+    "defender_id": "OP10-005"
   },
   "log-138": {
     "player": "rintosh1",
@@ -870,7 +882,7 @@
   },
   "log-142": {
     "player": "bigmac",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-143": {
     "player": "rintosh1",
@@ -944,7 +956,7 @@
   },
   "log-152": {
     "player": "rintosh1",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-153": {
     "player": "rintosh1",
@@ -952,7 +964,7 @@
   },
   "log-154": {
     "player": "rintosh1",
-    "action": "Deploy Benn Beckman",
+    "action": "Played card",
     "card": "OP09-009"
   },
   "log-155": {
@@ -963,15 +975,17 @@
   },
   "log-156": {
     "player": "rintosh1",
-    "action": "Attach 2 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total_don": 2
+    "total_don": 0
   },
   "log-157": {
     "player": "rintosh1",
-    "action": "Shanks attacking Monkey D. Luffy",
-    "source_card": "OP09-001",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-158": {
     "player": "bigmac",
@@ -1067,11 +1081,11 @@
   },
   "log-169": {
     "player": "rintosh1",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-170": {
     "player": "bigmac",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-171": {
     "player": "bigmac",
@@ -1084,19 +1098,19 @@
   },
   "log-173": {
     "player": "bigmac",
-    "action": "Deploy Nami",
+    "action": "Played card",
     "card": "ST21-009"
   },
   "log-174": {
     "player": "bigmac",
-    "action": "Deploy Tony Tony Chopper",
+    "action": "Played card",
     "card": "OP10-011"
   },
   "log-175": {
     "player": "bigmac",
-    "action": "Attach 1 Don to Monkey D. Luffy",
+    "action": "Attached 0 Don to ST21-001",
     "card": "ST21-001",
-    "total_don": 1
+    "total_don": 0
   },
   "log-176": {
     "player": "bigmac",
@@ -1124,9 +1138,11 @@
   },
   "log-180": {
     "player": "bigmac",
-    "action": "Monkey D. Luffy attacking Shanks",
-    "source_card": "ST21-001",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-181": {
     "player": "rintosh1",
@@ -1151,8 +1167,8 @@
   },
   "log-183": {
     "player": "Shanks",
-    "action": "hit for 1 damage",
-    "card": "OP09-001"
+    "action": "Damage taken by Shanks",
+    "damage": 1
   },
   "log-184": {
     "player": "bigmac",
@@ -1168,9 +1184,11 @@
   },
   "log-186": {
     "player": "bigmac",
-    "action": "Nico Robin attacking Shanks",
-    "source_card": "OP11-009",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Nico Robin",
+    "attacker_id": "OP11-009",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-187": {
     "player": "bigmac",
@@ -1206,7 +1224,7 @@
   },
   "log-191": {
     "player": "bigmac",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-192": {
     "player": "rintosh1",
@@ -1285,7 +1303,7 @@
   },
   "log-201": {
     "player": "rintosh1",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-202": {
     "player": "rintosh1",
@@ -1293,7 +1311,7 @@
   },
   "log-203": {
     "player": "rintosh1",
-    "action": "Deploy Benn Beckman",
+    "action": "Played card",
     "card": "OP09-009"
   },
   "log-204": {
@@ -1304,15 +1322,17 @@
   },
   "log-205": {
     "player": "rintosh1",
-    "action": "Attach 2 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total_don": 2
+    "total_don": 0
   },
   "log-206": {
     "player": "rintosh1",
-    "action": "Shanks attacking Monkey D. Luffy",
-    "source_card": "OP09-001",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-207": {
     "player": "System",
@@ -1330,14 +1350,16 @@
   },
   "log-208": {
     "player": "Monkey D. Luffy",
-    "action": "hit for 1 damage",
-    "card": "ST21-001"
+    "action": "Damage taken by Monkey D. Luffy",
+    "damage": 1
   },
   "log-209": {
     "player": "rintosh1",
-    "action": "Benn Beckman attacking Monkey D. Luffy",
-    "source_card": "OP09-009",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Benn Beckman",
+    "attacker_id": "OP09-009",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-210": {
     "player": "bigmac",
@@ -1437,11 +1459,11 @@
   },
   "log-221": {
     "player": "rintosh1",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-222": {
     "player": "bigmac",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-223": {
     "player": "bigmac",
@@ -1454,7 +1476,7 @@
   },
   "log-225": {
     "player": "bigmac",
-    "action": "Deploy Monkey D. Luffy",
+    "action": "Played card",
     "card": "ST10-006"
   },
   "log-226": {
@@ -1483,9 +1505,11 @@
   },
   "log-230": {
     "player": "bigmac",
-    "action": "Monkey D. Luffy attacking Benn Beckman",
-    "source_card": "ST10-006",
-    "target_card": "OP09-009"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST10-006",
+    "defender": "Benn Beckman",
+    "defender_id": "OP09-009"
   },
   "log-231": {
     "player": "System",
@@ -1520,9 +1544,11 @@
   },
   "log-235": {
     "player": "bigmac",
-    "action": "Monkey D. Luffy attacking Shanks",
-    "source_card": "ST21-001",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-001",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-236": {
     "player": "rintosh1",
@@ -1557,7 +1583,7 @@
   },
   "log-240": {
     "player": "bigmac",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-241": {
     "player": "rintosh1",
@@ -1639,7 +1665,7 @@
   },
   "log-250": {
     "player": "rintosh1",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-251": {
     "player": "rintosh1",
@@ -1647,19 +1673,21 @@
   },
   "log-252": {
     "player": "rintosh1",
-    "action": "Deploy Lucky Roux",
+    "action": "Played card",
     "card": "OP09-015"
   },
   "log-253": {
     "player": "rintosh1",
-    "action": "Deploy Monkey D. Luffy",
+    "action": "Played card",
     "card": "ST21-014"
   },
   "log-254": {
     "player": "rintosh1",
-    "action": "Monkey D. Luffy attacking Monkey D. Luffy",
-    "source_card": "ST21-014",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "ST21-014",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-255": {
     "player": "rintosh1",
@@ -1683,20 +1711,22 @@
   },
   "log-257": {
     "player": "Monkey D. Luffy",
-    "action": "hit for 1 damage",
-    "card": "ST21-001"
+    "action": "Damage taken by Monkey D. Luffy",
+    "damage": 1
   },
   "log-258": {
     "player": "rintosh1",
-    "action": "Attach 1 Don to Shanks",
+    "action": "Attached 0 Don to OP09-001",
     "card": "OP09-001",
-    "total_don": 2
+    "total_don": 0
   },
   "log-259": {
     "player": "rintosh1",
-    "action": "Shanks attacking Monkey D. Luffy",
-    "source_card": "OP09-001",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Tony Tony Chopper",
+    "defender_id": "OP10-011"
   },
   "log-260": {
     "player": "bigmac",
@@ -1724,9 +1754,11 @@
   },
   "log-263": {
     "player": "rintosh1",
-    "action": "Benn Beckman attacking Monkey D. Luffy",
-    "source_card": "OP09-009",
-    "target_card": "ST21-001"
+    "action": "Attacking",
+    "attacker": "Benn Beckman",
+    "attacker_id": "OP09-009",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "ST21-001"
   },
   "log-264": {
     "player": "bigmac",
@@ -1750,8 +1782,8 @@
   },
   "log-266": {
     "player": "Monkey D. Luffy",
-    "action": "hit for 1 damage",
-    "card": "ST21-001"
+    "action": "Damage taken by Monkey D. Luffy",
+    "damage": 1
   },
   "log-267": {
     "player": "bigmac",

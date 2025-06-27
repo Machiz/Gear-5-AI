@@ -96,11 +96,11 @@
   },
   "log-020": {
     "player": "MrSachPat",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-021": {
     "player": "Pirate26156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-118",
       "OP09-015",
@@ -111,22 +111,22 @@
   },
   "log-022": {
     "player": "Pirate26156",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-023": {
     "player": "Pirate26156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-024": {
     "player": "Pirate26156",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-025": {
     "player": "MrSachPat",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST18-003",
       "OP09-065",
@@ -137,18 +137,18 @@
   },
   "log-026": {
     "player": "MrSachPat",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-027": {
     "player": "MrSachPat",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-028": {
     "player": "MrSachPat",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-029": {
     "player": "Pirate26156",
@@ -157,7 +157,7 @@
   },
   "log-030": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-031": {
     "player": "Pirate26156",
@@ -165,12 +165,12 @@
   },
   "log-032": {
     "player": "Pirate26156",
-    "action": "Deploy Building Snake",
+    "action": "Played card",
     "card": "OP09-008"
   },
   "log-033": {
     "player": "Pirate26156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-118",
       "OP09-015",
@@ -181,24 +181,24 @@
   },
   "log-034": {
     "player": "Pirate26156",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP09-008"
     ]
   },
   "log-035": {
     "player": "Pirate26156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-036": {
     "player": "Pirate26156",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-037": {
     "player": "MrSachPat",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST18-003",
       "OP09-065",
@@ -209,26 +209,26 @@
   },
   "log-038": {
     "player": "MrSachPat",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-039": {
     "player": "MrSachPat",
-    "action": "Board",
+    "action": "Board state",
     "cards": []
   },
   "log-040": {
     "player": "MrSachPat",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-041": {
     "player": "Pirate26156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-042": {
     "player": "MrSachPat",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-043": {
     "player": "MrSachPat",
@@ -241,9 +241,11 @@
   },
   "log-045": {
     "player": "MrSachPat",
-    "action": "Monkey D. Luffy attacking Shanks",
-    "source_card": "OP05-060",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-046": {
     "player": "Pirate26156",
@@ -258,16 +260,16 @@
   },
   "log-048": {
     "player": "MrSachPat",
-    "action": "Deploy Zorojuro",
+    "action": "Played card",
     "card": "OP05-067"
   },
   "log-049": {
     "player": "MrSachPat",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-050": {
     "player": "Pirate26156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-118",
       "OP09-015",
@@ -278,24 +280,24 @@
   },
   "log-051": {
     "player": "Pirate26156",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP09-008"
     ]
   },
   "log-052": {
     "player": "Pirate26156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-053": {
     "player": "Pirate26156",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-054": {
     "player": "MrSachPat",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST18-003",
       "OP09-065",
@@ -306,20 +308,20 @@
   },
   "log-055": {
     "player": "MrSachPat",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-056": {
     "player": "MrSachPat",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP05-067"
     ]
   },
   "log-057": {
     "player": "MrSachPat",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-058": {
     "player": "Pirate26156",
@@ -328,7 +330,7 @@
   },
   "log-059": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-060": {
     "player": "Pirate26156",
@@ -336,14 +338,16 @@
   },
   "log-061": {
     "player": "Pirate26156",
-    "action": "Deploy Lucky Roux",
+    "action": "Played card",
     "card": "OP09-015"
   },
   "log-062": {
     "player": "Pirate26156",
-    "action": "Shanks attacking Monkey D. Luffy",
-    "source_card": "OP09-001",
-    "target_card": "OP05-060"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
   },
   "log-063": {
     "player": "MrSachPat",
@@ -356,7 +360,7 @@
   },
   "log-065": {
     "player": "Pirate26156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-118",
       "OP09-011",
@@ -367,7 +371,7 @@
   },
   "log-066": {
     "player": "Pirate26156",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP09-008",
       "OP09-015"
@@ -375,17 +379,17 @@
   },
   "log-067": {
     "player": "Pirate26156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": []
   },
   "log-068": {
     "player": "Pirate26156",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-069": {
     "player": "MrSachPat",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-065",
       "OP07-064",
@@ -395,30 +399,30 @@
   },
   "log-070": {
     "player": "MrSachPat",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "ST18-003"
     ]
   },
   "log-071": {
     "player": "MrSachPat",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP05-067"
     ]
   },
   "log-072": {
     "player": "MrSachPat",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-073": {
     "player": "Pirate26156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-074": {
     "player": "MrSachPat",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-075": {
     "player": "MrSachPat",
@@ -431,9 +435,11 @@
   },
   "log-077": {
     "player": "MrSachPat",
-    "action": "Zorojuro attacking Shanks",
-    "source_card": "OP05-067",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-078": {
     "player": "System",
@@ -441,15 +447,17 @@
   },
   "log-079": {
     "player": "MrSachPat",
-    "action": "Attach 2 Don to Monkey D. Luffy",
+    "action": "Attached 2 Don to OP05-060",
     "card": "OP05-060",
-    "value": 2
+    "total_don": 2
   },
   "log-080": {
     "player": "MrSachPat",
-    "action": "Monkey D. Luffy attacking Shanks",
-    "source_card": "OP05-060",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-081": {
     "player": "Pirate26156",
@@ -469,16 +477,16 @@
   },
   "log-084": {
     "player": "MrSachPat",
-    "action": "Deploy Zorojuro",
+    "action": "Played card",
     "card": "OP05-067"
   },
   "log-085": {
     "player": "MrSachPat",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-086": {
     "player": "Pirate26156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-118",
       "OP09-011",
@@ -488,7 +496,7 @@
   },
   "log-087": {
     "player": "Pirate26156",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP09-008",
       "OP09-015"
@@ -496,19 +504,19 @@
   },
   "log-088": {
     "player": "Pirate26156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP09-014"
     ]
   },
   "log-089": {
     "player": "Pirate26156",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-090": {
     "player": "MrSachPat",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-065",
       "OP07-064",
@@ -518,14 +526,14 @@
   },
   "log-091": {
     "player": "MrSachPat",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "ST18-003"
     ]
   },
   "log-092": {
     "player": "MrSachPat",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP05-067",
       "OP05-067"
@@ -533,8 +541,8 @@
   },
   "log-093": {
     "player": "MrSachPat",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-094": {
     "player": "Pirate26156",
@@ -543,7 +551,7 @@
   },
   "log-095": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-096": {
     "player": "Pirate26156",
@@ -551,7 +559,7 @@
   },
   "log-097": {
     "player": "Pirate26156",
-    "action": "Deploy Otama",
+    "action": "Played card",
     "card": "OP01-006"
   },
   "log-098": {
@@ -563,7 +571,7 @@
   },
   "log-099": {
     "player": "Pirate26156",
-    "action": "Deploy Marco",
+    "action": "Played card",
     "card": "OP03-013"
   },
   "log-100": {
@@ -574,18 +582,20 @@
   },
   "log-101": {
     "player": "Pirate26156",
-    "action": "Shanks attacking Monkey D. Luffy",
-    "source_card": "OP09-001",
-    "target_card": "OP05-060"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
   },
   "log-102": {
     "player": "MrSachPat",
-    "action": "Monkey D. Luffy hit for 1 damage",
-    "card": "OP05-060"
+    "action": "Damage taken by MrSachPat",
+    "damage": 1
   },
   "log-103": {
     "player": "Pirate26156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-118",
       "OP09-011",
@@ -594,7 +604,7 @@
   },
   "log-104": {
     "player": "Pirate26156",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP09-008",
       "OP09-015",
@@ -604,19 +614,19 @@
   },
   "log-105": {
     "player": "Pirate26156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP09-014"
     ]
   },
   "log-106": {
     "player": "Pirate26156",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-107": {
     "player": "MrSachPat",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-065",
       "OP07-064",
@@ -627,7 +637,7 @@
   },
   "log-108": {
     "player": "MrSachPat",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "ST18-003",
       "OP05-067"
@@ -635,23 +645,23 @@
   },
   "log-109": {
     "player": "MrSachPat",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP05-067"
     ]
   },
   "log-110": {
     "player": "MrSachPat",
-    "action": "Life",
-    "life": 4
+    "action": "Life state",
+    "life": 0
   },
   "log-111": {
     "player": "Pirate26156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-112": {
     "player": "MrSachPat",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-113": {
     "player": "MrSachPat",
@@ -673,15 +683,17 @@
   },
   "log-117": {
     "player": "MrSachPat",
-    "action": "Attach 1 Don to Zorojuro",
+    "action": "Attached 1 Don to OP05-067",
     "card": "OP05-067",
-    "value": 1
+    "total_don": 1
   },
   "log-118": {
     "player": "MrSachPat",
-    "action": "Zorojuro attacking Shanks",
-    "source_card": "OP05-067",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-119": {
     "player": "MrSachPat",
@@ -701,7 +713,7 @@
   },
   "log-122": {
     "player": "MrSachPat",
-    "action": "Deploy Sanji",
+    "action": "Played card",
     "card": "OP09-065"
   },
   "log-123": {
@@ -718,9 +730,11 @@
   },
   "log-125": {
     "player": "MrSachPat",
-    "action": "Sanji attacking Marco",
-    "source_card": "OP09-065",
-    "target_card": "OP03-013"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-126": {
     "player": "Pirate26156",
@@ -733,15 +747,17 @@
   },
   "log-128": {
     "player": "MrSachPat",
-    "action": "Attach 1 Don to Monkey D. Luffy",
+    "action": "Attached 1 Don to OP05-060",
     "card": "OP05-060",
-    "value": 1
+    "total_don": 1
   },
   "log-129": {
     "player": "MrSachPat",
-    "action": "Monkey D. Luffy attacking Marco",
-    "source_card": "OP05-060",
-    "target_card": "OP03-013"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-130": {
     "player": "Pirate26156",
@@ -754,18 +770,18 @@
   },
   "log-132": {
     "player": "MrSachPat",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-133": {
     "player": "Pirate26156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-118"
     ]
   },
   "log-134": {
     "player": "Pirate26156",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP09-008",
       "OP09-015",
@@ -775,7 +791,7 @@
   },
   "log-135": {
     "player": "Pirate26156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP09-014",
       "OP09-011",
@@ -784,12 +800,12 @@
   },
   "log-136": {
     "player": "Pirate26156",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-137": {
     "player": "MrSachPat",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-065",
       "OP07-064",
@@ -801,7 +817,7 @@
   },
   "log-138": {
     "player": "MrSachPat",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "ST18-003",
       "OP05-067"
@@ -809,7 +825,7 @@
   },
   "log-139": {
     "player": "MrSachPat",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP05-067",
       "OP09-065"
@@ -817,8 +833,8 @@
   },
   "log-140": {
     "player": "MrSachPat",
-    "action": "Life",
-    "life": 3
+    "action": "Life state",
+    "life": 0
   },
   "log-141": {
     "player": "Pirate26156",
@@ -827,7 +843,7 @@
   },
   "log-142": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-143": {
     "player": "Pirate26156",
@@ -835,7 +851,7 @@
   },
   "log-144": {
     "player": "Pirate26156",
-    "action": "Deploy Hongo",
+    "action": "Played card",
     "card": "OP09-011"
   },
   "log-145": {
@@ -853,9 +869,11 @@
   },
   "log-147": {
     "player": "Pirate26156",
-    "action": "Shanks attacking Zorojuro",
-    "source_card": "OP09-001",
-    "target_card": "OP05-067"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
   },
   "log-148": {
     "player": "MrSachPat",
@@ -864,21 +882,23 @@
   },
   "log-149": {
     "player": "Pirate26156",
-    "action": "Attach 3 Don to Marco",
+    "action": "Attached 3 Don to OP03-013",
     "card": "OP03-013",
-    "value": 3
+    "total_don": 3
   },
   "log-150": {
     "player": "Pirate26156",
-    "action": "Attach 2 Don to Marco",
+    "action": "Attached 2 Don to OP03-013",
     "card": "OP03-013",
-    "value": 2
+    "total_don": 2
   },
   "log-151": {
     "player": "Pirate26156",
-    "action": "Marco attacking Sanji",
-    "source_card": "OP03-013",
-    "target_card": "OP09-065"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
   },
   "log-152": {
     "player": "MrSachPat",
@@ -901,14 +921,14 @@
   },
   "log-156": {
     "player": "Pirate26156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-118"
     ]
   },
   "log-157": {
     "player": "Pirate26156",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP09-008",
       "OP09-015",
@@ -919,7 +939,7 @@
   },
   "log-158": {
     "player": "Pirate26156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP09-014",
       "OP09-011",
@@ -928,12 +948,12 @@
   },
   "log-159": {
     "player": "Pirate26156",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-160": {
     "player": "MrSachPat",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-065",
       "OP07-064",
@@ -942,7 +962,7 @@
   },
   "log-161": {
     "player": "MrSachPat",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "ST18-003",
       "OP05-067",
@@ -954,23 +974,23 @@
   },
   "log-162": {
     "player": "MrSachPat",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP09-065"
     ]
   },
   "log-163": {
     "player": "MrSachPat",
-    "action": "Life",
-    "life": 3
+    "action": "Life state",
+    "life": 0
   },
   "log-164": {
     "player": "Pirate26156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-165": {
     "player": "MrSachPat",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-166": {
     "player": "MrSachPat",
@@ -983,7 +1003,7 @@
   },
   "log-168": {
     "player": "MrSachPat",
-    "action": "Deploy Sanji",
+    "action": "Played card",
     "card": "OP09-065"
   },
   "log-169": {
@@ -1000,9 +1020,11 @@
   },
   "log-171": {
     "player": "MrSachPat",
-    "action": "Sanji attacking Marco",
-    "source_card": "OP09-065",
-    "target_card": "OP03-013"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-172": {
     "player": "Pirate26156",
@@ -1011,9 +1033,11 @@
   },
   "log-173": {
     "player": "MrSachPat",
-    "action": "Sanji attacking Lucky Roux",
-    "source_card": "OP09-065",
-    "target_card": "OP09-015"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-174": {
     "player": "Pirate26156",
@@ -1022,9 +1046,11 @@
   },
   "log-175": {
     "player": "MrSachPat",
-    "action": "Monkey D. Luffy attacking Hongo",
-    "source_card": "OP05-060",
-    "target_card": "OP09-011"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-176": {
     "player": "Pirate26156",
@@ -1042,7 +1068,7 @@
   },
   "log-179": {
     "player": "MrSachPat",
-    "action": "Deploy Onami",
+    "action": "Played card",
     "card": "ST18-002"
   },
   "log-180": {
@@ -1069,18 +1095,18 @@
   },
   "log-184": {
     "player": "MrSachPat",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-185": {
     "player": "Pirate26156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-118"
     ]
   },
   "log-186": {
     "player": "Pirate26156",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP09-008",
       "OP01-006"
@@ -1088,7 +1114,7 @@
   },
   "log-187": {
     "player": "Pirate26156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP09-014",
       "OP09-011",
@@ -1100,12 +1126,12 @@
   },
   "log-188": {
     "player": "Pirate26156",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-189": {
     "player": "MrSachPat",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-065",
       "OP07-064",
@@ -1115,7 +1141,7 @@
   },
   "log-190": {
     "player": "MrSachPat",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "ST18-003",
       "OP05-067",
@@ -1128,7 +1154,7 @@
   },
   "log-191": {
     "player": "MrSachPat",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP09-065",
       "OP09-065",
@@ -1137,8 +1163,8 @@
   },
   "log-192": {
     "player": "MrSachPat",
-    "action": "Life",
-    "life": 2
+    "action": "Life state",
+    "life": 0
   },
   "log-193": {
     "player": "Pirate26156",
@@ -1147,7 +1173,7 @@
   },
   "log-194": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-195": {
     "player": "Pirate26156",
@@ -1155,7 +1181,7 @@
   },
   "log-196": {
     "player": "Pirate26156",
-    "action": "Deploy Silvers Rayleigh",
+    "action": "Played card",
     "card": "OP08-118"
   },
   "log-197": {
@@ -1180,15 +1206,17 @@
   },
   "log-200": {
     "player": "Pirate26156",
-    "action": "Attach 2 Don to Shanks",
+    "action": "Attached 2 Don to OP09-001",
     "card": "OP09-001",
-    "value": 2
+    "total_don": 2
   },
   "log-201": {
     "player": "Pirate26156",
-    "action": "Shanks attacking Monkey D. Luffy",
-    "source_card": "OP09-001",
-    "target_card": "OP05-060"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
   },
   "log-202": {
     "player": "MrSachPat",
@@ -1206,14 +1234,14 @@
   },
   "log-205": {
     "player": "Pirate26156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-118"
     ]
   },
   "log-206": {
     "player": "Pirate26156",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP09-008",
       "OP01-006",
@@ -1222,7 +1250,7 @@
   },
   "log-207": {
     "player": "Pirate26156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP09-014",
       "OP09-011",
@@ -1234,12 +1262,12 @@
   },
   "log-208": {
     "player": "Pirate26156",
-    "action": "Life",
-    "life": 5
+    "action": "Life state",
+    "life": 0
   },
   "log-209": {
     "player": "MrSachPat",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-065",
       "OP09-078"
@@ -1247,7 +1275,7 @@
   },
   "log-210": {
     "player": "MrSachPat",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "ST18-003",
       "OP05-067",
@@ -1263,7 +1291,7 @@
   },
   "log-211": {
     "player": "MrSachPat",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP09-065",
       "OP09-065"
@@ -1271,16 +1299,16 @@
   },
   "log-212": {
     "player": "MrSachPat",
-    "action": "Life",
-    "life": 2
+    "action": "Life state",
+    "life": 0
   },
   "log-213": {
     "player": "Pirate26156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-214": {
     "player": "MrSachPat",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-215": {
     "player": "MrSachPat",
@@ -1289,7 +1317,7 @@
   },
   "log-216": {
     "player": "MrSachPat",
-    "action": "Deploy Sanji",
+    "action": "Played card",
     "card": "OP09-065"
   },
   "log-217": {
@@ -1306,9 +1334,11 @@
   },
   "log-219": {
     "player": "MrSachPat",
-    "action": "Monkey D. Luffy attacking Building Snake",
-    "source_card": "OP05-060",
-    "target_card": "OP09-008"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-220": {
     "player": "Pirate26156",
@@ -1324,37 +1354,43 @@
   },
   "log-222": {
     "player": "MrSachPat",
-    "action": "Sanji attacking Shanks",
-    "source_card": "OP09-065",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-223": {
     "player": "MrSachPat",
-    "action": "Shanks hit for 1 damage",
-    "card": "OP09-001"
+    "action": "Damage taken by MrSachPat",
+    "damage": 1
   },
   "log-224": {
     "player": "MrSachPat",
-    "action": "Attach 2 Don to Sanji",
+    "action": "Attached 2 Don to OP09-065",
     "card": "OP09-065",
-    "value": 2
+    "total_don": 2
   },
   "log-225": {
     "player": "MrSachPat",
-    "action": "Sanji attacking Shanks",
-    "source_card": "OP09-065",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-226": {
     "player": "MrSachPat",
-    "action": "Shanks hit for 1 damage",
-    "card": "OP09-001"
+    "action": "Damage taken by MrSachPat",
+    "damage": 1
   },
   "log-227": {
     "player": "MrSachPat",
-    "action": "Sanji attacking Shanks",
-    "source_card": "OP09-065",
-    "target_card": "OP09-001"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-228": {
     "player": "Pirate26156",
@@ -1367,11 +1403,11 @@
   },
   "log-230": {
     "player": "MrSachPat",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-231": {
     "player": "Pirate26156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-118",
       "OP09-008"
@@ -1379,7 +1415,7 @@
   },
   "log-232": {
     "player": "Pirate26156",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP01-006",
       "OP08-118"
@@ -1387,7 +1423,7 @@
   },
   "log-233": {
     "player": "Pirate26156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP09-014",
       "OP09-011",
@@ -1401,12 +1437,12 @@
   },
   "log-234": {
     "player": "Pirate26156",
-    "action": "Life",
-    "life": 3
+    "action": "Life state",
+    "life": 0
   },
   "log-235": {
     "player": "MrSachPat",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-078",
       "ST18-004"
@@ -1414,7 +1450,7 @@
   },
   "log-236": {
     "player": "MrSachPat",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "ST18-003",
       "OP05-067",
@@ -1430,7 +1466,7 @@
   },
   "log-237": {
     "player": "MrSachPat",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP09-065",
       "OP09-065",
@@ -1439,8 +1475,8 @@
   },
   "log-238": {
     "player": "MrSachPat",
-    "action": "Life",
-    "life": 2
+    "action": "Life state",
+    "life": 0
   },
   "log-239": {
     "player": "Pirate26156",
@@ -1449,29 +1485,33 @@
   },
   "log-240": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-241": {
     "player": "Pirate26156",
-    "action": "Deploy Gol D. Roger",
+    "action": "Played card",
     "card": "OP09-118"
   },
   "log-242": {
     "player": "Pirate26156",
-    "action": "Gol D. Roger attacking Monkey D. Luffy",
-    "source_card": "OP09-118",
-    "target_card": "OP05-060"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
   },
   "log-243": {
     "player": "MrSachPat",
-    "action": "Monkey D. Luffy hit for 1 damage",
-    "card": "OP05-060"
+    "action": "Damage taken by MrSachPat",
+    "damage": 1
   },
   "log-244": {
     "player": "Pirate26156",
-    "action": "Silvers Rayleigh attacking Monkey D. Luffy",
-    "source_card": "OP08-118",
-    "target_card": "OP05-060"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
   },
   "log-245": {
     "player": "MrSachPat",
@@ -1508,9 +1548,11 @@
   },
   "log-251": {
     "player": "Pirate26156",
-    "action": "Shanks attacking Monkey D. Luffy",
-    "source_card": "OP09-001",
-    "target_card": "OP05-060"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
   },
   "log-252": {
     "player": "MrSachPat",
@@ -1523,7 +1565,7 @@
   },
   "log-254": {
     "player": "Pirate26156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "OP09-008",
       "OP04-016"
@@ -1531,7 +1573,7 @@
   },
   "log-255": {
     "player": "Pirate26156",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP01-006",
       "OP08-118",
@@ -1540,7 +1582,7 @@
   },
   "log-256": {
     "player": "Pirate26156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP09-014",
       "OP09-011",
@@ -1554,12 +1596,12 @@
   },
   "log-257": {
     "player": "Pirate26156",
-    "action": "Life",
-    "life": 3
+    "action": "Life state",
+    "life": 0
   },
   "log-258": {
     "player": "MrSachPat",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST18-001",
       "OP05-073"
@@ -1567,7 +1609,7 @@
   },
   "log-259": {
     "player": "MrSachPat",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "ST18-003",
       "OP05-067",
@@ -1586,7 +1628,7 @@
   },
   "log-260": {
     "player": "MrSachPat",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP09-065",
       "OP09-065",
@@ -1595,16 +1637,16 @@
   },
   "log-261": {
     "player": "MrSachPat",
-    "action": "Life",
-    "life": 1
+    "action": "Life state",
+    "life": 0
   },
   "log-262": {
     "player": "Pirate26156",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-263": {
     "player": "MrSachPat",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-264": {
     "player": "MrSachPat",
@@ -1617,15 +1659,17 @@
   },
   "log-266": {
     "player": "MrSachPat",
-    "action": "Attach 1 Don to Sanji",
+    "action": "Attached 1 Don to OP09-065",
     "card": "OP09-065",
-    "value": 1
+    "total_don": 1
   },
   "log-267": {
     "player": "MrSachPat",
-    "action": "Sanji attacking Silvers Rayleigh",
-    "source_card": "OP09-065",
-    "target_card": "OP08-118"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-268": {
     "player": "Pirate26156",
@@ -1640,15 +1684,17 @@
   },
   "log-270": {
     "player": "MrSachPat",
-    "action": "Attach 1 Don to Sanji",
+    "action": "Attached 1 Don to OP09-065",
     "card": "OP09-065",
-    "value": 1
+    "total_don": 1
   },
   "log-271": {
     "player": "MrSachPat",
-    "action": "Sanji attacking Silvers Rayleigh",
-    "source_card": "OP09-065",
-    "target_card": "OP08-118"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-272": {
     "player": "Pirate26156",
@@ -1657,15 +1703,17 @@
   },
   "log-273": {
     "player": "MrSachPat",
-    "action": "Attach 7 Don to Sanji",
+    "action": "Attached 7 Don to OP09-065",
     "card": "OP09-065",
-    "value": 7
+    "total_don": 7
   },
   "log-274": {
     "player": "MrSachPat",
-    "action": "Sanji attacking Gol D. Roger",
-    "source_card": "OP09-065",
-    "target_card": "OP09-118"
+    "action": "Attacking",
+    "attacker": "Monkey D. Luffy",
+    "attacker_id": "OP05-060",
+    "defender": "Shanks",
+    "defender_id": "OP09-001"
   },
   "log-275": {
     "player": "Pirate26156",
@@ -1683,16 +1731,16 @@
   },
   "log-278": {
     "player": "MrSachPat",
-    "action": "End Turn"
+    "action": "End turn"
   },
   "log-279": {
     "player": "Pirate26156",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": []
   },
   "log-280": {
     "player": "Pirate26156",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP01-006",
       "OP09-118"
@@ -1700,7 +1748,7 @@
   },
   "log-281": {
     "player": "Pirate26156",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "OP09-014",
       "OP09-011",
@@ -1717,12 +1765,12 @@
   },
   "log-282": {
     "player": "Pirate26156",
-    "action": "Life",
-    "life": 3
+    "action": "Life state",
+    "life": 0
   },
   "log-283": {
     "player": "MrSachPat",
-    "action": "Hand",
+    "action": "Hand state",
     "cards": [
       "ST18-001",
       "OP05-073",
@@ -1731,7 +1779,7 @@
   },
   "log-284": {
     "player": "MrSachPat",
-    "action": "Trash",
+    "action": "Trash state",
     "cards": [
       "ST18-003",
       "OP05-067",
@@ -1750,7 +1798,7 @@
   },
   "log-285": {
     "player": "MrSachPat",
-    "action": "Board",
+    "action": "Board state",
     "cards": [
       "OP09-065",
       "OP09-065",
@@ -1759,8 +1807,8 @@
   },
   "log-286": {
     "player": "MrSachPat",
-    "action": "Life",
-    "life": 1
+    "action": "Life state",
+    "life": 0
   },
   "log-287": {
     "player": "Pirate26156",
@@ -1769,30 +1817,34 @@
   },
   "log-288": {
     "player": "Pirate26156",
-    "action": "Draw 1 Card"
+    "action": "Draw 1 card"
   },
   "log-289": {
     "player": "Pirate26156",
-    "action": "Gol D. Roger attacking Monkey D. Luffy",
-    "source_card": "OP09-118",
-    "target_card": "OP05-060"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
   },
   "log-290": {
     "player": "MrSachPat",
-    "action": "Monkey D. Luffy hit for 1 damage",
-    "card": "OP05-060"
+    "action": "Damage taken by MrSachPat",
+    "damage": 1
   },
   "log-291": {
     "player": "Pirate26156",
-    "action": "Attach 10 Don to Shanks",
+    "action": "Attached 10 Don to OP09-001",
     "card": "OP09-001",
-    "value": 10
+    "total_don": 10
   },
   "log-292": {
     "player": "Pirate26156",
-    "action": "Shanks attacking Monkey D. Luffy",
-    "source_card": "OP09-001",
-    "target_card": "OP05-060"
+    "action": "Attacking",
+    "attacker": "Shanks",
+    "attacker_id": "OP09-001",
+    "defender": "Monkey D. Luffy",
+    "defender_id": "OP05-060"
   },
   "log-293": {
     "player": "MrSachPat",
@@ -1816,8 +1868,8 @@
   },
   "log-297": {
     "player": "MrSachPat",
-    "action": "Monkey D. Luffy hit for 1 damage",
-    "card": "OP05-060"
+    "action": "Damage taken by MrSachPat",
+    "damage": 1
   },
   "log-298": {
     "player": "MrSachPat",
