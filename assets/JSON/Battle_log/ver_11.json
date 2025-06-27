@@ -1,0 +1,1804 @@
+{
+  "log-001": {
+    "player": "System",
+    "action": "Attempting to connect to FCGB9L"
+  },
+  "log-002": {
+    "player": "System",
+    "action": "Version is 1.30b"
+  },
+  "log-003": {
+    "player": "bigmac",
+    "action": "Leader is Monkey D. Luffy",
+    "card": "ST21-001"
+  },
+  "log-004": {
+    "player": "System",
+    "action": "You Will select turn order"
+  },
+  "log-005": {
+    "player": "rintosh1",
+    "action": "Player connected"
+  },
+  "log-006": {
+    "player": "System",
+    "action": "Version is 1.30b"
+  },
+  "log-007": {
+    "player": "rintosh1",
+    "action": "Leader is Shanks",
+    "card": "OP09-001"
+  },
+  "log-008": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-011"
+  },
+  "log-009": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-004"
+  },
+  "log-010": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP07-015"
+  },
+  "log-011": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP10-019"
+  },
+  "log-012": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP03-013"
+  },
+  "log-013": {
+    "player": "rintosh1",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "OP09-011",
+      "OP09-004",
+      "OP07-015",
+      "OP10-019",
+      "OP03-013"
+    ]
+  },
+  "log-014": {
+    "player": "rintosh1",
+    "action": "Chose to go First"
+  },
+  "log-015": {
+    "player": "bigmac",
+    "action": "Drew card from deck",
+    "card": "OP10-011"
+  },
+  "log-016": {
+    "player": "bigmac",
+    "action": "Drew card from deck",
+    "card": "OP03-019"
+  },
+  "log-017": {
+    "player": "bigmac",
+    "action": "Drew card from deck",
+    "card": "ST21-014"
+  },
+  "log-018": {
+    "player": "bigmac",
+    "action": "Drew card from deck",
+    "card": "OP11-009"
+  },
+  "log-019": {
+    "player": "bigmac",
+    "action": "Drew card from deck",
+    "card": "ST10-006"
+  },
+  "log-020": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-008"
+  },
+  "log-021": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-004"
+  },
+  "log-022": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-009"
+  },
+  "log-023": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP10-005"
+  },
+  "log-024": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-015"
+  },
+  "log-025": {
+    "player": "rintosh1",
+    "action": "Hand after Mulligan",
+    "cards": [
+      "OP09-008",
+      "OP09-004",
+      "OP09-009",
+      "OP10-005",
+      "OP09-015"
+    ]
+  },
+  "log-026": {
+    "player": "rintosh1",
+    "action": "Mulligan"
+  },
+  "log-027": {
+    "player": "bigmac",
+    "action": "Drew card from deck",
+    "card": "OP10-011"
+  },
+  "log-028": {
+    "player": "bigmac",
+    "action": "Drew card from deck",
+    "card": "OP10-018"
+  },
+  "log-029": {
+    "player": "bigmac",
+    "action": "Drew card from deck",
+    "card": "EB02-009"
+  },
+  "log-030": {
+    "player": "bigmac",
+    "action": "Drew card from deck",
+    "card": "EB02-009"
+  },
+  "log-031": {
+    "player": "bigmac",
+    "action": "Drew card from deck",
+    "card": "OP11-009"
+  },
+  "log-032": {
+    "player": "bigmac",
+    "action": "Mulligan"
+  },
+  "log-033": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-008",
+      "OP09-004",
+      "OP09-009",
+      "OP10-005",
+      "OP09-015"
+    ]
+  },
+  "log-034": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-035": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-036": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-037": {
+    "player": "bigmac",
+    "action": "Hand state",
+    "cards": [
+      "OP10-011",
+      "OP10-018",
+      "EB02-009",
+      "EB02-009",
+      "OP11-009"
+    ]
+  },
+  "log-038": {
+    "player": "bigmac",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-039": {
+    "player": "bigmac",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-040": {
+    "player": "bigmac",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-041": {
+    "player": "rintosh1",
+    "action": "Draw 1 Don"
+  },
+  "log-042": {
+    "player": "rintosh1",
+    "action": "Played card",
+    "card": "OP09-008"
+  },
+  "log-043": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-004",
+      "OP09-009",
+      "OP10-005",
+      "OP09-015"
+    ]
+  },
+  "log-044": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP09-008"
+    ]
+  },
+  "log-045": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-046": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-047": {
+    "player": "bigmac",
+    "action": "Hand state",
+    "cards": [
+      "OP10-011",
+      "OP10-018",
+      "EB02-009",
+      "EB02-009",
+      "OP11-009"
+    ]
+  },
+  "log-048": {
+    "player": "bigmac",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-049": {
+    "player": "bigmac",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-050": {
+    "player": "bigmac",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-051": {
+    "player": "rintosh1",
+    "action": "End turn"
+  },
+  "log-052": {
+    "player": "bigmac",
+    "action": "Draw 1 card"
+  },
+  "log-053": {
+    "player": "bigmac",
+    "action": "Drew card from deck",
+    "card": "ST21-003"
+  },
+  "log-054": {
+    "player": "bigmac",
+    "action": "Draw 2 Don"
+  },
+  "log-055": {
+    "player": "bigmac",
+    "action": "Played card",
+    "card": "EB02-009"
+  },
+  "log-056": {
+    "player": "bigmac",
+    "action": "End turn"
+  },
+  "log-057": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-004",
+      "OP09-009",
+      "OP10-005",
+      "OP09-015"
+    ]
+  },
+  "log-058": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP09-008"
+    ]
+  },
+  "log-059": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-060": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-061": {
+    "player": "bigmac",
+    "action": "Hand state",
+    "cards": [
+      "OP10-011",
+      "OP10-018",
+      "EB02-009",
+      "OP11-009",
+      "ST21-003"
+    ]
+  },
+  "log-062": {
+    "player": "bigmac",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-063": {
+    "player": "bigmac",
+    "action": "Board state",
+    "cards": [
+      "EB02-009"
+    ]
+  },
+  "log-064": {
+    "player": "bigmac",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-065": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP10-005"
+  },
+  "log-066": {
+    "player": "rintosh1",
+    "action": "Draw 1 card"
+  },
+  "log-067": {
+    "player": "rintosh1",
+    "action": "Draw 2 Don"
+  },
+  "log-068": {
+    "player": "rintosh1",
+    "action": "Played card",
+    "card": "OP10-005"
+  },
+  "log-069": {
+    "player": "rintosh1",
+    "action": "Attacking",
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
+  },
+  "log-070": {
+    "player": "System",
+    "action": "Attack calculation",
+    "attacker": {
+      "name": "Shanks",
+      "card_id": "OP09-001",
+      "power": 5000
+    },
+    "defender": {
+      "name": "Monkey D. Luffy",
+      "card_id": "ST21-001",
+      "power": 5000
+    }
+  },
+  "log-071": {
+    "player": "Monkey D. Luffy",
+    "action": "Damage taken by Monkey D. Luffy",
+    "damage": 1
+  },
+  "log-072": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-004",
+      "OP09-009",
+      "OP10-005",
+      "OP09-015"
+    ]
+  },
+  "log-073": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP09-008",
+      "OP10-005"
+    ]
+  },
+  "log-074": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-075": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-076": {
+    "player": "bigmac",
+    "action": "Hand state",
+    "cards": [
+      "OP10-011",
+      "OP10-018",
+      "EB02-009",
+      "OP11-009",
+      "ST21-003",
+      "OP08-118"
+    ]
+  },
+  "log-077": {
+    "player": "bigmac",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-078": {
+    "player": "bigmac",
+    "action": "Board state",
+    "cards": [
+      "EB02-009"
+    ]
+  },
+  "log-079": {
+    "player": "bigmac",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-080": {
+    "player": "rintosh1",
+    "action": "End turn"
+  },
+  "log-081": {
+    "player": "bigmac",
+    "action": "Draw 1 card"
+  },
+  "log-082": {
+    "player": "bigmac",
+    "action": "Drew card from deck",
+    "card": "OP11-016"
+  },
+  "log-083": {
+    "player": "bigmac",
+    "action": "Draw 2 Don"
+  },
+  "log-084": {
+    "player": "bigmac",
+    "action": "Played card",
+    "card": "OP11-009"
+  },
+  "log-085": {
+    "player": "bigmac",
+    "action": "Attached 0 Don to ST21-001",
+    "card": "ST21-001",
+    "total_don": 0
+  },
+  "log-086": {
+    "player": "bigmac",
+    "action": "Attacking",
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
+  },
+  "log-087": {
+    "player": "rintosh1",
+    "action": "Shanks: Buff Monkey D. Luffy",
+    "source_card": "OP09-001",
+    "target_card": "ST21-001",
+    "value": -1000
+  },
+  "log-088": {
+    "player": "rintosh1",
+    "action": "Discard Sanji for Counter",
+    "card": "OP10-005",
+    "value": 1000
+  },
+  "log-089": {
+    "player": "System",
+    "action": "Attack calculation",
+    "attacker": {
+      "name": "Monkey D. Luffy",
+      "card_id": "ST21-001",
+      "power": 5000
+    },
+    "defender": {
+      "name": "Shanks",
+      "card_id": "OP09-001",
+      "power": 6000
+    }
+  },
+  "log-090": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-091": {
+    "player": "bigmac",
+    "action": "End turn"
+  },
+  "log-092": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-004",
+      "OP09-009",
+      "OP09-015"
+    ]
+  },
+  "log-093": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP09-008",
+      "OP10-005"
+    ]
+  },
+  "log-094": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": [
+      "OP10-005"
+    ]
+  },
+  "log-095": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-096": {
+    "player": "bigmac",
+    "action": "Hand state",
+    "cards": [
+      "OP10-011",
+      "OP10-018",
+      "EB02-009",
+      "ST21-003",
+      "OP08-118",
+      "OP11-016"
+    ]
+  },
+  "log-097": {
+    "player": "bigmac",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-098": {
+    "player": "bigmac",
+    "action": "Board state",
+    "cards": [
+      "EB02-009",
+      "OP11-009"
+    ]
+  },
+  "log-099": {
+    "player": "bigmac",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-100": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-009"
+  },
+  "log-101": {
+    "player": "rintosh1",
+    "action": "Draw 1 card"
+  },
+  "log-102": {
+    "player": "rintosh1",
+    "action": "Draw 2 Don"
+  },
+  "log-103": {
+    "player": "rintosh1",
+    "action": "Attached 0 Don to OP09-001",
+    "card": "OP09-001",
+    "total_don": 0
+  },
+  "log-104": {
+    "player": "rintosh1",
+    "action": "Attached 0 Don to OP10-005",
+    "card": "OP10-005",
+    "total_don": 0
+  },
+  "log-105": {
+    "player": "rintosh1",
+    "action": "Attached 0 Don to OP10-005",
+    "card": "OP10-005",
+    "total_don": 0
+  },
+  "log-106": {
+    "player": "rintosh1",
+    "action": "Attached 0 Don to OP09-001",
+    "card": "OP09-001",
+    "total_don": 0
+  },
+  "log-107": {
+    "player": "rintosh1",
+    "action": "Attacking",
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
+  },
+  "log-108": {
+    "player": "System",
+    "action": "Attack calculation",
+    "attacker": {
+      "name": "Shanks",
+      "card_id": "OP09-001",
+      "power": 8000
+    },
+    "defender": {
+      "name": "Monkey D. Luffy",
+      "card_id": "ST21-001",
+      "power": 5000
+    }
+  },
+  "log-109": {
+    "player": "Monkey D. Luffy",
+    "action": "Damage taken by Monkey D. Luffy",
+    "damage": 1
+  },
+  "log-110": {
+    "player": "rintosh1",
+    "action": "Attacking",
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
+  },
+  "log-111": {
+    "player": "System",
+    "action": "Attack calculation",
+    "attacker": {
+      "name": "Sanji",
+      "card_id": "OP10-005",
+      "power": 8000
+    },
+    "defender": {
+      "name": "Monkey D. Luffy",
+      "card_id": "ST21-001",
+      "power": 5000
+    }
+  },
+  "log-112": {
+    "player": "Monkey D. Luffy",
+    "action": "Damage taken by Monkey D. Luffy",
+    "damage": 1
+  },
+  "log-113": {
+    "player": "bigmac",
+    "action": "Gum Gum Dawn Whip: Destroy Building Snake",
+    "source_card": "ST21-016",
+    "target_card": "OP09-008"
+  },
+  "log-114": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-004",
+      "OP09-009",
+      "OP09-015",
+      "OP09-009"
+    ]
+  },
+  "log-115": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP10-005"
+    ]
+  },
+  "log-116": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": [
+      "OP10-005",
+      "OP09-008"
+    ]
+  },
+  "log-117": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-118": {
+    "player": "bigmac",
+    "action": "Hand state",
+    "cards": [
+      "OP10-011",
+      "OP10-018",
+      "EB02-009",
+      "ST21-003",
+      "OP08-118",
+      "OP11-016",
+      "EB02-009"
+    ]
+  },
+  "log-119": {
+    "player": "bigmac",
+    "action": "Trash state",
+    "cards": [
+      "ST21-016"
+    ]
+  },
+  "log-120": {
+    "player": "bigmac",
+    "action": "Board state",
+    "cards": [
+      "EB02-009",
+      "OP11-009"
+    ]
+  },
+  "log-121": {
+    "player": "bigmac",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-122": {
+    "player": "rintosh1",
+    "action": "End turn"
+  },
+  "log-123": {
+    "player": "bigmac",
+    "action": "Draw 1 card"
+  },
+  "log-124": {
+    "player": "bigmac",
+    "action": "Drew card from deck",
+    "card": "ST10-006"
+  },
+  "log-125": {
+    "player": "bigmac",
+    "action": "Draw 2 Don"
+  },
+  "log-126": {
+    "player": "bigmac",
+    "action": "Played card",
+    "card": "OP11-016"
+  },
+  "log-127": {
+    "player": "bigmac",
+    "action": "Roronoa Zoro: Attach 1 Rested Don to Monkey D. Luffy",
+    "source_card": "OP11-016",
+    "target_card": "ST21-001"
+  },
+  "log-128": {
+    "player": "bigmac",
+    "action": "Monkey D. Luffy: Attach 1 Rested Don to Nico Robin",
+    "source_card": "ST21-001",
+    "target_card": "OP11-009"
+  },
+  "log-129": {
+    "player": "bigmac",
+    "action": "Monkey D. Luffy: Attach 1 Rested Don to Nico Robin",
+    "source_card": "ST21-001",
+    "target_card": "OP11-009"
+  },
+  "log-130": {
+    "player": "bigmac",
+    "action": "Attacking",
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
+  },
+  "log-131": {
+    "player": "bigmac",
+    "action": "Nico Robin: Grant Sanji -2000 until next turn end",
+    "source_card": "OP11-009",
+    "target_card": "OP10-005",
+    "value": -2000,
+    "duration": "until next turn end"
+  },
+  "log-132": {
+    "player": "System",
+    "action": "Attack calculation",
+    "attacker": {
+      "name": "Nico Robin",
+      "card_id": "OP11-009",
+      "power": 6000
+    },
+    "defender": {
+      "name": "Shanks",
+      "card_id": "OP09-001",
+      "power": 5000
+    }
+  },
+  "log-133": {
+    "player": "Shanks",
+    "action": "Damage taken by Shanks",
+    "damage": 1
+  },
+  "log-134": {
+    "player": "bigmac",
+    "action": "Attached 0 Don to ST21-001",
+    "card": "ST21-001",
+    "total_don": 0
+  },
+  "log-135": {
+    "player": "bigmac",
+    "action": "Thousand Sunny: Rest Thousand Sunny",
+    "source_card": "EB02-009"
+  },
+  "log-136": {
+    "player": "bigmac",
+    "action": "Thousand Sunny: Transfer 0 Attached Don to Nico Robin",
+    "source_card": "EB02-009",
+    "target_card": "OP11-009",
+    "transfer_amount": 0
+  },
+  "log-137": {
+    "player": "bigmac",
+    "action": "Attacking",
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
+  },
+  "log-138": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP01-006"
+  },
+  "log-139": {
+    "player": "System",
+    "action": "Attack calculation",
+    "attacker": {
+      "name": "Monkey D. Luffy",
+      "card_id": "ST21-001",
+      "power": 7000
+    },
+    "defender": {
+      "name": "Sanji",
+      "card_id": "OP10-005",
+      "power": 1000
+    }
+  },
+  "log-140": {
+    "player": "rintosh1",
+    "action": "Sanji Destroyed",
+    "card": "OP10-005"
+  },
+  "log-141": {
+    "player": "rintosh1",
+    "action": "Sanji: Draw 1 Card",
+    "source_card": "OP10-005"
+  },
+  "log-142": {
+    "player": "bigmac",
+    "action": "End turn"
+  },
+  "log-143": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-004",
+      "OP09-009",
+      "OP09-015",
+      "OP09-009",
+      "OP09-004",
+      "OP01-006"
+    ]
+  },
+  "log-144": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-145": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": [
+      "OP10-005",
+      "OP09-008",
+      "OP10-005"
+    ]
+  },
+  "log-146": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-147": {
+    "player": "bigmac",
+    "action": "Hand state",
+    "cards": [
+      "OP10-011",
+      "OP10-018",
+      "EB02-009",
+      "ST21-003",
+      "OP08-118",
+      "EB02-009",
+      "ST10-006"
+    ]
+  },
+  "log-148": {
+    "player": "bigmac",
+    "action": "Trash state",
+    "cards": [
+      "ST21-016"
+    ]
+  },
+  "log-149": {
+    "player": "bigmac",
+    "action": "Board state",
+    "cards": [
+      "EB02-009",
+      "OP11-009",
+      "OP11-016"
+    ]
+  },
+  "log-150": {
+    "player": "bigmac",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-151": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-009"
+  },
+  "log-152": {
+    "player": "rintosh1",
+    "action": "Draw 1 card"
+  },
+  "log-153": {
+    "player": "rintosh1",
+    "action": "Draw 2 Don"
+  },
+  "log-154": {
+    "player": "rintosh1",
+    "action": "Played card",
+    "card": "OP09-009"
+  },
+  "log-155": {
+    "player": "rintosh1",
+    "action": "Benn Beckman: Trash Roronoa Zoro",
+    "source_card": "OP09-009",
+    "target_card": "OP11-016"
+  },
+  "log-156": {
+    "player": "rintosh1",
+    "action": "Attached 0 Don to OP09-001",
+    "card": "OP09-001",
+    "total_don": 0
+  },
+  "log-157": {
+    "player": "rintosh1",
+    "action": "Attacking",
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
+  },
+  "log-158": {
+    "player": "bigmac",
+    "action": "Discard Sanji for Counter",
+    "card": "ST21-003",
+    "value": 2000
+  },
+  "log-159": {
+    "player": "System",
+    "action": "Attack calculation",
+    "attacker": {
+      "name": "Shanks",
+      "card_id": "OP09-001",
+      "power": 5000
+    },
+    "defender": {
+      "name": "Monkey D. Luffy",
+      "card_id": "ST21-001",
+      "power": 7000
+    }
+  },
+  "log-160": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-161": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-004",
+      "OP09-009",
+      "OP09-015",
+      "OP09-004",
+      "OP01-006",
+      "ST21-014"
+    ]
+  },
+  "log-162": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP09-009",
+      "OP09-009"
+    ]
+  },
+  "log-163": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": [
+      "OP10-005",
+      "OP09-008",
+      "OP10-005"
+    ]
+  },
+  "log-164": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-165": {
+    "player": "bigmac",
+    "action": "Hand state",
+    "cards": [
+      "OP10-011",
+      "OP10-018",
+      "EB02-009",
+      "OP08-118",
+      "EB02-009",
+      "ST10-006"
+    ]
+  },
+  "log-166": {
+    "player": "bigmac",
+    "action": "Trash state",
+    "cards": [
+      "ST21-016",
+      "OP11-016",
+      "ST21-003"
+    ]
+  },
+  "log-167": {
+    "player": "bigmac",
+    "action": "Board state",
+    "cards": [
+      "EB02-009",
+      "OP11-009"
+    ]
+  },
+  "log-168": {
+    "player": "bigmac",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-169": {
+    "player": "rintosh1",
+    "action": "End turn"
+  },
+  "log-170": {
+    "player": "bigmac",
+    "action": "Draw 1 card"
+  },
+  "log-171": {
+    "player": "bigmac",
+    "action": "Drew card from deck",
+    "card": "ST21-009"
+  },
+  "log-172": {
+    "player": "bigmac",
+    "action": "Draw 2 Don"
+  },
+  "log-173": {
+    "player": "bigmac",
+    "action": "Played card",
+    "card": "ST21-009"
+  },
+  "log-174": {
+    "player": "bigmac",
+    "action": "Played card",
+    "card": "OP10-011"
+  },
+  "log-175": {
+    "player": "bigmac",
+    "action": "Attached 0 Don to ST21-001",
+    "card": "ST21-001",
+    "total_don": 0
+  },
+  "log-176": {
+    "player": "bigmac",
+    "action": "Monkey D. Luffy: Attach 1 Rested Don to Nico Robin",
+    "source_card": "ST21-001",
+    "target_card": "OP11-009"
+  },
+  "log-177": {
+    "player": "bigmac",
+    "action": "Monkey D. Luffy: Attach 1 Rested Don to Nico Robin",
+    "source_card": "ST21-001",
+    "target_card": "OP11-009"
+  },
+  "log-178": {
+    "player": "bigmac",
+    "action": "Nami: Attach 1 Rested Don to Monkey D. Luffy",
+    "source_card": "ST21-009",
+    "target_card": "ST21-001"
+  },
+  "log-179": {
+    "player": "bigmac",
+    "action": "Nami: Attach 1 Rested Don to Monkey D. Luffy",
+    "source_card": "ST21-009",
+    "target_card": "ST21-001"
+  },
+  "log-180": {
+    "player": "bigmac",
+    "action": "Attacking",
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
+  },
+  "log-181": {
+    "player": "rintosh1",
+    "action": "Shanks: Buff Nico Robin",
+    "source_card": "OP09-001",
+    "target_card": "OP11-009",
+    "value": -1000
+  },
+  "log-182": {
+    "player": "System",
+    "action": "Attack calculation",
+    "attacker": {
+      "name": "Monkey D. Luffy",
+      "card_id": "ST21-001",
+      "power": 8000
+    },
+    "defender": {
+      "name": "Shanks",
+      "card_id": "OP09-001",
+      "power": 5000
+    }
+  },
+  "log-183": {
+    "player": "Shanks",
+    "action": "Damage taken by Shanks",
+    "damage": 1
+  },
+  "log-184": {
+    "player": "bigmac",
+    "action": "Thousand Sunny: Rest Thousand Sunny",
+    "source_card": "EB02-009"
+  },
+  "log-185": {
+    "player": "bigmac",
+    "action": "Thousand Sunny: Transfer 1 Attached Don to Nico Robin",
+    "source_card": "EB02-009",
+    "target_card": "OP11-009",
+    "transfer_amount": 1
+  },
+  "log-186": {
+    "player": "bigmac",
+    "action": "Attacking",
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
+  },
+  "log-187": {
+    "player": "bigmac",
+    "action": "Nico Robin: Grant Benn Beckman -2000 until next turn end",
+    "source_card": "OP11-009",
+    "target_card": "OP09-009",
+    "value": -2000,
+    "duration": "until next turn end"
+  },
+  "log-188": {
+    "player": "rintosh1",
+    "action": "Discard Otama for Counter",
+    "card": "OP01-006",
+    "value": 2000
+  },
+  "log-189": {
+    "player": "System",
+    "action": "Attack calculation",
+    "attacker": {
+      "name": "Nico Robin",
+      "card_id": "OP11-009",
+      "power": 6000
+    },
+    "defender": {
+      "name": "Shanks",
+      "card_id": "OP09-001",
+      "power": 7000
+    }
+  },
+  "log-190": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-191": {
+    "player": "bigmac",
+    "action": "End turn"
+  },
+  "log-192": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-004",
+      "OP09-009",
+      "OP09-015",
+      "OP09-004",
+      "ST21-014",
+      "OP09-011"
+    ]
+  },
+  "log-193": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP09-009",
+      "OP09-009"
+    ]
+  },
+  "log-194": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": [
+      "OP10-005",
+      "OP09-008",
+      "OP10-005",
+      "OP01-006"
+    ]
+  },
+  "log-195": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-196": {
+    "player": "bigmac",
+    "action": "Hand state",
+    "cards": [
+      "OP10-018",
+      "EB02-009",
+      "OP08-118",
+      "EB02-009",
+      "ST10-006"
+    ]
+  },
+  "log-197": {
+    "player": "bigmac",
+    "action": "Trash state",
+    "cards": [
+      "ST21-016",
+      "OP11-016",
+      "ST21-003"
+    ]
+  },
+  "log-198": {
+    "player": "bigmac",
+    "action": "Board state",
+    "cards": [
+      "EB02-009",
+      "OP11-009",
+      "ST21-009",
+      "OP10-011"
+    ]
+  },
+  "log-199": {
+    "player": "bigmac",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-200": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP01-006"
+  },
+  "log-201": {
+    "player": "rintosh1",
+    "action": "Draw 1 card"
+  },
+  "log-202": {
+    "player": "rintosh1",
+    "action": "Draw 2 Don"
+  },
+  "log-203": {
+    "player": "rintosh1",
+    "action": "Played card",
+    "card": "OP09-009"
+  },
+  "log-204": {
+    "player": "rintosh1",
+    "action": "Benn Beckman: Trash Nico Robin",
+    "source_card": "OP09-009",
+    "target_card": "OP11-009"
+  },
+  "log-205": {
+    "player": "rintosh1",
+    "action": "Attached 0 Don to OP09-001",
+    "card": "OP09-001",
+    "total_don": 0
+  },
+  "log-206": {
+    "player": "rintosh1",
+    "action": "Attacking",
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
+  },
+  "log-207": {
+    "player": "System",
+    "action": "Attack calculation",
+    "attacker": {
+      "name": "Shanks",
+      "card_id": "OP09-001",
+      "power": 7000
+    },
+    "defender": {
+      "name": "Monkey D. Luffy",
+      "card_id": "ST21-001",
+      "power": 5000
+    }
+  },
+  "log-208": {
+    "player": "Monkey D. Luffy",
+    "action": "Damage taken by Monkey D. Luffy",
+    "damage": 1
+  },
+  "log-209": {
+    "player": "rintosh1",
+    "action": "Attacking",
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
+  },
+  "log-210": {
+    "player": "bigmac",
+    "action": "Discard Nico Robin for Counter",
+    "card": "ST21-010",
+    "value": 1000
+  },
+  "log-211": {
+    "player": "System",
+    "action": "Attack calculation",
+    "attacker": {
+      "name": "Benn Beckman",
+      "card_id": "OP09-009",
+      "power": 5000
+    },
+    "defender": {
+      "name": "Monkey D. Luffy",
+      "card_id": "ST21-001",
+      "power": 6000
+    }
+  },
+  "log-212": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-213": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-004",
+      "OP09-015",
+      "OP09-004",
+      "ST21-014",
+      "OP09-011",
+      "OP01-006"
+    ]
+  },
+  "log-214": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP09-009",
+      "OP09-009",
+      "OP09-009"
+    ]
+  },
+  "log-215": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": [
+      "OP10-005",
+      "OP09-008",
+      "OP10-005",
+      "OP01-006"
+    ]
+  },
+  "log-216": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-217": {
+    "player": "bigmac",
+    "action": "Hand state",
+    "cards": [
+      "OP10-018",
+      "EB02-009",
+      "OP08-118",
+      "EB02-009",
+      "ST10-006"
+    ]
+  },
+  "log-218": {
+    "player": "bigmac",
+    "action": "Trash state",
+    "cards": [
+      "ST21-016",
+      "OP11-016",
+      "ST21-003",
+      "OP11-009",
+      "ST21-010"
+    ]
+  },
+  "log-219": {
+    "player": "bigmac",
+    "action": "Board state",
+    "cards": [
+      "EB02-009",
+      "ST21-009",
+      "OP10-011"
+    ]
+  },
+  "log-220": {
+    "player": "bigmac",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-221": {
+    "player": "rintosh1",
+    "action": "End turn"
+  },
+  "log-222": {
+    "player": "bigmac",
+    "action": "Draw 1 card"
+  },
+  "log-223": {
+    "player": "bigmac",
+    "action": "Drew card from deck",
+    "card": "ST21-009"
+  },
+  "log-224": {
+    "player": "bigmac",
+    "action": "Draw 2 Don"
+  },
+  "log-225": {
+    "player": "bigmac",
+    "action": "Played card",
+    "card": "ST10-006"
+  },
+  "log-226": {
+    "player": "bigmac",
+    "action": "Nami: Attach 1 Rested Don to Monkey D. Luffy",
+    "source_card": "ST21-009",
+    "target_card": "ST21-001"
+  },
+  "log-227": {
+    "player": "bigmac",
+    "action": "Nami: Attach 1 Rested Don to Monkey D. Luffy",
+    "source_card": "ST21-009",
+    "target_card": "ST21-001"
+  },
+  "log-228": {
+    "player": "bigmac",
+    "action": "Monkey D. Luffy: Attach 1 Rested Don to Monkey D. Luffy",
+    "source_card": "ST21-001",
+    "target_card": "ST10-006"
+  },
+  "log-229": {
+    "player": "bigmac",
+    "action": "Monkey D. Luffy: Attach 1 Rested Don to Monkey D. Luffy",
+    "source_card": "ST21-001",
+    "target_card": "ST10-006"
+  },
+  "log-230": {
+    "player": "bigmac",
+    "action": "Attacking",
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
+  },
+  "log-231": {
+    "player": "System",
+    "action": "Attack calculation",
+    "attacker": {
+      "name": "Monkey D. Luffy",
+      "card_id": "ST10-006",
+      "power": 13000
+    },
+    "defender": {
+      "name": "Benn Beckman",
+      "card_id": "OP09-009",
+      "power": 7000
+    }
+  },
+  "log-232": {
+    "player": "rintosh1",
+    "action": "Benn Beckman Destroyed",
+    "card": "OP09-009"
+  },
+  "log-233": {
+    "player": "bigmac",
+    "action": "Thousand Sunny: Rest Thousand Sunny",
+    "source_card": "EB02-009"
+  },
+  "log-234": {
+    "player": "bigmac",
+    "action": "Thousand Sunny: Transfer 0 Attached Don to Monkey D. Luffy",
+    "source_card": "EB02-009",
+    "target_card": "ST10-006",
+    "transfer_amount": 0
+  },
+  "log-235": {
+    "player": "bigmac",
+    "action": "Attacking",
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
+  },
+  "log-236": {
+    "player": "rintosh1",
+    "action": "Shanks: Buff Monkey D. Luffy",
+    "source_card": "OP09-001",
+    "target_card": "ST21-001",
+    "value": -1000
+  },
+  "log-237": {
+    "player": "rintosh1",
+    "action": "Discard Hongo for Counter",
+    "card": "OP09-011",
+    "value": 2000
+  },
+  "log-238": {
+    "player": "System",
+    "action": "Attack calculation",
+    "attacker": {
+      "name": "Monkey D. Luffy",
+      "card_id": "ST21-001",
+      "power": 6000
+    },
+    "defender": {
+      "name": "Shanks",
+      "card_id": "OP09-001",
+      "power": 7000
+    }
+  },
+  "log-239": {
+    "player": "System",
+    "action": "Attack Fails"
+  },
+  "log-240": {
+    "player": "bigmac",
+    "action": "End turn"
+  },
+  "log-241": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-004",
+      "OP09-015",
+      "OP09-004",
+      "ST21-014",
+      "OP01-006"
+    ]
+  },
+  "log-242": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP09-009",
+      "OP09-009"
+    ]
+  },
+  "log-243": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": [
+      "OP10-005",
+      "OP09-008",
+      "OP10-005",
+      "OP01-006",
+      "OP09-009",
+      "OP09-011"
+    ]
+  },
+  "log-244": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-245": {
+    "player": "bigmac",
+    "action": "Hand state",
+    "cards": [
+      "OP10-018",
+      "EB02-009",
+      "OP08-118",
+      "EB02-009",
+      "ST21-009"
+    ]
+  },
+  "log-246": {
+    "player": "bigmac",
+    "action": "Trash state",
+    "cards": [
+      "ST21-016",
+      "OP11-016",
+      "ST21-003",
+      "OP11-009",
+      "ST21-010"
+    ]
+  },
+  "log-247": {
+    "player": "bigmac",
+    "action": "Board state",
+    "cards": [
+      "EB02-009",
+      "ST21-009",
+      "OP10-011",
+      "ST10-006"
+    ]
+  },
+  "log-248": {
+    "player": "bigmac",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-249": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP10-011"
+  },
+  "log-250": {
+    "player": "rintosh1",
+    "action": "Draw 1 card"
+  },
+  "log-251": {
+    "player": "rintosh1",
+    "action": "Draw 2 Don"
+  },
+  "log-252": {
+    "player": "rintosh1",
+    "action": "Played card",
+    "card": "OP09-015"
+  },
+  "log-253": {
+    "player": "rintosh1",
+    "action": "Played card",
+    "card": "ST21-014"
+  },
+  "log-254": {
+    "player": "rintosh1",
+    "action": "Attacking",
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
+  },
+  "log-255": {
+    "player": "rintosh1",
+    "action": "Monkey D. Luffy: Attach 1 Rested Don to Shanks",
+    "source_card": "ST21-014",
+    "target_card": "OP09-001"
+  },
+  "log-256": {
+    "player": "System",
+    "action": "Attack calculation",
+    "attacker": {
+      "name": "Monkey D. Luffy",
+      "card_id": "ST21-014",
+      "power": 6000
+    },
+    "defender": {
+      "name": "Monkey D. Luffy",
+      "card_id": "ST21-001",
+      "power": 5000
+    }
+  },
+  "log-257": {
+    "player": "Monkey D. Luffy",
+    "action": "Damage taken by Monkey D. Luffy",
+    "damage": 1
+  },
+  "log-258": {
+    "player": "rintosh1",
+    "action": "Attached 0 Don to OP09-001",
+    "card": "OP09-001",
+    "total_don": 0
+  },
+  "log-259": {
+    "player": "rintosh1",
+    "action": "Attacking",
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
+  },
+  "log-260": {
+    "player": "bigmac",
+    "action": "Tony Tony Chopper Blocks",
+    "card": "OP10-011"
+  },
+  "log-261": {
+    "player": "System",
+    "action": "Attack calculation",
+    "attacker": {
+      "name": "Shanks",
+      "card_id": "OP09-001",
+      "power": 7000
+    },
+    "defender": {
+      "name": "Tony Tony Chopper",
+      "card_id": "OP10-011",
+      "power": 6000
+    }
+  },
+  "log-262": {
+    "player": "bigmac",
+    "action": "Tony Tony Chopper Destroyed",
+    "card": "OP10-011"
+  },
+  "log-263": {
+    "player": "rintosh1",
+    "action": "Attacking",
+    "attacker": "",
+    "attacker_id": "",
+    "defender": "",
+    "defender_id": ""
+  },
+  "log-264": {
+    "player": "bigmac",
+    "action": "Discard Nami for Counter",
+    "card": "ST21-009",
+    "value": 1000
+  },
+  "log-265": {
+    "player": "System",
+    "action": "Attack calculation",
+    "attacker": {
+      "name": "Benn Beckman",
+      "card_id": "OP09-009",
+      "power": 7000
+    },
+    "defender": {
+      "name": "Monkey D. Luffy",
+      "card_id": "ST21-001",
+      "power": 6000
+    }
+  },
+  "log-266": {
+    "player": "Monkey D. Luffy",
+    "action": "Damage taken by Monkey D. Luffy",
+    "damage": 1
+  },
+  "log-267": {
+    "player": "bigmac",
+    "action": "Loses"
+  },
+  "log-268": {
+    "player": "rintosh1",
+    "action": "Wins!"
+  },
+  "log-269": {
+    "player": "bigmac",
+    "action": "Quits!"
+  },
+  "log-270": {
+    "player": "System",
+    "action": "Opponent Has Disconnected!"
+  }
+}
