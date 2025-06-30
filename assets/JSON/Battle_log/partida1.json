@@ -1,0 +1,2732 @@
+{
+  "log-001": {
+    "player": "OPTrailBarber",
+    "action": "Leader is Portgas D. Ace",
+    "card": "OP03-001"
+  },
+  "log-002": {
+    "player": "keni",
+    "action": "Leader is Jewelry Bonney",
+    "card": "OP07-019"
+  },
+  "log-003": {
+    "player": "OPTrailBarber",
+    "action": "Chose to go Second"
+  },
+  "log-004": {
+    "player": "OPTrailBarber",
+    "action": "Drew card from deck",
+    "card": "ST01-006"
+  },
+  "log-005": {
+    "player": "OPTrailBarber",
+    "action": "Drew card from deck",
+    "card": "ST15-005"
+  },
+  "log-006": {
+    "player": "OPTrailBarber",
+    "action": "Drew card from deck",
+    "card": "OP03-019"
+  },
+  "log-007": {
+    "player": "OPTrailBarber",
+    "action": "Drew card from deck",
+    "card": "ST10-005"
+  },
+  "log-008": {
+    "player": "OPTrailBarber",
+    "action": "Drew card from deck",
+    "card": "OP03-019"
+  },
+  "log-009": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "OP08-030"
+  },
+  "log-010": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "OP04-031"
+  },
+  "log-011": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "OP05-030"
+  },
+  "log-012": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "OP05-030"
+  },
+  "log-013": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "OP05-030"
+  },
+  "log-014": {
+    "player": "keni",
+    "action": "Hand state before Mulligan",
+    "cards": [
+      "OP08-030",
+      "OP04-031",
+      "OP05-030",
+      "OP05-030",
+      "OP05-030"
+    ]
+  },
+  "log-015": {
+    "player": "keni",
+    "action": "Hand state",
+    "cards": [
+      "OP08-030",
+      "OP04-031",
+      "OP05-030",
+      "OP05-030",
+      "OP05-030"
+    ]
+  },
+  "log-016": {
+    "player": "keni",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-017": {
+    "player": "keni",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-018": {
+    "player": "keni",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-019": {
+    "player": "OPTrailBarber",
+    "action": "Hand state",
+    "cards": [
+      "ST01-006",
+      "ST15-005",
+      "OP03-019",
+      "ST10-005",
+      "OP03-019"
+    ]
+  },
+  "log-020": {
+    "player": "OPTrailBarber",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-021": {
+    "player": "OPTrailBarber",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-022": {
+    "player": "OPTrailBarber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-023": {
+    "player": "keni",
+    "action": "Draw 1 Don"
+  },
+  "log-024": {
+    "player": "keni",
+    "action": "Hand state",
+    "cards": [
+      "OP08-030",
+      "OP04-031",
+      "OP05-030",
+      "OP05-030",
+      "OP05-030"
+    ]
+  },
+  "log-025": {
+    "player": "keni",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-026": {
+    "player": "keni",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-027": {
+    "player": "keni",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-028": {
+    "player": "OPTrailBarber",
+    "action": "Hand state",
+    "cards": [
+      "ST01-006",
+      "ST15-005",
+      "OP03-019",
+      "ST10-005",
+      "OP03-019"
+    ]
+  },
+  "log-029": {
+    "player": "OPTrailBarber",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-030": {
+    "player": "OPTrailBarber",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-031": {
+    "player": "OPTrailBarber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-032": {
+    "player": "keni",
+    "action": "End turn"
+  },
+  "log-033": {
+    "player": "OPTrailBarber",
+    "action": "Draw 1 card"
+  },
+  "log-034": {
+    "player": "OPTrailBarber",
+    "action": "Drew card from deck",
+    "card": "EB01-007"
+  },
+  "log-035": {
+    "player": "OPTrailBarber",
+    "action": "Draw 2 Don"
+  },
+  "log-036": {
+    "player": "OPTrailBarber",
+    "action": "Played card",
+    "card": "ST01-006"
+  },
+  "log-037": {
+    "player": "OPTrailBarber",
+    "action": "End turn"
+  },
+  "log-038": {
+    "player": "keni",
+    "action": "Hand state",
+    "cards": [
+      "OP08-030",
+      "OP04-031",
+      "OP05-030",
+      "OP05-030",
+      "OP05-030"
+    ]
+  },
+  "log-039": {
+    "player": "keni",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-040": {
+    "player": "keni",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-041": {
+    "player": "keni",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-042": {
+    "player": "OPTrailBarber",
+    "action": "Hand state",
+    "cards": [
+      "ST15-005",
+      "OP03-019",
+      "ST10-005",
+      "OP03-019",
+      "EB01-007"
+    ]
+  },
+  "log-043": {
+    "player": "OPTrailBarber",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-044": {
+    "player": "OPTrailBarber",
+    "action": "Board state",
+    "cards": [
+      "ST01-006"
+    ]
+  },
+  "log-045": {
+    "player": "OPTrailBarber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-046": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "OP05-037"
+  },
+  "log-047": {
+    "player": "keni",
+    "action": "Draw 1 card"
+  },
+  "log-048": {
+    "player": "keni",
+    "action": "Draw 2 Don"
+  },
+  "log-049": {
+    "player": "keni",
+    "action": "Played card",
+    "card": "OP05-030"
+  },
+  "log-050": {
+    "player": "keni",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Portgas D. Ace",
+    "defender_id": "OP03-001"
+  },
+  "log-051": {
+    "player": "OPTrailBarber",
+    "action": "Played counter",
+    "card": "ST01-006"
+  },
+  "log-052": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Tony Tony Chopper",
+    "defender_id": "ST01-006",
+    "attacker_power": 5000,
+    "defender_power": 1000
+  },
+  "log-053": {
+    "player": "OPTrailBarber",
+    "action": "Tony Tony Chopper was destroyed",
+    "card": "ST01-006"
+  },
+  "log-054": {
+    "player": "keni",
+    "action": "Hand state",
+    "cards": [
+      "OP08-030",
+      "OP04-031",
+      "OP05-030",
+      "OP05-030",
+      "OP05-037"
+    ]
+  },
+  "log-055": {
+    "player": "keni",
+    "action": "Board state",
+    "cards": [
+      "OP05-030"
+    ]
+  },
+  "log-056": {
+    "player": "keni",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-057": {
+    "player": "keni",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-058": {
+    "player": "OPTrailBarber",
+    "action": "Hand state",
+    "cards": [
+      "ST15-005",
+      "OP03-019",
+      "ST10-005",
+      "OP03-019",
+      "EB01-007"
+    ]
+  },
+  "log-059": {
+    "player": "OPTrailBarber",
+    "action": "Trash state",
+    "cards": [
+      "ST01-006"
+    ]
+  },
+  "log-060": {
+    "player": "OPTrailBarber",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-061": {
+    "player": "OPTrailBarber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-062": {
+    "player": "keni",
+    "action": "End turn"
+  },
+  "log-063": {
+    "player": "OPTrailBarber",
+    "action": "Draw 1 card"
+  },
+  "log-064": {
+    "player": "OPTrailBarber",
+    "action": "Drew card from deck",
+    "card": "OP02-014"
+  },
+  "log-065": {
+    "player": "OPTrailBarber",
+    "action": "Draw 2 Don"
+  },
+  "log-066": {
+    "player": "OPTrailBarber",
+    "action": "Played card",
+    "card": "OP02-014"
+  },
+  "log-067": {
+    "player": "OPTrailBarber",
+    "action": "Played card",
+    "card": "ST10-005"
+  },
+  "log-068": {
+    "player": "OPTrailBarber",
+    "action": "Attached 1 Don to Portgas D. Ace",
+    "card": "OP03-001",
+    "total_don": 1
+  },
+  "log-069": {
+    "player": "OPTrailBarber",
+    "action": "Attacking",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "OP03-001",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-070": {
+    "player": "OPTrailBarber",
+    "action": "Portgas D. Ace ability",
+    "card": "OP03-001",
+    "ability": "Trash Fiery Doll for +1000 this Battle",
+    "trashed_card": "OP03-019"
+  },
+  "log-071": {
+    "player": "keni",
+    "action": "Jewelry Bonney ability",
+    "card": "OP07-019",
+    "ability": "Rest Jinbe",
+    "rested_card": "ST10-005"
+  },
+  "log-072": {
+    "player": "keni",
+    "action": "Played counter",
+    "card": "OP05-030"
+  },
+  "log-073": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "OP03-001",
+    "defender": "Donquixote Rosinante",
+    "defender_id": "OP05-030",
+    "attacker_power": 7000,
+    "defender_power": 1000
+  },
+  "log-074": {
+    "player": "keni",
+    "action": "Donquixote Rosinante was destroyed",
+    "card": "OP05-030"
+  },
+  "log-075": {
+    "player": "OPTrailBarber",
+    "action": "End turn"
+  },
+  "log-076": {
+    "player": "keni",
+    "action": "Hand state",
+    "cards": [
+      "OP08-030",
+      "OP04-031",
+      "OP05-030",
+      "OP05-030",
+      "OP05-037"
+    ]
+  },
+  "log-077": {
+    "player": "keni",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-078": {
+    "player": "keni",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030"
+    ]
+  },
+  "log-079": {
+    "player": "keni",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-080": {
+    "player": "OPTrailBarber",
+    "action": "Hand state",
+    "cards": [
+      "ST15-005",
+      "OP03-019",
+      "EB01-007"
+    ]
+  },
+  "log-081": {
+    "player": "OPTrailBarber",
+    "action": "Trash state",
+    "cards": [
+      "ST01-006",
+      "OP03-019"
+    ]
+  },
+  "log-082": {
+    "player": "OPTrailBarber",
+    "action": "Board state",
+    "cards": [
+      "OP02-014",
+      "ST10-005"
+    ]
+  },
+  "log-083": {
+    "player": "OPTrailBarber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-084": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "ST02-008"
+  },
+  "log-085": {
+    "player": "keni",
+    "action": "Draw 1 card"
+  },
+  "log-086": {
+    "player": "keni",
+    "action": "Draw 2 Don"
+  },
+  "log-087": {
+    "player": "keni",
+    "action": "Played card",
+    "card": "OP05-030"
+  },
+  "log-088": {
+    "player": "keni",
+    "action": "Played card",
+    "card": "OP05-030"
+  },
+  "log-089": {
+    "player": "keni",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Jinbe",
+    "defender_id": "ST10-005"
+  },
+  "log-090": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Jinbe",
+    "defender_id": "ST10-005",
+    "attacker_power": 5000,
+    "defender_power": 2000
+  },
+  "log-091": {
+    "player": "OPTrailBarber",
+    "action": "Jinbe was destroyed",
+    "card": "ST10-005"
+  },
+  "log-092": {
+    "player": "keni",
+    "action": "Hand state",
+    "cards": [
+      "OP08-030",
+      "OP04-031",
+      "OP05-037",
+      "ST02-008"
+    ]
+  },
+  "log-093": {
+    "player": "keni",
+    "action": "Board state",
+    "cards": [
+      "OP05-030",
+      "OP05-030"
+    ]
+  },
+  "log-094": {
+    "player": "keni",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030"
+    ]
+  },
+  "log-095": {
+    "player": "keni",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-096": {
+    "player": "OPTrailBarber",
+    "action": "Hand state",
+    "cards": [
+      "ST15-005",
+      "OP03-019",
+      "EB01-007"
+    ]
+  },
+  "log-097": {
+    "player": "OPTrailBarber",
+    "action": "Trash state",
+    "cards": [
+      "ST01-006",
+      "OP03-019",
+      "ST10-005"
+    ]
+  },
+  "log-098": {
+    "player": "OPTrailBarber",
+    "action": "Board state",
+    "cards": [
+      "OP02-014"
+    ]
+  },
+  "log-099": {
+    "player": "OPTrailBarber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-100": {
+    "player": "keni",
+    "action": "End turn"
+  },
+  "log-101": {
+    "player": "OPTrailBarber",
+    "action": "Draw 1 card"
+  },
+  "log-102": {
+    "player": "OPTrailBarber",
+    "action": "Drew card from deck",
+    "card": "P-028"
+  },
+  "log-103": {
+    "player": "OPTrailBarber",
+    "action": "Draw 2 Don"
+  },
+  "log-104": {
+    "player": "OPTrailBarber",
+    "action": "Played card",
+    "card": "ST15-005"
+  },
+  "log-105": {
+    "player": "OPTrailBarber",
+    "action": "Attached 1 Don to Whitey Bay",
+    "card": "OP02-014",
+    "total_don": 1
+  },
+  "log-106": {
+    "player": "OPTrailBarber",
+    "action": "Attacking",
+    "attacker": "Whitey Bay",
+    "attacker_id": "OP02-014",
+    "defender": "Donquixote Rosinante",
+    "defender_id": "OP05-030"
+  },
+  "log-107": {
+    "player": "keni",
+    "action": "Jewelry Bonney ability",
+    "card": "OP07-019",
+    "ability": "Rest Portgas D. Ace",
+    "rested_card": "ST15-005"
+  },
+  "log-108": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Whitey Bay",
+    "attacker_id": "OP02-014",
+    "defender": "Donquixote Rosinante",
+    "defender_id": "OP05-030",
+    "attacker_power": 3000,
+    "defender_power": 1000
+  },
+  "log-109": {
+    "player": "keni",
+    "action": "Donquixote Rosinante was destroyed",
+    "card": "OP05-030"
+  },
+  "log-110": {
+    "player": "OPTrailBarber",
+    "action": "Attacking",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "OP03-001",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-111": {
+    "player": "keni",
+    "action": "Played counter",
+    "card": "ST02-008",
+    "counter_amount": 2000
+  },
+  "log-112": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "OP03-001",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "attacker_power": 5000,
+    "defender_power": 7000
+  },
+  "log-113": {
+    "player": "keni",
+    "action": "Attack Fails"
+  },
+  "log-114": {
+    "player": "OPTrailBarber",
+    "action": "End turn"
+  },
+  "log-115": {
+    "player": "keni",
+    "action": "Hand state",
+    "cards": [
+      "OP08-030",
+      "OP04-031",
+      "OP05-037"
+    ]
+  },
+  "log-116": {
+    "player": "keni",
+    "action": "Board state",
+    "cards": [
+      "OP05-030"
+    ]
+  },
+  "log-117": {
+    "player": "keni",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030",
+      "OP05-030",
+      "ST02-008"
+    ]
+  },
+  "log-118": {
+    "player": "keni",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-119": {
+    "player": "OPTrailBarber",
+    "action": "Hand state",
+    "cards": [
+      "OP03-019",
+      "EB01-007",
+      "P-028"
+    ]
+  },
+  "log-120": {
+    "player": "OPTrailBarber",
+    "action": "Trash state",
+    "cards": [
+      "ST01-006",
+      "OP03-019",
+      "ST10-005"
+    ]
+  },
+  "log-121": {
+    "player": "OPTrailBarber",
+    "action": "Board state",
+    "cards": [
+      "OP02-014",
+      "ST15-005"
+    ]
+  },
+  "log-122": {
+    "player": "OPTrailBarber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-123": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "OP10-030"
+  },
+  "log-124": {
+    "player": "keni",
+    "action": "Draw 1 card"
+  },
+  "log-125": {
+    "player": "keni",
+    "action": "Draw 2 Don"
+  },
+  "log-126": {
+    "player": "keni",
+    "action": "Played card",
+    "card": "OP10-030"
+  },
+  "log-127": {
+    "player": "keni",
+    "action": "Attached 1 Don to Jewelry Bonney",
+    "card": "OP07-019",
+    "total_don": 1
+  },
+  "log-128": {
+    "player": "keni",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Whitey Bay",
+    "defender_id": "OP02-014"
+  },
+  "log-129": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Whitey Bay",
+    "defender_id": "OP02-014",
+    "attacker_power": 6000,
+    "defender_power": 2000
+  },
+  "log-130": {
+    "player": "OPTrailBarber",
+    "action": "Whitey Bay was destroyed",
+    "card": "OP02-014"
+  },
+  "log-131": {
+    "player": "keni",
+    "action": "Hand state",
+    "cards": [
+      "OP08-030",
+      "OP04-031",
+      "OP05-037"
+    ]
+  },
+  "log-132": {
+    "player": "keni",
+    "action": "Board state",
+    "cards": [
+      "OP05-030",
+      "OP10-030"
+    ]
+  },
+  "log-133": {
+    "player": "keni",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030",
+      "OP05-030",
+      "ST02-008"
+    ]
+  },
+  "log-134": {
+    "player": "keni",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-135": {
+    "player": "OPTrailBarber",
+    "action": "Hand state",
+    "cards": [
+      "OP03-019",
+      "EB01-007",
+      "P-028"
+    ]
+  },
+  "log-136": {
+    "player": "OPTrailBarber",
+    "action": "Trash state",
+    "cards": [
+      "ST01-006",
+      "OP03-019",
+      "ST10-005",
+      "OP02-014"
+    ]
+  },
+  "log-137": {
+    "player": "OPTrailBarber",
+    "action": "Board state",
+    "cards": [
+      "ST15-005"
+    ]
+  },
+  "log-138": {
+    "player": "OPTrailBarber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-139": {
+    "player": "keni",
+    "action": "End turn"
+  },
+  "log-140": {
+    "player": "OPTrailBarber",
+    "action": "Draw 1 card"
+  },
+  "log-141": {
+    "player": "OPTrailBarber",
+    "action": "Drew card from deck",
+    "card": "ST15-005"
+  },
+  "log-142": {
+    "player": "OPTrailBarber",
+    "action": "Draw 2 Don"
+  },
+  "log-143": {
+    "player": "OPTrailBarber",
+    "action": "Played card",
+    "card": "ST15-005"
+  },
+  "log-144": {
+    "player": "OPTrailBarber",
+    "action": "Fiery Doll ability",
+    "card": "OP03-019",
+    "ability": "Buff Portgas D. Ace",
+    "buff_power": 4000,
+    "target_card": "OP03-001"
+  },
+  "log-145": {
+    "player": "OPTrailBarber",
+    "action": "Attached 1 Don to Portgas D. Ace",
+    "card": "ST15-005",
+    "total_don": 1
+  },
+  "log-146": {
+    "player": "OPTrailBarber",
+    "action": "Attacking",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "OP03-001",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-147": {
+    "player": "keni",
+    "action": "Jewelry Bonney ability",
+    "card": "OP07-019",
+    "ability": "Rest Portgas D. Ace",
+    "rested_card": "ST15-005"
+  },
+  "log-148": {
+    "player": "keni",
+    "action": "Played counter",
+    "card": "OP05-030"
+  },
+  "log-149": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "OP03-001",
+    "defender": "Donquixote Rosinante",
+    "defender_id": "OP05-030",
+    "attacker_power": 9000,
+    "defender_power": 1000
+  },
+  "log-150": {
+    "player": "keni",
+    "action": "Donquixote Rosinante was destroyed",
+    "card": "OP05-030"
+  },
+  "log-151": {
+    "player": "OPTrailBarber",
+    "action": "Attacking",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "ST15-005",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-152": {
+    "player": "keni",
+    "action": "Played counter",
+    "card": "OP08-030",
+    "counter_amount": 1000
+  },
+  "log-153": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "ST15-005",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "attacker_power": 6000,
+    "defender_power": 6000
+  },
+  "log-154": {
+    "player": "keni",
+    "action": "Jewelry Bonney hit for 1 damage",
+    "card": "OP07-019"
+  },
+  "log-155": {
+    "player": "OPTrailBarber",
+    "action": "End turn"
+  },
+  "log-156": {
+    "player": "keni",
+    "action": "Hand state",
+    "cards": [
+      "OP04-031",
+      "OP05-037",
+      "EB01-012"
+    ]
+  },
+  "log-157": {
+    "player": "keni",
+    "action": "Board state",
+    "cards": [
+      "OP10-030"
+    ]
+  },
+  "log-158": {
+    "player": "keni",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030",
+      "OP05-030",
+      "ST02-008",
+      "OP05-030",
+      "OP08-030"
+    ]
+  },
+  "log-159": {
+    "player": "keni",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-160": {
+    "player": "OPTrailBarber",
+    "action": "Hand state",
+    "cards": [
+      "OP03-019",
+      "EB01-007",
+      "P-028"
+    ]
+  },
+  "log-161": {
+    "player": "OPTrailBarber",
+    "action": "Trash state",
+    "cards": [
+      "ST01-006",
+      "OP03-019",
+      "ST10-005",
+      "OP02-014",
+      "OP03-019"
+    ]
+  },
+  "log-162": {
+    "player": "OPTrailBarber",
+    "action": "Board state",
+    "cards": [
+      "ST15-005",
+      "ST15-005"
+    ]
+  },
+  "log-163": {
+    "player": "OPTrailBarber",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-164": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "OP08-023"
+  },
+  "log-165": {
+    "player": "keni",
+    "action": "Draw 1 card"
+  },
+  "log-166": {
+    "player": "keni",
+    "action": "Draw 2 Don"
+  },
+  "log-167": {
+    "player": "keni",
+    "action": "Played card",
+    "card": "EB01-012"
+  },
+  "log-168": {
+    "player": "keni",
+    "action": "Cavendish ability",
+    "card": "EB01-012",
+    "ability": "Activate 2 Don"
+  },
+  "log-169": {
+    "player": "keni",
+    "action": "Played card",
+    "card": "OP08-023"
+  },
+  "log-170": {
+    "player": "keni",
+    "action": "Carrot ability",
+    "card": "OP08-023",
+    "ability": "Portgas D. Ace will not Activate during next Refresh",
+    "target_card": "ST15-005"
+  },
+  "log-171": {
+    "player": "keni",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Portgas D. Ace",
+    "defender_id": "OP03-001"
+  },
+  "log-172": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Portgas D. Ace",
+    "defender_id": "OP03-001",
+    "attacker_power": 5000,
+    "defender_power": 5000
+  },
+  "log-173": {
+    "player": "keni",
+    "action": "Portgas D. Ace hit for 1 damage",
+    "card": "OP03-001"
+  },
+  "log-174": {
+    "player": "keni",
+    "action": "Attacking",
+    "attacker": "Smoker",
+    "attacker_id": "OP10-030",
+    "defender": "Portgas D. Ace",
+    "defender_id": "ST15-005"
+  },
+  "log-175": {
+    "player": "OPTrailBarber",
+    "action": "Discard Yamato for Counter",
+    "card": "EB01-007",
+    "counter_amount": 2000
+  },
+  "log-176": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Smoker",
+    "attacker_id": "OP10-030",
+    "defender": "Portgas D. Ace",
+    "defender_id": "ST15-005",
+    "attacker_power": 7000,
+    "defender_power": 8000
+  },
+  "log-177": {
+    "player": "keni",
+    "action": "Attack Fails"
+  },
+  "log-178": {
+    "player": "keni",
+    "action": "Hand state",
+    "cards": [
+      "OP04-031",
+      "OP05-037"
+    ]
+  },
+  "log-179": {
+    "player": "keni",
+    "action": "Board state",
+    "cards": [
+      "OP10-030",
+      "EB01-012",
+      "OP08-023"
+    ]
+  },
+  "log-180": {
+    "player": "keni",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030",
+      "OP05-030",
+      "ST02-008",
+      "OP05-030",
+      "OP08-030"
+    ]
+  },
+  "log-181": {
+    "player": "keni",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-182": {
+    "player": "OPTrailBarber",
+    "action": "Hand state",
+    "cards": [
+      "P-028",
+      "OP10-016"
+    ]
+  },
+  "log-183": {
+    "player": "OPTrailBarber",
+    "action": "Trash state",
+    "cards": [
+      "ST01-006",
+      "OP03-019",
+      "ST10-005",
+      "OP02-014",
+      "OP03-019",
+      "EB01-007"
+    ]
+  },
+  "log-184": {
+    "player": "OPTrailBarber",
+    "action": "Board state",
+    "cards": [
+      "ST15-005",
+      "ST15-005"
+    ]
+  },
+  "log-185": {
+    "player": "OPTrailBarber",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-186": {
+    "player": "keni",
+    "action": "End turn"
+  },
+  "log-187": {
+    "player": "OPTrailBarber",
+    "action": "Draw 1 card"
+  },
+  "log-188": {
+    "player": "OPTrailBarber",
+    "action": "Drew card from deck",
+    "card": "OP02-015"
+  },
+  "log-189": {
+    "player": "OPTrailBarber",
+    "action": "Draw 2 Don"
+  },
+  "log-190": {
+    "player": "OPTrailBarber",
+    "action": "Played card",
+    "card": "OP10-016"
+  },
+  "log-191": {
+    "player": "OPTrailBarber",
+    "action": "Played card",
+    "card": "P-028"
+  },
+  "log-192": {
+    "player": "OPTrailBarber",
+    "action": "Monet ability",
+    "card": "OP10-016",
+    "ability": "Rest Monet",
+    "rested_card": "OP10-016"
+  },
+  "log-193": {
+    "player": "OPTrailBarber",
+    "action": "Monet ability",
+    "card": "OP10-016",
+    "ability": "Attach 1 Rested Don to Portgas D. Ace",
+    "target_card": "ST15-005"
+  },
+  "log-194": {
+    "player": "OPTrailBarber",
+    "action": "Monet ability",
+    "card": "OP10-016",
+    "ability": "Attach 1 Rested Don to Portgas D. Ace",
+    "target_card": "ST15-005"
+  },
+  "log-195": {
+    "player": "OPTrailBarber",
+    "action": "Monet ability",
+    "card": "OP10-016",
+    "ability": "Buff Smoker -1000",
+    "buff_power": -1000,
+    "target_card": "OP10-030"
+  },
+  "log-196": {
+    "player": "OPTrailBarber",
+    "action": "Attached 1 Don to Portgas D. Ace",
+    "card": "OP03-001",
+    "total_don": 1
+  },
+  "log-197": {
+    "player": "OPTrailBarber",
+    "action": "Attached 1 Don to Portgas D. Ace",
+    "card": "OP03-001",
+    "total_don": 2
+  },
+  "log-198": {
+    "player": "OPTrailBarber",
+    "action": "Attached 1 Don to Portgas D. Ace",
+    "card": "ST15-005",
+    "total_don": 3
+  },
+  "log-199": {
+    "player": "OPTrailBarber",
+    "action": "Attacking",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "ST15-005",
+    "defender": "Smoker",
+    "defender_id": "OP10-030"
+  },
+  "log-200": {
+    "player": "keni",
+    "action": "Jewelry Bonney ability",
+    "card": "OP07-019",
+    "ability": "Rest Portgas D. Ace",
+    "rested_card": "P-028"
+  },
+  "log-201": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "ST15-005",
+    "defender": "Smoker",
+    "defender_id": "OP10-030",
+    "attacker_power": 9000,
+    "defender_power": 6000
+  },
+  "log-202": {
+    "player": "keni",
+    "action": "Smoker was destroyed",
+    "card": "OP10-030"
+  },
+  "log-203": {
+    "player": "OPTrailBarber",
+    "action": "Attacking",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "OP03-001",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019"
+  },
+  "log-204": {
+    "player": "keni",
+    "action": "Trash state Donquixote Doflamingo",
+    "card": "OP04-031"
+  },
+  "log-205": {
+    "player": "keni",
+    "action": "Whoever Wins This War Becomes Justice!! Counter",
+    "card": "OP05-037",
+    "counter_amount": 3000
+  },
+  "log-206": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "OP03-001",
+    "defender": "Jewelry Bonney",
+    "defender_id": "OP07-019",
+    "attacker_power": 7000,
+    "defender_power": 8000
+  },
+  "log-207": {
+    "player": "keni",
+    "action": "Attack Fails"
+  },
+  "log-208": {
+    "player": "OPTrailBarber",
+    "action": "End turn"
+  },
+  "log-209": {
+    "player": "keni",
+    "action": "Hand state",
+    "cards": []
+  },
+  "log-210": {
+    "player": "keni",
+    "action": "Board state",
+    "cards": [
+      "EB01-012",
+      "OP08-023"
+    ]
+  },
+  "log-211": {
+    "player": "keni",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030",
+      "OP05-030",
+      "ST02-008",
+      "OP05-030",
+      "OP08-030",
+      "OP10-030",
+      "OP04-031",
+      "OP05-037"
+    ]
+  },
+  "log-212": {
+    "player": "keni",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-213": {
+    "player": "OPTrailBarber",
+    "action": "Hand state",
+    "cards": [
+      "OP03-019",
+      "EB01-007",
+      "P-028"
+    ]
+  },
+  "log-214": {
+    "player": "OPTrailBarber",
+    "action": "Trash state",
+    "cards": [
+      "ST01-006",
+      "OP03-019",
+      "ST10-005",
+      "OP02-014",
+      "OP03-019"
+    ]
+  },
+  "log-215": {
+    "player": "OPTrailBarber",
+    "action": "Board state",
+    "cards": [
+      "ST15-005",
+      "ST15-005",
+      "OP10-016",
+      "P-028"
+    ]
+  },
+  "log-216": {
+    "player": "OPTrailBarber",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-217": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "OP05-037"
+  },
+  "log-218": {
+    "player": "keni",
+    "action": "Draw 1 card"
+  },
+  "log-219": {
+    "player": "keni",
+    "action": "Draw 2 Don"
+  },
+  "log-220": {
+    "player": "keni",
+    "action": "Attach 4 Don to Jewelry Bonney",
+    "card": "OP07-019",
+    "total_don": 4
+  },
+  "log-221": {
+    "player": "keni",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Portgas D. Ace",
+    "defender_id": "ST15-005"
+  },
+  "log-222": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Portgas D. Ace",
+    "defender_id": "ST15-005",
+    "attacker_power": 9000,
+    "defender_power": 6000
+  },
+  "log-223": {
+    "player": "OPTrailBarber",
+    "action": "Portgas D. Ace Destroyed",
+    "card": "ST15-005"
+  },
+  "log-224": {
+    "player": "keni",
+    "action": "Attached 3 Don to Carrot",
+    "card": "OP08-023",
+    "total_don": 3
+  },
+  "log-225": {
+    "player": "keni",
+    "action": "Carrot attacking",
+    "attacker": "Carrot",
+    "attacker_id": "OP08-023",
+    "defender": "Portgas D. Ace",
+    "defender_id": "ST15-005"
+  },
+  "log-226": {
+    "player": "keni",
+    "action": "Carrot ability",
+    "card": "OP08-023",
+    "ability": "Monet will not Activate during next Refresh",
+    "target_card": "OP10-016"
+  },
+  "log-227": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Carrot",
+    "attacker_id": "OP08-023",
+    "defender": "Portgas D. Ace",
+    "defender_id": "ST15-005",
+    "attacker_power": 9000,
+    "defender_power": 6000
+  },
+  "log-228": {
+    "player": "OPTrailBarber",
+    "action": "Portgas D. Ace Destroyed",
+    "card": "ST15-005"
+  },
+  "log-229": {
+    "player": "keni",
+    "action": "Attached 2 Don to Cavendish",
+    "card": "EB01-012",
+    "total_don": 2
+  },
+  "log-230": {
+    "player": "keni",
+    "action": "Cavendish attacking",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "defender": "Portgas D. Ace",
+    "defender_id": "P-028"
+  },
+  "log-231": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "defender": "Portgas D. Ace",
+    "defender_id": "P-028",
+    "attacker_power": 8000,
+    "defender_power": 6000
+  },
+  "log-232": {
+    "player": "OPTrailBarber",
+    "action": "Portgas D. Ace Destroyed",
+    "card": "P-028"
+  },
+  "log-233": {
+    "player": "keni",
+    "action": "Hand state",
+    "cards": [
+      "OP05-037"
+    ]
+  },
+  "log-234": {
+    "player": "keni",
+    "action": "Board state",
+    "cards": [
+      "EB01-012",
+      "OP08-023"
+    ]
+  },
+  "log-235": {
+    "player": "keni",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030",
+      "OP05-030",
+      "ST02-008",
+      "OP05-030",
+      "OP08-030",
+      "OP10-030",
+      "OP04-031",
+      "OP05-037",
+      "OP08-023"
+    ]
+  },
+  "log-236": {
+    "player": "keni",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-237": {
+    "player": "OPTrailBarber",
+    "action": "Hand state",
+    "cards": [
+      "OP03-019",
+      "EB01-007",
+      "P-028"
+    ]
+  },
+  "log-238": {
+    "player": "OPTrailBarber",
+    "action": "Trash state",
+    "cards": [
+      "ST01-006",
+      "OP03-019",
+      "ST10-005",
+      "OP02-014",
+      "OP03-019",
+      "EB01-007",
+      "ST15-005",
+      "ST15-005",
+      "P-028"
+    ]
+  },
+  "log-239": {
+    "player": "OPTrailBarber",
+    "action": "Board state",
+    "cards": [
+      "OP10-016"
+    ]
+  },
+  "log-240": {
+    "player": "OPTrailBarber",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-241": {
+    "player": "keni",
+    "action": "End turn"
+  },
+  "log-242": {
+    "player": "OPTrailBarber",
+    "action": "Draw 1 card"
+  },
+  "log-243": {
+    "player": "OPTrailBarber",
+    "action": "Drew card from deck",
+    "card": "EB01-007"
+  },
+  "log-244": {
+    "player": "OPTrailBarber",
+    "action": "Played card",
+    "card": "EB01-007"
+  },
+  "log-245": {
+    "player": "OPTrailBarber",
+    "action": "Attached 1 Don to Portgas D. Ace",
+    "card": "OP03-001",
+    "total_don": 1
+  },
+  "log-246": {
+    "player": "OPTrailBarber",
+    "action": "Attach 4 Don to Portgas D. Ace",
+    "card": "OP03-001",
+    "total_don": 5
+  },
+  "log-247": {
+    "player": "OPTrailBarber",
+    "action": "Attacking",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "OP03-001",
+    "defender": "Carrot",
+    "defender_id": "OP08-023"
+  },
+  "log-248": {
+    "player": "keni",
+    "action": "Jewelry Bonney ability",
+    "card": "OP07-019",
+    "ability": "Rest Yamato",
+    "rested_card": "EB01-007"
+  },
+  "log-249": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "OP03-001",
+    "defender": "Carrot",
+    "defender_id": "OP08-023",
+    "attacker_power": 10000,
+    "defender_power": 6000
+  },
+  "log-250": {
+    "player": "keni",
+    "action": "Carrot Destroyed",
+    "card": "OP08-023"
+  },
+  "log-251": {
+    "player": "OPTrailBarber",
+    "action": "End turn"
+  },
+  "log-252": {
+    "player": "keni",
+    "action": "Hand state",
+    "cards": [
+      "OP05-037"
+    ]
+  },
+  "log-253": {
+    "player": "keni",
+    "action": "Board state",
+    "cards": [
+      "EB01-012"
+    ]
+  },
+  "log-254": {
+    "player": "keni",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030",
+      "OP05-030",
+      "ST02-008",
+      "OP05-030",
+      "OP08-030",
+      "OP10-030",
+      "OP04-031",
+      "OP05-037",
+      "OP08-023"
+    ]
+  },
+  "log-255": {
+    "player": "keni",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-256": {
+    "player": "OPTrailBarber",
+    "action": "Hand state",
+    "cards": [
+      "OP02-015"
+    ]
+  },
+  "log-257": {
+    "player": "OPTrailBarber",
+    "action": "Trash state",
+    "cards": [
+      "ST01-006",
+      "OP03-019",
+      "ST10-005",
+      "OP02-014",
+      "OP03-019",
+      "EB01-007",
+      "ST15-005",
+      "ST15-005",
+      "P-028"
+    ]
+  },
+  "log-258": {
+    "player": "OPTrailBarber",
+    "action": "Board state",
+    "cards": [
+      "OP10-016",
+      "EB01-007"
+    ]
+  },
+  "log-259": {
+    "player": "OPTrailBarber",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-260": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "OP06-035"
+  },
+  "log-261": {
+    "player": "keni",
+    "action": "Draw 1 card"
+  },
+  "log-262": {
+    "player": "keni",
+    "action": "Played card",
+    "card": "OP06-035"
+  },
+  "log-263": {
+    "player": "keni",
+    "action": "Loses 1 Life"
+  },
+  "log-264": {
+    "player": "keni",
+    "action": "Hody Jones attacking",
+    "attacker": "Hody Jones",
+    "attacker_id": "OP06-035",
+    "defender": "Yamato",
+    "defender_id": "EB01-007"
+  },
+  "log-265": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Hody Jones",
+    "attacker_id": "OP06-035",
+    "defender": "Yamato",
+    "defender_id": "EB01-007",
+    "attacker_power": 8000,
+    "defender_power": 5000
+  },
+  "log-266": {
+    "player": "OPTrailBarber",
+    "action": "Yamato Destroyed",
+    "card": "EB01-007"
+  },
+  "log-267": {
+    "player": "keni",
+    "action": "Cavendish attacking",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "defender": "Portgas D. Ace",
+    "defender_id": "OP03-001"
+  },
+  "log-268": {
+    "player": "keni",
+    "action": "Cavendish ability",
+    "card": "EB01-012",
+    "ability": "Activate 2 Don"
+  },
+  "log-269": {
+    "player": "OPTrailBarber",
+    "action": "Discard Makino for Counter",
+    "card": "OP02-015",
+    "counter_amount": 2000
+  },
+  "log-270": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "defender": "Portgas D. Ace",
+    "defender_id": "OP03-001",
+    "attacker_power": 6000,
+    "defender_power": 7000
+  },
+  "log-271": {
+    "player": "keni",
+    "action": "Attack Fails"
+  },
+  "log-272": {
+    "player": "keni",
+    "action": "Attach 4 Don to Jewelry Bonney",
+    "card": "OP07-019",
+    "total_don": 4
+  },
+  "log-273": {
+    "player": "keni",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Portgas D. Ace",
+    "defender_id": "OP03-001"
+  },
+  "log-274": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Portgas D. Ace",
+    "defender_id": "OP03-001",
+    "attacker_power": 9000,
+    "defender_power": 5000
+  },
+  "log-275": {
+    "player": "keni",
+    "action": "Portgas D. Ace hit for 1 damage",
+    "card": "OP03-001"
+  },
+  "log-276": {
+    "player": "keni",
+    "action": "Hand state",
+    "cards": [
+      "OP05-037",
+      "EB01-015"
+    ]
+  },
+  "log-277": {
+    "player": "keni",
+    "action": "Board state",
+    "cards": [
+      "EB01-012",
+      "OP06-035"
+    ]
+  },
+  "log-278": {
+    "player": "keni",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030",
+      "OP05-030",
+      "ST02-008",
+      "OP05-030",
+      "OP08-030",
+      "OP10-030",
+      "OP04-031",
+      "OP05-037",
+      "OP08-023"
+    ]
+  },
+  "log-279": {
+    "player": "keni",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-280": {
+    "player": "OPTrailBarber",
+    "action": "Hand state",
+    "cards": [
+      "OP01-006"
+    ]
+  },
+  "log-281": {
+    "player": "OPTrailBarber",
+    "action": "Trash state",
+    "cards": [
+      "ST01-006",
+      "OP03-019",
+      "ST10-005",
+      "OP02-014",
+      "OP03-019",
+      "EB01-007",
+      "ST15-005",
+      "ST15-005",
+      "P-028",
+      "EB01-007",
+      "OP02-015"
+    ]
+  },
+  "log-282": {
+    "player": "OPTrailBarber",
+    "action": "Board state",
+    "cards": [
+      "OP10-016"
+    ]
+  },
+  "log-283": {
+    "player": "OPTrailBarber",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-284": {
+    "player": "keni",
+    "action": "End turn"
+  },
+  "log-285": {
+    "player": "OPTrailBarber",
+    "action": "Draw 1 card"
+  },
+  "log-286": {
+    "player": "OPTrailBarber",
+    "action": "Drew card from deck",
+    "card": "OP03-017"
+  },
+  "log-287": {
+    "player": "OPTrailBarber",
+    "action": "Cross Fire ability",
+    "card": "OP03-017",
+    "ability": "Give Hody Jones -4000",
+    "buff_power": -4000,
+    "target_card": "OP06-035"
+  },
+  "log-288": {
+    "player": "OPTrailBarber",
+    "action": "Monet ability",
+    "card": "OP10-016",
+    "ability": "Rest Monet",
+    "rested_card": "OP10-016"
+  },
+  "log-289": {
+    "player": "OPTrailBarber",
+    "action": "Monet ability",
+    "card": "OP10-016",
+    "ability": "Attach 1 Rested Don to Portgas D. Ace",
+    "target_card": "OP03-001"
+  },
+  "log-290": {
+    "player": "OPTrailBarber",
+    "action": "Monet ability",
+    "card": "OP10-016",
+    "ability": "Attach 1 Rested Don to Portgas D. Ace",
+    "target_card": "OP03-001"
+  },
+  "log-291": {
+    "player": "OPTrailBarber",
+    "action": "Monet ability",
+    "card": "OP10-016",
+    "ability": "Buff Hody Jones -1000",
+    "buff_power": -1000,
+    "target_card": "OP06-035"
+  },
+  "log-292": {
+    "player": "OPTrailBarber",
+    "action": "Attached 1 Don to Portgas D. Ace",
+    "card": "OP03-001",
+    "total_don": 3
+  },
+  "log-293": {
+    "player": "OPTrailBarber",
+    "action": "Attached 1 Don to Portgas D. Ace",
+    "card": "OP03-001",
+    "total_don": 4
+  },
+  "log-294": {
+    "player": "OPTrailBarber",
+    "action": "Attached 1 Don to Portgas D. Ace",
+    "card": "OP03-001",
+    "total_don": 5
+  },
+  "log-295": {
+    "player": "OPTrailBarber",
+    "action": "Attached 1 Don to Portgas D. Ace",
+    "card": "OP03-001",
+    "total_don": 6
+  },
+  "log-296": {
+    "player": "OPTrailBarber",
+    "action": "Attached 1 Don to Portgas D. Ace",
+    "card": "OP03-001",
+    "total_don": 7
+  },
+  "log-297": {
+    "player": "OPTrailBarber",
+    "action": "Attached 3 Don to Portgas D. Ace",
+    "card": "OP03-001",
+    "total_don": 10
+  },
+  "log-298": {
+    "player": "OPTrailBarber",
+    "action": "Attacking",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "OP03-001",
+    "defender": "Hody Jones",
+    "defender_id": "OP06-035"
+  },
+  "log-299": {
+    "player": "OPTrailBarber",
+    "action": "Attack details",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "OP03-001",
+    "defender": "Hody Jones",
+    "defender_id": "OP06-035",
+    "attacker_power": 15000,
+    "defender_power": 3000
+  },
+  "log-300": {
+    "player": "keni",
+    "action": "Hody Jones Destroyed",
+    "card": "OP06-035"
+  },
+  "log-301": {
+    "player": "OPTrailBarber",
+    "action": "End turn"
+  },
+  "log-302": {
+    "player": "keni",
+    "action": "Hand state",
+    "cards": [
+      "OP05-037",
+      "EB01-015"
+    ]
+  },
+  "log-303": {
+    "player": "keni",
+    "action": "Board state",
+    "cards": [
+      "EB01-012"
+    ]
+  },
+  "log-304": {
+    "player": "keni",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030",
+      "OP05-030",
+      "ST02-008",
+      "OP05-030",
+      "OP08-030",
+      "OP10-030",
+      "OP04-031",
+      "OP05-037",
+      "OP08-023",
+      "OP06-035"
+    ]
+  },
+  "log-305": {
+    "player": "keni",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-306": {
+    "player": "OPTrailBarber",
+    "action": "Hand state",
+    "cards": [
+      "OP01-006"
+    ]
+  },
+  "log-307": {
+    "player": "OPTrailBarber",
+    "action": "Trash state",
+    "cards": [
+      "ST01-006",
+      "OP03-019",
+      "ST10-005",
+      "OP02-014",
+      "OP03-019",
+      "EB01-007",
+      "ST15-005",
+      "ST15-005",
+      "P-028",
+      "EB01-007",
+      "OP02-015",
+      "OP03-017"
+    ]
+  },
+  "log-308": {
+    "player": "OPTrailBarber",
+    "action": "Board state",
+    "cards": [
+      "OP10-016"
+    ]
+  },
+  "log-309": {
+    "player": "OPTrailBarber",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-310": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "EB01-012"
+  },
+  "log-311": {
+    "player": "keni",
+    "action": "Draw 1 card"
+  },
+  "log-312": {
+    "player": "keni",
+    "action": "Attach 5 Don to Cavendish",
+    "card": "EB01-012",
+    "total_don": 5
+  },
+  "log-313": {
+    "player": "keni",
+    "action": "Cavendish attacking",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "defender": "Portgas D. Ace",
+    "defender_id": "OP03-001"
+  },
+  "log-314": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "defender": "Portgas D. Ace",
+    "defender_id": "OP03-001",
+    "attacker_power": 11000,
+    "defender_power": 5000
+  },
+  "log-315": {
+    "player": "keni",
+    "action": "Portgas D. Ace hit for 1 damage",
+    "card": "OP03-001"
+  },
+  "log-316": {
+    "player": "keni",
+    "action": "Attach 4 Don to Jewelry Bonney",
+    "card": "OP07-019",
+    "total_don": 4
+  },
+  "log-317": {
+    "player": "keni",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Portgas D. Ace",
+    "defender_id": "OP03-001"
+  },
+  "log-318": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Portgas D. Ace",
+    "defender_id": "OP03-001",
+    "attacker_power": 9000,
+    "defender_power": 5000
+  },
+  "log-319": {
+    "player": "keni",
+    "action": "Portgas D. Ace hit for 1 damage",
+    "card": "OP03-001"
+  },
+  "log-320": {
+    "player": "keni",
+    "action": "Hand state",
+    "cards": [
+      "OP05-037",
+      "EB01-015",
+      "EB01-012"
+    ]
+  },
+  "log-321": {
+    "player": "keni",
+    "action": "Board state",
+    "cards": [
+      "EB01-012"
+    ]
+  },
+  "log-322": {
+    "player": "keni",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030",
+      "OP05-030",
+      "ST02-008",
+      "OP05-030",
+      "OP08-030",
+      "OP10-030",
+      "OP04-031",
+      "OP05-037",
+      "OP08-023",
+      "OP06-035"
+    ]
+  },
+  "log-323": {
+    "player": "keni",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-324": {
+    "player": "OPTrailBarber",
+    "action": "Hand state",
+    "cards": [
+      "OP01-006",
+      "OP02-014",
+      "ST10-005"
+    ]
+  },
+  "log-325": {
+    "player": "OPTrailBarber",
+    "action": "Trash state",
+    "cards": [
+      "ST01-006",
+      "OP03-019",
+      "ST10-005",
+      "OP02-014",
+      "OP03-019",
+      "EB01-007",
+      "ST15-005",
+      "ST15-005",
+      "P-028",
+      "EB01-007",
+      "OP02-015",
+      "OP03-017"
+    ]
+  },
+  "log-326": {
+    "player": "OPTrailBarber",
+    "action": "Board state",
+    "cards": [
+      "OP10-016"
+    ]
+  },
+  "log-327": {
+    "player": "OPTrailBarber",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-328": {
+    "player": "keni",
+    "action": "End turn"
+  },
+  "log-329": {
+    "player": "OPTrailBarber",
+    "action": "Draw 1 card"
+  },
+  "log-330": {
+    "player": "OPTrailBarber",
+    "action": "Drew card from deck",
+    "card": "OP01-006"
+  },
+  "log-331": {
+    "player": "OPTrailBarber",
+    "action": "Attach 5 Don to Monet",
+    "card": "OP10-016",
+    "total_don": 5
+  },
+  "log-332": {
+    "player": "OPTrailBarber",
+    "action": "Attach 5 Don to Portgas D. Ace",
+    "card": "OP03-001",
+    "total_don": 5
+  },
+  "log-333": {
+    "player": "OPTrailBarber",
+    "action": "Attacking",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "OP03-001",
+    "defender": "Cavendish",
+    "defender_id": "EB01-012"
+  },
+  "log-334": {
+    "player": "keni",
+    "action": "Jewelry Bonney ability",
+    "card": "OP07-019",
+    "ability": "Rest Monet",
+    "rested_card": "OP10-016"
+  },
+  "log-335": {
+    "player": "keni",
+    "action": "Trash state Cavendish",
+    "card": "EB01-012"
+  },
+  "log-336": {
+    "player": "keni",
+    "action": "Whoever Wins This War Becomes Justice!! Counter",
+    "card": "OP05-037",
+    "counter_amount": 3000
+  },
+  "log-337": {
+    "player": "keni",
+    "action": "Played counter",
+    "card": "EB01-015",
+    "counter_amount": 2000
+  },
+  "log-338": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "OP03-001",
+    "defender": "Cavendish",
+    "defender_id": "EB01-012",
+    "attacker_power": 10000,
+    "defender_power": 11000
+  },
+  "log-339": {
+    "player": "keni",
+    "action": "Attack Fails"
+  },
+  "log-340": {
+    "player": "OPTrailBarber",
+    "action": "End turn"
+  },
+  "log-341": {
+    "player": "keni",
+    "action": "Hand state",
+    "cards": []
+  },
+  "log-342": {
+    "player": "keni",
+    "action": "Board state",
+    "cards": [
+      "EB01-012"
+    ]
+  },
+  "log-343": {
+    "player": "keni",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030",
+      "OP05-030",
+      "ST02-008",
+      "OP05-030",
+      "OP08-030",
+      "OP10-030",
+      "OP04-031",
+      "OP05-037",
+      "OP08-023",
+      "OP06-035",
+      "EB01-012",
+      "OP05-037",
+      "EB01-015"
+    ]
+  },
+  "log-344": {
+    "player": "keni",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-345": {
+    "player": "OPTrailBarber",
+    "action": "Hand state",
+    "cards": [
+      "OP01-006",
+      "OP02-014",
+      "ST10-005",
+      "OP01-006"
+    ]
+  },
+  "log-346": {
+    "player": "OPTrailBarber",
+    "action": "Trash state",
+    "cards": [
+      "ST01-006",
+      "OP03-019",
+      "ST10-005",
+      "OP02-014",
+      "OP03-019",
+      "EB01-007",
+      "ST15-005",
+      "ST15-005",
+      "P-028",
+      "EB01-007",
+      "OP02-015",
+      "OP03-017"
+    ]
+  },
+  "log-347": {
+    "player": "OPTrailBarber",
+    "action": "Board state",
+    "cards": [
+      "OP10-016"
+    ]
+  },
+  "log-348": {
+    "player": "OPTrailBarber",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-349": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "OP10-032"
+  },
+  "log-350": {
+    "player": "keni",
+    "action": "Draw 1 card"
+  },
+  "log-351": {
+    "player": "keni",
+    "action": "Attach 6 Don to Jewelry Bonney",
+    "card": "OP07-019",
+    "total_don": 6
+  },
+  "log-352": {
+    "player": "keni",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Portgas D. Ace",
+    "defender_id": "OP03-001"
+  },
+  "log-353": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Portgas D. Ace",
+    "defender_id": "OP03-001",
+    "attacker_power": 11000,
+    "defender_power": 5000
+  },
+  "log-354": {
+    "player": "keni",
+    "action": "Portgas D. Ace hit for 1 damage",
+    "card": "OP03-001"
+  },
+  "log-355": {
+    "player": "keni",
+    "action": "Attached 3 Don to Cavendish",
+    "card": "EB01-012",
+    "total_don": 3
+  },
+  "log-356": {
+    "player": "keni",
+    "action": "Cavendish attacking",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "defender": "Portgas D. Ace",
+    "defender_id": "OP03-001"
+  },
+  "log-357": {
+    "player": "OPTrailBarber",
+    "action": "Discard Jinbe for Counter",
+    "card": "ST10-005",
+    "counter_amount": 2000
+  },
+  "log-358": {
+    "player": "OPTrailBarber",
+    "action": "Discard Jinbe for Counter",
+    "card": "ST10-005",
+    "counter_amount": 2000
+  },
+  "log-359": {
+    "player": "OPTrailBarber",
+    "action": "Discard Whitey Bay for Counter",
+    "card": "OP02-014",
+    "counter_amount": 1000
+  },
+  "log-360": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Cavendish",
+    "attacker_id": "EB01-012",
+    "defender": "Portgas D. Ace",
+    "defender_id": "OP03-001",
+    "attacker_power": 9000,
+    "defender_power": 10000
+  },
+  "log-361": {
+    "player": "keni",
+    "action": "Attack Fails"
+  },
+  "log-362": {
+    "player": "keni",
+    "action": "Hand state",
+    "cards": [
+      "OP10-032"
+    ]
+  },
+  "log-363": {
+    "player": "keni",
+    "action": "Board state",
+    "cards": [
+      "EB01-012"
+    ]
+  },
+  "log-364": {
+    "player": "keni",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030",
+      "OP05-030",
+      "ST02-008",
+      "OP05-030",
+      "OP08-030",
+      "OP10-030",
+      "OP04-031",
+      "OP05-037",
+      "OP08-023",
+      "OP06-035",
+      "EB01-012",
+      "OP05-037",
+      "EB01-015"
+    ]
+  },
+  "log-365": {
+    "player": "keni",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-366": {
+    "player": "OPTrailBarber",
+    "action": "Hand state",
+    "cards": [
+      "OP01-006",
+      "OP01-006"
+    ]
+  },
+  "log-367": {
+    "player": "OPTrailBarber",
+    "action": "Trash state",
+    "cards": [
+      "ST01-006",
+      "OP03-019",
+      "ST10-005",
+      "OP02-014",
+      "OP03-019",
+      "EB01-007",
+      "ST15-005",
+      "ST15-005",
+      "P-028",
+      "EB01-007",
+      "OP02-015",
+      "OP03-017",
+      "ST10-005",
+      "ST10-005",
+      "OP02-014"
+    ]
+  },
+  "log-368": {
+    "player": "OPTrailBarber",
+    "action": "Board state",
+    "cards": [
+      "OP10-016"
+    ]
+  },
+  "log-369": {
+    "player": "OPTrailBarber",
+    "action": "Life state",
+    "life": 0
+  },
+  "log-370": {
+    "player": "keni",
+    "action": "End turn"
+  },
+  "log-371": {
+    "player": "OPTrailBarber",
+    "action": "Draw 1 card"
+  },
+  "log-372": {
+    "player": "OPTrailBarber",
+    "action": "Drew card from deck",
+    "card": "ST01-007"
+  },
+  "log-373": {
+    "player": "OPTrailBarber",
+    "action": "Attach 5 Don to Portgas D. Ace",
+    "card": "OP03-001",
+    "total_don": 5
+  },
+  "log-374": {
+    "player": "OPTrailBarber",
+    "action": "Attach 5 Don to Portgas D. Ace",
+    "card": "OP03-001",
+    "total_don": 10
+  },
+  "log-375": {
+    "player": "OPTrailBarber",
+    "action": "Attacking",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "OP03-001",
+    "defender": "Cavendish",
+    "defender_id": "EB01-012"
+  },
+  "log-376": {
+    "player": "keni",
+    "action": "Jewelry Bonney ability",
+    "card": "OP07-019",
+    "ability": "Rest Monet",
+    "rested_card": "OP10-016"
+  },
+  "log-377": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Portgas D. Ace",
+    "attacker_id": "OP03-001",
+    "defender": "Cavendish",
+    "defender_id": "EB01-012",
+    "attacker_power": 15000,
+    "defender_power": 6000
+  },
+  "log-378": {
+    "player": "keni",
+    "action": "Cavendish Destroyed",
+    "card": "EB01-012"
+  },
+  "log-379": {
+    "player": "OPTrailBarber",
+    "action": "End turn"
+  },
+  "log-380": {
+    "player": "keni",
+    "action": "Hand state",
+    "cards": [
+      "OP10-032"
+    ]
+  },
+  "log-381": {
+    "player": "keni",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-382": {
+    "player": "keni",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030",
+      "OP05-030",
+      "ST02-008",
+      "OP05-030",
+      "OP08-030",
+      "OP10-030",
+      "OP04-031",
+      "OP05-037",
+      "OP08-023",
+      "OP06-035",
+      "EB01-012",
+      "OP05-037",
+      "EB01-015",
+      "EB01-012"
+    ]
+  },
+  "log-383": {
+    "player": "keni",
+    "action": "Life state",
+    "life": 3
+  },
+  "log-384": {
+    "player": "OPTrailBarber",
+    "action": "Hand state",
+    "cards": [
+      "OP01-006",
+      "OP01-006",
+      "ST01-007"
+    ]
+  },
+  "log-385": {
+    "player": "OPTrailBarber",
+    "action": "Trash state",
+    "cards": [
+      "ST01-006",
+      "OP03-019",
+      "ST10-005",
+      "OP02-014",
+      "OP03-019",
+      "EB01-007",
+      "ST15-005",
+      "ST15-005",
+      "P-028",
+      "EB01-007",
+      "OP02-015",
+      "OP03-017",
+      "ST10-005",
+      "ST10-005",
+      "OP02-014"
+    ]
+  },
+  "log-386": {
+    "player": "OPTrailBarber",
+    "action": "Board state",
+    "cards": [
+      "OP10-016"
+    ]
+  },
+  "log-387": {
+    "player": "OPTrailBarber",
+    "action": "Life state",
+    "life": 0
+  },
+  "log-388": {
+    "player": "keni",
+    "action": "Drew card from deck",
+    "card": "OP07-021"
+  },
+  "log-389": {
+    "player": "keni",
+    "action": "Draw 1 card"
+  },
+  "log-390": {
+    "player": "keni",
+    "action": "Attach 9 Don to Jewelry Bonney",
+    "card": "OP07-019",
+    "total_don": 9
+  },
+  "log-391": {
+    "player": "keni",
+    "action": "Attacking",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Portgas D. Ace",
+    "defender_id": "OP03-001"
+  },
+  "log-392": {
+    "player": "OPTrailBarber",
+    "action": "Discard Otama for Counter",
+    "card": "OP01-006",
+    "counter_amount": 2000
+  },
+  "log-393": {
+    "player": "OPTrailBarber",
+    "action": "Discard Otama for Counter",
+    "card": "OP01-006",
+    "counter_amount": 2000
+  },
+  "log-394": {
+    "player": "OPTrailBarber",
+    "action": "Discard Nami for Counter",
+    "card": "ST01-007",
+    "counter_amount": 1000
+  },
+  "log-395": {
+    "player": "keni",
+    "action": "Attack details",
+    "attacker": "Jewelry Bonney",
+    "attacker_id": "OP07-019",
+    "defender": "Portgas D. Ace",
+    "defender_id": "OP03-001",
+    "attacker_power": 14000,
+    "defender_power": 10000
+  },
+  "log-396": {
+    "player": "keni",
+    "action": "Portgas D. Ace hit for 1 damage",
+    "card": "OP03-001"
+  },
+  "log-397": {
+    "player": "OPTrailBarber",
+    "action": "Loses"
+  },
+  "log-398": {
+    "player": "keni",
+    "action": "Wins!"
+  }
+}

@@ -1,0 +1,2910 @@
+{
+    "log-001": {
+      "player": "Mhcuber",
+      "action": "Player connected"
+    },
+    "log-002": {
+      "player": "Mhcuber",
+      "action": "Leader is Monkey D. Luffy",
+      "card": "OP05-060"
+    },
+    "log-003": {
+      "player": "Ghostcasper",
+      "action": "Player connected"
+    },
+    "log-004": {
+      "player": "Ghostcasper",
+      "action": "Leader is Kalgara",
+      "card": "OP08-098"
+    },
+    "log-005": {
+      "player": "Ghostcasper",
+      "action": "Will select turn order"
+    },
+    "log-006": {
+      "player": "Mhcuber",
+      "action": "Drew card from deck",
+      "card": "OP06-076"
+    },
+    "log-007": {
+      "player": "Mhcuber",
+      "action": "Drew card from deck",
+      "card": "OP05-070"
+    },
+    "log-008": {
+      "player": "Mhcuber",
+      "action": "Drew card from deck",
+      "card": "EB01-061"
+    },
+    "log-009": {
+      "player": "Mhcuber",
+      "action": "Drew card from deck",
+      "card": "ST18-002"
+    },
+    "log-010": {
+      "player": "Mhcuber",
+      "action": "Drew card from deck",
+      "card": "OP09-119"
+    },
+    "log-011": {
+      "player": "Mhcuber",
+      "action": "Hand before Mulligan",
+      "cards": [
+        "OP06-076",
+        "OP05-070",
+        "EB01-061",
+        "ST18-002",
+        "OP09-119"
+      ]
+    },
+    "log-012": {
+      "player": "Mhcuber",
+      "action": "Mulligan"
+    },
+    "log-013": {
+      "player": "Mhcuber",
+      "action": "Drew card from deck",
+      "card": "OP09-078"
+    },
+    "log-014": {
+      "player": "Mhcuber",
+      "action": "Drew card from deck",
+      "card": "ST18-005"
+    },
+    "log-015": {
+      "player": "Mhcuber",
+      "action": "Drew card from deck",
+      "card": "OP09-065"
+    },
+    "log-016": {
+      "player": "Mhcuber",
+      "action": "Drew card from deck",
+      "card": "OP09-069"
+    },
+    "log-017": {
+      "player": "Mhcuber",
+      "action": "Drew card from deck",
+      "card": "OP07-064"
+    },
+    "log-018": {
+      "player": "Mhcuber",
+      "action": "Hand after Mulligan",
+      "cards": [
+        "OP09-078",
+        "ST18-005",
+        "OP09-065",
+        "OP09-069",
+        "OP07-064"
+      ]
+    },
+    "log-019": {
+      "player": "Ghostcasper",
+      "action": "Drew card from deck",
+      "card": "ST10-008"
+    },
+    "log-020": {
+      "player": "Ghostcasper",
+      "action": "Drew card from deck",
+      "card": "ST10-010"
+    },
+    "log-021": {
+      "player": "Ghostcasper",
+      "action": "Drew card from deck",
+      "card": "OP08-095"
+    },
+    "log-022": {
+      "player": "Ghostcasper",
+      "action": "Drew card from deck",
+      "card": "OP08-095"
+    },
+    "log-023": {
+      "player": "Ghostcasper",
+      "action": "Drew card from deck",
+      "card": "OP08-094"
+    },
+    "log-024": {
+      "player": "Ghostcasper",
+      "action": "Hand before Mulligan",
+      "cards": [
+        "ST10-008",
+        "ST10-010",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094"
+      ]
+    },
+    "log-025": {
+      "player": "Ghostcasper",
+      "action": "Mulligan"
+    },
+    "log-026": {
+      "player": "Ghostcasper",
+      "action": "Drew card from deck",
+      "card": "OP08-098"
+    },
+    "log-027": {
+      "player": "Ghostcasper",
+      "action": "Drew card from deck",
+      "card": "ST10-008"
+    },
+    "log-028": {
+      "player": "Ghostcasper",
+      "action": "Drew card from deck",
+      "card": "OP08-094"
+    },
+    "log-029": {
+      "player": "Ghostcasper",
+      "action": "Drew card from deck",
+      "card": "OP08-095"
+    },
+    "log-030": {
+      "player": "Ghostcasper",
+      "action": "Drew card from deck",
+      "card": "OP08-095"
+    },
+    "log-031": {
+      "player": "Ghostcasper",
+      "action": "Hand after Mulligan",
+      "cards": [
+        "OP08-098",
+        "ST10-008",
+        "OP08-094",
+        "OP08-095",
+        "OP08-095"
+      ]
+    },
+    "log-032": {
+      "player": "Mhcuber",
+      "action": "Hand state",
+      "cards": [
+        "OP09-078",
+        "ST18-005",
+        "OP09-065",
+        "OP09-069",
+        "OP07-064"
+      ]
+    },
+    "log-033": {
+      "player": "Mhcuber",
+      "action": "Board state",
+      "cards": []
+    },
+    "log-034": {
+      "player": "Mhcuber",
+      "action": "Trash state",
+      "cards": [
+        "OP06-076",
+        "OP05-070",
+        "EB01-061",
+        "ST18-002",
+        "OP09-119"
+      ]
+    },
+    "log-035": {
+      "player": "Mhcuber",
+      "action": "Life state",
+      "life": 5
+    },
+    "log-036": {
+      "player": "Ghostcasper",
+      "action": "Hand state",
+      "cards": [
+        "OP08-098",
+        "ST10-008",
+        "OP08-094",
+        "OP08-095",
+        "OP08-095"
+      ]
+    },
+    "log-037": {
+      "player": "Ghostcasper",
+      "action": "Board state",
+      "cards": []
+    },
+    "log-038": {
+      "player": "Ghostcasper",
+      "action": "Trash state",
+      "cards": [
+        "ST10-008",
+        "ST10-010",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094"
+      ]
+    },
+    "log-039": {
+      "player": "Ghostcasper",
+      "action": "Life state",
+      "life": 5
+    },
+    "log-040": {
+      "player": "Mhcuber",
+      "action": "Draw 1 Don"
+    },
+    "log-041": {
+      "player": "Mhcuber",
+      "action": "End Turn"
+    },
+    "log-042": {
+      "player": "Ghostcasper",
+      "action": "Draw 1 Card"
+    },
+    "log-043": {
+      "player": "Ghostcasper",
+      "action": "Drew card from deck",
+      "card": "OP08-094"
+    },
+    "log-044": {
+      "player": "Ghostcasper",
+      "action": "Draw 2 Don"
+    },
+    "log-045": {
+      "player": "Ghostcasper",
+      "action": "Deploy Wyper",
+      "card": "OP08-094"
+    },
+    "log-046": {
+      "player": "Ghostcasper",
+      "action": "End Turn"
+    },
+    "log-047": {
+      "player": "Mhcuber",
+      "action": "Hand state",
+      "cards": [
+        "OP09-078",
+        "ST18-005",
+        "OP09-065",
+        "OP09-069",
+        "OP07-064"
+      ]
+    },
+    "log-048": {
+      "player": "Mhcuber",
+      "action": "Board state",
+      "cards": []
+    },
+    "log-049": {
+      "player": "Mhcuber",
+      "action": "Trash state",
+      "cards": [
+        "OP06-076",
+        "OP05-070",
+        "EB01-061",
+        "ST18-002",
+        "OP09-119"
+      ]
+    },
+    "log-050": {
+      "player": "Mhcuber",
+      "action": "Life state",
+      "life": 5
+    },
+    "log-051": {
+      "player": "Ghostcasper",
+      "action": "Hand state",
+      "cards": [
+        "OP08-098",
+        "ST10-008",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094"
+      ]
+    },
+    "log-052": {
+      "player": "Ghostcasper",
+      "action": "Board state",
+      "cards": [
+        "OP08-094"
+      ]
+    },
+    "log-053": {
+      "player": "Ghostcasper",
+      "action": "Trash state",
+      "cards": [
+        "ST10-008",
+        "ST10-010",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094"
+      ]
+    },
+    "log-054": {
+      "player": "Ghostcasper",
+      "action": "Life state",
+      "life": 5
+    },
+    "log-055": {
+      "player": "Mhcuber",
+      "action": "Draw 1 Card"
+    },
+    "log-056": {
+      "player": "Mhcuber",
+      "action": "Drew card from deck",
+      "card": "ST18-004"
+    },
+    "log-057": {
+      "player": "Mhcuber",
+      "action": "Draw 2 Don"
+    },
+    "log-058": {
+      "player": "Mhcuber",
+      "action": "Deploy Luffy-tarou",
+      "card": "ST18-005"
+    },
+    "log-059": {
+      "player": "Mhcuber",
+      "action": "Luffy-tarou attacking Kalgara",
+      "attacker_card": "ST18-005",
+      "target_card": "OP08-098"
+    },
+    "log-060": {
+      "player": "Luffy-tarou",
+      "card": "ST18-005",
+      "power": 6000,
+      "action": "vs Kalgara",
+      "target_card": "OP08-098",
+      "target_power": 5000
+    },
+    "log-061": {
+      "player": "Kalgara",
+      "card": "OP08-098",
+      "action": "hit for 1 damage"
+    },
+    "log-062": {
+      "player": "Mhcuber",
+      "action": "Monkey D. Luffy attacking Kalgara",
+      "attacker_card": "OP05-060",
+      "target_card": "OP08-098"
+    },
+    "log-063": {
+      "player": "Monkey D. Luffy",
+      "card": "OP05-060",
+      "power": 5000,
+      "action": "vs Kalgara",
+      "target_card": "OP08-098",
+      "target_power": 5000
+    },
+    "log-064": {
+      "player": "Kalgara",
+      "card": "OP08-098",
+      "action": "hit for 1 damage"
+    },
+    "log-065": {
+      "player": "Mhcuber",
+      "action": "Hand state",
+      "cards": [
+        "OP09-078",
+        "OP09-065",
+        "OP09-069",
+        "OP07-064",
+        "ST18-004"
+      ]
+    },
+    "log-066": {
+      "player": "Mhcuber",
+      "action": "Board state",
+      "cards": [
+        "ST18-005"
+      ]
+    },
+    "log-067": {
+      "player": "Mhcuber",
+      "action": "Trash state",
+      "cards": [
+        "OP06-076",
+        "OP05-070",
+        "EB01-061",
+        "ST18-002",
+        "OP09-119"
+      ]
+    },
+    "log-068": {
+      "player": "Mhcuber",
+      "action": "Life state",
+      "life": 5
+    },
+    "log-069": {
+      "player": "Ghostcasper",
+      "action": "Hand state",
+      "cards": [
+        "OP08-098",
+        "ST10-008",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094"
+      ]
+    },
+    "log-070": {
+      "player": "Ghostcasper",
+      "action": "Board state",
+      "cards": [
+        "OP08-094"
+      ]
+    },
+    "log-071": {
+      "player": "Ghostcasper",
+      "action": "Trash state",
+      "cards": [
+        "ST10-008",
+        "ST10-010",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094"
+      ]
+    },
+    "log-072": {
+      "player": "Ghostcasper",
+      "action": "Life state",
+      "life": 3
+    },
+    "log-073": {
+      "player": "Mhcuber",
+      "action": "End Turn"
+    },
+    "log-074": {
+      "player": "Ghostcasper",
+      "action": "Draw 1 Card"
+    },
+    "log-075": {
+      "player": "Ghostcasper",
+      "action": "Drew card from deck",
+      "card": "OP08-095"
+    },
+    "log-076": {
+      "player": "Ghostcasper",
+      "action": "Draw 2 Don"
+    },
+    "log-077": {
+      "player": "Ghostcasper",
+      "action": "Deploy Masira",
+      "card": "OP08-095"
+    },
+    "log-078": {
+      "player": "Ghostcasper",
+      "action": "Kalgara attacking Monkey D. Luffy",
+      "attacker_card": "OP08-098",
+      "target_card": "OP05-060"
+    },
+    "log-079": {
+      "player": "Ghostcasper",
+      "action": "Kalgara Buff Kalgara 1000 for the Combat",
+      "card": "OP08-098",
+      "target_card": "OP08-098"
+    },
+    "log-080": {
+      "player": "Mhcuber",
+      "action": "Discard Gum Gum Giant for Counter 1000",
+      "card": "OP09-078"
+    },
+    "log-081": {
+      "player": "Mhcuber",
+      "action": "Discard Sanji for Counter 2000",
+      "card": "OP07-064"
+    },
+    "log-082": {
+      "player": "Kalgara",
+      "card": "OP08-098",
+      "power": 6000,
+      "action": "vs Monkey D. Luffy",
+      "target_card": "OP05-060",
+      "target_power": 8000
+    },
+    "log-083": {
+      "player": "System",
+      "action": "Attack Fails"
+    },
+    "log-084": {
+      "player": "Ghostcasper",
+      "action": "Masira attacking Luffy-tarou",
+      "attacker_card": "OP08-095",
+      "target_card": "ST18-005"
+    },
+    "log-085": {
+      "player": "Masira",
+      "card": "OP08-095",
+      "power": 5000,
+      "action": "vs Luffy-tarou",
+      "target_card": "ST18-005",
+      "target_power": 5000
+    },
+    "log-086": {
+      "player": "Luffy-tarou",
+      "card": "ST18-005",
+      "action": "hit for 1 damage"
+    },
+    "log-087": {
+      "player": "Ghostcasper",
+      "action": "End Turn"
+    },
+    "log-088": {
+      "player": "Mhcuber",
+      "action": "Hand state",
+      "cards": [
+        "OP09-065",
+        "OP09-069",
+        "ST18-004"
+      ]
+    },
+    "log-089": {
+      "player": "Mhcuber",
+      "action": "Board state",
+      "cards": [
+        "ST18-005"
+      ]
+    },
+    "log-090": {
+      "player": "Mhcuber",
+      "action": "Trash state",
+      "cards": [
+        "OP06-076",
+        "OP05-070",
+        "EB01-061",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "OP07-064"
+      ]
+    },
+    "log-091": {
+      "player": "Mhcuber",
+      "action": "Life state",
+      "life": 4
+    },
+    "log-092": {
+      "player": "Ghostcasper",
+      "action": "Hand state",
+      "cards": [
+        "OP08-098",
+        "ST10-008",
+        "OP08-095",
+        "OP08-094"
+      ]
+    },
+    "log-093": {
+      "player": "Ghostcasper",
+      "action": "Board state",
+      "cards": [
+        "OP08-094",
+        "OP08-095"
+      ]
+    },
+    "log-094": {
+      "player": "Ghostcasper",
+      "action": "Trash state",
+      "cards": [
+        "ST10-008",
+        "ST10-010",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094"
+      ]
+    },
+    "log-095": {
+      "player": "Ghostcasper",
+      "action": "Life state",
+      "life": 3
+    },
+    "log-096": {
+      "player": "Mhcuber",
+      "action": "Draw 1 Card"
+    },
+    "log-097": {
+      "player": "Mhcuber",
+      "action": "Drew card from deck",
+      "card": "OP09-119"
+    },
+    "log-098": {
+      "player": "Mhcuber",
+      "action": "Draw 2 Don"
+    },
+    "log-099": {
+      "player": "Mhcuber",
+      "action": "Monkey D. Luffy attacking Kalgara",
+      "attacker_card": "OP05-060",
+      "target_card": "OP08-098"
+    },
+    "log-100": {
+      "player": "Monkey D. Luffy",
+      "card": "OP05-060",
+      "power": 5000,
+      "action": "vs Kalgara",
+      "target_card": "OP08-098",
+      "target_power": 5000
+    },
+    "log-101": {
+      "player": "Kalgara",
+      "card": "OP08-098",
+      "action": "hit for 1 damage"
+    },
+    "log-102": {
+      "player": "Mhcuber",
+      "action": "Luffy-tarou attacking Masira",
+      "attacker_card": "ST18-005",
+      "target_card": "OP08-095"
+    },
+    "log-103": {
+      "player": "Mhcuber",
+      "action": "Luffy-tarou Buff Luffy-tarou 1000 for the Combat",
+      "card": "ST18-005",
+      "target_card": "ST18-005"
+    },
+    "log-104": {
+      "player": "Mhcuber",
+      "action": "Luffy-tarou Buff Luffy-tarou 1000 for the Combat",
+      "card": "ST18-005",
+      "target_card": "ST18-005"
+    },
+    "log-105": {
+      "player": "Luffy-tarou",
+      "card": "ST18-005",
+      "power": 7000,
+      "action": "vs Masira",
+      "target_card": "OP08-095",
+      "target_power": 5000
+    },
+    "log-106": {
+      "player": "Masira",
+      "card": "OP08-095",
+      "action": "K.O."
+    },
+    "log-107": {
+      "player": "Mhcuber",
+      "action": "Hand state",
+      "cards": [
+        "OP09-065",
+        "OP09-069",
+        "ST18-004",
+        "OP09-119"
+      ]
+    },
+    "log-108": {
+      "player": "Mhcuber",
+      "action": "Board state",
+      "cards": [
+        "ST18-005"
+      ]
+    },
+    "log-109": {
+      "player": "Mhcuber",
+      "action": "Trash state",
+      "cards": [
+        "OP06-076",
+        "OP05-070",
+        "EB01-061",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "OP07-064"
+      ]
+    },
+    "log-110": {
+      "player": "Mhcuber",
+      "action": "Life state",
+      "life": 4
+    },
+    "log-111": {
+      "player": "Ghostcasper",
+      "action": "Hand state",
+      "cards": [
+        "OP08-098",
+        "ST10-008",
+        "OP08-095",
+        "OP08-094"
+      ]
+    },
+    "log-112": {
+      "player": "Ghostcasper",
+      "action": "Board state",
+      "cards": [
+        "OP08-094"
+      ]
+    },
+    "log-113": {
+      "player": "Ghostcasper",
+      "action": "Trash state",
+      "cards": [
+        "ST10-008",
+        "ST10-010",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094",
+        "OP08-095"
+      ]
+    },
+    "log-114": {
+      "player": "Ghostcasper",
+      "action": "Life state",
+      "life": 2
+    },
+    "log-115": {
+      "player": "Mhcuber",
+      "action": "End Turn"
+    },
+    "log-116": {
+      "player": "Ghostcasper",
+      "action": "Draw 1 Card"
+    },
+    "log-117": {
+      "player": "Ghostcasper",
+      "action": "Drew card from deck",
+      "card": "OP08-094"
+    },
+    "log-118": {
+      "player": "Ghostcasper",
+      "action": "Draw 2 Don"
+    },
+    "log-119": {
+      "player": "Ghostcasper",
+      "action": "Deploy Masira",
+      "card": "OP08-095"
+    },
+    "log-120": {
+      "player": "Ghostcasper",
+      "action": "Kalgara attacking Luffy-tarou",
+      "attacker_card": "OP08-098",
+      "target_card": "ST18-005"
+    },
+    "log-121": {
+      "player": "Ghostcasper",
+      "action": "Kalgara Buff Kalgara 1000 for the Combat",
+      "card": "OP08-098",
+      "target_card": "OP08-098"
+    },
+    "log-122": {
+      "player": "Mhcuber",
+      "action": "Discard Gum Gum Giant for Counter 1000",
+      "card": "OP09-078"
+    },
+    "log-123": {
+      "player": "Kalgara",
+      "card": "OP08-098",
+      "power": 6000,
+      "action": "vs Luffy-tarou",
+      "target_card": "ST18-005",
+      "target_power": 5000
+    },
+    "log-124": {
+      "player": "Luffy-tarou",
+      "card": "ST18-005",
+      "action": "hit for 1 damage"
+    },
+    "log-125": {
+      "player": "Ghostcasper",
+      "action": "Masira attacking Monkey D. Luffy",
+      "attacker_card": "OP08-095",
+      "target_card": "OP05-060"
+    },
+    "log-126": {
+      "player": "Mhcuber",
+      "action": "Discard Usohachi for Counter 1000",
+      "card": "ST18-001"
+    },
+    "log-127": {
+      "player": "Masira",
+      "card": "OP08-095",
+      "power": 5000,
+      "action": "vs Monkey D. Luffy",
+      "target_card": "OP05-060",
+      "target_power": 6000
+    },
+    "log-128": {
+      "player": "System",
+      "action": "Attack Fails"
+    },
+    "log-129": {
+      "player": "Ghostcasper",
+      "action": "Wyper attacking Monkey D. Luffy",
+      "attacker_card": "OP08-094",
+      "target_card": "OP05-060"
+    },
+    "log-130": {
+      "player": "Mhcuber",
+      "action": "Discard Gum Gum Giant for Counter 1000",
+      "card": "OP09-078"
+    },
+    "log-131": {
+      "player": "Wyper",
+      "card": "OP08-094",
+      "power": 4000,
+      "action": "vs Monkey D. Luffy",
+      "target_card": "OP05-060",
+      "target_power": 7000
+    },
+    "log-132": {
+      "player": "System",
+      "action": "Attack Fails"
+    },
+    "log-133": {
+      "player": "Ghostcasper",
+      "action": "End Turn"
+    },
+    "log-134": {
+      "player": "Mhcuber",
+      "action": "Hand state",
+      "cards": [
+        "OP09-065",
+        "OP09-069",
+        "ST18-004",
+        "OP09-119"
+      ]
+    },
+    "log-135": {
+      "player": "Mhcuber",
+      "action": "Board state",
+      "cards": [
+        "ST18-005"
+      ]
+    },
+    "log-136": {
+      "player": "Mhcuber",
+      "action": "Trash state",
+      "cards": [
+        "OP06-076",
+        "OP05-070",
+        "EB01-061",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "OP07-064",
+        "OP09-078",
+        "ST18-001",
+        "OP09-078"
+      ]
+    },
+    "log-137": {
+      "player": "Mhcuber",
+      "action": "Life state",
+      "life": 3
+    },
+    "log-138": {
+      "player": "Ghostcasper",
+      "action": "Hand state",
+      "cards": [
+        "OP08-098",
+        "ST10-008",
+        "OP08-094"
+      ]
+    },
+    "log-139": {
+      "player": "Ghostcasper",
+      "action": "Board state",
+      "cards": [
+        "OP08-094",
+        "OP08-095"
+      ]
+    },
+    "log-140": {
+      "player": "Ghostcasper",
+      "action": "Trash state",
+      "cards": [
+        "ST10-008",
+        "ST10-010",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094",
+        "OP08-095"
+      ]
+    },
+    "log-141": {
+      "player": "Ghostcasper",
+      "action": "Life state",
+      "life": 2
+    },
+    "log-142": {
+      "player": "Mhcuber",
+      "action": "Draw 1 Card"
+    },
+    "log-143": {
+      "player": "Mhcuber",
+      "action": "Drew card from deck",
+      "card": "ST18-001"
+    },
+    "log-144": {
+      "player": "Mhcuber",
+      "action": "Draw 2 Don"
+    },
+    "log-145": {
+      "player": "Mhcuber",
+      "action": "Luffy-tarou attacking Kalgara",
+      "attacker_card": "ST18-005",
+      "target_card": "OP08-098"
+    },
+    "log-146": {
+      "player": "Mhcuber",
+      "action": "Luffy-tarou Buff Luffy-tarou 1000 for the Combat",
+      "card": "ST18-005",
+      "target_card": "ST18-005"
+    },
+    "log-147": {
+      "player": "Luffy-tarou",
+      "card": "ST18-005",
+      "power": 7000,
+      "action": "vs Kalgara",
+      "target_card": "OP08-098",
+      "target_power": 5000
+    },
+    "log-148": {
+      "player": "Kalgara",
+      "card": "OP08-098",
+      "action": "hit for 1 damage"
+    },
+    "log-149": {
+      "player": "Mhcuber",
+      "action": "Monkey D. Luffy attacking Masira",
+      "attacker_card": "OP05-060",
+      "target_card": "OP08-095"
+    },
+    "log-150": {
+      "player": "Monkey D. Luffy",
+      "card": "OP05-060",
+      "power": 5000,
+      "action": "vs Masira",
+      "target_card": "OP08-095",
+      "target_power": 5000
+    },
+    "log-151": {
+      "player": "Masira",
+      "card": "OP08-095",
+      "action": "K.O."
+    },
+    "log-152": {
+      "player": "Mhcuber",
+      "action": "Hand state",
+      "cards": [
+        "OP09-065",
+        "OP09-069",
+        "ST18-004",
+        "OP09-119",
+        "ST18-001"
+      ]
+    },
+    "log-153": {
+      "player": "Mhcuber",
+      "action": "Board state",
+      "cards": [
+        "ST18-005"
+      ]
+    },
+    "log-154": {
+      "player": "Mhcuber",
+      "action": "Trash state",
+      "cards": [
+        "OP06-076",
+        "OP05-070",
+        "EB01-061",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "OP07-064",
+        "OP09-078",
+        "ST18-001",
+        "OP09-078",
+        "OP08-095"
+      ]
+    },
+    "log-155": {
+      "player": "Mhcuber",
+      "action": "Life state",
+      "life": 3
+    },
+    "log-156": {
+      "player": "Ghostcasper",
+      "action": "Hand state",
+      "cards": [
+        "OP08-098",
+        "ST10-008",
+        "OP08-094"
+      ]
+    },
+    "log-157": {
+      "player": "Ghostcasper",
+      "action": "Board state",
+      "cards": [
+        "OP08-094"
+      ]
+    },
+    "log-158": {
+      "player": "Ghostcasper",
+      "action": "Trash state",
+      "cards": [
+        "ST10-008",
+        "ST10-010",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094",
+        "OP08-095",
+        "OP08-095"
+      ]
+    },
+    "log-159": {
+      "player": "Ghostcasper",
+      "action": "Life state",
+      "life": 1
+    },
+    "log-160": {
+      "player": "Mhcuber",
+      "action": "End Turn"
+    },
+    "log-161": {
+      "player": "Ghostcasper",
+      "action": "Draw 1 Card"
+    },
+    "log-162": {
+      "player": "Ghostcasper",
+      "action": "Drew card from deck",
+      "card": "OP08-095"
+    },
+    "log-163": {
+      "player": "Ghostcasper",
+      "action": "Draw 2 Don"
+    },
+    "log-164": {
+      "player": "Ghostcasper",
+      "action": "Kalgara attacking Monkey D. Luffy",
+      "attacker_card": "OP08-098",
+      "target_card": "OP05-060"
+    },
+    "log-165": {
+      "player": "Ghostcasper",
+      "action": "Kalgara Buff Kalgara 1000 for the Combat",
+      "card": "OP08-098",
+      "target_card": "OP08-098"
+    },
+    "log-166": {
+      "player": "Mhcuber",
+      "action": "Discard Usohachi for Counter 1000",
+      "card": "ST18-001"
+    },
+    "log-167": {
+      "player": "Mhcuber",
+      "action": "Discard Onami for Counter 1000",
+      "card": "ST18-002"
+    },
+    "log-168": {
+      "player": "Kalgara",
+      "card": "OP08-098",
+      "power": 6000,
+      "action": "vs Monkey D. Luffy",
+      "target_card": "OP05-060",
+      "target_power": 7000
+    },
+    "log-169": {
+      "player": "System",
+      "action": "Attack Fails"
+    },
+    "log-170": {
+      "player": "Ghostcasper",
+      "action": "Wyper attacking Luffy-tarou",
+      "attacker_card": "OP08-094",
+      "target_card": "ST18-005"
+    },
+    "log-171": {
+      "player": "Mhcuber",
+      "action": "Discard Monkey D. Luffy for Counter 1000",
+      "card": "OP09-119"
+    },
+    "log-172": {
+      "player": "Wyper",
+      "card": "OP08-094",
+      "power": 4000,
+      "action": "vs Luffy-tarou",
+      "target_card": "ST18-005",
+      "target_power": 6000
+    },
+    "log-173": {
+      "player": "System",
+      "action": "Attack Fails"
+    },
+    "log-174": {
+      "player": "Ghostcasper",
+      "action": "End Turn"
+    },
+    "log-175": {
+      "player": "Mhcuber",
+      "action": "Hand state",
+      "cards": [
+        "OP09-065",
+        "OP09-069",
+        "ST18-004"
+      ]
+    },
+    "log-176": {
+      "player": "Mhcuber",
+      "action": "Board state",
+      "cards": [
+        "ST18-005"
+      ]
+    },
+    "log-177": {
+      "player": "Mhcuber",
+      "action": "Trash state",
+      "cards": [
+        "OP06-076",
+        "OP05-070",
+        "EB01-061",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "OP07-064",
+        "OP09-078",
+        "ST18-001",
+        "OP09-078",
+        "OP08-095",
+        "ST18-001",
+        "ST18-002",
+        "OP09-119"
+      ]
+    },
+    "log-178": {
+      "player": "Mhcuber",
+      "action": "Life state",
+      "life": 3
+    },
+    "log-179": {
+      "player": "Ghostcasper",
+      "action": "Hand state",
+      "cards": [
+        "OP08-098",
+        "ST10-008",
+        "OP08-094",
+        "OP08-095"
+      ]
+    },
+    "log-180": {
+      "player": "Ghostcasper",
+      "action": "Board state",
+      "cards": [
+        "OP08-094"
+      ]
+    },
+    "log-181": {
+      "player": "Ghostcasper",
+      "action": "Trash state",
+      "cards": [
+        "ST10-008",
+        "ST10-010",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094",
+        "OP08-095",
+        "OP08-095"
+      ]
+    },
+    "log-182": {
+      "player": "Ghostcasper",
+      "action": "Life state",
+      "life": 1
+    },
+    "log-183": {
+      "player": "Mhcuber",
+      "action": "Draw 1 Card"
+    },
+    "log-184": {
+      "player": "Mhcuber",
+      "action": "Drew card from deck",
+      "card": "EB01-061"
+    },
+    "log-185": {
+      "player": "Mhcuber",
+      "action": "Draw 2 Don"
+    },
+    "log-186": {
+      "player": "Mhcuber",
+      "action": "Monkey D. Luffy attacking Kalgara",
+      "attacker_card": "OP05-060",
+      "target_card": "OP08-098"
+    },
+    "log-187": {
+      "player": "Monkey D. Luffy",
+      "card": "OP05-060",
+      "power": 5000,
+      "action": "vs Kalgara",
+      "target_card": "OP08-098",
+      "target_power": 5000
+    },
+    "log-188": {
+      "player": "Kalgara",
+      "card": "OP08-098",
+      "action": "hit for 1 damage"
+    },
+    "log-189": {
+      "player": "Mhcuber",
+      "action": "Luffy-tarou attacking Kalgara",
+      "attacker_card": "ST18-005",
+      "target_card": "OP08-098"
+    },
+    "log-190": {
+      "player": "Mhcuber",
+      "action": "Luffy-tarou Buff Luffy-tarou 1000 for the Combat",
+      "card": "ST18-005",
+      "target_card": "ST18-005"
+    },
+    "log-191": {
+      "player": "Luffy-tarou",
+      "card": "ST18-005",
+      "power": 7000,
+      "action": "vs Kalgara",
+      "target_card": "OP08-098",
+      "target_power": 5000
+    },
+    "log-192": {
+      "player": "Kalgara",
+      "card": "OP08-098",
+      "action": "hit for 1 damage"
+    },
+    "log-193": {
+      "player": "Mhcuber",
+      "action": "Hand state",
+      "cards": [
+        "OP09-065",
+        "OP09-069",
+        "ST18-004",
+        "EB01-061"
+      ]
+    },
+    "log-194": {
+      "player": "Mhcuber",
+      "action": "Board state",
+      "cards": [
+        "ST18-005"
+      ]
+    },
+    "log-195": {
+      "player": "Mhcuber",
+      "action": "Trash state",
+      "cards": [
+        "OP06-076",
+        "OP05-070",
+        "EB01-061",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "OP07-064",
+        "OP09-078",
+        "ST18-001",
+        "OP09-078",
+        "OP08-095",
+        "ST18-001",
+        "ST18-002",
+        "OP09-119"
+      ]
+    },
+    "log-196": {
+      "player": "Mhcuber",
+      "action": "Life state",
+      "life": 3
+    },
+    "log-197": {
+      "player": "Ghostcasper",
+      "action": "Hand state",
+      "cards": [
+        "OP08-098",
+        "ST10-008",
+        "OP08-094",
+        "OP08-095"
+      ]
+    },
+    "log-198": {
+      "player": "Ghostcasper",
+      "action": "Board state",
+      "cards": [
+        "OP08-094"
+      ]
+    },
+    "log-199": {
+      "player": "Ghostcasper",
+      "action": "Trash state",
+      "cards": [
+        "ST10-008",
+        "ST10-010",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094",
+        "OP08-095",
+        "OP08-095"
+      ]
+    },
+    "log-200": {
+      "player": "Ghostcasper",
+      "action": "Life state",
+      "life": 0
+    },
+    "log-201": {
+      "player": "Mhcuber",
+      "action": "End Turn"
+    },
+    "log-202": {
+      "player": "Ghostcasper",
+      "action": "Draw 1 Card"
+    },
+    "log-203": {
+      "player": "Ghostcasper",
+      "action": "Drew card from deck",
+      "card": "OP08-094"
+    },
+    "log-204": {
+      "player": "Ghostcasper",
+      "action": "Kalgara attacking Monkey D. Luffy",
+      "attacker_card": "OP08-098",
+      "target_card": "OP05-060"
+    },
+    "log-205": {
+      "player": "Ghostcasper",
+      "action": "Kalgara Buff Kalgara 1000 for the Combat",
+      "card": "OP08-098",
+      "target_card": "OP08-098"
+    },
+    "log-206": {
+      "player": "Mhcuber",
+      "action": "Discard Gum Gum Giant for Counter 1000",
+      "card": "OP09-078"
+    },
+    "log-207": {
+      "player": "Kalgara",
+      "card": "OP08-098",
+      "power": 6000,
+      "action": "vs Monkey D. Luffy",
+      "target_card": "OP05-060",
+      "target_power": 6000
+    },
+    "log-208": {
+      "player": "System",
+      "action": "Attack Fails"
+    },
+    "log-209": {
+      "player": "Ghostcasper",
+      "action": "Wyper attacking Monkey D. Luffy",
+      "attacker_card": "OP08-094",
+      "target_card": "OP05-060"
+    },
+    "log-210": {
+      "player": "Wyper",
+      "card": "OP08-094",
+      "power": 4000,
+      "action": "vs Monkey D. Luffy",
+      "target_card": "OP05-060",
+      "target_power": 6000
+    },
+    "log-211": {
+      "player": "Mhcuber",
+      "action": "Discard Usohachi for Counter 2000",
+      "card": "ST18-001"
+    },
+    "log-212": {
+      "player": "Mhcuber",
+      "action": "Discard Onami for Counter 1000",
+      "card": "ST18-002"
+    },
+    "log-213": {
+      "player": "System",
+      "action": "Attack Fails"
+    },
+    "log-214": {
+      "player": "Ghostcasper",
+      "action": "End Turn"
+    },
+    "log-215": {
+      "player": "Mhcuber",
+      "action": "Hand state",
+      "cards": [
+        "OP09-065",
+        "OP09-069",
+        "ST18-004",
+        "EB01-061"
+      ]
+    },
+    "log-216": {
+      "player": "Mhcuber",
+      "action": "Board state",
+      "cards": [
+        "ST18-005"
+      ]
+    },
+    "log-217": {
+      "player": "Mhcuber",
+      "action": "Trash state",
+      "cards": [
+        "OP06-076",
+        "OP05-070",
+        "EB01-061",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "OP07-064",
+        "OP09-078",
+        "ST18-001",
+        "OP09-078",
+        "OP08-095",
+        "ST18-001",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "ST18-001",
+        "ST18-002"
+      ]
+    },
+    "log-218": {
+      "player": "Mhcuber",
+      "action": "Life state",
+      "life": 3
+    },
+    "log-219": {
+      "player": "Ghostcasper",
+      "action": "Hand state",
+      "cards": [
+        "OP08-098",
+        "ST10-008",
+        "OP08-094",
+        "OP08-095"
+      ]
+    },
+    "log-220": {
+      "player": "Ghostcasper",
+      "action": "Board state",
+      "cards": [
+        "OP08-094"
+      ]
+    },
+    "log-221": {
+      "player": "Ghostcasper",
+      "action": "Trash state",
+      "cards": [
+        "ST10-008",
+        "ST10-010",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094"
+      ]
+    },
+    "log-222": {
+      "player": "Ghostcasper",
+      "action": "Life state",
+      "life": 0
+    },
+    "log-223": {
+      "player": "Mhcuber",
+      "action": "Draw 1 Card"
+    },
+    "log-224": {
+      "player": "Mhcuber",
+      "action": "Drew card from deck",
+      "card": "OP09-119"
+    },
+    "log-225": {
+      "player": "Mhcuber",
+      "action": "Draw 2 Don"
+    },
+    "log-226": {
+      "player": "Mhcuber",
+      "action": "Monkey D. Luffy attacking Kalgara",
+      "attacker_card": "OP05-060",
+      "target_card": "OP08-098"
+    },
+    "log-227": {
+      "player": "Monkey D. Luffy",
+      "card": "OP05-060",
+      "power": 5000,
+      "action": "vs Kalgara",
+      "target_card": "OP08-098",
+      "target_power": 5000
+    },
+    "log-228": {
+      "player": "Kalgara",
+      "card": "OP08-098",
+      "action": "hit for 1 damage"
+    },
+    "log-229": {
+      "player": "Mhcuber",
+      "action": "Luffy-tarou attacking Kalgara",
+      "attacker_card": "ST18-005",
+      "target_card": "OP08-098"
+    },
+    "log-230": {
+      "player": "Mhcuber",
+      "action": "Luffy-tarou Buff Luffy-tarou 1000 for the Combat",
+      "card": "ST18-005",
+      "target_card": "ST18-005"
+    },
+    "log-231": {
+      "player": "Luffy-tarou",
+      "card": "ST18-005",
+      "power": 7000,
+      "action": "vs Kalgara",
+      "target_card": "OP08-098",
+      "target_power": 5000
+    },
+    "log-232": {
+      "player": "Kalgara",
+      "card": "OP08-098",
+      "action": "hit for 1 damage"
+    },
+    "log-233": {
+      "player": "Mhcuber",
+      "action": "Hand state",
+      "cards": [
+        "OP09-065",
+        "OP09-069",
+        "ST18-004",
+        "EB01-061",
+        "OP09-119"
+      ]
+    },
+    "log-234": {
+      "player": "Mhcuber",
+      "action": "Board state",
+      "cards": [
+        "ST18-005"
+      ]
+    },
+    "log-235": {
+      "player": "Mhcuber",
+      "action": "Trash state",
+      "cards": [
+        "OP06-076",
+        "OP05-070",
+        "EB01-061",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "OP07-064",
+        "OP09-078",
+        "ST18-001",
+        "OP09-078",
+        "OP08-095",
+        "ST18-001",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "ST18-001",
+        "ST18-002"
+      ]
+    },
+    "log-236": {
+      "player": "Mhcuber",
+      "action": "Life state",
+      "life": 3
+    },
+    "log-237": {
+      "player": "Ghostcasper",
+      "action": "Hand state",
+      "cards": [
+        "OP08-098",
+        "ST10-008",
+        "OP08-094",
+        "OP08-095",
+        "OP08-094"
+      ]
+    },
+    "log-238": {
+      "player": "Ghostcasper",
+      "action": "Board state",
+      "cards": [
+        "OP08-094"
+      ]
+    },
+    "log-239": {
+      "player": "Ghostcasper",
+      "action": "Trash state",
+      "cards": [
+        "ST10-008",
+        "ST10-010",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094"
+      ]
+    },
+    "log-240": {
+      "player": "Ghostcasper",
+      "action": "Life state",
+      "life": 0
+    },
+    "log-241": {
+      "player": "Mhcuber",
+      "action": "End Turn"
+    },
+    "log-242": {
+      "player": "Ghostcasper",
+      "action": "Draw 1 Card"
+    },
+    "log-243": {
+      "player": "Ghostcasper",
+      "action": "Drew card from deck",
+      "card": "ST10-008"
+    },
+    "log-244": {
+      "player": "Ghostcasper",
+      "action": "Kalgara attacking Monkey D. Luffy",
+      "attacker_card": "OP08-098",
+      "target_card": "OP05-060"
+    },
+    "log-245": {
+      "player": "Ghostcasper",
+      "action": "Kalgara Buff Kalgara 1000 for the Combat",
+      "card": "OP08-098",
+      "target_card": "OP08-098"
+    },
+    "log-246": {
+      "player": "Mhcuber",
+      "action": "Discard Usohachi for Counter 2000",
+      "card": "ST18-001"
+    },
+    "log-247": {
+      "player": "Mhcuber",
+      "action": "Discard Onami for Counter 1000",
+      "card": "ST18-002"
+    },
+    "log-248": {
+      "player": "Kalgara",
+      "card": "OP08-098",
+      "power": 6000,
+      "action": "vs Monkey D. Luffy",
+      "target_card": "OP05-060",
+      "target_power": 8000
+    },
+    "log-249": {
+      "player": "System",
+      "action": "Attack Fails"
+    },
+    "log-250": {
+      "player": "Ghostcasper",
+      "action": "Wyper attacking Monkey D. Luffy",
+      "attacker_card": "OP08-094",
+      "target_card": "OP05-060"
+    },
+    "log-251": {
+      "player": "Mhcuber",
+      "action": "Discard Monkey D. Luffy for Counter 1000",
+      "card": "OP09-119"
+    },
+    "log-252": {
+      "player": "Wyper",
+      "card": "OP08-094",
+      "power": 4000,
+      "action": "vs Monkey D. Luffy",
+      "target_card": "OP05-060",
+      "target_power": 7000
+    },
+    "log-253": {
+      "player": "System",
+      "action": "Attack Fails"
+    },
+    "log-254": {
+      "player": "Ghostcasper",
+      "action": "End Turn"
+    },
+    "log-255": {
+      "player": "Mhcuber",
+      "action": "Hand state",
+      "cards": [
+        "OP09-065",
+        "OP09-069",
+        "ST18-004",
+        "EB01-061"
+      ]
+    },
+    "log-256": {
+      "player": "Mhcuber",
+      "action": "Board state",
+      "cards": [
+        "ST18-005"
+      ]
+    },
+    "log-257": {
+      "player": "Mhcuber",
+      "action": "Trash state",
+      "cards": [
+        "OP06-076",
+        "OP05-070",
+        "EB01-061",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "OP07-064",
+        "OP09-078",
+        "ST18-001",
+        "OP09-078",
+        "OP08-095",
+        "ST18-001",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "ST18-001",
+        "ST18-002",
+        "ST18-001",
+        "ST18-002",
+        "OP09-119"
+      ]
+    },
+    "log-258": {
+      "player": "Mhcuber",
+      "action": "Life state",
+      "life": 3
+    },
+    "log-259": {
+      "player": "Ghostcasper",
+      "action": "Hand state",
+      "cards": [
+        "OP08-098",
+        "ST10-008",
+        "OP08-094",
+        "OP08-095",
+        "OP08-094",
+        "ST10-008"
+      ]
+    },
+    "log-260": {
+      "player": "Ghostcasper",
+      "action": "Board state",
+      "cards": [
+        "OP08-094"
+      ]
+    },
+    "log-261": {
+      "player": "Ghostcasper",
+      "action": "Trash state",
+      "cards": [
+        "ST10-008",
+        "ST10-010",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094"
+      ]
+    },
+    "log-262": {
+      "player": "Ghostcasper",
+      "action": "Life state",
+      "life": 0
+    },
+    "log-263": {
+      "player": "Mhcuber",
+      "action": "Draw 1 Card"
+    },
+    "log-264": {
+      "player": "Mhcuber",
+      "action": "Drew card from deck",
+      "card": "OP09-119"
+    },
+    "log-265": {
+      "player": "Mhcuber",
+      "action": "Draw 2 Don"
+    },
+    "log-266": {
+      "player": "Mhcuber",
+      "action": "Monkey D. Luffy attacking Kalgara",
+      "attacker_card": "OP05-060",
+      "target_card": "OP08-098"
+    },
+    "log-267": {
+      "player": "Monkey D. Luffy",
+      "card": "OP05-060",
+      "power": 5000,
+      "action": "vs Kalgara",
+      "target_card": "OP08-098",
+      "target_power": 5000
+    },
+    "log-268": {
+      "player": "Kalgara",
+      "card": "OP08-098",
+      "action": "hit for 1 damage"
+    },
+    "log-269": {
+      "player": "Mhcuber",
+      "action": "Luffy-tarou attacking Kalgara",
+      "attacker_card": "ST18-005",
+      "target_card": "OP08-098"
+    },
+    "log-270": {
+      "player": "Mhcuber",
+      "action": "Luffy-tarou Buff Luffy-tarou 1000 for the Combat",
+      "card": "ST18-005",
+      "target_card": "ST18-005"
+    },
+    "log-271": {
+      "player": "Luffy-tarou",
+      "card": "ST18-005",
+      "power": 7000,
+      "action": "vs Kalgara",
+      "target_card": "OP08-098",
+      "target_power": 5000
+    },
+    "log-272": {
+      "player": "Kalgara",
+      "card": "OP08-098",
+      "action": "hit for 1 damage"
+    },
+    "log-273": {
+      "player": "Mhcuber",
+      "action": "Hand state",
+      "cards": [
+        "OP09-065",
+        "OP09-069",
+        "ST18-004",
+        "EB01-061",
+        "OP09-119"
+      ]
+    },
+    "log-274": {
+      "player": "Mhcuber",
+      "action": "Board state",
+      "cards": [
+        "ST18-005"
+      ]
+    },
+    "log-275": {
+      "player": "Mhcuber",
+      "action": "Trash state",
+      "cards": [
+        "OP06-076",
+        "OP05-070",
+        "EB01-061",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "OP07-064",
+        "OP09-078",
+        "ST18-001",
+        "OP09-078",
+        "OP08-095",
+        "ST18-001",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "ST18-001",
+        "ST18-002",
+        "ST18-001",
+        "ST18-002",
+        "OP09-119"
+      ]
+    },
+    "log-276": {
+      "player": "Mhcuber",
+      "action": "Life state",
+      "life": 3
+    },
+    "log-277": {
+      "player": "Ghostcasper",
+      "action": "Hand state",
+      "cards": [
+        "OP08-098",
+        "ST10-008",
+        "OP08-094",
+        "OP08-095",
+        "OP08-094",
+        "ST10-008"
+      ]
+    },
+    "log-278": {
+      "player": "Ghostcasper",
+      "action": "Board state",
+      "cards": [
+        "OP08-094"
+      ]
+    },
+    "log-279": {
+      "player": "Ghostcasper",
+      "action": "Trash state",
+      "cards": [
+        "ST10-008",
+        "ST10-010",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094"
+      ]
+    },
+    "log-280": {
+      "player": "Ghostcasper",
+      "action": "Life state",
+      "life": 0
+    },
+    "log-281": {
+      "player": "Mhcuber",
+      "action": "End Turn"
+    },
+    "log-282": {
+      "player": "Ghostcasper",
+      "action": "Draw 1 Card"
+    },
+    "log-283": {
+      "player": "Ghostcasper",
+      "action": "Drew card from deck",
+      "card": "OP05-106"
+    },
+    "log-284": {
+      "player": "Ghostcasper",
+      "action": "Kalgara attacking Monkey D. Luffy",
+      "attacker_card": "OP08-098",
+      "target_card": "OP05-060"
+    },
+    "log-285": {
+      "player": "Ghostcasper",
+      "action": "Kalgara Buff Kalgara 1000 for the Combat",
+      "card": "OP08-098",
+      "target_card": "OP08-098"
+    },
+    "log-286": {
+      "player": "Mhcuber",
+      "action": "Discard Usohachi for Counter 2000",
+      "card": "ST18-001"
+    },
+    "log-287": {
+      "player": "Mhcuber",
+      "action": "Discard Onami for Counter 1000",
+      "card": "ST18-002"
+    },
+    "log-288": {
+      "player": "Kalgara",
+      "card": "OP08-098",
+      "power": 6000,
+      "action": "vs Monkey D. Luffy",
+      "target_card": "OP05-060",
+      "target_power": 8000
+    },
+    "log-289": {
+      "player": "System",
+      "action": "Attack Fails"
+    },
+    "log-290": {
+      "player": "Ghostcasper",
+      "action": "Deploy Shura",
+      "card": "OP05-106"
+    },
+    "log-291": {
+      "player": "Ghostcasper",
+      "action": "Shura attacking Monkey D. Luffy",
+      "attacker_card": "OP05-106",
+      "target_card": "OP05-060"
+    },
+    "log-292": {
+      "player": "Shura",
+      "card": "OP05-106",
+      "power": 10000,
+      "action": "vs Monkey D. Luffy",
+      "target_card": "OP05-060",
+      "target_power": 5000
+    },
+    "log-293": {
+      "player": "Monkey D. Luffy",
+      "card": "OP05-060",
+      "action": "hit for 1 damage"
+    },
+    "log-294": {
+      "player": "Ghostcasper",
+      "action": "End Turn"
+    },
+    "log-295": {
+      "player": "Mhcuber",
+      "action": "Hand state",
+      "cards": [
+        "OP09-065",
+        "OP09-069",
+        "ST18-004",
+        "EB01-061",
+        "OP09-119"
+      ]
+    },
+    "log-296": {
+      "player": "Mhcuber",
+      "action": "Board state",
+      "cards": [
+        "ST18-005"
+      ]
+    },
+    "log-297": {
+      "player": "Mhcuber",
+      "action": "Trash state",
+      "cards": [
+        "OP06-076",
+        "OP05-070",
+        "EB01-061",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "OP07-064",
+        "OP09-078",
+        "ST18-001",
+        "OP09-078",
+        "OP08-095",
+        "ST18-001",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "ST18-001",
+        "ST18-002",
+        "ST18-001",
+        "ST18-002",
+        "OP09-119"
+      ]
+    },
+    "log-298": {
+      "player": "Mhcuber",
+      "action": "Life state",
+      "life": 2
+    },
+    "log-299": {
+      "player": "Ghostcasper",
+      "action": "Hand state",
+      "cards": [
+        "OP08-098",
+        "ST10-008",
+        "OP08-094",
+        "OP08-095",
+        "OP08-094",
+        "ST10-008"
+      ]
+    },
+    "log-300": {
+      "player": "Ghostcasper",
+      "action": "Board state",
+      "cards": [
+        "OP08-094",
+        "OP05-106"
+      ]
+    },
+    "log-301": {
+      "player": "Ghostcasper",
+      "action": "Trash state",
+      "cards": [
+        "ST10-008",
+        "ST10-010",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094"
+      ]
+    },
+    "log-302": {
+      "player": "Ghostcasper",
+      "action": "Life state",
+      "life": 0
+    },
+    "log-303": {
+      "player": "Mhcuber",
+      "action": "Draw 1 Card"
+    },
+    "log-304": {
+      "player": "Mhcuber",
+      "action": "Drew card from deck",
+      "card": "OP09-078"
+    },
+    "log-305": {
+      "player": "Mhcuber",
+      "action": "Draw 2 Don"
+    },
+    "log-306": {
+      "player": "Mhcuber",
+      "action": "Monkey D. Luffy attacking Shura",
+      "attacker_card": "OP05-060",
+      "target_card": "OP05-106"
+    },
+    "log-307": {
+      "player": "Monkey D. Luffy",
+      "card": "OP05-060",
+      "power": 5000,
+      "action": "vs Shura",
+      "target_card": "OP05-106",
+      "target_power": 8000
+    },
+    "log-308": {
+      "player": "Ghostcasper",
+      "action": "Discard Wyper for Counter 1000",
+      "card": "OP08-094"
+    },
+    "log-309": {
+      "player": "Ghostcasper",
+      "action": "Discard Gedatsu for Counter 2000",
+      "card": "OP08-096"
+    },
+    "log-310": {
+      "player": "System",
+      "action": "Attack Fails"
+    },
+    "log-311": {
+      "player": "Mhcuber",
+      "action": "Luffy-tarou attacking Kalgara",
+      "attacker_card": "ST18-005",
+      "target_card": "OP08-098"
+    },
+    "log-312": {
+      "player": "Mhcuber",
+      "action": "Luffy-tarou Buff Luffy-tarou 1000 for the Combat",
+      "card": "ST18-005",
+      "target_card": "ST18-005"
+    },
+    "log-313": {
+      "player": "Luffy-tarou",
+      "card": "ST18-005",
+      "power": 7000,
+      "action": "vs Kalgara",
+      "target_card": "OP08-098",
+      "target_power": 5000
+    },
+    "log-314": {
+      "player": "Kalgara",
+      "card": "OP08-098",
+      "action": "hit for 1 damage"
+    },
+    "log-315": {
+      "player": "Mhcuber",
+      "action": "Hand state",
+      "cards": [
+        "OP09-065",
+        "OP09-069",
+        "ST18-004",
+        "EB01-061",
+        "OP09-119",
+        "OP09-078"
+      ]
+    },
+    "log-316": {
+      "player": "Mhcuber",
+      "action": "Board state",
+      "cards": [
+        "ST18-005"
+      ]
+    },
+    "log-317": {
+      "player": "Mhcuber",
+      "action": "Trash state",
+      "cards": [
+        "OP06-076",
+        "OP05-070",
+        "EB01-061",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "OP07-064",
+        "OP09-078",
+        "ST18-001",
+        "OP09-078",
+        "OP08-095",
+        "ST18-001",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "ST18-001",
+        "ST18-002",
+        "ST18-001",
+        "ST18-002",
+        "OP09-119"
+      ]
+    },
+    "log-318": {
+      "player": "Mhcuber",
+      "action": "Life state",
+      "life": 2
+    },
+    "log-319": {
+      "player": "Ghostcasper",
+      "action": "Hand state",
+      "cards": [
+        "OP08-098",
+        "ST10-008",
+        "OP08-095",
+        "OP08-094",
+        "ST10-008"
+      ]
+    },
+    "log-320": {
+      "player": "Ghostcasper",
+      "action": "Board state",
+      "cards": [
+        "OP08-094",
+        "OP05-106"
+      ]
+    },
+    "log-321": {
+      "player": "Ghostcasper",
+      "action": "Trash state",
+      "cards": [
+        "ST10-008",
+        "ST10-010",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094",
+        "OP08-094",
+        "OP08-096"
+      ]
+    },
+    "log-322": {
+      "player": "Ghostcasper",
+      "action": "Life state",
+      "life": 0
+    },
+    "log-323": {
+      "player": "Mhcuber",
+      "action": "End Turn"
+    },
+    "log-324": {
+      "player": "Ghostcasper",
+      "action": "Draw 1 Card"
+    },
+    "log-325": {
+      "player": "Ghostcasper",
+      "action": "Drew card from deck",
+      "card": "ST10-010"
+    },
+    "log-326": {
+      "player": "Ghostcasper",
+      "action": "Kalgara attacking Monkey D. Luffy",
+      "attacker_card": "OP08-098",
+      "target_card": "OP05-060"
+    },
+    "log-327": {
+      "player": "Ghostcasper",
+      "action": "Kalgara Buff Kalgara 1000 for the Combat",
+      "card": "OP08-098",
+      "target_card": "OP08-098"
+    },
+    "log-328": {
+      "player": "Mhcuber",
+      "action": "Discard Usohachi for Counter 2000",
+      "card": "ST18-001"
+    },
+    "log-329": {
+      "player": "Mhcuber",
+      "action": "Discard Onami for Counter 1000",
+      "card": "ST18-002"
+    },
+    "log-330": {
+      "player": "Kalgara",
+      "card": "OP08-098",
+      "power": 6000,
+      "action": "vs Monkey D. Luffy",
+      "target_card": "OP05-060",
+      "target_power": 8000
+    },
+    "log-331": {
+      "player": "System",
+      "action": "Attack Fails"
+    },
+    "log-332": {
+      "player": "Ghostcasper",
+      "action": "Shura attacking Monkey D. Luffy",
+      "attacker_card": "OP05-106",
+      "target_card": "OP05-060"
+    },
+    "log-333": {
+      "player": "Shura",
+      "card": "OP05-106",
+      "power": 10000,
+      "action": "vs Monkey D. Luffy",
+      "target_card": "OP05-060",
+      "target_power": 5000
+    },
+    "log-334": {
+      "player": "Monkey D. Luffy",
+      "card": "OP05-060",
+      "action": "hit for 1 damage"
+    },
+    "log-335": {
+      "player": "Ghostcasper",
+      "action": "Wyper attacking Luffy-tarou",
+      "attacker_card": "OP08-094",
+      "target_card": "ST18-005"
+    },
+    "log-336": {
+      "player": "Wyper",
+      "card": "OP08-094",
+      "power": 4000,
+      "action": "vs Luffy-tarou",
+      "target_card": "ST18-005",
+      "target_power": 5000
+    },
+    "log-337": {
+      "player": "Mhcuber",
+      "action": "Discard Gum Gum Giant for Counter 1000",
+      "card": "OP09-078"
+    },
+    "log-338": {
+      "player": "System",
+      "action": "Attack Fails"
+    },
+    "log-339": {
+      "player": "Ghostcasper",
+      "action": "End Turn"
+    },
+    "log-340": {
+      "player": "Mhcuber",
+      "action": "Hand state",
+      "cards": [
+        "OP09-065",
+        "OP09-069",
+        "ST18-004",
+        "EB01-061",
+        "OP09-119"
+      ]
+    },
+    "log-341": {
+      "player": "Mhcuber",
+      "action": "Board state",
+      "cards": [
+        "ST18-005"
+      ]
+    },
+    "log-342": {
+      "player": "Mhcuber",
+      "action": "Trash state",
+      "cards": [
+        "OP06-076",
+        "OP05-070",
+        "EB01-061",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "OP07-064",
+        "OP09-078",
+        "ST18-001",
+        "OP09-078",
+        "OP08-095",
+        "ST18-001",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "ST18-001",
+        "ST18-002",
+        "ST18-001",
+        "ST18-002",
+        "OP09-119",
+        "ST18-001",
+        "ST18-002",
+        "OP09-078"
+      ]
+    },
+    "log-343": {
+      "player": "Mhcuber",
+      "action": "Life state",
+      "life": 1
+    },
+    "log-344": {
+      "player": "Ghostcasper",
+      "action": "Hand state",
+      "cards": [
+        "OP08-098",
+        "ST10-008",
+        "OP08-094",
+        "OP08-095",
+        "OP08-094",
+        "ST10-008"
+      ]
+    },
+    "log-345": {
+      "player": "Ghostcasper",
+      "action": "Board state",
+      "cards": [
+        "OP08-094",
+        "OP05-106"
+      ]
+    },
+    "log-346": {
+      "player": "Ghostcasper",
+      "action": "Trash state",
+      "cards": [
+        "ST10-008",
+        "ST10-010",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094",
+        "OP08-094",
+        "OP08-096",
+        "ST10-010"
+      ]
+    },
+    "log-347": {
+      "player": "Ghostcasper",
+      "action": "Life state",
+      "life": 0
+    },
+    "log-348": {
+      "player": "Mhcuber",
+      "action": "Draw 1 Card"
+    },
+    "log-349": {
+      "player": "Mhcuber",
+      "action": "Drew card from deck",
+      "card": "ST18-001"
+    },
+    "log-350": {
+      "player": "Mhcuber",
+      "action": "Draw 2 Don"
+    },
+    "log-351": {
+      "player": "Mhcuber",
+      "action": "Monkey D. Luffy attacking Kalgara",
+      "attacker_card": "OP05-060",
+      "target_card": "OP08-098"
+    },
+    "log-352": {
+      "player": "Monkey D. Luffy",
+      "card": "OP05-060",
+      "power": 5000,
+      "action": "vs Kalgara",
+      "target_card": "OP08-098",
+      "target_power": 5000
+    },
+    "log-353": {
+      "player": "Kalgara",
+      "card": "OP08-098",
+      "action": "hit for 1 damage"
+    },
+    "log-354": {
+      "player": "Mhcuber",
+      "action": "Luffy-tarou attacking Kalgara",
+      "attacker_card": "ST18-005",
+      "target_card": "OP08-098"
+    },
+    "log-355": {
+      "player": "Mhcuber",
+      "action": "Luffy-tarou Buff Luffy-tarou 1000 for the Combat",
+      "card": "ST18-005",
+      "target_card": "ST18-005"
+    },
+    "log-356": {
+      "player": "Luffy-tarou",
+      "card": "ST18-005",
+      "power": 7000,
+      "action": "vs Kalgara",
+      "target_card": "OP08-098",
+      "target_power": 5000
+    },
+    "log-357": {
+      "player": "Kalgara",
+      "card": "OP08-098",
+      "action": "hit for 1 damage"
+    },
+    "log-358": {
+      "player": "Mhcuber",
+      "action": "Hand state",
+      "cards": [
+        "OP09-065",
+        "OP09-069",
+        "ST18-004",
+        "EB01-061",
+        "OP09-119",
+        "ST18-001"
+      ]
+    },
+    "log-359": {
+      "player": "Mhcuber",
+      "action": "Board state",
+      "cards": [
+        "ST18-005"
+      ]
+    },
+    "log-360": {
+      "player": "Mhcuber",
+      "action": "Trash state",
+      "cards": [
+        "OP06-076",
+        "OP05-070",
+        "EB01-061",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "OP07-064",
+        "OP09-078",
+        "ST18-001",
+        "OP09-078",
+        "OP08-095",
+        "ST18-001",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "ST18-001",
+        "ST18-002",
+        "ST18-001",
+        "ST18-002",
+        "OP09-119",
+        "ST18-001",
+        "ST18-002",
+        "OP09-078"
+      ]
+    },
+    "log-361": {
+      "player": "Mhcuber",
+      "action": "Life state",
+      "life": 1
+    },
+    "log-362": {
+      "player": "Ghostcasper",
+      "action": "Hand state",
+      "cards": [
+        "OP08-098",
+        "ST10-008",
+        "OP08-094",
+        "OP08-095",
+        "OP08-094",
+        "ST10-008"
+      ]
+    },
+    "log-363": {
+      "player": "Ghostcasper",
+      "action": "Board state",
+      "cards": [
+        "OP08-094",
+        "OP05-106"
+      ]
+    },
+    "log-364": {
+      "player": "Ghostcasper",
+      "action": "Trash state",
+      "cards": [
+        "ST10-008",
+        "ST10-010",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094",
+        "OP08-094",
+        "OP08-096",
+        "ST10-010"
+      ]
+    },
+    "log-365": {
+      "player": "Ghostcasper",
+      "action": "Life state",
+      "life": 0
+    },
+    "log-366": {
+      "player": "Mhcuber",
+      "action": "End Turn"
+    },
+    "log-367": {
+      "player": "Ghostcasper",
+      "action": "Draw 1 Card"
+    },
+    "log-368": {
+      "player": "Ghostcasper",
+      "action": "Drew card from deck",
+      "card": "OP08-094"
+    },
+    "log-369": {
+      "player": "Ghostcasper",
+      "action": "Kalgara attacking Monkey D. Luffy",
+      "attacker_card": "OP08-098",
+      "target_card": "OP05-060"
+    },
+    "log-370": {
+      "player": "Ghostcasper",
+      "action": "Kalgara Buff Kalgara 1000 for the Combat",
+      "card": "OP08-098",
+      "target_card": "OP08-098"
+    },
+    "log-371": {
+      "player": "Mhcuber",
+      "action": "Discard Gum Gum Giant for Counter 1000",
+      "card": "OP09-078"
+    },
+    "log-372": {
+      "player": "Mhcuber",
+      "action": "Discard Sanji for Counter 2000",
+      "card": "OP07-064"
+    },
+    "log-373": {
+      "player": "Kalgara",
+      "card": "OP08-098",
+      "power": 6000,
+      "action": "vs Monkey D. Luffy",
+      "target_card": "OP05-060",
+      "target_power": 8000
+    },
+    "log-374": {
+      "player": "System",
+      "action": "Attack Fails"
+    },
+    "log-375": {
+      "player": "Ghostcasper",
+      "action": "Shura attacking Luffy-tarou",
+      "attacker_card": "OP05-106",
+      "target_card": "ST18-005"
+    },
+    "log-376": {
+      "player": "Shura",
+      "card": "OP05-106",
+      "power": 10000,
+      "action": "vs Luffy-tarou",
+      "target_card": "ST18-005",
+      "target_power": 5000
+    },
+    "log-377": {
+      "player": "Luffy-tarou",
+      "card": "ST18-005",
+      "action": "K.O."
+    },
+    "log-378": {
+      "player": "Ghostcasper",
+      "action": "Wyper attacking Monkey D. Luffy",
+      "attacker_card": "OP08-094",
+      "target_card": "OP05-060"
+    },
+    "log-379": {
+      "player": "Wyper",
+      "card": "OP08-094",
+      "power": 4000,
+      "action": "vs Monkey D. Luffy",
+      "target_card": "OP05-060",
+      "target_power": 5000
+    },
+    "log-380": {
+      "player": "Ghostcasper",
+      "action": "End Turn"
+    },
+    "log-381": {
+      "player": "Mhcuber",
+      "action": "Hand state",
+      "cards": [
+        "OP09-065",
+        "OP09-069",
+        "ST18-004",
+        "EB01-061",
+        "OP09-119"
+      ]
+    },
+    "log-382": {
+      "player": "Mhcuber",
+      "action": "Board state",
+      "cards": []
+    },
+    "log-383": {
+      "player": "Mhcuber",
+      "action": "Trash state",
+      "cards": [
+        "OP06-076",
+        "OP05-070",
+        "EB01-061",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "OP07-064",
+        "OP09-078",
+        "ST18-001",
+        "OP09-078",
+        "OP08-095",
+        "ST18-001",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "ST18-001",
+        "ST18-002",
+        "ST18-001",
+        "ST18-002",
+        "OP09-119",
+        "ST18-001",
+        "ST18-002",
+        "OP09-078",
+        "OP09-078",
+        "OP07-064",
+        "ST18-005"
+      ]
+    },
+    "log-384": {
+      "player": "Mhcuber",
+      "action": "Life state",
+      "life": 1
+    },
+    "log-385": {
+      "player": "Ghostcasper",
+      "action": "Hand state",
+      "cards": [
+        "OP08-098",
+        "ST10-008",
+        "OP08-094",
+        "OP08-095",
+        "OP08-094",
+        "ST10-008",
+        "OP08-094"
+      ]
+    },
+    "log-386": {
+      "player": "Ghostcasper",
+      "action": "Board state",
+      "cards": [
+        "OP08-094",
+        "OP05-106"
+      ]
+    },
+    "log-387": {
+      "player": "Ghostcasper",
+      "action": "Trash state",
+      "cards": [
+        "ST10-008",
+        "ST10-010",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094",
+        "OP08-094",
+        "OP08-096",
+        "ST10-010"
+      ]
+    },
+    "log-388": {
+      "player": "Ghostcasper",
+      "action": "Life state",
+      "life": 0
+    },
+    "log-389": {
+      "player": "Mhcuber",
+      "action": "Draw 1 Card"
+    },
+    "log-390": {
+      "player": "Mhcuber",
+      "action": "Drew card from deck",
+      "card": "OP09-078"
+    },
+    "log-391": {
+      "player": "Mhcuber",
+      "action": "Draw 2 Don"
+    },
+    "log-392": {
+      "player": "Mhcuber",
+      "action": "Monkey D. Luffy attacking Kalgara",
+      "attacker_card": "OP05-060",
+      "target_card": "OP08-098"
+    },
+    "log-393": {
+      "player": "Monkey D. Luffy",
+      "card": "OP05-060",
+      "power": 5000,
+      "action": "vs Kalgara",
+      "target_card": "OP08-098",
+      "target_power": 5000
+    },
+    "log-394": {
+      "player": "Kalgara",
+      "card": "OP08-098",
+      "action": "hit for 1 damage"
+    },
+    "log-395": {
+      "player": "Mhcuber",
+      "action": "Hand state",
+      "cards": [
+        "OP09-065",
+        "OP09-069",
+        "ST18-004",
+        "EB01-061",
+        "OP09-119",
+        "OP09-078"
+      ]
+    },
+    "log-396": {
+      "player": "Mhcuber",
+      "action": "Board state",
+      "cards": []
+    },
+    "log-397": {
+      "player": "Mhcuber",
+      "action": "Trash state",
+      "cards": [
+        "OP06-076",
+        "OP05-070",
+        "EB01-061",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "OP07-064",
+        "OP09-078",
+        "ST18-001",
+        "OP09-078",
+        "OP08-095",
+        "ST18-001",
+        "ST18-002",
+        "OP09-119",
+        "OP09-078",
+        "ST18-001",
+        "ST18-002",
+        "ST18-001",
+        "ST18-002",
+        "OP09-119",
+        "ST18-001",
+        "ST18-002",
+        "OP09-078",
+        "OP09-078",
+        "OP07-064",
+        "ST18-005"
+      ]
+    },
+    "log-398": {
+      "player": "Mhcuber",
+      "action": "Life state",
+      "life": 1
+    },
+    "log-399": {
+      "player": "Ghostcasper",
+      "action": "Hand state",
+      "cards": [
+        "OP08-098",
+        "ST10-008",
+        "OP08-094",
+        "OP08-095",
+        "OP08-094",
+        "ST10-008",
+        "OP08-094"
+      ]
+    },
+    "log-400": {
+      "player": "Ghostcasper",
+      "action": "Board state",
+      "cards": [
+        "OP08-094",
+        "OP05-106"
+      ]
+    },
+    "log-401": {
+      "player": "Ghostcasper",
+      "action": "Trash state",
+      "cards": [
+        "ST10-008",
+        "ST10-010",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094",
+        "OP08-095",
+        "OP08-095",
+        "OP08-094",
+        "OP08-094",
+        "OP08-096",
+        "ST10-010"
+      ]
+    },
+    "log-402": {
+      "player": "Ghostcasper",
+      "action": "Life state",
+      "life": 0
+    },
+    "log-403": {
+      "player": "Mhcuber",
+      "action": "End Turn"
+    },
+    "log-404": {
+      "player": "Ghostcasper",
+      "action": "Loses"
+    },
+    "log-405": {
+      "player": "Mhcuber",
+      "action": "Wins!"
+    }
+  }

@@ -1,0 +1,1853 @@
+{
+  "log-001": {
+    "player": "System",
+    "action": "Attempting to connect to NJKDN6"
+  },
+  "log-002": {
+    "player": "System",
+    "action": "Version is 1.29b"
+  },
+  "log-003": {
+    "player": "RetroGamingTcg",
+    "action": "Leader is Jewelry Bonney",
+    "card": "OP07-019"
+  },
+  "log-004": {
+    "player": "rintosh1",
+    "action": "Player connected"
+  },
+  "log-005": {
+    "player": "System",
+    "action": "Version is 1.29b"
+  },
+  "log-006": {
+    "player": "rintosh1",
+    "action": "Leader is Shanks",
+    "card": "OP09-001"
+  },
+  "log-007": {
+    "player": "RetroGamingTcg",
+    "action": "Chose to go First"
+  },
+  "log-008": {
+    "player": "RetroGamingTcg",
+    "action": "Drew card from deck",
+    "card": "ST02-008"
+  },
+  "log-009": {
+    "player": "RetroGamingTcg",
+    "action": "Drew card from deck",
+    "card": "OP05-030"
+  },
+  "log-010": {
+    "player": "RetroGamingTcg",
+    "action": "Drew card from deck",
+    "card": "OP08-030"
+  },
+  "log-011": {
+    "player": "RetroGamingTcg",
+    "action": "Drew card from deck",
+    "card": "ST16-004"
+  },
+  "log-012": {
+    "player": "RetroGamingTcg",
+    "action": "Drew card from deck",
+    "card": "EB01-012"
+  },
+  "log-013": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-008"
+  },
+  "log-014": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP08-118"
+  },
+  "log-015": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-014"
+  },
+  "log-016": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP07-015"
+  },
+  "log-017": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP03-013"
+  },
+  "log-018": {
+    "player": "rintosh1",
+    "action": "Hand before Mulligan",
+    "cards": [
+      "OP09-008",
+      "OP08-118",
+      "OP09-014",
+      "OP07-015",
+      "OP03-013"
+    ]
+  },
+  "log-019": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "ST21-014"
+  },
+  "log-020": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP01-006"
+  },
+  "log-021": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-015"
+  },
+  "log-022": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-014"
+  },
+  "log-023": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP03-013"
+  },
+  "log-024": {
+    "player": "rintosh1",
+    "action": "Hand after Mulligan",
+    "cards": [
+      "ST21-014",
+      "OP01-006",
+      "OP09-015",
+      "OP09-014",
+      "OP03-013"
+    ]
+  },
+  "log-025": {
+    "player": "rintosh1",
+    "action": "Mulligan"
+  },
+  "log-026": {
+    "player": "RetroGamingTcg",
+    "action": "Draw 1 Don"
+  },
+  "log-027": {
+    "player": "RetroGamingTcg",
+    "action": "End Turn"
+  },
+  "log-028": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "ST21-014",
+      "OP01-006",
+      "OP09-015",
+      "OP09-014",
+      "OP03-013"
+    ]
+  },
+  "log-029": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-030": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-031": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-032": {
+    "player": "RetroGamingTcg",
+    "action": "Hand state",
+    "cards": [
+      "ST02-008",
+      "OP05-030",
+      "OP08-030",
+      "ST16-004",
+      "EB01-012"
+    ]
+  },
+  "log-033": {
+    "player": "RetroGamingTcg",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-034": {
+    "player": "RetroGamingTcg",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-035": {
+    "player": "RetroGamingTcg",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-036": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-009"
+  },
+  "log-037": {
+    "player": "rintosh1",
+    "action": "Draw 1 Card"
+  },
+  "log-038": {
+    "player": "rintosh1",
+    "action": "Draw 2 Don"
+  },
+  "log-039": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "ST21-014",
+      "OP01-006",
+      "OP09-015",
+      "OP09-014",
+      "OP03-013",
+      "OP09-009"
+    ]
+  },
+  "log-040": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-041": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-042": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-043": {
+    "player": "RetroGamingTcg",
+    "action": "Hand state",
+    "cards": [
+      "ST02-008",
+      "OP05-030",
+      "OP08-030",
+      "ST16-004",
+      "EB01-012"
+    ]
+  },
+  "log-044": {
+    "player": "RetroGamingTcg",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-045": {
+    "player": "RetroGamingTcg",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-046": {
+    "player": "RetroGamingTcg",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-047": {
+    "player": "rintosh1",
+    "action": "End Turn"
+  },
+  "log-048": {
+    "player": "RetroGamingTcg",
+    "action": "Draw 1 Card"
+  },
+  "log-049": {
+    "player": "RetroGamingTcg",
+    "action": "Drew card from deck",
+    "card": "OP04-031"
+  },
+  "log-050": {
+    "player": "RetroGamingTcg",
+    "action": "Draw 2 Don"
+  },
+  "log-051": {
+    "player": "RetroGamingTcg",
+    "action": "Deploy Donquixote Rosinante",
+    "card": "OP05-030"
+  },
+  "log-052": {
+    "player": "RetroGamingTcg",
+    "action": "Jewelry Bonney attacking Shanks",
+    "source_card": "OP07-019",
+    "target_card": "OP09-001"
+  },
+  "log-053": {
+    "player": "rintosh1",
+    "action": "Shanks: Buff Jewelry Bonney -1000",
+    "source_card": "OP09-001",
+    "target_card": "OP07-019",
+    "buff_amount": -1000
+  },
+  "log-054": {
+    "player": "System",
+    "action": "Attack Fails",
+    "attacker": "OP07-019",
+    "attacker_power": 4000,
+    "defender": "OP09-001",
+    "defender_power": 5000
+  },
+  "log-055": {
+    "player": "RetroGamingTcg",
+    "action": "End Turn"
+  },
+  "log-056": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "ST21-014",
+      "OP01-006",
+      "OP09-015",
+      "OP09-014",
+      "OP03-013",
+      "OP09-009"
+    ]
+  },
+  "log-057": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-058": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-059": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-060": {
+    "player": "RetroGamingTcg",
+    "action": "Hand state",
+    "cards": [
+      "ST02-008",
+      "OP08-030",
+      "ST16-004",
+      "EB01-012",
+      "OP04-031"
+    ]
+  },
+  "log-061": {
+    "player": "RetroGamingTcg",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-062": {
+    "player": "RetroGamingTcg",
+    "action": "Board state",
+    "cards": [
+      "OP05-030"
+    ]
+  },
+  "log-063": {
+    "player": "RetroGamingTcg",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-064": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-004"
+  },
+  "log-065": {
+    "player": "rintosh1",
+    "action": "Draw 1 Card"
+  },
+  "log-066": {
+    "player": "rintosh1",
+    "action": "Draw 2 Don"
+  },
+  "log-067": {
+    "player": "rintosh1",
+    "action": "Attach 4 Don to Shanks",
+    "card": "OP09-001",
+    "total": 4
+  },
+  "log-068": {
+    "player": "rintosh1",
+    "action": "Shanks attacking Jewelry Bonney",
+    "source_card": "OP09-001",
+    "target_card": "OP07-019"
+  },
+  "log-069": {
+    "player": "System",
+    "action": "Battle",
+    "attacker": "OP09-001",
+    "attacker_power": 9000,
+    "defender": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-070": {
+    "player": "System",
+    "action": "Damage",
+    "target_card": "OP07-019",
+    "damage_amount": 1
+  },
+  "log-071": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "ST21-014",
+      "OP01-006",
+      "OP09-015",
+      "OP09-014",
+      "OP03-013",
+      "OP09-009",
+      "OP09-004"
+    ]
+  },
+  "log-072": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-073": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-074": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-075": {
+    "player": "RetroGamingTcg",
+    "action": "Hand state",
+    "cards": [
+      "ST02-008",
+      "OP08-030",
+      "ST16-004",
+      "EB01-012",
+      "OP04-031",
+      "EB01-012"
+    ]
+  },
+  "log-076": {
+    "player": "RetroGamingTcg",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-077": {
+    "player": "RetroGamingTcg",
+    "action": "Board state",
+    "cards": [
+      "OP05-030"
+    ]
+  },
+  "log-078": {
+    "player": "RetroGamingTcg",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-079": {
+    "player": "rintosh1",
+    "action": "End Turn"
+  },
+  "log-080": {
+    "player": "RetroGamingTcg",
+    "action": "Draw 1 Card"
+  },
+  "log-081": {
+    "player": "RetroGamingTcg",
+    "action": "Drew card from deck",
+    "card": "OP08-023"
+  },
+  "log-082": {
+    "player": "RetroGamingTcg",
+    "action": "Draw 2 Don"
+  },
+  "log-083": {
+    "player": "RetroGamingTcg",
+    "action": "Deploy Pedro",
+    "card": "OP08-030"
+  },
+  "log-084": {
+    "player": "RetroGamingTcg",
+    "action": "Jewelry Bonney attacking Shanks",
+    "source_card": "OP07-019",
+    "target_card": "OP09-001"
+  },
+  "log-085": {
+    "player": "rintosh1",
+    "action": "Shanks: Buff Jewelry Bonney -1000",
+    "source_card": "OP09-001",
+    "target_card": "OP07-019",
+    "buff_amount": -1000
+  },
+  "log-086": {
+    "player": "System",
+    "action": "Attack Fails",
+    "attacker": "OP07-019",
+    "attacker_power": 4000,
+    "defender": "OP09-001",
+    "defender_power": 5000
+  },
+  "log-087": {
+    "player": "RetroGamingTcg",
+    "action": "End Turn"
+  },
+  "log-088": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "ST21-014",
+      "OP01-006",
+      "OP09-015",
+      "OP09-014",
+      "OP03-013",
+      "OP09-009",
+      "OP09-004"
+    ]
+  },
+  "log-089": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": []
+  },
+  "log-090": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-091": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-092": {
+    "player": "RetroGamingTcg",
+    "action": "Hand state",
+    "cards": [
+      "ST02-008",
+      "ST16-004",
+      "EB01-012",
+      "OP04-031",
+      "EB01-012",
+      "OP08-023"
+    ]
+  },
+  "log-093": {
+    "player": "RetroGamingTcg",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-094": {
+    "player": "RetroGamingTcg",
+    "action": "Board state",
+    "cards": [
+      "OP05-030",
+      "OP08-030"
+    ]
+  },
+  "log-095": {
+    "player": "RetroGamingTcg",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-096": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP08-118"
+  },
+  "log-097": {
+    "player": "rintosh1",
+    "action": "Draw 1 Card"
+  },
+  "log-098": {
+    "player": "rintosh1",
+    "action": "Draw 2 Don"
+  },
+  "log-099": {
+    "player": "rintosh1",
+    "action": "Deploy Marco",
+    "card": "OP03-013"
+  },
+  "log-100": {
+    "player": "rintosh1",
+    "action": "Marco: Destroy Donquixote Rosinante",
+    "source_card": "OP03-013",
+    "target_card": "OP05-030"
+  },
+  "log-101": {
+    "player": "rintosh1",
+    "action": "Attach 1 Don to Shanks",
+    "card": "OP09-001",
+    "total": 1
+  },
+  "log-102": {
+    "player": "rintosh1",
+    "action": "Shanks attacking Jewelry Bonney",
+    "source_card": "OP09-001",
+    "target_card": "OP07-019"
+  },
+  "log-103": {
+    "player": "RetroGamingTcg",
+    "action": "Jewelry Bonney: Rest Marco",
+    "source_card": "OP07-019",
+    "target_card": "OP03-013"
+  },
+  "log-104": {
+    "player": "RetroGamingTcg",
+    "action": "Discard Scratchmen Apoo for Counter 2000",
+    "card": "ST02-008",
+    "counter_amount": 2000
+  },
+  "log-105": {
+    "player": "System",
+    "action": "Attack Fails",
+    "attacker": "OP09-001",
+    "attacker_power": 6000,
+    "defender": "OP07-019",
+    "defender_power": 7000
+  },
+  "log-106": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "ST21-014",
+      "OP01-006",
+      "OP09-015",
+      "OP09-014",
+      "OP09-009",
+      "OP09-004",
+      "OP08-118"
+    ]
+  },
+  "log-107": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP03-013"
+    ]
+  },
+  "log-108": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": []
+  },
+  "log-109": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-110": {
+    "player": "RetroGamingTcg",
+    "action": "Hand state",
+    "cards": [
+      "ST16-004",
+      "EB01-012",
+      "OP04-031",
+      "EB01-012",
+      "OP08-023"
+    ]
+  },
+  "log-111": {
+    "player": "RetroGamingTcg",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030",
+      "ST02-008"
+    ]
+  },
+  "log-112": {
+    "player": "RetroGamingTcg",
+    "action": "Board state",
+    "cards": [
+      "OP08-030"
+    ]
+  },
+  "log-113": {
+    "player": "RetroGamingTcg",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-114": {
+    "player": "rintosh1",
+    "action": "End Turn"
+  },
+  "log-115": {
+    "player": "RetroGamingTcg",
+    "action": "Draw 1 Card"
+  },
+  "log-116": {
+    "player": "RetroGamingTcg",
+    "action": "Drew card from deck",
+    "card": "ST02-007"
+  },
+  "log-117": {
+    "player": "RetroGamingTcg",
+    "action": "Draw 2 Don"
+  },
+  "log-118": {
+    "player": "RetroGamingTcg",
+    "action": "Deploy Cavendish",
+    "card": "EB01-012"
+  },
+  "log-119": {
+    "player": "RetroGamingTcg",
+    "action": "Cavendish: Activate 2 Don",
+    "source_card": "EB01-012"
+  },
+  "log-120": {
+    "player": "RetroGamingTcg",
+    "action": "Pedro attacking Marco",
+    "source_card": "OP08-030",
+    "target_card": "OP03-013"
+  },
+  "log-121": {
+    "player": "System",
+    "action": "Attack Fails",
+    "attacker": "OP08-030",
+    "attacker_power": 5000,
+    "defender": "OP03-013",
+    "defender_power": 6000
+  },
+  "log-122": {
+    "player": "RetroGamingTcg",
+    "action": "Attach 2 Don to Jewelry Bonney",
+    "card": "OP07-019",
+    "total": 2
+  },
+  "log-123": {
+    "player": "RetroGamingTcg",
+    "action": "Jewelry Bonney attacking Marco",
+    "source_card": "OP07-019",
+    "target_card": "OP03-013"
+  },
+  "log-124": {
+    "player": "rintosh1",
+    "action": "Shanks: Buff Jewelry Bonney -1000",
+    "source_card": "OP09-001",
+    "target_card": "OP07-019",
+    "buff_amount": -1000
+  },
+  "log-125": {
+    "player": "rintosh1",
+    "action": "Discard Limejuice for Counter 2000",
+    "card": "OP09-014",
+    "counter_amount": 2000
+  },
+  "log-126": {
+    "player": "System",
+    "action": "Attack Fails",
+    "attacker": "OP07-019",
+    "attacker_power": 6000,
+    "defender": "OP03-013",
+    "defender_power": 8000
+  },
+  "log-127": {
+    "player": "RetroGamingTcg",
+    "action": "End Turn"
+  },
+  "log-128": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "ST21-014",
+      "OP01-006",
+      "OP09-015",
+      "OP09-009",
+      "OP09-004",
+      "OP08-118"
+    ]
+  },
+  "log-129": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP03-013"
+    ]
+  },
+  "log-130": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": [
+      "OP09-014"
+    ]
+  },
+  "log-131": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-132": {
+    "player": "RetroGamingTcg",
+    "action": "Hand state",
+    "cards": [
+      "ST16-004",
+      "OP04-031",
+      "EB01-012",
+      "OP08-023",
+      "ST02-007"
+    ]
+  },
+  "log-133": {
+    "player": "RetroGamingTcg",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030",
+      "ST02-008"
+    ]
+  },
+  "log-134": {
+    "player": "RetroGamingTcg",
+    "action": "Board state",
+    "cards": [
+      "OP08-030",
+      "EB01-012"
+    ]
+  },
+  "log-135": {
+    "player": "RetroGamingTcg",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-136": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP10-005"
+  },
+  "log-137": {
+    "player": "rintosh1",
+    "action": "Draw 1 Card"
+  },
+  "log-138": {
+    "player": "rintosh1",
+    "action": "Draw 2 Don"
+  },
+  "log-139": {
+    "player": "rintosh1",
+    "action": "Deploy Benn Beckman",
+    "card": "OP09-009"
+  },
+  "log-140": {
+    "player": "rintosh1",
+    "action": "Benn Beckman: Trash Cavendish",
+    "source_card": "OP09-009",
+    "target_card": "EB01-012"
+  },
+  "log-141": {
+    "player": "rintosh1",
+    "action": "Attach 1 Don to Shanks",
+    "card": "OP09-001",
+    "total": 1
+  },
+  "log-142": {
+    "player": "rintosh1",
+    "action": "Shanks attacking Jewelry Bonney",
+    "source_card": "OP09-001",
+    "target_card": "OP07-019"
+  },
+  "log-143": {
+    "player": "RetroGamingTcg",
+    "action": "Jewelry Bonney: Rest Benn Beckman",
+    "source_card": "OP07-019",
+    "target_card": "OP09-009"
+  },
+  "log-144": {
+    "player": "System",
+    "action": "Battle",
+    "attacker": "OP09-001",
+    "attacker_power": 6000,
+    "defender": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-145": {
+    "player": "System",
+    "action": "Damage",
+    "target_card": "OP07-019",
+    "damage_amount": 1
+  },
+  "log-146": {
+    "player": "rintosh1",
+    "action": "Marco attacking Jewelry Bonney",
+    "source_card": "OP03-013",
+    "target_card": "OP07-019"
+  },
+  "log-147": {
+    "player": "System",
+    "action": "Battle",
+    "attacker": "OP03-013",
+    "attacker_power": 6000,
+    "defender": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-148": {
+    "player": "System",
+    "action": "Damage",
+    "target_card": "OP07-019",
+    "damage_amount": 1
+  },
+  "log-149": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "ST21-014",
+      "OP01-006",
+      "OP09-015",
+      "OP09-004",
+      "OP08-118",
+      "OP10-005"
+    ]
+  },
+  "log-150": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP03-013",
+      "OP09-009"
+    ]
+  },
+  "log-151": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": [
+      "OP09-014"
+    ]
+  },
+  "log-152": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 5
+  },
+  "log-153": {
+    "player": "RetroGamingTcg",
+    "action": "Hand state",
+    "cards": [
+      "ST16-004",
+      "OP04-031",
+      "EB01-012",
+      "OP08-023",
+      "ST02-007",
+      "OP08-023",
+      "OP05-030"
+    ]
+  },
+  "log-154": {
+    "player": "RetroGamingTcg",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030",
+      "ST02-008",
+      "EB01-012"
+    ]
+  },
+  "log-155": {
+    "player": "RetroGamingTcg",
+    "action": "Board state",
+    "cards": [
+      "OP08-030"
+    ]
+  },
+  "log-156": {
+    "player": "RetroGamingTcg",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-157": {
+    "player": "rintosh1",
+    "action": "End Turn"
+  },
+  "log-158": {
+    "player": "RetroGamingTcg",
+    "action": "Draw 1 Card"
+  },
+  "log-159": {
+    "player": "RetroGamingTcg",
+    "action": "Drew card from deck",
+    "card": "OP08-023"
+  },
+  "log-160": {
+    "player": "RetroGamingTcg",
+    "action": "Draw 2 Don"
+  },
+  "log-161": {
+    "player": "RetroGamingTcg",
+    "action": "Deploy Donquixote Rosinante",
+    "card": "OP05-030"
+  },
+  "log-162": {
+    "player": "RetroGamingTcg",
+    "action": "Attach 3 Don to Jewelry Bonney",
+    "card": "OP07-019",
+    "total": 3
+  },
+  "log-163": {
+    "player": "RetroGamingTcg",
+    "action": "Jewelry Bonney attacking Marco",
+    "source_card": "OP07-019",
+    "target_card": "OP03-013"
+  },
+  "log-164": {
+    "player": "rintosh1",
+    "action": "Shanks: Buff Jewelry Bonney -1000",
+    "source_card": "OP09-001",
+    "target_card": "OP07-019",
+    "buff_amount": -1000
+  },
+  "log-165": {
+    "player": "rintosh1",
+    "action": "Discard Otama for Counter 2000",
+    "card": "OP01-006",
+    "counter_amount": 2000
+  },
+  "log-166": {
+    "player": "System",
+    "action": "Attack Fails",
+    "attacker": "OP07-019",
+    "attacker_power": 7000,
+    "defender": "OP03-013",
+    "defender_power": 8000
+  },
+  "log-167": {
+    "player": "RetroGamingTcg",
+    "action": "Attach 3 Don to Pedro",
+    "card": "OP08-030",
+    "total": 3
+  },
+  "log-168": {
+    "player": "RetroGamingTcg",
+    "action": "Pedro attacking Shanks",
+    "source_card": "OP08-030",
+    "target_card": "OP09-001"
+  },
+  "log-169": {
+    "player": "System",
+    "action": "Battle",
+    "attacker": "OP08-030",
+    "attacker_power": 8000,
+    "defender": "OP09-001",
+    "defender_power": 5000
+  },
+  "log-170": {
+    "player": "System",
+    "action": "Damage",
+    "target_card": "OP09-001",
+    "damage_amount": 1
+  },
+  "log-171": {
+    "player": "RetroGamingTcg",
+    "action": "End Turn"
+  },
+  "log-172": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "ST21-014",
+      "OP09-015",
+      "OP09-004",
+      "OP08-118",
+      "OP10-005",
+      "OP07-015"
+    ]
+  },
+  "log-173": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP03-013",
+      "OP09-009"
+    ]
+  },
+  "log-174": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": [
+      "OP09-014",
+      "OP01-006"
+    ]
+  },
+  "log-175": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-176": {
+    "player": "RetroGamingTcg",
+    "action": "Hand state",
+    "cards": [
+      "ST16-004",
+      "OP04-031",
+      "EB01-012",
+      "OP08-023",
+      "ST02-007",
+      "OP08-023",
+      "OP08-023"
+    ]
+  },
+  "log-177": {
+    "player": "RetroGamingTcg",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030",
+      "ST02-008",
+      "EB01-012"
+    ]
+  },
+  "log-178": {
+    "player": "RetroGamingTcg",
+    "action": "Board state",
+    "cards": [
+      "OP08-030",
+      "OP05-030"
+    ]
+  },
+  "log-179": {
+    "player": "RetroGamingTcg",
+    "action": "Life state",
+    "life": 2
+  },
+  "log-180": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-011"
+  },
+  "log-181": {
+    "player": "rintosh1",
+    "action": "Draw 1 Card"
+  },
+  "log-182": {
+    "player": "rintosh1",
+    "action": "Draw 2 Don"
+  },
+  "log-183": {
+    "player": "rintosh1",
+    "action": "Deploy Monkey D. Luffy",
+    "card": "ST21-014"
+  },
+  "log-184": {
+    "player": "rintosh1",
+    "action": "Monkey D. Luffy attacking Jewelry Bonney",
+    "source_card": "ST21-014",
+    "target_card": "OP07-019"
+  },
+  "log-185": {
+    "player": "rintosh1",
+    "action": "Monkey D. Luffy: Attach 1 Rested Don to Marco",
+    "source_card": "ST21-014",
+    "target_card": "OP03-013"
+  },
+  "log-186": {
+    "player": "RetroGamingTcg",
+    "action": "Jewelry Bonney: Rest Benn Beckman",
+    "source_card": "OP07-019",
+    "target_card": "OP09-009"
+  },
+  "log-187": {
+    "player": "RetroGamingTcg",
+    "action": "Discard Carrot for Counter 1000",
+    "card": "OP08-023",
+    "counter_amount": 1000
+  },
+  "log-188": {
+    "player": "RetroGamingTcg",
+    "action": "Discard Carrot for Counter 1000",
+    "card": "OP08-023",
+    "counter_amount": 1000
+  },
+  "log-189": {
+    "player": "System",
+    "action": "Attack Fails",
+    "attacker": "ST21-014",
+    "attacker_power": 6000,
+    "defender": "OP07-019",
+    "defender_power": 7000
+  },
+  "log-190": {
+    "player": "rintosh1",
+    "action": "Deploy Lucky Roux",
+    "card": "OP09-015"
+  },
+  "log-191": {
+    "player": "rintosh1",
+    "action": "Attach 1 Don to Shanks",
+    "card": "OP09-001",
+    "total": 1
+  },
+  "log-192": {
+    "player": "rintosh1",
+    "action": "Shanks attacking Jewelry Bonney",
+    "source_card": "OP09-001",
+    "target_card": "OP07-019"
+  },
+  "log-193": {
+    "player": "RetroGamingTcg",
+    "action": "Discard Jewelry Bonney for Counter 1000",
+    "card": "ST02-007",
+    "counter_amount": 1000
+  },
+  "log-194": {
+    "player": "RetroGamingTcg",
+    "action": "Discard Carrot for Counter 1000",
+    "card": "OP08-023",
+    "counter_amount": 1000
+  },
+  "log-195": {
+    "player": "System",
+    "action": "Attack Fails",
+    "attacker": "OP09-001",
+    "attacker_power": 6000,
+    "defender": "OP07-019",
+    "defender_power": 7000
+  },
+  "log-196": {
+    "player": "rintosh1",
+    "action": "Marco attacking Jewelry Bonney",
+    "source_card": "OP03-013",
+    "target_card": "OP07-019"
+  },
+  "log-197": {
+    "player": "System",
+    "action": "Battle",
+    "attacker": "OP03-013",
+    "attacker_power": 7000,
+    "defender": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-198": {
+    "player": "System",
+    "action": "Damage",
+    "target_card": "OP07-019",
+    "damage_amount": 1
+  },
+  "log-199": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-004",
+      "OP08-118",
+      "OP10-005",
+      "OP07-015",
+      "OP09-011"
+    ]
+  },
+  "log-200": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP03-013",
+      "OP09-009",
+      "ST21-014",
+      "OP09-015"
+    ]
+  },
+  "log-201": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": [
+      "OP09-014",
+      "OP01-006"
+    ]
+  },
+  "log-202": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-203": {
+    "player": "RetroGamingTcg",
+    "action": "Hand state",
+    "cards": [
+      "ST16-004",
+      "OP04-031",
+      "EB01-012",
+      "OP10-032"
+    ]
+  },
+  "log-204": {
+    "player": "RetroGamingTcg",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030",
+      "ST02-008",
+      "EB01-012",
+      "OP08-023",
+      "OP08-023",
+      "ST02-007",
+      "OP08-023"
+    ]
+  },
+  "log-205": {
+    "player": "RetroGamingTcg",
+    "action": "Board state",
+    "cards": [
+      "OP08-030",
+      "OP05-030"
+    ]
+  },
+  "log-206": {
+    "player": "RetroGamingTcg",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-207": {
+    "player": "rintosh1",
+    "action": "End Turn"
+  },
+  "log-208": {
+    "player": "RetroGamingTcg",
+    "action": "Draw 1 Card"
+  },
+  "log-209": {
+    "player": "RetroGamingTcg",
+    "action": "Drew card from deck",
+    "card": "OP04-031"
+  },
+  "log-210": {
+    "player": "RetroGamingTcg",
+    "action": "Draw 2 Don"
+  },
+  "log-211": {
+    "player": "RetroGamingTcg",
+    "action": "Deploy Shanks",
+    "card": "ST16-004"
+  },
+  "log-212": {
+    "player": "RetroGamingTcg",
+    "action": "Shanks: Destroy Benn Beckman",
+    "source_card": "ST16-004",
+    "target_card": "OP09-009"
+  },
+  "log-213": {
+    "player": "RetroGamingTcg",
+    "action": "Jewelry Bonney attacking Shanks",
+    "source_card": "OP07-019",
+    "target_card": "OP09-001"
+  },
+  "log-214": {
+    "player": "rintosh1",
+    "action": "Shanks: Buff Jewelry Bonney -1000",
+    "source_card": "OP09-001",
+    "target_card": "OP07-019",
+    "buff_amount": -1000
+  },
+  "log-215": {
+    "player": "System",
+    "action": "Attack Fails",
+    "attacker": "OP07-019",
+    "attacker_power": 4000,
+    "defender": "OP09-001",
+    "defender_power": 5000
+  },
+  "log-216": {
+    "player": "RetroGamingTcg",
+    "action": "End Turn"
+  },
+  "log-217": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-004",
+      "OP08-118",
+      "OP10-005",
+      "OP07-015",
+      "OP09-011"
+    ]
+  },
+  "log-218": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP03-013",
+      "ST21-014",
+      "OP09-015"
+    ]
+  },
+  "log-219": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": [
+      "OP09-014",
+      "OP01-006",
+      "OP09-009"
+    ]
+  },
+  "log-220": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-221": {
+    "player": "RetroGamingTcg",
+    "action": "Hand state",
+    "cards": [
+      "OP04-031",
+      "EB01-012",
+      "OP10-032",
+      "OP04-031"
+    ]
+  },
+  "log-222": {
+    "player": "RetroGamingTcg",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030",
+      "ST02-008",
+      "EB01-012",
+      "OP08-023",
+      "OP08-023",
+      "ST02-007",
+      "OP08-023"
+    ]
+  },
+  "log-223": {
+    "player": "RetroGamingTcg",
+    "action": "Board state",
+    "cards": [
+      "OP08-030",
+      "OP05-030",
+      "ST16-004"
+    ]
+  },
+  "log-224": {
+    "player": "RetroGamingTcg",
+    "action": "Life state",
+    "life": 1
+  },
+  "log-225": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP09-015"
+  },
+  "log-226": {
+    "player": "rintosh1",
+    "action": "Draw 1 Card"
+  },
+  "log-227": {
+    "player": "rintosh1",
+    "action": "Deploy Silvers Rayleigh",
+    "card": "OP08-118"
+  },
+  "log-228": {
+    "player": "rintosh1",
+    "action": "Silvers Rayleigh: Grant Pedro -3000 until next turn end",
+    "source_card": "OP08-118",
+    "target_card": "OP08-030",
+    "buff_amount": -3000
+  },
+  "log-229": {
+    "player": "rintosh1",
+    "action": "Silvers Rayleigh: Grant Donquixote Rosinante -2000 until next turn end",
+    "source_card": "OP08-118",
+    "target_card": "OP05-030",
+    "buff_amount": -2000
+  },
+  "log-230": {
+    "player": "rintosh1",
+    "action": "Silvers Rayleigh: Destroy Donquixote Rosinante",
+    "source_card": "OP08-118",
+    "target_card": "OP05-030"
+  },
+  "log-231": {
+    "player": "rintosh1",
+    "action": "Attach 1 Don to Marco",
+    "card": "OP03-013",
+    "total": 1
+  },
+  "log-232": {
+    "player": "rintosh1",
+    "action": "Attach 1 Don to Shanks",
+    "card": "OP09-001",
+    "total": 1
+  },
+  "log-233": {
+    "player": "rintosh1",
+    "action": "Shanks attacking Jewelry Bonney",
+    "source_card": "OP09-001",
+    "target_card": "OP07-019"
+  },
+  "log-234": {
+    "player": "RetroGamingTcg",
+    "action": "Jewelry Bonney: Rest Silvers Rayleigh",
+    "source_card": "OP07-019",
+    "target_card": "OP08-118"
+  },
+  "log-235": {
+    "player": "RetroGamingTcg",
+    "action": "Pedro Blocks",
+    "card": "OP08-030"
+  },
+  "log-236": {
+    "player": "System",
+    "action": "Battle",
+    "attacker": "OP09-001",
+    "attacker_power": 6000,
+    "defender": "OP08-030",
+    "defender_power": 2000
+  },
+  "log-237": {
+    "player": "System",
+    "action": "Destroyed",
+    "target_card": "OP08-030"
+  },
+  "log-238": {
+    "player": "rintosh1",
+    "action": "Monkey D. Luffy attacking Jewelry Bonney",
+    "source_card": "ST21-014",
+    "target_card": "OP07-019"
+  },
+  "log-239": {
+    "player": "rintosh1",
+    "action": "Monkey D. Luffy: Attach 1 Rested Don to Marco",
+    "source_card": "ST21-014",
+    "target_card": "OP03-013"
+  },
+  "log-240": {
+    "player": "RetroGamingTcg",
+    "action": "Discard Tashigi for Counter 2000",
+    "card": "OP10-032",
+    "counter_amount": 2000
+  },
+  "log-241": {
+    "player": "System",
+    "action": "Attack Fails",
+    "attacker": "ST21-014",
+    "attacker_power": 6000,
+    "defender": "OP07-019",
+    "defender_power": 7000
+  },
+  "log-242": {
+    "player": "rintosh1",
+    "action": "Marco attacking Jewelry Bonney",
+    "source_card": "OP03-013",
+    "target_card": "OP07-019"
+  },
+  "log-243": {
+    "player": "System",
+    "action": "Battle",
+    "attacker": "OP03-013",
+    "attacker_power": 8000,
+    "defender": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-244": {
+    "player": "System",
+    "action": "Damage",
+    "target_card": "OP07-019",
+    "damage_amount": 1
+  },
+  "log-245": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-004",
+      "OP10-005",
+      "OP07-015",
+      "OP09-011",
+      "OP09-015"
+    ]
+  },
+  "log-246": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP03-013",
+      "ST21-014",
+      "OP09-015",
+      "OP08-118"
+    ]
+  },
+  "log-247": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": [
+      "OP09-014",
+      "OP01-006",
+      "OP09-009"
+    ]
+  },
+  "log-248": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-249": {
+    "player": "RetroGamingTcg",
+    "action": "Hand state",
+    "cards": [
+      "OP04-031",
+      "EB01-012",
+      "OP04-031",
+      "OP06-035"
+    ]
+  },
+  "log-250": {
+    "player": "RetroGamingTcg",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030",
+      "ST02-008",
+      "EB01-012",
+      "OP08-023",
+      "OP08-023",
+      "ST02-007",
+      "OP08-023",
+      "OP05-030",
+      "OP08-030",
+      "OP10-032"
+    ]
+  },
+  "log-251": {
+    "player": "RetroGamingTcg",
+    "action": "Board state",
+    "cards": [
+      "ST16-004"
+    ]
+  },
+  "log-252": {
+    "player": "RetroGamingTcg",
+    "action": "Life state",
+    "life": 0
+  },
+  "log-253": {
+    "player": "rintosh1",
+    "action": "End Turn"
+  },
+  "log-254": {
+    "player": "RetroGamingTcg",
+    "action": "Draw 1 Card"
+  },
+  "log-255": {
+    "player": "RetroGamingTcg",
+    "action": "Drew card from deck",
+    "card": "ST02-008"
+  },
+  "log-256": {
+    "player": "RetroGamingTcg",
+    "action": "Deploy Hody Jones",
+    "card": "OP06-035"
+  },
+  "log-257": {
+    "player": "RetroGamingTcg",
+    "action": "Hody Jones: Rest Lucky Roux",
+    "source_card": "OP06-035",
+    "target_card": "OP09-015"
+  },
+  "log-258": {
+    "player": "RetroGamingTcg",
+    "action": "Attach 1 Don to Hody Jones",
+    "card": "OP06-035",
+    "total": 1
+  },
+  "log-259": {
+    "player": "RetroGamingTcg",
+    "action": "Hody Jones attacking Silvers Rayleigh",
+    "source_card": "OP06-035",
+    "target_card": "OP08-118"
+  },
+  "log-260": {
+    "player": "rintosh1",
+    "action": "Shanks: Buff Hody Jones -1000",
+    "source_card": "OP09-001",
+    "target_card": "OP06-035",
+    "buff_amount": -1000
+  },
+  "log-261": {
+    "player": "rintosh1",
+    "action": "Discard Sanji for Counter 1000",
+    "card": "OP10-005",
+    "counter_amount": 1000
+  },
+  "log-262": {
+    "player": "System",
+    "action": "Attack Fails",
+    "attacker": "OP06-035",
+    "attacker_power": 8000,
+    "defender": "OP08-118",
+    "defender_power": 9000
+  },
+  "log-263": {
+    "player": "RetroGamingTcg",
+    "action": "Shanks attacking Silvers Rayleigh",
+    "source_card": "ST16-004",
+    "target_card": "OP08-118"
+  },
+  "log-264": {
+    "player": "System",
+    "action": "Battle",
+    "attacker": "ST16-004",
+    "attacker_power": 11000,
+    "defender": "OP08-118",
+    "defender_power": 8000
+  },
+  "log-265": {
+    "player": "System",
+    "action": "Destroyed",
+    "target_card": "OP08-118"
+  },
+  "log-266": {
+    "player": "RetroGamingTcg",
+    "action": "Attach 1 Don to Jewelry Bonney",
+    "card": "OP07-019",
+    "total": 1
+  },
+  "log-267": {
+    "player": "RetroGamingTcg",
+    "action": "Jewelry Bonney attacking Shanks",
+    "source_card": "OP07-019",
+    "target_card": "OP09-001"
+  },
+  "log-268": {
+    "player": "rintosh1",
+    "action": "Discard Hongo for Counter 2000",
+    "card": "OP09-011",
+    "counter_amount": 2000
+  },
+  "log-269": {
+    "player": "System",
+    "action": "Attack Fails",
+    "attacker": "OP07-019",
+    "attacker_power": 6000,
+    "defender": "OP09-001",
+    "defender_power": 7000
+  },
+  "log-270": {
+    "player": "RetroGamingTcg",
+    "action": "End Turn"
+  },
+  "log-271": {
+    "player": "rintosh1",
+    "action": "Hand state",
+    "cards": [
+      "OP09-004",
+      "OP07-015",
+      "OP09-015"
+    ]
+  },
+  "log-272": {
+    "player": "rintosh1",
+    "action": "Board state",
+    "cards": [
+      "OP03-013",
+      "ST21-014",
+      "OP09-015"
+    ]
+  },
+  "log-273": {
+    "player": "rintosh1",
+    "action": "Trash state",
+    "cards": [
+      "OP09-014",
+      "OP01-006",
+      "OP09-009",
+      "OP10-005",
+      "OP08-118",
+      "OP09-011"
+    ]
+  },
+  "log-274": {
+    "player": "rintosh1",
+    "action": "Life state",
+    "life": 4
+  },
+  "log-275": {
+    "player": "RetroGamingTcg",
+    "action": "Hand state",
+    "cards": [
+      "OP04-031",
+      "EB01-012",
+      "OP04-031",
+      "ST02-008"
+    ]
+  },
+  "log-276": {
+    "player": "RetroGamingTcg",
+    "action": "Trash state",
+    "cards": [
+      "OP05-030",
+      "ST02-008",
+      "EB01-012",
+      "OP08-023",
+      "OP08-023",
+      "ST02-007",
+      "OP08-023",
+      "OP05-030",
+      "OP08-030",
+      "OP10-032"
+    ]
+  },
+  "log-277": {
+    "player": "RetroGamingTcg",
+    "action": "Board state",
+    "cards": [
+      "ST16-004",
+      "OP06-035"
+    ]
+  },
+  "log-278": {
+    "player": "RetroGamingTcg",
+    "action": "Life state",
+    "life": 0
+  },
+  "log-279": {
+    "player": "rintosh1",
+    "action": "Drew card from deck",
+    "card": "OP03-013"
+  },
+  "log-280": {
+    "player": "rintosh1",
+    "action": "Draw 1 Card"
+  },
+  "log-281": {
+    "player": "rintosh1",
+    "action": "Deploy Shanks",
+    "card": "OP09-004"
+  },
+  "log-282": {
+    "player": "rintosh1",
+    "action": "Shanks attacking Jewelry Bonney",
+    "source_card": "OP09-004",
+    "target_card": "OP07-019"
+  },
+  "log-283": {
+    "player": "RetroGamingTcg",
+    "action": "Jewelry Bonney: Rest Marco",
+    "source_card": "OP07-019",
+    "target_card": "OP03-013"
+  },
+  "log-284": {
+    "player": "System",
+    "action": "Battle",
+    "attacker": "OP09-004",
+    "attacker_power": 12000,
+    "defender": "OP07-019",
+    "defender_power": 5000
+  },
+  "log-285": {
+    "player": "System",
+    "action": "Damage",
+    "target_card": "OP07-019",
+    "damage_amount": 1
+  },
+  "log-286": {
+    "player": "RetroGamingTcg",
+    "action": "Loses"
+  },
+  "log-287": {
+    "player": "rintosh1",
+    "action": "Wins!"
+  },
+  "log-288": {
+    "player": "RetroGamingTcg",
+    "action": "Player quits"
+  },
+  "log-289": {
+    "player": "System",
+    "action": "Opponent Has Disconnected!"
+  }
+}
