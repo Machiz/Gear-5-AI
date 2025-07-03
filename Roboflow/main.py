@@ -1,7 +1,46 @@
 from inference_sdk import InferenceHTTPClient, InferenceConfiguration
-
+import pprint
 MY_KEY = "tx7I4BVTJr13AyXuOGfU"
 img_path = "./Roboflow/img_1249.jpg"
+
+def add_character(prd, agent):
+    isRested = prd["height"] < 120
+
+    agent["characters"].append({
+        "class":prd["class"],
+        "position": pos_in_table(prd),
+        "x": prd["x"],
+        "y": prd["y"],
+        "confidence":prd["confidence"],
+        "isRested":isRested,
+        "attached_don":0
+    })
+
+def pos_in_table(prd):
+    pos = 0
+    startX = 780
+    pos = round((prd["x"] - startX)/CARD_WIDTH) + 1
+
+    return pos
+
+def format_main_cards(prd, agent):
+    if(prd["y"] > 740 and prd["y"] < 780): # LEADER
+        if(prd["x"] > 960 and prd["x"] < 1040):
+            agent["leader"].append(prd)
+
+    elif(prd["x"] < 600 and prd["y"] < 900): # HAND
+        agent["hand"].append(prd)
+
+    elif(prd["y"] > 600 and prd["y"] < 640): # CHARACTER
+        if(prd["x"] > 760 and prd["x"] < 1400):
+            add_character(prd, agent)
+            
+    elif(prd["x"] > 1200 and prd["y"] > 900): # TRASH
+        agent["trash"].append(prd)
+
+
+CARD_WIDTH = 95 #aprox
+RESTED_cARD_WIDTH = 125 #aprox
 
 CLIENT = InferenceHTTPClient(
     api_url="https://detect.roboflow.com",
@@ -23,6 +62,7 @@ result = {'inference_id': '263f6070-cdf2-4b1e-a0bb-db36f4108bb5', 'time': 0.5239
 player = {
     "leader": [],
     "hand": [],
+    "characters":[],
     "don" : 0,
     "rested_don": 0,
     "attached_don": [],
@@ -32,24 +72,21 @@ player = {
 enemy = {
     "leader": [],
     "hand": [],
+    "characters":[],
     "don" : 0,
     "rested_don": 0,
     "attached_don": [],
     "trash" : [],
     "life": 0 
 }
+
+
+
 for prd in result["predictions"]:
     if (prd["y"] > 600): # Si su "y" es mayor a 600, es una carta del jugador.
-        if(prd["y"] > 740 and prd["y"] < 780): # LEADER
-            if(prd["x"] > 960 and prd["x"] < 1040):
-                player["leader"].append(prd)
-                continue
-        if(prd["x"] < 600 and prd["y"] < 900): # HAND
-            player["hand"].append(prd)
-            continue
-        if(prd["x"] > 1200 and prd["y"] > 900): # TRASH
-            player["trash"].append(prd)
-            continue
+        
+        format_main_cards(prd, player)
+
         if(prd["class"] == "don"): # RESTED DON Y DON
             if(prd["height"] > 110): # Se determina si no es rested por su altura.
                 don_count = round(((prd["width"] - 95.7) / 28) + 1)
@@ -57,50 +94,78 @@ for prd in result["predictions"]:
             else:
                 don_count = round(((prd["width"] - 50) / 28) + 1)
                 player["rested_don"] = don_count
-        if(prd["class"] == "attached_don"):
-            player["attached_don"].append(prd)
-        if(prd["class"] == "life"):
+
+        elif(prd["class"] == "attached_don"):
+            don_count = round(((prd["height"] - 44) / 11) + 1)
+            player["attached_don"].append({
+                "x":prd["x"],
+                "y":prd["y"],
+                "witdh":prd["width"],
+                "height":prd["height"],
+                "position": pos_in_table(prd),
+                "count":don_count
+                })
+            continue
+
+        elif(prd["class"] == "life"):
             life_count = round(((prd["height"] - 131) / 26) + 1)
             player["life"] = life_count
-    else:
-        if(prd["y"] > 290 and prd["y"] < 360): # LEADER
-            if(prd["x"] > 900 and prd["x"] < 940):
-                enemy["leader"].append(prd)
-                continue
 
-        if(prd["x"] < 300 and prd["y"] < 170): # TRASH
-            enemy["trash"].append(prd)
-            continue
+    else: # MAZO DEL ENEMIGO
+        format_main_cards(prd, enemy)
+
         if(prd["class"] == "don"): # RESTED DON Y DON
             if(prd["height"] > 110): # Se determina si no es rested por su altura.
                 don_count = round(((prd["width"] - 95.7) / 28) + 1)
                 enemy["don"] = don_count
+                continue
             else:
                 don_count = round(((prd["width"] - 50) / 28) + 1)
                 enemy["rested_don"] = don_count
+                continue
+
         if(prd["class"] == "attached_don"): # ATTACHED DON
-            enemy["attached_don"].append(prd)
+            don_count = round(((prd["height"] - 44) / 11) + 1)
+            enemy["attached_don"].append({
+                "x":prd["x"],
+                "y":prd["y"],
+                "witdh":prd["width"],
+                "height":prd["height"],
+                "position": pos_in_table(prd),
+                "count":don_count
+                })
+            continue
+
         if(prd["class"] == "life"): # LIFE
             life_count = round(((prd["height"] - 131) / 26) + 1)
             enemy["life"] = life_count
+            continue
 
+# Se asigna a cada carta su cantidad de attached don, en caso tenga.
+# Se evalua la posición actual del don y del character para revisar si le pertenece el attached don
+# Este chequeo se hace despues de leer todas las predicciones para esperar a leer todos los attached don.
+for dones in enemy["attached_don"]:
+    for character in enemy["characters"]:
+        if(character["position"] == dones["position"]):
+            character["attached_don"] = dones["count"]
+            continue
+for dones in player["attached_don"]:
+    for character in player["characters"]:
+        if(character["position"] == dones["position"]):
+            character["attached_don"] = dones["count"]
+            continue
+
+    
 print(result)
 
-print("JUGADOR---")
-print("Lider: (",len(player['leader']) ,") ", player["leader"])
-print("Hand: (",len(player['hand']) ,") ",player["hand"])
-print("Don:",player["don"])
-print("Rested Don:",player["rested_don"])
-print("Attached Don: (",len(player['attached_don']) ,") ",player["attached_don"])
-print("Trash: (",len(player['trash']) ,") ",player["trash"])
-print("Life:", player["life"])
+print("\n")
+print("\n")
+print("---🔵 JUGADOR---")
+pprint.pprint(player)
 
 print("\n")
-print("RIVAL---")
-print("Lider: ", enemy["leader"])
-print("Hand: ", enemy["hand"])
-print("Don: ", enemy["don"])
-print("Rested Don: ", enemy["rested_don"])
-print("Attached Don: ", enemy["attached_don"])
-print("Trash: ", enemy["trash"])
-print("Life:", enemy["life"])
+print("---🔴 ENEMIGO---")
+pprint.pprint(enemy)
+
+
+    
