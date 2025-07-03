@@ -1,5 +1,4 @@
 from inference_sdk import InferenceHTTPClient, InferenceConfiguration
-import json
 
 MY_KEY = "tx7I4BVTJr13AyXuOGfU"
 img_path = "./Roboflow/img_1249.jpg"
@@ -42,7 +41,7 @@ enemy = {
 for prd in result["predictions"]:
     if (prd["y"] > 600): # Si su "y" es mayor a 600, es una carta del jugador.
         if(prd["y"] > 740 and prd["y"] < 780): # LEADER
-            if(prd["x"] > 1000):
+            if(prd["x"] > 960 and prd["x"] < 1040):
                 player["leader"].append(prd)
                 continue
         if(prd["x"] < 600 and prd["y"] < 900): # HAND
@@ -64,14 +63,12 @@ for prd in result["predictions"]:
             life_count = round(((prd["height"] - 131) / 26) + 1)
             player["life"] = life_count
     else:
-        if(prd["y"] > 740 and prd["y"] < 780): # LEADER
-            if(prd["x"] > 1000):
+        if(prd["y"] > 290 and prd["y"] < 360): # LEADER
+            if(prd["x"] > 900 and prd["x"] < 940):
                 enemy["leader"].append(prd)
                 continue
-        if(prd["x"] < 600 and prd["y"] < 900): # HAND
-            enemy["hand"].append(prd)
-            continue
-        if(prd["x"] > 900 and prd["y"] < 170): # TRASH
+
+        if(prd["x"] < 300 and prd["y"] < 170): # TRASH
             enemy["trash"].append(prd)
             continue
         if(prd["class"] == "don"): # RESTED DON Y DON
@@ -96,7 +93,7 @@ print("Don:",player["don"])
 print("Rested Don:",player["rested_don"])
 print("Attached Don: (",len(player['attached_don']) ,") ",player["attached_don"])
 print("Trash: (",len(player['trash']) ,") ",player["trash"])
-print("Life:",player["life"])
+print("Life:", player["life"])
 
 print("\n")
 print("RIVAL---")
@@ -106,3 +103,4 @@ print("Don: ", enemy["don"])
 print("Rested Don: ", enemy["rested_don"])
 print("Attached Don: ", enemy["attached_don"])
 print("Trash: ", enemy["trash"])
+print("Life:", enemy["life"])
