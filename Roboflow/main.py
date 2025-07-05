@@ -308,7 +308,7 @@ def encode_state(player, enemy):
     encoded.append(player["life"] / 5)
     encoded.append(enemy["life"] / 5)
 
-    # return torch.tensor([encoded], dtype=torch.float32)
-    return encoded
+    return T.tensor([encoded], dtype=T.float32)
+
 
 print(encode_state(player, enemy))
