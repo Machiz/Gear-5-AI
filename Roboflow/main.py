@@ -1,3 +1,7 @@
+import torch as T
+import torch.nn as nn
+import torch.nn.functional as F
+import torch.optim as optim
 from inference_sdk import InferenceHTTPClient, InferenceConfiguration
 import pprint
 MY_KEY = "tx7I4BVTJr13AyXuOGfU"
@@ -23,7 +27,7 @@ def pos_in_table(prd):
 
     return pos
 
-def format_main_cards(prd, agent):
+def format_main_cards_player(prd, agent):
     if(prd["y"] > 740 and prd["y"] < 780): # LEADER
         if(prd["x"] > 960 and prd["x"] < 1040):
             agent["leader"].append(prd)
@@ -38,6 +42,19 @@ def format_main_cards(prd, agent):
     elif(prd["x"] > 1200 and prd["y"] > 900): # TRASH
         agent["trash"].append(prd)
 
+
+def format_main_cards_enemy(prd, agent):
+    if(prd["y"] > 290 and prd["y"] < 360): # LEADER
+        if(prd["x"] > 900 and prd["x"] < 940):
+            agent["leader"].append(prd)
+
+    elif(prd["x"] < 300 and prd["y"] < 170): # TRASH
+        agent["trash"].append(prd)
+
+    elif(prd["y"] > 430 and prd["y"] < 470): # CHARACTER
+        if(prd["x"] > 680 and prd["x"] < 1200):
+            add_character(prd, agent)
+    
 
 CARD_WIDTH = 95 #aprox
 RESTED_cARD_WIDTH = 125 #aprox
@@ -85,7 +102,7 @@ enemy = {
 for prd in result["predictions"]:
     if (prd["y"] > 600): # Si su "y" es mayor a 600, es una carta del jugador.
         
-        format_main_cards(prd, player)
+        format_main_cards_player(prd, player)
 
         if(prd["class"] == "don"): # RESTED DON Y DON
             if(prd["height"] > 110): # Se determina si no es rested por su altura.
@@ -112,7 +129,7 @@ for prd in result["predictions"]:
             player["life"] = life_count
 
     else: # MAZO DEL ENEMIGO
-        format_main_cards(prd, enemy)
+        format_main_cards_enemy(prd, enemy)
 
         if(prd["class"] == "don"): # RESTED DON Y DON
             if(prd["height"] > 110): # Se determina si no es rested por su altura.
@@ -155,8 +172,6 @@ for dones in player["attached_don"]:
             character["attached_don"] = dones["count"]
             continue
 
-    
-print(result)
 
 print("\n")
 print("\n")
