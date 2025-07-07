@@ -25,13 +25,14 @@ class DeepQNetwork(nn.Module):
         return actions
 
 class Agent():
-    def __init__(self, gamma, epsilon, lr, input_dims, batch_size, n_actions, max_mem_size = 100000, eps_end = 0.01, eps_dec = 5e-4):
+    def __init__(self, gamma, epsilon, lr, input_dims, batch_size, n_actions,  max_mem_size = 100000, eps_end = 0.01, eps_dec = 5e-4):
         self.gamma = gamma
         self.epsilon = epsilon
         self.lr = lr
         self.eps_min = eps_end
         self.action_space = [i for i in range(n_actions)]
         #self.input_dims = input_dims
+        #self.fname = fname
         self.mem_size = max_mem_size
         self.batch_size = batch_size
         self.mem_cntr = 0
@@ -90,10 +91,4 @@ class Agent():
         self.Q_eval.optimizer.step()
 
         self.epsilon = self.epsilon - self.eps_dec if self.epsilon > self.eps_min else self.eps_min
-
-    
-
-
-
-        
 
