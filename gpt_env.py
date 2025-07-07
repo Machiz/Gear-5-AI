@@ -73,7 +73,7 @@ class OnePieceTCGEnv(gym.Env):
         self.state.setdefault("mano", [])
         self.state.setdefault("board", [])
         self.state.setdefault("trash", [])
-        self.state.setdefault("vida", 5)
+        #self.state.setdefault("vida", 5)
 
         print("⚠️ Estado incompleto, se usarán valores por defecto donde falte.")
         self.current_obs = self._extraer_observacion()
@@ -99,18 +99,27 @@ class OnePieceTCGEnv(gym.Env):
 
             # Recompensas
             if accion_log == "Played card":
-                reward += 2 if 1 <= action <= self.max_mano else -1
+                if 1 <= action <= self.max_mano:
+                    reward += 3 
+                else:
+                    reward -= 3
             elif accion_log == "Attacking" or accion_log == "attacking":
-                reward += 3 if action >= self.max_mano + 1 else -2
+                if action >= self.max_mano + 1:
+                    reward += 5
+                else:
+                    reward-=5
             elif accion_log == "End turn":
-                reward += 1 if action == 0 else -1
+                if action == 0:
+                    reward += 1 
+                else:
+                    reward -= 1
             if vida_actual < prev_obs["vida"]:
-                reward -= 3
+                reward -= 6
             
             if accion_log in ["Wins!", "Loses"]:
                 done = True
                 if accion_log == "Wins!":
-                    reward += 5  # 🏆 Recompensa por ganar
+                    reward += 10  # 🏆 Recompensa por ganar
                     info["reason"] = "win"
                 else:
                     reward =0  # ❌ Castigo por perder

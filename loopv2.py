@@ -1,4 +1,5 @@
 import gym
+import torch as T
 from dqnv2 import Agent
 import matplotlib.pyplot as plt
 import env_registry
@@ -40,7 +41,7 @@ env = gym.make("OnePieceTCG-v0")
 lr = 0.0005
 agent = Agent(gamma = 0.99, epsilon = 1.0, lr = lr, input_dims = [97], n_actions = env.action_space.n, eps_end=0.01, batch_size = 64)
 scores, eps_history = [], []
-n_games = 2000
+n_games = 15000
 env.reset()
 for i in range(n_games):
     score = 0
@@ -62,7 +63,11 @@ for i in range(n_games):
 
     avg_score = np.mean(scores[-100:])
     print('episode', i ,'score %.2f' %score, 'average score%.2f'%avg_score, 'epsilon %.2f' % agent.epsilon )
+#model = Agent()
+#T.save(model, "tcg_dqn.pt")
 x = [i+1 for i in range(n_games)]
 filename = 'tcg_Test.png'
 filename1= 'tcg_test1.png'
 plot_learning_curve(x, scores, eps_history, filename)   
+T.save(agent.Q_eval.state_dict(), "final_model.pth")
+print("✅ Modelo guardado como 'final_model.pth'")
