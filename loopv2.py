@@ -39,9 +39,19 @@ def plot_learning_curve(x, scores, eps_history, filename):
 
 env = gym.make("OnePieceTCG-v0")
 lr = 0.0005
-agent = Agent(gamma = 0.99, epsilon = 1.0, lr = lr, input_dims = [97], n_actions = env.action_space.n, eps_end=0.01, batch_size = 64)
+agent = Agent(
+    gamma=0.9589,
+    epsilon=1.0,
+    lr=0.000908,
+    input_dims=[97],
+    n_actions=env.action_space.n,
+    eps_end=0.01,
+    batch_size=64,
+    eps_dec=0.0008655
+)
+
 scores, eps_history = [], []
-n_games = 15000
+n_games = 1000
 env.reset()
 for i in range(n_games):
     score = 0
