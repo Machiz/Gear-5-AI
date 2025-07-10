@@ -3,8 +3,6 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
 import numpy as np
-import optuna
-import env_registry  # si tu env lo necesita
 
 class DeepQNetwork(nn.Module):
     def __init__(self, lr, input_dims, fc1_dims, fc2_dims, n_actions):
@@ -93,4 +91,21 @@ class Agent():
         self.Q_eval.optimizer.step()
 
         self.epsilon = self.epsilon - self.eps_dec if self.epsilon > self.eps_min else self.eps_min
+    def save_model(self, filename="final_model.pth"):
+        """
+        Guarda el estado de la red Q_eval.
+        """
+        # Asegúrate de que el nombre del archivo incluya la ruta si es necesario
+        checkpoint_file = filename
+        T.save(self.Q_eval.state_dict(), checkpoint_file)
+        print(f"DQN model saved to {checkpoint_file}")
 
+    def load_models(self, filename="dqn_model.pth"):
+        """
+        Carga el estado en la red Q_eval.
+        La arquitectura del modelo debe estar definida antes de cargar.
+        """
+        checkpoint_file = filename
+        self.Q_eval.load_state_dict(T.load(checkpoint_file))
+        # self.Q_eval.eval() # Opcional: poner en modo de evaluación si solo vas a inferir
+        print(f"DQN model loaded from {checkpoint_file}")

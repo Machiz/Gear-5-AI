@@ -39,19 +39,9 @@ def plot_learning_curve(x, scores, eps_history, filename):
 
 env = gym.make("OnePieceTCG-v0")
 lr = 0.0005
-agent = Agent(
-    gamma=0.9589,
-    epsilon=1.0,
-    lr=0.000908,
-    input_dims=[97],
-    n_actions=env.action_space.n,
-    eps_end=0.01,
-    batch_size=64,
-    eps_dec=0.0008655
-)
-
+agent = Agent(gamma = 0.99, epsilon = 1.0, lr = lr, input_dims = [97], n_actions = env.action_space.n, eps_end=0.01, batch_size = 64)
 scores, eps_history = [], []
-n_games = 1000
+n_games = 10000
 env.reset()
 for i in range(n_games):
     score = 0
@@ -79,5 +69,5 @@ x = [i+1 for i in range(n_games)]
 filename = 'tcg_Test.png'
 filename1= 'tcg_test1.png'
 plot_learning_curve(x, scores, eps_history, filename)   
-T.save(agent.Q_eval.state_dict(), "final_model.pth")
+agent.save_model("final_dqn_model.pth")
 print("✅ Modelo guardado como 'final_model.pth'")
