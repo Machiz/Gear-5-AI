@@ -2,7 +2,6 @@ import numpy as np
 import win32gui
 import os
 from PIL import Image
-from time import sleep
 import mss
 
 class WindowCapture:
@@ -11,16 +10,23 @@ class WindowCapture:
         if not self.hwnd:
             return
             
-        self.update_window_rect()
+        # self.update_window_rect()
 
     def update_window_rect(self):
-        window_rect = win32gui.GetWindowRect(self.hwnd)
-        self.left = window_rect[0]
-        self.top = window_rect[1]
-        self.right = window_rect[2]
-        self.bottom = window_rect[3]
+
+        # (-9, -9, 1929, 1039)
+        self.left = -9
+        self.top = -9
+        self.right = 1929
+        self.bottom = 1039
         self.w = self.right - self.left
         self.h = self.bottom - self.top
+        # self.left = window_rect[0]
+        # self.top = window_rect[1]
+        # self.right = window_rect[2]
+        # self.bottom = window_rect[3]
+        # self.w = self.right - self.left
+        # self.h = self.bottom - self.top
 
     def get_screenshot(self):
         self.update_window_rect()

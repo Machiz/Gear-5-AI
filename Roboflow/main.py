@@ -8,6 +8,7 @@ from tkinter import Button
 def add_card(prd, agent, type):
     isRested = prd["height"] < 120
 
+    if(type == "leader" and len(agent["leader"]) == 1): return # no agregues 2 lideres
     agent[type].append({
         "class":prd["class"],
         "position": pos_in_table(prd),
@@ -268,7 +269,7 @@ root = tk.Tk()
 root.minsize(300,300)
 root.maxsize(300,300)
 root.title("Gear 5 Main")
-root.wm_attributes("-topmost", True)
+
 root.geometry("300x300+1200+480") 
 root.resizable(False, False)
 
