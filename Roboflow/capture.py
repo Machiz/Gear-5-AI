@@ -9,7 +9,8 @@ class WindowCapture:
     def __init__(self, window_name):
         self.hwnd = win32gui.FindWindow(None, window_name)
         if not self.hwnd:
-            raise Exception('Window not found: {}'.format(window_name))
+            return
+            
         self.update_window_rect()
 
     def update_window_rect(self):
@@ -54,4 +55,6 @@ class WindowCapture:
 def Capturar():
     # No necesitas especificar el monitor, captura por ventana directamente
     wincap = WindowCapture(window_name="OPTCGSim")
+    if(wincap.hwnd == 0): return ""
+    
     return wincap.generate_image_dataset()
