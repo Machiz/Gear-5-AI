@@ -134,6 +134,16 @@ def pos_in_table(prd: Dict) -> int:
     startX = 780
     return round((prd["x"] - startX) / CARD_WIDTH) + 1
 
+def pos_in_table_hand(card, min_x, player):
+    CARD_WIDTH = 95 #aprox
+    dif = 1 if (len(player["hand"])) < 4 else (len(player["hand"]) - 3)
+    CARD_WIDTH -= 10 * dif
+    # RESTED_cARD_WIDTH = 125 #aprox
+    startX = min_x - 10
+    pos = round((card["x"] - startX)/CARD_WIDTH) + 1
+    print(startX, (card["x"] - startX)/CARD_WIDTH + 1)
+    return pos
+
 def format_main_cards_player(prd: Dict, player_data: Dict):
     if 740 < prd["y"] < 780 and 960 < prd["x"] < 1040:
         add_card(prd, player_data, "leader")
@@ -215,6 +225,7 @@ def run_ai_inference(current_image_path):
 
     for dones in enemy.get("attached_don", []):
         if dones["position"] == -1 and enemy.get("leader"):
+            if(len(enemy["leader"]) == 0): continue
             enemy["leader"][0]["attached_don"] = dones["count"]
         else:
             for character in enemy.get("characters", []):
@@ -223,11 +234,20 @@ def run_ai_inference(current_image_path):
 
     for dones in player.get("attached_don", []):
         if dones["position"] == -1 and player.get("leader"):
+            if(len(player["leader"]) == 0): continue
             player["leader"][0]["attached_don"] = dones["count"]
         else:
             for character in player.get("characters", []):
                 if character.get("position") == dones["position"]:
                     character["attached_don"] = dones["count"]
+    min_x = 10000
+    for i in range(len(player["hand"])): 
+        if(player["hand"][i]["x"] < min_x):
+            min_x = player["hand"][i]["x"]
+    
+    for card in player["hand"]:
+        
+        card["position"] = pos_in_table_hand(card, min_x, player)
 
     print("\n--- Current Player State ---")
     pprint.pprint(player)
@@ -249,7 +269,9 @@ def run_ai_inference(current_image_path):
     ]
 
     accion_elegida = acciones_disponibles[accion_index] if accion_index < len(acciones_disponibles) else {"tipo": "ERROR: Acción desconocida", "descripcion": "El índice de acción está fuera de los límites de las acciones disponibles."}
-
+    print("out", acciones_disponibles)
+    print(accion_index)
+    print(len(acciones_disponibles))
     output_text.delete("1.0", tk.END)
     output_text.insert("1.0", pprint.pformat(accion_elegida))
 

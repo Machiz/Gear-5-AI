@@ -19,6 +19,17 @@ def add_card(prd, agent, type):
         "attached_don":0
     })
 
+
+def pos_in_table_hand(card, min_x, player):
+    CARD_WIDTH = 95 #aprox
+    dif = 1 if (len(player["hand"])) < 4 else (len(player["hand"]) - 3)
+    CARD_WIDTH -= 10 * dif
+    # RESTED_cARD_WIDTH = 125 #aprox
+    startX = min_x - 10
+    pos = round((card["x"] - startX)/CARD_WIDTH) + 1
+    print(startX, (card["x"] - startX)/CARD_WIDTH + 1)
+    return pos
+
 def pos_in_table(prd):
     CARD_WIDTH = 95 #aprox
     # RESTED_cARD_WIDTH = 125 #aprox
@@ -156,6 +167,7 @@ def prediccion_roboflow(img_path):
     return result
     
 def formatear_prediccion(result):
+    
     for prd in result["predictions"]:
         if (prd["y"] > 600): # Si su "y" es mayor a 600, es una carta del jugador.
             
@@ -216,21 +228,33 @@ def formatear_prediccion(result):
                 continue
     for dones in enemy["attached_don"]:
         if(dones["position"] == -1):
+            if(len(enemy["leader"]) == 0): continue
             enemy["leader"][0]["attached_don"] = dones["count"]
             continue
         for character in enemy["characters"]:
             if(character["position"] == dones["position"]):
                 character["attached_don"] = dones["count"]
                 continue
-        
+    
     for dones in player["attached_don"]:
         if(dones["position"] == -1):
+            if(len(enemy["leader"]) == 0): continue
             player["leader"][0]["attached_don"] = dones["count"]
             continue
         for character in player["characters"]:
             if(character["position"] == dones["position"]):
                 character["attached_don"] = dones["count"]
                 continue
+    
+    min_x = 10000
+    for i in range(len(player["hand"])): 
+        if(player["hand"][i]["x"] < min_x):
+            min_x = player["hand"][i]["x"]
+    
+    for card in player["hand"]:
+        
+        card["position"] = pos_in_table_hand(card, min_x, player)
+
 
 
 ## RESULTADO PRECOMPILADO DE LA IMAGEN 1486
@@ -240,6 +264,10 @@ def formatear_prediccion(result):
 ## RESULTADO PRECOMPILADO DE LA IMAGEN 1753
 # result = {'inference_id': 'e243b78f-7278-41c5-95ec-c56fb45733df', 'time': 0.7144953329998316, 'image': {'width': 1938, 'height': 1048}, 'predictions': [{'x': 1232.1525268554688, 'y': 912.1881408691406, 'width': 93.2762451171875, 'height': 130.63482666015625, 'confidence': 0.9753414988517761, 'class': 'OP01-077', 'class_id': 4, 'detection_id': '4c594424-508a-4da2-9779-889e9809124f'}, {'x': 820.7540283203125, 'y': 455.8093719482422, 'width': 91.5162353515625, 'height': 129.55508422851562, 'confidence': 0.9678700566291809, 'class': 'OP06-007', 'class_id': 9, 'detection_id': '19f3ac70-beda-4a56-a651-2c742138009e'}, {'x': 784.5562133789062, 'y': 621.7583312988281, 'width': 
 # 94.104736328125, 'height': 128.37371826171875, 'confidence': 0.9631971120834351, 'class': 'EB01-023', 'class_id': 0, 'detection_id': '60f8744d-1963-4c4f-bbe7-b302ef226474'}, {'x': 1047.8402709960938, 'y': 454.4803924560547, 'width': 109.4320068359375, 'height': 92.22317504882812, 'confidence': 0.9590116143226624, 'class': 'OP09-009', 'class_id': 22, 'detection_id': '5927a37f-bb49-4849-b4a5-e3ad64e94374'}, {'x': 665.3798217773438, 'y': 725.5673522949219, 'width': 93.138671875, 'height': 199.49896240234375, 'confidence': 0.9585884809494019, 'class': 'life', 'class_id': 58, 'detection_id': '5f3cdfd6-aeb9-48ad-9122-b7fffa906cb1'}, {'x': 158.05708694458008, 'y': 937.0823974609375, 'width': 90.52776336669922, 'height': 127.6749267578125, 'confidence': 0.9578992128372192, 'class': 'OP07-040', 'class_id': 13, 'detection_id': 'c53ba784-5c80-42be-8cd4-20db215d9deb'}, {'x': 924.1362609863281, 'y': 306.2118225097656, 'width': 126.03302001953125, 'height': 92.63916015625, 'confidence': 0.9572929739952087, 'class': 'OP09-001', 'class_id': 18, 'detection_id': '126e8a4f-1059-4b5f-a7c1-985a30000e17'}, {'x': 1272.8953247070312, 'y': 329.24095153808594, 'width': 91.7303466796875, 'height': 153.42837524414062, 'confidence': 0.9571518301963806, 'class': 'life', 'class_id': 58, 'detection_id': '0b9e628f-1f38-4d8c-b11d-62d7174b6ca2'}, {'x': 931.7891235351562, 'y': 455.1832275390625, 'width': 126.6734619140625, 'height': 94.38433837890625, 'confidence': 0.9554445147514343, 'class': 'OP03-013', 'class_id': 6, 'detection_id': 'e72dbf6d-08bb-494b-94b4-0f44248c0dad'}, {'x': 992.6255493164062, 'y': 160.7342071533203, 'width': 375.9632568359375, 'height': 94.329345703125, 'confidence': 0.9400933384895325, 'class': 'don', 'class_id': 57, 'detection_id': '83986c74-2a04-49b2-bf78-f842b37fef5b'}, {'x': 1013.7852783203125, 'y': 767.9011840820312, 'width': 100.12939453125, 'height': 128.307373046875, 'confidence': 0.9362618923187256, 'class': 'OP01-060', 'class_id': 3, 'detection_id': 'd5a47bb7-5fcf-4cb8-af20-6cbd754845b7'}, {'x': 1154.3466186523438, 'y': 455.5942840576172, 'width': 95.6029052734375, 'height': 130.14163208007812, 'confidence': 0.9300102591514587, 'class': 'OP09-002', 'class_id': 19, 'detection_id': '9c01d5e2-a9c2-4098-a34c-5a34cf1800ba'}, {'x': 821.2439575195312, 'y': 916.466552734375, 'width': 126.5791015625, 'height': 94.268798828125, 'confidence': 0.9299609661102295, 'class': 'don', 'class_id': 57, 'detection_id': 'c2e08f8f-2d34-42ac-ae96-cc325a7e5a8f'}, {'x': 250.98523712158203, 'y': 936.9953918457031, 'width': 89.74015808105469, 'height': 128.58331298828125, 'confidence': 0.9237920045852661, 'class': 'OP07-040', 'class_id': 13, 'detection_id': 'a18c102a-d45f-4fb0-b625-50ee59c47e0b'}, {'x': 947.2006225585938, 'y': 916.17431640625, 'width': 121.9598388671875, 'height': 129.3787841796875, 'confidence': 0.9034671783447266, 'class': 'don', 'class_id': 57, 'detection_id': '30c3f6e2-d166-4294-ab56-4cf8b51dafe0'}, {'x': 1006.0836486816406, 'y': 859.7289733886719, 'width': 96.94671630859375, 'height': 57.81927490234375, 'confidence': 0.8922500014305115, 'class': 'attached_don', 'class_id': 56, 'detection_id': '536df635-7bf4-4fb7-94bc-05764397ce05'}]}
+
+## RESULTADO IMAGEN 4
+result = {'inference_id': '981d2948-35b9-4fc2-a13a-859966849fbe', 'time': 0.5439950689997204, 'image': {'width': 1938, 'height': 1038}, 'predictions': [{'x': 1230.4647827148438, 'y': 905.3802490234375, 'width': 94.9674072265625, 'height': 127.6060791015625, 'confidence': 0.9779777526855469, 'class': 'OP04-016', 'class_id': 7, 'detection_id': 'b21421cf-e27a-42fd-9c20-1bdbeb93e18a'}, {'x': 441.03546142578125, 'y': 927.3398742675781, 'width': 93.3851318359375, 'height': 126.12664794921875, 'confidence': 0.9737884402275085, 'class': 'OP04-016', 'class_id': 7, 'detection_id': '6a54a6e1-6bc4-4a19-be0e-c71e0917d341'}, {'x': 784.8324584960938, 'y': 615.9421997070312, 'width': 93.6435546875, 'height': 127.3406982421875, 'confidence': 0.9670325517654419, 'class': 'OP08-118', 'class_id': 17, 'detection_id': '384a1f9d-ca96-483f-b256-f6a49f67b06e'}, {'x': 918.1041870117188, 'y': 907.8313903808594, 'width': 319.9005126953125, 'height': 94.25933837890625, 'confidence': 0.9640145897865295, 'class': 'don', 'class_id': 57, 'detection_id': '6b1a50b6-9530-4e5c-88da-45563d735d67'}, {'x': 349.08209228515625, 'y': 927.2781372070312, 'width': 94.40081787109375, 'height': 127.604248046875, 'confidence': 0.9630335569381714, 'class': 'OP07-015', 'class_id': 12, 'detection_id': '81c661b2-e6d2-4ec7-a341-6696f13591d2'}, {'x': 1013.7324829101562, 'y': 762.7218322753906, 'width': 125.3284912109375, 'height': 92.90838623046875, 'confidence': 0.9569358825683594, 'class': 'OP09-001', 'class_id': 18, 'detection_id': 'cef088b5-3409-4859-bf16-0cdc07ece1ea'}, {'x': 1269.4598388671875, 'y': 337.80191802978516, 'width': 94.33203125, 'height': 174.21934509277344, 'confidence': 0.9558047652244568, 'class': 'life', 'class_id': 58, 'detection_id': '4e274543-1568-44fc-b11e-a8404ccbf328'}, {'x': 668.1249084472656, 'y': 729.0112915039062, 'width': 92.76934814453125, 'height': 174.625, 'confidence': 0.9534357190132141, 'class': 'life', 'class_id': 58, 'detection_id': 'd4c1cee0-66c3-4075-957c-551819318341'}, {'x': 998.2525024414062, 'y': 835.4486389160156, 'width': 96.0821533203125, 'height': 54.08087158203125, 'confidence': 0.937673807144165, 'class': 'attached_don', 'class_id': 56, 'detection_id': '7f82430e-9005-4280-bfa8-6ddc1ea53f45'}, {'x': 940.249267578125, 'y': 231.01600646972656, 'width': 95.2215576171875, 'height': 53.450042724609375, 'confidence': 0.9369909167289734, 'class': 'attached_don', 'class_id': 56, 'detection_id': '5d432a16-001d-4d81-a75b-fd6ca41bad5d'}, {'x': 164.6607666015625, 'y': 928.3211364746094, 'width': 88.98410034179688, 'height': 126.78448486328125, 'confidence': 0.9330487251281738, 'class': 'OP01-006', 'class_id': 2, 'detection_id': '46d56d5b-ba5e-41de-9195-236218339e35'}, {'x': 257.1954345703125, 'y': 927.5619812011719, 'width': 90.94940185546875, 'height': 125.00518798828125, 'confidence': 0.9105945229530334, 'class': 'OP09-004', 'class_id': 20, 'detection_id': 'b0e9e754-7c05-4cca-a143-174ba8dc8535'}, {'x': 
+1086.2603759765625, 'y': 159.58586502075195, 'width': 187.4892578125, 'height': 92.35066986083984, 'confidence': 0.7473404407501221, 'class': 'don', 'class_id': 57, 'detection_id': '5914f655-2a9e-471e-9bcd-54b62284e1fa'}, {'x': 1019.1244812011719, 'y': 159.18176651000977, 'width': 313.82647705078125, 'height': 92.0194320678711, 'confidence': 0.5411630868911743, 'class': 'don', 'class_id': 57, 'detection_id': '36cb2177-9f5f-4553-a450-430cfa12bcbf'}]}
 
 player = {
     "leader": [],
@@ -262,21 +290,29 @@ enemy = {
     "trash" : [],
     "life": 0 
 }
-    
+result = prediccion_roboflow("./Roboflow/img_7.jpg")
+formatear_prediccion(result)
+
+print("\n")
+print("---🔵 JUGADOR---")
+pprint.pprint(player)
+
+print("\n")
+print("---🔴 ENEMIGO---")
+pprint.pprint(enemy)
 
 
-root = tk.Tk()
-root.minsize(300,300)
-root.maxsize(300,300)
-root.title("Gear 5 Main")
+# root = tk.Tk()
+# root.minsize(300,300)
+# root.maxsize(300,300)
+# root.title("Gear 5 Main")
 
-root.geometry("300x300+1200+480") 
-root.resizable(False, False)
+# root.geometry("300x300+1200+480") 
+# root.resizable(False, False)
 
-
-button = Button(root, text="Gen Estrategia")
-button.config(command=devolver_prediccion)
-button.config(bg="#fcba03")
-button.config(font="Arial")
-button.pack()
-root.mainloop()
+# button = Button(root, text="Gen Estrategia")
+# button.config(command=devolver_prediccion)
+# button.config(bg="#fcba03")
+# button.config(font="Arial")
+# button.pack()
+# root.mainloop()
