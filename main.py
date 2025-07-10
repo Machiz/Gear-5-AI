@@ -83,8 +83,7 @@ except Exception as e:
     print("Please ensure your API Key and API URL are correct.")
     exit()
 
-ROBOFLOW_MODEL_ID = "one-piece-card-game-l" # Replace with your project ID
-ROBOFLOW_MODEL_VERSION = 2 # Replace with your model version number (e.g., 2)
+ROBOFLOW_MODEL_ID = "card-detection-hbgys/4" # Replace with your project ID
 
 # --- Agent Initialization ---
 # CORRECTED: Removed 'fname' from Agent constructor, as confirmed by your screenshot
@@ -182,7 +181,6 @@ def run_ai_inference(current_image_path):
         result = client.infer(
             current_image_path,
             model_id=ROBOFLOW_MODEL_ID,
-            version=ROBOFLOW_MODEL_VERSION
         )
         print("Roboflow inference completed.")
     except Exception as e:
