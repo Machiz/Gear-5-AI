@@ -44,30 +44,30 @@ def pos_in_table(prd):
     return pos
 
 def format_main_cards_player(prd, agent):
-    if(prd["y"] > 740 and prd["y"] < 780): # LEADER
-        if(prd["x"] > 960 and prd["x"] < 1040):
+    if(prd["y"] > 790 and prd["y"] < 935): # LEADER
+        if(prd["x"] > 950 and prd["x"] < 1058):
             add_card(prd, agent, "leader")
 
     elif(prd["x"] < 600): # HAND
         add_card(prd, agent, "hand")
 
-    elif(prd["y"] > 600 and prd["y"] < 640): # CHARACTER
-        if(prd["x"] > 760 and prd["x"] < 1400):
+    elif(prd["y"] > 630 and prd["y"] < 780): # CHARACTER
+        if(prd["x"] > 700 and prd["x"] < 1300):
             add_card(prd, agent, "characters")
             
-    elif(prd["x"] > 1200 and prd["y"] > 900): # TRASH
+    elif(prd["x"] > 1190 and prd["y"] > 1100): # TRASH
         agent["trash"].append(prd)
 
 def format_main_cards_enemy(prd, agent):
-    if(prd["y"] > 290 and prd["y"] < 360): # LEADER
-        if(prd["x"] > 900 and prd["x"] < 940):
+    if(prd["y"] > 275 and prd["y"] < 435): # LEADER
+        if(prd["x"] > 855 and prd["x"] < 959):
             add_card(prd, agent, "leader")
 
-    elif(prd["x"] < 300 and prd["y"] < 170): # TRASH
+    elif(prd["x"] < 730 and prd["y"] < 200): # TRASH
         agent["trash"].append(prd)
 
-    elif(prd["y"] > 430 and prd["y"] < 470): # CHARACTER
-        if(prd["x"] > 680 and prd["x"] < 1200):
+    elif(prd["y"] > 430 and prd["y"] < 600): # CHARACTER
+        if(prd["x"] > 610 and prd["x"] < 1220):
             add_card(prd, agent, "characters")
 
 def encode_state(player, enemy):
@@ -290,7 +290,7 @@ def formatear_prediccion(result):
 # 0.8804033398628235, 'class': 'OP01-060', 'class_id': 3, 'detection_id': '65245cea-9f42-42ab-9dd6-f32a4ae66cde'}, {'x': 985.9368896484375, 'y': 830.569580078125, 'width': 91.099365234375, 'height': 47.083984375, 'confidence': 0.8663890957832336, 'class': 'attached_don', 'class_id': 56, 'detection_id': '3bea09d0-01d8-4cf9-b112-a6b7c15122fc'}, {'x': 775.3734436035156, 'y': 612.7881164550781, 'width': 91.05950927734375, 'height': 129.28546142578125, 'confidence': 0.8370481133460999, 'class': 'OP08-047', 'class_id': 16, 'detection_id': '11af58b8-a3ea-4685-9d44-6922ac12279a'}, {'x': 1033.8774719238281, 'y': 445.24755859375, 'width': 90.75604248046875, 'height': 128.0689697265625, 'confidence': 0.7322708964347839, 'class': 'OP09-095', 'class_id': 36, 'detection_id': '06d560d7-2720-4d79-abf6-280300a7f046'}]} 
 
 #imb_b
-result = {'inference_id': 'ffe6a62c-1ff3-427f-a1f8-c2957ac6acaf', 'time': 0.5797836489996371, 'image': {'width': 1920, 'height': 1080}, 'predictions': [{'x': 774.9986877441406, 'y': 612.2432556152344, 'width': 90.93499755859375, 'height': 130.09942626953125, 'confidence': 0.9692021012306213, 'class': 'ST17-003', 'class_id': 52, 'detection_id': '21e8feb3-f6fe-463c-bb64-b06454605551'}, {'x': 1004.6392517089844, 'y': 762.7169189453125, 'width': 127.29913330078125, 'height': 96.6407470703125, 'confidence': 0.9611090421676636, 'class': 'OP01-060', 'class_id': 3, 'detection_id': '35770abc-8305-4631-bcb0-e3ea35966363'}, {'x': 978.5628662109375, 'y': 909.2477416992188, 'width': 93.526123046875, 'height': 126.8843994140625, 'confidence': 0.9460723996162415, 'class': 'don', 'class_id': 57, 'detection_id': '3be66a48-037e-4d25-afe2-1a48bd926bf3'}, {'x': 838.0476379394531, 'y': 907.5766296386719, 'width': 183.55841064453125, 'height': 94.02825927734375, 'confidence': 0.9454600811004639, 'class': 'don', 'class_id': 57, 'detection_id': '8f8852eb-5117-4fcd-81bb-759306efcc08'}, {'x': 658.3943481445312, 'y': 715.2606811523438, 'width': 91.2481689453125, 'height': 197.7723388671875, 'confidence': 0.9351210594177246, 'class': 'life', 'class_id': 58, 'detection_id': '2fee0fb9-1f3f-4e6e-8c13-7baabf88a006'}, {'x': 985.3562316894531, 'y': 150.4931869506836, 'width': 341.01483154296875, 'height': 128.34300231933594, 'confidence': 0.9279986023902893, 'class': 'don', 'class_id': 57, 'detection_id': '275cf039-e588-40b8-bb3c-f3b4a88323df'}, {'x': 988.0132751464844, 'y': 826.3841552734375, 'width': 94.99053955078125, 'height': 38.568603515625, 'confidence': 0.8647145628929138, 'class': 'attached_don', 'class_id': 56, 'detection_id': '400a5b69-cf37-477e-a081-6031aaaa92f0'}, {'x': 1223.9742431640625, 'y': 904.1359558105469, 'width': 92.33642578125, 'height': 128.28973388671875, 'confidence': 0.7553939819335938, 'class': 'OP07-046', 'class_id': 14, 'detection_id': '8ded3c36-39c6-49e1-b247-e0e29ab34833'}, {'x': 1035.0086669921875, 'y': 445.3413543701172, 'width': 88.6298828125, 'height': 127.97073364257812, 'confidence': 0.746820867061615, 'class': 'OP09-095', 'class_id': 36, 'detection_id': '6ea6543b-6d4d-485d-b2e6-9a9dfb1de87a'}, {'x': 887.2170104980469, 'y': 614.0442810058594, 'width': 126.09051513671875, 'height': 94.11566162109375, 'confidence': 0.7040891647338867, 'class': 'EB01-023', 'class_id': 0, 'detection_id': '229f1515-9fea-4260-8de4-ddf9ff1d1d99'}, {'x': 1261.0285034179688, 'y': 309.71277618408203, 'width': 86.6729736328125, 'height': 128.4565887451172, 'confidence': 0.6786061525344849, 'class': 'life', 'class_id': 58, 'detection_id': '713e8efc-9c17-4bd8-a67f-390355cf2742'}, {'x': 804.9655151367188, 'y': 446.209716796875, 'width': 118.3116455078125, 'height': 91.31060791015625, 'confidence': 0.6513451337814331, 'class': 'OP09-083', 'class_id': 29, 'detection_id': '919d2045-0640-43d4-8b13-50d733982989'}]}
+#result = {'inference_id': 'ffe6a62c-1ff3-427f-a1f8-c2957ac6acaf', 'time': 0.5797836489996371, 'image': {'width': 1920, 'height': 1080}, 'predictions': [{'x': 774.9986877441406, 'y': 612.2432556152344, 'width': 90.93499755859375, 'height': 130.09942626953125, 'confidence': 0.9692021012306213, 'class': 'ST17-003', 'class_id': 52, 'detection_id': '21e8feb3-f6fe-463c-bb64-b06454605551'}, {'x': 1004.6392517089844, 'y': 762.7169189453125, 'width': 127.29913330078125, 'height': 96.6407470703125, 'confidence': 0.9611090421676636, 'class': 'OP01-060', 'class_id': 3, 'detection_id': '35770abc-8305-4631-bcb0-e3ea35966363'}, {'x': 978.5628662109375, 'y': 909.2477416992188, 'width': 93.526123046875, 'height': 126.8843994140625, 'confidence': 0.9460723996162415, 'class': 'don', 'class_id': 57, 'detection_id': '3be66a48-037e-4d25-afe2-1a48bd926bf3'}, {'x': 838.0476379394531, 'y': 907.5766296386719, 'width': 183.55841064453125, 'height': 94.02825927734375, 'confidence': 0.9454600811004639, 'class': 'don', 'class_id': 57, 'detection_id': '8f8852eb-5117-4fcd-81bb-759306efcc08'}, {'x': 658.3943481445312, 'y': 715.2606811523438, 'width': 91.2481689453125, 'height': 197.7723388671875, 'confidence': 0.9351210594177246, 'class': 'life', 'class_id': 58, 'detection_id': '2fee0fb9-1f3f-4e6e-8c13-7baabf88a006'}, {'x': 985.3562316894531, 'y': 150.4931869506836, 'width': 341.01483154296875, 'height': 128.34300231933594, 'confidence': 0.9279986023902893, 'class': 'don', 'class_id': 57, 'detection_id': '275cf039-e588-40b8-bb3c-f3b4a88323df'}, {'x': 988.0132751464844, 'y': 826.3841552734375, 'width': 94.99053955078125, 'height': 38.568603515625, 'confidence': 0.8647145628929138, 'class': 'attached_don', 'class_id': 56, 'detection_id': '400a5b69-cf37-477e-a081-6031aaaa92f0'}, {'x': 1223.9742431640625, 'y': 904.1359558105469, 'width': 92.33642578125, 'height': 128.28973388671875, 'confidence': 0.7553939819335938, 'class': 'OP07-046', 'class_id': 14, 'detection_id': '8ded3c36-39c6-49e1-b247-e0e29ab34833'}, {'x': 1035.0086669921875, 'y': 445.3413543701172, 'width': 88.6298828125, 'height': 127.97073364257812, 'confidence': 0.746820867061615, 'class': 'OP09-095', 'class_id': 36, 'detection_id': '6ea6543b-6d4d-485d-b2e6-9a9dfb1de87a'}, {'x': 887.2170104980469, 'y': 614.0442810058594, 'width': 126.09051513671875, 'height': 94.11566162109375, 'confidence': 0.7040891647338867, 'class': 'EB01-023', 'class_id': 0, 'detection_id': '229f1515-9fea-4260-8de4-ddf9ff1d1d99'}, {'x': 1261.0285034179688, 'y': 309.71277618408203, 'width': 86.6729736328125, 'height': 128.4565887451172, 'confidence': 0.6786061525344849, 'class': 'life', 'class_id': 58, 'detection_id': '713e8efc-9c17-4bd8-a67f-390355cf2742'}, {'x': 804.9655151367188, 'y': 446.209716796875, 'width': 118.3116455078125, 'height': 91.31060791015625, 'confidence': 0.6513451337814331, 'class': 'OP09-083', 'class_id': 29, 'detection_id': '919d2045-0640-43d4-8b13-50d733982989'}]}
 
 player = {
     "leader": [],
@@ -314,7 +314,7 @@ enemy = {
     "life": 0 
 }
 
-# result = prediccion_roboflow("./Roboflow/img_b.png")
+result = prediccion_roboflow("./Roboflow/screenshot_20250711_101144.png")
 
 print(result)
 formatear_prediccion(result)

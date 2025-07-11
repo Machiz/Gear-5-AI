@@ -26,7 +26,7 @@ class OnePieceTCGEnv(gym.Env):
             "vida": spaces.Discrete(6),
         })
 
-        self.action_space = spaces.Discrete(self.max_mano + 1 + self.max_board)
+        self.action_space = spaces.Discrete(self.max_mano + 1 + self.max_board)  # 15 + 1 + 5 = 21
 
         self.pointer = 0
         self.log_actual = None
@@ -34,6 +34,26 @@ class OnePieceTCGEnv(gym.Env):
         self.done = False
         self.current_obs = None
         self.state = {}
+    def generar_acciones_validas(self, obs):
+        """
+        Retorna una lista de índices de acciones válidas basado en la observación actual:
+        - Acción 0: pasar turno (siempre válida)
+        - Acciones 1 a max_mano: invocar cartas que tengan coste > 0
+        - Acciones max_mano+1 a max_mano+max_board: atacar con personajes activos en el board
+        """
+        acciones = [0]  # pasar turno siempre permitida
+
+        # Invocar desde mano (acciones 1 a 15)
+        for i, coste in enumerate(obs["mano_coste"]):
+            if coste > 0:
+                acciones.append(i + 1)  # acción 1 es la primera carta, etc.
+
+        # Atacar con personajes activos del board (acciones 16 a 20)
+        for j, estado in enumerate(obs["board_estado"]):
+            if estado == 1:  # solo si está activo
+                acciones.append(self.max_mano + 1 + j)
+
+        return acciones
 
     def reset(self):
         self.log_actual = random.choice(self.logs)
@@ -52,15 +72,12 @@ class OnePieceTCGEnv(gym.Env):
             if accion == "Hand state" and "cards" in paso:
                 self.state["mano"] = paso["cards"]
                 estados_encontrados["mano"] = True
-
             elif accion == "Board state" and "cards" in paso:
                 self.state["board"] = paso["cards"]
                 estados_encontrados["board"] = True
-
             elif accion == "Trash state" and "cards" in paso:
                 self.state["trash"] = paso["cards"]
                 estados_encontrados["trash"] = True
-
             elif accion == "Life state" and "life" in paso:
                 self.state["vida"] = paso["life"]
                 estados_encontrados["vida"] = True
@@ -73,7 +90,7 @@ class OnePieceTCGEnv(gym.Env):
         self.state.setdefault("mano", [])
         self.state.setdefault("board", [])
         self.state.setdefault("trash", [])
-        #self.state.setdefault("vida", 5)
+        self.state.setdefault("vida", 5)
 
         print("⚠️ Estado incompleto, se usarán valores por defecto donde falte.")
         self.current_obs = self._extraer_observacion()
@@ -86,7 +103,14 @@ class OnePieceTCGEnv(gym.Env):
         next_obs = self.current_obs
         prev_obs = self.current_obs
 
-        max_pasos = 1000  # seguridad contra ciclos
+        # 🚫 Validación inmediata de acción inválida
+        if action >= self.max_mano + 1 + self.max_board:
+            reward = -2.0  # penaliza dummy
+            done = False
+            info["reason"] = "accion_invalida_dummy"
+            return self.current_obs, reward, done, info
+
+        max_pasos = 1000
         pasos_recorridos = 0
 
         while self.pointer < len(self.log_keys) and pasos_recorridos < max_pasos:
@@ -97,35 +121,37 @@ class OnePieceTCGEnv(gym.Env):
             accion_log = paso.get("action", "")
             vida_actual = paso.get("life", prev_obs["vida"])
 
-            # Recompensas
+            # Recompensas por acción detectada
             if accion_log == "Played card":
                 if 1 <= action <= self.max_mano:
-                    reward += 3 
+                    reward += 2
+                else:
+                    reward -= 2
+            elif accion_log.lower() == "attacking":
+                if action >= self.max_mano + 1:
+                    reward += 3
                 else:
                     reward -= 3
-            elif accion_log == "Attacking" or accion_log == "attacking":
-                if action >= self.max_mano + 1:
-                    reward += 5
-                else:
-                    reward-=5
             elif accion_log == "End turn":
                 if action == 0:
-                    reward += 1 
+                    reward += 0.5
                 else:
-                    reward -= 1
+                    reward -= 0.5
+
+            # Castigo por daño recibido
             if vida_actual < prev_obs["vida"]:
-                reward -= 6
-            
+                reward -= 4
+
+            # Fin de partida
             if accion_log in ["Wins!", "Loses"]:
                 done = True
                 if accion_log == "Wins!":
-                    reward += 10  # 🏆 Recompensa por ganar
+                    reward += 5
                     info["reason"] = "win"
                 else:
-                    reward =0  # ❌ Castigo por perder
+                    reward = 0
                     info["reason"] = "lost"
                 break
-
 
             # Castigo por atacar con carta descansada
             if action >= self.max_mano + 1:
@@ -139,11 +165,10 @@ class OnePieceTCGEnv(gym.Env):
                 next_obs = self._extraer_observacion()
                 break
 
-        # Si se salió del bucle sin encontrar estado válido
         if pasos_recorridos >= max_pasos or self.pointer >= len(self.log_keys):
             done = True
             info["reason"] = "log_exhausted"
-            reward -= 2  # castigo por quedarse sin log
+            reward -= 2
 
         if reward == 0:
             reward -= 0.1

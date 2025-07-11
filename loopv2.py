@@ -6,6 +6,7 @@ import env_registry
 from gym.spaces.utils import flatten
 from gym.spaces.utils import flatten_space
 import numpy as np
+import random
 
 
 def flatten_state(state_dict):
@@ -42,6 +43,7 @@ lr = 0.0005
 agent = Agent(gamma = 0.99, epsilon = 1.0, lr = lr, input_dims = [97], n_actions = env.action_space.n, eps_end=0.01, batch_size = 64)
 scores, eps_history = [], []
 n_games = 10000
+print(env.action_space)
 env.reset()
 for i in range(n_games):
     score = 0
@@ -52,6 +54,9 @@ for i in range(n_games):
         flat_obs = flatten_state(observation)
         
         action = agent.choose_action(flat_obs)
+        acciones_validas = env.generar_acciones_validas(observation)
+        if action not in acciones_validas:
+            action = random.choice(acciones_validas)
         observation_, reward, done, info = env.step(action)
         flat_obs_ = flatten_state(observation_)
         score += reward

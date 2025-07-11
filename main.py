@@ -145,22 +145,31 @@ def pos_in_table_hand(card, min_x, player):
     return pos
 
 def format_main_cards_player(prd: Dict, player_data: Dict):
-    if 740 < prd["y"] < 780 and 960 < prd["x"] < 1040:
-        add_card(prd, player_data, "leader")
-    elif prd["x"] < 600 and prd["y"] < 950:
+    if(prd["y"] > 790 and prd["y"] < 935): # LEADER
+        if(prd["x"] > 950 and prd["x"] < 1058):
+            add_card(prd, player_data, "leader")
+
+    elif(prd["x"] < 600): # HAND
         add_card(prd, player_data, "hand")
-    elif 600 < prd["y"] < 640 and 760 < prd["x"] < 1400:
-        add_card(prd, player_data, "characters")
-    elif prd["x"] > 1200 and prd["y"] > 900:
+
+    elif(prd["y"] > 630 and prd["y"] < 780): # CHARACTER
+        if(prd["x"] > 700 and prd["x"] < 1300):
+            add_card(prd, player_data, "characters")
+            
+    elif(prd["x"] > 1190 and prd["y"] > 1100): # TRASH
         player_data["trash"].append(prd)
 
 def format_main_cards_enemy(prd: Dict, enemy_data: Dict):
-    if 290 < prd["y"] < 360 and 900 < prd["x"] < 940:
-        add_card(prd, enemy_data, "leader")
-    elif prd["x"] < 300 and prd["y"] < 170:
+    if(prd["y"] > 275 and prd["y"] < 435): # LEADER
+        if(prd["x"] > 855 and prd["x"] < 959):
+            add_card(prd, enemy_data, "leader")
+
+    elif(prd["x"] < 730 and prd["y"] < 200): # TRASH
         enemy_data["trash"].append(prd)
-    elif 430 < prd["y"] < 470 and 680 < prd["x"] < 1200:
-        add_card(prd, enemy_data, "characters")
+
+    elif(prd["y"] > 430 and prd["y"] < 600): # CHARACTER
+        if(prd["x"] > 610 and prd["x"] < 1220):
+            add_card(prd, enemy_data, "characters")
 
 # --- Screen Capture Function ---
 SCREENSHOT_DIR = "screenshots"
@@ -179,7 +188,51 @@ def take_screenshot():
         img.save(filename)
         print(f"Screenshot saved to: {filename}")
         return filename
+def generar_acciones_disponibles(player):
+    acciones = []
 
+    # 1. Atacar con personajes activos
+    for i, carta in enumerate(player.get("characters", [])):
+        if not carta.get("rested", True):
+            acciones.append({
+                "tipo": "atacar",
+                "quien": f"personaje {i}",
+                "objetivo": "líder enemigo",
+                "descripcion": f"Atacar al líder enemigo con personaje en slot {i}"
+            })
+
+    # 2. Atacar con líder si está activo
+    if player.get("leader") and not player["leader"][0].get("rested", True):
+        acciones.append({
+            "tipo": "atacar",
+            "quien": "líder",
+            "objetivo": "líder enemigo",
+            "descripcion": "Atacar al líder enemigo con el líder"
+        })
+
+    # 3. Invocar cartas si hay espacio
+    if len(player.get("characters", [])) < 5:
+        for i, carta in enumerate(player.get("hand", [])):
+            acciones.append({
+                "tipo": "invocar",
+                "mano_slot": i,
+                "descripcion": f"Invocar carta de la mano en slot {i}"
+            })
+
+    # 4. Pasar turno (siempre disponible)
+    acciones.append({
+        "tipo": "pasar_turno",
+        "descripcion": "Pasar el turno"
+    })
+
+    # 5. Rellenar hasta 22 con acciones inválidas (dummy)
+    while len(acciones) < 22:
+        acciones.append({
+            "tipo": "invalida",
+            "descripcion": f"Acción inválida dummy {len(acciones)}"
+        })
+
+    return acciones
 # --- Function to run AI inference and update GUI ---
 def run_ai_inference(current_image_path):
     # Reset player and enemy state for each inference
@@ -192,6 +245,7 @@ def run_ai_inference(current_image_path):
             current_image_path,
             model_id=ROBOFLOW_MODEL_ID,
         )
+        print(result)
         print("Roboflow inference completed.")
     except Exception as e:
         print(f"Error during Roboflow inference: {e}")
@@ -268,10 +322,15 @@ def run_ai_inference(current_image_path):
         {"tipo": "pasar_turno", "descripcion": "Pasar el turno"}
     ]
 
-    accion_elegida = acciones_disponibles[accion_index] if accion_index < len(acciones_disponibles) else {"tipo": "ERROR: Acción desconocida", "descripcion": "El índice de acción está fuera de los límites de las acciones disponibles."}
-    print("out", acciones_disponibles)
-    print(accion_index)
-    print(len(acciones_disponibles))
+    acciones_disponibles = generar_acciones_disponibles(player)
+
+    if 0 <= accion_index < len(acciones_disponibles):
+        accion_elegida = acciones_disponibles[accion_index]
+    else:
+        accion_elegida = {
+            "tipo": "ERROR",
+            "descripcion": f"Índice {accion_index} fuera de rango (máx {len(acciones_disponibles)-1})"
+        }
     output_text.delete("1.0", tk.END)
     output_text.insert("1.0", pprint.pformat(accion_elegida))
 
