@@ -117,6 +117,7 @@ except Exception as e:
 CARD_WIDTH = 95
 RESTED_CARD_WIDTH = 125
 
+
 def add_card(prd: Dict, agent_data: Dict, card_type: str):
     isRested = prd["height"] < 120
     agent_data[card_type].append({
@@ -150,7 +151,7 @@ def format_main_cards_player(prd: Dict, player_data: Dict):
         if(prd["x"] > 950 and prd["x"] < 1058):
             add_card(prd, player_data, "leader")
 
-    elif(prd["x"] < 600): # HAND
+    if(prd["x"] < 600): # HAND
         add_card(prd, player_data, "hand")
 
     elif(prd["y"] > 630 and prd["y"] < 780): # CHARACTER
