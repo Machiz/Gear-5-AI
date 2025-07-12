@@ -191,68 +191,70 @@ def take_screenshot():
         print(f"Screenshot saved to: {filename}")
         return filename
 #catalogo = read_card_files("assets/JSON/Cards")
-def interpretar_accion(action_index, player, catalogo_cartas):
-    if 0 <= action_index <= 14:
-        if action_index < len(player["hand"]):
-            carta = player["hand"][action_index]
-            class_name = carta.get("class", "").strip()
+def interpretar_accion(action_index, player, catalogo_cartas, action_tensor, max_reintentos=15):
+    intentos = 0
+    while intentos < max_reintentos:
+        if 0 <= action_index <= 14:
+            if action_index < len(player["hand"]):
+                carta = player["hand"][action_index]
+                class_name = carta.get("class", "").strip()
 
-            if not class_name:
-                return {"tipo": "invalida", "descripcion": f"Carta sin nombre en slot {action_index}"}
+                if not class_name:
+                    intentos += 1
+                    action_index = estratega.choose_action(action_tensor)
+                    continue
 
-            carta_info = catalogo_cartas.get(class_name, {})
-            coste = carta_info.get("cost", None)
+                carta_info = catalogo_cartas.get(class_name, {})
+                coste = carta_info.get("cost", None)
 
-            dons_disponibles = player.get("don", 0)
-            if coste > dons_disponibles:
-                interpretar_accion(action_index, player, catalogo_cartas)
-            blocker_cards = {"OP09-015", "OP10-011", "ST17-004", "OP09-091", "OP09-093"}
-            rush_cards = {"ST17-004", "OP07-015"}
-            
-            if class_name in blocker_cards:
-                extra = "(blocker)"
-            elif class_name in rush_cards:
-                extra = "(rush)"
-            else:
+                dons_disponibles = player.get("don", 0)
+                if coste is None or coste > dons_disponibles:
+                    intentos += 1
+                    action_index = estratega.choose_action(action_tensor)
+                    continue
+
                 extra = ""
+                if class_name in {"OP09-015", "OP10-011", "ST17-004", "OP09-091", "OP09-093"}:
+                    extra = "(blocker)"
+                elif class_name in {"ST17-004", "OP07-015"}:
+                    extra = "(rush)"
 
-            return {
-                "tipo": "invocar",
-                "mano_slot": action_index,
-                "descripcion": f"✅ Invocar carta: {class_name}{extra} (coste {coste})"
-            }
-        else:
-            return {"tipo": "invalida", "descripcion": "Slot de mano inválido"}
+                return {
+                    "tipo": "invocar",
+                    "mano_slot": action_index,
+                    "descripcion": f"✅ Invocar carta: {class_name} {extra} (coste {coste})"
+                }
 
-    elif 15 <= action_index <= 19:
-        board_slot = action_index - 15
-        for personaje in player.get("characters", []):
-            if personaje.get("position") == board_slot and not personaje.get("rested", True):
+        elif 15 <= action_index <= 19:
+            board_slot = action_index - 15 + 1
+            for personaje in player.get("characters", []):
+                if personaje.get("position") == board_slot and not personaje.get("rested", True):
+                    return {
+                        "tipo": "atacar",
+                        "quien": f"personaje en posición {board_slot}",
+                        "descripcion": f"✅ Atacar con personaje {class_name}"
+                    }
+
+        elif action_index == 20:
+            if player.get("leader") and not player["leader"][0].get("rested", True):
                 return {
                     "tipo": "atacar",
-                    "quien": f"personaje en posición {board_slot}",
-                    "descripcion": f"✅ Atacar con personaje en posición {board_slot}"
+                    "quien": "líder",
+                    "descripcion": "✅ Atacar con el líder"
                 }
-        return {
-            "tipo": "invalida",
-            "descripcion": f"No hay personaje activo en posición {board_slot} para atacar"
-        }
 
-    elif action_index == 20:
-        if player.get("leader") and not player["leader"][0].get("rested", True):
-            return {
-                "tipo": "atacar",
-                "quien": "líder",
-                "descripcion": "✅ Atacar con el líder"
-            }
-        else:
-            return {"tipo": "invalida", "descripcion": "El líder está descansado o no está detectado"}
+        elif action_index == 21 or dons_disponibles == 0 :
+            return {"tipo": "pasar_turno", "descripcion": "⏭️ Pasar el turno"}
 
-    elif action_index == 21:
-        return {"tipo": "pasar_turno", "descripcion": "⏭️ Pasar el turno"}
+        # Si llegaste aquí, fue inválido:
+        intentos += 1
+        action_index = estratega.choose_action(action_tensor)
 
-    else:
-        return {"tipo": "ERROR", "descripcion": f"Índice fuera de rango: {action_index}"}
+    return {
+        "tipo": "ERROR",
+        "descripcion": "❌ No se pudo encontrar una acción válida tras varios intentos"
+    }
+
 
 def read_card_files(directory_path):
     catalogo = {}
@@ -374,14 +376,14 @@ def run_ai_inference(current_image_path):
         accion_index = estratega.choose_action(action_tensor)
     print(f"Chosen action index: {accion_index}")
     catalogo = read_card_files("assets/JSON/Cards")
-    accion_elegida = interpretar_accion(accion_index, player, catalogo)
+    accion_elegida = interpretar_accion(accion_index, player, catalogo, action_tensor)
 
     output_text.delete("1.0", tk.END)
     output_text.insert("1.0", pprint.pformat(accion_elegida))
 
 # --- GUI Setup ---
 root = tk.Tk()
-root.title("Recomendación del Estratega IA")
+root.title("Gear 5 AI")
 
 screen_width = root.winfo_screenwidth()
 screen_height = root.winfo_screenheight()
@@ -395,10 +397,10 @@ y = 20
 root.geometry(f"{window_width}x{window_height}+{x}+{y}")
 root.attributes("-topmost", True)
 
-ai_frame = ttk.LabelFrame(root, text="Decisión del Modelo IA", padding="10")
+ai_frame = ttk.LabelFrame(root, text="Gear 5 AI", padding="10")
 ai_frame.pack(padx=10, pady=10, fill="both", expand=True)
 
-label = ttk.Label(ai_frame, text="Recomendación del turno:", font=("Arial", 12, "bold"))
+label = ttk.Label(ai_frame, text="Recomendación:", font=("Arial", 12, "bold"))
 label.pack(pady=5)
 
 output_text = tk.Text(ai_frame, wrap="word", width=40, height=10, font=("Courier", 10), state="normal")
@@ -411,7 +413,7 @@ def on_capture_button_click():
     captured_image_path = take_screenshot()
     if captured_image_path:
         run_ai_inference(captured_image_path)
-        messagebox.showinfo("Captura y Análisis", "Pantalla capturada y analizada.")
+        #messagebox.showinfo("Captura y Análisis", "Pantalla capturada y analizada.")
     else:
         messagebox.showerror("Error", "No se pudo tomar la captura de pantalla.")
 
