@@ -12,6 +12,7 @@ from PIL import Image, ImageTk
 import mss
 import time
 import os
+import json
 
 # NUEVO: encodeador básico
 from typing import Dict, List
@@ -188,51 +189,102 @@ def take_screenshot():
         img.save(filename)
         print(f"Screenshot saved to: {filename}")
         return filename
-def generar_acciones_disponibles(player):
-    acciones = []
+#catalogo = read_card_files("assets/JSON/Cards")
+def interpretar_accion(action_index, player, catalogo_cartas):
+    if 0 <= action_index <= 14:
+        if action_index < len(player["hand"]):
+            carta = player["hand"][action_index]
+            class_name = carta.get("class", "").strip()
 
-    # 1. Atacar con personajes activos
-    for i, carta in enumerate(player.get("characters", [])):
-        if not carta.get("rested", True):
-            acciones.append({
-                "tipo": "atacar",
-                "quien": f"personaje {i}",
-                "objetivo": "líder enemigo",
-                "descripcion": f"Atacar al líder enemigo con personaje en slot {i}"
-            })
+            if not class_name:
+                return {"tipo": "invalida", "descripcion": f"Carta sin nombre en slot {action_index}"}
 
-    # 2. Atacar con líder si está activo
-    if player.get("leader") and not player["leader"][0].get("rested", True):
-        acciones.append({
-            "tipo": "atacar",
-            "quien": "líder",
-            "objetivo": "líder enemigo",
-            "descripcion": "Atacar al líder enemigo con el líder"
-        })
+            carta_info = catalogo_cartas.get(class_name, {})
+            coste = carta_info.get("cost", None)
 
-    # 3. Invocar cartas si hay espacio
-    if len(player.get("characters", [])) < 5:
-        for i, carta in enumerate(player.get("hand", [])):
-            acciones.append({
+            dons_disponibles = player.get("don", 0)
+            if coste > dons_disponibles:
+                return {
+                    "tipo": "invalida",
+                    "descripcion": f"No hay suficientes dons: coste {coste}, dons disponibles {dons_disponibles}"
+                }
+
+            return {
                 "tipo": "invocar",
-                "mano_slot": i,
-                "descripcion": f"Invocar carta de la mano en slot {i}"
-            })
+                "mano_slot": action_index,
+                "descripcion": f"✅ Invocar carta: {class_name} (coste {coste})"
+            }
+        else:
+            return {"tipo": "invalida", "descripcion": "Slot de mano inválido"}
 
-    # 4. Pasar turno (siempre disponible)
-    acciones.append({
-        "tipo": "pasar_turno",
-        "descripcion": "Pasar el turno"
-    })
-
-    # 5. Rellenar hasta 22 con acciones inválidas (dummy)
-    while len(acciones) < 22:
-        acciones.append({
+    elif 15 <= action_index <= 19:
+        board_slot = action_index - 15
+        for personaje in player.get("characters", []):
+            if personaje.get("position") == board_slot and not personaje.get("rested", True):
+                return {
+                    "tipo": "atacar",
+                    "quien": f"personaje en posición {board_slot}",
+                    "descripcion": f"✅ Atacar con personaje en posición {board_slot}"
+                }
+        return {
             "tipo": "invalida",
-            "descripcion": f"Acción inválida dummy {len(acciones)}"
-        })
+            "descripcion": f"No hay personaje activo en posición {board_slot} para atacar"
+        }
 
-    return acciones
+    elif action_index == 20:
+        if player.get("leader") and not player["leader"][0].get("rested", True):
+            return {
+                "tipo": "atacar",
+                "quien": "líder",
+                "descripcion": "✅ Atacar con el líder"
+            }
+        else:
+            return {"tipo": "invalida", "descripcion": "El líder está descansado o no está detectado"}
+
+    elif action_index == 21:
+        return {"tipo": "pasar_turno", "descripcion": "⏭️ Pasar el turno"}
+
+    else:
+        return {"tipo": "ERROR", "descripcion": f"Índice fuera de rango: {action_index}"}
+
+def read_card_files(directory_path):
+    catalogo = {}
+    #count = 0
+    for archivo in os.listdir(directory_path):
+        if archivo.endswith(".json"):
+            path = os.path.join(directory_path, archivo)
+            try:
+                with open(path, "r", encoding="utf-8") as f:
+                    contenido = json.load(f)
+
+                    if isinstance(contenido, dict):
+                        # ✅ Cada key es un ID y el value es la carta
+                        for carta_id, carta in contenido.items():
+                            if isinstance(carta, dict):
+                                catalogo[carta_id] = carta
+                            else:
+                                print(f"❌ Carta inválida en {archivo}: {carta}")
+                    elif isinstance(contenido, list):
+                        for carta in contenido:
+                            if not isinstance(carta, dict):
+                                print(f"❌ Carta no válida en {archivo}: {carta}")
+                                continue
+                            carta_id = carta.get("card_id") or carta.get("id")
+                            if carta_id:
+                                catalogo[carta_id] = carta
+                            else:
+                                print(f"❌ Carta sin ID en {archivo}: {carta}")
+                    else:
+                        print(f"⚠️ {archivo} ignorado: contenido no compatible.")
+                #count +=1
+                #if count >= max_cards:
+                  #  break
+
+            except json.JSONDecodeError as e:
+                print(f"❌ Error leyendo {archivo}: {e}")
+
+    print(f"✅ Cartas cargadas: {len(catalogo)}")
+    return catalogo
 # --- Function to run AI inference and update GUI ---
 def run_ai_inference(current_image_path):
     # Reset player and enemy state for each inference
@@ -314,23 +366,9 @@ def run_ai_inference(current_image_path):
         # Ensure that estratega.choose_action uses self.Q_eval internally
         accion_index = estratega.choose_action(action_tensor)
     print(f"Chosen action index: {accion_index}")
+    catalogo = read_card_files("assets/JSON/Cards")
+    accion_elegida = interpretar_accion(accion_index, player, catalogo)
 
-    acciones_disponibles = [
-        {"tipo": "atacar", "descripcion": "Atacar al líder enemigo"},
-        {"tipo": "atacar", "descripcion": "Atacar a un personaje (primero disponible)"},
-        {"tipo": "invocar", "descripcion": "Invocar una carta de tu mano (primera disponible)"},
-        {"tipo": "pasar_turno", "descripcion": "Pasar el turno"}
-    ]
-
-    acciones_disponibles = generar_acciones_disponibles(player)
-
-    if 0 <= accion_index < len(acciones_disponibles):
-        accion_elegida = acciones_disponibles[accion_index]
-    else:
-        accion_elegida = {
-            "tipo": "ERROR",
-            "descripcion": f"Índice {accion_index} fuera de rango (máx {len(acciones_disponibles)-1})"
-        }
     output_text.delete("1.0", tk.END)
     output_text.insert("1.0", pprint.pformat(accion_elegida))
 

@@ -58,12 +58,12 @@ class Agent():
         self.mem_cntr+=1
 
     def choose_action(self, observation):
-        if np.random.random()>self.epsilon:
-            state = T.tensor([observation]).to(self.Q_eval.device)
-            actions = self.Q_eval.forward(state)
-            action = T.argmax(actions).item()
-        else:
+        if np.random.rand()< self.epsilon:
             action = np.random.choice(self.action_space)
+        else:
+            state = np.array([observation])
+            states = np.array(list(states))
+            action = self.q_eval.predict(state)
         return action
     def learn(self):
         if self.mem_cntr< self.batch_size:

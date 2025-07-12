@@ -26,7 +26,7 @@ class OnePieceTCGEnv(gym.Env):
             "vida": spaces.Discrete(6),
         })
 
-        self.action_space = spaces.Discrete(self.max_mano + 1 + self.max_board)  # 15 + 1 + 5 = 21
+        self.action_space = spaces.Discrete(22)  # 15 + 1 + 5 = 21
 
         self.pointer = 0
         self.log_actual = None
@@ -45,7 +45,7 @@ class OnePieceTCGEnv(gym.Env):
 
         # Invocar desde mano (acciones 1 a 15)
         for i, coste in enumerate(obs["mano_coste"]):
-            if coste > 0:
+            if coste >= 0:
                 acciones.append(i + 1)  # acción 1 es la primera carta, etc.
 
         # Atacar con personajes activos del board (acciones 16 a 20)
@@ -103,13 +103,6 @@ class OnePieceTCGEnv(gym.Env):
         next_obs = self.current_obs
         prev_obs = self.current_obs
 
-        # 🚫 Validación inmediata de acción inválida
-        if action >= self.max_mano + 1 + self.max_board:
-            reward = -2.0  # penaliza dummy
-            done = False
-            info["reason"] = "accion_invalida_dummy"
-            return self.current_obs, reward, done, info
-
         max_pasos = 1000
         pasos_recorridos = 0
 
@@ -121,46 +114,60 @@ class OnePieceTCGEnv(gym.Env):
             accion_log = paso.get("action", "")
             vida_actual = paso.get("life", prev_obs["vida"])
 
-            # Recompensas por acción detectada
-            if accion_log == "Played card":
-                if 1 <= action <= self.max_mano:
+            # --- Acción 0: pasar turno ---
+            if action == 0:
+                if accion_log == "End turn":
+                    reward += 1
+                else:
+                    reward -= 1
+
+            # --- Acción 1: jugar carta ---
+            elif action == 1:
+                if accion_log == "Played card":
+                    reward += 3
+                elif accion_log == "Cannot play card":
+                    reward -= 2
+                else:
+                    reward -= 1
+
+            # --- Acción 2: atacar con personaje ---
+            elif action == 2:
+                if accion_log in ["Attacking", "attacking"]:
                     reward += 2
                 else:
-                    reward -= 2
-            elif accion_log.lower() == "attacking":
-                if action >= self.max_mano + 1:
-                    reward += 3
-                else:
-                    reward -= 3
-            elif accion_log == "End turn":
-                if action == 0:
-                    reward += 0.5
-                else:
-                    reward -= 0.5
+                    reward -= 1
 
-            # Castigo por daño recibido
+            # --- Acción 3: atacar con líder ---
+            elif action == 3:
+                if accion_log in ["Leader attacking"]:
+                    reward += 2
+                else:
+                    reward -= 1
+
+            # --- Acción 4: usar counter ---
+            elif action == 4:
+                if accion_log == "Counter":
+                    reward += 2
+                else:
+                    reward -= 1
+
+            # --- Penalización por perder vida ---
             if vida_actual < prev_obs["vida"]:
-                reward -= 4
+                reward -= 3
 
-            # Fin de partida
+            # --- Ganar o perder la partida ---
             if accion_log in ["Wins!", "Loses"]:
                 done = True
                 if accion_log == "Wins!":
-                    reward += 5
+                    reward += 10
                     info["reason"] = "win"
                 else:
                     reward = 0
                     info["reason"] = "lost"
                 break
 
-            # Castigo por atacar con carta descansada
-            if action >= self.max_mano + 1:
-                idx = action - (self.max_mano + 1)
-                if idx < len(prev_obs["board_estado"]) and prev_obs["board_estado"][idx] == 0:
-                    reward -= 1
-
+            # --- Actualizar estado si es válido ---
             self._actualizar_estado(paso)
-
             if self._es_estado_completo():
                 next_obs = self._extraer_observacion()
                 break
@@ -176,6 +183,8 @@ class OnePieceTCGEnv(gym.Env):
         self.current_obs = next_obs
         self.done = done
         return next_obs, reward, done, info
+
+
 
     def render(self, mode="human"):
         print(" VIDA:", self.current_obs["vida"])
