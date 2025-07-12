@@ -204,15 +204,21 @@ def interpretar_accion(action_index, player, catalogo_cartas):
 
             dons_disponibles = player.get("don", 0)
             if coste > dons_disponibles:
-                return {
-                    "tipo": "invalida",
-                    "descripcion": f"No hay suficientes dons: coste {coste}, dons disponibles {dons_disponibles}"
-                }
+                interpretar_accion(action_index, player, catalogo_cartas)
+            blocker_cards = {"OP09-015", "OP10-011", "ST17-004", "OP09-091", "OP09-093"}
+            rush_cards = {"ST17-004", "OP07-015"}
+            
+            if class_name in blocker_cards:
+                extra = "(blocker)"
+            elif class_name in rush_cards:
+                extra = "(rush)"
+            else:
+                extra = ""
 
             return {
                 "tipo": "invocar",
                 "mano_slot": action_index,
-                "descripcion": f"✅ Invocar carta: {class_name} (coste {coste})"
+                "descripcion": f"✅ Invocar carta: {class_name}{extra} (coste {coste})"
             }
         else:
             return {"tipo": "invalida", "descripcion": "Slot de mano inválido"}
