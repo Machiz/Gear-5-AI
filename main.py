@@ -117,8 +117,14 @@ except Exception as e:
 CARD_WIDTH = 95
 RESTED_CARD_WIDTH = 125
 
+blockerList = ["OP09-015", "OP10-011", "ST17-004", "OP09-091", "OP09-093"]
+rushList = ["ST21-014", "OP07-015"]
+
 def add_card(prd: Dict, agent_data: Dict, card_type: str):
     isRested = prd["height"] < 120
+    isBlocker = prd["class"] in blockerList
+    isRush = prd["class"] in rushList
+    print(prd["class"], prd["class"] in blockerList)
     agent_data[card_type].append({
         "class": prd["class"],
         "position": pos_in_table(prd),
@@ -126,7 +132,9 @@ def add_card(prd: Dict, agent_data: Dict, card_type: str):
         "y": prd["y"],
         "confidence": prd["confidence"],
         "isRested": isRested,
-        "attached_don": 0
+        "attached_don": 0,
+        "isBlocker": isBlocker,
+        "isRush": isRush
     })
 
 def pos_in_table(prd: Dict) -> int:
@@ -150,7 +158,7 @@ def format_main_cards_player(prd: Dict, player_data: Dict):
         if(prd["x"] > 950 and prd["x"] < 1058):
             add_card(prd, player_data, "leader")
 
-    elif(prd["x"] < 600): # HAND
+    if(prd["x"] < 600): # HAND
         add_card(prd, player_data, "hand")
 
     elif(prd["y"] > 630 and prd["y"] < 780): # CHARACTER
